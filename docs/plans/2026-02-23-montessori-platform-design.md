@@ -398,9 +398,15 @@ materials_inventory
   next_in_sequence JSONB (material codes that follow)
   cross_subject_connections JSONB
   supplier_links JSONB (optional)
+  purchase_url TEXT (link to Adena Montessori product page)
   diy_alternative TEXT (optional instructions for homemade version)
   created_at TIMESTAMPTZ
 ```
+
+**Materials Supplier Integration:** Parents will have access to the full materials inventory with direct purchase links to [Adena Montessori](https://adenamontessori.com). Adena sells complete Montessori material packages:
+- **Elementary Package (6-12):** 118 items, ~$3,499 (product codes match our inventory: C010, L032, G010, etc.)
+- Individual items also available for purchase
+- The parent dashboard "Materials" section will show what's needed for upcoming lessons with direct links to purchase from Adena.
 
 ### 3.5 Progress Tracking
 

@@ -267,6 +267,7 @@ export interface MaterialsInventory {
   next_in_sequence: string[];
   cross_subject_connections: string[];
   supplier_links: string[];
+  purchase_url: string | null;
   diy_alternative: string | null;
   created_at: string;
 }

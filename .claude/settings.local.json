@@ -11,7 +11,14 @@
       "Bash(cp:*)",
       "Bash(cd \"C:/Users/Admin/OneDrive/Documents/ClaudeProjects/Montessori\" && pnpm install 2>&1)",
       "Bash(cd \"C:/Users/Admin/OneDrive/Documents/ClaudeProjects/Montessori\" && pnpm add @supabase/supabase-js @supabase/ssr stripe @stripe/stripe-js zustand date-fns clsx 2>&1)",
-      "Bash(cd:*)"
+      "Bash(cd:*)",
+      "WebFetch(domain:adenamontessori.com)",
+      "mcp__plugin_playwright_playwright__browser_navigate",
+      "mcp__plugin_playwright_playwright__browser_close",
+      "Bash(head:*)",
+      "Bash(cd \"C:/Users/Admin/OneDrive/Documents/ClaudeProjects/Montessori\" && node -e \"const s = require\\('stripe'\\); console.log\\('Stripe version:', require\\('stripe/package.json'\\).version\\)\" 2>&1 || pnpm node -e \"console.log\\(require\\('stripe/package.json'\\).version\\)\" 2>&1)",
+      "Bash(cd \"C:/Users/Admin/OneDrive/Documents/ClaudeProjects/Montessori\" && npx tsc --noEmit 2>&1)",
+      "Bash(tail:*)"
     ]
   }
 }
