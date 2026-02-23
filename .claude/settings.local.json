@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node:*)",
+      "Bash(python3:*)",
+      "WebFetch(domain:doc-0k-58-docstext.googleusercontent.com)",
+      "Bash(powershell:*)",
+      "Bash(echo pnpm not found:*)",
+      "Bash(npm install:*)",
+      "Bash(cd \"C:/Users/Admin/OneDrive/Documents/ClaudeProjects/Montessori\" && pnpm create next-app@latest . --typescript --tailwind --eslint --app --src-dir --import-alias \"@/*\" --use-pnpm --yes 2>&1)",
+      "Bash(cp:*)",
+      "Bash(cd \"C:/Users/Admin/OneDrive/Documents/ClaudeProjects/Montessori\" && pnpm install 2>&1)",
+      "Bash(cd \"C:/Users/Admin/OneDrive/Documents/ClaudeProjects/Montessori\" && pnpm add @supabase/supabase-js @supabase/ssr stripe @stripe/stripe-js zustand date-fns clsx 2>&1)",
+      "Bash(cd:*)"
+    ]
+  }
+}
