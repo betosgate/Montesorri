@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect, useRef, useCallback } from 'react';
+import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import clsx from 'clsx';
 import type { Slide } from '@/lib/types/database';
 import TitleSlide from './slides/title-slide';
@@ -19,6 +19,69 @@ interface SlidePlayerProps {
   audioUrl?: string;
   lessonTitle: string;
   onComplete?: () => void;
+}
+
+// ---------------------------------------------------------------------------
+// Normalize raw JSON slides to match TypeScript Slide types
+// The JSON data uses different field names (heading/subheading/items/text/prompt)
+// than the TS types (title/subtitle/materials/content/instructions).
+// ---------------------------------------------------------------------------
+
+// eslint-disable-next-line @typescript-eslint/no-explicit-any
+function normalizeSlide(raw: any): Slide {
+  switch (raw.type) {
+    case 'title':
+      return {
+        type: 'title',
+        title: raw.title || raw.heading || '',
+        subtitle: raw.subtitle || raw.subheading || null,
+        image_url: raw.image_url || null,
+      };
+    case 'materials':
+      return {
+        type: 'materials',
+        title: raw.title || 'Materials Needed',
+        materials: raw.materials || raw.items || [],
+        image_url: raw.image_url || null,
+      };
+    case 'instruction':
+      return {
+        type: 'instruction',
+        title: raw.title || (raw.step ? `Step ${raw.step}` : ''),
+        content: raw.content || raw.text || '',
+        image_url: raw.image_url || null,
+        demonstration_notes: raw.demonstration_notes || null,
+      };
+    case 'activity':
+      return {
+        type: 'activity',
+        title: raw.title || 'Activity Time',
+        instructions: raw.instructions || raw.prompt || '',
+        duration_minutes: raw.duration_minutes ?? null,
+        image_url: raw.image_url || null,
+      };
+    case 'check_understanding':
+      return {
+        type: 'check_understanding',
+        title: raw.title || 'Check Understanding',
+        questions: raw.questions || [],
+        expected_responses: raw.expected_responses || [],
+      };
+    case 'wrap_up':
+      return {
+        type: 'wrap_up',
+        title: raw.title || 'Wrap Up',
+        summary: raw.summary || raw.text || '',
+        next_steps: raw.next_steps || raw.mastery_check || null,
+        extension_activities: raw.extension_activities || [],
+      };
+    default:
+      return raw as Slide;
+  }
+}
+
+function normalizeSlides(raw: Slide[]): Slide[] {
+  return raw.map(normalizeSlide);
 }
 
 // ---------------------------------------------------------------------------
@@ -50,11 +113,14 @@ function getActivityDuration(slide: Slide): number {
 // ---------------------------------------------------------------------------
 
 export default function SlidePlayer({
-  slides,
+  slides: rawSlides,
   audioUrl,
   lessonTitle,
   onComplete,
 }: SlidePlayerProps) {
+  // Normalize raw JSON field names to match TypeScript types
+  const slides = useMemo(() => normalizeSlides(rawSlides), [rawSlides]);
+
   // ---- Navigation state ---------------------------------------------------
   const [currentSlideIndex, setCurrentSlideIndex] = useState(0);
 
