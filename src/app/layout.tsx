@@ -7,9 +7,28 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: 'Montessori Homeschool',
+  title: {
+    default: 'Montessori Homeschool — Complete K-6 Curriculum Platform',
+    template: '%s | Montessori Homeschool',
+  },
   description:
-    'A complete K-6 Montessori homeschool platform with daily lessons, live classes, progress tracking, and parent community.',
+    'A complete K-6 Montessori homeschool platform with daily lessons, live Zoom classes, mastery tracking, and parent community. $50/month per student.',
+  keywords: [
+    'Montessori',
+    'homeschool',
+    'curriculum',
+    'K-6',
+    'elementary',
+    'online learning',
+    'Montessori at home',
+    'homeschool program',
+  ],
+  openGraph: {
+    title: 'Montessori Homeschool — Complete K-6 Curriculum',
+    description:
+      'Full Montessori curriculum with daily lessons, live classes, and progress tracking. Everything you need to homeschool the Montessori way.',
+    type: 'website',
+  },
 };
 
 export default function RootLayout({

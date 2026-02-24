@@ -14,11 +14,17 @@ interface NavItem {
 const navByRole: Record<UserRole, NavItem[]> = {
   parent: [
     { label: 'Home', href: '/dashboard' },
+    { label: 'Today\'s Lessons', href: '/dashboard/lessons' },
     { label: 'Calendar', href: '/dashboard/calendar' },
+    { label: 'Work Plans', href: '/dashboard/work-plans' },
     { label: 'My Students', href: '/dashboard/students' },
     { label: 'Progress', href: '/dashboard/progress' },
+    { label: 'Observations', href: '/dashboard/observations' },
+    { label: 'Assessments', href: '/dashboard/assessments' },
+    { label: 'Portfolio', href: '/dashboard/portfolio' },
     { label: 'Classes', href: '/dashboard/classes' },
     { label: 'Community', href: '/dashboard/community' },
+    { label: 'Reports', href: '/dashboard/reports' },
     { label: 'Account', href: '/dashboard/account' },
   ],
   teacher: [
@@ -26,6 +32,7 @@ const navByRole: Record<UserRole, NavItem[]> = {
     { label: 'My Schedule', href: '/dashboard/schedule' },
     { label: 'My Classes', href: '/dashboard/classes' },
     { label: 'Students', href: '/dashboard/students' },
+    { label: 'Observations', href: '/dashboard/observations' },
     { label: 'Profile', href: '/dashboard/profile' },
   ],
   admin: [
@@ -38,7 +45,9 @@ const navByRole: Record<UserRole, NavItem[]> = {
     { label: 'Settings', href: '/dashboard/settings' },
   ],
   student: [
-    { label: 'Home', href: '/dashboard' },
+    { label: 'Home', href: '/student' },
+    { label: 'My Lessons', href: '/student/lessons' },
+    { label: 'My Progress', href: '/student/progress' },
   ],
 };
 

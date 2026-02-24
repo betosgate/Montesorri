@@ -8,8 +8,8 @@ function isPublicPath(pathname: string): boolean {
   if (publicPaths.includes(pathname)) {
     return true;
   }
-  // Allow all webhook API routes
-  if (pathname.startsWith("/api/webhooks/")) {
+  // Allow all webhook and cron API routes
+  if (pathname.startsWith("/api/webhooks/") || pathname.startsWith("/api/cron/")) {
     return true;
   }
   return false;

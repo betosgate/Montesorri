@@ -1,0 +1,699 @@
+[
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "language",
+    "week_number": 27,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Q3 Writing Portfolio — Self-Assessment and Goal Setting",
+    "description": "Students review their writing portfolio from Quarter 3, assessing their growth in journalism and persuasive writing. They identify strengths, areas for improvement, and set goals for Q4.",
+    "instructions": "1. Gather all writing samples from Q3: news articles, persuasive essays, journal entries.\n2. Create a portfolio table of contents.\n3. Read through each piece and reflect: What am I proud of? What would I change?\n4. Complete a self-assessment rubric for each major piece.\n5. Identify patterns: What skills have improved? What still needs work?\n6. Set 3 specific writing goals for Q4.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["All Q3 writing samples", "Portfolio folder or binder", "Self-assessment rubric", "Goal-setting worksheet", "Pencil", "Sticky notes for comments"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Writing Portfolio", "subheading": "Self-Assessment and Goal Setting"},
+        {"type": "materials", "items": ["All Q3 writing samples", "Portfolio folder or binder", "Self-assessment rubric", "Goal-setting worksheet", "Pencil", "Sticky notes"], "setup_instructions": "Gather ALL writing from Q3 — news articles, persuasive essays, journal entries, research, poems. Prepare a self-assessment rubric with categories: Ideas, Organization, Voice, Word Choice, Sentence Fluency, Conventions."},
+        {"type": "instruction", "step": 1, "text": "Spread out all Q3 writing. 'Look at everything you've written this quarter! From research reports to news articles to persuasive essays — that's a LOT of writing. Today we're going to organize it, reflect on it, and celebrate your growth.'"},
+        {"type": "instruction", "step": 2, "text": "Create a table of contents. List each piece with its date and type (news article, persuasive essay, journal entry, etc.). 'A table of contents shows the range of your work. You're not just a story writer or just a report writer — you're a versatile writer!'"},
+        {"type": "instruction", "step": 3, "text": "Self-assess each major piece. Use the rubric: Ideas (clear and focused?), Organization (logical order?), Voice (sounds like YOU?), Word Choice (precise and varied?), Sentence Fluency (flows well when read aloud?), Conventions (spelling, grammar, punctuation). Rate each 1-4."},
+        {"type": "instruction", "step": 4, "text": "Look for patterns: 'Which category is your strongest? That's your superpower! Which needs the most improvement? That's your goal. Be honest but kind with yourself — every writer has strengths AND areas to grow.'"},
+        {"type": "activity", "prompt": "Select your BEST piece of writing from Q3 — the one you're most proud of. Write a paragraph explaining why you chose it and what makes it good. Then set 3 specific goals for Q4. Use this format: 'I will improve my _____ by _____.' (Example: 'I will improve my word choice by using a thesaurus.')", "duration_minutes": 15},
+        {"type": "wrap_up", "text": "Share your best piece and your goals. 'Self-assessment is one of the most powerful learning tools. Professional writers constantly evaluate their own work. Your Q3 portfolio shows incredible growth — let's build on it in Q4!'", "mastery_check": "Can the child objectively assess their writing using a rubric, identify strengths and weaknesses, and set specific improvement goals?"}
+      ]
+    },
+    "parent_notes": "Portfolio review is a Montessori staple — it teaches self-reflection and metacognition (thinking about your own thinking). Resist the urge to correct or grade; let the child evaluate their own work. Your role is to ask guiding questions: 'What do you notice about your writing from the beginning of the quarter vs. the end? What risks did you take?' If the child is overly critical, point out specific strengths. If they're overly generous, gently ask if there's one thing they could improve. The goals should be specific and achievable — not 'write better' but 'use more descriptive adjectives.'",
+    "age_adaptations": null,
+    "sort_order": 1
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "math",
+    "week_number": 27,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Q3 Math Review — Fractions and Decimals",
+    "description": "Students review fraction operations (addition, subtraction, multiplication, division) and decimal operations (addition, subtraction) from Quarter 3, identifying areas of confidence and areas needing additional practice.",
+    "instructions": "1. Warm up with fraction identification and comparison.\n2. Review fraction addition and subtraction with unlike denominators.\n3. Review fraction multiplication and division.\n4. Review decimal addition and subtraction.\n5. Mixed practice with word problems.\n6. Self-assessment: rate confidence 1-5 for each skill.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Fraction strips or circles", "Fraction number line", "Pencil", "Notebook", "Review worksheet with mixed problems", "Colored pencils for self-assessment"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Math Review", "subheading": "Fractions and Decimals"},
+        {"type": "materials", "items": ["Fraction strips or circles", "Fraction number line", "Pencil", "Notebook", "Review worksheet", "Colored pencils"], "setup_instructions": "Prepare a review worksheet with 4-5 problems for each skill: fraction comparison, addition/subtraction with unlike denominators, multiplication/division, and decimal addition/subtraction. Include word problems."},
+        {"type": "instruction", "step": 1, "text": "Warm up: 'Let's start with fractions. Compare these pairs: Which is greater — 3/4 or 2/3? How about 5/8 or 1/2? Remember: find a common denominator or convert to decimals to compare.' Use fraction strips for visual support."},
+        {"type": "instruction", "step": 2, "text": "Review addition/subtraction with unlike denominators: '2/3 + 1/4 = ? First find the LCD (12). Convert: 8/12 + 3/12 = 11/12.' Work through 2-3 problems together, checking with fraction strips. Then: '5/6 - 1/3 = ? Convert: 5/6 - 2/6 = 3/6 = 1/2.'"},
+        {"type": "instruction", "step": 3, "text": "Review fraction multiplication: '2/3 x 3/4 = ? Multiply numerators: 2 x 3 = 6. Multiply denominators: 3 x 4 = 12. Answer: 6/12 = 1/2.' Division: '2/3 ÷ 1/4 = ? Flip and multiply: 2/3 x 4/1 = 8/3 = 2 2/3.'"},
+        {"type": "instruction", "step": 4, "text": "Review decimals: '3.45 + 2.7 = ? Line up decimal points! 3.45 + 2.70 = 6.15.' Subtraction: '5.3 - 2.85 = ? Line up: 5.30 - 2.85 = 2.45.' The key: always line up the decimal point and add zeros as placeholders."},
+        {"type": "activity", "prompt": "Complete the review worksheet independently. For each section, try the problems without help first. If you get stuck, use your fraction strips or reference materials. After finishing, rate your confidence for each skill on a scale of 1-5. Star any problems you found tricky.", "duration_minutes": 18},
+        {"type": "wrap_up", "text": "Review answers together. Discuss the starred problems. 'Everyone has different strengths. The skills you rated 4-5 are your strengths. The ones rated 1-2 need extra practice this week. That's not a weakness — it's a plan!'", "mastery_check": "Can the child perform fraction operations and decimal operations with reasonable accuracy, and honestly assess their own skill level?"}
+      ]
+    },
+    "parent_notes": "This review helps identify gaps before Q4 builds on these skills. Watch for common errors: not finding common denominators before adding fractions, forgetting to simplify, misaligning decimal points. If the child struggles with a particular skill, don't drill it — go back to the concrete materials (fraction strips, base-ten blocks for decimals). The self-assessment is valuable: children who can identify what they know and don't know are more effective learners. Focus extra practice on the low-confidence areas during the rest of review week.",
+    "age_adaptations": null,
+    "sort_order": 2
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "history",
+    "week_number": 27,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Q3 History Review — Renaissance Through American Revolution Timeline",
+    "description": "Students review all Q3 history topics by creating a comprehensive illustrated timeline from the Renaissance through the American Revolution, identifying cause-and-effect chains across historical periods.",
+    "instructions": "1. Lay out the full timeline from Renaissance to American Revolution.\n2. Review each period: Renaissance, Exploration, Scientific Revolution, Enlightenment, Industrial Revolution, American Revolution.\n3. For each period, recall key people, events, and ideas.\n4. Draw cause-and-effect arrows between periods.\n5. Create an illustrated timeline with key images.\n6. Practice narrating the story of Q3 history.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Long paper for timeline (butcher paper or taped sheets)", "Colored pencils and markers", "Index cards with dates and events", "All Q3 history work for reference", "Ruler"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 History Review", "subheading": "Renaissance Through American Revolution"},
+        {"type": "materials", "items": ["Long paper for timeline (butcher paper)", "Colored pencils and markers", "Index cards with dates and events", "Q3 history work for reference", "Ruler"], "setup_instructions": "Lay out a long piece of paper (at least 4 feet). Gather all history work from Q3: timeline entries, illustrations, maps, essays. Prepare index cards with key dates if the child needs prompts."},
+        {"type": "instruction", "step": 1, "text": "Set up the timeline: 'We're going to create the ULTIMATE Q3 timeline — everything we've studied this quarter on one long paper. Start at 1400 (Renaissance) and go to 1783 (end of American Revolution). That's almost 400 years of history!'"},
+        {"type": "instruction", "step": 2, "text": "Review each period together. Renaissance (1400s-1600s): rebirth of art, science, learning. Key people: Leonardo, Michelangelo, Gutenberg. Exploration (1400s-1600s): Columbus, Magellan, new routes. Scientific Revolution (1500s-1700s): Copernicus, Galileo, Newton. Enlightenment (1600s-1700s): Locke, reason, rights."},
+        {"type": "instruction", "step": 3, "text": "Continue: Industrial Revolution (1760s-1800s): steam engine, factories, railways, child labor. American Revolution (1765-1783): taxation, Declaration of Independence, George Washington. 'Now draw ARROWS showing cause and effect: How did the Renaissance lead to the Scientific Revolution? How did the Enlightenment inspire the American Revolution?'"},
+        {"type": "instruction", "step": 4, "text": "Add illustrations: Draw small pictures for each entry — a printing press for Gutenberg, a ship for exploration, a steam engine for the Industrial Revolution, a quill pen for the Declaration. 'A good timeline tells the story through words AND images.'"},
+        {"type": "activity", "prompt": "Complete the illustrated timeline with at least 15 entries. Include dates, names, and small illustrations. Draw at least 5 cause-and-effect arrows connecting different periods. Then practice: Can you tell the entire story of Q3 history from your timeline? Tell it to someone!", "duration_minutes": 18},
+        {"type": "wrap_up", "text": "Display the timeline. 'See how each period connects to the next? History isn't a list of separate events — it's a story where each chapter leads to the next. The ideas of the Renaissance led to science, which led to the Enlightenment, which inspired revolutions. Ideas are the thread that connects it all.'", "mastery_check": "Can the child create a comprehensive timeline of Q3 history and explain cause-and-effect relationships between historical periods?"}
+      ]
+    },
+    "parent_notes": "This timeline is a powerful synthesis activity. The cause-and-effect arrows are the most important part — they show the child that history is interconnected, not a series of disconnected facts. Key connections to highlight: printing press → spread of ideas → Scientific Revolution; Enlightenment ideas about rights → American Revolution; Industrial Revolution in England happening simultaneously with the American Revolution. Display this timeline prominently — it's a visual summary of an entire quarter of learning and a reference for Q4.",
+    "age_adaptations": null,
+    "sort_order": 3
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "geography",
+    "week_number": 27,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Q3 Geography Review — World Map of Historical Events",
+    "description": "Students create a world map showing where all Q3 historical events took place, connecting geography to history and seeing the global scope of the changes they studied.",
+    "instructions": "1. Lay out a large blank world map.\n2. Review each Q3 topic and its geographic location.\n3. Mark locations: Renaissance Italy, exploration routes, Enlightenment Europe, industrial England, American colonies.\n4. Add labels, dates, and color coding.\n5. Discuss: How did geography connect these events? (Trade routes, oceans, resources.)\n6. Compare this map to Q1 and Q2 geography work.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Large blank world map", "Colored pencils and markers", "Atlas for reference", "All Q3 geography maps", "Labels or sticky flags", "Ruler"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Geography Review", "subheading": "World Map of Historical Events"},
+        {"type": "materials", "items": ["Large blank world map", "Colored pencils and markers", "Atlas", "All Q3 geography maps", "Labels or sticky flags", "Ruler"], "setup_instructions": "Print a large blank world map (at least 11x17 or tape smaller ones together). Gather all Q3 maps: Industrial England, 13 colonies, battle sites, biome maps. Have the atlas available."},
+        {"type": "instruction", "step": 1, "text": "Introduce the task: 'This quarter we've traveled the world through history and geography. Today we'll put it all on ONE map. This is like a bird's-eye view of Q3 — seeing everything at once.'"},
+        {"type": "instruction", "step": 2, "text": "Color-code by topic. Red for Renaissance (Italy, spreading to Europe). Blue for exploration routes (Columbus, Magellan). Green for Scientific Revolution and Enlightenment (Europe-wide). Orange for Industrial Revolution (England). Purple for American Revolution (13 colonies). Add a key."},
+        {"type": "instruction", "step": 3, "text": "Add details within each region: in England, mark coalfields and railways. In the American colonies, mark major battles. For exploration, trace the routes. For the Renaissance, mark key cities like Florence, Rome, and Venice."},
+        {"type": "instruction", "step": 4, "text": "Draw connecting arrows across the map: 'How did ideas and people move? Explorers sailed from Europe to America. Enlightenment ideas crossed the Atlantic and inspired the American Revolution. English industrial products were shipped around the world.'"},
+        {"type": "activity", "prompt": "Complete the world map with all Q3 events, color-coded and labeled. Include a detailed map key. Draw at least 3 arrows showing how ideas, people, or goods moved between regions. Write a paragraph on the back: What surprised you about where these events happened?", "duration_minutes": 18},
+        {"type": "wrap_up", "text": "Stand back and look at the whole map. 'Notice how much happened in Europe, and how those events spread to the rest of the world. In Q4, we'll see how the ideas of revolution spread further — to France and beyond.'", "mastery_check": "Can the child locate all Q3 historical events geographically and explain connections between locations?"}
+      ]
+    },
+    "parent_notes": "This synthesis map is a powerful visual tool. The child should begin to see a pattern: much of Q3 focused on Europe and its expansion into the Americas. This is not a value judgment but a historical reality of the period studied. In Q4, the perspective will broaden further. The connecting arrows are crucial — they show that no event happened in isolation. Ideas, goods, and people flowed across oceans. If the map is large enough, display it alongside the timeline. Together, they show WHEN and WHERE history happened.",
+    "age_adaptations": null,
+    "sort_order": 4
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 27,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Read-Aloud: Student's Choice — Favorite Q3 Book Revisit",
+    "description": "The student selects their favorite read-aloud from Q3 to revisit, explaining why they chose it, reading their favorite passage aloud, and reflecting on how their understanding has deepened.",
+    "instructions": "1. Display all Q3 read-aloud books.\n2. Have the child choose their favorite and explain why.\n3. The child reads their favorite passage aloud (practicing fluency).\n4. Discuss: 'Do you understand this book differently now than when we first read it?'\n5. Connect the book to other Q3 learning.\n6. Journal entry: 'My Favorite Q3 Read-Aloud.'",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["All Q3 read-aloud books", "Reading journal", "Pencil", "Colored pencils", "Bookmarks or sticky notes for favorite passages"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Read-Aloud", "subheading": "Student's Choice — Q3 Favorite Revisit"},
+        {"type": "materials", "items": ["All Q3 read-aloud books", "Reading journal", "Pencil", "Colored pencils", "Bookmarks or sticky notes"], "setup_instructions": "Display all read-aloud books from Q3 where the child can see them. Have sticky notes available for marking favorite passages."},
+        {"type": "instruction", "step": 1, "text": "Display the Q3 books. 'Look at all these amazing books we've read this quarter! From The Lorax to Paul Revere — we've traveled through time and around the world. Today, YOU get to choose which one we revisit.'"},
+        {"type": "instruction", "step": 2, "text": "Ask the child to choose and explain: 'Which book is your favorite from this quarter? Why? What made it special to you? Was it the story, the characters, the illustrations, or the ideas?'"},
+        {"type": "instruction", "step": 3, "text": "Have the child find their favorite passage and read it aloud. Coach reading fluency: expression, pacing, character voices. 'Reading aloud is a performance — bring the words to life!'"},
+        {"type": "activity", "prompt": "In your reading journal, write about your favorite Q3 read-aloud: What is the title and author? Why is it your favorite? What was the most important lesson or idea from the book? How did it connect to what we were learning in history or science? Draw your favorite scene.", "duration_minutes": 15},
+        {"type": "wrap_up", "text": "Share your journal entry. 'Books are like friends — some stay with you long after you finish reading them. The best books change how you think about the world. Which Q3 book changed how YOU think?'", "mastery_check": "Can the child articulate why they chose a particular book, read a passage with fluency and expression, and connect the book to broader Q3 learning?"}
+      ]
+    },
+    "parent_notes": "Student choice is a core Montessori principle — it builds agency and intrinsic motivation. Whatever the child chooses is valid; there's no wrong answer. The re-reading experience is valuable: encountering a text again after studying related topics often deepens understanding. The read-aloud practice builds fluency and confidence. If the child wants to read the entire book again, that's wonderful — rereading favorite books is a sign of a developing reader, not a regression.",
+    "age_adaptations": null,
+    "sort_order": 5
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "language",
+    "week_number": 27,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Peer Editing Workshop — Giving and Receiving Feedback",
+    "description": "Students learn the art of constructive feedback by practicing peer editing techniques. They develop skills in identifying strengths in others' writing and suggesting improvements respectfully.",
+    "instructions": "1. Discuss: 'Why is feedback important? How can we give feedback that helps without hurting?'\n2. Introduce the 'Compliment Sandwich': praise, suggestion, praise.\n3. Model peer editing with a sample piece of writing.\n4. Practice: read a peer's (or parent's) writing and apply the feedback formula.\n5. Receive feedback on your own writing.\n6. Reflect: What feedback was most helpful? Why?",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Writing samples for editing practice", "Peer editing checklist", "Colored pens (green for praise, orange for suggestions)", "Notebook", "Pencil"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Peer Editing Workshop", "subheading": "Giving and Receiving Feedback"},
+        {"type": "materials", "items": ["Writing samples for editing practice", "Peer editing checklist", "Colored pens (green for praise, orange for suggestions)", "Notebook", "Pencil"], "setup_instructions": "Write or print a sample piece with deliberate strengths and weaknesses for modeling. Prepare a peer editing checklist: 1) What did the writer do well? 2) What could be clearer? 3) What would make this even better? 4) Any errors to fix?"},
+        {"type": "instruction", "step": 1, "text": "Introduce the concept: 'Every professional writer has editors — people who read their work and help make it better. Today, you'll learn to be an editor AND to receive editing gracefully. Both skills are important.'"},
+        {"type": "instruction", "step": 2, "text": "Teach the Compliment Sandwich: 'When giving feedback, start with something POSITIVE (\"I loved your opening sentence because...\"). Then offer a SUGGESTION (\"The middle paragraph could be stronger if you added more details about...\"). End with another POSITIVE (\"Your conclusion was powerful!\").'"},
+        {"type": "instruction", "step": 3, "text": "Model with a sample: read it aloud. Use green pen to underline strong parts. Use orange pen to circle areas that could improve. Write comments using the formula: 'This is great because... This could be even better if... One more thing I loved was...'"},
+        {"type": "instruction", "step": 4, "text": "Discuss receiving feedback: 'When someone edits your work, listen without arguing. Say thank you. You don't have to change everything they suggest — you're the author. But consider every piece of feedback carefully. The best writers welcome editing.'"},
+        {"type": "activity", "prompt": "Exchange writing with your editing partner (parent or sibling). Use the peer editing checklist and colored pens to give feedback. Write at least 2 green (praise) comments and 1 orange (suggestion) comment. Then receive feedback on YOUR writing. Read it, think about it, and decide which suggestions to use.", "duration_minutes": 18},
+        {"type": "wrap_up", "text": "Discuss: 'What feedback did you receive that was most helpful? What was hardest to hear? How will you use the feedback to improve your writing?' The ability to give and receive constructive feedback is a life skill that extends far beyond writing.", "mastery_check": "Can the child give constructive feedback using the compliment sandwich method and receive feedback with an open mind?"}
+      ]
+    },
+    "parent_notes": "Peer editing builds social-emotional skills alongside writing skills. In a homeschool setting, you (the parent) may be the 'peer' — which is fine. Write your own short piece for the child to edit (this models vulnerability and shows that everyone's writing can improve). The green/orange pen system makes feedback visual and balanced. If the child takes criticism hard, emphasize that editing is about the WRITING, not the WRITER. Famous authors go through many rounds of editing. This skill transfers to all collaborative work throughout life.",
+    "age_adaptations": null,
+    "sort_order": 6
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "math",
+    "week_number": 27,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Q3 Math Review — Geometry and Measurement",
+    "description": "Students review geometric concepts (area, perimeter, volume, angles, triangles, quadrilaterals) and measurement skills (metric units, conversions) from Quarter 3.",
+    "instructions": "1. Review area formulas: rectangle, triangle, parallelogram.\n2. Review perimeter of various shapes.\n3. Review volume of rectangular prisms.\n4. Review angle measurement and types.\n5. Mixed practice with real-world problems.\n6. Self-assessment: rate confidence for each geometry skill.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Ruler", "Protractor", "Unit cubes", "Graph paper", "Review worksheet", "Pencil", "Geometry reference sheet"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Math Review", "subheading": "Geometry and Measurement"},
+        {"type": "materials", "items": ["Ruler", "Protractor", "Unit cubes", "Graph paper", "Review worksheet", "Pencil", "Geometry reference sheet"], "setup_instructions": "Prepare a review worksheet covering: area of rectangles and triangles, perimeter, volume, angle measurement. Include diagrams and word problems. Have hands-on tools available."},
+        {"type": "instruction", "step": 1, "text": "Review area formulas. 'Area of a rectangle = length x width. Area of a triangle = (base x height) / 2. Area of a parallelogram = base x height. What are the UNITS? Square units (cm², in²) because we're covering a 2D surface.'"},
+        {"type": "instruction", "step": 2, "text": "Review perimeter: 'Perimeter is the distance AROUND a shape. Add all the sides. For a rectangle: P = 2l + 2w, or P = 2(l + w). Remember: area fills the inside, perimeter goes around the outside. A fence is perimeter; carpet is area.'"},
+        {"type": "instruction", "step": 3, "text": "Review volume: 'Volume = length x width x height. Units are CUBIC (cm³, in³) because we're filling a 3D space.' Build a quick example with cubes. 'How is volume different from area? Volume is 3D — it has depth.'"},
+        {"type": "instruction", "step": 4, "text": "Review angles: 'Acute (less than 90°), Right (exactly 90°), Obtuse (more than 90°), Straight (180°).' Use the protractor to measure 2-3 angles. 'Classify triangles: equilateral, isosceles, scalene. What about quadrilaterals? Square, rectangle, parallelogram, rhombus, trapezoid.'"},
+        {"type": "activity", "prompt": "Complete the geometry review. For each problem: show your work, label your units, and draw a diagram if helpful. Include: 2 area problems, 2 perimeter problems, 2 volume problems, and 2 angle/shape classification problems. Rate your confidence 1-5 for each category.", "duration_minutes": 18},
+        {"type": "wrap_up", "text": "Review answers and discuss any tricky problems. 'Geometry is everywhere — buildings, art, nature, sports fields. The formulas are tools that help you measure the world. Which geometry skill are you most confident about?'", "mastery_check": "Can the child calculate area, perimeter, and volume, measure angles, and classify shapes with reasonable accuracy?"}
+      ]
+    },
+    "parent_notes": "Geometry review should feel hands-on whenever possible. If the child struggles with formulas, go back to the concrete: use grid paper for area (count squares), walk around a room for perimeter, build with cubes for volume. The self-assessment continues to build metacognitive skills. Compare today's confidence ratings with Monday's fraction/decimal ratings to get a complete picture of where extra practice is needed. The areas rated lowest should get extra attention during the rest of the week.",
+    "age_adaptations": null,
+    "sort_order": 7
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "science",
+    "week_number": 27,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Q3 Science Review — Human Body Systems and Ecology",
+    "description": "Students review all human body systems (skeletal, muscular, circulatory, respiratory, digestive, nervous) and ecology concepts (food chains, biomes, adaptations, symbiosis) studied in Q3.",
+    "instructions": "1. Review each body system using diagrams and models.\n2. Quiz game: Name the system based on its function.\n3. Review ecology: food chains/webs, biomes, adaptations, symbiosis, endangered species.\n4. Create concept maps connecting all science topics.\n5. Identify connections between body systems and between ecology concepts.\n6. Prepare for the ecosystem design project later this week.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Human body diagrams/models", "Ecology vocabulary cards", "Large paper for concept map", "Colored pencils and markers", "Q3 science notebook for reference", "Quiz questions on index cards"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Science Review", "subheading": "Human Body Systems and Ecology"},
+        {"type": "materials", "items": ["Human body diagrams/models", "Ecology vocabulary cards", "Large paper for concept map", "Colored pencils and markers", "Q3 science notebook", "Quiz cards"], "setup_instructions": "Prepare quiz cards with questions about body systems and ecology. Lay out body system diagrams. Organize ecology vocabulary cards: biome, adaptation, food chain, food web, symbiosis, mutualism, commensalism, parasitism, endangered, extinct."},
+        {"type": "instruction", "step": 1, "text": "Quick body system review: 'Let's see how many systems you remember! I'll describe the function, you name the system. \"Breaks down food into nutrients?\" (Digestive) \"Pumps blood throughout the body?\" (Circulatory) \"Provides structure and protection?\" (Skeletal) \"Sends messages from the brain?\" (Nervous)'"},
+        {"type": "instruction", "step": 2, "text": "Review how systems work TOGETHER: 'The respiratory system brings in oxygen. The circulatory system carries it to cells. The digestive system provides nutrients that the blood delivers. The nervous system coordinates everything. No system works alone!'"},
+        {"type": "instruction", "step": 3, "text": "Ecology review: 'What's the difference between a food chain and a food web? (Web shows multiple connections.) Name the 6 biomes. What are structural vs. behavioral adaptations? What are the 3 types of symbiosis? What causes species to become endangered?'"},
+        {"type": "instruction", "step": 4, "text": "Create a concept map: put 'SCIENCE Q3' in the center. Branch to 'Body Systems' and 'Ecology.' Under each, branch to subtopics. Draw lines connecting related ideas across branches (e.g., 'respiratory system' connects to 'oxygen' connects to 'photosynthesis' in ecology)."},
+        {"type": "activity", "prompt": "Complete the concept map with at least 20 terms. Use colors: red for body systems, green for ecology. Draw arrows showing connections between topics. Circle any terms you need to study more. Then write 5 quiz questions you could ask someone else about Q3 science.", "duration_minutes": 18},
+        {"type": "wrap_up", "text": "Look at your concept map. 'Science is all connected — your body is an ecosystem, and ecosystems include living bodies. Later this week, you'll design your own ecosystem using everything you've learned!'", "mastery_check": "Can the child describe all major body systems, explain key ecology concepts, and identify connections between science topics?"}
+      ]
+    },
+    "parent_notes": "The concept map is a powerful review tool because it shows relationships rather than isolated facts. Don't worry about making it perfect — messy maps with lots of connections are better than neat ones with few connections. The quiz questions the child writes are particularly valuable: creating questions requires deeper understanding than answering them. If the child struggles with any topic, take note and revisit it during the ecosystem project. The body-systems-as-ecosystem analogy is a beautiful Montessori connection.",
+    "age_adaptations": null,
+    "sort_order": 8
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "art_music",
+    "week_number": 27,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Q3 Art Portfolio — Review and Exhibition",
+    "description": "Students review all art projects from Q3, select their best work, write artist statements, and prepare a mini art exhibition for family members.",
+    "instructions": "1. Gather all Q3 art projects.\n2. Sort and review: which pieces are you most proud of?\n3. Select 3-5 best pieces for the exhibition.\n4. Write an artist statement for each selected piece.\n5. Set up the exhibition with labels and artist statements.\n6. Open the exhibition to family viewers.",
+    "duration_minutes": 45,
+    "lesson_type": "project",
+    "materials_needed": ["All Q3 art projects", "Index cards for labels", "Pencil and pen", "Tape or easels for display", "Tablecloth for display table", "Optional: refreshments for opening"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Art Portfolio", "subheading": "Review and Exhibition"},
+        {"type": "materials", "items": ["All Q3 art projects", "Index cards for labels", "Pencil and pen", "Tape or easels for display", "Tablecloth", "Optional: refreshments"], "setup_instructions": "Gather all art from Q3: Lowry paintings, political cartoons, and any other art/music projects. Set up a display area — a table, wall space, or mantle. Have index cards ready for labels."},
+        {"type": "instruction", "step": 1, "text": "Spread out all Q3 art projects. 'An art exhibition showcases an artist's best work. Professional artists curate their exhibitions — they choose carefully which pieces to display. Today, YOU are the curator of your own show!'"},
+        {"type": "instruction", "step": 2, "text": "Review each piece. 'Think about: Which pieces show your best effort? Which ones teach the viewer something? Which ones make you feel proud? Which ones represent something you learned this quarter?' Select 3-5 pieces for the exhibition."},
+        {"type": "instruction", "step": 3, "text": "Write an artist statement for each piece on an index card. Include: title, medium (watercolor, pencil, etc.), what inspired it, and one sentence about what you want the viewer to notice. Example: 'Factory Town, watercolor. Inspired by L.S. Lowry's industrial paintings. Notice the grey sky and the tiny matchstick workers.'"},
+        {"type": "instruction", "step": 4, "text": "Set up the exhibition. Arrange pieces thoughtfully — think about which goes next to which. Place artist statements beside each piece. Add a gallery title: 'Q3 Art Exhibition by [Name], [Date].'"},
+        {"type": "activity", "prompt": "Complete the exhibition setup. Then practice being a gallery guide: Walk a visitor through your exhibition. For each piece, share the artist statement and answer questions. Be prepared to discuss your artistic choices: Why did you use those colors? What was challenging? What are you most proud of?", "duration_minutes": 15},
+        {"type": "wrap_up", "text": "Open the exhibition! Invite family members to view the art, read the statements, and ask questions. 'Being an artist isn't just about creating — it's about sharing your work and communicating your ideas. This exhibition celebrates everything you've accomplished this quarter!'", "mastery_check": "Can the child curate a selection of work, write informative artist statements, and present their art with confidence?"}
+      ]
+    },
+    "parent_notes": "Art exhibitions build pride, communication skills, and self-reflection. Take this seriously — set up a real display space, invite family members, and treat it like an event. Photographs of the exhibition become part of the child's portfolio. The artist statements develop writing skills in a meaningful context. If the child is shy about presenting, practice together first. Every genuine comment from viewers builds confidence. Consider making this a quarterly tradition — it's a tangible celebration of learning.",
+    "age_adaptations": null,
+    "sort_order": 9
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "practical_life",
+    "week_number": 27,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Planning and Organization — Study Skills for Q4",
+    "description": "Students develop planning and organizational skills by creating a study system, organizing their workspace, and setting up tools for Q4 success.",
+    "instructions": "1. Discuss: 'How do you organize your learning materials? What works? What doesn't?'\n2. Sort and file all Q3 materials into the portfolio.\n3. Clean and organize the learning workspace.\n4. Set up a Q4 organization system: folders, notebooks, calendar.\n5. Review Q4 preview: what subjects and topics are coming.\n6. Create a personal study schedule.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Q3 materials for filing", "Portfolio binder or folders", "New notebooks for Q4", "Calendar or planner", "Labels", "Storage bins or folders", "Cleaning supplies for workspace"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Planning and Organization", "subheading": "Study Skills for Q4"},
+        {"type": "materials", "items": ["Q3 materials for filing", "Portfolio binder or folders", "New notebooks for Q4", "Calendar or planner", "Labels", "Storage bins or folders", "Cleaning supplies"], "setup_instructions": "Set up sorting stations for Q3 materials. Have new folders and notebooks ready for Q4. Print a Q4 calendar. Have cleaning supplies for the workspace."},
+        {"type": "instruction", "step": 1, "text": "Start with reflection: 'Before we set up for Q4, let's think about Q3. What worked well for staying organized? What caused problems? Did you ever lose an assignment? Forget what you were working on? Let's solve those problems now.'"},
+        {"type": "instruction", "step": 2, "text": "Sort and file Q3 materials: 'Go through all your Q3 work. File the keepers in your portfolio by subject. Recycle anything you don't need. Put your best work in the front of each section — these are your highlights.'"},
+        {"type": "instruction", "step": 3, "text": "Clean the workspace: 'A clean, organized space helps you think clearly. Clear your desk, sharpen pencils, stock supplies. Put everything in a designated spot. When you know where things are, you spend more time learning and less time searching.'"},
+        {"type": "instruction", "step": 4, "text": "Set up Q4 systems: new notebook sections for each subject, a calendar with key dates, a daily checklist system. 'In Q4, you'll study the French Revolution, novel studies, order of operations, and physics. Having your materials ready means you can jump right in!'"},
+        {"type": "activity", "prompt": "Create your Q4 learning plan: Label folders or notebook sections for each subject. Set up your calendar with any known dates. Write a daily routine schedule: When do you work on each subject? When do you take breaks? Design a system that works for YOUR learning style.", "duration_minutes": 15},
+        {"type": "wrap_up", "text": "Take a photo of your organized workspace. 'Organization is a skill — like reading or math, it gets better with practice. Your Q4 setup is ready. You're walking into the new quarter prepared and confident!'", "mastery_check": "Can the child organize materials, set up a filing system, and create a personal study plan?"}
+      ]
+    },
+    "parent_notes": "Organization is a critical executive function skill. Children vary widely in their natural organizational ability — some are naturally tidy, others need explicit instruction and systems. The key is to create a system that the child can MAINTAIN independently. Start simple: one folder per subject, a daily checklist, and a designated workspace. If the child has been losing materials, solve the specific problem (a 'homework basket,' labeled folders, a routine check). This lesson connects to Montessori's emphasis on prepared environment — the child's workspace IS their prepared environment.",
+    "age_adaptations": null,
+    "sort_order": 10
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "language",
+    "week_number": 27,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Oral Presentation Skills — Preparing and Delivering a Q3 Report",
+    "description": "Students prepare and deliver a short oral presentation about their favorite Q3 learning topic, practicing public speaking skills including eye contact, volume, pacing, and organization.",
+    "instructions": "1. Choose a Q3 topic to present on (any subject).\n2. Plan the presentation: introduction, 3 main points, conclusion.\n3. Create visual aids (poster, diagram, or props).\n4. Practice delivery: eye contact, clear voice, good pacing.\n5. Deliver the presentation to family.\n6. Receive feedback and reflect.",
+    "duration_minutes": 45,
+    "lesson_type": "project",
+    "materials_needed": ["Presentation planning sheet", "Visual aid materials (poster board, markers)", "Timer", "Notebook for notes", "Pencil", "Any Q3 materials for props"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Oral Presentation Skills", "subheading": "Q3 Report"},
+        {"type": "materials", "items": ["Presentation planning sheet", "Poster board or large paper", "Markers and colored pencils", "Timer", "Notebook", "Q3 materials for props"], "setup_instructions": "Prepare a planning sheet with: Topic, Introduction (hook), Point 1, Point 2, Point 3, Conclusion. Have poster board available for visual aids. Set up a presentation area."},
+        {"type": "instruction", "step": 1, "text": "Choose your topic: 'You've learned SO much this quarter. Choose the topic you're most passionate about and could talk about for 3-5 minutes. It could be the Industrial Revolution, biomes, the American Revolution, graphing, persuasive writing — anything from Q3!'"},
+        {"type": "instruction", "step": 2, "text": "Plan using the structure: 'Introduction: Hook the audience with an interesting fact or question. Body: Share 3 main points about your topic. Use the phrase \"first... second... finally...\" to organize. Conclusion: Summarize and tell the audience why this topic matters.'"},
+        {"type": "instruction", "step": 3, "text": "Create a visual aid: a poster with key images and words, a diagram, a map, or even props (the candle you made, your newspaper, your artwork). 'Visual aids help the audience understand and remember your presentation.'"},
+        {"type": "instruction", "step": 4, "text": "Practice delivery skills: 'Stand up straight. Make eye contact with your audience — don't read from a paper. Speak loudly enough for the back row. Pause between points to let ideas sink in. Smile — you're sharing something you love!'"},
+        {"type": "activity", "prompt": "Practice your presentation at least 2 times. Time yourself — aim for 3-5 minutes. Use your visual aid. Then deliver it to your family audience. After, ask: Was anything unclear? What was the most interesting part? What could I improve?", "duration_minutes": 20},
+        {"type": "wrap_up", "text": "Reflect: 'How did it feel to present? What went well? What would you do differently next time?' Public speaking is a skill that improves with practice. Every presentation makes the next one easier.", "mastery_check": "Can the child plan, prepare, and deliver a 3-5 minute oral presentation with visual aids, demonstrating eye contact, clear voice, and organized content?"}
+      ]
+    },
+    "parent_notes": "Oral presentations build confidence that extends far beyond academics. Be an enthusiastic audience — nod, smile, and ask genuine follow-up questions. Record the presentation if the child is comfortable; they can watch it later to see what they did well. The visual aid requirement prevents the child from reading a paper — they must KNOW their content. If the child is nervous, normalize it: even professional speakers get nervous. The difference is practice. Consider making quarterly presentations a tradition.",
+    "age_adaptations": null,
+    "sort_order": 11
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "math",
+    "week_number": 27,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Q3 Math Review — Data, Graphing, and Probability",
+    "description": "Students review data analysis skills (mean, median, mode), graphing (bar, line, pictograph), and probability concepts from the most recent weeks.",
+    "instructions": "1. Quick review of mean, median, mode with practice problems.\n2. Review graph types: when to use each.\n3. Read and create a quick graph from data.\n4. Review probability vocabulary and fraction connections.\n5. Mixed practice problems.\n6. Math journal: write about your strongest and weakest Q3 math skills.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Review worksheet", "Graph paper", "Colored pencils", "Calculator", "Dice and coins for probability review", "Math journal or notebook", "Pencil"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Math Review", "subheading": "Data, Graphing, and Probability"},
+        {"type": "materials", "items": ["Review worksheet", "Graph paper", "Colored pencils", "Calculator", "Dice and coins", "Math journal", "Pencil"], "setup_instructions": "Prepare a review worksheet covering: calculating mean/median/mode, reading graphs, choosing graph types, and probability as fractions. Include a small data set for graph creation."},
+        {"type": "instruction", "step": 1, "text": "Quick-fire review: 'Data set: 4, 7, 7, 9, 3. Find the mean (add all: 30, divide by 5: 6). Find the median (put in order: 3, 4, 7, 7, 9 — middle is 7). Find the mode (7 appears most). Quick! Which measure is highest here? The median and mode are both 7!'"},
+        {"type": "instruction", "step": 2, "text": "Graph type review: 'When do you use a bar graph? (Comparing categories.) Line graph? (Change over time.) Pictograph? (Comparing categories with visual appeal.) How do you choose? Ask: Does my data show change over time? If yes → line graph. If comparing categories → bar or pictograph.'"},
+        {"type": "instruction", "step": 3, "text": "Probability review with hands-on tools: 'Roll a die. What's the probability of getting an even number? 3 out of 6 = 3/6 = 1/2. If a bag has 4 red and 6 blue marbles, what's the probability of drawing red? 4/10 = 2/5.' Practice expressing probability as simplified fractions."},
+        {"type": "instruction", "step": 4, "text": "Integration challenge: 'Here's a data set from a week of coin flips. Find the mean number of heads per day. Create a line graph showing heads per day over the week. What's the probability of getting heads on any single flip? Did the experimental results match the theoretical probability?'"},
+        {"type": "activity", "prompt": "Complete the review worksheet. Then in your math journal, write a paragraph about Q3 math: What was your favorite new skill? What was most challenging? What do you want to get better at in Q4? Include at least one example of a real-life situation where you could use data analysis or probability.", "duration_minutes": 18},
+        {"type": "wrap_up", "text": "Share your journal reflections. 'Data and probability are some of the most useful math skills in everyday life — from understanding the weather forecast to making smart decisions. You've built a strong foundation this quarter!'", "mastery_check": "Can the child calculate measures of center, choose and create appropriate graphs, and express probability as fractions?"}
+      ]
+    },
+    "parent_notes": "This is the third day of math review, covering the most recent material (which should be freshest). If the child is confident in data/graphing/probability but struggled with earlier fraction or geometry work, consider spending extra time on those. The math journal entry is valuable metacognition — children who can articulate what they know and don't know are more effective learners. Compare the three days of self-assessments to create a priority list for any remaining review time.",
+    "age_adaptations": null,
+    "sort_order": 12
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "history",
+    "week_number": 27,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Comparing Historical Periods — What Drove Change?",
+    "description": "Students analyze and compare the major historical periods studied in Q3, identifying common themes of change: new ideas, new technologies, and demands for rights and freedom.",
+    "instructions": "1. Review the Q3 timeline.\n2. Identify themes that appear across multiple periods.\n3. Create a comparison matrix: Renaissance, Scientific Revolution, Enlightenment, Industrial Revolution, American Revolution.\n4. For each: What changed? What caused the change? Who were the key people?\n5. Identify the common thread: IDEAS drive change.\n6. Discuss: How do these patterns continue today?",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Q3 timeline", "Comparison matrix template", "Pencil", "Colored pencils", "Notebook", "Index cards for key people and ideas"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Comparing Historical Periods", "subheading": "What Drove Change?"},
+        {"type": "materials", "items": ["Q3 timeline", "Comparison matrix template", "Pencil", "Colored pencils", "Notebook", "Index cards"], "setup_instructions": "Create a large comparison matrix with rows for each period and columns: Period, Time, What Changed, Cause of Change, Key People, Key Ideas, Location. Have the timeline visible for reference."},
+        {"type": "instruction", "step": 1, "text": "Look at the Q3 timeline. 'We've studied five major periods of change. Today we're going to be historians and look for PATTERNS. What do these periods have in common? How are they different? What can we learn about how the world changes?'"},
+        {"type": "instruction", "step": 2, "text": "Fill in the matrix together. Renaissance: Art and learning reborn. Caused by rediscovery of Greek/Roman ideas. Key people: Leonardo, Michelangelo. Key idea: humans can achieve great things. Scientific Revolution: Understanding nature through observation. Caused by questioning old beliefs. Key people: Galileo, Newton."},
+        {"type": "instruction", "step": 3, "text": "Continue: Enlightenment: Government should serve the people. Caused by scientific thinking applied to society. Key people: Locke, Voltaire. Key idea: natural rights. Industrial Revolution: Machines transform production. Caused by new technology and resources. Key people: Watt, Stephenson. American Revolution: Colonies seek independence. Caused by Enlightenment ideas and unfair taxation. Key people: Washington, Jefferson."},
+        {"type": "instruction", "step": 4, "text": "Find the patterns: 'What's the common thread? IDEAS! New ideas about art (Renaissance) led to new ideas about science (Scientific Revolution) which led to new ideas about government (Enlightenment) which led to new technologies (Industrial Revolution) and demands for freedom (American Revolution). Each period built on the one before.'"},
+        {"type": "activity", "prompt": "Complete the comparison matrix. Then write a paragraph answering: 'What drives change in history?' Use at least 3 examples from the matrix. Challenge: Can you identify a modern change (technology, politics, culture) that follows the same pattern? How is today's world still changing?", "duration_minutes": 15},
+        {"type": "wrap_up", "text": "The biggest lesson from Q3 history: IDEAS are powerful. 'One person's idea can change the world — whether it's a new way to paint, a new understanding of gravity, or the belief that all people are created equal. What ideas might change the world in YOUR lifetime?'", "mastery_check": "Can the child compare historical periods, identify common themes of change, and explain how ideas drive historical transformation?"}
+      ]
+    },
+    "parent_notes": "This is a high-level analytical lesson — the child is doing what historians do: synthesizing information across periods to find patterns. The key insight is that history is driven by IDEAS, not just events. Each period's ideas built on previous ones. This is profoundly optimistic: if ideas can change the world, then children's ideas matter too. The modern connection question is open-ended and may spark wonderful discussion. Possible answers: the internet, climate activism, space exploration. Let the child's interests guide the conversation.",
+    "age_adaptations": null,
+    "sort_order": 13
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "culture",
+    "week_number": 27,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Q3 Celebration — Cultural Showcase and Reflection",
+    "description": "Students celebrate Q3 achievements with a cultural showcase featuring their best work across all subjects, reflecting on growth and looking forward to Q4.",
+    "instructions": "1. Set up showcase stations: writing, art, history, science, math.\n2. Display best work from each subject area.\n3. The child guides family members through each station.\n4. Share favorite memories and biggest challenges.\n5. Receive recognition for Q3 accomplishments.\n6. Enjoy a special treat or activity to celebrate.",
+    "duration_minutes": 45,
+    "lesson_type": "project",
+    "materials_needed": ["All Q3 best work (sorted by subject)", "Display materials (table, wall space)", "Labels for each station", "Special snack or treat", "Camera for documentation", "Certificate of completion (optional)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Celebration", "subheading": "Cultural Showcase and Reflection"},
+        {"type": "materials", "items": ["All Q3 best work by subject", "Display materials", "Labels for stations", "Special snack or treat", "Camera", "Certificate of completion (optional)"], "setup_instructions": "Set up 5-6 display stations around the room: Writing, Art, History/Geography, Science, Math. Place the child's best work at each station. Add labels. Prepare a special treat to enjoy at the end."},
+        {"type": "instruction", "step": 1, "text": "Prepare the showcase: 'Today we celebrate everything you've accomplished in Q3! We're setting up a showcase — like a museum of YOUR learning. Each station represents a different subject with your best work displayed.'"},
+        {"type": "instruction", "step": 2, "text": "Set up the stations together: Writing station (newspaper, persuasive essay, journal entries). Art station (Lowry painting, political cartoon). History station (timeline, maps). Science station (biome booklet, body diagrams, concept map). Math station (graphs, problem sets)."},
+        {"type": "instruction", "step": 3, "text": "Practice the tour: 'When visitors arrive, you'll guide them through each station. At each one, share: what you learned, what you're most proud of, and what was challenging. This is YOUR showcase — you're the expert!'"},
+        {"type": "instruction", "step": 4, "text": "Reflection time: 'Before the visitors arrive, take a moment to think: What was your favorite subject this quarter? Your biggest challenge? Your proudest moment? If you could relive one Q3 lesson, which would it be?'"},
+        {"type": "activity", "prompt": "Guide your family through the showcase. At each station, spend 2-3 minutes sharing your work and what you learned. After the tour, share your reflections: favorite subject, biggest challenge, proudest moment. Then enjoy a special Q3 celebration treat together!", "duration_minutes": 20},
+        {"type": "wrap_up", "text": "Take a photo of the showcase and the proud scholar! 'Q3 was extraordinary — you studied the Industrial Revolution, learned journalism and persuasive writing, mastered data and probability, explored biomes and ecology, and so much more. Q4 starts next week with the French Revolution. Onward!'", "mastery_check": "Can the child confidently present their Q3 learning across all subjects and reflect thoughtfully on their growth?"}
+      ]
+    },
+    "parent_notes": "The Q3 celebration is a cornerstone of the Montessori approach — celebrating accomplishment builds intrinsic motivation and a positive relationship with learning. Make it special: invite grandparents (even by video call), prepare a favorite snack, play festive music. The showcase develops presentation skills and metacognition. Take photos for the portfolio — these become cherished memories. A simple certificate ('Congratulations on completing Quarter 3!') adds a touch of ceremony. The child has accomplished an extraordinary amount — make sure they feel that pride.",
+    "age_adaptations": null,
+    "sort_order": 14
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 27,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Read-Aloud: \"What Do You Do With an Idea?\" by Kobi Yamada",
+    "description": "Shared reading of this inspiring picture book about nurturing an idea from a small spark into something that changes the world, connecting to the Q3 theme of ideas driving change.",
+    "instructions": "1. Introduce the book: a story about a child who has an idea.\n2. Read the picture book aloud, savoring the illustrations.\n3. Discuss: How does the child in the book feel about their idea at first? How do those feelings change?\n4. Connect to Q3: ideas drove the Renaissance, the Scientific Revolution, the Enlightenment, and revolutions.\n5. Journal: 'My Big Idea' — what idea do you have that could change something?",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["What Do You Do With an Idea? by Kobi Yamada", "Reading journal", "Pencil", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Read-Aloud", "subheading": "What Do You Do With an Idea?"},
+        {"type": "materials", "items": ["What Do You Do With an Idea? by Kobi Yamada", "Reading journal", "Pencil", "Colored pencils"], "setup_instructions": "Have the book ready. This is a picture book with stunning illustrations — make sure the child can see the pictures clearly. Have the reading journal open."},
+        {"type": "instruction", "step": 1, "text": "Before reading: 'All quarter we've studied how IDEAS changed the world — ideas about art, science, government, technology, and freedom. This book is about the very beginning of that process: what happens when you first have an idea.'"},
+        {"type": "instruction", "step": 2, "text": "Read the book slowly, letting the illustrations speak. Pause on key pages: the child trying to ignore the idea, other people telling the child the idea is silly, the child finally nurturing and believing in the idea, and the magnificent ending where the idea changes the world."},
+        {"type": "instruction", "step": 3, "text": "Discuss: 'At first, the child was embarrassed by the idea. Other people didn't understand it. Have you ever had an idea that others didn't take seriously? How did that feel? What happened when the child started to believe in the idea?'"},
+        {"type": "activity", "prompt": "In your reading journal, write about YOUR big idea. It can be about anything: a new invention, a way to help your community, a creative project, a solution to a problem. Write what your idea is, why it matters, and what the first step to making it real would be. Draw your idea growing and changing the world.", "duration_minutes": 15},
+        {"type": "wrap_up", "text": "Share your big ideas. 'Every world-changing idea started as a small thought in someone's mind. Leonardo had an idea about painting. Newton had an idea about gravity. Jefferson had an idea about freedom. YOUR ideas matter too. Nurture them, believe in them, and see what happens.'", "mastery_check": "Can the child connect the book's message to Q3 learning about ideas driving change, and articulate their own idea with conviction?"}
+      ]
+    },
+    "parent_notes": "This is a beautiful choice for the Q3 celebration day. The book validates the power of children's ideas — a core Montessori belief. The illustrations transition from muted to brilliant as the child embraces their idea, providing a visual metaphor for the power of belief. Take the child's journal entry seriously — if they write about an invention or project, help them take a first step toward making it real. This builds agency and the belief that they can affect the world. Display the 'big idea' drawing proudly.",
+    "age_adaptations": null,
+    "sort_order": 15
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "language",
+    "week_number": 27,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Creative Writing — Q3 Inspired Short Story",
+    "description": "Students write a short story inspired by Q3 topics, integrating historical knowledge, scientific concepts, or personal reflections into a creative narrative.",
+    "instructions": "1. Brainstorm story ideas inspired by Q3: historical fiction (colonial child, factory worker), science fiction (biome adventure), or personal narrative.\n2. Review story elements: character, setting, problem, events, resolution.\n3. Create a story plan.\n4. Write a first draft (at least 2 pages).\n5. Focus on descriptive language and dialogue.\n6. Share and celebrate.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Story planning template", "Notebook or lined paper", "Pencil", "Q3 materials for inspiration", "Thesaurus (optional)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Creative Writing", "subheading": "Q3 Inspired Short Story"},
+        {"type": "materials", "items": ["Story planning template", "Notebook or lined paper", "Pencil", "Q3 materials for inspiration", "Thesaurus (optional)"], "setup_instructions": "Prepare a story planning template: Character (name, age, traits), Setting (time, place), Problem, Key Events (3-4), Resolution. Have Q3 materials available for inspiration."},
+        {"type": "instruction", "step": 1, "text": "Brainstorm story ideas: 'This quarter is full of amazing story possibilities. You could write about: A child factory worker during the Industrial Revolution. A colonial kid on the night of the Boston Tea Party. An explorer discovering a new biome. A scientist making a breakthrough. Or anything Q3 inspires!'"},
+        {"type": "instruction", "step": 2, "text": "Review story essentials: 'Every good story needs a CHARACTER (who we care about), a SETTING (when and where), a PROBLEM (something that needs solving), EVENTS (what happens), and a RESOLUTION (how it ends). Your Q3 knowledge will make the details rich and accurate.'"},
+        {"type": "instruction", "step": 3, "text": "Plan the story together. 'Choose your character. Where and when do they live? What's their biggest problem? What do they do about it? How does it end? A good plan makes writing easier — you'll know where you're going before you start.'"},
+        {"type": "instruction", "step": 4, "text": "Writing tips: 'Use descriptive language — help the reader SEE, HEAR, SMELL the setting. Include dialogue — let characters talk! Use what you've learned: if your story is set in colonial America, include accurate details about food, clothing, and daily life.'"},
+        {"type": "activity", "prompt": "Write your Q3-inspired short story. Aim for at least 2 handwritten pages (or 400+ words). Include: vivid descriptions of the setting, at least one dialogue exchange, accurate historical or scientific details from Q3 learning, and a satisfying ending. Let your imagination fly!", "duration_minutes": 22},
+        {"type": "wrap_up", "text": "Read the opening paragraph aloud. 'You've turned your Q3 knowledge into a STORY — which is exactly what great writers do. Historical fiction, science fiction, and creative nonfiction all start with knowing your subject deeply.'", "mastery_check": "Can the child write a creative story that incorporates Q3 learning, includes story elements, and uses descriptive language and dialogue?"}
+      ]
+    },
+    "parent_notes": "Creative writing allows the child to process and personalize what they've learned. Historical fiction is particularly powerful because it requires both factual knowledge and empathy — the child must imagine being someone else in a different time. Don't edit during the creative flow; there's always time to revise later. If the child struggles to start, suggest a specific opening line: 'The factory bell rang at 5:00 AM...' or 'The night was quiet in Boston, but not for long...' The accuracy of historical details shows deep learning.",
+    "age_adaptations": null,
+    "sort_order": 16
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "math",
+    "week_number": 27,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Q3 Math Review — Comprehensive Mixed Practice",
+    "description": "Students complete a comprehensive Q3 math review covering all major topics: fractions, decimals, geometry, measurement, data analysis, and probability through mixed practice and problem solving.",
+    "instructions": "1. Set up a math stations rotation (or mixed worksheet).\n2. Station 1: Fractions (operations with unlike denominators).\n3. Station 2: Decimals (addition, subtraction, comparison).\n4. Station 3: Geometry (area, perimeter, volume, angles).\n5. Station 4: Data and Probability (mean/median/mode, graphs, probability).\n6. Review answers together and identify areas for continued practice.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Station materials (fraction strips, ruler, protractor, cubes, dice)", "Mixed review worksheet", "Pencil", "Graph paper", "Calculator for checking", "Timer"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Math Review", "subheading": "Comprehensive Mixed Practice"},
+        {"type": "materials", "items": ["Fraction strips and ruler", "Protractor and cubes", "Dice and coins", "Mixed review worksheet", "Pencil and graph paper", "Calculator", "Timer"], "setup_instructions": "Set up 4 stations around the room, each with relevant tools and 3-4 problems. Or prepare a comprehensive worksheet with sections for each topic. Have all manipulatives available."},
+        {"type": "instruction", "step": 1, "text": "Explain the format: 'Today is your comprehensive Q3 math review. You'll work through problems from every major topic we've covered. This isn't a test — it's a chance to practice everything and find out where you feel strong and where you want more practice.'"},
+        {"type": "instruction", "step": 2, "text": "Station/Section 1 — Fractions: 3/4 + 2/5 = ? | 7/8 - 1/3 = ? | 2/3 x 4/5 = ? | 3/4 ÷ 1/2 = ? | Word problem: A recipe calls for 2/3 cup of flour. You want to make half the recipe. How much flour do you need?"},
+        {"type": "instruction", "step": 3, "text": "Station/Section 2 — Geometry: Find the area of a triangle with base 8 cm and height 6 cm. Find the perimeter of a rectangle 12 cm x 7 cm. Find the volume of a box 5 cm x 3 cm x 4 cm. Classify an angle of 135 degrees."},
+        {"type": "instruction", "step": 4, "text": "Station/Section 3 — Data & Probability: Data set: 12, 15, 15, 18, 20. Find mean, median, and mode. A bag has 3 red, 5 blue, 2 yellow marbles. What's the probability of drawing blue? What type of graph would you use to show temperature changes over a month?"},
+        {"type": "activity", "prompt": "Work through all stations/sections. Show all your work! Use manipulatives if you need them — there's no shame in using tools. When you finish, star any problems you found easy and circle any you found tricky. This tells us exactly where to focus.", "duration_minutes": 22},
+        {"type": "wrap_up", "text": "Review answers together. Celebrate the stars — those are your strengths! Discuss the circled problems — those show growth areas. 'Every mathematician has areas they find easier and harder. The goal is to keep getting better, not to be perfect.'", "mastery_check": "Can the child demonstrate competency across Q3 math topics and accurately self-assess areas of strength and challenge?"}
+      ]
+    },
+    "parent_notes": "This comprehensive review gives you a clear picture of where the child stands going into Q4. Pay attention to which problems they star (confident) versus circle (uncertain). If there are consistent struggles in one area, plan to review those concepts during the first week of Q4. Don't make this feel like a test — it's practice and self-assessment. Encourage the child to use manipulatives without shame; concrete materials are tools, not crutches. The child's honest self-assessment is more valuable than a perfect score.",
+    "age_adaptations": null,
+    "sort_order": 17
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "science",
+    "week_number": 27,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Design an Ecosystem — Q3 Science Culminating Project",
+    "description": "Students apply all Q3 ecology knowledge to design a complete, balanced ecosystem, incorporating biome characteristics, food webs, adaptations, symbiotic relationships, and environmental considerations.",
+    "instructions": "1. Choose a biome for the ecosystem.\n2. Select at least 10 organisms (producers, consumers, decomposers).\n3. Show adaptations that help each organism survive.\n4. Create a food web connecting all organisms.\n5. Include at least one symbiotic relationship.\n6. Identify potential threats to the ecosystem and conservation measures.\n7. Present the ecosystem as a poster or model.",
+    "duration_minutes": 45,
+    "lesson_type": "project",
+    "materials_needed": ["Large poster board or construction paper", "Colored pencils, markers, crayons", "Reference materials on biomes and species", "Glue and scissors", "Optional: clay or natural materials for 3D model", "Pencil for planning"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Design an Ecosystem", "subheading": "Q3 Science Culminating Project"},
+        {"type": "materials", "items": ["Large poster board", "Colored pencils, markers, crayons", "Reference materials", "Glue and scissors", "Optional: clay, natural materials for 3D", "Pencil"], "setup_instructions": "Set up a large workspace. Have reference materials about biomes and species available. Poster board should be at least 18x24 inches. If making a 3D model, have clay, sand, sticks, etc. ready."},
+        {"type": "instruction", "step": 1, "text": "Introduce the project: 'You've studied biomes, adaptations, food chains, symbiosis, and endangered species. Now you'll put it ALL together by designing a complete, balanced ecosystem. This is your chance to show everything you've learned!'"},
+        {"type": "instruction", "step": 2, "text": "Step 1: Choose your biome. 'Which biome will your ecosystem be in? Tropical rainforest, desert, grassland, temperate forest, taiga, or tundra? Your choice determines the climate, which determines what organisms can live there.'"},
+        {"type": "instruction", "step": 3, "text": "Step 2: Select organisms. 'You need a balanced ecosystem. Include: at least 3 producers (plants), at least 4 primary consumers (herbivores), at least 2 secondary consumers (predators), and at least 1 decomposer. Each organism should have adaptations suited to your biome.'"},
+        {"type": "instruction", "step": 4, "text": "Step 3: Build the food web and add symbiosis. 'Draw arrows showing energy flow: plants → herbivores → predators → decomposers. Include at least one symbiotic relationship (mutualism, commensalism, or parasitism). Label everything. Finally, identify one threat to your ecosystem and a conservation solution.'"},
+        {"type": "activity", "prompt": "Create your ecosystem poster or model. Include: 1) Biome name and climate description. 2) At least 10 labeled organisms with adaptations noted. 3) Complete food web with arrows. 4) At least 1 symbiotic relationship labeled by type. 5) 1 environmental threat and conservation solution. Make it beautiful and scientifically accurate!", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Present your ecosystem! Explain each element and how they connect. 'Your ecosystem shows that everything in nature is connected — remove one piece and the whole system changes. This is the most important lesson of ecology.'", "mastery_check": "Can the child design a biologically accurate ecosystem incorporating biome characteristics, food webs, adaptations, and symbiotic relationships?"}
+      ]
+    },
+    "parent_notes": "This culminating project integrates ALL Q3 ecology concepts. It's designed to be the centerpiece of the Q3 showcase. Don't rush it — if the child needs extra time, it's worth it. The project reveals what the child truly understands: anyone can memorize definitions, but designing a balanced ecosystem requires deep understanding of how concepts interconnect. Common errors: choosing organisms from different biomes, forgetting decomposers, making food chains instead of webs. Guide without taking over. Display this prominently — it represents weeks of learning.",
+    "age_adaptations": null,
+    "sort_order": 18
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "geometry",
+    "week_number": 27,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Q3 Geometry Review — Shape Properties and Measurement",
+    "description": "Students review Q3 geometry concepts through a hands-on geometry scavenger hunt and measurement challenges, applying area, perimeter, volume, and angle skills to real objects.",
+    "instructions": "1. Geometry scavenger hunt: find real-world examples of geometric shapes and concepts.\n2. Measure and calculate: area of a tabletop, perimeter of a room, volume of a box.\n3. Find and measure angles around the house.\n4. Identify and classify shapes in architecture and nature.\n5. Create a 'Geometry in Real Life' photo journal or sketch journal.\n6. Reflect on how geometry applies to everyday life.",
+    "duration_minutes": 45,
+    "lesson_type": "project",
+    "materials_needed": ["Measuring tape or rulers", "Protractor", "Camera or phone for photos", "Notebook", "Pencil", "Calculator"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Geometry Review", "subheading": "Geometry in Real Life"},
+        {"type": "materials", "items": ["Measuring tape or rulers", "Protractor", "Camera or phone", "Notebook", "Pencil", "Calculator"], "setup_instructions": "Clear a path through the house/outdoor area for the scavenger hunt. Charge the camera/phone. Have the notebook ready with a scavenger hunt checklist."},
+        {"type": "instruction", "step": 1, "text": "Announce the challenge: 'Geometry isn't just on paper — it's EVERYWHERE! Today we're going on a geometry scavenger hunt. You'll find, measure, and document geometric shapes and concepts in the real world.'"},
+        {"type": "instruction", "step": 2, "text": "Scavenger hunt list: Find a right angle (corner of a book). Find an acute angle (roof peak, clock hands). Find parallel lines (railroad tracks, notebook lines). Find a circle, triangle, rectangle, and hexagon in real life. Find a 3D shape: sphere, cube, cylinder, cone, rectangular prism."},
+        {"type": "instruction", "step": 3, "text": "Measurement challenges: 'Calculate the area of the kitchen table (measure length and width, multiply). Calculate the perimeter of your bedroom (measure all walls, add). Estimate and then calculate the volume of a cereal box (measure 3 dimensions, multiply).'"},
+        {"type": "instruction", "step": 4, "text": "Document everything: photograph or sketch each find. Label with the geometric concept, measurements, and calculations. 'Your journal should prove that geometry is a practical, useful skill — not just something in a textbook.'"},
+        {"type": "activity", "prompt": "Complete the scavenger hunt: find at least 8 geometric shapes/concepts in real life. Complete the 3 measurement challenges (area, perimeter, volume). Document everything in your journal with sketches or photos, measurements, and calculations. Present your findings!", "duration_minutes": 22},
+        {"type": "wrap_up", "text": "Share your geometry journal. 'Geometry is the mathematics of the world around us. Architects, engineers, artists, and builders all use geometry every day. Now when you look at buildings, bridges, or even a pizza box, you'll see the geometry!'", "mastery_check": "Can the child identify geometric concepts in the real world and accurately measure and calculate area, perimeter, volume, and angles of real objects?"}
+      ]
+    },
+    "parent_notes": "The geometry scavenger hunt makes abstract concepts tangible and fun. The child discovers that geometry is everywhere — not just in math class. Real-world measurement builds practical skills and reinforces formulas in context. Common finds: right angles at door frames, hexagons on honeycombs, parallel lines on fences, circles on clocks. The volume calculation for a cereal box is particularly satisfying because the child can verify by reading the ounce/mL measurement on the box (though units differ, the concept connects). Photography creates a wonderful record of this activity.",
+    "age_adaptations": null,
+    "sort_order": 19
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "art_music",
+    "week_number": 27,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Music Appreciation — Q3 Listening Journal and Reflection",
+    "description": "Students listen to music from different Q3 historical periods, comparing musical styles and reflecting on how music reflects its time period and culture.",
+    "instructions": "1. Listen to music from each Q3 period: Renaissance, Baroque, Classical, Industrial era folk songs, American Revolution songs.\n2. For each piece, describe the mood, instruments, tempo, and dynamics.\n3. Compare: How did music change across these periods?\n4. Discuss: How does music reflect the culture that created it?\n5. Create a listening journal entry for each piece.\n6. Select a personal favorite and explain why.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Audio recordings of music from each period", "Listening journal template", "Pencil", "Colored pencils for mood illustrations", "Timeline for music history reference"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Music Appreciation", "subheading": "Q3 Listening Journal"},
+        {"type": "materials", "items": ["Audio recordings from each period", "Listening journal template", "Pencil", "Colored pencils", "Music timeline"], "setup_instructions": "Queue up 4-5 short music clips: a Renaissance madrigal, a Baroque piece (Bach or Vivaldi), a Classical piece (Mozart), an Industrial-era folk song, and 'Yankee Doodle' or a Revolution-era song. Prepare a listening journal with columns: Period, Piece, Mood, Instruments, What I Noticed."},
+        {"type": "instruction", "step": 1, "text": "Introduce the listening session: 'Music is like a time machine — you can hear what life sounded like hundreds of years ago. Today we'll listen to music from each historical period we studied in Q3 and notice how music changed as the world changed.'"},
+        {"type": "instruction", "step": 2, "text": "Listen to each piece (1-2 minutes each). For each one: 'Close your eyes and listen. What mood does this music create? What instruments do you hear? Is it fast or slow? Loud or soft? What pictures come to mind?' Write in the listening journal."},
+        {"type": "instruction", "step": 3, "text": "Compare across periods: 'How does Renaissance music (voices, simple harmonies) differ from Classical music (full orchestra, complex melodies)? How are folk songs different from formal compositions? Music evolved just like art, science, and ideas.'"},
+        {"type": "instruction", "step": 4, "text": "Connect music to culture: 'Renaissance music was often religious because the Church was powerful. Classical music was for wealthy audiences. Folk songs were by and for ordinary working people. Music tells us about who created it and what their life was like.'"},
+        {"type": "activity", "prompt": "Complete your listening journal for all pieces. For your favorite, write a detailed response: Why do you like this music? What does it make you feel? Draw a picture inspired by the music — what colors and images come to mind when you listen? Can you connect this music to what you know about the time period?", "duration_minutes": 15},
+        {"type": "wrap_up", "text": "Share your listening journals and favorites. 'Music is a primary source — just like art, letters, and buildings. By listening to music from the past, we can feel something of what people experienced. Keep listening with curious ears!'", "mastery_check": "Can the child describe musical characteristics of different historical periods, compare them, and articulate personal responses to music?"}
+      ]
+    },
+    "parent_notes": "Music appreciation doesn't require musical training — it requires attentive listening. The goal is developing the ability to describe what you hear and connect it to historical context. Streaming services make finding historical music easy — search for 'Renaissance music,' 'Baroque,' etc. Vivaldi's 'Four Seasons,' Mozart's 'Eine Kleine Nachtmusik,' and Bach's 'Air on the G String' are accessible entry points. The illustration activity (drawing what the music 'looks like') engages visual learners and encourages creative interpretation. Save the listening journal — it's a unique artifact.",
+    "age_adaptations": null,
+    "sort_order": 20
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "language",
+    "week_number": 27,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Q3 Reading Review — Book Talks and Recommendations",
+    "description": "Students review all Q3 reading by preparing and delivering book talks — short, engaging recommendations that summarize books and persuade others to read them.",
+    "instructions": "1. List all books read in Q3 (read-alouds, independent reading, reference books).\n2. Choose 2-3 favorites for book talks.\n3. Plan each book talk: title, author, brief summary (no spoilers!), why you recommend it, who would enjoy it.\n4. Practice delivering engaging, enthusiastic book talks.\n5. Deliver book talks to family.\n6. Create a 'Q3 Recommended Reading' poster.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["List of Q3 books", "Book talk planning sheet", "Poster board for recommendations", "Markers and colored pencils", "Books for reference", "Timer"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Reading Review", "subheading": "Book Talks and Recommendations"},
+        {"type": "materials", "items": ["List of Q3 books", "Book talk planning sheet", "Poster board", "Markers and colored pencils", "Q3 books", "Timer"], "setup_instructions": "Compile a list of all Q3 books (read-alouds and independent reads). Prepare a book talk template: Title/Author, Genre, Summary (3-4 sentences, no spoilers), Why I Recommend It, Who Would Enjoy It (1-2 sentences each)."},
+        {"type": "instruction", "step": 1, "text": "List all Q3 books. 'Look at how many books we've read this quarter! Let's count them.' Review the list: read-alouds, independent reads, and reference books. 'Reading is one of the most important skills — and it should also be one of the most enjoyable.'"},
+        {"type": "instruction", "step": 2, "text": "Introduce book talks: 'A book talk is like a movie trailer for a book — you give just enough information to make someone want to read it, without giving away the ending! It's 1-2 minutes long and should be energetic and convincing.'"},
+        {"type": "instruction", "step": 3, "text": "Plan 2-3 book talks. 'Include: Title and author. The genre (biography, picture book, chapter book). A short summary — just the setup, not the resolution! Why YOU liked it — be specific! Who you'd recommend it to.'"},
+        {"type": "instruction", "step": 4, "text": "Practice delivery: 'Hold the book up so people can see the cover. Speak with enthusiasm — if YOU don't sound excited, nobody will want to read it! Make eye contact. Keep it short — 1-2 minutes per book. End with: \"If you like [genre/topic], you'll love this book!\"'"},
+        {"type": "activity", "prompt": "Deliver your book talks! Then create a 'Q3 Recommended Reading' poster: list your top 5 recommended books with a brief description and a star rating (1-5 stars) for each. Add illustrations of your favorite cover or scene. Hang it up where visitors can see it!", "duration_minutes": 18},
+        {"type": "wrap_up", "text": "Your book recommendations might inspire someone to read a book they wouldn't have found otherwise. 'Sharing books is sharing worlds. In Q4, we'll start a novel study — you'll dive deep into one chapter book over several weeks.'", "mastery_check": "Can the child deliver an engaging book talk that summarizes without spoiling, explains their recommendation, and identifies the target audience?"}
+      ]
+    },
+    "parent_notes": "Book talks build both literacy and public speaking skills. The 'no spoilers' rule forces children to think about what information to include and exclude — a form of audience awareness. If you know other families or have a book club, the child could deliver their book talks to a wider audience. The recommendation poster is a wonderful addition to a reading nook or classroom. Consider starting a family tradition: everyone gives book talks at the end of each quarter. Modeling enthusiasm for reading is the single most powerful way to build a lifelong reader.",
+    "age_adaptations": null,
+    "sort_order": 21
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "math",
+    "week_number": 27,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Q3 Math Celebration — Math Games and Challenges",
+    "description": "Students celebrate Q3 math learning through games and challenges that reinforce fractions, geometry, data, and probability in a fun, low-pressure environment.",
+    "instructions": "1. Set up 4-5 math game stations.\n2. Fraction War card game (compare fractions).\n3. Geometry Bingo (identify shapes, calculate areas).\n4. Probability games with dice and spinners.\n5. Data collection game: survey and graph results in real time.\n6. Award math certificates and celebrate growth.",
+    "duration_minutes": 45,
+    "lesson_type": "project",
+    "materials_needed": ["Playing cards (for fraction war)", "Geometry Bingo cards", "Dice and spinners", "Graph paper and markers", "Timer", "Small prizes or certificates", "Snacks (optional)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Math Celebration", "subheading": "Math Games and Challenges"},
+        {"type": "materials", "items": ["Playing cards for fraction war", "Geometry Bingo cards", "Dice and spinners", "Graph paper and markers", "Timer", "Certificates or small prizes", "Snacks (optional)"], "setup_instructions": "Set up game stations: 1) Fraction War — use playing cards as numerators and denominators. 2) Geometry Bingo — create cards with shapes and measurements. 3) Probability station — dice, spinners, prediction sheets. 4) Speed graphing — data and graph paper. Prepare certificates."},
+        {"type": "instruction", "step": 1, "text": "Announce the celebration: 'You've worked incredibly hard on math this quarter — fractions, decimals, geometry, data, and probability. Today we celebrate with math GAMES! Each game reinforces something you've learned.'"},
+        {"type": "instruction", "step": 2, "text": "Game 1 — Fraction War: Deal 2 cards each. Make a fraction (top card ÷ bottom card). Compare: bigger fraction wins! This builds fraction comparison fluency. Game 2 — Geometry Bingo: Call out descriptions ('area of a 3x4 rectangle'), mark the answer on your card."},
+        {"type": "instruction", "step": 3, "text": "Game 3 — Probability Challenge: Predict outcomes, then test them. Roll 2 dice 20 times — predict which sum you'll roll most (7!). Game 4 — Speed Graphing: I give you data, you create an appropriate graph in 5 minutes. Fastest accurate graph wins!"},
+        {"type": "instruction", "step": 4, "text": "Final challenge — Math Trivia: Quick-fire questions from all Q3 topics. 'What's 1/2 + 1/3? What's the area of a triangle with base 6 and height 4? What's the probability of flipping heads? Name 3 types of quadrilaterals!' Keep it fun and fast-paced."},
+        {"type": "activity", "prompt": "Rotate through all game stations, spending about 8 minutes at each. Keep score across all games. At each station, try your best — but remember, the goal is FUN and LEARNING, not just winning. Help each other when someone gets stuck!", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Award the Q3 Math Certificate! Celebrate specific growth: 'At the beginning of Q3, you were just learning about fraction division. Now you can do it confidently! That's amazing growth.' Math is a journey — every quarter you climb higher.", "mastery_check": "Can the child apply Q3 math skills in game contexts, demonstrating fluency and enjoyment of mathematical thinking?"}
+      ]
+    },
+    "parent_notes": "Math games are one of the most effective ways to build fluency because they provide repetitive practice in an engaging context. The child doesn't realize they're doing 50 fraction comparisons during Fraction War — they just think they're playing cards! These games work for family game night too. The certificate is important: explicit recognition of effort and growth motivates continued engagement. Celebrate GROWTH over perfection: 'You couldn't do fraction division at the start of the quarter, and now you can!' If you have multiple children, include everyone at appropriate difficulty levels.",
+    "age_adaptations": null,
+    "sort_order": 22
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "geography",
+    "week_number": 27,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Q3 Geography Review — Map Skills Assessment",
+    "description": "Students demonstrate their Q3 map skills through a comprehensive mapping exercise that includes physical features, political boundaries, resource mapping, and historical event locations.",
+    "instructions": "1. Provide a blank world map.\n2. Challenge: from memory, label continents and oceans.\n3. Add Q3 specific locations: Industrial England, 13 colonies, Revolution battle sites.\n4. Add physical features: Appalachian Mountains, major rivers, coalfields.\n5. Add cultural/trade connections: exploration routes, idea spread.\n6. Create a comprehensive Q3 geography reference map.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Large blank world map", "Colored pencils (full set)", "Atlas for checking", "Ruler", "Pencil with eraser", "All Q3 maps for reference (after initial attempt)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q3 Geography Review", "subheading": "Comprehensive Map Skills"},
+        {"type": "materials", "items": ["Large blank world map", "Colored pencils", "Atlas for checking", "Ruler", "Pencil with eraser", "Q3 maps for reference"], "setup_instructions": "Print a large blank world map. Have the atlas available for checking AFTER the child's first attempt. Set up all Q3 maps nearby for reference once the initial memory exercise is complete."},
+        {"type": "instruction", "step": 1, "text": "Challenge begins: 'Here's a blank world map. Using just your memory, label as many features as you can from Q3. Start with the basics: continents and oceans. Then add everything else you remember. You have 10 minutes — go!'"},
+        {"type": "instruction", "step": 2, "text": "After the timed challenge, check with the atlas. Add anything missed. 'Now let's make this the ultimate Q3 geography reference map. Add: Industrial England (coalfields, railways), the 13 colonies (colored by region), key Revolution battle sites.'"},
+        {"type": "instruction", "step": 3, "text": "Add physical geography: 'Draw the Appalachian Mountains. Add the Delaware, Hudson, and Potomac Rivers. Mark Boston, New York, Philadelphia harbors. Add London, Manchester, Liverpool in England.'"},
+        {"type": "instruction", "step": 4, "text": "Final layer — connections: 'Draw trade routes between England and the colonies. Show how ideas traveled: Enlightenment ideas went from Europe to America. Draw the rail network expanding across England.'"},
+        {"type": "activity", "prompt": "Complete your comprehensive Q3 map. Include a detailed key with at least 8 symbols. Label all major features. Use color coding consistently. Then write 5 sentences describing how geography connected the events of Q3 — use your map as evidence.", "duration_minutes": 18},
+        {"type": "wrap_up", "text": "Display your map alongside Monday's world events map. 'You've created a geographic encyclopedia of Q3! Maps are one of the most powerful tools for understanding history. In Q4, we'll add Napoleonic Europe and physics experiments to our geographic knowledge.'", "mastery_check": "Can the child create a comprehensive reference map incorporating Q3 geographic knowledge with accurate locations, physical features, and connections?"}
+      ]
+    },
+    "parent_notes": "The timed memory challenge at the beginning reveals what the child has truly internalized vs. what they recognize when prompted. Both are valuable, but recall is deeper learning. Don't be discouraged if the child can't label everything from memory — the act of trying and then checking builds stronger memory than simply reviewing. The comprehensive map becomes a valuable reference tool. Laminate it if possible. Geography skills compound: everything learned in Q3 provides context for Q4 and beyond.",
+    "age_adaptations": null,
+    "sort_order": 23
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "culture",
+    "week_number": 27,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Looking Forward — Q4 Preview and Goal Setting",
+    "description": "Students preview Q4 topics, set personal learning goals, and create a vision board or goal poster for the upcoming quarter.",
+    "instructions": "1. Preview Q4 topics: French Revolution, novel study, order of operations, physics (force and motion).\n2. Discuss what sounds exciting, challenging, or interesting.\n3. Set academic goals (one per subject).\n4. Set personal goals (effort, organization, attitude).\n5. Create a Q4 vision board or goal poster.\n6. Display in the learning space.",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Q4 topic preview list", "Goal-setting worksheet", "Poster board or large paper", "Magazines for cutting (optional)", "Markers, colored pencils, stickers", "Glue stick"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Looking Forward", "subheading": "Q4 Preview and Goal Setting"},
+        {"type": "materials", "items": ["Q4 topic preview list", "Goal-setting worksheet", "Poster board or large paper", "Magazines for cutting (optional)", "Markers, colored pencils, stickers", "Glue stick"], "setup_instructions": "Prepare a Q4 preview with brief descriptions of upcoming topics. Have goal-setting worksheets ready. Set up a creative station for the vision board with magazines, markers, stickers, and poster board."},
+        {"type": "instruction", "step": 1, "text": "Preview Q4 with enthusiasm: 'Here's what's coming! History: The French Revolution and Napoleon — the ideas of the American Revolution spread to Europe! Language: Novel study — you'll read a whole chapter book and analyze it deeply! Math: Order of operations — a new way to solve complex problems! Science: Physics — force, motion, gravity, friction!'"},
+        {"type": "instruction", "step": 2, "text": "Discuss: 'Which topic sounds most exciting? Which might be challenging? What questions do you already have?' Build anticipation: 'The French Revolution is one of the most dramatic periods in history. Your novel study will take you deep into a story. Physics experiments are hands-on and exciting!'"},
+        {"type": "instruction", "step": 3, "text": "Set academic goals — one per subject. Use SMART format: Specific, Measurable, Achievable, Relevant, Time-bound. Example: 'By the end of Q4, I will read my novel study book independently and write a book report.' NOT: 'I will be better at reading.'"},
+        {"type": "instruction", "step": 4, "text": "Set personal goals about HOW you learn, not just WHAT you learn. Examples: 'I will ask for help when I'm stuck instead of giving up.' 'I will keep my materials organized using the system I set up.' 'I will practice my presentation skills by reading aloud every day.'"},
+        {"type": "activity", "prompt": "Create a Q4 vision board or goal poster. Include: your goals (at least 4), pictures or drawings representing Q4 topics, motivational words or quotes, and a space to track progress. Make it colorful and inspiring — you'll look at it every day!", "duration_minutes": 18},
+        {"type": "wrap_up", "text": "Display your vision board in your learning space. 'You've just completed an amazing quarter. You've grown as a reader, writer, mathematician, scientist, historian, and artist. Q4 is going to be even better because you're going in with confidence, skills, and goals. Let's do this!'", "mastery_check": "Can the child set specific, achievable goals for Q4 and articulate excitement about upcoming learning?"}
+      ]
+    },
+    "parent_notes": "Goal setting is a critical executive function skill. Children who set their own goals are more motivated than children who are given goals by others. The vision board makes abstract goals tangible and visible — place it where the child sees it daily. Review the goals at the start of Q4 and check in monthly. The Q4 preview builds anticipation and reduces anxiety about new topics. If the child expresses worry about a particular subject, address it: 'What specifically worries you? What helped you succeed when you felt that way before?' This is the last lesson of Q3 — celebrate the journey!",
+    "age_adaptations": null,
+    "sort_order": 24
+  },
+  {
+    "level_name": "lower_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 27,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Read-Aloud: \"Oh, The Places You'll Go!\" by Dr. Seuss",
+    "description": "Shared reading of Dr. Seuss's inspiring send-off about life's adventures, challenges, and triumphs, perfectly timed for the end of Q3 and the beginning of new journeys in Q4.",
+    "instructions": "1. Introduce: 'Dr. Seuss wrote this book as a graduation gift — a send-off to people starting new chapters in their lives. You're finishing Q3 and starting a new chapter too!'\n2. Read the book aloud with energy and expression.\n3. Discuss the ups and downs described: successes and 'slumps.'\n4. Connect to Q3: moments of triumph and challenge.\n5. Journal: 'The places I'll go in Q4.'",
+    "duration_minutes": 45,
+    "lesson_type": "guided",
+    "materials_needed": ["Oh, The Places You'll Go! by Dr. Seuss", "Reading journal", "Pencil", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Read-Aloud", "subheading": "Oh, The Places You'll Go!"},
+        {"type": "materials", "items": ["Oh, The Places You'll Go! by Dr. Seuss", "Reading journal", "Pencil", "Colored pencils"], "setup_instructions": "Have the book ready. This is a celebratory read — make it feel special. Have the reading journal open for the final Q3 entry."},
+        {"type": "instruction", "step": 1, "text": "Set the tone: 'Today is the last day of Q3. You've worked incredibly hard, learned amazing things, and grown in ways you might not even realize yet. Dr. Seuss wrote this book for exactly this kind of moment — when you're looking back at what you've accomplished and looking forward to what's next.'"},
+        {"type": "instruction", "step": 2, "text": "Read the book with energy and emotion. This book has everything: the excitement of starting ('You're off to Great Places!'), the reality of challenges ('You'll come to a place where the streets are not marked'), and the ultimate encouragement ('You'll move mountains!')."},
+        {"type": "instruction", "step": 3, "text": "Discuss the realistic parts: 'Dr. Seuss doesn't say everything will be easy. He talks about \"The Waiting Place\" and \"slumps\" and getting lost. But the message is: you'll face all of those things AND keep going. What \"slumps\" did you face this quarter? How did you keep going?'"},
+        {"type": "activity", "prompt": "In your reading journal, write and draw: 'The Places I'll Go in Q4.' Where will your learning take you? What mountains will you move? What challenges might you face, and how will you handle them? Draw yourself on an adventure — learning something new, overcoming a challenge, or celebrating a success.", "duration_minutes": 15},
+        {"type": "wrap_up", "text": "Close with the final lines: 'So... be your name Buxbaum or Bixby or Bray or Mordecai Ali Van Allen O'Shea, you're off to Great Places! Today is your day! Your mountain is waiting. So... get on your way!' Happy end of Q3! Q4, here we come!", "mastery_check": "Can the child connect the book's themes to their own learning journey and express optimism about future challenges and growth?"}
+      ]
+    },
+    "parent_notes": "This is the perfect book to close Q3. It validates both achievements and struggles, which is emotionally important for children. The message — that challenges are part of the journey, not signs of failure — builds resilience. Take a moment to genuinely celebrate what the child has accomplished: they've studied the Industrial Revolution, learned journalism and persuasive writing, mastered data analysis, designed an ecosystem, and so much more. Your words of affirmation at this moment carry enormous weight. Enjoy the weekend break and come back refreshed for Q4!",
+    "age_adaptations": null,
+    "sort_order": 25
+  }
+]
