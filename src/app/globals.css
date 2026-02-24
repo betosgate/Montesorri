@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600;700;800&display=swap');
 @import "tailwindcss";
 
 :root {
   --background: #ffffff;
   --foreground: #171717;
+  --font-display: 'Nunito', sans-serif;
 }
 
 @theme inline {
@@ -23,4 +25,123 @@ body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ── Slide Player Animations ─────────────────────────────────── */
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateX(24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-24px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.92);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes celebrate {
+  0%, 100% { transform: scale(1); }
+  25% { transform: scale(1.08); }
+  50% { transform: scale(0.96); }
+  75% { transform: scale(1.04); }
+}
+
+@keyframes checkDraw {
+  from {
+    stroke-dashoffset: 48;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes confettiPiece {
+  0% {
+    opacity: 1;
+    transform: translateY(0) rotate(0deg) scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-80px) rotate(360deg) scale(0);
+  }
+}
+
+@keyframes badgePop {
+  0% { transform: scale(0); opacity: 0; }
+  60% { transform: scale(1.15); opacity: 1; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+@keyframes panelSlideDown {
+  from {
+    max-height: 0;
+    opacity: 0;
+  }
+  to {
+    max-height: 600px;
+    opacity: 1;
+  }
+}
+
+.slide-enter {
+  animation: slideIn 0.35s ease-out;
+}
+
+.slide-enter-left {
+  animation: slideInLeft 0.35s ease-out;
+}
+
+.scale-enter {
+  animation: scaleIn 0.3s ease-out;
+}
+
+.celebrate-bounce {
+  animation: celebrate 0.5s ease-in-out;
+}
+
+.check-draw {
+  stroke-dasharray: 48;
+  stroke-dashoffset: 48;
+  animation: checkDraw 0.6s ease-out 0.3s forwards;
+}
+
+.confetti-piece {
+  animation: confettiPiece 1.4s ease-out forwards;
+}
+
+.badge-pop {
+  animation: badgePop 0.4s ease-out;
+}
+
+.panel-slide-down {
+  animation: panelSlideDown 0.35s ease-out forwards;
+  overflow: hidden;
+}
+
+/* Display font utility for slide headings */
+.font-display {
+  font-family: var(--font-display);
 }

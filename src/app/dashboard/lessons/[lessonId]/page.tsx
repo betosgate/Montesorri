@@ -5,6 +5,7 @@ import { useParams, useSearchParams, useRouter } from 'next/navigation'
 import { createClient } from '@/lib/supabase/client'
 import SlidePlayer from '@/components/lessons/slide-player'
 import type { Lesson, SlideContent } from '@/lib/types/database'
+import type { MaterialInventoryItem } from '@/components/lessons/slide-player'
 import Link from 'next/link'
 
 interface LessonWithSubject extends Lesson {
@@ -23,6 +24,7 @@ export default function LessonDetailPage() {
   const studentId = searchParams.get('studentId')
 
   const [lesson, setLesson] = useState<LessonWithSubject | null>(null)
+  const [materialsInventory, setMaterialsInventory] = useState<MaterialInventoryItem[]>([])
   const [loading, setLoading] = useState(true)
   const [completing, setCompleting] = useState(false)
 
@@ -43,7 +45,29 @@ export default function LessonDetailPage() {
         .eq('id', lessonId)
         .single()
 
-      setLesson(data as LessonWithSubject | null)
+      const lessonData = data as LessonWithSubject | null
+      setLesson(lessonData)
+
+      // Fetch matching materials inventory items
+      if (lessonData?.materials_needed && (lessonData.materials_needed as string[]).length > 0) {
+        const materialNames = lessonData.materials_needed as string[]
+        const { data: inventoryData } = await supabase
+          .from('materials_inventory')
+          .select('name, code, image_url, what_it_teaches, diy_alternative')
+
+        if (inventoryData) {
+          // Fuzzy match: inventory item name includes material name or vice versa
+          const matched = inventoryData.filter((inv) =>
+            materialNames.some(
+              (m) =>
+                inv.name.toLowerCase().includes(m.toLowerCase()) ||
+                m.toLowerCase().includes(inv.name.toLowerCase())
+            )
+          ) as MaterialInventoryItem[]
+          setMaterialsInventory(matched)
+        }
+      }
+
       setLoading(false)
     }
 
@@ -115,11 +139,14 @@ export default function LessonDetailPage() {
 
       <div className="mt-4">
         {hasSlides ? (
-          /* Interactive slide player */
           <SlidePlayer
             slides={slideContent!.slides}
             audioUrl={lesson.audio_url || undefined}
             lessonTitle={lesson.title}
+            subjectName={lesson.subjects?.name}
+            parentNotes={lesson.parent_notes}
+            materialsNeeded={lesson.materials_needed as string[]}
+            materialsInventory={materialsInventory}
             onComplete={studentId ? handleComplete : undefined}
           />
         ) : (

@@ -26,7 +26,6 @@ export default function ActivitySlide({
   const seconds = Math.abs(timerSeconds) % 60;
   const display = `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
 
-  // Keep ref in sync
   timerRef.current = timerSeconds;
 
   const clearTimer = useCallback(() => {
@@ -61,12 +60,10 @@ export default function ActivitySlide({
     onTimerChange(totalSeconds);
   }, [clearTimer, onTimerChange, totalSeconds]);
 
-  // Clean up on unmount
   useEffect(() => {
     return () => clearTimer();
   }, [clearTimer]);
 
-  // Stop running when timer hits zero externally
   useEffect(() => {
     if (timerSeconds <= 0 && isRunning) {
       clearTimer();
@@ -81,16 +78,16 @@ export default function ActivitySlide({
 
   return (
     <div className="px-8 py-10">
-      <h2 className="mb-2 text-2xl font-bold text-stone-800">
+      <h2 className="font-display mb-2 text-2xl font-bold" style={{ color: 'var(--slide-text)' }}>
         {slide.title}
       </h2>
 
-      <p className="mb-8 text-base leading-relaxed text-stone-600">
+      <p className="mb-8 text-lg leading-relaxed" style={{ color: 'var(--slide-text-light)' }}>
         {slide.instructions}
       </p>
 
       {slide.image_url && (
-        <div className="mb-8 overflow-hidden rounded-xl">
+        <div className="mb-8 overflow-hidden rounded-xl border" style={{ borderColor: 'var(--slide-border)' }}>
           <img
             src={slide.image_url}
             alt={slide.title}
@@ -101,33 +98,36 @@ export default function ActivitySlide({
 
       <div
         className={clsx(
-          'mx-auto max-w-sm rounded-2xl border-2 p-6 text-center transition-colors',
-          isComplete
-            ? 'animate-pulse border-green-400 bg-green-50'
-            : 'border-stone-200 bg-stone-50'
+          'mx-auto max-w-sm rounded-2xl border-2 p-6 text-center transition-all',
+          isComplete && 'celebrate-bounce'
         )}
+        style={{
+          borderColor: isComplete ? '#22c55e' : 'var(--slide-border)',
+          backgroundColor: isComplete ? '#f0fdf4' : 'white',
+        }}
       >
-        <p className="mb-3 text-sm font-medium uppercase tracking-wider text-stone-500">
+        <p className="mb-3 text-sm font-bold uppercase tracking-wider" style={{ color: 'var(--slide-text-light)' }}>
           {isComplete ? 'Time is up!' : 'Time Remaining'}
         </p>
 
         <p
           className={clsx(
             'mb-4 font-mono text-5xl font-bold',
-            isComplete ? 'text-green-600' : 'text-stone-800'
+            isComplete ? 'text-green-600' : ''
           )}
+          style={!isComplete ? { color: 'var(--slide-text)' } : undefined}
         >
           {display}
         </p>
 
         {/* Progress bar */}
-        <div className="mb-5 h-2 overflow-hidden rounded-full bg-stone-200">
+        <div className="mb-5 h-2.5 overflow-hidden rounded-full" style={{ backgroundColor: 'var(--slide-bg-muted)' }}>
           <div
-            className={clsx(
-              'h-full rounded-full transition-all duration-1000',
-              isComplete ? 'bg-green-500' : 'bg-amber-500'
-            )}
-            style={{ width: `${Math.min(progressPercent, 100)}%` }}
+            className="h-full rounded-full transition-all duration-1000"
+            style={{
+              width: `${Math.min(progressPercent, 100)}%`,
+              backgroundColor: isComplete ? '#22c55e' : 'var(--slide-accent)',
+            }}
           />
         </div>
 
@@ -136,7 +136,8 @@ export default function ActivitySlide({
             <button
               type="button"
               onClick={handleStart}
-              className="rounded-lg bg-green-700 px-5 py-2 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-green-800"
+              className="rounded-lg px-6 py-2.5 text-sm font-bold text-white shadow-md transition-colors"
+              style={{ backgroundColor: 'var(--slide-accent)' }}
             >
               Start
             </button>
@@ -146,7 +147,12 @@ export default function ActivitySlide({
             <button
               type="button"
               onClick={handlePause}
-              className="rounded-lg bg-amber-600 px-5 py-2 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-amber-700"
+              className="rounded-lg border-2 px-6 py-2.5 text-sm font-bold transition-colors"
+              style={{
+                borderColor: 'var(--slide-accent)',
+                color: 'var(--slide-accent)',
+                backgroundColor: 'white',
+              }}
             >
               Pause
             </button>
@@ -155,11 +161,22 @@ export default function ActivitySlide({
           <button
             type="button"
             onClick={handleReset}
-            className="rounded-lg border border-stone-300 bg-white px-5 py-2 text-sm font-semibold text-stone-600 shadow-sm transition-colors hover:bg-stone-50"
+            className="rounded-lg border px-5 py-2.5 text-sm font-semibold shadow-sm transition-colors"
+            style={{
+              borderColor: 'var(--slide-border)',
+              color: 'var(--slide-text-light)',
+              backgroundColor: 'white',
+            }}
           >
             Reset
           </button>
         </div>
+
+        {isComplete && (
+          <p className="mt-4 font-display text-lg font-bold text-green-600">
+            Great job!
+          </p>
+        )}
       </div>
     </div>
   );

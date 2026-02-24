@@ -16,10 +16,10 @@ export default function CheckUnderstandingSlide({
 }: CheckUnderstandingSlideProps) {
   return (
     <div className="px-8 py-10">
-      <h2 className="mb-2 text-2xl font-bold text-stone-800">
+      <h2 className="font-display mb-2 text-2xl font-bold" style={{ color: 'var(--slide-text)' }}>
         {slide.title}
       </h2>
-      <p className="mb-8 text-stone-500">
+      <p className="mb-8" style={{ color: 'var(--slide-text-light)' }}>
         Answer the questions below to check your understanding.
       </p>
 
@@ -33,10 +33,16 @@ export default function CheckUnderstandingSlide({
           return (
             <div
               key={idx}
-              className="rounded-lg border border-stone-200 bg-white p-5"
+              className="rounded-xl border bg-white p-5"
+              style={{ borderColor: 'var(--slide-border)' }}
             >
-              <p className="mb-3 text-base font-medium text-stone-700">
-                <span className="mr-2 text-amber-600">{idx + 1}.</span>
+              <p className="mb-3 text-base font-medium" style={{ color: 'var(--slide-text)' }}>
+                <span
+                  className="mr-2 inline-flex h-7 w-7 items-center justify-center rounded-full text-sm font-bold text-white"
+                  style={{ backgroundColor: 'var(--slide-accent)' }}
+                >
+                  {idx + 1}
+                </span>
                 {question}
               </p>
 
@@ -45,17 +51,34 @@ export default function CheckUnderstandingSlide({
                 onChange={(e) => onSetResponse(idx, e.target.value)}
                 placeholder="Type your answer..."
                 rows={3}
-                className="w-full rounded-lg border border-stone-300 bg-stone-50 px-4 py-2.5 text-stone-900 placeholder:text-stone-400 focus:border-green-600 focus:outline-none focus:ring-2 focus:ring-green-600/20"
+                className={clsx(
+                  'w-full rounded-lg border px-4 py-2.5 text-stone-900 placeholder:text-stone-400',
+                  'focus:outline-none focus:ring-2'
+                )}
+                style={{
+                  borderColor: 'var(--slide-border)',
+                  backgroundColor: 'var(--slide-bg)',
+                }}
+                onFocus={(e) => {
+                  e.currentTarget.style.borderColor = 'var(--slide-accent)';
+                  e.currentTarget.style.boxShadow = `0 0 0 3px color-mix(in srgb, var(--slide-accent) 20%, transparent)`;
+                }}
+                onBlur={(e) => {
+                  e.currentTarget.style.borderColor = 'var(--slide-border)';
+                  e.currentTarget.style.boxShadow = 'none';
+                }}
               />
 
               {hasExpected && currentResponse.trim().length > 0 && (
                 <div
-                  className={clsx(
-                    'mt-3 rounded-lg px-4 py-3 text-sm',
-                    'border border-blue-200 bg-blue-50 text-blue-700'
-                  )}
+                  className="mt-3 rounded-lg border px-4 py-3 text-sm"
+                  style={{
+                    borderColor: 'var(--slide-border)',
+                    backgroundColor: 'var(--slide-bg-muted)',
+                    color: 'var(--slide-text)',
+                  }}
                 >
-                  <span className="font-semibold">Expected:</span>{' '}
+                  <span className="font-bold">Expected:</span>{' '}
                   {slide.expected_responses[idx]}
                 </div>
               )}

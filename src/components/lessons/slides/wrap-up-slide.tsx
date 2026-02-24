@@ -7,50 +7,92 @@ interface WrapUpSlideProps {
   onComplete?: () => void;
 }
 
+// Confetti colors — warm, celebratory palette
+const confettiColors = ['#f59e0b', '#ef4444', '#3b82f6', '#10b981', '#8b5cf6', '#f97316', '#ec4899', '#06b6d4'];
+
 export default function WrapUpSlide({ slide, onComplete }: WrapUpSlideProps) {
   return (
-    <div className="px-8 py-10">
-      <div className="mb-8 text-center">
-        <div className="mx-auto mb-4 flex h-16 w-16 items-center justify-center rounded-full bg-green-100">
-          <svg
-            xmlns="http://www.w3.org/2000/svg"
-            viewBox="0 0 24 24"
-            fill="currentColor"
-            className="h-8 w-8 text-green-600"
-          >
+    <div className="relative overflow-hidden px-8 py-10">
+      {/* Confetti particles */}
+      <div className="pointer-events-none absolute inset-x-0 top-0 flex justify-center gap-4">
+        {confettiColors.map((color, i) => (
+          <div
+            key={i}
+            className="confetti-piece h-3 w-3 rounded-full"
+            style={{
+              backgroundColor: color,
+              animationDelay: `${i * 0.15}s`,
+              marginLeft: `${(i - 4) * 30}px`,
+            }}
+          />
+        ))}
+      </div>
+
+      {/* Animated checkmark */}
+      <div className="mb-6 text-center">
+        <div className="scale-enter mx-auto mb-4 flex h-20 w-20 items-center justify-center rounded-full" style={{ backgroundColor: 'var(--slide-bg-muted)' }}>
+          <svg width="40" height="40" viewBox="0 0 40 40" fill="none">
+            <circle cx="20" cy="20" r="18" stroke="var(--slide-accent)" strokeWidth="3" opacity="0.3" />
             <path
-              fillRule="evenodd"
-              d="M8.603 3.799A4.49 4.49 0 0112 2.25c1.357 0 2.573.6 3.397 1.549a4.49 4.49 0 013.498 1.307 4.491 4.491 0 011.307 3.497A4.49 4.49 0 0121.75 12a4.49 4.49 0 01-1.549 3.397 4.491 4.491 0 01-1.307 3.497 4.491 4.491 0 01-3.497 1.307A4.49 4.49 0 0112 21.75a4.49 4.49 0 01-3.397-1.549 4.49 4.49 0 01-3.498-1.306 4.491 4.491 0 01-1.307-3.498A4.49 4.49 0 012.25 12c0-1.357.6-2.573 1.549-3.397a4.49 4.49 0 011.307-3.497 4.49 4.49 0 013.497-1.307zm7.007 6.387a.75.75 0 10-1.22-.872l-3.236 4.53L9.53 12.22a.75.75 0 00-1.06 1.06l2.25 2.25a.75.75 0 001.14-.094l3.75-5.25z"
-              clipRule="evenodd"
+              className="check-draw"
+              d="M12 20l6 6 10-12"
+              stroke="var(--slide-accent)"
+              strokeWidth="3.5"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              fill="none"
             />
           </svg>
         </div>
-        <h2 className="text-3xl font-bold text-stone-800">Great Work!</h2>
+        <h2
+          className="font-display text-3xl font-extrabold"
+          style={{ color: 'var(--slide-accent)' }}
+        >
+          Great Work!
+        </h2>
       </div>
 
-      <p className="mx-auto mb-6 max-w-prose text-center text-base leading-relaxed text-stone-600">
+      <p className="mx-auto mb-6 max-w-prose text-center text-base leading-relaxed" style={{ color: 'var(--slide-text-light)' }}>
         {slide.summary}
       </p>
 
       {slide.next_steps && (
-        <div className="mx-auto mb-6 max-w-prose rounded-lg border border-amber-200 bg-amber-50 px-5 py-4">
-          <p className="mb-1 text-sm font-semibold text-amber-800">
+        <div
+          className="mx-auto mb-6 max-w-prose rounded-xl border px-5 py-4"
+          style={{
+            borderColor: 'var(--slide-border)',
+            backgroundColor: 'var(--slide-bg-muted)',
+          }}
+        >
+          <p className="mb-1 text-sm font-bold" style={{ color: 'var(--slide-text)' }}>
             Next Steps
           </p>
-          <p className="text-sm leading-relaxed text-amber-700">
+          <p className="text-sm leading-relaxed" style={{ color: 'var(--slide-text-light)' }}>
             {slide.next_steps}
           </p>
         </div>
       )}
 
       {slide.extension_activities.length > 0 && (
-        <div className="mx-auto mb-6 max-w-prose rounded-lg border border-blue-200 bg-blue-50 px-5 py-4">
-          <p className="mb-2 text-sm font-semibold text-blue-800">
+        <div
+          className="mx-auto mb-6 max-w-prose rounded-xl border px-5 py-4"
+          style={{
+            borderColor: 'var(--slide-border)',
+            backgroundColor: 'white',
+          }}
+        >
+          <p className="mb-2 text-sm font-bold" style={{ color: 'var(--slide-text)' }}>
             Extension Activities
           </p>
-          <ul className="list-inside list-disc space-y-1 text-sm text-blue-700">
+          <ul className="space-y-1.5">
             {slide.extension_activities.map((activity, idx) => (
-              <li key={idx}>{activity}</li>
+              <li key={idx} className="flex items-start gap-2 text-sm" style={{ color: 'var(--slide-text-light)' }}>
+                <span
+                  className="mt-1.5 h-2 w-2 shrink-0 rounded-full"
+                  style={{ backgroundColor: 'var(--slide-accent)' }}
+                />
+                {activity}
+              </li>
             ))}
           </ul>
         </div>
@@ -61,19 +103,10 @@ export default function WrapUpSlide({ slide, onComplete }: WrapUpSlideProps) {
           <button
             type="button"
             onClick={onComplete}
-            className="inline-flex items-center gap-2 rounded-xl bg-green-700 px-8 py-3 text-base font-semibold text-white shadow-sm transition-colors hover:bg-green-800 focus:outline-none focus:ring-2 focus:ring-green-600/20 focus:ring-offset-2"
+            className="celebrate-bounce inline-flex items-center gap-2 rounded-xl bg-green-700 px-8 py-3 text-base font-bold text-white shadow-lg transition-colors hover:bg-green-800 focus:outline-none focus:ring-2 focus:ring-green-600/20 focus:ring-offset-2"
           >
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              viewBox="0 0 20 20"
-              fill="currentColor"
-              className="h-5 w-5"
-            >
-              <path
-                fillRule="evenodd"
-                d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z"
-                clipRule="evenodd"
-              />
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-5 w-5">
+              <path fillRule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clipRule="evenodd" />
             </svg>
             Mark Lesson Complete
           </button>
