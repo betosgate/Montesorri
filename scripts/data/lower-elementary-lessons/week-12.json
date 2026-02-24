@@ -10,17 +10,63 @@
     "instructions": "1. Review nouns and verbs with grammar symbols.\n2. Introduce adjectives: words that describe nouns — they tell us what kind, how many, or which one.\n3. Present the Montessori grammar symbol for adjectives (dark blue triangle).\n4. Read sentences and identify the adjectives.\n5. Play the adjective game: describe an object using five senses.\n6. The child writes sentences with vivid adjectives.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Grammar symbol cards", "Adjective word cards", "Sentence strips", "Language journal", "Pencil", "Small objects for describing"],
+    "materials_needed": [
+      "Grammar symbol cards",
+      "Adjective word cards",
+      "Sentence strips",
+      "Language journal",
+      "Pencil",
+      "Small objects for describing"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Adjectives", "subheading": "Words That Describe and Paint Pictures"},
-        {"type": "materials", "items": ["Montessori grammar symbol cards (noun, verb, adjective)", "Prepared adjective word cards (colors, sizes, textures, temperatures)", "Sentence strips with blanks for adjectives", "Language journal and pencil", "5 small objects for sensory description"], "setup_instructions": "Lay out grammar symbols. Prepare sentence strips with blanks where adjectives should go. Gather 5 interesting objects with distinct textures, colors, or shapes for the sensory game."},
-        {"type": "instruction", "step": 1, "text": "You already know nouns (black triangle) name things and verbs (red circle) show actions. Today we meet the ADJECTIVE — the word that describes a noun. Its symbol is a dark blue triangle, smaller than the noun triangle, because it depends on the noun."},
-        {"type": "instruction", "step": 2, "text": "Listen: 'The dog ran.' Now: 'The enormous, shaggy, brown dog ran.' Which sentence paints a better picture? Adjectives tell us WHAT KIND (brown), HOW MANY (three), or WHICH ONE (that). They make our language colorful!"},
-        {"type": "instruction", "step": 3, "text": "Let us use our five senses to find adjectives! Pick up this pinecone. Sight: brown, small, oval. Touch: rough, bumpy, prickly. Smell: woodsy, fresh. Each describing word is an adjective. Place the blue triangle symbol above each one."},
-        {"type": "instruction", "step": 4, "text": "Now fill in the sentence strips. 'The ___ cat sat on the ___ mat.' Choose adjectives that create a clear picture. Try different ones — 'sleepy orange cat' versus 'fierce black cat' — same sentence, completely different picture!"},
-        {"type": "activity", "prompt": "Choose 3 objects from the basket. For each object, write 5 adjectives using your senses (one for each sense if possible). Then write 4 complete sentences using at least 2 adjectives each. Place the dark blue triangle symbol above every adjective. Challenge: Can you write a sentence with 4 adjectives before the noun?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Adjectives are the artist's words — they paint pictures in the reader's mind! A good writer chooses adjectives carefully to create exactly the right image. Tomorrow, keep noticing adjectives everywhere you read.", "mastery_check": "Can the child identify adjectives in sentences, place the correct grammar symbol, and use sensory adjectives to describe objects?"}
+        {
+          "type": "title",
+          "heading": "Adjectives",
+          "subheading": "Words That Describe and Paint Pictures",
+          "image_url": "https://images.pexels.com/photos/247819/pexels-photo-247819.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Montessori grammar symbol cards (noun, verb, adjective)",
+            "Prepared adjective word cards (colors, sizes, textures, temperatures)",
+            "Sentence strips with blanks for adjectives",
+            "Language journal and pencil",
+            "5 small objects for sensory description"
+          ],
+          "setup_instructions": "Lay out grammar symbols. Prepare sentence strips with blanks where adjectives should go. Gather 5 interesting objects with distinct textures, colors, or shapes for the sensory game."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "You already know nouns (black triangle) name things and verbs (red circle) show actions. Today we meet the ADJECTIVE — the word that describes a noun. Its symbol is a dark blue triangle, smaller than the noun triangle, because it depends on the noun."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Listen: 'The dog ran.' Now: 'The enormous, shaggy, brown dog ran.' Which sentence paints a better picture? Adjectives tell us WHAT KIND (brown), HOW MANY (three), or WHICH ONE (that). They make our language colorful!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Let us use our five senses to find adjectives! Pick up this pinecone. Sight: brown, small, oval. Touch: rough, bumpy, prickly. Smell: woodsy, fresh. Each describing word is an adjective. Place the blue triangle symbol above each one."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Now fill in the sentence strips. 'The ___ cat sat on the ___ mat.' Choose adjectives that create a clear picture. Try different ones — 'sleepy orange cat' versus 'fierce black cat' — same sentence, completely different picture!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose 3 objects from the basket. For each object, write 5 adjectives using your senses (one for each sense if possible). Then write 4 complete sentences using at least 2 adjectives each. Place the dark blue triangle symbol above every adjective. Challenge: Can you write a sentence with 4 adjectives before the noun?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Adjectives are the artist's words — they paint pictures in the reader's mind! A good writer chooses adjectives carefully to create exactly the right image. Tomorrow, keep noticing adjectives everywhere you read.",
+          "mastery_check": "Can the child identify adjectives in sentences, place the correct grammar symbol, and use sensory adjectives to describe objects?"
+        }
       ]
     },
     "parent_notes": "The Montessori approach to grammar is concrete and visual. The dark blue triangle for adjectives is smaller than the black noun triangle because adjectives depend on and modify nouns. Encourage your child to notice adjectives in everyday reading. Playing 'describe it' games at meals or on walks builds vocabulary naturally. Avoid correcting creative adjective choices — the goal is fluency and confidence.",
@@ -38,17 +84,61 @@
     "instructions": "1. Review subtraction without borrowing as a warm-up.\n2. Present a problem requiring borrowing: 43 - 17.\n3. Set up 43 with golden beads: 4 ten-bars and 3 unit beads.\n4. Try to take away 7 units — not enough! Exchange 1 ten-bar for 10 units.\n5. Now we have 3 tens and 13 units. Take away 7 units = 6 units. Take away 1 ten = 2 tens. Answer: 26.\n6. Practice with several more problems.\n7. Record each step on paper.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Golden bead material", "Place value mat", "Math journal", "Pencil", "Problem cards"],
+    "materials_needed": [
+      "Golden bead material",
+      "Place value mat",
+      "Math journal",
+      "Pencil",
+      "Problem cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Subtraction with Borrowing", "subheading": "Regrouping with Golden Beads"},
-        {"type": "materials", "items": ["Golden bead material (units, ten-bars, hundred-squares)", "Place value mat with columns for hundreds, tens, units", "Math journal and pencil", "Prepared problem cards with borrowing required"], "setup_instructions": "Set up the place value mat. Have plenty of golden beads available, especially unit beads for exchanges. Prepare 8-10 subtraction problems that require borrowing in the ones place."},
-        {"type": "instruction", "step": 1, "text": "Let us subtract 43 - 17. Set up 43 on the mat: 4 ten-bars in the tens column, 3 unit beads in the units column. Now try to take away 7 units. Wait — we only have 3 units! We cannot take 7 from 3!"},
-        {"type": "instruction", "step": 2, "text": "Here is the secret: we EXCHANGE. Take 1 ten-bar back to the bank and trade it for 10 unit beads. Now we have 3 ten-bars and 13 unit beads. The VALUE is still 43 (30 + 13 = 43), but now we CAN subtract!"},
-        {"type": "instruction", "step": 3, "text": "Take away 7 units from 13 units = 6 units remain. Take away 1 ten from 3 tens = 2 tens remain. Answer: 26! On paper, we show this by crossing out the 4, writing 3 above it, crossing out the 3, and writing 13 above it."},
-        {"type": "instruction", "step": 4, "text": "Try 52 - 28. Set up 52: 5 tens and 2 units. Can we take 8 from 2? No! Exchange 1 ten for 10 units: now 4 tens and 12 units. 12 - 8 = 4 units. 4 - 2 = 2 tens. Answer: 24."},
-        {"type": "activity", "prompt": "Solve with golden beads and record each step in your math journal: 1) 61 - 25, 2) 34 - 18, 3) 72 - 37, 4) 85 - 49, 5) 50 - 23. For each one, draw the exchange step showing how many tens and units you have before and after borrowing. Circle problems where you needed to borrow.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Borrowing is really just EXCHANGING — trading 1 ten for 10 units so we have enough to subtract. The total value never changes, just how it is organized. This is the same idea as making change with money!", "mastery_check": "Can the child perform multi-digit subtraction with borrowing using golden beads and record the process on paper?"}
+        {
+          "type": "title",
+          "heading": "Subtraction with Borrowing",
+          "subheading": "Regrouping with Golden Beads",
+          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Golden bead material (units, ten-bars, hundred-squares)",
+            "Place value mat with columns for hundreds, tens, units",
+            "Math journal and pencil",
+            "Prepared problem cards with borrowing required"
+          ],
+          "setup_instructions": "Set up the place value mat. Have plenty of golden beads available, especially unit beads for exchanges. Prepare 8-10 subtraction problems that require borrowing in the ones place."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Let us subtract 43 - 17. Set up 43 on the mat: 4 ten-bars in the tens column, 3 unit beads in the units column. Now try to take away 7 units. Wait — we only have 3 units! We cannot take 7 from 3!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Here is the secret: we EXCHANGE. Take 1 ten-bar back to the bank and trade it for 10 unit beads. Now we have 3 ten-bars and 13 unit beads. The VALUE is still 43 (30 + 13 = 43), but now we CAN subtract!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Take away 7 units from 13 units = 6 units remain. Take away 1 ten from 3 tens = 2 tens remain. Answer: 26! On paper, we show this by crossing out the 4, writing 3 above it, crossing out the 3, and writing 13 above it."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Try 52 - 28. Set up 52: 5 tens and 2 units. Can we take 8 from 2? No! Exchange 1 ten for 10 units: now 4 tens and 12 units. 12 - 8 = 4 units. 4 - 2 = 2 tens. Answer: 24."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve with golden beads and record each step in your math journal: 1) 61 - 25, 2) 34 - 18, 3) 72 - 37, 4) 85 - 49, 5) 50 - 23. For each one, draw the exchange step showing how many tens and units you have before and after borrowing. Circle problems where you needed to borrow.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Borrowing is really just EXCHANGING — trading 1 ten for 10 units so we have enough to subtract. The total value never changes, just how it is organized. This is the same idea as making change with money!",
+          "mastery_check": "Can the child perform multi-digit subtraction with borrowing using golden beads and record the process on paper?"
+        }
       ]
     },
     "parent_notes": "Borrowing (regrouping) is one of the most challenging arithmetic concepts. The golden beads make it tangible — the child physically exchanges a ten-bar for 10 units, which makes the abstract algorithm concrete. Do not rush to paper-only methods. Let your child work with beads for as long as needed. Some children need weeks of concrete practice before the written algorithm makes sense. Patience here prevents years of confusion later.",
@@ -66,17 +156,62 @@
     "instructions": "1. Locate Greece on the map and timeline.\n2. Introduce the concept: before Greece, most places had kings or pharaohs who made all decisions.\n3. Explain Athenian democracy: citizens gathered in the agora to vote on laws.\n4. Discuss who could vote (free men) and who could not (women, enslaved people, foreigners).\n5. Compare to modern democracy: how is it similar and different?\n6. Hold a class vote on a topic to experience democracy.\n7. Record key facts in history journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Map of Ancient Greece", "Timeline of civilizations", "History journal", "Pencil", "Voting tokens (stones or buttons)"],
+    "materials_needed": [
+      "Map of Ancient Greece",
+      "Timeline of civilizations",
+      "History journal",
+      "Pencil",
+      "Voting tokens (stones or buttons)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Ancient Greece", "subheading": "The Birthplace of Democracy"},
-        {"type": "materials", "items": ["Map showing Ancient Greece and the Mediterranean", "Timeline of civilizations (Egypt, Mesopotamia, Greece)", "History journal and pencil", "Small stones or buttons for voting tokens", "Images of the Athenian agora"], "setup_instructions": "Display the map and timeline. Place Greece on the timeline after Egypt and Mesopotamia (around 500 BC for democracy). Prepare voting tokens — the Greeks used pottery shards called ostraka."},
-        {"type": "instruction", "step": 1, "text": "Greece is a land of mountains, islands, and sea in southeastern Europe. Around 2,500 years ago, the Greeks invented something that changed the world forever: DEMOCRACY. The word comes from Greek — 'demos' means people and 'kratos' means power. Democracy means 'power of the people.'"},
-        {"type": "instruction", "step": 2, "text": "In Athens, citizens gathered in the agora (marketplace) to discuss and VOTE on laws. No king decided for them! If they wanted to build a new temple, citizens debated it and voted. If they thought a leader was becoming too powerful, they could vote to send him away for 10 years — this was called ostracism."},
-        {"type": "instruction", "step": 3, "text": "But Athenian democracy was not perfect. Only free men born in Athens could vote — that was about 1 in 5 people! Women, enslaved people, and foreigners could NOT vote. Today, in most democracies, ALL adult citizens can vote. We have expanded the Greek idea to be more fair."},
-        {"type": "instruction", "step": 4, "text": "Let us try democracy! We will vote on something together. Each person gets one stone (like the Greeks used pottery pieces). I will propose two options. You will place your stone in the cup for your choice. The majority wins — that is democracy!"},
-        {"type": "activity", "prompt": "In your history journal, create a two-column comparison: 'Athenian Democracy' on one side and 'Modern Democracy' on the other. List at least 3 similarities and 3 differences. Then write a paragraph answering: Why was democracy such an important invention? Draw the agora with citizens voting.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The Greeks gave the world one of its greatest ideas: that ordinary people should have a say in how they are governed. Even though their version was not perfect, the IDEA of democracy has spread to countries all over the world. Every time someone votes, they are continuing what the Greeks started!", "mastery_check": "Can the child explain what democracy means, describe how Athenian democracy worked, and identify at least two differences between ancient and modern democracy?"}
+        {
+          "type": "title",
+          "heading": "Ancient Greece",
+          "subheading": "The Birthplace of Democracy",
+          "image_url": "https://images.pexels.com/photos/161858/pexels-photo-161858.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Map showing Ancient Greece and the Mediterranean",
+            "Timeline of civilizations (Egypt, Mesopotamia, Greece)",
+            "History journal and pencil",
+            "Small stones or buttons for voting tokens",
+            "Images of the Athenian agora"
+          ],
+          "setup_instructions": "Display the map and timeline. Place Greece on the timeline after Egypt and Mesopotamia (around 500 BC for democracy). Prepare voting tokens — the Greeks used pottery shards called ostraka."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Greece is a land of mountains, islands, and sea in southeastern Europe. Around 2,500 years ago, the Greeks invented something that changed the world forever: DEMOCRACY. The word comes from Greek — 'demos' means people and 'kratos' means power. Democracy means 'power of the people.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "In Athens, citizens gathered in the agora (marketplace) to discuss and VOTE on laws. No king decided for them! If they wanted to build a new temple, citizens debated it and voted. If they thought a leader was becoming too powerful, they could vote to send him away for 10 years — this was called ostracism."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "But Athenian democracy was not perfect. Only free men born in Athens could vote — that was about 1 in 5 people! Women, enslaved people, and foreigners could NOT vote. Today, in most democracies, ALL adult citizens can vote. We have expanded the Greek idea to be more fair."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Let us try democracy! We will vote on something together. Each person gets one stone (like the Greeks used pottery pieces). I will propose two options. You will place your stone in the cup for your choice. The majority wins — that is democracy!"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your history journal, create a two-column comparison: 'Athenian Democracy' on one side and 'Modern Democracy' on the other. List at least 3 similarities and 3 differences. Then write a paragraph answering: Why was democracy such an important invention? Draw the agora with citizens voting.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Greeks gave the world one of its greatest ideas: that ordinary people should have a say in how they are governed. Even though their version was not perfect, the IDEA of democracy has spread to countries all over the world. Every time someone votes, they are continuing what the Greeks started!",
+          "mastery_check": "Can the child explain what democracy means, describe how Athenian democracy worked, and identify at least two differences between ancient and modern democracy?"
+        }
       ]
     },
     "parent_notes": "Ancient Greece is rich territory for critical thinking. The concept of democracy is both inspiring (power to the people!) and complicated (but not ALL people). Encourage your child to think about fairness and inclusion. This is a great time to discuss how your own country's democracy works. If your child is interested, explore the story of Pericles, who led Athens during its golden age, or the contrast between democratic Athens and militaristic Sparta.",
@@ -94,17 +229,62 @@
     "instructions": "1. Display the puzzle map of Europe.\n2. Identify the major regions: Northern, Western, Southern, Eastern Europe.\n3. Locate key countries and their capitals: France/Paris, Germany/Berlin, Italy/Rome, Spain/Madrid, United Kingdom/London, Greece/Athens.\n4. Identify physical features: Alps, Pyrenees, Rhine River, Danube River, Mediterranean Sea, North Sea.\n5. Discuss how geography shaped European history.\n6. The child labels a map of Europe.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Puzzle map of Europe", "Atlas", "Blank outline map of Europe", "Colored pencils", "Geography journal"],
+    "materials_needed": [
+      "Puzzle map of Europe",
+      "Atlas",
+      "Blank outline map of Europe",
+      "Colored pencils",
+      "Geography journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Europe", "subheading": "Countries, Capitals, and Physical Features"},
-        {"type": "materials", "items": ["Montessori puzzle map of Europe", "Atlas or globe", "Blank outline map of Europe (printed)", "Colored pencils", "Geography journal"], "setup_instructions": "Set out the puzzle map of Europe. Print a blank outline map for labeling. Open the atlas to Europe. Have the geography journal ready for notes and observations."},
-        {"type": "instruction", "step": 1, "text": "Europe is the second-smallest continent but has a HUGE influence on world history! It is connected to Asia (together they form Eurasia) and is surrounded by the Atlantic Ocean, Arctic Ocean, Mediterranean Sea, and North Sea. Let us explore its four regions."},
-        {"type": "instruction", "step": 2, "text": "Remove the puzzle pieces as we go. Northern Europe: Norway, Sweden, Finland — land of fjords and the midnight sun. Western Europe: France, Germany, United Kingdom — powerful nations with long histories. Southern Europe: Italy, Spain, Greece — warm Mediterranean climates. Eastern Europe: Poland, Russia — vast plains and forests."},
-        {"type": "instruction", "step": 3, "text": "Europe has dramatic physical features! The Alps stretch across Switzerland, Austria, France, and Italy — the highest peak is Mont Blanc at 15,781 feet. The Rhine and Danube Rivers were ancient trade highways. The Mediterranean Sea connects Europe to Africa and Asia."},
-        {"type": "instruction", "step": 4, "text": "Geography shaped history: mountains made natural borders between countries, rivers became trade routes, and the Mediterranean Sea connected civilizations. Greece, which we are studying in history, used the sea for trade and colonization because its land was so mountainous!"},
-        {"type": "activity", "prompt": "On your blank map of Europe, label and color at least 10 countries. Mark their capitals with a star. Draw and label the Alps, Pyrenees, Rhine River, Danube River, and Mediterranean Sea. In your geography journal, write 3 facts about Europe that surprised you.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Europe may be small, but its geographic diversity — from Arctic Norway to sunny Greece, from the flat Netherlands to the towering Alps — has created an incredible variety of cultures, languages, and histories. Next time, we will zoom in on specific European countries.", "mastery_check": "Can the child locate at least 8 European countries on the puzzle map and identify 3 major physical features?"}
+        {
+          "type": "title",
+          "heading": "Europe",
+          "subheading": "Countries, Capitals, and Physical Features",
+          "image_url": "https://images.pexels.com/photos/29303947/pexels-photo-29303947.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Montessori puzzle map of Europe",
+            "Atlas or globe",
+            "Blank outline map of Europe (printed)",
+            "Colored pencils",
+            "Geography journal"
+          ],
+          "setup_instructions": "Set out the puzzle map of Europe. Print a blank outline map for labeling. Open the atlas to Europe. Have the geography journal ready for notes and observations."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Europe is the second-smallest continent but has a HUGE influence on world history! It is connected to Asia (together they form Eurasia) and is surrounded by the Atlantic Ocean, Arctic Ocean, Mediterranean Sea, and North Sea. Let us explore its four regions."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Remove the puzzle pieces as we go. Northern Europe: Norway, Sweden, Finland — land of fjords and the midnight sun. Western Europe: France, Germany, United Kingdom — powerful nations with long histories. Southern Europe: Italy, Spain, Greece — warm Mediterranean climates. Eastern Europe: Poland, Russia — vast plains and forests."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Europe has dramatic physical features! The Alps stretch across Switzerland, Austria, France, and Italy — the highest peak is Mont Blanc at 15,781 feet. The Rhine and Danube Rivers were ancient trade highways. The Mediterranean Sea connects Europe to Africa and Asia."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Geography shaped history: mountains made natural borders between countries, rivers became trade routes, and the Mediterranean Sea connected civilizations. Greece, which we are studying in history, used the sea for trade and colonization because its land was so mountainous!"
+        },
+        {
+          "type": "activity",
+          "prompt": "On your blank map of Europe, label and color at least 10 countries. Mark their capitals with a star. Draw and label the Alps, Pyrenees, Rhine River, Danube River, and Mediterranean Sea. In your geography journal, write 3 facts about Europe that surprised you.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Europe may be small, but its geographic diversity — from Arctic Norway to sunny Greece, from the flat Netherlands to the towering Alps — has created an incredible variety of cultures, languages, and histories. Next time, we will zoom in on specific European countries.",
+          "mastery_check": "Can the child locate at least 8 European countries on the puzzle map and identify 3 major physical features?"
+        }
       ]
     },
     "parent_notes": "The Montessori puzzle map of Europe is excellent for kinesthetic learning. Each country is a separate piece that the child can remove, trace, and replace. If you do not have the puzzle map, a large wall map works well. Connect geography to the current history study of Ancient Greece by having the child locate Greece and discuss how its islands and mountains influenced Greek culture. European geography is complex — focus on the big picture first, details later.",
@@ -122,16 +302,54 @@
     "instructions": "1. Introduce the book and author Roald Dahl.\n2. Read chapters 1-4 aloud with expression.\n3. Pause to discuss: How does James feel living with Aunt Sponge and Aunt Spiker?\n4. Identify character traits of each aunt using adjectives.\n5. Discuss the mysterious old man and the green crystals — make predictions.\n6. The child draws a scene from the reading.\n7. Add new vocabulary to the journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["James and the Giant Peach by Roald Dahl", "Reading journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "James and the Giant Peach by Roald Dahl",
+      "Reading journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "James and the Giant Peach", "subheading": "Chapters 1-4: A Terrible Beginning"},
-        {"type": "materials", "items": ["James and the Giant Peach by Roald Dahl", "Reading journal", "Pencil and colored pencils"], "setup_instructions": "Find a comfortable reading spot. Have the book and journal ready. Preview the chapters to prepare for reading aloud with expression — Dahl's writing begs for dramatic voices, especially for the horrible aunts!"},
-        {"type": "instruction", "step": 1, "text": "Today we begin a wonderful book by Roald Dahl, one of the world's most beloved children's authors. Dahl loved to write about ordinary children in extraordinary situations. James is an orphan forced to live with two truly terrible aunts. But something magical is about to happen..."},
-        {"type": "instruction", "step": 2, "text": "As I read, listen for ADJECTIVES — describing words! Dahl is a master of using adjectives to paint vivid pictures. How does he describe Aunt Sponge? Aunt Spiker? The hill? The old man? Keep track of your favorite descriptive words."},
-        {"type": "instruction", "step": 3, "text": "After chapters 1-4: James has met a mysterious old man who gives him a bag of magical green crystals. What do you PREDICT will happen? Why do you think the old man chose James? What clues does Dahl give us?"},
-        {"type": "activity", "prompt": "In your reading journal, create a character page for James, Aunt Sponge, and Aunt Spiker. For each character, write 3-4 adjectives that describe them and draw a small portrait. Then write your prediction: What will the green crystals do? Write at least 3 sentences explaining your prediction.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Roald Dahl begins with darkness — James is lonely, mistreated, and trapped. But the green crystals promise something magical. Great stories often start with a problem that seems impossible to solve. We will find out what happens next time!", "mastery_check": "Can the child describe the main characters using adjectives and make a prediction based on story clues?"}
+        {
+          "type": "title",
+          "heading": "James and the Giant Peach",
+          "subheading": "Chapters 1-4: A Terrible Beginning",
+          "image_url": "https://images.pexels.com/photos/8466915/pexels-photo-8466915.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "James and the Giant Peach by Roald Dahl",
+            "Reading journal",
+            "Pencil and colored pencils"
+          ],
+          "setup_instructions": "Find a comfortable reading spot. Have the book and journal ready. Preview the chapters to prepare for reading aloud with expression — Dahl's writing begs for dramatic voices, especially for the horrible aunts!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Today we begin a wonderful book by Roald Dahl, one of the world's most beloved children's authors. Dahl loved to write about ordinary children in extraordinary situations. James is an orphan forced to live with two truly terrible aunts. But something magical is about to happen..."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "As I read, listen for ADJECTIVES — describing words! Dahl is a master of using adjectives to paint vivid pictures. How does he describe Aunt Sponge? Aunt Spiker? The hill? The old man? Keep track of your favorite descriptive words."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After chapters 1-4: James has met a mysterious old man who gives him a bag of magical green crystals. What do you PREDICT will happen? Why do you think the old man chose James? What clues does Dahl give us?"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal, create a character page for James, Aunt Sponge, and Aunt Spiker. For each character, write 3-4 adjectives that describe them and draw a small portrait. Then write your prediction: What will the green crystals do? Write at least 3 sentences explaining your prediction.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Roald Dahl begins with darkness — James is lonely, mistreated, and trapped. But the green crystals promise something magical. Great stories often start with a problem that seems impossible to solve. We will find out what happens next time!",
+          "mastery_check": "Can the child describe the main characters using adjectives and make a prediction based on story clues?"
+        }
       ]
     },
     "parent_notes": "James and the Giant Peach connects perfectly to this week's language lesson on adjectives — Dahl is extraordinarily descriptive. This book also deals with themes of resilience, friendship, and escaping bad situations, which may resonate with children in various ways. Read with dramatic voices for the aunts! If your child is sensitive, preview the early chapters — the aunts are quite cruel, and James's parents' death (by rhinoceros) is mentioned. Dahl uses humor to balance the darkness.",
@@ -149,16 +367,55 @@
     "instructions": "1. Review adjectives from yesterday.\n2. Present: 'a red big ball' vs. 'a big red ball' — which sounds right?\n3. Introduce the natural order of adjectives.\n4. Practice with word cards: arrange adjectives in correct order.\n5. Read sentences and identify misplaced adjectives.\n6. Write descriptions using multiple adjectives in order.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Adjective order chart", "Word cards (adjectives and nouns)", "Language journal", "Pencil"],
+    "materials_needed": [
+      "Adjective order chart",
+      "Word cards (adjectives and nouns)",
+      "Language journal",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Adjective Order", "subheading": "Why We Say 'Big Red Ball' Not 'Red Big Ball'"},
-        {"type": "materials", "items": ["Adjective order chart (opinion, size, age, shape, color, origin, material, purpose)", "Word cards with various adjectives sorted by category", "Noun cards", "Language journal and pencil"], "setup_instructions": "Create or print an adjective order chart. Prepare word cards color-coded by category (e.g., size adjectives on one color, color adjectives on another). Have noun cards ready."},
-        {"type": "instruction", "step": 1, "text": "Say these aloud: 'a wooden old table' or 'an old wooden table.' Which sounds natural? English has a SECRET RULE that native speakers follow without thinking: adjectives go in a specific order! Opinion first, then size, age, shape, color, origin, material, purpose."},
-        {"type": "instruction", "step": 2, "text": "Example: 'a lovely (opinion) small (size) old (age) round (shape) brown (color) French (origin) wooden (material) dining (purpose) table.' We rarely use that many adjectives at once, but when we use 2 or 3, we follow this order instinctively."},
-        {"type": "instruction", "step": 3, "text": "Practice: arrange these for 'ball' — bouncy, small, red. Answer: 'a small red bouncy ball' — wait, 'bouncy' is purpose! So: 'a small (size) red (color) bouncy (purpose) ball.' Try: beautiful, Italian, leather, old — 'a beautiful old Italian leather [bag].'"},
-        {"type": "activity", "prompt": "Using the word cards, build 5 noun phrases with 2-3 adjectives each in the correct order. Write them in your journal. Then write 4 sentences using your phrases. Challenge: Find a sentence in a book that uses multiple adjectives. Copy it and label each adjective's category (size, color, etc.).", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The adjective order rule is one of those magical things about language — you already KNEW the right order, you just did not know you knew it! Now you can explain WHY 'big red ball' sounds right and 'red big ball' sounds wrong.", "mastery_check": "Can the child arrange 2-3 adjectives in the correct order before a noun and explain the general ordering rule?"}
+        {
+          "type": "title",
+          "heading": "Adjective Order",
+          "subheading": "Why We Say 'Big Red Ball' Not 'Red Big Ball'",
+          "image_url": "https://images.pexels.com/photos/8613089/pexels-photo-8613089.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Adjective order chart (opinion, size, age, shape, color, origin, material, purpose)",
+            "Word cards with various adjectives sorted by category",
+            "Noun cards",
+            "Language journal and pencil"
+          ],
+          "setup_instructions": "Create or print an adjective order chart. Prepare word cards color-coded by category (e.g., size adjectives on one color, color adjectives on another). Have noun cards ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Say these aloud: 'a wooden old table' or 'an old wooden table.' Which sounds natural? English has a SECRET RULE that native speakers follow without thinking: adjectives go in a specific order! Opinion first, then size, age, shape, color, origin, material, purpose."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Example: 'a lovely (opinion) small (size) old (age) round (shape) brown (color) French (origin) wooden (material) dining (purpose) table.' We rarely use that many adjectives at once, but when we use 2 or 3, we follow this order instinctively."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Practice: arrange these for 'ball' — bouncy, small, red. Answer: 'a small red bouncy ball' — wait, 'bouncy' is purpose! So: 'a small (size) red (color) bouncy (purpose) ball.' Try: beautiful, Italian, leather, old — 'a beautiful old Italian leather [bag].'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Using the word cards, build 5 noun phrases with 2-3 adjectives each in the correct order. Write them in your journal. Then write 4 sentences using your phrases. Challenge: Find a sentence in a book that uses multiple adjectives. Copy it and label each adjective's category (size, color, etc.).",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The adjective order rule is one of those magical things about language — you already KNEW the right order, you just did not know you knew it! Now you can explain WHY 'big red ball' sounds right and 'red big ball' sounds wrong.",
+          "mastery_check": "Can the child arrange 2-3 adjectives in the correct order before a noun and explain the general ordering rule?"
+        }
       ]
     },
     "parent_notes": "The adjective order rule is a fascinating linguistic discovery for children — they already follow it intuitively! This lesson makes implicit knowledge explicit. Do not worry about memorizing the full eight-category order; the goal is awareness that order matters. Try this fun test at dinner: say adjective combinations in wrong order and see if the family can fix them. This builds metalinguistic awareness, a key skill for strong readers and writers.",
@@ -176,16 +433,56 @@
     "instructions": "1. Review two-digit subtraction with borrowing.\n2. Present a three-digit problem: 342 - 175.\n3. Set up with golden beads: 3 hundreds, 4 tens, 2 units.\n4. Work right to left: units first (need to borrow), then tens (may need to borrow again), then hundreds.\n5. Show the possibility of double borrowing.\n6. Record each step on paper.\n7. Practice with more problems.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Golden bead material", "Place value mat", "Math journal", "Pencil", "Problem cards"],
+    "materials_needed": [
+      "Golden bead material",
+      "Place value mat",
+      "Math journal",
+      "Pencil",
+      "Problem cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Three-Digit Subtraction", "subheading": "Borrowing Across Places"},
-        {"type": "materials", "items": ["Golden bead material (units, ten-bars, hundred-squares)", "Place value mat (hundreds, tens, units columns)", "Math journal and pencil", "Prepared three-digit subtraction problems"], "setup_instructions": "Set up the place value mat with three columns clearly labeled. Have ample golden beads ready. Prepare 6-8 problems, some requiring single borrowing and some requiring double borrowing."},
-        {"type": "instruction", "step": 1, "text": "Yesterday we borrowed with two-digit numbers. Today we go bigger! Let us solve 342 - 175. Set up 342: 3 hundred-squares, 4 ten-bars, 2 unit beads. Start with units: take 5 from 2. We cannot! Borrow 1 ten-bar, exchange for 10 units. Now 12 units - 5 = 7 units."},
-        {"type": "instruction", "step": 2, "text": "Move to tens: we now have 3 ten-bars (after lending 1). Take 7 tens from 3 tens — we cannot! Borrow 1 hundred-square, exchange for 10 ten-bars. Now we have 13 tens - 7 tens = 6 tens. Finally, hundreds: 2 hundreds - 1 hundred = 1 hundred. Answer: 167!"},
-        {"type": "instruction", "step": 3, "text": "That was a DOUBLE borrow — we had to borrow in units AND tens! Let us try one with single borrowing: 458 - 293. Units: 8 - 3 = 5 (no borrow needed). Tens: 5 - 9, need to borrow! Exchange 1 hundred for 10 tens: 15 - 9 = 6. Hundreds: 3 - 2 = 1. Answer: 165."},
-        {"type": "activity", "prompt": "Solve with golden beads and record in your journal: 1) 523 - 248, 2) 631 - 357, 3) 400 - 156 (tricky!), 4) 712 - 385, 5) 845 - 279. Draw the beads for at least 2 problems showing the exchanges. Circle any problem where you had to borrow TWICE.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Three-digit subtraction follows the same rule as two-digit: when you do not have enough in a column, exchange from the next column over. Always work right to left — units first, then tens, then hundreds. You can handle BIG subtraction now!", "mastery_check": "Can the child perform three-digit subtraction with borrowing (including double borrowing) using golden beads?"}
+        {
+          "type": "title",
+          "heading": "Three-Digit Subtraction",
+          "subheading": "Borrowing Across Places",
+          "image_url": "https://images.pexels.com/photos/6693302/pexels-photo-6693302.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Golden bead material (units, ten-bars, hundred-squares)",
+            "Place value mat (hundreds, tens, units columns)",
+            "Math journal and pencil",
+            "Prepared three-digit subtraction problems"
+          ],
+          "setup_instructions": "Set up the place value mat with three columns clearly labeled. Have ample golden beads ready. Prepare 6-8 problems, some requiring single borrowing and some requiring double borrowing."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Yesterday we borrowed with two-digit numbers. Today we go bigger! Let us solve 342 - 175. Set up 342: 3 hundred-squares, 4 ten-bars, 2 unit beads. Start with units: take 5 from 2. We cannot! Borrow 1 ten-bar, exchange for 10 units. Now 12 units - 5 = 7 units."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Move to tens: we now have 3 ten-bars (after lending 1). Take 7 tens from 3 tens — we cannot! Borrow 1 hundred-square, exchange for 10 ten-bars. Now we have 13 tens - 7 tens = 6 tens. Finally, hundreds: 2 hundreds - 1 hundred = 1 hundred. Answer: 167!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "That was a DOUBLE borrow — we had to borrow in units AND tens! Let us try one with single borrowing: 458 - 293. Units: 8 - 3 = 5 (no borrow needed). Tens: 5 - 9, need to borrow! Exchange 1 hundred for 10 tens: 15 - 9 = 6. Hundreds: 3 - 2 = 1. Answer: 165."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve with golden beads and record in your journal: 1) 523 - 248, 2) 631 - 357, 3) 400 - 156 (tricky!), 4) 712 - 385, 5) 845 - 279. Draw the beads for at least 2 problems showing the exchanges. Circle any problem where you had to borrow TWICE.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Three-digit subtraction follows the same rule as two-digit: when you do not have enough in a column, exchange from the next column over. Always work right to left — units first, then tens, then hundreds. You can handle BIG subtraction now!",
+          "mastery_check": "Can the child perform three-digit subtraction with borrowing (including double borrowing) using golden beads?"
+        }
       ]
     },
     "parent_notes": "Three-digit subtraction with double borrowing is a significant milestone. Problem 3 (400 - 156) is especially tricky because there are 0 tens — the child must borrow from hundreds to get tens, then borrow from tens to get units. If this is too challenging, skip it and return later. The golden beads make each exchange visible and logical. Some children may be ready to transition to stamp game or paper methods, but there is no rush.",
@@ -203,17 +500,62 @@
     "instructions": "1. Present different magnets: bar, horseshoe, disc.\n2. Let the child explore freely — what do magnets do?\n3. Introduce vocabulary: attract, repel, magnetic force, poles.\n4. Test 15-20 objects: which are magnetic? Which are not?\n5. Sort objects into magnetic and non-magnetic groups.\n6. Discover the pattern: most magnetic objects contain iron, nickel, or cobalt.\n7. Observe attraction and repulsion between magnet poles.\n8. Record findings in science journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Bar magnet", "Horseshoe magnet", "Disc magnets", "Test objects (paper clips, coins, wood, plastic, aluminum foil, nails, rubber band, glass, keys)", "Science journal", "Pencil"],
+    "materials_needed": [
+      "Bar magnet",
+      "Horseshoe magnet",
+      "Disc magnets",
+      "Test objects (paper clips, coins, wood, plastic, aluminum foil, nails, rubber band, glass, keys)",
+      "Science journal",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Magnets", "subheading": "The Invisible Force of Magnetism"},
-        {"type": "materials", "items": ["Bar magnet, horseshoe magnet, and disc magnets", "Collection of test objects: paper clips, nails, screws, coins (penny, nickel, quarter), wooden block, plastic spoon, aluminum foil, rubber band, glass marble, brass key, steel key, copper wire", "Science journal and pencil", "Two bar magnets for pole experiments"], "setup_instructions": "Gather a variety of test objects made from different materials. Have at least two bar magnets with poles clearly marked (N and S). Set up a testing station with objects in a basket and a sorting mat with 'Magnetic' and 'Not Magnetic' labels."},
-        {"type": "instruction", "step": 1, "text": "Magnets have an invisible superpower — they can push and pull certain objects without touching them! This invisible force is called MAGNETISM. Take a bar magnet and hold it near a paper clip. What happens? The clip jumps to the magnet! The magnet ATTRACTS the paper clip."},
-        {"type": "instruction", "step": 2, "text": "Now test every object in the basket. Hold the magnet near each one. Does it attract or not? Sort them into two groups: magnetic and not magnetic. Be a scientist — test each object and record your result before moving to the next one."},
-        {"type": "instruction", "step": 3, "text": "Look at your magnetic group. What do these objects have in common? They all contain IRON, NICKEL, or COBALT — special metals that respond to magnets. Not all metals are magnetic! Aluminum, copper, and gold are metals but NOT magnetic."},
-        {"type": "instruction", "step": 4, "text": "Every magnet has two POLES: North (N) and South (S). Take two bar magnets. Bring two N poles together — they REPEL (push away)! Bring N and S together — they ATTRACT (snap together)! Remember: OPPOSITES ATTRACT, LIKES REPEL."},
-        {"type": "activity", "prompt": "Create a 'Magnet Investigation Report' in your science journal. Make a chart listing every object you tested, what material it is made of, and whether it was magnetic or not. Draw the two rules: 'Opposites attract' and 'Likes repel' with arrows showing the poles. Write 3 sentences explaining what you discovered about which materials are magnetic.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Magnets are all around us — in refrigerator doors, speakers, computer hard drives, and even the Earth itself (Earth is a giant magnet!). The invisible force of magnetism follows clear rules: it attracts iron, nickel, and cobalt, and magnets have two poles that attract or repel. Tomorrow we will explore MORE about how magnets work!", "mastery_check": "Can the child identify which materials are magnetic, explain what poles are, and demonstrate attraction and repulsion?"}
+        {
+          "type": "title",
+          "heading": "Magnets",
+          "subheading": "The Invisible Force of Magnetism",
+          "image_url": "https://images.pexels.com/photos/2098428/pexels-photo-2098428.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Bar magnet, horseshoe magnet, and disc magnets",
+            "Collection of test objects: paper clips, nails, screws, coins (penny, nickel, quarter), wooden block, plastic spoon, aluminum foil, rubber band, glass marble, brass key, steel key, copper wire",
+            "Science journal and pencil",
+            "Two bar magnets for pole experiments"
+          ],
+          "setup_instructions": "Gather a variety of test objects made from different materials. Have at least two bar magnets with poles clearly marked (N and S). Set up a testing station with objects in a basket and a sorting mat with 'Magnetic' and 'Not Magnetic' labels."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Magnets have an invisible superpower — they can push and pull certain objects without touching them! This invisible force is called MAGNETISM. Take a bar magnet and hold it near a paper clip. What happens? The clip jumps to the magnet! The magnet ATTRACTS the paper clip."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Now test every object in the basket. Hold the magnet near each one. Does it attract or not? Sort them into two groups: magnetic and not magnetic. Be a scientist — test each object and record your result before moving to the next one."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Look at your magnetic group. What do these objects have in common? They all contain IRON, NICKEL, or COBALT — special metals that respond to magnets. Not all metals are magnetic! Aluminum, copper, and gold are metals but NOT magnetic."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Every magnet has two POLES: North (N) and South (S). Take two bar magnets. Bring two N poles together — they REPEL (push away)! Bring N and S together — they ATTRACT (snap together)! Remember: OPPOSITES ATTRACT, LIKES REPEL."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a 'Magnet Investigation Report' in your science journal. Make a chart listing every object you tested, what material it is made of, and whether it was magnetic or not. Draw the two rules: 'Opposites attract' and 'Likes repel' with arrows showing the poles. Write 3 sentences explaining what you discovered about which materials are magnetic.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Magnets are all around us — in refrigerator doors, speakers, computer hard drives, and even the Earth itself (Earth is a giant magnet!). The invisible force of magnetism follows clear rules: it attracts iron, nickel, and cobalt, and magnets have two poles that attract or repel. Tomorrow we will explore MORE about how magnets work!",
+          "mastery_check": "Can the child identify which materials are magnetic, explain what poles are, and demonstrate attraction and repulsion?"
+        }
       ]
     },
     "parent_notes": "Magnets are endlessly fascinating for children this age. Let your child explore freely before introducing vocabulary — discovery before terminology is the Montessori way. The key concept is that magnetism is selective: not all metals are magnetic, which surprises many children. If you have a compass, show how it responds to magnets — this connects to Earth as a magnet. Avoid letting children put magnets near electronics, credit cards, or pacemakers.",
@@ -231,16 +573,59 @@
     "instructions": "1. Show images of ancient Greek pottery.\n2. Explain the two styles: black-figure (black figures on red clay) and red-figure (red clay figures on black background).\n3. Discuss common scenes: myths, Olympics, daily life.\n4. Note the geometric patterns and borders.\n5. The child designs their own Greek vase shape.\n6. Create a scene in either black-figure or red-figure style.\n7. Add geometric border patterns.",
     "duration_minutes": 45,
     "lesson_type": "collaborative",
-    "materials_needed": ["Images of Greek pottery", "Terracotta-colored paper or cardstock", "Black paint or markers", "White paper", "Pencil", "Fine-tipped markers"],
+    "materials_needed": [
+      "Images of Greek pottery",
+      "Terracotta-colored paper or cardstock",
+      "Black paint or markers",
+      "White paper",
+      "Pencil",
+      "Fine-tipped markers"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Greek Pottery Art", "subheading": "Black-Figure and Red-Figure Painting"},
-        {"type": "materials", "items": ["Printed images of Greek black-figure and red-figure pottery", "Terracotta/rust-colored paper or cardstock", "Black paint, black markers, or black paper", "Pencil for sketching", "Fine-tipped markers for details", "Scissors and glue"], "setup_instructions": "Print or display several examples of Greek pottery. Cut terracotta paper into vase shapes (amphora, krater, kylix). Have black paint or markers ready. Prepare geometric border pattern examples."},
-        {"type": "instruction", "step": 1, "text": "The ancient Greeks were master potters! They made beautiful vases, bowls, and cups decorated with scenes from myths, athletics, and daily life. Greek pottery tells us stories from 2,500 years ago because the pictures are so detailed and expressive."},
-        {"type": "instruction", "step": 2, "text": "There were two main styles. BLACK-FIGURE: The artist painted figures in black on the natural red-orange clay. This was the older style. RED-FIGURE: The artist painted the background black and LEFT the figures in the red clay color. This newer style allowed more detail."},
-        {"type": "instruction", "step": 3, "text": "Common scenes include: Hercules fighting the lion, athletes at the Olympics, soldiers in battle, women weaving, and the gods of Mount Olympus. Notice the geometric patterns — meanders (Greek key), waves, and palmettes — used as borders around the scenes."},
-        {"type": "activity", "prompt": "Choose a vase shape (amphora with two handles, krater with wide mouth, or kylix flat cup). On terracotta paper, draw your vase shape and cut it out. Choose black-figure or red-figure style. Create a scene showing a Greek myth, an athletic event, or daily life. Add geometric border patterns at the top and bottom. Use fine details to make your figures expressive.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Greek pottery is one of our best windows into ancient life because the images tell stories that words sometimes do not. Your pottery design is part of a tradition that is 2,500 years old! Museums around the world treasure these ancient works of art.", "mastery_check": "Can the child explain the difference between black-figure and red-figure pottery and create a design in one of the two styles?"}
+        {
+          "type": "title",
+          "heading": "Greek Pottery Art",
+          "subheading": "Black-Figure and Red-Figure Painting",
+          "image_url": "https://images.pexels.com/photos/14621739/pexels-photo-14621739.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed images of Greek black-figure and red-figure pottery",
+            "Terracotta/rust-colored paper or cardstock",
+            "Black paint, black markers, or black paper",
+            "Pencil for sketching",
+            "Fine-tipped markers for details",
+            "Scissors and glue"
+          ],
+          "setup_instructions": "Print or display several examples of Greek pottery. Cut terracotta paper into vase shapes (amphora, krater, kylix). Have black paint or markers ready. Prepare geometric border pattern examples."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The ancient Greeks were master potters! They made beautiful vases, bowls, and cups decorated with scenes from myths, athletics, and daily life. Greek pottery tells us stories from 2,500 years ago because the pictures are so detailed and expressive."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "There were two main styles. BLACK-FIGURE: The artist painted figures in black on the natural red-orange clay. This was the older style. RED-FIGURE: The artist painted the background black and LEFT the figures in the red clay color. This newer style allowed more detail."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Common scenes include: Hercules fighting the lion, athletes at the Olympics, soldiers in battle, women weaving, and the gods of Mount Olympus. Notice the geometric patterns — meanders (Greek key), waves, and palmettes — used as borders around the scenes."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose a vase shape (amphora with two handles, krater with wide mouth, or kylix flat cup). On terracotta paper, draw your vase shape and cut it out. Choose black-figure or red-figure style. Create a scene showing a Greek myth, an athletic event, or daily life. Add geometric border patterns at the top and bottom. Use fine details to make your figures expressive.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Greek pottery is one of our best windows into ancient life because the images tell stories that words sometimes do not. Your pottery design is part of a tradition that is 2,500 years old! Museums around the world treasure these ancient works of art.",
+          "mastery_check": "Can the child explain the difference between black-figure and red-figure pottery and create a design in one of the two styles?"
+        }
       ]
     },
     "parent_notes": "This art lesson connects directly to the history study of Ancient Greece. Greek pottery is accessible and engaging — children love the symmetry and storytelling. If you have air-dry clay, the child could shape an actual small pot and paint it. The geometric borders (especially the Greek key/meander pattern) are excellent for developing fine motor control and pattern recognition. Display the finished work as a gallery piece to honor the child's effort.",
@@ -258,17 +643,67 @@
     "instructions": "1. Discuss Greek food culture: Mediterranean diet, olive oil, lemons, yogurt.\n2. Read the recipe together.\n3. Gather and measure all ingredients.\n4. Cook the broth and rice together.\n5. Prepare the egg-lemon mixture (temper carefully).\n6. Combine and stir.\n7. Taste and adjust seasoning.\n8. Clean up the cooking area.",
     "duration_minutes": 45,
     "lesson_type": "collaborative",
-    "materials_needed": ["Chicken broth (4 cups)", "Rice (1/3 cup)", "Eggs (2)", "Lemons (2)", "Salt and pepper", "Pot", "Whisk", "Measuring cups", "Ladle"],
+    "materials_needed": [
+      "Chicken broth (4 cups)",
+      "Rice (1/3 cup)",
+      "Eggs (2)",
+      "Lemons (2)",
+      "Salt and pepper",
+      "Pot",
+      "Whisk",
+      "Measuring cups",
+      "Ladle"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Greek Cooking", "subheading": "Avgolemono — Egg-Lemon Soup"},
-        {"type": "materials", "items": ["4 cups chicken broth", "1/3 cup white rice", "2 eggs", "Juice of 2 lemons", "Salt and pepper to taste", "Medium pot, whisk, measuring cups, ladle, bowls"], "setup_instructions": "Gather all ingredients and tools before starting. This recipe requires adult supervision for stove work. The child handles measuring, whisking, and squeezing lemons. Pre-juice the lemons if the child finds squeezing difficult."},
-        {"type": "instruction", "step": 1, "text": "The Greeks eat a Mediterranean diet — lots of olive oil, lemons, fresh vegetables, fish, and yogurt. Today we make AVGOLEMONO (ahv-go-LEH-mo-no), a classic Greek soup. The name means 'egg-lemon' because those are the star ingredients! This soup has been made in Greece for hundreds of years."},
-        {"type": "instruction", "step": 2, "text": "Step 1: Bring 4 cups of chicken broth to a boil in the pot. Add 1/3 cup rice. Reduce heat and simmer for 15-20 minutes until rice is tender. While we wait, let us prepare the egg-lemon mixture."},
-        {"type": "instruction", "step": 3, "text": "Step 2: Whisk 2 eggs in a bowl until smooth. Add the juice of 2 lemons and whisk again. Now the important part — TEMPERING. Slowly add a ladle of hot broth to the egg mixture, whisking constantly. This warms the eggs gently so they do not scramble!"},
-        {"type": "instruction", "step": 4, "text": "Step 3: Pour the tempered egg-lemon mixture back into the pot, stirring constantly. The soup will become creamy and slightly thick. Do NOT boil it now or the eggs will curdle. Season with salt and pepper. Taste carefully — it should be tangy and savory!"},
-        {"type": "activity", "prompt": "Serve the soup in bowls. As you eat, write the recipe in your own words in a recipe journal or on a card. List the ingredients and steps from memory. Rate the soup on a scale of 1-5 and write what you might change next time. Draw a picture of your bowl of avgolemono.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "You just made a recipe that Greek families have enjoyed for centuries! Cooking connects us to other cultures and times. The Mediterranean diet is considered one of the healthiest in the world. Next time, we will make bread — another ancient food!", "mastery_check": "Can the child explain the tempering technique and follow a multi-step recipe with guidance?"}
+        {
+          "type": "title",
+          "heading": "Greek Cooking",
+          "subheading": "Avgolemono — Egg-Lemon Soup",
+          "image_url": "https://images.pexels.com/photos/6857798/pexels-photo-6857798.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "4 cups chicken broth",
+            "1/3 cup white rice",
+            "2 eggs",
+            "Juice of 2 lemons",
+            "Salt and pepper to taste",
+            "Medium pot, whisk, measuring cups, ladle, bowls"
+          ],
+          "setup_instructions": "Gather all ingredients and tools before starting. This recipe requires adult supervision for stove work. The child handles measuring, whisking, and squeezing lemons. Pre-juice the lemons if the child finds squeezing difficult."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The Greeks eat a Mediterranean diet — lots of olive oil, lemons, fresh vegetables, fish, and yogurt. Today we make AVGOLEMONO (ahv-go-LEH-mo-no), a classic Greek soup. The name means 'egg-lemon' because those are the star ingredients! This soup has been made in Greece for hundreds of years."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Step 1: Bring 4 cups of chicken broth to a boil in the pot. Add 1/3 cup rice. Reduce heat and simmer for 15-20 minutes until rice is tender. While we wait, let us prepare the egg-lemon mixture."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Step 2: Whisk 2 eggs in a bowl until smooth. Add the juice of 2 lemons and whisk again. Now the important part — TEMPERING. Slowly add a ladle of hot broth to the egg mixture, whisking constantly. This warms the eggs gently so they do not scramble!"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Step 3: Pour the tempered egg-lemon mixture back into the pot, stirring constantly. The soup will become creamy and slightly thick. Do NOT boil it now or the eggs will curdle. Season with salt and pepper. Taste carefully — it should be tangy and savory!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Serve the soup in bowls. As you eat, write the recipe in your own words in a recipe journal or on a card. List the ingredients and steps from memory. Rate the soup on a scale of 1-5 and write what you might change next time. Draw a picture of your bowl of avgolemono.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "You just made a recipe that Greek families have enjoyed for centuries! Cooking connects us to other cultures and times. The Mediterranean diet is considered one of the healthiest in the world. Next time, we will make bread — another ancient food!",
+          "mastery_check": "Can the child explain the tempering technique and follow a multi-step recipe with guidance?"
+        }
       ]
     },
     "parent_notes": "This cooking lesson connects beautifully to the Ancient Greece history study. Avgolemono is genuinely delicious and simple. The key technique is tempering — slowly warming the eggs with hot broth to prevent scrambling. Let your child do as much as safely possible: measuring, whisking, squeezing lemons. Stove work should be closely supervised. If you have dietary restrictions, substitute vegetable broth and use a different thickener (cornstarch slurry) instead of eggs. The recipe doubles easily for a family meal.",
@@ -286,16 +721,55 @@
     "instructions": "1. Present pairs of words: cap/cape, hop/hope, kit/kite, not/note, tub/tube.\n2. Read each pair aloud — notice how the vowel sound changes.\n3. Explain the rule: silent e makes the vowel say its name (long vowel sound).\n4. The child sorts word cards into short vowel and silent e groups.\n5. Build new silent e words from short vowel words.\n6. Write sentences using both versions of words.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Word pair cards (CVC and CVCe)", "Letter tiles", "Spelling journal", "Pencil", "Moveable alphabet"],
+    "materials_needed": [
+      "Word pair cards (CVC and CVCe)",
+      "Letter tiles",
+      "Spelling journal",
+      "Pencil",
+      "Moveable alphabet"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Silent E", "subheading": "The Letter That Changes Everything Without Making a Sound"},
-        {"type": "materials", "items": ["Word pair cards: cap/cape, hop/hope, kit/kite, not/note, tub/tube, pin/pine, mat/mate, bit/bite, rob/robe, cub/cube", "Letter tiles or moveable alphabet", "Spelling journal and pencil"], "setup_instructions": "Prepare word pair cards with CVC words on one side and CVCe words on the other. Set up letter tiles so the child can physically add the 'e' to words. Have the spelling journal open to a new page titled 'Silent E Magic.'"},
-        {"type": "instruction", "step": 1, "text": "Watch this magic trick! Here is the word 'cap' — c-a-p. Say it. Now I add just ONE letter to the end: e. C-a-p-e. Say it: CAPE. The 'a' changed from a short /a/ sound to a long /ay/ sound! And the 'e'? It is SILENT — it makes no sound at all, but it changed the whole word!"},
-        {"type": "instruction", "step": 2, "text": "The silent e is like a magic wand. It reaches over the consonant and taps the vowel, making it say its own name. Try more: hop (short o) → hope (long o). Kit (short i) → kite (long i). Not (short o) → note (long o). Tub (short u) → tube (long u)."},
-        {"type": "instruction", "step": 3, "text": "Use your letter tiles. Build 'pin.' Now add an 'e' at the end. P-i-n-e. PINE! The short /i/ becomes long /eye/. Build 'rob.' Add 'e.' ROBE! Build 'mat.' Add 'e.' MATE! The silent e works with ALL five vowels: a, e, i, o, u."},
-        {"type": "activity", "prompt": "In your spelling journal, create two columns: 'Short Vowel' and 'Silent E.' Write at least 10 word pairs. Then write 6 sentences, each using BOTH versions of a word pair. Example: 'I wore a cap to Cape Cod.' Challenge: Can you find 3 silent e words that do NOT follow this pattern? (Hint: have, give, come)", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The silent e is one of the most important spelling rules in English! When you see a word that ends in consonant-e, try the long vowel sound first. And when you are writing and need a long vowel in a one-syllable word, remember — add the magic e!", "mastery_check": "Can the child read CVC and CVCe word pairs correctly, explain the silent e rule, and spell at least 8 silent e words?"}
+        {
+          "type": "title",
+          "heading": "The Silent E",
+          "subheading": "The Letter That Changes Everything Without Making a Sound",
+          "image_url": "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Word pair cards: cap/cape, hop/hope, kit/kite, not/note, tub/tube, pin/pine, mat/mate, bit/bite, rob/robe, cub/cube",
+            "Letter tiles or moveable alphabet",
+            "Spelling journal and pencil"
+          ],
+          "setup_instructions": "Prepare word pair cards with CVC words on one side and CVCe words on the other. Set up letter tiles so the child can physically add the 'e' to words. Have the spelling journal open to a new page titled 'Silent E Magic.'"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Watch this magic trick! Here is the word 'cap' — c-a-p. Say it. Now I add just ONE letter to the end: e. C-a-p-e. Say it: CAPE. The 'a' changed from a short /a/ sound to a long /ay/ sound! And the 'e'? It is SILENT — it makes no sound at all, but it changed the whole word!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The silent e is like a magic wand. It reaches over the consonant and taps the vowel, making it say its own name. Try more: hop (short o) → hope (long o). Kit (short i) → kite (long i). Not (short o) → note (long o). Tub (short u) → tube (long u)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Use your letter tiles. Build 'pin.' Now add an 'e' at the end. P-i-n-e. PINE! The short /i/ becomes long /eye/. Build 'rob.' Add 'e.' ROBE! Build 'mat.' Add 'e.' MATE! The silent e works with ALL five vowels: a, e, i, o, u."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your spelling journal, create two columns: 'Short Vowel' and 'Silent E.' Write at least 10 word pairs. Then write 6 sentences, each using BOTH versions of a word pair. Example: 'I wore a cap to Cape Cod.' Challenge: Can you find 3 silent e words that do NOT follow this pattern? (Hint: have, give, come)",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The silent e is one of the most important spelling rules in English! When you see a word that ends in consonant-e, try the long vowel sound first. And when you are writing and need a long vowel in a one-syllable word, remember — add the magic e!",
+          "mastery_check": "Can the child read CVC and CVCe word pairs correctly, explain the silent e rule, and spell at least 8 silent e words?"
+        }
       ]
     },
     "parent_notes": "The silent e rule is one of the most useful spelling patterns in English. It covers hundreds of common words. After this lesson, point out silent e words in everyday reading. Note that some common words break the rule (have, give, come, done, gone) — these are worth mentioning but should not overshadow the pattern. If your child already knows this rule, challenge them with multi-syllable words containing the CVCe pattern: mistake, remote, complete.",
@@ -313,16 +787,58 @@
     "instructions": "1. Review the concept of multiplication as repeated addition.\n2. Skip count by 3s together: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30.\n3. Use the short bead chain of 3 to count and mark.\n4. Build arrays for 3 x 1 through 3 x 10.\n5. Practice facts with flash cards.\n6. Discover patterns: all products alternate even/odd; digits sum to 3, 6, or 9.\n7. Record facts in math journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Short bead chain of 3", "Bead bars", "Array grid paper", "Math journal", "Pencil", "Multiplication flash cards for 3s"],
+    "materials_needed": [
+      "Short bead chain of 3",
+      "Bead bars",
+      "Array grid paper",
+      "Math journal",
+      "Pencil",
+      "Multiplication flash cards for 3s"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Multiplication Facts", "subheading": "The 3s — Skip Counting and Patterns"},
-        {"type": "materials", "items": ["Montessori short bead chain of 3 (pink beads)", "Individual bead bars of 3", "Centimeter grid paper for arrays", "Math journal and pencil", "Multiplication flash cards for 3s table"], "setup_instructions": "Lay out the short bead chain of 3. Have individual bead bars ready for building arrays. Prepare grid paper and flash cards. Write '3 x ___' on the board for 1 through 10."},
-        {"type": "instruction", "step": 1, "text": "We know multiplication means equal groups. 3 x 4 means 4 groups of 3 (or 3 groups of 4 — same answer!). Let us master the 3s table today. Start by skip counting: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30. Say it three times!"},
-        {"type": "instruction", "step": 2, "text": "Now use the bead chain. Count every 3 beads and place a ticket: 3 at the first arrow, 6 at the second, 9 at the third. Each ticket shows a multiplication fact! The 4th arrow at 12 means 3 x 4 = 12. Count all the way to 3 x 10 = 30."},
-        {"type": "instruction", "step": 3, "text": "Build arrays on grid paper. 3 x 1 = one row of 3 dots. 3 x 2 = two rows of 3 (6 dots). 3 x 5 = five rows of 3 (15 dots). Notice a cool pattern: the products go odd, even, odd, even: 3, 6, 9, 12, 15, 18... And the digits of each product add up to 3, 6, or 9!"},
-        {"type": "activity", "prompt": "Complete the 3s table in your math journal from 3 x 1 to 3 x 12. Draw arrays for 3 x 3, 3 x 5, and 3 x 7. Practice with flash cards until you can answer each 3s fact in under 3 seconds. Write 3 word problems that use multiplication by 3. Example: 'There are 3 shelves with 6 books each. How many books?'", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The 3s have beautiful patterns! Skip counting by 3 is like a rhythm: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30. And the digit sum trick (adding the digits always gives 3, 6, or 9) helps you check your answers. Practice these facts until they are automatic!", "mastery_check": "Can the child recite the 3s table to 30, build arrays for 3 x facts, and solve 3s multiplication facts within 5 seconds?"}
+        {
+          "type": "title",
+          "heading": "Multiplication Facts",
+          "subheading": "The 3s — Skip Counting and Patterns",
+          "image_url": "https://images.pexels.com/photos/311269/pexels-photo-311269.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Montessori short bead chain of 3 (pink beads)",
+            "Individual bead bars of 3",
+            "Centimeter grid paper for arrays",
+            "Math journal and pencil",
+            "Multiplication flash cards for 3s table"
+          ],
+          "setup_instructions": "Lay out the short bead chain of 3. Have individual bead bars ready for building arrays. Prepare grid paper and flash cards. Write '3 x ___' on the board for 1 through 10."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "We know multiplication means equal groups. 3 x 4 means 4 groups of 3 (or 3 groups of 4 — same answer!). Let us master the 3s table today. Start by skip counting: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30. Say it three times!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Now use the bead chain. Count every 3 beads and place a ticket: 3 at the first arrow, 6 at the second, 9 at the third. Each ticket shows a multiplication fact! The 4th arrow at 12 means 3 x 4 = 12. Count all the way to 3 x 10 = 30."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Build arrays on grid paper. 3 x 1 = one row of 3 dots. 3 x 2 = two rows of 3 (6 dots). 3 x 5 = five rows of 3 (15 dots). Notice a cool pattern: the products go odd, even, odd, even: 3, 6, 9, 12, 15, 18... And the digits of each product add up to 3, 6, or 9!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete the 3s table in your math journal from 3 x 1 to 3 x 12. Draw arrays for 3 x 3, 3 x 5, and 3 x 7. Practice with flash cards until you can answer each 3s fact in under 3 seconds. Write 3 word problems that use multiplication by 3. Example: 'There are 3 shelves with 6 books each. How many books?'",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The 3s have beautiful patterns! Skip counting by 3 is like a rhythm: 3, 6, 9, 12, 15, 18, 21, 24, 27, 30. And the digit sum trick (adding the digits always gives 3, 6, or 9) helps you check your answers. Practice these facts until they are automatic!",
+          "mastery_check": "Can the child recite the 3s table to 30, build arrays for 3 x facts, and solve 3s multiplication facts within 5 seconds?"
+        }
       ]
     },
     "parent_notes": "The 3s table is often taught after 2s, 5s, and 10s because those have more obvious patterns. The bead chain makes the skip counting concrete and visual. The digit sum pattern is a powerful checking tool: 3 x 7 = 21, and 2 + 1 = 3. If the digits do not sum to 3, 6, or 9, the answer is wrong! Practice 3s facts during car rides, while cooking, or before bed. Fluency with basic facts is essential for later division and fractions.",
@@ -340,17 +856,62 @@
     "instructions": "1. Place the first Olympics (776 BC) on the timeline.\n2. Explain: held every 4 years in Olympia to honor Zeus.\n3. Describe the events: foot races, wrestling, discus, javelin, chariot racing.\n4. Discuss rules: only free Greek men could compete; athletes competed nude.\n5. Explain the Olympic truce: all wars stopped during the games.\n6. Compare ancient and modern Olympics.\n7. Hold a mini-Olympics with simple events.",
     "duration_minutes": 45,
     "lesson_type": "collaborative",
-    "materials_needed": ["Timeline of civilizations", "Images of ancient Olympic events", "History journal", "Pencil", "Measuring tape (for mini-Olympics)"],
+    "materials_needed": [
+      "Timeline of civilizations",
+      "Images of ancient Olympic events",
+      "History journal",
+      "Pencil",
+      "Measuring tape (for mini-Olympics)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Olympic Games", "subheading": "Ancient Greece's Greatest Festival"},
-        {"type": "materials", "items": ["Timeline of civilizations", "Images of ancient Olympic events (vase paintings)", "History journal and pencil", "Measuring tape, ball, and open space for mini-Olympics", "Olive branch or leaves for winner's wreath"], "setup_instructions": "Mark 776 BC on the timeline. Display images of Greek vases showing Olympic events. Prepare an outdoor or open indoor space for simple athletic events. Make a simple olive wreath from craft supplies or real leaves."},
-        {"type": "instruction", "step": 1, "text": "In 776 BC, the Greeks began something that would last for over 1,000 years and inspire our modern world: the OLYMPIC GAMES! Every four years, athletes from all Greek city-states traveled to Olympia to compete. The games honored Zeus, king of the gods."},
-        {"type": "instruction", "step": 2, "text": "The events were: the stadion (a 200-meter sprint — our word 'stadium' comes from this!), wrestling, boxing, the pentathlon (5 events: running, jumping, discus, javelin, wrestling), and the thrilling chariot race. Winners received an olive wreath — not gold medals! — and became heroes in their home cities."},
-        {"type": "instruction", "step": 3, "text": "The most amazing part: the OLYMPIC TRUCE. All wars between Greek cities STOPPED during the games. Armies put down their weapons. Roads became safe for travelers. The Greeks believed athletic competition was more important than fighting. Imagine if the whole world stopped fighting for sports!"},
-        {"type": "instruction", "step": 4, "text": "The modern Olympics were revived in 1896 in Athens, Greece. Today, athletes from over 200 countries compete. Women can compete (they could not in ancient times), and there are many more sports. But the spirit is the same: bringing the world together through athletics."},
-        {"type": "activity", "prompt": "In your history journal, create a comparison chart: Ancient Olympics vs. Modern Olympics. Include: when, where, who competes, events, prizes, and rules. Then hold your own mini-Olympics! Try: a sprint, a standing long jump, and a ball throw (like discus). Measure your distances and record them. Award yourself an olive wreath!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The Olympic Games are one of Ancient Greece's greatest gifts to the world. The idea that nations should put aside their differences and come together in peaceful competition is as powerful today as it was 2,800 years ago. Every modern Olympics opens with a reminder of these Greek origins.", "mastery_check": "Can the child name at least 4 ancient Olympic events, explain the Olympic truce, and compare ancient to modern Olympics?"}
+        {
+          "type": "title",
+          "heading": "The Olympic Games",
+          "subheading": "Ancient Greece's Greatest Festival",
+          "image_url": "https://images.pexels.com/photos/1701595/pexels-photo-1701595.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Timeline of civilizations",
+            "Images of ancient Olympic events (vase paintings)",
+            "History journal and pencil",
+            "Measuring tape, ball, and open space for mini-Olympics",
+            "Olive branch or leaves for winner's wreath"
+          ],
+          "setup_instructions": "Mark 776 BC on the timeline. Display images of Greek vases showing Olympic events. Prepare an outdoor or open indoor space for simple athletic events. Make a simple olive wreath from craft supplies or real leaves."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "In 776 BC, the Greeks began something that would last for over 1,000 years and inspire our modern world: the OLYMPIC GAMES! Every four years, athletes from all Greek city-states traveled to Olympia to compete. The games honored Zeus, king of the gods."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The events were: the stadion (a 200-meter sprint — our word 'stadium' comes from this!), wrestling, boxing, the pentathlon (5 events: running, jumping, discus, javelin, wrestling), and the thrilling chariot race. Winners received an olive wreath — not gold medals! — and became heroes in their home cities."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The most amazing part: the OLYMPIC TRUCE. All wars between Greek cities STOPPED during the games. Armies put down their weapons. Roads became safe for travelers. The Greeks believed athletic competition was more important than fighting. Imagine if the whole world stopped fighting for sports!"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "The modern Olympics were revived in 1896 in Athens, Greece. Today, athletes from over 200 countries compete. Women can compete (they could not in ancient times), and there are many more sports. But the spirit is the same: bringing the world together through athletics."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your history journal, create a comparison chart: Ancient Olympics vs. Modern Olympics. Include: when, where, who competes, events, prizes, and rules. Then hold your own mini-Olympics! Try: a sprint, a standing long jump, and a ball throw (like discus). Measure your distances and record them. Award yourself an olive wreath!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Olympic Games are one of Ancient Greece's greatest gifts to the world. The idea that nations should put aside their differences and come together in peaceful competition is as powerful today as it was 2,800 years ago. Every modern Olympics opens with a reminder of these Greek origins.",
+          "mastery_check": "Can the child name at least 4 ancient Olympic events, explain the Olympic truce, and compare ancient to modern Olympics?"
+        }
       ]
     },
     "parent_notes": "The Olympics connect history, geography, culture, and physical education. Children are often surprised that ancient athletes competed nude and that women could not participate. Address these naturally and honestly — they reflect the values of the time. The mini-Olympics is a highlight; measure and record results for an authentic athletic experience. If your child is interested, research which ancient events are still in the modern Olympics (running, wrestling, discus, javelin) and which are new.",
@@ -368,16 +929,58 @@
     "instructions": "1. Locate the Mediterranean Sea on the map.\n2. Identify countries that border it: Spain, France, Italy, Greece, Turkey, etc.\n3. Discuss Mediterranean climate: warm, dry summers; mild, wet winters.\n4. Explore agriculture: olives, grapes, citrus, wheat.\n5. Connect to Greek cooking lesson: Mediterranean diet.\n6. The child creates a product map showing what grows where.\n7. Compare Mediterranean climate to the child's home climate.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Map of the Mediterranean region", "Atlas", "Images of Mediterranean landscapes and crops", "Drawing paper", "Colored pencils", "Geography journal"],
+    "materials_needed": [
+      "Map of the Mediterranean region",
+      "Atlas",
+      "Images of Mediterranean landscapes and crops",
+      "Drawing paper",
+      "Colored pencils",
+      "Geography journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Mediterranean", "subheading": "Where Geography Creates Culture"},
-        {"type": "materials", "items": ["Map of the Mediterranean region", "Atlas or globe", "Images of Mediterranean landscapes, farms, and food", "Drawing paper and colored pencils", "Geography journal"], "setup_instructions": "Display a map centered on the Mediterranean Sea. Gather images showing olive groves, vineyards, citrus orchards, and Mediterranean coastlines. Have drawing materials ready for the product map."},
-        {"type": "instruction", "step": 1, "text": "The Mediterranean Sea is the world's most historically important body of water. Its name means 'middle of the land' — it sits between Europe, Africa, and Asia. Ancient Greeks, Romans, Phoenicians, and Egyptians all sailed these waters for trade, war, and exploration."},
-        {"type": "instruction", "step": 2, "text": "Mediterranean climate is special: HOT, DRY summers and MILD, WET winters. This creates perfect conditions for certain crops: olives (which love dry heat), grapes (for wine and raisins), citrus fruits (oranges, lemons), and wheat. Remember our Greek soup with lemon? Lemons thrive in this climate!"},
-        {"type": "instruction", "step": 3, "text": "Geography shaped culture here. Because the sea was calm and surrounded by land, ancient people could sail across it easily. Italy is shaped like a boot kicking into the sea. Greece has thousands of islands. Spain has long coastlines. These countries developed seafaring cultures, maritime trade, and fishing traditions."},
-        {"type": "activity", "prompt": "Draw a map of the Mediterranean region. Label the sea, at least 5 countries that border it, and 3 islands (Sicily, Crete, Sardinia). Create a product map by drawing small pictures of crops where they grow: olives in Greece and Italy, oranges in Spain, grapes in France. In your geography journal, write: How is Mediterranean climate different from where you live?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The Mediterranean region shows us how geography shapes everything — what people eat, how they travel, what they build, and how they live. The warm climate, calm sea, and fertile soil made this one of the first places where great civilizations flourished. Every time you eat an olive or squeeze a lemon, you are enjoying a Mediterranean gift!", "mastery_check": "Can the child locate the Mediterranean Sea, name 5 bordering countries, and explain how the climate affects agriculture?"}
+        {
+          "type": "title",
+          "heading": "The Mediterranean",
+          "subheading": "Where Geography Creates Culture",
+          "image_url": "https://images.pexels.com/photos/8828619/pexels-photo-8828619.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Map of the Mediterranean region",
+            "Atlas or globe",
+            "Images of Mediterranean landscapes, farms, and food",
+            "Drawing paper and colored pencils",
+            "Geography journal"
+          ],
+          "setup_instructions": "Display a map centered on the Mediterranean Sea. Gather images showing olive groves, vineyards, citrus orchards, and Mediterranean coastlines. Have drawing materials ready for the product map."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The Mediterranean Sea is the world's most historically important body of water. Its name means 'middle of the land' — it sits between Europe, Africa, and Asia. Ancient Greeks, Romans, Phoenicians, and Egyptians all sailed these waters for trade, war, and exploration."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Mediterranean climate is special: HOT, DRY summers and MILD, WET winters. This creates perfect conditions for certain crops: olives (which love dry heat), grapes (for wine and raisins), citrus fruits (oranges, lemons), and wheat. Remember our Greek soup with lemon? Lemons thrive in this climate!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Geography shaped culture here. Because the sea was calm and surrounded by land, ancient people could sail across it easily. Italy is shaped like a boot kicking into the sea. Greece has thousands of islands. Spain has long coastlines. These countries developed seafaring cultures, maritime trade, and fishing traditions."
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw a map of the Mediterranean region. Label the sea, at least 5 countries that border it, and 3 islands (Sicily, Crete, Sardinia). Create a product map by drawing small pictures of crops where they grow: olives in Greece and Italy, oranges in Spain, grapes in France. In your geography journal, write: How is Mediterranean climate different from where you live?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Mediterranean region shows us how geography shapes everything — what people eat, how they travel, what they build, and how they live. The warm climate, calm sea, and fertile soil made this one of the first places where great civilizations flourished. Every time you eat an olive or squeeze a lemon, you are enjoying a Mediterranean gift!",
+          "mastery_check": "Can the child locate the Mediterranean Sea, name 5 bordering countries, and explain how the climate affects agriculture?"
+        }
       ]
     },
     "parent_notes": "This lesson connects geography to history (Ancient Greece), cooking (avgolemono), and science (climate). The Mediterranean is a perfect case study for how geography shapes human civilization. If possible, bring in Mediterranean foods to taste: olives, feta cheese, hummus, or pita bread. Compare your local climate to Mediterranean climate — children understand geography better when they can contrast it with their own experience.",
@@ -395,16 +998,54 @@
     "instructions": "1. Review what happened in chapters 1-4.\n2. Read chapters 5-10 aloud with voices for each insect character.\n3. Pause when James enters the peach to discuss: How does he feel?\n4. Meet each insect character — identify their personality traits.\n5. Discuss the theme: James finally finds friends who accept him.\n6. The child draws the inside of the giant peach with all characters.\n7. Add new vocabulary words to the journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["James and the Giant Peach by Roald Dahl", "Reading journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "James and the Giant Peach by Roald Dahl",
+      "Reading journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "James and the Giant Peach", "subheading": "Chapters 5-10: Inside the Peach"},
-        {"type": "materials", "items": ["James and the Giant Peach by Roald Dahl", "Reading journal", "Pencil and colored pencils"], "setup_instructions": "Review the chapter 1-4 summary. Prepare distinct voices for each insect character: the dignified Old-Green-Grasshopper, the pessimistic Earthworm, the vain Centipede, the gentle Ladybug, the luminous Glowworm, and the artistic Spider."},
-        {"type": "instruction", "step": 1, "text": "Last time, the mysterious old man gave James magic green crystals, but James tripped and spilled them near an old peach tree. Today, something INCREDIBLE happens — a peach grows to the size of a house! And when James crawls inside, he discovers he is not alone..."},
-        {"type": "instruction", "step": 2, "text": "As we read, notice how Dahl introduces each insect character. Each one has a distinct personality. The Grasshopper is musical and dignified. The Centipede is loud and boastful. The Ladybug is kind and motherly. The Earthworm is worried about everything. What do these personalities remind you of?"},
-        {"type": "instruction", "step": 3, "text": "Think about James. For years he has been alone, unloved, and mistreated. Now he is surrounded by creatures who WELCOME him. How do you think he feels? Dahl is exploring a powerful theme: everyone needs friends who accept them as they are."},
-        {"type": "activity", "prompt": "Draw the inside of the giant peach showing all the characters. Label each insect with their name and 2-3 adjectives describing their personality. In your reading journal, write about which character is your favorite and why. Then predict: What will happen when the peach breaks free from the tree? Where will it go?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "James has gone from the most miserable child in the world to someone with a group of extraordinary friends. Dahl shows us that family is not always the people you are born to — sometimes it is the friends who choose you. The adventure is just beginning!", "mastery_check": "Can the child name at least 4 insect characters with personality traits and explain the theme of friendship?"}
+        {
+          "type": "title",
+          "heading": "James and the Giant Peach",
+          "subheading": "Chapters 5-10: Inside the Peach",
+          "image_url": "https://images.pexels.com/photos/10638213/pexels-photo-10638213.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "James and the Giant Peach by Roald Dahl",
+            "Reading journal",
+            "Pencil and colored pencils"
+          ],
+          "setup_instructions": "Review the chapter 1-4 summary. Prepare distinct voices for each insect character: the dignified Old-Green-Grasshopper, the pessimistic Earthworm, the vain Centipede, the gentle Ladybug, the luminous Glowworm, and the artistic Spider."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Last time, the mysterious old man gave James magic green crystals, but James tripped and spilled them near an old peach tree. Today, something INCREDIBLE happens — a peach grows to the size of a house! And when James crawls inside, he discovers he is not alone..."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "As we read, notice how Dahl introduces each insect character. Each one has a distinct personality. The Grasshopper is musical and dignified. The Centipede is loud and boastful. The Ladybug is kind and motherly. The Earthworm is worried about everything. What do these personalities remind you of?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Think about James. For years he has been alone, unloved, and mistreated. Now he is surrounded by creatures who WELCOME him. How do you think he feels? Dahl is exploring a powerful theme: everyone needs friends who accept them as they are."
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw the inside of the giant peach showing all the characters. Label each insect with their name and 2-3 adjectives describing their personality. In your reading journal, write about which character is your favorite and why. Then predict: What will happen when the peach breaks free from the tree? Where will it go?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "James has gone from the most miserable child in the world to someone with a group of extraordinary friends. Dahl shows us that family is not always the people you are born to — sometimes it is the friends who choose you. The adventure is just beginning!",
+          "mastery_check": "Can the child name at least 4 insect characters with personality traits and explain the theme of friendship?"
+        }
       ]
     },
     "parent_notes": "These chapters are the heart of the book — James finding acceptance and friendship. Each insect represents a different personality type, which is great for character analysis. Use different voices for each insect to make the reading engaging. The Centipede is comic relief, the Earthworm is the worrier, the Ladybug is nurturing — children often identify with one character. The theme of found family is powerful for all children, especially those who feel different.",
@@ -422,17 +1063,61 @@
     "instructions": "1. Review the silent e rule from yesterday.\n2. Present the problem: run + ing. Is it 'runing' or 'running'?\n3. Introduce the 1-1-1 rule: one syllable, one vowel, one final consonant = double the consonant before adding a suffix.\n4. Practice with multiple examples.\n5. Show exceptions: words ending in x, w, or y do not double.\n6. The child applies the rule to word lists.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Word cards", "Suffix cards (-ing, -ed, -er, -est)", "Spelling journal", "Pencil", "Letter tiles"],
+    "materials_needed": [
+      "Word cards",
+      "Suffix cards (-ing, -ed, -er, -est)",
+      "Spelling journal",
+      "Pencil",
+      "Letter tiles"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Double Consonants", "subheading": "The 1-1-1 Doubling Rule"},
-        {"type": "materials", "items": ["Base word cards: run, hop, sit, big, hot, swim, stop, clap, thin, sad", "Suffix cards: -ing, -ed, -er, -est", "Spelling journal and pencil", "Letter tiles for building words"], "setup_instructions": "Prepare word cards and suffix cards. Set up letter tiles. Have the spelling journal open. Write the 1-1-1 rule on a card for reference."},
-        {"type": "instruction", "step": 1, "text": "Let us add -ing to 'run.' Is it 'runing' or 'running'? Say both: 'runing' sounds like it rhymes with 'tuning.' 'Running' sounds right! We DOUBLE the 'n' before adding -ing. But why? There is a rule that tells us when to double."},
-        {"type": "instruction", "step": 2, "text": "The 1-1-1 RULE: If a word has ONE syllable, ONE vowel, and ends in ONE consonant, DOUBLE the final consonant before adding a vowel suffix (-ing, -ed, -er, -est). Run: 1 syllable, 1 vowel (u), ends in 1 consonant (n). Double the n: running, runner, runned... wait, we say 'ran.' But the rule still works!"},
-        {"type": "instruction", "step": 3, "text": "More examples: hop → hopping, hopped. Sit → sitting. Big → bigger, biggest. Hot → hotter, hottest. Swim → swimming, swimmer. Without doubling, 'hoping' would be confused with hoping (from hope with silent e!). The double consonant keeps the vowel SHORT."},
-        {"type": "instruction", "step": 4, "text": "Exceptions: Do NOT double w, x, or y: box → boxing (not boxxing), play → playing (not playying), snow → snowing (not snowwing). Also, words with two vowels do not double: read → reading, rain → raining. The rule only applies to the 1-1-1 pattern."},
-        {"type": "activity", "prompt": "In your spelling journal, add -ing and -ed (or -er/-est for adjectives) to these words. Apply the 1-1-1 rule: 1) clap, 2) thin, 3) sad, 4) step, 5) plan, 6) grin, 7) drum, 8) flat. Write 4 sentences using your doubled-consonant words. Challenge: Why does 'open' become 'opening' (not 'openning')? Hint: How many syllables?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The 1-1-1 rule explains why we double consonants: it keeps the vowel sound short! Without doubling, 'hopping' would look like 'hoping' — completely different words! This rule will help you spell correctly whenever you add -ing, -ed, -er, or -est.", "mastery_check": "Can the child apply the 1-1-1 rule to decide when to double a consonant before adding a suffix?"}
+        {
+          "type": "title",
+          "heading": "Double Consonants",
+          "subheading": "The 1-1-1 Doubling Rule",
+          "image_url": "https://images.pexels.com/photos/278888/pexels-photo-278888.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Base word cards: run, hop, sit, big, hot, swim, stop, clap, thin, sad",
+            "Suffix cards: -ing, -ed, -er, -est",
+            "Spelling journal and pencil",
+            "Letter tiles for building words"
+          ],
+          "setup_instructions": "Prepare word cards and suffix cards. Set up letter tiles. Have the spelling journal open. Write the 1-1-1 rule on a card for reference."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Let us add -ing to 'run.' Is it 'runing' or 'running'? Say both: 'runing' sounds like it rhymes with 'tuning.' 'Running' sounds right! We DOUBLE the 'n' before adding -ing. But why? There is a rule that tells us when to double."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The 1-1-1 RULE: If a word has ONE syllable, ONE vowel, and ends in ONE consonant, DOUBLE the final consonant before adding a vowel suffix (-ing, -ed, -er, -est). Run: 1 syllable, 1 vowel (u), ends in 1 consonant (n). Double the n: running, runner, runned... wait, we say 'ran.' But the rule still works!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "More examples: hop → hopping, hopped. Sit → sitting. Big → bigger, biggest. Hot → hotter, hottest. Swim → swimming, swimmer. Without doubling, 'hoping' would be confused with hoping (from hope with silent e!). The double consonant keeps the vowel SHORT."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Exceptions: Do NOT double w, x, or y: box → boxing (not boxxing), play → playing (not playying), snow → snowing (not snowwing). Also, words with two vowels do not double: read → reading, rain → raining. The rule only applies to the 1-1-1 pattern."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your spelling journal, add -ing and -ed (or -er/-est for adjectives) to these words. Apply the 1-1-1 rule: 1) clap, 2) thin, 3) sad, 4) step, 5) plan, 6) grin, 7) drum, 8) flat. Write 4 sentences using your doubled-consonant words. Challenge: Why does 'open' become 'opening' (not 'openning')? Hint: How many syllables?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The 1-1-1 rule explains why we double consonants: it keeps the vowel sound short! Without doubling, 'hopping' would look like 'hoping' — completely different words! This rule will help you spell correctly whenever you add -ing, -ed, -er, or -est.",
+          "mastery_check": "Can the child apply the 1-1-1 rule to decide when to double a consonant before adding a suffix?"
+        }
       ]
     },
     "parent_notes": "The doubling rule (1-1-1 rule) is one of the most useful spelling rules in English. It prevents confusion between short and long vowel words (hopping vs. hoping, tapping vs. taping). The challenge question about 'open/opening' extends the rule: 'open' has TWO syllables, so the rule does not apply — we only double for one-syllable words (at this level). Multi-syllable doubling rules come later. Practice noticing doubled consonants in reading material to reinforce the pattern.",
@@ -450,16 +1135,58 @@
     "instructions": "1. Review the 3s table.\n2. Introduce the 4s: skip count by 4.\n3. Discover the doubling shortcut: 4 x 6 = double (2 x 6) = double 12 = 24.\n4. Use the short bead chain of 4 to verify.\n5. Build arrays for 4 x facts.\n6. Practice with flash cards.\n7. Record the 4s table in math journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Short bead chain of 4", "Bead bars", "Array grid paper", "Math journal", "Pencil", "Multiplication flash cards for 4s"],
+    "materials_needed": [
+      "Short bead chain of 4",
+      "Bead bars",
+      "Array grid paper",
+      "Math journal",
+      "Pencil",
+      "Multiplication flash cards for 4s"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Multiplication Facts", "subheading": "The 4s — Double the Double!"},
-        {"type": "materials", "items": ["Montessori short bead chain of 4 (yellow beads)", "Individual bead bars of 4", "Centimeter grid paper for arrays", "Math journal and pencil", "Multiplication flash cards for 4s table"], "setup_instructions": "Lay out the short bead chain of 4. Have bead bars ready. Prepare grid paper and flash cards. Write the 2s table alongside the 4s table so children can see the doubling relationship."},
-        {"type": "instruction", "step": 1, "text": "Skip count by 4: 4, 8, 12, 16, 20, 24, 28, 32, 36, 40. Notice something? Every 4s fact is EVEN, and they alternate between multiples of 4 that end in 0, 4, 8, 2, 6. Let us also discover a powerful shortcut."},
-        {"type": "instruction", "step": 2, "text": "Here is the secret: 4 = 2 x 2. So multiplying by 4 is the same as doubling TWICE! Example: 4 x 6. First find 2 x 6 = 12. Then double 12 = 24. So 4 x 6 = 24! Try: 4 x 7. 2 x 7 = 14. Double 14 = 28. Check with beads: 4 groups of 7 = 28. It works!"},
-        {"type": "instruction", "step": 3, "text": "Use the bead chain to verify. Count by 4s: 4 (1st arrow), 8 (2nd), 12 (3rd), 16 (4th), 20 (5th), 24 (6th), 28 (7th), 32 (8th), 36 (9th), 40 (10th). Place tickets at each arrow. Each ticket is a multiplication fact: the 7th arrow at 28 means 4 x 7 = 28."},
-        {"type": "activity", "prompt": "Complete the 4s table from 4 x 1 to 4 x 12 in your math journal. Use the doubling strategy: write the 2s fact first, then double it to get the 4s fact. Draw arrays for 4 x 4, 4 x 6, and 4 x 8. Practice flash cards for both 3s and 4s until automatic. Write 3 word problems using multiplication by 4.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The 4s table is really the 2s table DOUBLED! This shortcut means if you know your 2s facts (and you do!), you already know your 4s facts — just double! Strategies like this make multiplication manageable. Tomorrow we start on 6s!", "mastery_check": "Can the child recite the 4s table to 40, use the doubling strategy, and solve 4s facts within 5 seconds?"}
+        {
+          "type": "title",
+          "heading": "Multiplication Facts",
+          "subheading": "The 4s — Double the Double!",
+          "image_url": "https://images.pexels.com/photos/6037812/pexels-photo-6037812.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Montessori short bead chain of 4 (yellow beads)",
+            "Individual bead bars of 4",
+            "Centimeter grid paper for arrays",
+            "Math journal and pencil",
+            "Multiplication flash cards for 4s table"
+          ],
+          "setup_instructions": "Lay out the short bead chain of 4. Have bead bars ready. Prepare grid paper and flash cards. Write the 2s table alongside the 4s table so children can see the doubling relationship."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Skip count by 4: 4, 8, 12, 16, 20, 24, 28, 32, 36, 40. Notice something? Every 4s fact is EVEN, and they alternate between multiples of 4 that end in 0, 4, 8, 2, 6. Let us also discover a powerful shortcut."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Here is the secret: 4 = 2 x 2. So multiplying by 4 is the same as doubling TWICE! Example: 4 x 6. First find 2 x 6 = 12. Then double 12 = 24. So 4 x 6 = 24! Try: 4 x 7. 2 x 7 = 14. Double 14 = 28. Check with beads: 4 groups of 7 = 28. It works!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Use the bead chain to verify. Count by 4s: 4 (1st arrow), 8 (2nd), 12 (3rd), 16 (4th), 20 (5th), 24 (6th), 28 (7th), 32 (8th), 36 (9th), 40 (10th). Place tickets at each arrow. Each ticket is a multiplication fact: the 7th arrow at 28 means 4 x 7 = 28."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete the 4s table from 4 x 1 to 4 x 12 in your math journal. Use the doubling strategy: write the 2s fact first, then double it to get the 4s fact. Draw arrays for 4 x 4, 4 x 6, and 4 x 8. Practice flash cards for both 3s and 4s until automatic. Write 3 word problems using multiplication by 4.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The 4s table is really the 2s table DOUBLED! This shortcut means if you know your 2s facts (and you do!), you already know your 4s facts — just double! Strategies like this make multiplication manageable. Tomorrow we start on 6s!",
+          "mastery_check": "Can the child recite the 4s table to 40, use the doubling strategy, and solve 4s facts within 5 seconds?"
+        }
       ]
     },
     "parent_notes": "The doubling strategy for 4s is enormously helpful because it builds on known facts (2s) rather than requiring rote memorization. This is the Montessori approach — building new knowledge on existing foundations. If your child struggles with doubling larger numbers (double 14, double 18), practice doubling even numbers first, then odd. The 4s are also all even numbers, which is a useful checking tool. Continue reviewing 3s facts alongside 4s to maintain fluency.",
@@ -477,17 +1204,64 @@
     "instructions": "1. Review magnet basics: attract, repel, poles.\n2. Place a bar magnet under a sheet of paper and sprinkle iron filings on top.\n3. Observe the patterns — these are MAGNETIC FIELD LINES.\n4. Try with two magnets attracting and repelling.\n5. Introduce the compass: a magnetized needle that aligns with Earth's magnetic field.\n6. Practice finding north, south, east, and west with the compass.\n7. Record observations in science journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Bar magnets", "Iron filings", "White paper", "Compass", "Science journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "Bar magnets",
+      "Iron filings",
+      "White paper",
+      "Compass",
+      "Science journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Magnetic Fields", "subheading": "Seeing the Invisible and Navigating with Magnets"},
-        {"type": "materials", "items": ["2 bar magnets with poles marked", "Iron filings in a sealed shaker container", "White paper or cardstock", "A compass", "Science journal, pencil, and colored pencils"], "setup_instructions": "Cover the work surface with newspaper for easy cleanup. Place a bar magnet flat under a sheet of white paper. Have iron filings ready in a shaker. Keep the compass away from the bar magnets until needed. Iron filings can be messy — contain them carefully."},
-        {"type": "instruction", "step": 1, "text": "Yesterday we learned that magnets have an invisible force. Today we are going to SEE that invisible force! Place the bar magnet under the paper. Now gently sprinkle iron filings on top. Watch what happens — the filings MOVE and arrange themselves into a pattern!"},
-        {"type": "instruction", "step": 2, "text": "Those beautiful curved lines are MAGNETIC FIELD LINES. They show the shape of the magnetic force around the magnet. Notice: the lines are densest at the poles (strongest force) and curve out in arcs from North to South pole. The magnetic field extends in ALL directions — it is three-dimensional!"},
-        {"type": "instruction", "step": 3, "text": "Now the big idea: the EARTH is a giant magnet! It has a North Magnetic Pole and a South Magnetic Pole. This is why a COMPASS works — the compass needle is a tiny magnet that aligns with Earth's magnetic field, always pointing toward magnetic north."},
-        {"type": "instruction", "step": 4, "text": "Hold the compass flat in your hand. Watch the needle settle — it points NORTH. Turn your body — the needle stays pointing north! Now you can find all four directions: face north, south is behind you, east is to your right, west is to your left. Explorers used compasses for thousands of years!"},
-        {"type": "activity", "prompt": "In your science journal, draw the magnetic field pattern you observed with iron filings. Label the North and South poles. Then do a compass activity: stand in your room and use the compass to identify which direction each wall faces. Draw a map of your room with compass directions marked. Write 3 sentences explaining how a compass works and why Earth's magnetism makes it possible.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Magnetism is one of nature's fundamental forces. It creates invisible fields around every magnet, including our planet. For centuries, the compass guided sailors across oceans and explorers through unknown lands — all because of Earth's magnetic field. Next week, we will discover even more about forces and motion!", "mastery_check": "Can the child describe magnetic field lines, explain why a compass works, and use a compass to identify the four cardinal directions?"}
+        {
+          "type": "title",
+          "heading": "Magnetic Fields",
+          "subheading": "Seeing the Invisible and Navigating with Magnets",
+          "image_url": "https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "2 bar magnets with poles marked",
+            "Iron filings in a sealed shaker container",
+            "White paper or cardstock",
+            "A compass",
+            "Science journal, pencil, and colored pencils"
+          ],
+          "setup_instructions": "Cover the work surface with newspaper for easy cleanup. Place a bar magnet flat under a sheet of white paper. Have iron filings ready in a shaker. Keep the compass away from the bar magnets until needed. Iron filings can be messy — contain them carefully."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Yesterday we learned that magnets have an invisible force. Today we are going to SEE that invisible force! Place the bar magnet under the paper. Now gently sprinkle iron filings on top. Watch what happens — the filings MOVE and arrange themselves into a pattern!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Those beautiful curved lines are MAGNETIC FIELD LINES. They show the shape of the magnetic force around the magnet. Notice: the lines are densest at the poles (strongest force) and curve out in arcs from North to South pole. The magnetic field extends in ALL directions — it is three-dimensional!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Now the big idea: the EARTH is a giant magnet! It has a North Magnetic Pole and a South Magnetic Pole. This is why a COMPASS works — the compass needle is a tiny magnet that aligns with Earth's magnetic field, always pointing toward magnetic north."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Hold the compass flat in your hand. Watch the needle settle — it points NORTH. Turn your body — the needle stays pointing north! Now you can find all four directions: face north, south is behind you, east is to your right, west is to your left. Explorers used compasses for thousands of years!"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your science journal, draw the magnetic field pattern you observed with iron filings. Label the North and South poles. Then do a compass activity: stand in your room and use the compass to identify which direction each wall faces. Draw a map of your room with compass directions marked. Write 3 sentences explaining how a compass works and why Earth's magnetism makes it possible.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Magnetism is one of nature's fundamental forces. It creates invisible fields around every magnet, including our planet. For centuries, the compass guided sailors across oceans and explorers through unknown lands — all because of Earth's magnetic field. Next week, we will discover even more about forces and motion!",
+          "mastery_check": "Can the child describe magnetic field lines, explain why a compass works, and use a compass to identify the four cardinal directions?"
+        }
       ]
     },
     "parent_notes": "Iron filings are dramatic and memorable — children never forget seeing magnetic field lines for the first time. Keep filings contained (a clear sealed bag over the magnet works well if filings are loose). The compass activity connects science to geography and history (Age of Exploration). If you do not have iron filings, you can simulate the effect by placing many small paper clips around a magnet. The Earth-as-magnet concept prepares for later studies of geology and the aurora borealis.",
@@ -505,16 +1279,58 @@
     "instructions": "1. Discuss music in Ancient Greece: it was part of education, worship, and daily life.\n2. Show images of the lyre and explain its construction.\n3. Explain the Greek discovery: string length determines pitch.\n4. Clap simple Greek rhythmic patterns (long and short syllables).\n5. Sing or listen to a simple melody in a Greek mode.\n6. The child creates a simple string instrument.\n7. Compose a short melody.",
     "duration_minutes": 45,
     "lesson_type": "collaborative",
-    "materials_needed": ["Images of Greek lyres", "Rubber bands of different sizes", "Small box or tissue box", "Rhythm sticks or claves", "Music journal", "Pencil"],
+    "materials_needed": [
+      "Images of Greek lyres",
+      "Rubber bands of different sizes",
+      "Small box or tissue box",
+      "Rhythm sticks or claves",
+      "Music journal",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Greek Music and the Lyre", "subheading": "Where Music Met Mathematics"},
-        {"type": "materials", "items": ["Images of Greek lyres and musicians from vase paintings", "Rubber bands of different sizes and thicknesses", "Small open box or tissue box (for making a lyre)", "Rhythm sticks, claves, or wooden spoons", "Music journal and pencil"], "setup_instructions": "Print images of Greek lyres. Prepare a simple lyre-making station: tissue box with rubber bands stretched across the opening. Different thicknesses and tensions will create different pitches. Have rhythm instruments ready."},
-        {"type": "instruction", "step": 1, "text": "The ancient Greeks believed music was ESSENTIAL to education. The word 'music' comes from the Greek Muses — nine goddesses of the arts. Every educated Greek child learned to play the lyre (a stringed instrument like a small harp) and to sing. Music was performed at the Olympics, at festivals, and in homes."},
-        {"type": "instruction", "step": 2, "text": "The Greek mathematician Pythagoras discovered something amazing: music and math are connected! A string that is half as long produces a note one octave higher. A string two-thirds as long produces a harmonious fifth. The Greeks believed this proved the universe was built on mathematical harmony."},
-        {"type": "instruction", "step": 3, "text": "Let us make music the Greek way! First, RHYTHM. Greek poetry had long and short syllables that created natural rhythms. Clap with me: LONG-short-short, LONG-short-short (like a waltz). This is called dactylic rhythm — the rhythm of Homer's great poems, the Iliad and Odyssey."},
-        {"type": "activity", "prompt": "Build a simple lyre from a box and rubber bands. Stretch 4-5 rubber bands of different thicknesses across the opening. Pluck each one — notice how thicker bands make lower sounds and thinner bands make higher sounds. Compose a short melody using your lyre (at least 8 notes). Draw your lyre in your music journal and write the pattern of your melody (high, medium, low notes).", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The Greeks showed us that music is not just entertainment — it is a way of understanding the universe. The connection between string length and pitch is real physics and real mathematics. When you pluck a string, you are doing what Greek musicians did 2,500 years ago!", "mastery_check": "Can the child explain the role of music in Greek life, demonstrate dactylic rhythm, and play a simple melody on the homemade lyre?"}
+        {
+          "type": "title",
+          "heading": "Greek Music and the Lyre",
+          "subheading": "Where Music Met Mathematics",
+          "image_url": "https://images.pexels.com/photos/1246437/pexels-photo-1246437.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Images of Greek lyres and musicians from vase paintings",
+            "Rubber bands of different sizes and thicknesses",
+            "Small open box or tissue box (for making a lyre)",
+            "Rhythm sticks, claves, or wooden spoons",
+            "Music journal and pencil"
+          ],
+          "setup_instructions": "Print images of Greek lyres. Prepare a simple lyre-making station: tissue box with rubber bands stretched across the opening. Different thicknesses and tensions will create different pitches. Have rhythm instruments ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The ancient Greeks believed music was ESSENTIAL to education. The word 'music' comes from the Greek Muses — nine goddesses of the arts. Every educated Greek child learned to play the lyre (a stringed instrument like a small harp) and to sing. Music was performed at the Olympics, at festivals, and in homes."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The Greek mathematician Pythagoras discovered something amazing: music and math are connected! A string that is half as long produces a note one octave higher. A string two-thirds as long produces a harmonious fifth. The Greeks believed this proved the universe was built on mathematical harmony."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Let us make music the Greek way! First, RHYTHM. Greek poetry had long and short syllables that created natural rhythms. Clap with me: LONG-short-short, LONG-short-short (like a waltz). This is called dactylic rhythm — the rhythm of Homer's great poems, the Iliad and Odyssey."
+        },
+        {
+          "type": "activity",
+          "prompt": "Build a simple lyre from a box and rubber bands. Stretch 4-5 rubber bands of different thicknesses across the opening. Pluck each one — notice how thicker bands make lower sounds and thinner bands make higher sounds. Compose a short melody using your lyre (at least 8 notes). Draw your lyre in your music journal and write the pattern of your melody (high, medium, low notes).",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Greeks showed us that music is not just entertainment — it is a way of understanding the universe. The connection between string length and pitch is real physics and real mathematics. When you pluck a string, you are doing what Greek musicians did 2,500 years ago!",
+          "mastery_check": "Can the child explain the role of music in Greek life, demonstrate dactylic rhythm, and play a simple melody on the homemade lyre?"
+        }
       ]
     },
     "parent_notes": "This lesson connects music, history, math, and science beautifully. The homemade lyre is simple but effective — different rubber band thicknesses and tensions create genuinely different pitches. If your child is learning an instrument, connect it to the Greek tradition of musical education. The Pythagoras connection (music-math relationship) is profound — it is the foundation of acoustic physics. Play recordings of reconstructed ancient Greek music if available online to give your child a sense of the sound.",
@@ -532,17 +1348,64 @@
     "instructions": "1. Discuss sewing as a practical life skill throughout history.\n2. Thread a needle and tie a knot (demonstrate multiple times).\n3. Demonstrate the running stitch on burlap: up-down-up-down.\n4. The child practices rows of running stitch.\n5. Demonstrate the whip stitch along an edge.\n6. The child practices whip stitch.\n7. Begin a simple project: bookmark or small pouch.\n8. Clean up and store materials safely.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Large-eye embroidery needles", "Embroidery thread or yarn", "Burlap or felt squares", "Scissors", "Pins", "Thimble (optional)"],
+    "materials_needed": [
+      "Large-eye embroidery needles",
+      "Embroidery thread or yarn",
+      "Burlap or felt squares",
+      "Scissors",
+      "Pins",
+      "Thimble (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Hand Sewing", "subheading": "Running Stitch and Whip Stitch"},
-        {"type": "materials", "items": ["Large-eye embroidery needles (blunt tip for safety)", "Embroidery thread or yarn in various colors", "Burlap squares or felt squares (6-inch)", "Scissors", "Straight pins", "Optional: thimble for pushing needle through"], "setup_instructions": "Pre-cut burlap or felt into squares. Thread several needles in advance if the child cannot yet thread a needle. Mark dotted lines on the fabric with a pencil for the child to follow with stitches. Have a pincushion ready for safe needle storage."},
-        {"type": "instruction", "step": 1, "text": "Sewing is one of humanity's oldest skills — people have been stitching fabric, leather, and animal skins for over 25,000 years! Today, knowing how to sew means you can mend clothes, make gifts, and create art. Let us learn two basic stitches that are the foundation of all sewing."},
-        {"type": "instruction", "step": 2, "text": "First, thread the needle: hold the thread end between thumb and finger, push it through the eye of the needle, pull it through, and tie a knot at the other end. The knot keeps the thread from pulling through the fabric. I will demonstrate, then you try."},
-        {"type": "instruction", "step": 3, "text": "The RUNNING STITCH: Push the needle UP through the fabric from the back. Pull the thread through. Now push the needle DOWN about half an inch away. Pull through. Up again, down again — up, down, up, down. You are 'running' through the fabric! Keep stitches even and straight."},
-        {"type": "instruction", "step": 4, "text": "The WHIP STITCH: This goes over the edge of the fabric. Start from the back, bring the needle over the edge to the front, then go through the back again a little further along. The thread wraps over the edge like a spiral. This stitch is used to join two pieces or finish edges."},
-        {"type": "activity", "prompt": "Practice both stitches on your fabric square. Make 3 rows of running stitch across the middle (try different colors for each row). Then whip stitch all the way around the edges. Focus on keeping stitches even in size and spacing. If time allows, begin a bookmark: fold a strip of felt in half, whip stitch the edges, and decorate with running stitch patterns.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "You have learned two stitches that can make almost anything! Running stitch joins fabric together, and whip stitch finishes edges beautifully. Sewing teaches patience and precision — every stitch matters. Always put needles in the pincushion when you stop working, never leave them loose.", "mastery_check": "Can the child thread a needle, tie a knot, and produce even running stitches and whip stitches?"}
+        {
+          "type": "title",
+          "heading": "Hand Sewing",
+          "subheading": "Running Stitch and Whip Stitch",
+          "image_url": "https://images.pexels.com/photos/7828280/pexels-photo-7828280.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large-eye embroidery needles (blunt tip for safety)",
+            "Embroidery thread or yarn in various colors",
+            "Burlap squares or felt squares (6-inch)",
+            "Scissors",
+            "Straight pins",
+            "Optional: thimble for pushing needle through"
+          ],
+          "setup_instructions": "Pre-cut burlap or felt into squares. Thread several needles in advance if the child cannot yet thread a needle. Mark dotted lines on the fabric with a pencil for the child to follow with stitches. Have a pincushion ready for safe needle storage."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Sewing is one of humanity's oldest skills — people have been stitching fabric, leather, and animal skins for over 25,000 years! Today, knowing how to sew means you can mend clothes, make gifts, and create art. Let us learn two basic stitches that are the foundation of all sewing."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "First, thread the needle: hold the thread end between thumb and finger, push it through the eye of the needle, pull it through, and tie a knot at the other end. The knot keeps the thread from pulling through the fabric. I will demonstrate, then you try."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The RUNNING STITCH: Push the needle UP through the fabric from the back. Pull the thread through. Now push the needle DOWN about half an inch away. Pull through. Up again, down again — up, down, up, down. You are 'running' through the fabric! Keep stitches even and straight."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "The WHIP STITCH: This goes over the edge of the fabric. Start from the back, bring the needle over the edge to the front, then go through the back again a little further along. The thread wraps over the edge like a spiral. This stitch is used to join two pieces or finish edges."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice both stitches on your fabric square. Make 3 rows of running stitch across the middle (try different colors for each row). Then whip stitch all the way around the edges. Focus on keeping stitches even in size and spacing. If time allows, begin a bookmark: fold a strip of felt in half, whip stitch the edges, and decorate with running stitch patterns.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "You have learned two stitches that can make almost anything! Running stitch joins fabric together, and whip stitch finishes edges beautifully. Sewing teaches patience and precision — every stitch matters. Always put needles in the pincushion when you stop working, never leave them loose.",
+          "mastery_check": "Can the child thread a needle, tie a knot, and produce even running stitches and whip stitches?"
+        }
       ]
     },
     "parent_notes": "Hand sewing is a quintessential Montessori practical life activity. It develops fine motor control, concentration, patience, and independence. Start with large-eye blunt needles and open-weave fabric like burlap, which has visible holes to guide stitches. Felt is also excellent because it does not fray. Supervise needle use but let the child do the work. If threading the needle is too frustrating, use self-threading needles or pre-thread several needles. The sense of accomplishment when completing a sewn item is tremendous.",
@@ -560,16 +1423,57 @@
     "instructions": "1. Review adjectives and the senses.\n2. Introduce paragraph structure: topic sentence, detail sentences, closing sentence.\n3. Model writing a descriptive paragraph together.\n4. The child chooses a topic to describe.\n5. Brainstorm adjectives and sensory details.\n6. Write a draft paragraph.\n7. Revise for vivid adjectives and correct spelling.\n8. Write a final copy.",
     "duration_minutes": 45,
     "lesson_type": "independent",
-    "materials_needed": ["Language journal", "Pencil", "Eraser", "Adjective reference chart", "Spelling reference sheet"],
+    "materials_needed": [
+      "Language journal",
+      "Pencil",
+      "Eraser",
+      "Adjective reference chart",
+      "Spelling reference sheet"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Journal Writing", "subheading": "Painting Pictures with Words"},
-        {"type": "materials", "items": ["Language journal", "Pencil and eraser", "Adjective reference chart from earlier this week", "Spelling rules reference (silent e, doubling rule)", "Sensory brainstorming worksheet (see, hear, touch, taste, smell)"], "setup_instructions": "Open the journal to a new page. Have the adjective chart and spelling references visible. Prepare a sensory brainstorming template or draw one: a star with five points labeled with the five senses."},
-        {"type": "instruction", "step": 1, "text": "A good paragraph is like a sandwich. The TOPIC SENTENCE is the top bread — it tells the reader what the paragraph is about. The DETAIL SENTENCES are the filling — they give specific information using sensory adjectives. The CLOSING SENTENCE is the bottom bread — it wraps everything up."},
-        {"type": "instruction", "step": 2, "text": "Let us write one together. Topic: My favorite tree. Topic sentence: 'The old oak tree in our yard is my favorite place in the whole world.' Now add sensory details: 'Its rough, gray bark feels like elephant skin under my fingers. Bright green leaves rustle and whisper in the summer breeze.'"},
-        {"type": "instruction", "step": 3, "text": "Notice how those sentences use ADJECTIVES (rough, gray, bright, green) and SENSES (touch — feels like; sight — bright green; hearing — rustle and whisper). Closing sentence: 'When I sit beneath its wide branches, I feel peaceful and safe.' Now YOU try with your own topic!"},
-        {"type": "activity", "prompt": "Choose a topic you know well: your pet, your room, a favorite place, or a favorite food. First, brainstorm on the sensory star: list what you see, hear, touch, taste, and smell. Then write a paragraph with: 1 topic sentence, 3-4 detail sentences using sensory adjectives, and 1 closing sentence. Use at least 6 adjectives and check your spelling using the silent e and doubling rules. Revise and write a final clean copy.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "You are becoming a writer! A descriptive paragraph lets you share exactly what something looks, sounds, feels, tastes, and smells like. Good writers choose their adjectives carefully — not just 'nice' or 'good,' but specific words like 'cozy,' 'fragrant,' 'sparkling,' or 'velvety.' Keep writing in your journal every day!", "mastery_check": "Can the child write a paragraph with a topic sentence, 3+ detail sentences using sensory adjectives, and a closing sentence?"}
+        {
+          "type": "title",
+          "heading": "Journal Writing",
+          "subheading": "Painting Pictures with Words",
+          "image_url": "https://images.pexels.com/photos/256468/pexels-photo-256468.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Language journal",
+            "Pencil and eraser",
+            "Adjective reference chart from earlier this week",
+            "Spelling rules reference (silent e, doubling rule)",
+            "Sensory brainstorming worksheet (see, hear, touch, taste, smell)"
+          ],
+          "setup_instructions": "Open the journal to a new page. Have the adjective chart and spelling references visible. Prepare a sensory brainstorming template or draw one: a star with five points labeled with the five senses."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A good paragraph is like a sandwich. The TOPIC SENTENCE is the top bread — it tells the reader what the paragraph is about. The DETAIL SENTENCES are the filling — they give specific information using sensory adjectives. The CLOSING SENTENCE is the bottom bread — it wraps everything up."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Let us write one together. Topic: My favorite tree. Topic sentence: 'The old oak tree in our yard is my favorite place in the whole world.' Now add sensory details: 'Its rough, gray bark feels like elephant skin under my fingers. Bright green leaves rustle and whisper in the summer breeze.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Notice how those sentences use ADJECTIVES (rough, gray, bright, green) and SENSES (touch — feels like; sight — bright green; hearing — rustle and whisper). Closing sentence: 'When I sit beneath its wide branches, I feel peaceful and safe.' Now YOU try with your own topic!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose a topic you know well: your pet, your room, a favorite place, or a favorite food. First, brainstorm on the sensory star: list what you see, hear, touch, taste, and smell. Then write a paragraph with: 1 topic sentence, 3-4 detail sentences using sensory adjectives, and 1 closing sentence. Use at least 6 adjectives and check your spelling using the silent e and doubling rules. Revise and write a final clean copy.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "You are becoming a writer! A descriptive paragraph lets you share exactly what something looks, sounds, feels, tastes, and smells like. Good writers choose their adjectives carefully — not just 'nice' or 'good,' but specific words like 'cozy,' 'fragrant,' 'sparkling,' or 'velvety.' Keep writing in your journal every day!",
+          "mastery_check": "Can the child write a paragraph with a topic sentence, 3+ detail sentences using sensory adjectives, and a closing sentence?"
+        }
       ]
     },
     "parent_notes": "This lesson synthesizes the entire week's language work: adjectives, adjective order, silent e, and double consonants all come together in paragraph writing. Focus on content and creativity first — spelling and grammar can be polished in revision. The sandwich analogy for paragraph structure is simple and effective. Encourage daily journal writing even outside lessons. Some children struggle with 'What should I write about?' — keep a list of prompts visible. Celebrate the writing rather than critiquing it.",
@@ -587,17 +1491,61 @@
     "instructions": "1. Present the fraction circles: whole (1), halves (1/2), thirds (1/3), fourths (1/4).\n2. Remove pieces and discuss: each piece is one PART of a WHOLE.\n3. Introduce fraction notation: numerator (parts we have) over denominator (total equal parts).\n4. Compare: which is bigger, 1/2 or 1/3? Overlay the pieces to see.\n5. Find equivalent fractions: 2/4 = 1/2.\n6. Solve fraction problems using the circles.\n7. Record in math journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Montessori fraction circles (insets)", "Math journal", "Pencil", "Colored pencils", "Fraction notation cards"],
+    "materials_needed": [
+      "Montessori fraction circles (insets)",
+      "Math journal",
+      "Pencil",
+      "Colored pencils",
+      "Fraction notation cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Fractions", "subheading": "Halves, Thirds, and Fourths — Understanding Parts of a Whole"},
-        {"type": "materials", "items": ["Montessori fraction circle insets (whole, halves, thirds, fourths)", "Math journal and pencil", "Colored pencils matching the fraction circle colors", "Fraction notation cards (1/2, 1/3, 1/4, 2/3, 2/4, 3/4)"], "setup_instructions": "Set out the fraction circle insets: red whole, yellow halves, green thirds, blue fourths. Place fraction notation cards nearby. Open the math journal to a page titled 'Exploring Fractions.'"},
-        {"type": "instruction", "step": 1, "text": "This red circle is ONE WHOLE — it is complete, nothing missing. Now look at the yellow circle — it is cut into TWO equal parts. Each part is called one HALF. We write it as 1/2. The bottom number (2) tells us how many equal parts. The top number (1) tells us how many parts we have."},
-        {"type": "instruction", "step": 2, "text": "The green circle is cut into THREE equal parts. Each part is one THIRD (1/3). The blue circle is cut into FOUR equal parts. Each part is one FOURTH or one QUARTER (1/4). Notice: the MORE pieces a circle is divided into, the SMALLER each piece gets! 1/4 is smaller than 1/3, which is smaller than 1/2."},
-        {"type": "instruction", "step": 3, "text": "Now let us discover EQUIVALENT FRACTIONS! Take 2 fourth-pieces and place them over 1 half-piece. They are the SAME size! 2/4 = 1/2. This means two-fourths is the same amount as one-half. Fractions can look different but be equal!"},
-        {"type": "instruction", "step": 4, "text": "Let us compare fractions. Which is bigger: 2/3 or 3/4? Take 2 third-pieces and 3 fourth-pieces. Place them side by side. 3/4 is slightly bigger! You can SEE and FEEL which fraction is larger by using the circles — no need to guess."},
-        {"type": "activity", "prompt": "In your math journal: 1) Draw and color the fraction circles for 1/2, 1/3, and 1/4. Label each piece. 2) Use the circles to find: which is bigger, 1/2 or 1/3? Draw to show. 3) Find another equivalent fraction pair using the circles. 4) If you eat 2/4 of a pizza, what simpler fraction is that equal to? 5) Put these in order from smallest to biggest: 1/2, 1/4, 1/3.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Fractions are everywhere — in cooking (1/2 cup), in music (half notes, quarter notes), in time (quarter past), and in sharing (split something in thirds). The fraction circles let you SEE and TOUCH fractions, making them real. Remember: the bigger the denominator, the smaller each piece!", "mastery_check": "Can the child identify halves, thirds, and fourths, write fractions correctly, compare fractions using circles, and find at least one equivalent fraction?"}
+        {
+          "type": "title",
+          "heading": "Fractions",
+          "subheading": "Halves, Thirds, and Fourths — Understanding Parts of a Whole",
+          "image_url": "https://images.pexels.com/photos/1019470/pexels-photo-1019470.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Montessori fraction circle insets (whole, halves, thirds, fourths)",
+            "Math journal and pencil",
+            "Colored pencils matching the fraction circle colors",
+            "Fraction notation cards (1/2, 1/3, 1/4, 2/3, 2/4, 3/4)"
+          ],
+          "setup_instructions": "Set out the fraction circle insets: red whole, yellow halves, green thirds, blue fourths. Place fraction notation cards nearby. Open the math journal to a page titled 'Exploring Fractions.'"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "This red circle is ONE WHOLE — it is complete, nothing missing. Now look at the yellow circle — it is cut into TWO equal parts. Each part is called one HALF. We write it as 1/2. The bottom number (2) tells us how many equal parts. The top number (1) tells us how many parts we have."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The green circle is cut into THREE equal parts. Each part is one THIRD (1/3). The blue circle is cut into FOUR equal parts. Each part is one FOURTH or one QUARTER (1/4). Notice: the MORE pieces a circle is divided into, the SMALLER each piece gets! 1/4 is smaller than 1/3, which is smaller than 1/2."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Now let us discover EQUIVALENT FRACTIONS! Take 2 fourth-pieces and place them over 1 half-piece. They are the SAME size! 2/4 = 1/2. This means two-fourths is the same amount as one-half. Fractions can look different but be equal!"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Let us compare fractions. Which is bigger: 2/3 or 3/4? Take 2 third-pieces and 3 fourth-pieces. Place them side by side. 3/4 is slightly bigger! You can SEE and FEEL which fraction is larger by using the circles — no need to guess."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your math journal: 1) Draw and color the fraction circles for 1/2, 1/3, and 1/4. Label each piece. 2) Use the circles to find: which is bigger, 1/2 or 1/3? Draw to show. 3) Find another equivalent fraction pair using the circles. 4) If you eat 2/4 of a pizza, what simpler fraction is that equal to? 5) Put these in order from smallest to biggest: 1/2, 1/4, 1/3.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Fractions are everywhere — in cooking (1/2 cup), in music (half notes, quarter notes), in time (quarter past), and in sharing (split something in thirds). The fraction circles let you SEE and TOUCH fractions, making them real. Remember: the bigger the denominator, the smaller each piece!",
+          "mastery_check": "Can the child identify halves, thirds, and fourths, write fractions correctly, compare fractions using circles, and find at least one equivalent fraction?"
+        }
       ]
     },
     "parent_notes": "Fraction circles are one of the most important Montessori math materials. The concrete experience of holding fraction pieces and comparing them builds deep understanding that prevents the fraction confusion many students experience later. Key concepts: fractions are equal parts of a whole, the denominator names the fraction, and fractions can be equivalent. Do NOT rush to paper procedures — let the child manipulate the circles extensively. Point out fractions in daily life: half an apple, a quarter of an hour, one-third of the cookies.",
@@ -615,16 +1563,56 @@
     "instructions": "1. Introduce mythology: stories that explain how the world works.\n2. Present the twelve Olympians: Zeus, Hera, Poseidon, Athena, Apollo, Artemis, Ares, Aphrodite, Hermes, Hephaestus, Demeter, Dionysus.\n3. Tell one myth in full: Demeter and Persephone (explaining seasons).\n4. Discuss: How did the Greeks use myths to explain things science had not yet answered?\n5. The child chooses a god/goddess to research and illustrate.\n6. Connect to the Olympic Games: held in honor of Zeus.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Greek mythology book", "Images of Greek gods", "History journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "Greek mythology book",
+      "Images of Greek gods",
+      "History journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Gods of Olympus", "subheading": "Greek Myths and the Stories Behind the World"},
-        {"type": "materials", "items": ["Greek mythology book or reference (D'Aulaires' Book of Greek Myths is excellent)", "Images of the twelve Olympian gods and goddesses", "History journal and pencil", "Colored pencils for illustration"], "setup_instructions": "Display images of the twelve Olympians with their names and domains. Prepare to tell the myth of Demeter and Persephone. Have the mythology reference available for the child to browse during independent work."},
-        {"type": "instruction", "step": 1, "text": "Before science could explain earthquakes, storms, and seasons, people created MYTHS — sacred stories that explained the world. The Greeks had some of the greatest myths ever told! They believed twelve powerful gods and goddesses lived on Mount Olympus, the highest mountain in Greece."},
-        {"type": "instruction", "step": 2, "text": "The twelve Olympians: ZEUS — king, god of sky and thunder. HERA — queen, goddess of family. POSEIDON — god of the sea. ATHENA — goddess of wisdom. APOLLO — god of sun, music, and truth. ARTEMIS — goddess of the hunt and moon. ARES — god of war. APHRODITE — goddess of love. HERMES — messenger god. HEPHAESTUS — god of fire and metalwork. DEMETER — goddess of harvest. DIONYSUS — god of wine and celebration."},
-        {"type": "instruction", "step": 3, "text": "Here is the myth of the seasons: Demeter's daughter Persephone was taken to the Underworld by Hades. Demeter was so grief-stricken that all plants died (winter). Zeus arranged a compromise: Persephone spends half the year with Hades (fall and winter — Demeter grieves) and half with her mother (spring and summer — Demeter rejoices and everything grows)."},
-        {"type": "activity", "prompt": "In your history journal, create a 'Gods of Olympus' reference page. List at least 8 gods/goddesses with their domain (what they rule over) and one symbol (Zeus = lightning bolt, Poseidon = trident, Athena = owl, etc.). Choose one god or goddess to illustrate in detail. Then write: What natural event does the Demeter myth explain? Can you think of a natural event and create your own myth to explain it?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Greek myths were not just stories — they were how people understood the world before science. But even today, Greek mythology is everywhere: in planet names (Mercury, Venus, Mars), in words (atlas, echo, panic), and in stories and movies. These tales have lasted 3,000 years because they tell truths about human nature.", "mastery_check": "Can the child name at least 6 Olympian gods with their domains and retell the myth of Demeter and Persephone to explain the seasons?"}
+        {
+          "type": "title",
+          "heading": "The Gods of Olympus",
+          "subheading": "Greek Myths and the Stories Behind the World",
+          "image_url": "https://images.pexels.com/photos/1178684/pexels-photo-1178684.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Greek mythology book or reference (D'Aulaires' Book of Greek Myths is excellent)",
+            "Images of the twelve Olympian gods and goddesses",
+            "History journal and pencil",
+            "Colored pencils for illustration"
+          ],
+          "setup_instructions": "Display images of the twelve Olympians with their names and domains. Prepare to tell the myth of Demeter and Persephone. Have the mythology reference available for the child to browse during independent work."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Before science could explain earthquakes, storms, and seasons, people created MYTHS — sacred stories that explained the world. The Greeks had some of the greatest myths ever told! They believed twelve powerful gods and goddesses lived on Mount Olympus, the highest mountain in Greece."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The twelve Olympians: ZEUS — king, god of sky and thunder. HERA — queen, goddess of family. POSEIDON — god of the sea. ATHENA — goddess of wisdom. APOLLO — god of sun, music, and truth. ARTEMIS — goddess of the hunt and moon. ARES — god of war. APHRODITE — goddess of love. HERMES — messenger god. HEPHAESTUS — god of fire and metalwork. DEMETER — goddess of harvest. DIONYSUS — god of wine and celebration."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Here is the myth of the seasons: Demeter's daughter Persephone was taken to the Underworld by Hades. Demeter was so grief-stricken that all plants died (winter). Zeus arranged a compromise: Persephone spends half the year with Hades (fall and winter — Demeter grieves) and half with her mother (spring and summer — Demeter rejoices and everything grows)."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your history journal, create a 'Gods of Olympus' reference page. List at least 8 gods/goddesses with their domain (what they rule over) and one symbol (Zeus = lightning bolt, Poseidon = trident, Athena = owl, etc.). Choose one god or goddess to illustrate in detail. Then write: What natural event does the Demeter myth explain? Can you think of a natural event and create your own myth to explain it?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Greek myths were not just stories — they were how people understood the world before science. But even today, Greek mythology is everywhere: in planet names (Mercury, Venus, Mars), in words (atlas, echo, panic), and in stories and movies. These tales have lasted 3,000 years because they tell truths about human nature.",
+          "mastery_check": "Can the child name at least 6 Olympian gods with their domains and retell the myth of Demeter and Persephone to explain the seasons?"
+        }
       ]
     },
     "parent_notes": "Greek mythology is endlessly fascinating for children this age. D'Aulaires' Book of Greek Myths is the gold standard for elementary readers. The key insight is that myths served the same purpose as science: explaining the unknown. This opens wonderful conversations about how knowledge evolves. Some myths involve violence and adult themes — choose age-appropriate versions. The Demeter/Persephone myth is beautiful and accessible. If your child is hooked, Greek myths can become an independent reading project that lasts for months.",
@@ -642,17 +1630,71 @@
     "instructions": "1. Review magnetic fields and Earth's magnetism.\n2. Demonstrate: stroke a sewing needle with a bar magnet 30 times in ONE direction.\n3. Test the needle — it is now a magnet! Float it on water to make a compass.\n4. Explain: the needle is a TEMPORARY magnet — it will lose magnetism over time.\n5. Introduce electromagnets: wrap insulated wire around a nail, connect to a battery.\n6. The electromagnet picks up paper clips! Disconnect — it drops them.\n7. Discuss real-world uses: cranes, doorbells, MRI machines.",
     "duration_minutes": 45,
     "lesson_type": "collaborative",
-    "materials_needed": ["Bar magnet", "Sewing needle", "Cork or foam piece", "Bowl of water", "Insulated copper wire", "Iron nail", "D battery", "Paper clips", "Science journal", "Pencil"],
+    "materials_needed": [
+      "Bar magnet",
+      "Sewing needle",
+      "Cork or foam piece",
+      "Bowl of water",
+      "Insulated copper wire",
+      "Iron nail",
+      "D battery",
+      "Paper clips",
+      "Science journal",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Making Magnets", "subheading": "Temporary Magnets and Electromagnets"},
-        {"type": "materials", "items": ["Bar magnet", "Large sewing needle", "Small piece of cork or foam", "Bowl of water", "Insulated copper wire (2-3 feet)", "Large iron nail", "D-cell battery", "Paper clips for testing", "Science journal and pencil"], "setup_instructions": "Prepare all materials at two stations. Station 1: needle, magnet, cork, bowl of water for the compass. Station 2: wire, nail, battery, paper clips for the electromagnet. The electromagnet wire will get warm — supervise closely and disconnect after testing."},
-        {"type": "instruction", "step": 1, "text": "Can you CREATE a magnet? Yes! Take this ordinary sewing needle — test it with paper clips. Not magnetic. Now stroke the needle with the bar magnet 30 times in the SAME direction (not back and forth). Always lift the magnet away and start from the same end. You are aligning the tiny magnetic domains inside the metal!"},
-        {"type": "instruction", "step": 2, "text": "Test the needle now — it picks up a paper clip! It is a magnet! Push the needle through a piece of cork and float it in a bowl of water. Watch — it spins and points NORTH, just like a compass! You just made a compass from a needle, a magnet, and water!"},
-        {"type": "instruction", "step": 3, "text": "Now for something even more amazing: an ELECTROMAGNET — a magnet you can turn ON and OFF! Wrap the insulated wire around the iron nail about 30 times (tightly, in the same direction). Connect the wire ends to a D battery. Now touch the nail to paper clips — it picks them up! Disconnect the battery — they fall!"},
-        {"type": "instruction", "step": 4, "text": "Electromagnets are incredibly useful! Junkyard cranes use HUGE electromagnets to pick up cars and drop them. Doorbells use electromagnets to ring. MRI machines in hospitals use super-powerful electromagnets to see inside your body. Electric motors in toys and cars use electromagnets too!"},
-        {"type": "activity", "prompt": "In your science journal, draw diagrams of both experiments: 1) Making a compass from a magnetized needle (label all parts). 2) The electromagnet (show wire wrapped around nail connected to battery). Answer: Why is an electromagnet more useful than a regular magnet? What happens when you add MORE wraps of wire to the nail? (Prediction!) List 3 real-world uses of electromagnets.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "This week we discovered magnetism: what it is, how fields work, and how to CREATE magnets. The electromagnet is one of the most important inventions in history — it makes electric motors, generators, and countless machines possible. Magnetism and electricity are deeply connected, which you will explore more in upper elementary!", "mastery_check": "Can the child make a temporary magnet, explain how an electromagnet works, and describe at least 2 real-world uses of electromagnets?"}
+        {
+          "type": "title",
+          "heading": "Making Magnets",
+          "subheading": "Temporary Magnets and Electromagnets",
+          "image_url": "https://images.pexels.com/photos/11286088/pexels-photo-11286088.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Bar magnet",
+            "Large sewing needle",
+            "Small piece of cork or foam",
+            "Bowl of water",
+            "Insulated copper wire (2-3 feet)",
+            "Large iron nail",
+            "D-cell battery",
+            "Paper clips for testing",
+            "Science journal and pencil"
+          ],
+          "setup_instructions": "Prepare all materials at two stations. Station 1: needle, magnet, cork, bowl of water for the compass. Station 2: wire, nail, battery, paper clips for the electromagnet. The electromagnet wire will get warm — supervise closely and disconnect after testing."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Can you CREATE a magnet? Yes! Take this ordinary sewing needle — test it with paper clips. Not magnetic. Now stroke the needle with the bar magnet 30 times in the SAME direction (not back and forth). Always lift the magnet away and start from the same end. You are aligning the tiny magnetic domains inside the metal!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Test the needle now — it picks up a paper clip! It is a magnet! Push the needle through a piece of cork and float it in a bowl of water. Watch — it spins and points NORTH, just like a compass! You just made a compass from a needle, a magnet, and water!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Now for something even more amazing: an ELECTROMAGNET — a magnet you can turn ON and OFF! Wrap the insulated wire around the iron nail about 30 times (tightly, in the same direction). Connect the wire ends to a D battery. Now touch the nail to paper clips — it picks them up! Disconnect the battery — they fall!"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Electromagnets are incredibly useful! Junkyard cranes use HUGE electromagnets to pick up cars and drop them. Doorbells use electromagnets to ring. MRI machines in hospitals use super-powerful electromagnets to see inside your body. Electric motors in toys and cars use electromagnets too!"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your science journal, draw diagrams of both experiments: 1) Making a compass from a magnetized needle (label all parts). 2) The electromagnet (show wire wrapped around nail connected to battery). Answer: Why is an electromagnet more useful than a regular magnet? What happens when you add MORE wraps of wire to the nail? (Prediction!) List 3 real-world uses of electromagnets.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "This week we discovered magnetism: what it is, how fields work, and how to CREATE magnets. The electromagnet is one of the most important inventions in history — it makes electric motors, generators, and countless machines possible. Magnetism and electricity are deeply connected, which you will explore more in upper elementary!",
+          "mastery_check": "Can the child make a temporary magnet, explain how an electromagnet works, and describe at least 2 real-world uses of electromagnets?"
+        }
       ]
     },
     "parent_notes": "These experiments are highlights of the entire curriculum! The floating needle compass is magical and connects to the history of navigation. The electromagnet demonstrates the relationship between electricity and magnetism — a foundational concept in physics. Safety notes: the wire gets warm when connected to the battery, so disconnect after each test. Do not use rechargeable batteries. The nail may retain slight magnetism after disconnecting — this is normal. If your child is excited, try varying the number of wire wraps to see how it affects strength.",
@@ -670,16 +1712,60 @@
     "instructions": "1. Show images of ancient Greek and Roman mosaics.\n2. Explain tessellation: shapes that fit together with no gaps.\n3. Identify common tessellation shapes: squares, triangles, hexagons.\n4. Cut small paper squares (tesserae) in various colors.\n5. Design a simple pattern or image on cardstock.\n6. Glue tesserae to create the mosaic.\n7. Discuss the patience and skill required by ancient mosaic artists.",
     "duration_minutes": 45,
     "lesson_type": "independent",
-    "materials_needed": ["Images of Greek/Roman mosaics", "Colored paper", "Cardstock base", "Scissors", "Glue stick", "Pencil", "Ruler"],
+    "materials_needed": [
+      "Images of Greek/Roman mosaics",
+      "Colored paper",
+      "Cardstock base",
+      "Scissors",
+      "Glue stick",
+      "Pencil",
+      "Ruler"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Greek Mosaic Art", "subheading": "Tessellation and Tesserae"},
-        {"type": "materials", "items": ["Printed images of Greek and Roman mosaics", "Colored paper in 5-6 colors", "White or black cardstock (8.5 x 11 inches) for the base", "Scissors", "Glue stick", "Pencil and ruler for grid lines"], "setup_instructions": "Pre-cut some paper squares (about 1 cm) in various colors, or let the child cut them. Draw a light pencil grid on the cardstock base. Display mosaic images for inspiration. Cover the workspace — this gets messy."},
-        {"type": "instruction", "step": 1, "text": "The ancient Greeks and Romans created stunning artwork from tiny pieces of stone, glass, or ceramic called TESSERAE. These pieces were arranged in patterns and cemented into floors, walls, and fountains. Some mosaics have survived for over 2,000 years! They show animals, gods, geometric patterns, and scenes from daily life."},
-        {"type": "instruction", "step": 2, "text": "Mosaics use TESSELLATION — a mathematical concept where shapes fit together with no gaps or overlaps, like tiles on a floor. Squares tessellate perfectly. Triangles tessellate. Hexagons tessellate (like a honeycomb). The Greeks discovered that only three regular shapes tessellate: squares, triangles, and hexagons!"},
-        {"type": "instruction", "step": 3, "text": "Today you will create a paper mosaic. First, choose your design: a simple image (fish, flower, Greek vase) OR a geometric pattern (border design, star, spiral). Lightly sketch your design on the cardstock. Then fill it in with small paper squares, leaving tiny gaps between them (just like real mosaics)."},
-        {"type": "activity", "prompt": "Create your paper mosaic. Cut colored paper into small squares (about 1 cm). Sketch your design lightly on the cardstock. Begin gluing tesserae, working from the center outward for images or from one edge for patterns. Leave tiny gaps between pieces. Use different colors to create contrast and detail. Fill the background with a single color. Work carefully — ancient mosaic artists spent months on a single piece!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Mosaic art combines patience, planning, and creativity. Each tiny piece matters, and together they create something beautiful. Ancient mosaic artists were both artists AND mathematicians — they used tessellation to ensure perfect coverage. Your mosaic is a connection to a tradition that spans thousands of years!", "mastery_check": "Can the child explain what tessellation means, name shapes that tessellate, and create a paper mosaic with recognizable pattern or image?"}
+        {
+          "type": "title",
+          "heading": "Greek Mosaic Art",
+          "subheading": "Tessellation and Tesserae",
+          "image_url": "https://images.pexels.com/photos/3094035/pexels-photo-3094035.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed images of Greek and Roman mosaics",
+            "Colored paper in 5-6 colors",
+            "White or black cardstock (8.5 x 11 inches) for the base",
+            "Scissors",
+            "Glue stick",
+            "Pencil and ruler for grid lines"
+          ],
+          "setup_instructions": "Pre-cut some paper squares (about 1 cm) in various colors, or let the child cut them. Draw a light pencil grid on the cardstock base. Display mosaic images for inspiration. Cover the workspace — this gets messy."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The ancient Greeks and Romans created stunning artwork from tiny pieces of stone, glass, or ceramic called TESSERAE. These pieces were arranged in patterns and cemented into floors, walls, and fountains. Some mosaics have survived for over 2,000 years! They show animals, gods, geometric patterns, and scenes from daily life."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Mosaics use TESSELLATION — a mathematical concept where shapes fit together with no gaps or overlaps, like tiles on a floor. Squares tessellate perfectly. Triangles tessellate. Hexagons tessellate (like a honeycomb). The Greeks discovered that only three regular shapes tessellate: squares, triangles, and hexagons!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Today you will create a paper mosaic. First, choose your design: a simple image (fish, flower, Greek vase) OR a geometric pattern (border design, star, spiral). Lightly sketch your design on the cardstock. Then fill it in with small paper squares, leaving tiny gaps between them (just like real mosaics)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your paper mosaic. Cut colored paper into small squares (about 1 cm). Sketch your design lightly on the cardstock. Begin gluing tesserae, working from the center outward for images or from one edge for patterns. Leave tiny gaps between pieces. Use different colors to create contrast and detail. Fill the background with a single color. Work carefully — ancient mosaic artists spent months on a single piece!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Mosaic art combines patience, planning, and creativity. Each tiny piece matters, and together they create something beautiful. Ancient mosaic artists were both artists AND mathematicians — they used tessellation to ensure perfect coverage. Your mosaic is a connection to a tradition that spans thousands of years!",
+          "mastery_check": "Can the child explain what tessellation means, name shapes that tessellate, and create a paper mosaic with recognizable pattern or image?"
+        }
       ]
     },
     "parent_notes": "Paper mosaics develop fine motor skills, patience, and spatial reasoning. The tessellation connection adds mathematical thinking to art. If cutting tiny squares is too tedious, use a paper punch or pre-cut squares. The key is leaving small gaps between pieces — this is what makes it look like a real mosaic. Display the finished work prominently. For an extended project, the child could create a larger mosaic over several sessions. Real mosaic kits with glass tiles are available for older or more experienced children.",

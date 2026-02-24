@@ -10,17 +10,55 @@
     "instructions": "1. Discuss the difference between opinion ('I like dogs') and argument ('Dogs make the best pets because...').\n2. Read a model persuasive essay together (provided in slides).\n3. Identify the thesis statement, supporting evidence, and conclusion.\n4. Discuss what makes evidence convincing vs. weak.\n5. Brainstorm potential persuasive essay topics.\n6. Student selects a topic and writes a preliminary thesis statement.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Writer's notebook", "Model persuasive essay (printed or displayed)", "Highlighters (3 colors)", "Persuasive essay graphic organizer"],
+    "materials_needed": [
+      "Writer's notebook",
+      "Model persuasive essay (printed or displayed)",
+      "Highlighters (3 colors)",
+      "Persuasive essay graphic organizer"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Persuasive Essay", "subheading": "Making Your Case with Evidence"},
-        {"type": "instruction", "step": 1, "text": "What is the difference between an opinion and an argument? An opinion is what you think or feel. An argument is an opinion backed by evidence and reasoning. Today we learn to build strong arguments."},
-        {"type": "instruction", "step": 2, "text": "Read this model essay together: 'Schools Should Teach Financial Literacy.' As you read, use three highlighter colors: yellow for the thesis (main claim), green for evidence (facts, statistics, examples), and pink for reasoning (explanations of why the evidence matters)."},
-        {"type": "instruction", "step": 3, "text": "Notice the structure: Paragraph 1 introduces the topic and states the thesis. Paragraphs 2-4 each present one piece of evidence with reasoning. Paragraph 5 restates the thesis and calls the reader to action. This is the 5-paragraph persuasive essay format."},
-        {"type": "instruction", "step": 4, "text": "Strong evidence includes facts, statistics, expert opinions, and real examples. Weak evidence includes personal feelings, vague claims, or 'everyone knows' statements. A persuasive writer always asks: 'Would this convince someone who disagrees with me?'"},
-        {"type": "activity", "prompt": "Brainstorm 5 topics you feel strongly about — things you could argue with evidence (not just feelings). Examples: 'Students should have longer recess,' 'Endangered species deserve more protection,' 'Kids should learn to cook.' Choose one topic and write a thesis statement: a single sentence that states your position clearly.", "duration_minutes": 20},
-        {"type": "check_understanding", "question": "What are the three elements every persuasive paragraph needs?", "hint": "Think about claim, evidence, and..."},
-        {"type": "wrap_up", "text": "You have chosen your topic and written a thesis statement. Over this week, you will build a complete 5-paragraph persuasive essay. Tomorrow we will work on gathering evidence and planning your body paragraphs.", "mastery_check": "Can the student identify thesis, evidence, and reasoning in a model essay? Can they write a clear thesis statement for their own topic?"}
+        {
+          "type": "title",
+          "heading": "The Persuasive Essay",
+          "subheading": "Making Your Case with Evidence",
+          "image_url": "https://images.pexels.com/photos/6157276/pexels-photo-6157276.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "What is the difference between an opinion and an argument? An opinion is what you think or feel. An argument is an opinion backed by evidence and reasoning. Today we learn to build strong arguments."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read this model essay together: 'Schools Should Teach Financial Literacy.' As you read, use three highlighter colors: yellow for the thesis (main claim), green for evidence (facts, statistics, examples), and pink for reasoning (explanations of why the evidence matters)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Notice the structure: Paragraph 1 introduces the topic and states the thesis. Paragraphs 2-4 each present one piece of evidence with reasoning. Paragraph 5 restates the thesis and calls the reader to action. This is the 5-paragraph persuasive essay format."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Strong evidence includes facts, statistics, expert opinions, and real examples. Weak evidence includes personal feelings, vague claims, or 'everyone knows' statements. A persuasive writer always asks: 'Would this convince someone who disagrees with me?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Brainstorm 5 topics you feel strongly about — things you could argue with evidence (not just feelings). Examples: 'Students should have longer recess,' 'Endangered species deserve more protection,' 'Kids should learn to cook.' Choose one topic and write a thesis statement: a single sentence that states your position clearly.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "check_understanding",
+          "question": "What are the three elements every persuasive paragraph needs?",
+          "hint": "Think about claim, evidence, and..."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You have chosen your topic and written a thesis statement. Over this week, you will build a complete 5-paragraph persuasive essay. Tomorrow we will work on gathering evidence and planning your body paragraphs.",
+          "mastery_check": "Can the student identify thesis, evidence, and reasoning in a model essay? Can they write a clear thesis statement for their own topic?"
+        }
       ]
     },
     "parent_notes": "Persuasive writing is a critical skill for upper elementary. The key distinction at this level is moving beyond 'I think X because I like it' to 'X is important because evidence shows...' Encourage your child to choose a topic they genuinely care about — passion makes for better writing. Help them see that the strongest arguments acknowledge the other side. If they struggle with thesis statements, use the formula: '[Topic] should [position] because [reason 1], [reason 2], and [reason 3].' The model essay can be any age-appropriate persuasive piece — search for 'persuasive essay examples for middle school' for options.",
@@ -38,17 +76,61 @@
     "instructions": "1. Review fraction vocabulary: numerator, denominator, proper, improper, mixed number.\n2. Demonstrate equivalent fractions with fraction bars: 1/2 = 2/4 = 3/6 = 4/8.\n3. Show the multiplication principle: multiply numerator and denominator by the same number.\n4. Introduce simplifying using GCF (greatest common factor).\n5. Practice finding equivalent fractions and simplifying.\n6. Work through word problems involving equivalent fractions.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Fraction bars or circles", "Graph paper", "Math journal", "Colored pencils", "GCF reference chart"],
+    "materials_needed": [
+      "Fraction bars or circles",
+      "Graph paper",
+      "Math journal",
+      "Colored pencils",
+      "GCF reference chart"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Equivalent Fractions", "subheading": "Same Value, Different Names"},
-        {"type": "materials", "items": ["Fraction bars or fraction circles", "Graph paper", "Math journal", "Colored pencils"], "setup_instructions": "Lay out fraction bars so 1/2, 2/4, 3/6, and 4/8 bars are visible. Have graph paper ready for visual models."},
-        {"type": "instruction", "step": 1, "text": "Review: A fraction has a numerator (top — how many parts we have) and a denominator (bottom — how many equal parts make the whole). Line up your fraction bars: place the 1/2 bar next to two 1/4 bars. They are the same length! 1/2 and 2/4 are equivalent fractions — same value, different names."},
-        {"type": "instruction", "step": 2, "text": "The Multiplication Principle: To find an equivalent fraction, multiply both the numerator and denominator by the same number. Example: 2/3 = (2×4)/(3×4) = 8/12. Why does this work? Because multiplying by 4/4 is the same as multiplying by 1, which doesn't change the value."},
-        {"type": "instruction", "step": 3, "text": "Simplifying Fractions: To simplify, divide both numerator and denominator by their Greatest Common Factor (GCF). Example: Simplify 12/18. Factors of 12: 1, 2, 3, 4, 6, 12. Factors of 18: 1, 2, 3, 6, 9, 18. GCF = 6. So 12/18 = (12÷6)/(18÷6) = 2/3."},
-        {"type": "activity", "prompt": "Practice Set A — Find 3 equivalent fractions for each: 3/5, 2/7, 5/8. Practice Set B — Simplify to lowest terms: 6/10, 15/25, 8/12, 14/21, 24/36, 9/27. Show your GCF work for each.", "duration_minutes": 20},
-        {"type": "check_understanding", "question": "Is 4/6 in simplest form? How do you know? What is its simplest form?", "hint": "Find the GCF of 4 and 6."},
-        {"type": "wrap_up", "text": "Equivalent fractions are the same value written with different numerators and denominators. To simplify, divide by the GCF. Tomorrow we tackle adding and subtracting fractions with unlike denominators.", "mastery_check": "Can the student find equivalent fractions and simplify to lowest terms using GCF?"}
+        {
+          "type": "title",
+          "heading": "Equivalent Fractions",
+          "subheading": "Same Value, Different Names",
+          "image_url": "https://images.pexels.com/photos/1019470/pexels-photo-1019470.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Fraction bars or fraction circles",
+            "Graph paper",
+            "Math journal",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Lay out fraction bars so 1/2, 2/4, 3/6, and 4/8 bars are visible. Have graph paper ready for visual models."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: A fraction has a numerator (top — how many parts we have) and a denominator (bottom — how many equal parts make the whole). Line up your fraction bars: place the 1/2 bar next to two 1/4 bars. They are the same length! 1/2 and 2/4 are equivalent fractions — same value, different names."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The Multiplication Principle: To find an equivalent fraction, multiply both the numerator and denominator by the same number. Example: 2/3 = (2×4)/(3×4) = 8/12. Why does this work? Because multiplying by 4/4 is the same as multiplying by 1, which doesn't change the value."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Simplifying Fractions: To simplify, divide both numerator and denominator by their Greatest Common Factor (GCF). Example: Simplify 12/18. Factors of 12: 1, 2, 3, 4, 6, 12. Factors of 18: 1, 2, 3, 6, 9, 18. GCF = 6. So 12/18 = (12÷6)/(18÷6) = 2/3."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice Set A — Find 3 equivalent fractions for each: 3/5, 2/7, 5/8. Practice Set B — Simplify to lowest terms: 6/10, 15/25, 8/12, 14/21, 24/36, 9/27. Show your GCF work for each.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "check_understanding",
+          "question": "Is 4/6 in simplest form? How do you know? What is its simplest form?",
+          "hint": "Find the GCF of 4 and 6."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Equivalent fractions are the same value written with different numerators and denominators. To simplify, divide by the GCF. Tomorrow we tackle adding and subtracting fractions with unlike denominators.",
+          "mastery_check": "Can the student find equivalent fractions and simplify to lowest terms using GCF?"
+        }
       ]
     },
     "parent_notes": "This lesson reviews concepts your child has seen before but pushes toward mastery and fluency. The fraction bars provide a concrete visual — let your child verify answers by comparing physical bars before moving to purely abstract work. If GCF is challenging, practice listing factors of numbers 1-30 as a warm-up. The key insight is that multiplying or dividing both parts of a fraction by the same number creates an equivalent fraction because you are really multiplying by 1 (e.g., 3/3 = 1). If your child is already fluent with equivalent fractions, focus more time on the simplifying practice.",
@@ -66,17 +148,56 @@
     "instructions": "1. Retell the Third Great Lesson with emphasis on the long journey to modern humans.\n2. Introduce key hominid species: Australopithecus afarensis (Lucy), Homo habilis, Homo erectus, Homo sapiens.\n3. Compare skull shapes, brain sizes, tool use, and lifestyle for each species.\n4. Create a scaled timeline from 4 million years ago to present.\n5. Discuss what makes us human — bipedalism, tool use, language, art, cooperation.\n6. Examine the evidence: fossils, tools, cave art.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Timeline of humans chart or printout", "Images of hominid skulls", "Ruler and long paper for timeline", "Colored pencils", "History journal"],
+    "materials_needed": [
+      "Timeline of humans chart or printout",
+      "Images of hominid skulls",
+      "Ruler and long paper for timeline",
+      "Colored pencils",
+      "History journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Coming of Humans", "subheading": "From Australopithecus to Homo Sapiens"},
-        {"type": "instruction", "step": 1, "text": "The Third Great Lesson tells us: after billions of years of life evolving on Earth, something remarkable happened. A creature stood upright, looked at the world with curious eyes, and began to think, create, and wonder. Today we trace that journey through the fossil record."},
-        {"type": "instruction", "step": 2, "text": "Australopithecus afarensis — 'Lucy' (3.2 million years ago, East Africa): She walked upright but had a small brain (about 400 cc — a third the size of ours). She was only about 3.5 feet tall. She did not make tools but used sticks and stones. Her discovery in 1974 in Ethiopia changed our understanding of human origins."},
-        {"type": "instruction", "step": 3, "text": "Homo habilis — 'Handy Human' (2.4-1.4 million years ago): Slightly larger brain (600-700 cc). First known toolmaker — created simple stone choppers called Oldowan tools. Lived alongside other hominid species in Africa. Name means 'handy man' because of tool use."},
-        {"type": "instruction", "step": 4, "text": "Homo erectus — 'Upright Human' (1.9 million - 110,000 years ago): Much larger brain (900-1100 cc). First to leave Africa, spreading to Asia and Europe. First to control fire. Created more sophisticated Acheulean hand axes. May have used simple language."},
-        {"type": "instruction", "step": 5, "text": "Homo sapiens — 'Wise Human' (300,000 years ago - present): Our species! Largest brain (1300-1500 cc). Complex language, art, music, religion, agriculture, civilization. Created increasingly sophisticated tools, from stone blades to spacecraft. The only surviving human species."},
-        {"type": "activity", "prompt": "Create a scaled timeline on a long strip of paper. Let 1 cm = 100,000 years, making your timeline 40 cm long for 4 million years. Mark and illustrate each hominid species at the correct point. For each species, note: brain size, key achievement, and where they lived. Include Lucy, Homo habilis, Homo erectus, and Homo sapiens.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "The story of human evolution is written in fossils, tools, and bones. Each species built upon the achievements of those before. Notice how much of the timeline passed before Homo sapiens appeared — we are very recent arrivals on Earth. Next, we will explore how early humans migrated across the globe.", "mastery_check": "Can the student name the four major hominid species in order and describe one key characteristic of each?"}
+        {
+          "type": "title",
+          "heading": "The Coming of Humans",
+          "subheading": "From Australopithecus to Homo Sapiens",
+          "image_url": "https://images.pexels.com/photos/1631665/pexels-photo-1631665.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The Third Great Lesson tells us: after billions of years of life evolving on Earth, something remarkable happened. A creature stood upright, looked at the world with curious eyes, and began to think, create, and wonder. Today we trace that journey through the fossil record."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Australopithecus afarensis — 'Lucy' (3.2 million years ago, East Africa): She walked upright but had a small brain (about 400 cc — a third the size of ours). She was only about 3.5 feet tall. She did not make tools but used sticks and stones. Her discovery in 1974 in Ethiopia changed our understanding of human origins."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Homo habilis — 'Handy Human' (2.4-1.4 million years ago): Slightly larger brain (600-700 cc). First known toolmaker — created simple stone choppers called Oldowan tools. Lived alongside other hominid species in Africa. Name means 'handy man' because of tool use."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Homo erectus — 'Upright Human' (1.9 million - 110,000 years ago): Much larger brain (900-1100 cc). First to leave Africa, spreading to Asia and Europe. First to control fire. Created more sophisticated Acheulean hand axes. May have used simple language."
+        },
+        {
+          "type": "instruction",
+          "step": 5,
+          "text": "Homo sapiens — 'Wise Human' (300,000 years ago - present): Our species! Largest brain (1300-1500 cc). Complex language, art, music, religion, agriculture, civilization. Created increasingly sophisticated tools, from stone blades to spacecraft. The only surviving human species."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a scaled timeline on a long strip of paper. Let 1 cm = 100,000 years, making your timeline 40 cm long for 4 million years. Mark and illustrate each hominid species at the correct point. For each species, note: brain size, key achievement, and where they lived. Include Lucy, Homo habilis, Homo erectus, and Homo sapiens.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The story of human evolution is written in fossils, tools, and bones. Each species built upon the achievements of those before. Notice how much of the timeline passed before Homo sapiens appeared — we are very recent arrivals on Earth. Next, we will explore how early humans migrated across the globe.",
+          "mastery_check": "Can the student name the four major hominid species in order and describe one key characteristic of each?"
+        }
       ]
     },
     "parent_notes": "This lesson connects to the Montessori Third Great Lesson (The Coming of Humans), which your child first encountered in lower elementary. Now they study it with more scientific depth. Emphasize that human evolution is supported by extensive fossil evidence — each discovery adds to our understanding. The timeline activity makes the vast time scales tangible. If your child is interested, look up 'Lucy' (AL 288-1) images online and discuss what scientists can determine from a partial skeleton. The Smithsonian Human Origins website (humanorigins.si.edu) is an excellent free resource with 3D skull scans.",
@@ -94,17 +215,61 @@
     "instructions": "1. Review Homo sapiens' origins in Africa (~300,000 years ago).\n2. Present the Out of Africa theory and the evidence supporting it (mitochondrial DNA, fossil record).\n3. Trace migration routes: Africa to Middle East, then branching to Europe, Asia, Australia, and the Americas.\n4. Discuss push/pull factors: climate change, following animal herds, curiosity.\n5. Explain the role of land bridges (Beringia) and coastal routes.\n6. Student creates a migration map with approximate dates.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["World map (blank outline)", "Colored pencils or markers", "Atlas or globe", "Migration route reference", "Geography journal"],
+    "materials_needed": [
+      "World map (blank outline)",
+      "Colored pencils or markers",
+      "Atlas or globe",
+      "Migration route reference",
+      "Geography journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Out of Africa", "subheading": "The Great Human Migration"},
-        {"type": "materials", "items": ["Blank world map (outline)", "Colored pencils or markers (at least 5 colors)", "Atlas or globe for reference", "Geography journal"], "setup_instructions": "Print or prepare a blank world map. Have the atlas nearby for reference. Prepare a legend with colors for different time periods."},
-        {"type": "instruction", "step": 1, "text": "All modern humans trace their ancestry to Africa. DNA evidence shows that every person alive today descends from a small population that lived in East Africa around 200,000-300,000 years ago. This is called the 'Out of Africa' theory, and it is supported by fossil evidence, genetic studies, and archaeological finds."},
-        {"type": "instruction", "step": 2, "text": "The first migration: Around 70,000 years ago, small groups of Homo sapiens crossed from East Africa into the Middle East (modern-day Israel, Jordan, Saudi Arabia). From there, they branched in multiple directions. Some went east along the coast of South Asia, reaching Australia by about 65,000 years ago. Others moved north into Europe around 45,000 years ago."},
-        {"type": "instruction", "step": 3, "text": "Reaching the Americas: During the last Ice Age, sea levels dropped and exposed a land bridge called Beringia connecting Siberia to Alaska. Between 20,000 and 15,000 years ago, humans crossed into North America. Some may have also traveled by boat along the Pacific coast. Within a few thousand years, humans had spread to the tip of South America."},
-        {"type": "instruction", "step": 4, "text": "Why did they migrate? Climate change created new opportunities and challenges — droughts pushed people to seek water, while warming periods opened new grasslands. Humans followed animal herds they depended on for food. Coastal areas provided reliable shellfish. And perhaps simple curiosity drove some to explore what lay beyond the next hill or river."},
-        {"type": "activity", "prompt": "On your blank world map, draw the major migration routes with arrows. Use different colors for different time periods: Red for 70,000-60,000 years ago (Africa to Middle East and South Asia), Orange for 65,000-50,000 years ago (to Australia and Southeast Asia), Yellow for 45,000-30,000 years ago (to Europe), Blue for 20,000-15,000 years ago (to the Americas), Green for 3,000-1,000 years ago (to Pacific Islands). Label Beringia and mark approximate dates along each route.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "In just 70,000 years — a blink in geological time — Homo sapiens spread from Africa to every continent except Antarctica. We are all one human family, connected by our shared African origins. Your migration map shows one of the most remarkable journeys in Earth's history.", "mastery_check": "Can the student trace the major migration routes and explain the role of Beringia? Can they explain at least two factors that drove human migration?"}
+        {
+          "type": "title",
+          "heading": "Out of Africa",
+          "subheading": "The Great Human Migration",
+          "image_url": "https://images.pexels.com/photos/8828619/pexels-photo-8828619.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank world map (outline)",
+            "Colored pencils or markers (at least 5 colors)",
+            "Atlas or globe for reference",
+            "Geography journal"
+          ],
+          "setup_instructions": "Print or prepare a blank world map. Have the atlas nearby for reference. Prepare a legend with colors for different time periods."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "All modern humans trace their ancestry to Africa. DNA evidence shows that every person alive today descends from a small population that lived in East Africa around 200,000-300,000 years ago. This is called the 'Out of Africa' theory, and it is supported by fossil evidence, genetic studies, and archaeological finds."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The first migration: Around 70,000 years ago, small groups of Homo sapiens crossed from East Africa into the Middle East (modern-day Israel, Jordan, Saudi Arabia). From there, they branched in multiple directions. Some went east along the coast of South Asia, reaching Australia by about 65,000 years ago. Others moved north into Europe around 45,000 years ago."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Reaching the Americas: During the last Ice Age, sea levels dropped and exposed a land bridge called Beringia connecting Siberia to Alaska. Between 20,000 and 15,000 years ago, humans crossed into North America. Some may have also traveled by boat along the Pacific coast. Within a few thousand years, humans had spread to the tip of South America."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Why did they migrate? Climate change created new opportunities and challenges — droughts pushed people to seek water, while warming periods opened new grasslands. Humans followed animal herds they depended on for food. Coastal areas provided reliable shellfish. And perhaps simple curiosity drove some to explore what lay beyond the next hill or river."
+        },
+        {
+          "type": "activity",
+          "prompt": "On your blank world map, draw the major migration routes with arrows. Use different colors for different time periods: Red for 70,000-60,000 years ago (Africa to Middle East and South Asia), Orange for 65,000-50,000 years ago (to Australia and Southeast Asia), Yellow for 45,000-30,000 years ago (to Europe), Blue for 20,000-15,000 years ago (to the Americas), Green for 3,000-1,000 years ago (to Pacific Islands). Label Beringia and mark approximate dates along each route.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "In just 70,000 years — a blink in geological time — Homo sapiens spread from Africa to every continent except Antarctica. We are all one human family, connected by our shared African origins. Your migration map shows one of the most remarkable journeys in Earth's history.",
+          "mastery_check": "Can the student trace the major migration routes and explain the role of Beringia? Can they explain at least two factors that drove human migration?"
+        }
       ]
     },
     "parent_notes": "This lesson connects beautifully to the previous lesson on hominid evolution. The Out of Africa theory is the scientific consensus, supported by overwhelming genetic and fossil evidence. Mitochondrial DNA analysis shows all humans share a common maternal ancestor ('Mitochondrial Eve') who lived in Africa. If your child asks about other human species they encountered (Neanderthals, Denisovans), explain that Homo sapiens interbred with them during migration — most non-African humans carry 1-4% Neanderthal DNA. The migration map is a powerful visual that shows how interconnected humanity is. Consider looking at the National Geographic Genographic Project for accessible explanations of human migration genetics.",
@@ -122,15 +287,44 @@
     "instructions": "1. Introduce the book: setting (1899 Texas), protagonist (Calpurnia Virginia Tate, age 11), and context (Victorian-era expectations for girls).\n2. Read chapters 1-3 aloud, pausing for discussion.\n3. Discuss Calpurnia's observations about the natural world and her grandfather's scientific approach.\n4. Connect to our studies: How do Calpurnia's observations mirror what real scientists do?\n5. Discuss the historical context: What was life like for girls in 1899?\n6. Journal response: Write about a time you were curious about something in nature.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["The Evolution of Calpurnia Tate by Jacqueline Kelly", "Reading journal", "Pencil"],
+    "materials_needed": [
+      "The Evolution of Calpurnia Tate by Jacqueline Kelly",
+      "Reading journal",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Evolution of Calpurnia Tate", "subheading": "by Jacqueline Kelly — Chapters 1-3"},
-        {"type": "instruction", "step": 1, "text": "Today we begin a novel about a girl who discovers science in a time when girls were expected to learn cooking, sewing, and piano — not biology. Calpurnia Virginia Tate lives in Fentress, Texas in 1899. She is 11 years old, the only girl among seven siblings. Her grandfather, Captain Walter Tate, is a naturalist who has read Darwin's On the Origin of Species."},
-        {"type": "instruction", "step": 2, "text": "As we read, pay attention to: (1) What does Calpurnia observe in nature? (2) How does her grandfather teach her to think scientifically? (3) What do other people expect Calpurnia to do with her life? (4) How does the setting (1899) affect the story?"},
-        {"type": "instruction", "step": 3, "text": "Read chapters 1-3 aloud together. Pause at key moments to discuss Calpurnia's questions and observations. Notice how she wonders about the yellow grasshoppers — this is the scientific method in action: observation leads to questions."},
-        {"type": "activity", "prompt": "After reading, discuss: What question does Calpurnia have about the grasshoppers? How does her grandfather respond to her curiosity? Compare how Calpurnia's mother and grandfather react to her interest in nature. Then write a journal entry: Describe a time you noticed something in nature that made you curious. What questions did you have? Did you try to find answers?", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Calpurnia is beginning a journey of scientific discovery that mirrors the real process: observe, question, investigate. Her story also shows us how society's expectations can shape — or limit — what people are allowed to learn. We will continue her story throughout this unit.", "mastery_check": "Can the student describe Calpurnia's central question about the grasshoppers and explain how her grandfather's approach differs from her mother's expectations?"}
+        {
+          "type": "title",
+          "heading": "The Evolution of Calpurnia Tate",
+          "subheading": "by Jacqueline Kelly — Chapters 1-3",
+          "image_url": "https://images.pexels.com/photos/8500306/pexels-photo-8500306.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Today we begin a novel about a girl who discovers science in a time when girls were expected to learn cooking, sewing, and piano — not biology. Calpurnia Virginia Tate lives in Fentress, Texas in 1899. She is 11 years old, the only girl among seven siblings. Her grandfather, Captain Walter Tate, is a naturalist who has read Darwin's On the Origin of Species."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "As we read, pay attention to: (1) What does Calpurnia observe in nature? (2) How does her grandfather teach her to think scientifically? (3) What do other people expect Calpurnia to do with her life? (4) How does the setting (1899) affect the story?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Read chapters 1-3 aloud together. Pause at key moments to discuss Calpurnia's questions and observations. Notice how she wonders about the yellow grasshoppers — this is the scientific method in action: observation leads to questions."
+        },
+        {
+          "type": "activity",
+          "prompt": "After reading, discuss: What question does Calpurnia have about the grasshoppers? How does her grandfather respond to her curiosity? Compare how Calpurnia's mother and grandfather react to her interest in nature. Then write a journal entry: Describe a time you noticed something in nature that made you curious. What questions did you have? Did you try to find answers?",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Calpurnia is beginning a journey of scientific discovery that mirrors the real process: observe, question, investigate. Her story also shows us how society's expectations can shape — or limit — what people are allowed to learn. We will continue her story throughout this unit.",
+          "mastery_check": "Can the student describe Calpurnia's central question about the grasshoppers and explain how her grandfather's approach differs from her mother's expectations?"
+        }
       ]
     },
     "parent_notes": "The Evolution of Calpurnia Tate is a Newbery Honor book appropriate for ages 9-12. It beautifully connects our science and history units — Calpurnia is learning about Darwin and natural selection in 1899, and the book explores themes of scientific curiosity, gender roles, and the tension between societal expectations and individual passion. The reading level is accessible but the themes are rich for discussion. If you do not have the book, your library likely carries it, or you can substitute another novel about a young scientist (e.g., 'The Girl Who Drew Butterflies' by Joyce Sidman, a nonfiction alternative about Maria Merian). Read aloud even with older children — it builds vocabulary, models fluency, and creates shared experience for discussion.",
@@ -148,16 +342,50 @@
     "instructions": "1. Review the thesis statement from Day 1.\n2. Teach four types of evidence: facts, statistics, expert opinions, and real-world examples.\n3. Demonstrate how to connect evidence to reasoning: 'This matters because...'\n4. Model writing one body paragraph together.\n5. Student gathers evidence for their three body paragraphs.\n6. Student drafts evidence-reasoning pairs for each paragraph.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Writer's notebook", "Persuasive essay graphic organizer", "Reference materials for chosen topic", "Evidence evaluation checklist"],
+    "materials_needed": [
+      "Writer's notebook",
+      "Persuasive essay graphic organizer",
+      "Reference materials for chosen topic",
+      "Evidence evaluation checklist"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Building Your Argument", "subheading": "Evidence and Reasoning"},
-        {"type": "instruction", "step": 1, "text": "Yesterday you chose your topic and wrote a thesis statement. Today you gather the ammunition for your argument: evidence. There are four main types of evidence: (1) Facts — things that can be verified as true, (2) Statistics — numbers and data, (3) Expert opinions — what knowledgeable people say, (4) Real-world examples — specific cases that illustrate your point."},
-        {"type": "instruction", "step": 2, "text": "Evidence alone is not enough — you need reasoning. Reasoning explains WHY your evidence supports your thesis. Pattern: 'According to [source], [evidence]. This shows that [reasoning connecting to thesis].' Example: 'According to the CDC, children who have at least 60 minutes of daily physical activity show improved concentration in school (evidence). This shows that longer recess would actually improve academic performance, not harm it (reasoning).'"},
-        {"type": "instruction", "step": 3, "text": "Let us write a model body paragraph together. Topic sentence (mini-claim): 'First, longer recess improves students' physical health.' Evidence: 'The American Heart Association reports that only 24% of children get the recommended 60 minutes of daily activity.' Reasoning: 'Adding 15 minutes to recess would help close this gap, reducing childhood obesity and building lifelong healthy habits.' Closing sentence: 'Clearly, longer recess is an investment in students' physical well-being.'"},
-        {"type": "activity", "prompt": "For YOUR essay, plan three body paragraphs. For each one, write: (1) A topic sentence that states one reason supporting your thesis. (2) At least one piece of evidence (you may need to research — use books, approved websites, or ask a parent to help find facts). (3) Reasoning that explains how the evidence supports your thesis. (4) A closing sentence. You do not need to write full paragraphs yet — just plan the evidence and reasoning for each.", "duration_minutes": 30},
-        {"type": "check_understanding", "question": "What is the difference between evidence and reasoning?", "hint": "Evidence is the WHAT (facts/data). Reasoning is the WHY (explanation of what it means)."},
-        {"type": "wrap_up", "text": "You now have a thesis and three evidence-reasoning pairs. Your argument is taking shape. Next language lesson, we will draft the full 5-paragraph essay, including introduction and conclusion strategies.", "mastery_check": "Can the student provide at least one piece of evidence with reasoning for each of their three body paragraphs?"}
+        {
+          "type": "title",
+          "heading": "Building Your Argument",
+          "subheading": "Evidence and Reasoning",
+          "image_url": "https://images.pexels.com/photos/8363159/pexels-photo-8363159.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Yesterday you chose your topic and wrote a thesis statement. Today you gather the ammunition for your argument: evidence. There are four main types of evidence: (1) Facts — things that can be verified as true, (2) Statistics — numbers and data, (3) Expert opinions — what knowledgeable people say, (4) Real-world examples — specific cases that illustrate your point."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Evidence alone is not enough — you need reasoning. Reasoning explains WHY your evidence supports your thesis. Pattern: 'According to [source], [evidence]. This shows that [reasoning connecting to thesis].' Example: 'According to the CDC, children who have at least 60 minutes of daily physical activity show improved concentration in school (evidence). This shows that longer recess would actually improve academic performance, not harm it (reasoning).'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Let us write a model body paragraph together. Topic sentence (mini-claim): 'First, longer recess improves students' physical health.' Evidence: 'The American Heart Association reports that only 24% of children get the recommended 60 minutes of daily activity.' Reasoning: 'Adding 15 minutes to recess would help close this gap, reducing childhood obesity and building lifelong healthy habits.' Closing sentence: 'Clearly, longer recess is an investment in students' physical well-being.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "For YOUR essay, plan three body paragraphs. For each one, write: (1) A topic sentence that states one reason supporting your thesis. (2) At least one piece of evidence (you may need to research — use books, approved websites, or ask a parent to help find facts). (3) Reasoning that explains how the evidence supports your thesis. (4) A closing sentence. You do not need to write full paragraphs yet — just plan the evidence and reasoning for each.",
+          "duration_minutes": 30
+        },
+        {
+          "type": "check_understanding",
+          "question": "What is the difference between evidence and reasoning?",
+          "hint": "Evidence is the WHAT (facts/data). Reasoning is the WHY (explanation of what it means)."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You now have a thesis and three evidence-reasoning pairs. Your argument is taking shape. Next language lesson, we will draft the full 5-paragraph essay, including introduction and conclusion strategies.",
+          "mastery_check": "Can the student provide at least one piece of evidence with reasoning for each of their three body paragraphs?"
+        }
       ]
     },
     "parent_notes": "Help your child find credible evidence for their topic. This is a great opportunity to teach source evaluation: Who wrote it? What is their expertise? Is the information current? Is the source trying to sell something? For a 4th-6th grader, appropriate sources include encyclopedias, educational websites (.edu, .org), books, and interviews with knowledgeable adults. The evidence-reasoning connection is the hardest part of persuasive writing — many students state evidence and assume the reader will 'get it.' Practice asking: 'So what? Why does that matter?' to help them develop reasoning.",
@@ -175,16 +403,50 @@
     "instructions": "1. Review equivalent fractions from Day 1.\n2. Demonstrate why you cannot add fractions with unlike denominators directly (1/3 + 1/4 ≠ 2/7).\n3. Teach finding the Least Common Denominator (LCD) using LCM.\n4. Walk through the process: find LCD, convert both fractions, add/subtract, simplify.\n5. Practice with fraction bars to verify.\n6. Solve word problems involving fraction addition and subtraction.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Fraction bars or circles", "Math journal", "Graph paper", "Colored pencils"],
+    "materials_needed": [
+      "Fraction bars or circles",
+      "Math journal",
+      "Graph paper",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Adding and Subtracting Fractions", "subheading": "Unlike Denominators"},
-        {"type": "instruction", "step": 1, "text": "Can you add 1/3 + 1/4? Let us see why the answer is NOT 2/7. Use your fraction bars: lay out the 1/3 bar and the 1/4 bar end to end. Now try to find a single fraction bar that matches their combined length. It is 7/12! You cannot simply add numerators and denominators — you need a common denominator first."},
-        {"type": "instruction", "step": 2, "text": "Finding the Least Common Denominator (LCD): The LCD is the Least Common Multiple of the two denominators. For 1/3 + 1/4: Multiples of 3: 3, 6, 9, 12, 15... Multiples of 4: 4, 8, 12, 16... The LCM is 12, so the LCD is 12. Convert: 1/3 = 4/12 and 1/4 = 3/12. Now add: 4/12 + 3/12 = 7/12."},
-        {"type": "instruction", "step": 3, "text": "The complete process: Step 1 — Find the LCD (LCM of denominators). Step 2 — Convert each fraction to an equivalent fraction with the LCD. Step 3 — Add or subtract the numerators (denominator stays the same). Step 4 — Simplify if possible. Example: 5/6 - 1/4. LCD = 12. Convert: 10/12 - 3/12 = 7/12."},
-        {"type": "instruction", "step": 4, "text": "Word problem example: 'Maria ate 2/5 of a pizza and her brother ate 1/3 of the same pizza. How much did they eat in total?' LCD of 5 and 3 = 15. Convert: 2/5 = 6/15 and 1/3 = 5/15. Add: 6/15 + 5/15 = 11/15. They ate 11/15 of the pizza."},
-        {"type": "activity", "prompt": "Solve these problems (verify at least 2 with fraction bars): (1) 1/2 + 1/3, (2) 3/4 - 1/6, (3) 2/5 + 3/10, (4) 5/8 - 1/3, (5) 7/12 + 1/4. Word Problems: (6) 'A recipe calls for 3/4 cup flour and 2/3 cup sugar. How much more flour than sugar is needed?' (7) 'Jake walked 1/2 mile in the morning and 3/8 mile in the afternoon. How far did he walk in total?'", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "The key to adding or subtracting fractions with unlike denominators is finding the LCD and converting before computing. Always simplify your final answer. Tomorrow we will tackle multiplying and dividing fractions.", "mastery_check": "Can the student find the LCD, convert fractions, and correctly add/subtract fractions with unlike denominators?"}
+        {
+          "type": "title",
+          "heading": "Adding and Subtracting Fractions",
+          "subheading": "Unlike Denominators",
+          "image_url": "https://images.pexels.com/photos/6693304/pexels-photo-6693304.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Can you add 1/3 + 1/4? Let us see why the answer is NOT 2/7. Use your fraction bars: lay out the 1/3 bar and the 1/4 bar end to end. Now try to find a single fraction bar that matches their combined length. It is 7/12! You cannot simply add numerators and denominators — you need a common denominator first."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Finding the Least Common Denominator (LCD): The LCD is the Least Common Multiple of the two denominators. For 1/3 + 1/4: Multiples of 3: 3, 6, 9, 12, 15... Multiples of 4: 4, 8, 12, 16... The LCM is 12, so the LCD is 12. Convert: 1/3 = 4/12 and 1/4 = 3/12. Now add: 4/12 + 3/12 = 7/12."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The complete process: Step 1 — Find the LCD (LCM of denominators). Step 2 — Convert each fraction to an equivalent fraction with the LCD. Step 3 — Add or subtract the numerators (denominator stays the same). Step 4 — Simplify if possible. Example: 5/6 - 1/4. LCD = 12. Convert: 10/12 - 3/12 = 7/12."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Word problem example: 'Maria ate 2/5 of a pizza and her brother ate 1/3 of the same pizza. How much did they eat in total?' LCD of 5 and 3 = 15. Convert: 2/5 = 6/15 and 1/3 = 5/15. Add: 6/15 + 5/15 = 11/15. They ate 11/15 of the pizza."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these problems (verify at least 2 with fraction bars): (1) 1/2 + 1/3, (2) 3/4 - 1/6, (3) 2/5 + 3/10, (4) 5/8 - 1/3, (5) 7/12 + 1/4. Word Problems: (6) 'A recipe calls for 3/4 cup flour and 2/3 cup sugar. How much more flour than sugar is needed?' (7) 'Jake walked 1/2 mile in the morning and 3/8 mile in the afternoon. How far did he walk in total?'",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The key to adding or subtracting fractions with unlike denominators is finding the LCD and converting before computing. Always simplify your final answer. Tomorrow we will tackle multiplying and dividing fractions.",
+          "mastery_check": "Can the student find the LCD, convert fractions, and correctly add/subtract fractions with unlike denominators?"
+        }
       ]
     },
     "parent_notes": "This is often one of the trickiest fraction skills. The most common error is adding numerators and denominators (1/3 + 1/4 = 2/7). Using fraction bars to physically verify answers helps prevent this misconception. If finding the LCM is hard, have your child list multiples of each denominator until they find a match. For students who master this quickly, challenge them with three fractions: 1/2 + 1/3 + 1/4 (LCD = 12, answer = 13/12 = 1 1/12). The word problems ground the skill in real-world contexts — cooking, distance, and sharing are natural fraction scenarios.",
@@ -202,17 +464,56 @@
     "instructions": "1. Ask: Why do you look like your parents? Why do siblings look similar but not identical?\n2. Define heredity: the passing of traits from parents to offspring.\n3. Distinguish inherited traits (eye color, hair texture, height tendency) from acquired traits (scars, learned skills, language).\n4. Survey family traits: attached/detached earlobes, tongue rolling, widow's peak, dimples.\n5. Introduce the concept of genes as instructions carried in every cell.\n6. Connect to our evolution studies: How do inherited traits change over generations?",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Science journal", "Mirror (small)", "Family photos (if available)", "Trait survey worksheet", "Colored pencils"],
+    "materials_needed": [
+      "Science journal",
+      "Mirror (small)",
+      "Family photos (if available)",
+      "Trait survey worksheet",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Introduction to Genetics", "subheading": "Why Do You Look Like Your Parents?"},
-        {"type": "instruction", "step": 1, "text": "Look in the mirror. What features do you share with your parents? Your eye color, hair type, nose shape, and even whether your earlobes are attached or detached — these are all inherited traits. Heredity is the process by which traits are passed from parents to their offspring. It is why puppies look like their parents, why oak trees grow from acorns (not pine seeds), and why you are unmistakably human."},
-        {"type": "instruction", "step": 2, "text": "Not all traits are inherited. A scar from a bicycle fall, your ability to speak English, your skill at playing piano — these are acquired traits. You were not born with them; you gained them through experience. Here is the test: Could you pass this trait to your children just by having it? If not, it is acquired, not inherited."},
-        {"type": "instruction", "step": 3, "text": "Inside every cell of your body, there are structures called chromosomes. On these chromosomes are genes — segments of DNA that carry the instructions for your traits. You have about 20,000-25,000 genes. You received half from your mother and half from your father. This is why you have a unique combination of traits from both parents."},
-        {"type": "instruction", "step": 4, "text": "Connection to evolution: When a trait helps an organism survive and reproduce, it gets passed to more offspring. Over thousands of generations, helpful traits become more common in a population. This is natural selection — the mechanism Darwin described. Genetics explains HOW traits are inherited; evolution explains WHAT HAPPENS to those traits over time."},
-        {"type": "activity", "prompt": "Trait Survey: Check yourself (use a mirror) for these inherited traits: (1) Earlobes — attached or detached? (2) Can you roll your tongue? (3) Do you have a widow's peak hairline? (4) Do you have dimples? (5) Can you bend your thumb back past 45 degrees (hitchhiker's thumb)? (6) Is your second toe longer than your big toe? Record your results. If possible, survey family members and look for patterns. Then classify these 8 traits as inherited or acquired: freckles, speaking Spanish, blue eyes, a broken arm, curly hair, being good at math, height, a suntan.", "duration_minutes": 20},
-        {"type": "check_understanding", "question": "A mother is an excellent swimmer and wins Olympic medals. Will her children automatically be excellent swimmers? Why or why not?", "hint": "Think about the difference between inherited traits and acquired traits."},
-        {"type": "wrap_up", "text": "Heredity passes traits from parents to offspring through genes on chromosomes. Some traits are inherited (eye color, hair type) while others are acquired (skills, scars). Next science lesson, we will study Gregor Mendel, the monk who discovered how inheritance actually works by growing thousands of pea plants.", "mastery_check": "Can the student distinguish between inherited and acquired traits? Can they explain that genes carry instructions for traits?"}
+        {
+          "type": "title",
+          "heading": "Introduction to Genetics",
+          "subheading": "Why Do You Look Like Your Parents?",
+          "image_url": "https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Look in the mirror. What features do you share with your parents? Your eye color, hair type, nose shape, and even whether your earlobes are attached or detached — these are all inherited traits. Heredity is the process by which traits are passed from parents to their offspring. It is why puppies look like their parents, why oak trees grow from acorns (not pine seeds), and why you are unmistakably human."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Not all traits are inherited. A scar from a bicycle fall, your ability to speak English, your skill at playing piano — these are acquired traits. You were not born with them; you gained them through experience. Here is the test: Could you pass this trait to your children just by having it? If not, it is acquired, not inherited."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Inside every cell of your body, there are structures called chromosomes. On these chromosomes are genes — segments of DNA that carry the instructions for your traits. You have about 20,000-25,000 genes. You received half from your mother and half from your father. This is why you have a unique combination of traits from both parents."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Connection to evolution: When a trait helps an organism survive and reproduce, it gets passed to more offspring. Over thousands of generations, helpful traits become more common in a population. This is natural selection — the mechanism Darwin described. Genetics explains HOW traits are inherited; evolution explains WHAT HAPPENS to those traits over time."
+        },
+        {
+          "type": "activity",
+          "prompt": "Trait Survey: Check yourself (use a mirror) for these inherited traits: (1) Earlobes — attached or detached? (2) Can you roll your tongue? (3) Do you have a widow's peak hairline? (4) Do you have dimples? (5) Can you bend your thumb back past 45 degrees (hitchhiker's thumb)? (6) Is your second toe longer than your big toe? Record your results. If possible, survey family members and look for patterns. Then classify these 8 traits as inherited or acquired: freckles, speaking Spanish, blue eyes, a broken arm, curly hair, being good at math, height, a suntan.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "check_understanding",
+          "question": "A mother is an excellent swimmer and wins Olympic medals. Will her children automatically be excellent swimmers? Why or why not?",
+          "hint": "Think about the difference between inherited traits and acquired traits."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Heredity passes traits from parents to offspring through genes on chromosomes. Some traits are inherited (eye color, hair type) while others are acquired (skills, scars). Next science lesson, we will study Gregor Mendel, the monk who discovered how inheritance actually works by growing thousands of pea plants.",
+          "mastery_check": "Can the student distinguish between inherited and acquired traits? Can they explain that genes carry instructions for traits?"
+        }
       ]
     },
     "parent_notes": "This lesson introduces genetics at a conceptual level before diving into Mendel's experiments. The trait survey is engaging and personal — children love discovering which traits they share with family members. Note that many 'simple' traits (like tongue rolling) are actually more complex than once thought, but they serve well as introductory examples. The key concepts are: (1) traits are passed from parents to offspring, (2) this happens through genes, and (3) not all traits are inherited. If your child asks about identical twins, explain that they have the same genes but can still differ due to environment (acquired traits). This topic connects powerfully to our evolution studies — genetics is the mechanism behind natural selection.",
@@ -230,16 +531,58 @@
     "instructions": "1. Show images of cave paintings from Lascaux (France), Chauvet (France), and Altamira (Spain).\n2. Discuss what the paintings depict (animals, handprints, hunting scenes) and what they might mean.\n3. Analyze techniques: pigments from minerals and charcoal, blowing paint through hollow bones, using rock contours.\n4. Discuss why art matters: What does it tell us about early humans' minds and culture?\n5. Students create their own cave-art-inspired piece using charcoal and earth-tone pastels on crumpled brown paper.\n6. Reflect: What would future archaeologists learn about us from our art?",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Images of cave paintings (printed or digital)", "Brown kraft paper or paper bags", "Charcoal sticks", "Earth-tone pastels or chalk (browns, reds, yellows, black)", "Spray bottle with water", "Art journal"],
+    "materials_needed": [
+      "Images of cave paintings (printed or digital)",
+      "Brown kraft paper or paper bags",
+      "Charcoal sticks",
+      "Earth-tone pastels or chalk (browns, reds, yellows, black)",
+      "Spray bottle with water",
+      "Art journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Cave Art", "subheading": "The First Human Artists"},
-        {"type": "materials", "items": ["Printed images of Lascaux, Chauvet, and Altamira cave paintings", "Brown kraft paper (crumpled and flattened to create texture)", "Charcoal sticks", "Earth-tone pastels or chalk", "Spray bottle with water"], "setup_instructions": "Crumple the brown paper into a ball, then flatten it out — this creates a rock-like texture. Lay out charcoal and pastels. Have cave painting images visible for reference."},
-        {"type": "instruction", "step": 1, "text": "The oldest known cave paintings are in Chauvet Cave, France — they are about 36,000 years old. Artists painted horses, lions, rhinos, and bears using charcoal from fires and pigments ground from minerals: red and yellow ochre (iron oxide), manganese dioxide (black), and chalk (white). Some paintings show remarkable skill — shading, perspective, and movement."},
-        {"type": "instruction", "step": 2, "text": "Why did they paint? Theories include: (1) Hunting magic — painting an animal gave power over it; (2) Storytelling — recording important events; (3) Spiritual practice — caves as sacred spaces; (4) Teaching — showing young hunters what animals looked like; (5) Pure expression — the human need to create. Notice that handprint stencils appear in caves worldwide — the first 'I was here.'"},
-        {"type": "instruction", "step": 3, "text": "Techniques to try: Use the side of your charcoal for broad strokes (like smearing pigment on rock). Layer colors — start with lighter tones and add darker details on top. Use your finger to blend and smudge. To create a handprint stencil, place your hand on the paper and lightly spray water over earth-tone pastel dust around it, then lift your hand."},
-        {"type": "activity", "prompt": "Create your own cave painting on the crumpled brown paper. Choose a subject that would be important to a prehistoric human: an animal they hunted or feared, a scene from daily life, or handprint stencils. Use only charcoal and earth tones — no bright colors. Try to use the wrinkles in the paper as the cave artists used rock contours. When finished, write in your art journal: What did you choose to depict and why? What do your choices reveal about what matters to you?", "duration_minutes": 30},
-        {"type": "wrap_up", "text": "Cave art tells us that early humans were not primitive brutes — they were thoughtful, creative, and deeply connected to their world. Art is one of the things that makes us uniquely human. When we study cave paintings, we are seeing the first evidence of human imagination and symbolic thinking.", "mastery_check": "Can the student describe at least two techniques used by cave artists? Can they explain why cave art is significant evidence about early human minds?"}
+        {
+          "type": "title",
+          "heading": "Cave Art",
+          "subheading": "The First Human Artists",
+          "image_url": "https://images.pexels.com/photos/9509908/pexels-photo-9509908.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed images of Lascaux, Chauvet, and Altamira cave paintings",
+            "Brown kraft paper (crumpled and flattened to create texture)",
+            "Charcoal sticks",
+            "Earth-tone pastels or chalk",
+            "Spray bottle with water"
+          ],
+          "setup_instructions": "Crumple the brown paper into a ball, then flatten it out — this creates a rock-like texture. Lay out charcoal and pastels. Have cave painting images visible for reference."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The oldest known cave paintings are in Chauvet Cave, France — they are about 36,000 years old. Artists painted horses, lions, rhinos, and bears using charcoal from fires and pigments ground from minerals: red and yellow ochre (iron oxide), manganese dioxide (black), and chalk (white). Some paintings show remarkable skill — shading, perspective, and movement."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Why did they paint? Theories include: (1) Hunting magic — painting an animal gave power over it; (2) Storytelling — recording important events; (3) Spiritual practice — caves as sacred spaces; (4) Teaching — showing young hunters what animals looked like; (5) Pure expression — the human need to create. Notice that handprint stencils appear in caves worldwide — the first 'I was here.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Techniques to try: Use the side of your charcoal for broad strokes (like smearing pigment on rock). Layer colors — start with lighter tones and add darker details on top. Use your finger to blend and smudge. To create a handprint stencil, place your hand on the paper and lightly spray water over earth-tone pastel dust around it, then lift your hand."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own cave painting on the crumpled brown paper. Choose a subject that would be important to a prehistoric human: an animal they hunted or feared, a scene from daily life, or handprint stencils. Use only charcoal and earth tones — no bright colors. Try to use the wrinkles in the paper as the cave artists used rock contours. When finished, write in your art journal: What did you choose to depict and why? What do your choices reveal about what matters to you?",
+          "duration_minutes": 30
+        },
+        {
+          "type": "wrap_up",
+          "text": "Cave art tells us that early humans were not primitive brutes — they were thoughtful, creative, and deeply connected to their world. Art is one of the things that makes us uniquely human. When we study cave paintings, we are seeing the first evidence of human imagination and symbolic thinking.",
+          "mastery_check": "Can the student describe at least two techniques used by cave artists? Can they explain why cave art is significant evidence about early human minds?"
+        }
       ]
     },
     "parent_notes": "This lesson connects directly to our history unit on early humans and the Coming of Humans Great Lesson. The cave art images are widely available online — search for 'Lascaux cave paintings' or visit the virtual tour at lascaux.fr. The hands-on project is intentionally messy (charcoal and pastels on crumpled paper), so protect the work surface. The crumpled paper is important — it simulates the uneven rock surface that cave artists worked with, and it changes how the charcoal applies. If your child enjoys this, consider exploring the PBS documentary 'Cave of Forgotten Dreams' by Werner Herzog (PG rating, about Chauvet Cave). The reflection question about future archaeologists studying our art is a powerful critical thinking exercise.",
@@ -257,15 +600,46 @@
     "instructions": "1. Discuss basic nutrition: proteins, carbohydrates, fruits/vegetables, dairy, fats.\n2. Show a sample meal plan and discuss balance across food groups.\n3. Provide a budget ($75 for 3 days of family meals for 4 people).\n4. Student plans 3 days of meals (12 meals + 3 snacks).\n5. Student creates an organized shopping list with estimated prices.\n6. Calculate total and adjust if over budget.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Meal planning worksheet", "Grocery store flyer or online prices", "Calculator", "Pencil", "Notebook"],
+    "materials_needed": [
+      "Meal planning worksheet",
+      "Grocery store flyer or online prices",
+      "Calculator",
+      "Pencil",
+      "Notebook"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Meal Planning", "subheading": "Feeding a Family on a Budget"},
-        {"type": "instruction", "step": 1, "text": "Meal planning is a real-world skill that combines nutrition, math, organization, and decision-making. Every family needs to eat well while managing money wisely. Today you are the meal planner for a family of four for three days, with a budget of $75."},
-        {"type": "instruction", "step": 2, "text": "Nutrition basics for balanced meals: Each meal should include a protein (meat, beans, eggs, nuts), a grain or starch (rice, bread, pasta, potatoes), and fruits or vegetables. Breakfast might be simpler; dinner is usually the biggest meal. Snacks should be nutritious, not just treats. Aim for variety — do not repeat the same meal."},
-        {"type": "instruction", "step": 3, "text": "Budget strategies: Buy ingredients that can be used in multiple meals (a whole chicken for dinner, then chicken salad for lunch). Choose seasonal fruits and vegetables (they cost less). Store brands are usually cheaper than name brands. Avoid pre-made meals — cooking from scratch saves money. Estimate prices and round up to stay under budget."},
-        {"type": "activity", "prompt": "Plan meals for 3 days for a family of 4: breakfast, lunch, dinner, and one snack per day. Then create a shopping list organized by store section (produce, dairy, meat, grains/pantry, frozen). Estimate the price of each item using a grocery flyer or your best guess. Add up the total. Are you under $75? If over budget, decide what to change — can you substitute a cheaper ingredient? Can you use leftovers for another meal? Show your math work.", "duration_minutes": 35},
-        {"type": "wrap_up", "text": "Meal planning is a skill you will use your entire life. It requires balancing nutrition, budget, time, and taste preferences. You practiced estimation, addition, and decision-making — all in a real-world context. Consider trying one of your planned meals this week!", "mastery_check": "Can the student plan balanced meals, create an organized shopping list, and estimate costs within a given budget?"}
+        {
+          "type": "title",
+          "heading": "Meal Planning",
+          "subheading": "Feeding a Family on a Budget",
+          "image_url": "https://images.pexels.com/photos/6641321/pexels-photo-6641321.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Meal planning is a real-world skill that combines nutrition, math, organization, and decision-making. Every family needs to eat well while managing money wisely. Today you are the meal planner for a family of four for three days, with a budget of $75."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Nutrition basics for balanced meals: Each meal should include a protein (meat, beans, eggs, nuts), a grain or starch (rice, bread, pasta, potatoes), and fruits or vegetables. Breakfast might be simpler; dinner is usually the biggest meal. Snacks should be nutritious, not just treats. Aim for variety — do not repeat the same meal."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Budget strategies: Buy ingredients that can be used in multiple meals (a whole chicken for dinner, then chicken salad for lunch). Choose seasonal fruits and vegetables (they cost less). Store brands are usually cheaper than name brands. Avoid pre-made meals — cooking from scratch saves money. Estimate prices and round up to stay under budget."
+        },
+        {
+          "type": "activity",
+          "prompt": "Plan meals for 3 days for a family of 4: breakfast, lunch, dinner, and one snack per day. Then create a shopping list organized by store section (produce, dairy, meat, grains/pantry, frozen). Estimate the price of each item using a grocery flyer or your best guess. Add up the total. Are you under $75? If over budget, decide what to change — can you substitute a cheaper ingredient? Can you use leftovers for another meal? Show your math work.",
+          "duration_minutes": 35
+        },
+        {
+          "type": "wrap_up",
+          "text": "Meal planning is a skill you will use your entire life. It requires balancing nutrition, budget, time, and taste preferences. You practiced estimation, addition, and decision-making — all in a real-world context. Consider trying one of your planned meals this week!",
+          "mastery_check": "Can the student plan balanced meals, create an organized shopping list, and estimate costs within a given budget?"
+        }
       ]
     },
     "parent_notes": "This Practical Life lesson integrates math (budgeting, estimation), health (nutrition), and executive function (planning, organizing). It is a genuinely useful life skill. To make it more authentic, take your child grocery shopping with their list and have them compare estimated prices to actual prices. If possible, let them cook one of the meals they planned. You can adjust the budget to match your local grocery costs — $75 for 3 days for 4 people is moderate but achievable with planning. If your child is unfamiliar with grocery prices, spend a few minutes looking at a store flyer or online grocery prices together before they start planning. The organizational skill of grouping the shopping list by store section is valuable — it models how adults actually shop efficiently.",
@@ -283,16 +657,50 @@
     "instructions": "1. Teach introduction structure: hook, background/context, thesis statement.\n2. Demonstrate five types of hooks: question, surprising fact, anecdote, quote, bold statement.\n3. Teach conclusion structure: restate thesis (new words), summarize main points, call to action or final thought.\n4. Model writing an introduction and conclusion for the class example.\n5. Student drafts their own introduction and conclusion.\n6. Peer review or parent review of drafts.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Writer's notebook", "Persuasive essay graphic organizer (with evidence from Day 2)", "Hook examples handout", "Pencil"],
+    "materials_needed": [
+      "Writer's notebook",
+      "Persuasive essay graphic organizer (with evidence from Day 2)",
+      "Hook examples handout",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Hooks and Conclusions", "subheading": "Starting Strong, Ending Stronger"},
-        {"type": "instruction", "step": 1, "text": "The introduction is your first impression — it must grab the reader's attention and make them want to keep reading. Structure: (1) Hook — an attention-grabbing opening sentence, (2) Context — 2-3 sentences of background information, (3) Thesis — your clear position statement. The hook is the most important sentence in your essay."},
-        {"type": "instruction", "step": 2, "text": "Five types of hooks: (1) Question: 'What if your school day started an hour later?' (2) Surprising fact: 'Students spend an average of 1,000 hours per year in school but only 15 of those hours are dedicated to recess.' (3) Anecdote: 'Last Tuesday, I watched my younger brother fall asleep at his desk at 3:00 PM.' (4) Quote: 'As Albert Einstein said, \"Play is the highest form of research.\"' (5) Bold statement: 'The modern school schedule is failing our children.'"},
-        {"type": "instruction", "step": 3, "text": "The conclusion is your last word — it should leave the reader thinking. Structure: (1) Restate your thesis in different words (do NOT copy-paste your thesis). (2) Briefly summarize your three main points (one sentence each). (3) End with a call to action ('Write to your school board...'), a prediction ('If we do not act...'), or a thought-provoking final statement ('The question is not whether we can afford to change, but whether we can afford not to')."},
-        {"type": "activity", "prompt": "Draft your introduction: Write a hook (try at least 2 different types and pick the best one), 2-3 sentences of context, and your thesis statement. Then draft your conclusion: Restate your thesis in new words, summarize your 3 main points in one sentence each, and end with a call to action or powerful final thought. Read both aloud — do they sound strong?", "duration_minutes": 30},
-        {"type": "check_understanding", "question": "Why should you NOT start your essay with 'In this essay I will tell you about...'?", "hint": "Think about what makes a reader want to keep reading."},
-        {"type": "wrap_up", "text": "You now have all five paragraphs planned or drafted: introduction, three body paragraphs, and conclusion. Next language lesson, you will assemble and revise your complete essay. Remember: a strong essay begins with a hook that grabs attention and ends with a conclusion that stays in the reader's mind.", "mastery_check": "Can the student write an introduction with a hook, context, and thesis? Can they write a conclusion that restates the thesis and includes a call to action?"}
+        {
+          "type": "title",
+          "heading": "Hooks and Conclusions",
+          "subheading": "Starting Strong, Ending Stronger",
+          "image_url": "https://images.pexels.com/photos/3855553/pexels-photo-3855553.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The introduction is your first impression — it must grab the reader's attention and make them want to keep reading. Structure: (1) Hook — an attention-grabbing opening sentence, (2) Context — 2-3 sentences of background information, (3) Thesis — your clear position statement. The hook is the most important sentence in your essay."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Five types of hooks: (1) Question: 'What if your school day started an hour later?' (2) Surprising fact: 'Students spend an average of 1,000 hours per year in school but only 15 of those hours are dedicated to recess.' (3) Anecdote: 'Last Tuesday, I watched my younger brother fall asleep at his desk at 3:00 PM.' (4) Quote: 'As Albert Einstein said, \"Play is the highest form of research.\"' (5) Bold statement: 'The modern school schedule is failing our children.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The conclusion is your last word — it should leave the reader thinking. Structure: (1) Restate your thesis in different words (do NOT copy-paste your thesis). (2) Briefly summarize your three main points (one sentence each). (3) End with a call to action ('Write to your school board...'), a prediction ('If we do not act...'), or a thought-provoking final statement ('The question is not whether we can afford to change, but whether we can afford not to')."
+        },
+        {
+          "type": "activity",
+          "prompt": "Draft your introduction: Write a hook (try at least 2 different types and pick the best one), 2-3 sentences of context, and your thesis statement. Then draft your conclusion: Restate your thesis in new words, summarize your 3 main points in one sentence each, and end with a call to action or powerful final thought. Read both aloud — do they sound strong?",
+          "duration_minutes": 30
+        },
+        {
+          "type": "check_understanding",
+          "question": "Why should you NOT start your essay with 'In this essay I will tell you about...'?",
+          "hint": "Think about what makes a reader want to keep reading."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You now have all five paragraphs planned or drafted: introduction, three body paragraphs, and conclusion. Next language lesson, you will assemble and revise your complete essay. Remember: a strong essay begins with a hook that grabs attention and ends with a conclusion that stays in the reader's mind.",
+          "mastery_check": "Can the student write an introduction with a hook, context, and thesis? Can they write a conclusion that restates the thesis and includes a call to action?"
+        }
       ]
     },
     "parent_notes": "The hook is where many students struggle — they default to 'In this essay I will...' which is weak. Practice brainstorming multiple hooks and choosing the strongest one. Reading the introduction aloud is a powerful revision tool — if it sounds boring to the writer, it will bore the reader. For the conclusion, the most common error is simply repeating the introduction word-for-word. Coach your child to find new ways to express their thesis. The call to action should be specific and realistic — 'Everyone should care about this' is weak; 'Write a letter to your representative asking them to support H.R. 1234' is strong. If your child finishes early, have them try writing three different hooks and evaluating which is most effective.",
@@ -310,16 +718,50 @@
     "instructions": "1. Introduce fraction multiplication with area models: 1/2 × 1/3 shown as a rectangle divided both ways.\n2. Show the algorithm: multiply numerators, multiply denominators, simplify.\n3. Teach cross-canceling to simplify before multiplying.\n4. Introduce division with the 'Keep-Change-Flip' method (multiply by reciprocal).\n5. Explain why this works using 'How many groups of _ fit in _?'\n6. Practice both operations with word problems.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Graph paper", "Colored pencils", "Math journal", "Fraction bars (optional)"],
+    "materials_needed": [
+      "Graph paper",
+      "Colored pencils",
+      "Math journal",
+      "Fraction bars (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Multiplying and Dividing Fractions", "subheading": "New Operations, New Rules"},
-        {"type": "instruction", "step": 1, "text": "Multiplying fractions: Unlike addition, you do NOT need common denominators! Simply multiply numerator × numerator and denominator × denominator. Example: 2/3 × 4/5 = (2×4)/(3×5) = 8/15. But WHY does this work? Draw a rectangle. Divide it into 3 rows and shade 2 (that is 2/3). Now divide into 5 columns and shade 4 (that is 4/5). The overlap is 8 out of 15 small rectangles = 8/15."},
-        {"type": "instruction", "step": 2, "text": "Cross-canceling saves time. Before multiplying 3/8 × 4/9, look for common factors between any numerator and any denominator. The 3 (numerator) and 9 (denominator) share factor 3: cancel to get 1 and 3. The 4 (numerator) and 8 (denominator) share factor 4: cancel to get 1 and 2. Now multiply: 1/2 × 1/3 = 1/6. Same answer, less simplifying at the end."},
-        {"type": "instruction", "step": 3, "text": "Dividing fractions: Use 'Keep-Change-Flip.' Keep the first fraction, Change division to multiplication, Flip the second fraction (use its reciprocal). Example: 3/4 ÷ 2/5 = 3/4 × 5/2 = 15/8 = 1 7/8. Why? Dividing by 2/5 asks: 'How many groups of 2/5 fit into 3/4?' The reciprocal method calculates this."},
-        {"type": "instruction", "step": 4, "text": "Multiplying with whole numbers and mixed numbers: Convert whole numbers to fractions (3 = 3/1). Convert mixed numbers to improper fractions (2 1/3 = 7/3). Then multiply or divide normally. Example: 2 1/2 × 1/3 = 5/2 × 1/3 = 5/6."},
-        {"type": "activity", "prompt": "Multiplication: (1) 3/4 × 2/5, (2) 5/6 × 3/10 (use cross-canceling), (3) 2/3 × 4/7, (4) 1 1/2 × 2/3. Division: (5) 3/4 ÷ 1/2, (6) 5/8 ÷ 3/4, (7) 2/3 ÷ 4/5, (8) 2 1/4 ÷ 3/4. Word Problems: (9) 'A recipe needs 3/4 cup of sugar. You want to make 2/3 of the recipe. How much sugar?' (10) 'You have 3/4 of a pizza. Each person eats 1/8 of a whole pizza. How many people can you feed?'", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Multiplying fractions: multiply across (no common denominator needed). Dividing fractions: Keep-Change-Flip. Always simplify your answer — use cross-canceling to make this easier. Notice something interesting: multiplying by a fraction less than 1 makes the answer smaller, while dividing by a fraction less than 1 makes it larger!", "mastery_check": "Can the student multiply and divide fractions, including mixed numbers? Can they use cross-canceling?"}
+        {
+          "type": "title",
+          "heading": "Multiplying and Dividing Fractions",
+          "subheading": "New Operations, New Rules",
+          "image_url": "https://images.pexels.com/photos/6256065/pexels-photo-6256065.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Multiplying fractions: Unlike addition, you do NOT need common denominators! Simply multiply numerator × numerator and denominator × denominator. Example: 2/3 × 4/5 = (2×4)/(3×5) = 8/15. But WHY does this work? Draw a rectangle. Divide it into 3 rows and shade 2 (that is 2/3). Now divide into 5 columns and shade 4 (that is 4/5). The overlap is 8 out of 15 small rectangles = 8/15."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Cross-canceling saves time. Before multiplying 3/8 × 4/9, look for common factors between any numerator and any denominator. The 3 (numerator) and 9 (denominator) share factor 3: cancel to get 1 and 3. The 4 (numerator) and 8 (denominator) share factor 4: cancel to get 1 and 2. Now multiply: 1/2 × 1/3 = 1/6. Same answer, less simplifying at the end."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Dividing fractions: Use 'Keep-Change-Flip.' Keep the first fraction, Change division to multiplication, Flip the second fraction (use its reciprocal). Example: 3/4 ÷ 2/5 = 3/4 × 5/2 = 15/8 = 1 7/8. Why? Dividing by 2/5 asks: 'How many groups of 2/5 fit into 3/4?' The reciprocal method calculates this."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Multiplying with whole numbers and mixed numbers: Convert whole numbers to fractions (3 = 3/1). Convert mixed numbers to improper fractions (2 1/3 = 7/3). Then multiply or divide normally. Example: 2 1/2 × 1/3 = 5/2 × 1/3 = 5/6."
+        },
+        {
+          "type": "activity",
+          "prompt": "Multiplication: (1) 3/4 × 2/5, (2) 5/6 × 3/10 (use cross-canceling), (3) 2/3 × 4/7, (4) 1 1/2 × 2/3. Division: (5) 3/4 ÷ 1/2, (6) 5/8 ÷ 3/4, (7) 2/3 ÷ 4/5, (8) 2 1/4 ÷ 3/4. Word Problems: (9) 'A recipe needs 3/4 cup of sugar. You want to make 2/3 of the recipe. How much sugar?' (10) 'You have 3/4 of a pizza. Each person eats 1/8 of a whole pizza. How many people can you feed?'",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Multiplying fractions: multiply across (no common denominator needed). Dividing fractions: Keep-Change-Flip. Always simplify your answer — use cross-canceling to make this easier. Notice something interesting: multiplying by a fraction less than 1 makes the answer smaller, while dividing by a fraction less than 1 makes it larger!",
+          "mastery_check": "Can the student multiply and divide fractions, including mixed numbers? Can they use cross-canceling?"
+        }
       ]
     },
     "parent_notes": "Multiplying fractions is actually easier than adding them (no common denominator needed), but students often confuse the procedures. Emphasize: adding/subtracting = need common denominators, multiplying/dividing = do NOT need common denominators. The area model for multiplication is crucial for understanding — without it, the algorithm is just a memorized trick. For division, 'Keep-Change-Flip' is a useful mnemonic, but try to also build understanding: dividing by 1/2 means 'how many halves fit in this amount?' which is why the answer is larger. Cross-canceling is an efficiency tool, not a requirement — if your child finds it confusing, they can always multiply first and simplify at the end.",
@@ -337,16 +779,51 @@
     "instructions": "1. Review the hominid timeline from Day 1.\n2. Focus on Homo erectus: physical characteristics, brain size, height.\n3. Study Acheulean hand axes — design, craftsmanship, what they reveal about cognition.\n4. Discuss the revolutionary impact of fire: cooking, warmth, protection, social gathering.\n5. Trace Homo erectus migration routes from Africa to Java, China, and Europe.\n6. Analyze primary evidence: actual tool photographs, fire site archaeology.\n7. Student creates an illustrated fact sheet about Homo erectus.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["History journal", "Images of Acheulean hand axes", "World map", "Colored pencils", "Clay (optional, for tool recreation)"],
+    "materials_needed": [
+      "History journal",
+      "Images of Acheulean hand axes",
+      "World map",
+      "Colored pencils",
+      "Clay (optional, for tool recreation)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Homo Erectus", "subheading": "The Pioneer Who Tamed Fire"},
-        {"type": "instruction", "step": 1, "text": "Homo erectus lived from about 1.9 million to 110,000 years ago — the most successful human species in terms of longevity (nearly 2 million years, compared to our 300,000 so far). They were the first to look truly human: tall (up to 6 feet), with a brain about 2/3 the size of ours (900-1100 cc). Their name means 'upright human,' though earlier hominids also walked upright."},
-        {"type": "instruction", "step": 2, "text": "The Acheulean hand axe is one of the most important artifacts in human history. These teardrop-shaped stone tools required planning, skill, and an understanding of symmetry. Making one involved carefully striking flakes from both sides of a stone to create a sharp, balanced tool. The same basic design was used for over a million years across three continents — the longest-lasting technology in history."},
-        {"type": "instruction", "step": 3, "text": "Fire changed everything. Evidence from Wonderwerk Cave in South Africa suggests controlled fire use by about 1 million years ago. Fire provided: warmth in cold climates (enabling migration north), protection from predators at night, cooking (which made food easier to digest, providing more calories for growing brains), and a gathering place that strengthened social bonds. Some scientists argue that cooking was the key innovation that fueled brain growth."},
-        {"type": "instruction", "step": 4, "text": "Homo erectus was the first hominid to leave Africa. Fossils have been found in: Georgia (Dmanisi, 1.8 million years ago), Indonesia (Java Man, 1.5 million years ago), China (Peking Man, 750,000 years ago), and throughout Europe. Their migration tracks with their mastery of fire and tools — technology enabled survival in new environments."},
-        {"type": "activity", "prompt": "Create an illustrated fact sheet about Homo erectus. Include: (1) A labeled drawing showing their physical features compared to Homo sapiens, (2) A drawing or description of an Acheulean hand axe with labels, (3) A list of five ways fire changed human life, (4) A map showing migration routes from Africa with dates. Optional: If you have clay, try to shape an Acheulean hand axe — appreciate the skill required!", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Homo erectus represents a turning point in human evolution. With fire and better tools, our ancestors could survive in new environments, eat a wider range of foods, and develop more complex social lives. The hand axe shows abstract thinking — planning a design before executing it. These innovations made all future human achievements possible.", "mastery_check": "Can the student explain three ways fire changed human evolution? Can they describe the significance of Acheulean tools?"}
+        {
+          "type": "title",
+          "heading": "Homo Erectus",
+          "subheading": "The Pioneer Who Tamed Fire",
+          "image_url": "https://images.pexels.com/photos/10131669/pexels-photo-10131669.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Homo erectus lived from about 1.9 million to 110,000 years ago — the most successful human species in terms of longevity (nearly 2 million years, compared to our 300,000 so far). They were the first to look truly human: tall (up to 6 feet), with a brain about 2/3 the size of ours (900-1100 cc). Their name means 'upright human,' though earlier hominids also walked upright."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The Acheulean hand axe is one of the most important artifacts in human history. These teardrop-shaped stone tools required planning, skill, and an understanding of symmetry. Making one involved carefully striking flakes from both sides of a stone to create a sharp, balanced tool. The same basic design was used for over a million years across three continents — the longest-lasting technology in history."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Fire changed everything. Evidence from Wonderwerk Cave in South Africa suggests controlled fire use by about 1 million years ago. Fire provided: warmth in cold climates (enabling migration north), protection from predators at night, cooking (which made food easier to digest, providing more calories for growing brains), and a gathering place that strengthened social bonds. Some scientists argue that cooking was the key innovation that fueled brain growth."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Homo erectus was the first hominid to leave Africa. Fossils have been found in: Georgia (Dmanisi, 1.8 million years ago), Indonesia (Java Man, 1.5 million years ago), China (Peking Man, 750,000 years ago), and throughout Europe. Their migration tracks with their mastery of fire and tools — technology enabled survival in new environments."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create an illustrated fact sheet about Homo erectus. Include: (1) A labeled drawing showing their physical features compared to Homo sapiens, (2) A drawing or description of an Acheulean hand axe with labels, (3) A list of five ways fire changed human life, (4) A map showing migration routes from Africa with dates. Optional: If you have clay, try to shape an Acheulean hand axe — appreciate the skill required!",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Homo erectus represents a turning point in human evolution. With fire and better tools, our ancestors could survive in new environments, eat a wider range of foods, and develop more complex social lives. The hand axe shows abstract thinking — planning a design before executing it. These innovations made all future human achievements possible.",
+          "mastery_check": "Can the student explain three ways fire changed human evolution? Can they describe the significance of Acheulean tools?"
+        }
       ]
     },
     "parent_notes": "This lesson goes deeper into Homo erectus than the overview in Day 1. The 'cooking hypothesis' (proposed by Richard Wrangham in 'Catching Fire') argues that cooking food was the key innovation that allowed human brains to grow larger — cooked food yields more calories with less chewing time. This is a fascinating idea to discuss with your child. The Acheulean hand axe activity (if using clay) is surprisingly difficult — it helps children appreciate the cognitive sophistication of our ancestors. If your child is interested in the fire evidence, the Wonderwerk Cave and Gesher Benot Ya'aqov (Israel, 790,000 years ago) sites have well-documented evidence of controlled fire use.",
@@ -364,16 +841,50 @@
     "instructions": "1. Explain that every culture has stories about how the world and humans began.\n2. Read or summarize origin stories from five different cultures.\n3. Create a comparison chart: Who are the creators? What is the world made from? What is the role of humans? What values are emphasized?\n4. Discuss common themes (creation from chaos, divine beings, sacrifice, importance of nature).\n5. Compare mythological accounts with the scientific account studied in the Great Lessons.\n6. Student writes a reflection on what origin stories reveal about human nature.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Origin stories collection (printed or read aloud)", "Large paper for comparison chart", "Colored pencils", "Culture journal"],
+    "materials_needed": [
+      "Origin stories collection (printed or read aloud)",
+      "Large paper for comparison chart",
+      "Colored pencils",
+      "Culture journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Origin Stories", "subheading": "How Cultures Explain Our Beginning"},
-        {"type": "instruction", "step": 1, "text": "Every human culture has asked: How did the world begin? How did humans come to be? Why are we here? The answers they created — origin stories — reveal what each culture values most. Today we will explore five very different answers to these universal questions."},
-        {"type": "instruction", "step": 2, "text": "Aboriginal Australian Dreamtime: In the beginning, ancestral spirits rose from beneath the earth and traveled across the land, singing it into existence. Rivers, mountains, and animals were created by their journeys. Humans are caretakers of the land, responsible for keeping the Dreaming alive through story, song, and ceremony. The land is sacred and alive. (Oldest continuous culture on Earth — 65,000+ years.)"},
-        {"type": "instruction", "step": 3, "text": "Norse creation (Scandinavia): The world began in a void between fire (Muspelheim) and ice (Niflheim). When the two met, the frost giant Ymir formed. The gods Odin, Vili, and Ve slew Ymir and made the world from his body — his flesh became earth, his blood the seas, his skull the sky. Humans were created from two trees. This story values courage, sacrifice, and the struggle between order and chaos."},
-        {"type": "instruction", "step": 4, "text": "Haudenosaunee (Iroquois) Sky Woman: A woman fell from the Sky World through a hole. Water birds caught her and placed her on the back of a great turtle. She danced on the turtle's back, and the earth grew. Her twin grandsons created the features of the world — one constructive, one destructive, creating balance. This story values cooperation, balance, and connection to the natural world."},
-        {"type": "activity", "prompt": "Create a comparison chart with five columns (one per culture: Aboriginal, Norse, Haudenosaunee, Hindu, Yoruba) and four rows: (1) Who/what creates the world? (2) What is the world made from? (3) What is the role of humans? (4) What values does the story emphasize? For the Hindu and Yoruba stories, research briefly: Hindu — look up the Nasadiya Sukta (Hymn of Creation from the Rig Veda); Yoruba — look up Olodumare and Obatala creating humans from clay. Then write a one-paragraph reflection: What do these stories have in common? What does it say about human nature that every culture creates origin stories?", "duration_minutes": 30},
-        {"type": "wrap_up", "text": "Origin stories are not just ancient tales — they are windows into how cultures understand their relationship with the world. Common themes across cultures suggest shared human needs: to understand our origins, to find meaning, and to define our place in the cosmos. These stories coexist with scientific understanding — they answer different kinds of questions.", "mastery_check": "Can the student compare at least three origin stories and identify common themes? Can they articulate what origin stories reveal about cultural values?"}
+        {
+          "type": "title",
+          "heading": "Origin Stories",
+          "subheading": "How Cultures Explain Our Beginning",
+          "image_url": "https://images.pexels.com/photos/5299821/pexels-photo-5299821.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Every human culture has asked: How did the world begin? How did humans come to be? Why are we here? The answers they created — origin stories — reveal what each culture values most. Today we will explore five very different answers to these universal questions."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Aboriginal Australian Dreamtime: In the beginning, ancestral spirits rose from beneath the earth and traveled across the land, singing it into existence. Rivers, mountains, and animals were created by their journeys. Humans are caretakers of the land, responsible for keeping the Dreaming alive through story, song, and ceremony. The land is sacred and alive. (Oldest continuous culture on Earth — 65,000+ years.)"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Norse creation (Scandinavia): The world began in a void between fire (Muspelheim) and ice (Niflheim). When the two met, the frost giant Ymir formed. The gods Odin, Vili, and Ve slew Ymir and made the world from his body — his flesh became earth, his blood the seas, his skull the sky. Humans were created from two trees. This story values courage, sacrifice, and the struggle between order and chaos."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Haudenosaunee (Iroquois) Sky Woman: A woman fell from the Sky World through a hole. Water birds caught her and placed her on the back of a great turtle. She danced on the turtle's back, and the earth grew. Her twin grandsons created the features of the world — one constructive, one destructive, creating balance. This story values cooperation, balance, and connection to the natural world."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a comparison chart with five columns (one per culture: Aboriginal, Norse, Haudenosaunee, Hindu, Yoruba) and four rows: (1) Who/what creates the world? (2) What is the world made from? (3) What is the role of humans? (4) What values does the story emphasize? For the Hindu and Yoruba stories, research briefly: Hindu — look up the Nasadiya Sukta (Hymn of Creation from the Rig Veda); Yoruba — look up Olodumare and Obatala creating humans from clay. Then write a one-paragraph reflection: What do these stories have in common? What does it say about human nature that every culture creates origin stories?",
+          "duration_minutes": 30
+        },
+        {
+          "type": "wrap_up",
+          "text": "Origin stories are not just ancient tales — they are windows into how cultures understand their relationship with the world. Common themes across cultures suggest shared human needs: to understand our origins, to find meaning, and to define our place in the cosmos. These stories coexist with scientific understanding — they answer different kinds of questions.",
+          "mastery_check": "Can the student compare at least three origin stories and identify common themes? Can they articulate what origin stories reveal about cultural values?"
+        }
       ]
     },
     "parent_notes": "This Montessori cultural lesson connects beautifully to the Great Lessons framework while building respect for diverse worldviews. The key message is NOT that any story is 'right' or 'wrong,' but that origin stories reveal what cultures value: Aboriginal Dreamtime emphasizes land stewardship, Norse mythology emphasizes courage and sacrifice, Haudenosaunee stories emphasize balance and cooperation. Be sensitive to your family's own beliefs — this lesson frames these as cultural expressions of universal human needs, not as competing truth claims. If your child asks 'Which one is true?' guide them to understand that scientific and cultural stories address different questions: science asks HOW things happen; cultural stories often ask WHY things matter.",
@@ -391,15 +902,44 @@
     "instructions": "1. Review chapters 1-3: What has Calpurnia observed? What is her relationship with her grandfather?\n2. Read chapters 4-6 aloud.\n3. Discuss: How is Calpurnia learning to think scientifically? What obstacles does she face?\n4. Analyze character development: How is Calpurnia changing?\n5. Connect to genetics: What might Calpurnia's grandfather say about heredity?\n6. Journal response: Compare Calpurnia's scientific approach to your own.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["The Evolution of Calpurnia Tate by Jacqueline Kelly", "Reading journal", "Pencil"],
+    "materials_needed": [
+      "The Evolution of Calpurnia Tate by Jacqueline Kelly",
+      "Reading journal",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Evolution of Calpurnia Tate", "subheading": "Chapters 4-6 — The Scientific Method in Action"},
-        {"type": "instruction", "step": 1, "text": "Before reading, let us review. What question does Calpurnia have about the grasshoppers? How has her grandfather been guiding her? What tensions exist between what Calpurnia wants to do and what her family expects of her?"},
-        {"type": "instruction", "step": 2, "text": "As we read chapters 4-6, track: (1) New scientific observations Calpurnia makes, (2) New vocabulary or concepts her grandfather introduces, (3) Moments where Calpurnia faces conflict between science and family expectations, (4) Evidence of character growth — how is she changing from the beginning of the book?"},
-        {"type": "instruction", "step": 3, "text": "Read chapters 4-6. Pause to discuss key moments. Notice how Calpurnia's grandfather teaches her: he does not just give answers — he asks questions, suggests experiments, and encourages her to observe carefully. This is the Socratic method, and it mirrors the Montessori approach to learning."},
-        {"type": "activity", "prompt": "After reading, discuss: How does Calpurnia's approach to questions compare to the scientific method? (Observe, question, hypothesize, test, conclude.) Then choose one of these journal prompts: (1) Write a letter from Calpurnia to a friend explaining what she has been learning from her grandfather. (2) Compare how you learn about science with how Calpurnia learns — what is similar? What is different? (3) Calpurnia faces pressure to conform to expectations. Write about a time you wanted to pursue an interest that others did not understand.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Calpurnia is evolving — not biologically, but as a person. The title of the book has a double meaning: it is about biological evolution AND about Calpurnia's personal growth. As we continue reading, watch for how both kinds of evolution unfold.", "mastery_check": "Can the student identify specific ways Calpurnia is developing as a character? Can they connect the book's themes to their science studies?"}
+        {
+          "type": "title",
+          "heading": "The Evolution of Calpurnia Tate",
+          "subheading": "Chapters 4-6 — The Scientific Method in Action",
+          "image_url": "https://images.pexels.com/photos/5608541/pexels-photo-5608541.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Before reading, let us review. What question does Calpurnia have about the grasshoppers? How has her grandfather been guiding her? What tensions exist between what Calpurnia wants to do and what her family expects of her?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "As we read chapters 4-6, track: (1) New scientific observations Calpurnia makes, (2) New vocabulary or concepts her grandfather introduces, (3) Moments where Calpurnia faces conflict between science and family expectations, (4) Evidence of character growth — how is she changing from the beginning of the book?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Read chapters 4-6. Pause to discuss key moments. Notice how Calpurnia's grandfather teaches her: he does not just give answers — he asks questions, suggests experiments, and encourages her to observe carefully. This is the Socratic method, and it mirrors the Montessori approach to learning."
+        },
+        {
+          "type": "activity",
+          "prompt": "After reading, discuss: How does Calpurnia's approach to questions compare to the scientific method? (Observe, question, hypothesize, test, conclude.) Then choose one of these journal prompts: (1) Write a letter from Calpurnia to a friend explaining what she has been learning from her grandfather. (2) Compare how you learn about science with how Calpurnia learns — what is similar? What is different? (3) Calpurnia faces pressure to conform to expectations. Write about a time you wanted to pursue an interest that others did not understand.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Calpurnia is evolving — not biologically, but as a person. The title of the book has a double meaning: it is about biological evolution AND about Calpurnia's personal growth. As we continue reading, watch for how both kinds of evolution unfold.",
+          "mastery_check": "Can the student identify specific ways Calpurnia is developing as a character? Can they connect the book's themes to their science studies?"
+        }
       ]
     },
     "parent_notes": "The double meaning of 'evolution' in the title is rich for discussion. Calpurnia is evolving as a thinker and person, just as species evolve over time. The parallel between Grandfather's teaching method and Montessori education is worth noting — both emphasize observation, questioning, and independent discovery over memorization. If your child is deeply engaged, they might enjoy keeping a 'nature journal' like Calpurnia's, recording their own observations of plants, animals, and weather. The reading level and pace should be comfortable for 4th-6th graders; adjust the number of chapters per session based on your child's stamina and interest.",
@@ -417,15 +957,45 @@
     "instructions": "1. Assemble the complete essay: introduction, three body paragraphs, conclusion.\n2. Read the entire essay aloud (to self or parent) — mark awkward spots.\n3. Check transitions between paragraphs — add transition words/phrases.\n4. Evaluate argument strength: Is the evidence convincing? Does the reasoning explain why?\n5. Improve word choice: replace weak verbs and vague words.\n6. Peer/parent review using a feedback checklist.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Writer's notebook with all paragraph drafts", "Revision checklist", "Colored pens for editing", "Clean paper for final assembly"],
+    "materials_needed": [
+      "Writer's notebook with all paragraph drafts",
+      "Revision checklist",
+      "Colored pens for editing",
+      "Clean paper for final assembly"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Assembling Your Essay", "subheading": "From Draft to Polished Argument"},
-        {"type": "instruction", "step": 1, "text": "Today you become an editor. Write out (or type) your complete essay in order: introduction paragraph, body paragraph 1, body paragraph 2, body paragraph 3, conclusion. Read through it once without stopping — just get a feel for how it flows as a whole piece."},
-        {"type": "instruction", "step": 2, "text": "Transition words connect your paragraphs and guide the reader through your argument. Between paragraphs, use: 'First/To begin with,' 'Furthermore/In addition/Moreover,' 'Finally/Most importantly,' 'In conclusion/Ultimately.' Within paragraphs, use: 'For example,' 'According to,' 'This demonstrates that,' 'As a result,' 'In contrast.' Add transitions where your essay feels choppy."},
-        {"type": "instruction", "step": 3, "text": "Read your essay aloud — every word. When you stumble or something sounds awkward, mark it. This is the most powerful revision tool a writer has. Check for: (1) Does each paragraph have a clear topic sentence? (2) Does every piece of evidence have reasoning? (3) Does the conclusion restate the thesis without copying it? (4) Are there any 'dead' words you can replace? (Replace 'good' with 'effective,' 'beneficial,' 'essential.' Replace 'bad' with 'harmful,' 'detrimental,' 'counterproductive.')"},
-        {"type": "activity", "prompt": "Revision process: (1) Assemble your complete essay. (2) Read it aloud and mark places that need work. (3) Add transition words between paragraphs. (4) Find and replace at least 5 weak or vague words with stronger, more specific ones. (5) Have a parent or sibling read your essay and give you feedback using this checklist: Is the thesis clear? Is the evidence convincing? Does the reasoning make sense? Is the conclusion strong? What is the strongest part? What needs more work?", "duration_minutes": 35},
-        {"type": "wrap_up", "text": "Good writing is rewriting. Professional writers revise their work many times before publishing. You have now planned, drafted, and revised a complete 5-paragraph persuasive essay — a major accomplishment. Tomorrow you will do a final proofread for grammar and spelling, then produce your final copy.", "mastery_check": "Has the student assembled a complete 5-paragraph essay with transitions? Have they revised for word choice and logical flow?"}
+        {
+          "type": "title",
+          "heading": "Assembling Your Essay",
+          "subheading": "From Draft to Polished Argument",
+          "image_url": "https://images.pexels.com/photos/5212350/pexels-photo-5212350.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Today you become an editor. Write out (or type) your complete essay in order: introduction paragraph, body paragraph 1, body paragraph 2, body paragraph 3, conclusion. Read through it once without stopping — just get a feel for how it flows as a whole piece."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Transition words connect your paragraphs and guide the reader through your argument. Between paragraphs, use: 'First/To begin with,' 'Furthermore/In addition/Moreover,' 'Finally/Most importantly,' 'In conclusion/Ultimately.' Within paragraphs, use: 'For example,' 'According to,' 'This demonstrates that,' 'As a result,' 'In contrast.' Add transitions where your essay feels choppy."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Read your essay aloud — every word. When you stumble or something sounds awkward, mark it. This is the most powerful revision tool a writer has. Check for: (1) Does each paragraph have a clear topic sentence? (2) Does every piece of evidence have reasoning? (3) Does the conclusion restate the thesis without copying it? (4) Are there any 'dead' words you can replace? (Replace 'good' with 'effective,' 'beneficial,' 'essential.' Replace 'bad' with 'harmful,' 'detrimental,' 'counterproductive.')"
+        },
+        {
+          "type": "activity",
+          "prompt": "Revision process: (1) Assemble your complete essay. (2) Read it aloud and mark places that need work. (3) Add transition words between paragraphs. (4) Find and replace at least 5 weak or vague words with stronger, more specific ones. (5) Have a parent or sibling read your essay and give you feedback using this checklist: Is the thesis clear? Is the evidence convincing? Does the reasoning make sense? Is the conclusion strong? What is the strongest part? What needs more work?",
+          "duration_minutes": 35
+        },
+        {
+          "type": "wrap_up",
+          "text": "Good writing is rewriting. Professional writers revise their work many times before publishing. You have now planned, drafted, and revised a complete 5-paragraph persuasive essay — a major accomplishment. Tomorrow you will do a final proofread for grammar and spelling, then produce your final copy.",
+          "mastery_check": "Has the student assembled a complete 5-paragraph essay with transitions? Have they revised for word choice and logical flow?"
+        }
       ]
     },
     "parent_notes": "The revision process is where real learning happens. Many students resist revision because they feel their first draft is 'done.' Emphasize that even professional authors revise extensively — the first draft is just the starting point. When giving feedback, use the 'compliment sandwich': start with something specific that works well, then suggest one area for improvement, then end with encouragement. Reading aloud is genuinely the most effective revision strategy — the ear catches problems the eye misses. If your child is writing by hand, having them recopy the revised version (rather than making messy corrections) produces a cleaner result and reinforces the revision.",
@@ -443,16 +1013,50 @@
     "instructions": "1. Review converting mixed numbers to improper fractions and back.\n2. Practice adding and subtracting mixed numbers (with and without regrouping).\n3. Practice multiplying and dividing mixed numbers.\n4. Solve multi-step word problems requiring operation selection.\n5. Introduce estimation with fractions — is the answer reasonable?\n6. Challenge problems combining multiple operations.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Math journal", "Graph paper", "Fraction bars (optional)", "Pencil"],
+    "materials_needed": [
+      "Math journal",
+      "Graph paper",
+      "Fraction bars (optional)",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Mixed Numbers", "subheading": "All Four Operations"},
-        {"type": "instruction", "step": 1, "text": "Converting: Mixed to improper — multiply the whole number by the denominator, add the numerator, keep the denominator. Example: 3 2/5 = (3×5+2)/5 = 17/5. Improper to mixed — divide the numerator by the denominator. Quotient = whole number, remainder = new numerator. Example: 17/5 = 3 remainder 2 = 3 2/5."},
-        {"type": "instruction", "step": 2, "text": "Adding mixed numbers: You can either (a) add whole numbers and fractions separately, then combine, or (b) convert both to improper fractions and add. Example: 2 1/3 + 1 3/4. Method (a): Whole numbers: 2+1=3. Fractions: 1/3+3/4 = 4/12+9/12 = 13/12 = 1 1/12. Total: 3+1 1/12 = 4 1/12. Method (b): 7/3+7/4 = 28/12+21/12 = 49/12 = 4 1/12."},
-        {"type": "instruction", "step": 3, "text": "Subtracting mixed numbers sometimes requires regrouping. Example: 5 1/4 - 2 3/4. You cannot subtract 3/4 from 1/4, so regroup: 5 1/4 = 4 5/4. Now: 4 5/4 - 2 3/4 = 2 2/4 = 2 1/2. For multiplying and dividing: ALWAYS convert to improper fractions first, then use the standard algorithms."},
-        {"type": "instruction", "step": 4, "text": "Estimation check: Before computing, estimate. Is 3 1/2 × 2 1/4 closer to 6 or 8? (3.5 × 2.25 ≈ about 8, so our answer should be near 8.) Actual: 7/2 × 9/4 = 63/8 = 7 7/8. Close to 8 — makes sense! Always estimate first, then check if your exact answer is reasonable."},
-        {"type": "activity", "prompt": "Solve: (1) 3 1/2 + 2 2/3, (2) 5 1/6 - 2 5/6, (3) 1 3/4 × 2 2/5, (4) 4 1/2 ÷ 1 1/3. Word Problems: (5) 'You need 2 3/4 yards of fabric for a dress and 1 1/2 yards for a scarf. How much fabric do you need in total?' (6) 'A board is 6 1/4 feet long. You need pieces that are 1 1/4 feet each. How many pieces can you cut?' (7) 'A recipe calls for 1 2/3 cups of flour. You want to make 1 1/2 times the recipe. How much flour do you need?' Estimate before solving each one.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "You can now perform all four operations with fractions and mixed numbers. The key strategies: for addition/subtraction, find common denominators (you can work with mixed numbers directly or convert to improper); for multiplication/division, always convert to improper fractions first. Always estimate to check reasonableness.", "mastery_check": "Can the student perform all four operations with mixed numbers and solve multi-step word problems involving fractions?"}
+        {
+          "type": "title",
+          "heading": "Mixed Numbers",
+          "subheading": "All Four Operations",
+          "image_url": "https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Converting: Mixed to improper — multiply the whole number by the denominator, add the numerator, keep the denominator. Example: 3 2/5 = (3×5+2)/5 = 17/5. Improper to mixed — divide the numerator by the denominator. Quotient = whole number, remainder = new numerator. Example: 17/5 = 3 remainder 2 = 3 2/5."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Adding mixed numbers: You can either (a) add whole numbers and fractions separately, then combine, or (b) convert both to improper fractions and add. Example: 2 1/3 + 1 3/4. Method (a): Whole numbers: 2+1=3. Fractions: 1/3+3/4 = 4/12+9/12 = 13/12 = 1 1/12. Total: 3+1 1/12 = 4 1/12. Method (b): 7/3+7/4 = 28/12+21/12 = 49/12 = 4 1/12."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Subtracting mixed numbers sometimes requires regrouping. Example: 5 1/4 - 2 3/4. You cannot subtract 3/4 from 1/4, so regroup: 5 1/4 = 4 5/4. Now: 4 5/4 - 2 3/4 = 2 2/4 = 2 1/2. For multiplying and dividing: ALWAYS convert to improper fractions first, then use the standard algorithms."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Estimation check: Before computing, estimate. Is 3 1/2 × 2 1/4 closer to 6 or 8? (3.5 × 2.25 ≈ about 8, so our answer should be near 8.) Actual: 7/2 × 9/4 = 63/8 = 7 7/8. Close to 8 — makes sense! Always estimate first, then check if your exact answer is reasonable."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve: (1) 3 1/2 + 2 2/3, (2) 5 1/6 - 2 5/6, (3) 1 3/4 × 2 2/5, (4) 4 1/2 ÷ 1 1/3. Word Problems: (5) 'You need 2 3/4 yards of fabric for a dress and 1 1/2 yards for a scarf. How much fabric do you need in total?' (6) 'A board is 6 1/4 feet long. You need pieces that are 1 1/4 feet each. How many pieces can you cut?' (7) 'A recipe calls for 1 2/3 cups of flour. You want to make 1 1/2 times the recipe. How much flour do you need?' Estimate before solving each one.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "You can now perform all four operations with fractions and mixed numbers. The key strategies: for addition/subtraction, find common denominators (you can work with mixed numbers directly or convert to improper); for multiplication/division, always convert to improper fractions first. Always estimate to check reasonableness.",
+          "mastery_check": "Can the student perform all four operations with mixed numbers and solve multi-step word problems involving fractions?"
+        }
       ]
     },
     "parent_notes": "This lesson consolidates the week's fraction work. The biggest challenges are usually: (1) regrouping when subtracting mixed numbers (borrowing from the whole number), and (2) remembering to convert to improper fractions before multiplying or dividing. The estimation step is critically important — it catches errors before they become habits. If your child gets 3 1/2 × 2 1/4 = 6 3/8, the estimate of 'about 8' should flag that something is wrong. Encourage mental estimation: 3 1/2 is between 3 and 4, and 2 1/4 is between 2 and 3, so the answer should be between 6 and 12. Practice with cooking (doubling and halving recipes) provides natural mixed-number practice.",
@@ -470,17 +1074,56 @@
     "instructions": "1. Tell the story of Gregor Mendel: Austrian monk, garden experiments, 1856-1863.\n2. Explain his experimental method: true-breeding parent plants, cross-pollination, careful data recording.\n3. Introduce dominant and recessive traits using pea plant characteristics.\n4. Walk through the P, F1, and F2 generations.\n5. Show the 3:1 ratio and explain what it means.\n6. Student recreates Mendel's experiment with a coin-flip simulation.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Science journal", "Two coins (for probability simulation)", "Colored pencils", "Pea plant trait images", "Data recording sheet"],
+    "materials_needed": [
+      "Science journal",
+      "Two coins (for probability simulation)",
+      "Colored pencils",
+      "Pea plant trait images",
+      "Data recording sheet"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Gregor Mendel", "subheading": "The Father of Genetics"},
-        {"type": "instruction", "step": 1, "text": "In 1856, a quiet Austrian monk named Gregor Mendel began growing pea plants in his monastery garden. Over eight years, he grew and studied nearly 30,000 pea plants, carefully recording which traits appeared in each generation. His work, ignored during his lifetime, eventually became the foundation of modern genetics. Mendel chose pea plants because they grow quickly, have distinct traits, and can be cross-pollinated by hand."},
-        {"type": "instruction", "step": 2, "text": "Mendel studied seven traits, each with two clear forms: seed shape (round vs. wrinkled), seed color (yellow vs. green), flower color (purple vs. white), pod shape (smooth vs. pinched), pod color (green vs. yellow), flower position (side vs. end), and plant height (tall vs. short). He started with true-breeding plants — plants that always produced offspring identical to themselves."},
-        {"type": "instruction", "step": 3, "text": "The experiment: Mendel crossed a true-breeding tall plant with a true-breeding short plant. The first generation (F1) was ALL tall — no short plants at all! The short trait seemed to vanish. But when he crossed two F1 tall plants, the second generation (F2) produced both tall AND short plants in a 3:1 ratio — about 3 tall for every 1 short. The short trait had been hiding!"},
-        {"type": "instruction", "step": 4, "text": "Mendel's explanation: Each parent carries two 'factors' (we now call them alleles) for each trait. Tall (T) is dominant — it shows up whenever present. Short (t) is recessive — it only shows up when both copies are recessive (tt). The F1 plants were all Tt — tall, but carrying the hidden short allele. When two Tt plants cross: TT (tall), Tt (tall), Tt (tall), tt (short) = 3 tall : 1 short."},
-        {"type": "activity", "prompt": "Coin Flip Genetics: Let heads = T (dominant/tall) and tails = t (recessive/short). Each 'parent' plant is Tt, so each contributes one allele randomly. Flip two coins simultaneously 20 times. Record each result: HH = TT (tall), HT or TH = Tt (tall), TT = tt (short). Tally your results: How many tall? How many short? Is your ratio close to 3:1? Why might it not be exactly 3:1? (Hint: think about sample size.) Then draw and label the cross: P generation (TT × tt), F1 generation (all Tt), and F2 generation (TT, Tt, Tt, tt).", "duration_minutes": 25},
-        {"type": "check_understanding", "question": "If both parents are Tt (heterozygous tall), what fraction of their offspring do you expect to be short (tt)?", "hint": "Think about the possible combinations: TT, Tt, Tt, tt."},
-        {"type": "wrap_up", "text": "Mendel discovered that traits are controlled by pairs of factors (alleles), that one form can be dominant over the other, and that these factors separate during reproduction and recombine in offspring. His 3:1 ratio was the key clue. Next science lesson, we will learn about DNA — the molecule that carries these genetic instructions — and use Punnett squares to predict inheritance patterns.", "mastery_check": "Can the student explain Mendel's experiment and the 3:1 ratio? Can they define dominant and recessive traits?"}
+        {
+          "type": "title",
+          "heading": "Gregor Mendel",
+          "subheading": "The Father of Genetics",
+          "image_url": "https://images.pexels.com/photos/2098428/pexels-photo-2098428.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "In 1856, a quiet Austrian monk named Gregor Mendel began growing pea plants in his monastery garden. Over eight years, he grew and studied nearly 30,000 pea plants, carefully recording which traits appeared in each generation. His work, ignored during his lifetime, eventually became the foundation of modern genetics. Mendel chose pea plants because they grow quickly, have distinct traits, and can be cross-pollinated by hand."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Mendel studied seven traits, each with two clear forms: seed shape (round vs. wrinkled), seed color (yellow vs. green), flower color (purple vs. white), pod shape (smooth vs. pinched), pod color (green vs. yellow), flower position (side vs. end), and plant height (tall vs. short). He started with true-breeding plants — plants that always produced offspring identical to themselves."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The experiment: Mendel crossed a true-breeding tall plant with a true-breeding short plant. The first generation (F1) was ALL tall — no short plants at all! The short trait seemed to vanish. But when he crossed two F1 tall plants, the second generation (F2) produced both tall AND short plants in a 3:1 ratio — about 3 tall for every 1 short. The short trait had been hiding!"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Mendel's explanation: Each parent carries two 'factors' (we now call them alleles) for each trait. Tall (T) is dominant — it shows up whenever present. Short (t) is recessive — it only shows up when both copies are recessive (tt). The F1 plants were all Tt — tall, but carrying the hidden short allele. When two Tt plants cross: TT (tall), Tt (tall), Tt (tall), tt (short) = 3 tall : 1 short."
+        },
+        {
+          "type": "activity",
+          "prompt": "Coin Flip Genetics: Let heads = T (dominant/tall) and tails = t (recessive/short). Each 'parent' plant is Tt, so each contributes one allele randomly. Flip two coins simultaneously 20 times. Record each result: HH = TT (tall), HT or TH = Tt (tall), TT = tt (short). Tally your results: How many tall? How many short? Is your ratio close to 3:1? Why might it not be exactly 3:1? (Hint: think about sample size.) Then draw and label the cross: P generation (TT × tt), F1 generation (all Tt), and F2 generation (TT, Tt, Tt, tt).",
+          "duration_minutes": 25
+        },
+        {
+          "type": "check_understanding",
+          "question": "If both parents are Tt (heterozygous tall), what fraction of their offspring do you expect to be short (tt)?",
+          "hint": "Think about the possible combinations: TT, Tt, Tt, tt."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Mendel discovered that traits are controlled by pairs of factors (alleles), that one form can be dominant over the other, and that these factors separate during reproduction and recombine in offspring. His 3:1 ratio was the key clue. Next science lesson, we will learn about DNA — the molecule that carries these genetic instructions — and use Punnett squares to predict inheritance patterns.",
+          "mastery_check": "Can the student explain Mendel's experiment and the 3:1 ratio? Can they define dominant and recessive traits?"
+        }
       ]
     },
     "parent_notes": "Mendel's story is a wonderful example of scientific perseverance — his work was published in 1866 but not recognized until 1900, 16 years after his death. The coin flip simulation is a powerful hands-on activity that demonstrates probability in genetics. Your child's results will likely not be exactly 3:1 because of small sample size — this is a great teaching moment about how larger samples give more reliable results (Mendel used thousands of plants). If your child finds the coin flip engaging, have them do 40 or 60 flips and compare the ratio — it should get closer to 3:1 with more data. The key vocabulary to reinforce: dominant (always shows when present), recessive (only shows when both copies are recessive), allele (one version of a gene), homozygous (two same alleles, like TT or tt), heterozygous (two different alleles, like Tt).",
@@ -498,17 +1141,60 @@
     "instructions": "1. Introduce the coordinate plane: x-axis (horizontal), y-axis (vertical), origin (0,0).\n2. Teach ordered pairs (x, y) — 'run before you climb.'\n3. Plot points in Quadrant I (both positive), then extend to all four quadrants.\n4. Draw shapes by plotting vertices and connecting them.\n5. Calculate horizontal and vertical distances between points.\n6. Connect to real-world: How do GPS coordinates work?",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Graph paper", "Ruler", "Colored pencils", "Math journal"],
+    "materials_needed": [
+      "Graph paper",
+      "Ruler",
+      "Colored pencils",
+      "Math journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Coordinate Geometry", "subheading": "Mapping the Math Plane"},
-        {"type": "materials", "items": ["Graph paper (at least 10×10 grid)", "Ruler", "Colored pencils (at least 4 colors)", "Math journal"], "setup_instructions": "Draw a large coordinate plane on graph paper with x-axis and y-axis from -10 to 10. Label the axes and origin."},
-        {"type": "instruction", "step": 1, "text": "The coordinate plane is a flat surface divided by two number lines: the x-axis (horizontal, like the ground) and the y-axis (vertical, like a wall). They cross at the origin (0, 0). Every point on the plane has a unique address called an ordered pair: (x, y). The x-value tells you how far to go left or right; the y-value tells you how far to go up or down."},
-        {"type": "instruction", "step": 2, "text": "Memory trick: 'Run before you climb.' First move along the x-axis (run left or right), then move along the y-axis (climb up or down). (3, 5) means go right 3, up 5. (-2, 4) means go left 2, up 4. (1, -3) means go right 1, down 3. (-4, -2) means go left 4, down 2."},
-        {"type": "instruction", "step": 3, "text": "The four quadrants: Quadrant I (top right): x positive, y positive (+, +). Quadrant II (top left): x negative, y positive (-, +). Quadrant III (bottom left): x negative, y negative (-, -). Quadrant IV (bottom right): x positive, y negative (+, -). Points on the axes are not in any quadrant."},
-        {"type": "instruction", "step": 4, "text": "Drawing shapes with coordinates: Plot these points and connect them in order — what shape do you get? A(2, 1), B(6, 1), C(6, 4), D(2, 4). It is a rectangle! You can find its dimensions: width = 6-2 = 4 units, height = 4-1 = 3 units. To find horizontal or vertical distance between two points, subtract the coordinates that differ."},
-        {"type": "activity", "prompt": "On your coordinate plane: (1) Plot and label these points: A(3, 2), B(-4, 5), C(-2, -3), D(5, -1), E(0, 4), F(-3, 0). State which quadrant each is in. (2) Plot these vertices and connect them in order to make shapes: Triangle: (1, 1), (5, 1), (3, 6). Square: (-5, -1), (-1, -1), (-1, -5), (-5, -5). (3) Find the perimeter of the square using coordinate subtraction. (4) Challenge: Plot a shape of your own design using at least 6 vertices across at least 2 quadrants. List the coordinates for someone else to recreate.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "The coordinate plane lets us describe exact locations using numbers. This is the basis of GPS navigation, computer graphics, and mapping. Every point on Earth has coordinates (latitude and longitude) that work just like our ordered pairs. You have learned to plot points, draw shapes, and calculate distances — next time, we will explore transformations: sliding, flipping, and rotating shapes on the coordinate plane.", "mastery_check": "Can the student plot ordered pairs in all four quadrants? Can they draw shapes from coordinates and calculate horizontal/vertical distances?"}
+        {
+          "type": "title",
+          "heading": "Coordinate Geometry",
+          "subheading": "Mapping the Math Plane",
+          "image_url": "https://images.pexels.com/photos/8612931/pexels-photo-8612931.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Graph paper (at least 10×10 grid)",
+            "Ruler",
+            "Colored pencils (at least 4 colors)",
+            "Math journal"
+          ],
+          "setup_instructions": "Draw a large coordinate plane on graph paper with x-axis and y-axis from -10 to 10. Label the axes and origin."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The coordinate plane is a flat surface divided by two number lines: the x-axis (horizontal, like the ground) and the y-axis (vertical, like a wall). They cross at the origin (0, 0). Every point on the plane has a unique address called an ordered pair: (x, y). The x-value tells you how far to go left or right; the y-value tells you how far to go up or down."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Memory trick: 'Run before you climb.' First move along the x-axis (run left or right), then move along the y-axis (climb up or down). (3, 5) means go right 3, up 5. (-2, 4) means go left 2, up 4. (1, -3) means go right 1, down 3. (-4, -2) means go left 4, down 2."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The four quadrants: Quadrant I (top right): x positive, y positive (+, +). Quadrant II (top left): x negative, y positive (-, +). Quadrant III (bottom left): x negative, y negative (-, -). Quadrant IV (bottom right): x positive, y negative (+, -). Points on the axes are not in any quadrant."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Drawing shapes with coordinates: Plot these points and connect them in order — what shape do you get? A(2, 1), B(6, 1), C(6, 4), D(2, 4). It is a rectangle! You can find its dimensions: width = 6-2 = 4 units, height = 4-1 = 3 units. To find horizontal or vertical distance between two points, subtract the coordinates that differ."
+        },
+        {
+          "type": "activity",
+          "prompt": "On your coordinate plane: (1) Plot and label these points: A(3, 2), B(-4, 5), C(-2, -3), D(5, -1), E(0, 4), F(-3, 0). State which quadrant each is in. (2) Plot these vertices and connect them in order to make shapes: Triangle: (1, 1), (5, 1), (3, 6). Square: (-5, -1), (-1, -1), (-1, -5), (-5, -5). (3) Find the perimeter of the square using coordinate subtraction. (4) Challenge: Plot a shape of your own design using at least 6 vertices across at least 2 quadrants. List the coordinates for someone else to recreate.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The coordinate plane lets us describe exact locations using numbers. This is the basis of GPS navigation, computer graphics, and mapping. Every point on Earth has coordinates (latitude and longitude) that work just like our ordered pairs. You have learned to plot points, draw shapes, and calculate distances — next time, we will explore transformations: sliding, flipping, and rotating shapes on the coordinate plane.",
+          "mastery_check": "Can the student plot ordered pairs in all four quadrants? Can they draw shapes from coordinates and calculate horizontal/vertical distances?"
+        }
       ]
     },
     "parent_notes": "Coordinate geometry bridges arithmetic and geometry — it uses number skills to describe spatial relationships. The 'run before you climb' mnemonic helps students remember the (x, y) order. Common errors include reversing x and y or confusing the direction of negative values. If your child has used any mapping app, they have seen coordinates in action — latitude and longitude are the real-world coordinate plane. For additional practice, try 'coordinate picture' worksheets where plotting dozens of points reveals a hidden image — these are engaging and build fluency. The connection to computer graphics is powerful: every image on a screen is made of points with coordinates (pixels).",
@@ -526,15 +1212,45 @@
     "instructions": "1. Discuss evidence for early music: 40,000-year-old bone flutes from Germany, rock gongs in Africa.\n2. Explain why music may have evolved: social bonding, communication, ritual, emotional expression.\n3. Teach basic rhythm notation: whole, half, quarter, eighth notes and rests.\n4. Practice clapping and tapping rhythmic patterns.\n5. Students create percussion instruments from household items.\n6. Compose and perform a 16-beat rhythm composition.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Household percussion items (pots, wooden spoons, containers with rice/beans)", "Music journal", "Pencil", "Timer or metronome (phone app works)"],
+    "materials_needed": [
+      "Household percussion items (pots, wooden spoons, containers with rice/beans)",
+      "Music journal",
+      "Pencil",
+      "Timer or metronome (phone app works)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Music of Early Humans", "subheading": "The Power of Rhythm"},
-        {"type": "instruction", "step": 1, "text": "The oldest known musical instrument is a bone flute found in Hohle Fels Cave, Germany — it is about 40,000 years old, carved from a vulture wing bone. But rhythm almost certainly came first: clapping, stomping, striking objects together. Every human culture has music. No culture has ever been found without it. This suggests music is not a luxury — it is fundamental to being human."},
-        {"type": "instruction", "step": 2, "text": "Why do humans make music? Scientists believe music evolved because it strengthens social bonds (singing together creates trust and cooperation), aids communication (mothers singing to infants, war chants for coordination), supports memory (information set to rhythm is easier to remember — think of the alphabet song), and processes emotions (joy, grief, celebration, mourning)."},
-        {"type": "instruction", "step": 3, "text": "Basic rhythm notation: A whole note lasts 4 beats. A half note lasts 2 beats. A quarter note lasts 1 beat. An eighth note lasts 1/2 beat. Rests indicate silence for the same duration. In 4/4 time, each measure has 4 beats. Let us clap together: clap quarter notes (steady, even beats), then try eighth notes (twice as fast), then mix them."},
-        {"type": "activity", "prompt": "Part 1: Gather at least 3 'instruments' from your home — a pot and wooden spoon, a container of rice (shaker), pencils tapping on a table, hands clapping, feet stomping. Each produces a different sound. Part 2: Compose a 16-beat rhythm using standard notation (or your own symbols). Your composition should use at least 2 different sounds and include at least one rest (silence). Practice it until you can perform it consistently. Part 3: Perform your composition at two different tempos (speeds) — how does tempo change the feeling? Write a reflection: Why do you think rhythm is found in every human culture?", "duration_minutes": 30},
-        {"type": "wrap_up", "text": "From bone flutes to symphony orchestras, music has been part of the human story for at least 40,000 years. Rhythm is the foundation of all music — it is pattern and repetition, prediction and surprise. When you tap a rhythm, you are connecting to something deeply, uniquely human.", "mastery_check": "Can the student distinguish between whole, half, quarter, and eighth notes? Can they compose and perform a 16-beat rhythm pattern?"}
+        {
+          "type": "title",
+          "heading": "Music of Early Humans",
+          "subheading": "The Power of Rhythm",
+          "image_url": "https://images.pexels.com/photos/9644670/pexels-photo-9644670.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The oldest known musical instrument is a bone flute found in Hohle Fels Cave, Germany — it is about 40,000 years old, carved from a vulture wing bone. But rhythm almost certainly came first: clapping, stomping, striking objects together. Every human culture has music. No culture has ever been found without it. This suggests music is not a luxury — it is fundamental to being human."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Why do humans make music? Scientists believe music evolved because it strengthens social bonds (singing together creates trust and cooperation), aids communication (mothers singing to infants, war chants for coordination), supports memory (information set to rhythm is easier to remember — think of the alphabet song), and processes emotions (joy, grief, celebration, mourning)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Basic rhythm notation: A whole note lasts 4 beats. A half note lasts 2 beats. A quarter note lasts 1 beat. An eighth note lasts 1/2 beat. Rests indicate silence for the same duration. In 4/4 time, each measure has 4 beats. Let us clap together: clap quarter notes (steady, even beats), then try eighth notes (twice as fast), then mix them."
+        },
+        {
+          "type": "activity",
+          "prompt": "Part 1: Gather at least 3 'instruments' from your home — a pot and wooden spoon, a container of rice (shaker), pencils tapping on a table, hands clapping, feet stomping. Each produces a different sound. Part 2: Compose a 16-beat rhythm using standard notation (or your own symbols). Your composition should use at least 2 different sounds and include at least one rest (silence). Practice it until you can perform it consistently. Part 3: Perform your composition at two different tempos (speeds) — how does tempo change the feeling? Write a reflection: Why do you think rhythm is found in every human culture?",
+          "duration_minutes": 30
+        },
+        {
+          "type": "wrap_up",
+          "text": "From bone flutes to symphony orchestras, music has been part of the human story for at least 40,000 years. Rhythm is the foundation of all music — it is pattern and repetition, prediction and surprise. When you tap a rhythm, you are connecting to something deeply, uniquely human.",
+          "mastery_check": "Can the student distinguish between whole, half, quarter, and eighth notes? Can they compose and perform a 16-beat rhythm pattern?"
+        }
       ]
     },
     "parent_notes": "This lesson connects music to our study of early humans, showing that art and creativity are defining human characteristics alongside tool use and language. The hands-on percussion activity is intentionally low-tech — early humans did not have manufactured instruments. Encourage creativity with sound sources: different surfaces produce different tones, different containers with different fillings produce different timbres. If your child has formal music training, challenge them to write their composition in standard notation. If they do not, any consistent symbol system works (X for clap, O for tap, _ for rest). A free metronome app helps maintain steady tempo. The social element of music is important — if possible, make music together as a family.",
@@ -552,16 +1268,50 @@
     "instructions": "1. Final proofreading pass: spelling, punctuation, capitalization, grammar.\n2. Check essay formatting: title, indented paragraphs, consistent margins.\n3. Produce the final copy (handwritten neatly or typed).\n4. Practice reading the essay aloud with expression and conviction.\n5. Anticipate counterarguments: What would someone who disagrees say? How would you respond?\n6. Present the essay to a family audience.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Revised essay draft", "Clean paper or computer for final copy", "Proofreading checklist", "Pencil/pen"],
+    "materials_needed": [
+      "Revised essay draft",
+      "Clean paper or computer for final copy",
+      "Proofreading checklist",
+      "Pencil/pen"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Final Draft", "subheading": "Polish, Present, Persuade"},
-        {"type": "instruction", "step": 1, "text": "Proofreading is different from revising. Revising changes IDEAS (content, organization, reasoning). Proofreading fixes MECHANICS (spelling, punctuation, capitalization, grammar). Today we proofread. Read your essay slowly, word by word. Check: Are all words spelled correctly? Does every sentence end with proper punctuation? Are proper nouns capitalized? Do subjects and verbs agree?"},
-        {"type": "instruction", "step": 2, "text": "Proofreading tricks: (1) Read backwards, sentence by sentence — this forces you to focus on each sentence individually instead of getting caught up in the flow. (2) Point to each word with your pencil as you read. (3) Read aloud slowly. (4) Check one type of error at a time — first pass for spelling, second for punctuation, third for capitalization."},
-        {"type": "instruction", "step": 3, "text": "Formatting your final copy: Include a title (centered, no quotation marks). Indent the first line of each paragraph. Use consistent margins. If handwriting, write neatly and legibly. If typing, use a standard font (12-point), double-spaced. Put your name and date in the upper right corner."},
-        {"type": "instruction", "step": 4, "text": "Preparing to present: A persuasive essay is even more powerful when delivered aloud. Practice reading with expression — emphasize key words, pause after important points, make eye contact with your audience. Anticipate counterarguments: What would someone who disagrees with you say? Prepare a response. This shows you have thought deeply about your topic."},
-        {"type": "activity", "prompt": "Step 1: Proofread your essay using the techniques above. Fix all errors. Step 2: Produce your final copy — neatly handwritten or typed. Step 3: Practice reading it aloud at least twice. Step 4: Think of one counterargument to your thesis and prepare a response. Step 5: Present your essay to a family member. After presenting, ask them: 'Were you persuaded? Why or why not? What was my strongest point?' Record their feedback.", "duration_minutes": 35},
-        {"type": "wrap_up", "text": "You have completed a full persuasive essay from start to finish: choosing a topic, writing a thesis, gathering evidence, drafting, revising, proofreading, and presenting. This process — plan, draft, revise, edit, publish — is how professional writers work. You are now a persuasive writer. Save your essay in your portfolio.", "mastery_check": "Has the student produced a polished 5-paragraph persuasive essay with a clear thesis, three pieces of evidence with reasoning, and a strong conclusion? Can they present it orally?"}
+        {
+          "type": "title",
+          "heading": "The Final Draft",
+          "subheading": "Polish, Present, Persuade",
+          "image_url": "https://images.pexels.com/photos/3876339/pexels-photo-3876339.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Proofreading is different from revising. Revising changes IDEAS (content, organization, reasoning). Proofreading fixes MECHANICS (spelling, punctuation, capitalization, grammar). Today we proofread. Read your essay slowly, word by word. Check: Are all words spelled correctly? Does every sentence end with proper punctuation? Are proper nouns capitalized? Do subjects and verbs agree?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Proofreading tricks: (1) Read backwards, sentence by sentence — this forces you to focus on each sentence individually instead of getting caught up in the flow. (2) Point to each word with your pencil as you read. (3) Read aloud slowly. (4) Check one type of error at a time — first pass for spelling, second for punctuation, third for capitalization."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Formatting your final copy: Include a title (centered, no quotation marks). Indent the first line of each paragraph. Use consistent margins. If handwriting, write neatly and legibly. If typing, use a standard font (12-point), double-spaced. Put your name and date in the upper right corner."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Preparing to present: A persuasive essay is even more powerful when delivered aloud. Practice reading with expression — emphasize key words, pause after important points, make eye contact with your audience. Anticipate counterarguments: What would someone who disagrees with you say? Prepare a response. This shows you have thought deeply about your topic."
+        },
+        {
+          "type": "activity",
+          "prompt": "Step 1: Proofread your essay using the techniques above. Fix all errors. Step 2: Produce your final copy — neatly handwritten or typed. Step 3: Practice reading it aloud at least twice. Step 4: Think of one counterargument to your thesis and prepare a response. Step 5: Present your essay to a family member. After presenting, ask them: 'Were you persuaded? Why or why not? What was my strongest point?' Record their feedback.",
+          "duration_minutes": 35
+        },
+        {
+          "type": "wrap_up",
+          "text": "You have completed a full persuasive essay from start to finish: choosing a topic, writing a thesis, gathering evidence, drafting, revising, proofreading, and presenting. This process — plan, draft, revise, edit, publish — is how professional writers work. You are now a persuasive writer. Save your essay in your portfolio.",
+          "mastery_check": "Has the student produced a polished 5-paragraph persuasive essay with a clear thesis, three pieces of evidence with reasoning, and a strong conclusion? Can they present it orally?"
+        }
       ]
     },
     "parent_notes": "This is the culmination of a week-long writing process. Celebrate the achievement — a complete persuasive essay is a significant accomplishment for a 4th-6th grader. When your child presents, be an engaged audience: make eye contact, nod, and give genuine feedback afterward. The counterargument exercise is advanced critical thinking — if your child struggles, help them think of it by playing 'devil's advocate.' Save the final essay in a portfolio; looking back at their writing growth over the year is motivating. If your child is a reluctant writer, completing this process — even imperfectly — is a success worth acknowledging. The skills practiced this week (thesis development, evidence evaluation, logical reasoning, revision, public speaking) are foundational for all academic writing.",
@@ -579,15 +1329,44 @@
     "instructions": "1. Review all four fraction operations and when to use each.\n2. Teach problem-solving strategies: identify what you know, what you need to find, and which operation applies.\n3. Model solving a multi-step fraction problem.\n4. Students work through a set of real-world problems independently.\n5. Discuss strategies and compare solution methods.\n6. End-of-week fraction skills assessment.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Math journal", "Pencil", "Fraction bars (optional for checking)"],
+    "materials_needed": [
+      "Math journal",
+      "Pencil",
+      "Fraction bars (optional for checking)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Fraction Problem Solving", "subheading": "Putting It All Together"},
-        {"type": "instruction", "step": 1, "text": "Choosing the right operation: ADD when combining amounts ('How much total?'). SUBTRACT when finding differences ('How much more?' or 'How much is left?'). MULTIPLY when finding a fraction OF something ('What is 2/3 of 24?'). DIVIDE when splitting into fractional groups ('How many 1/4-cup servings in 3 cups?')."},
-        {"type": "instruction", "step": 2, "text": "Multi-step problem example: 'You are building a bookshelf. Each shelf needs 3 1/4 feet of wood. You need 4 shelves. The wood comes in 8-foot boards. How many boards do you need?' Step 1: Total wood needed = 3 1/4 × 4 = 13/4 × 4/1 = 52/4 = 13 feet. Step 2: Boards needed = 13 ÷ 8 = 1 5/8 boards. Step 3: You cannot buy 5/8 of a board, so you need 2 boards. Always consider the real-world context!"},
-        {"type": "instruction", "step": 3, "text": "Problem-solving checklist: (1) Read the problem twice. (2) Identify the information given. (3) Identify what you need to find. (4) Decide which operation(s) to use. (5) Estimate before calculating. (6) Solve step by step, showing all work. (7) Check: Does my answer make sense in context?"},
-        {"type": "activity", "prompt": "Solve these real-world problems. Show all work and estimate first. (1) A hiking trail is 5 3/4 miles long. You have walked 2 1/3 miles. How much farther do you have to go? (2) A recipe for 12 muffins uses 2/3 cup sugar. You want to make 18 muffins. How much sugar do you need? (3) A garden is 8 1/2 feet by 6 2/3 feet. What is its area? (4) You have 15 3/4 feet of ribbon. Each bow needs 2 1/4 feet. How many complete bows can you make? How much ribbon is left over? (5) Three friends share a bill. The bill is $45. One pays 1/3, one pays 2/5, and the third pays the rest. How much does each person pay?", "duration_minutes": 30},
-        {"type": "wrap_up", "text": "This week you reviewed equivalent fractions, added and subtracted with unlike denominators, multiplied and divided fractions, worked with mixed numbers, and applied all of these skills to real-world problems. Fractions are everywhere — cooking, building, sharing, measuring. Mastering them gives you power over the numbers in everyday life.", "mastery_check": "Can the student identify the correct operation for fraction word problems and solve multi-step problems involving fractions and mixed numbers?"}
+        {
+          "type": "title",
+          "heading": "Fraction Problem Solving",
+          "subheading": "Putting It All Together",
+          "image_url": "https://images.pexels.com/photos/6238050/pexels-photo-6238050.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Choosing the right operation: ADD when combining amounts ('How much total?'). SUBTRACT when finding differences ('How much more?' or 'How much is left?'). MULTIPLY when finding a fraction OF something ('What is 2/3 of 24?'). DIVIDE when splitting into fractional groups ('How many 1/4-cup servings in 3 cups?')."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Multi-step problem example: 'You are building a bookshelf. Each shelf needs 3 1/4 feet of wood. You need 4 shelves. The wood comes in 8-foot boards. How many boards do you need?' Step 1: Total wood needed = 3 1/4 × 4 = 13/4 × 4/1 = 52/4 = 13 feet. Step 2: Boards needed = 13 ÷ 8 = 1 5/8 boards. Step 3: You cannot buy 5/8 of a board, so you need 2 boards. Always consider the real-world context!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Problem-solving checklist: (1) Read the problem twice. (2) Identify the information given. (3) Identify what you need to find. (4) Decide which operation(s) to use. (5) Estimate before calculating. (6) Solve step by step, showing all work. (7) Check: Does my answer make sense in context?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these real-world problems. Show all work and estimate first. (1) A hiking trail is 5 3/4 miles long. You have walked 2 1/3 miles. How much farther do you have to go? (2) A recipe for 12 muffins uses 2/3 cup sugar. You want to make 18 muffins. How much sugar do you need? (3) A garden is 8 1/2 feet by 6 2/3 feet. What is its area? (4) You have 15 3/4 feet of ribbon. Each bow needs 2 1/4 feet. How many complete bows can you make? How much ribbon is left over? (5) Three friends share a bill. The bill is $45. One pays 1/3, one pays 2/5, and the third pays the rest. How much does each person pay?",
+          "duration_minutes": 30
+        },
+        {
+          "type": "wrap_up",
+          "text": "This week you reviewed equivalent fractions, added and subtracted with unlike denominators, multiplied and divided fractions, worked with mixed numbers, and applied all of these skills to real-world problems. Fractions are everywhere — cooking, building, sharing, measuring. Mastering them gives you power over the numbers in everyday life.",
+          "mastery_check": "Can the student identify the correct operation for fraction word problems and solve multi-step problems involving fractions and mixed numbers?"
+        }
       ]
     },
     "parent_notes": "This lesson synthesizes the entire week of fraction work. The real-world problems are intentionally varied to require different operations and some multi-step thinking. Problem 4 (ribbon and bows) requires division with a remainder interpreted in context — you cannot make a partial bow, so the answer must be rounded down, with the leftover calculated. Problem 5 introduces the idea that fractions must add to 1 (the whole bill). If your child struggles to identify the correct operation, focus on the keywords and context clues listed in the instruction slides. Consider making this a weekly pattern: four days of skill building, one day of application and assessment. If your child has mastered fractions, they are ready for the ratio and proportion work coming in Week 7.",
@@ -605,16 +1384,50 @@
     "instructions": "1. Review migration routes from Day 1.\n2. Explain how isolation and environment led to physical adaptations: skin color and UV radiation, body proportions and climate.\n3. Present the genetic evidence: all humans share 99.9% DNA; more genetic diversity exists within Africa than between any two other continents.\n4. Discuss: Why is 'race' not a biological category? What is it?\n5. Connect to Mendel: How do dominant/recessive traits spread through populations?\n6. Student completes a migration and adaptation analysis.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Migration map from Day 1", "World climate map", "Geography journal", "Colored pencils"],
+    "materials_needed": [
+      "Migration map from Day 1",
+      "World climate map",
+      "Geography journal",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Migration and Adaptation", "subheading": "How Environment Shaped Human Diversity"},
-        {"type": "instruction", "step": 1, "text": "As small groups of humans migrated to different environments over tens of thousands of years, natural selection favored different traits in different places. This is adaptation — the same process we studied in evolution. Importantly, these differences are literally skin-deep: they involve a tiny fraction of our total DNA (less than 0.1% of human genes differ between populations)."},
-        {"type": "instruction", "step": 2, "text": "Skin color: Near the equator, dark skin protects against UV radiation, which can destroy folate (a vitamin essential for healthy babies). Far from the equator, lighter skin allows more UV to penetrate, which is needed to produce vitamin D. Skin color is an adaptation to UV levels, nothing more. It involves just a handful of genes out of 20,000+."},
-        {"type": "instruction", "step": 3, "text": "Body proportions: In cold climates, natural selection favored compact bodies with shorter limbs (less surface area = less heat loss). In hot climates, taller, leaner bodies with longer limbs were favored (more surface area = better cooling). These are the same principles of physics — they apply to all mammals, not just humans. Think of the difference between an Arctic fox and a desert fox."},
-        {"type": "instruction", "step": 4, "text": "The genetic truth: There is more genetic diversity WITHIN Africa than between Africa and any other continent. This means two people from different parts of Africa may be more genetically different from each other than either is from a person in Europe or Asia. Why? Because Homo sapiens lived in Africa for 200,000+ years before small groups left. The migrants carried only a fraction of Africa's genetic diversity with them."},
-        {"type": "activity", "prompt": "Using your migration map and a world climate map: (1) Identify three regions where humans settled and describe the climate. (2) Predict what physical adaptations might be favored in each region and explain why. (3) Write a paragraph answering: 'Why do scientists say that race is a social construct rather than a biological reality?' Use at least three facts from today's lesson. (4) Bonus: Research one additional human adaptation to environment (e.g., Tibetan adaptation to high altitude, Inuit adaptation to cold, lactose tolerance in pastoral societies).", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Human diversity is real and beautiful — but it represents tiny variations on an overwhelmingly shared genetic blueprint. We are one species, with one origin, adapted to many environments. Understanding the science of human variation helps us appreciate diversity while recognizing our fundamental unity.", "mastery_check": "Can the student explain at least two examples of environmental adaptation in human populations? Can they explain why genetic diversity is greatest in Africa?"}
+        {
+          "type": "title",
+          "heading": "Migration and Adaptation",
+          "subheading": "How Environment Shaped Human Diversity",
+          "image_url": "https://images.pexels.com/photos/8828458/pexels-photo-8828458.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "As small groups of humans migrated to different environments over tens of thousands of years, natural selection favored different traits in different places. This is adaptation — the same process we studied in evolution. Importantly, these differences are literally skin-deep: they involve a tiny fraction of our total DNA (less than 0.1% of human genes differ between populations)."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Skin color: Near the equator, dark skin protects against UV radiation, which can destroy folate (a vitamin essential for healthy babies). Far from the equator, lighter skin allows more UV to penetrate, which is needed to produce vitamin D. Skin color is an adaptation to UV levels, nothing more. It involves just a handful of genes out of 20,000+."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Body proportions: In cold climates, natural selection favored compact bodies with shorter limbs (less surface area = less heat loss). In hot climates, taller, leaner bodies with longer limbs were favored (more surface area = better cooling). These are the same principles of physics — they apply to all mammals, not just humans. Think of the difference between an Arctic fox and a desert fox."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "The genetic truth: There is more genetic diversity WITHIN Africa than between Africa and any other continent. This means two people from different parts of Africa may be more genetically different from each other than either is from a person in Europe or Asia. Why? Because Homo sapiens lived in Africa for 200,000+ years before small groups left. The migrants carried only a fraction of Africa's genetic diversity with them."
+        },
+        {
+          "type": "activity",
+          "prompt": "Using your migration map and a world climate map: (1) Identify three regions where humans settled and describe the climate. (2) Predict what physical adaptations might be favored in each region and explain why. (3) Write a paragraph answering: 'Why do scientists say that race is a social construct rather than a biological reality?' Use at least three facts from today's lesson. (4) Bonus: Research one additional human adaptation to environment (e.g., Tibetan adaptation to high altitude, Inuit adaptation to cold, lactose tolerance in pastoral societies).",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Human diversity is real and beautiful — but it represents tiny variations on an overwhelmingly shared genetic blueprint. We are one species, with one origin, adapted to many environments. Understanding the science of human variation helps us appreciate diversity while recognizing our fundamental unity.",
+          "mastery_check": "Can the student explain at least two examples of environmental adaptation in human populations? Can they explain why genetic diversity is greatest in Africa?"
+        }
       ]
     },
     "parent_notes": "This is an important and sensitive lesson that addresses race from a scientific perspective. The key message: physical differences between human populations are real but superficial, involving a tiny fraction of our genes, and they result from adaptation to different environments — not from fundamental biological differences. The concept that race is a social construct (meaning societies create racial categories, and these categories vary between cultures and change over time) is supported by the American Anthropological Association, the American Association of Physical Anthropologists, and the Human Genome Project. If your child asks difficult questions about racism or prejudice, this is a good opportunity to discuss how misunderstanding of human variation has been used to justify inequality, and how science provides the antidote: knowledge that we are one species. Be honest, age-appropriate, and affirming of diversity.",
@@ -632,16 +1445,50 @@
     "instructions": "1. Discuss: How did people remember important information before writing was invented?\n2. Explore oral traditions: West African griots, Aboriginal Australian songlines, Polynesian navigation chants, Native American winter counts.\n3. Study memory techniques: rhythm, repetition, alliteration, vivid imagery, story structure.\n4. Read a short traditional folktale together.\n5. Student memorizes and retells the story using memory techniques.\n6. Discuss: What do we lose when oral traditions disappear?",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Collection of folktales or myths (printed or read aloud)", "Culture journal", "Pencil", "Timer"],
+    "materials_needed": [
+      "Collection of folktales or myths (printed or read aloud)",
+      "Culture journal",
+      "Pencil",
+      "Timer"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Power of the Spoken Word", "subheading": "Oral Storytelling Traditions"},
-        {"type": "instruction", "step": 1, "text": "For most of human history — about 290,000 of our 300,000 years — there was no writing. Everything that mattered was stored in human memory and passed down through spoken word: history, laws, scientific knowledge, religious beliefs, navigation routes, medicinal recipes, and moral lessons. Oral tradition was humanity's first and longest-lasting information technology."},
-        {"type": "instruction", "step": 2, "text": "Griots of West Africa are hereditary storytellers, historians, and musicians. They memorize the genealogies and histories of entire kingdoms — some griots can recite family histories spanning 40 generations (1,000+ years). In the Sunjata epic, griots preserve the founding story of the Mali Empire. Their training begins in childhood and lasts decades."},
-        {"type": "instruction", "step": 3, "text": "Aboriginal Australian Songlines are oral maps that describe the creation journeys of ancestral spirits across the landscape. By singing the correct songs in the correct order, a person could navigate across thousands of miles of desert — land they had never personally visited. The songs encode geographical information, water sources, and seasonal food locations. These songlines have been maintained for at least 10,000 years."},
-        {"type": "instruction", "step": 4, "text": "Memory techniques used by oral cultures: (1) Rhythm and rhyme — easier to remember than prose, (2) Repetition — key phrases repeated for emphasis and recall, (3) Vivid imagery — memorable mental pictures, (4) Story structure — beginning, middle, end with a clear arc, (5) Physical movement — gestures and dance accompanying words, (6) Musical melody — information set to tune."},
-        {"type": "activity", "prompt": "Choose a short folktale or myth (your parent can help select one, or use one we have studied). Read it three times. Then close the text and retell it in your own words, using these memory techniques: create vivid mental images for key scenes, identify repeating patterns, add rhythm to important phrases. Practice retelling until you can do it without notes. Then perform your story for a family member — use gestures, vocal expression, and eye contact. In your journal, write: Which memory techniques worked best for you? What is lost when stories are written down instead of told aloud?", "duration_minutes": 30},
-        {"type": "wrap_up", "text": "Oral storytelling is not a primitive technology replaced by writing — it is a sophisticated art that activates memory, community, and imagination in ways that written text cannot. When a griot speaks, the audience participates. When a songline is sung, the land comes alive. As we move into our study of writing systems next week, remember what writing gained and what it lost.", "mastery_check": "Can the student identify at least three oral storytelling traditions and explain at least two memory techniques? Can they retell a story from memory?"}
+        {
+          "type": "title",
+          "heading": "The Power of the Spoken Word",
+          "subheading": "Oral Storytelling Traditions",
+          "image_url": "https://images.pexels.com/photos/14325735/pexels-photo-14325735.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "For most of human history — about 290,000 of our 300,000 years — there was no writing. Everything that mattered was stored in human memory and passed down through spoken word: history, laws, scientific knowledge, religious beliefs, navigation routes, medicinal recipes, and moral lessons. Oral tradition was humanity's first and longest-lasting information technology."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Griots of West Africa are hereditary storytellers, historians, and musicians. They memorize the genealogies and histories of entire kingdoms — some griots can recite family histories spanning 40 generations (1,000+ years). In the Sunjata epic, griots preserve the founding story of the Mali Empire. Their training begins in childhood and lasts decades."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Aboriginal Australian Songlines are oral maps that describe the creation journeys of ancestral spirits across the landscape. By singing the correct songs in the correct order, a person could navigate across thousands of miles of desert — land they had never personally visited. The songs encode geographical information, water sources, and seasonal food locations. These songlines have been maintained for at least 10,000 years."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Memory techniques used by oral cultures: (1) Rhythm and rhyme — easier to remember than prose, (2) Repetition — key phrases repeated for emphasis and recall, (3) Vivid imagery — memorable mental pictures, (4) Story structure — beginning, middle, end with a clear arc, (5) Physical movement — gestures and dance accompanying words, (6) Musical melody — information set to tune."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose a short folktale or myth (your parent can help select one, or use one we have studied). Read it three times. Then close the text and retell it in your own words, using these memory techniques: create vivid mental images for key scenes, identify repeating patterns, add rhythm to important phrases. Practice retelling until you can do it without notes. Then perform your story for a family member — use gestures, vocal expression, and eye contact. In your journal, write: Which memory techniques worked best for you? What is lost when stories are written down instead of told aloud?",
+          "duration_minutes": 30
+        },
+        {
+          "type": "wrap_up",
+          "text": "Oral storytelling is not a primitive technology replaced by writing — it is a sophisticated art that activates memory, community, and imagination in ways that written text cannot. When a griot speaks, the audience participates. When a songline is sung, the land comes alive. As we move into our study of writing systems next week, remember what writing gained and what it lost.",
+          "mastery_check": "Can the student identify at least three oral storytelling traditions and explain at least two memory techniques? Can they retell a story from memory?"
+        }
       ]
     },
     "parent_notes": "This lesson bridges our study of early humans with the upcoming unit on writing systems. It challenges the assumption that oral cultures were 'primitive' — in fact, they developed extraordinarily sophisticated memory systems. The griot tradition, Aboriginal songlines, and Polynesian navigation chants represent cognitive achievements comparable to any technology. The retelling activity is powerful: children often discover they are better at remembering and telling stories than they expected. For the folktale, you might choose an Anansi story (West African), a pourquoi tale (why stories), or a myth your family connects with culturally. The act of performing for an audience — making eye contact, using gestures, varying tone — builds confidence and communication skills that extend far beyond this lesson.",
@@ -659,15 +1506,44 @@
     "instructions": "1. Review chapters 4-6: What has Calpurnia learned? How is her relationship with her grandfather developing?\n2. Read chapters 7-9 aloud.\n3. Discuss emerging themes: curiosity vs. conformity, the role of mentors, change and growth.\n4. Make connections: text-to-self (How does this relate to my life?), text-to-world (How does this relate to our history/science studies?).\n5. Analyze a key passage closely: What is the author doing with word choice and imagery?\n6. Journal: Write about a mentor in your life.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["The Evolution of Calpurnia Tate by Jacqueline Kelly", "Reading journal", "Pencil"],
+    "materials_needed": [
+      "The Evolution of Calpurnia Tate by Jacqueline Kelly",
+      "Reading journal",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Evolution of Calpurnia Tate", "subheading": "Chapters 7-9 — Themes and Connections"},
-        {"type": "instruction", "step": 1, "text": "Before reading, review: What scientific observations has Calpurnia been making? How is her grandfather guiding her? What conflicts has she experienced between her interests and her family's expectations? Make a prediction: What do you think will happen next?"},
-        {"type": "instruction", "step": 2, "text": "As we read chapters 7-9, we will practice three types of connections: Text-to-Self — 'This reminds me of when I...' Text-to-Text — 'This is similar to another book/story where...' Text-to-World — 'This connects to what we have been learning about...' Strong readers make connections constantly — it is how we make meaning from what we read."},
-        {"type": "instruction", "step": 3, "text": "Read chapters 7-9, pausing at key moments to discuss and make connections. Pay special attention to: How does the author use nature descriptions to reflect Calpurnia's inner world? What do we learn about Calpurnia's mother and her values? How does the 1899 setting shape the story differently than if it were set today?"},
-        {"type": "activity", "prompt": "After reading, choose one: (1) Text-to-World Connection: Write a paragraph connecting something in these chapters to our study of genetics, evolution, or human history. How does what Calpurnia is learning relate to what we have been studying? (2) Mentor Reflection: Calpurnia's grandfather is her mentor. Write about a mentor in your life — someone who has helped you see the world differently. How did they teach you? What have you learned from them? (3) Close Reading: Choose one paragraph from today's reading that you found powerful. Copy it in your journal and write an analysis: What is the author doing with word choice, imagery, or sentence structure? Why is this passage effective?", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "The best books change how we see the world. Calpurnia's story is not just about science in 1899 — it is about the courage to be curious, the power of mentorship, and the tension between being who you are and being who others expect you to be. These are timeless themes that connect to every reader's life.", "mastery_check": "Can the student make meaningful text-to-self and text-to-world connections? Can they identify and discuss emerging themes in the novel?"}
+        {
+          "type": "title",
+          "heading": "The Evolution of Calpurnia Tate",
+          "subheading": "Chapters 7-9 — Themes and Connections",
+          "image_url": "https://images.pexels.com/photos/10566480/pexels-photo-10566480.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Before reading, review: What scientific observations has Calpurnia been making? How is her grandfather guiding her? What conflicts has she experienced between her interests and her family's expectations? Make a prediction: What do you think will happen next?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "As we read chapters 7-9, we will practice three types of connections: Text-to-Self — 'This reminds me of when I...' Text-to-Text — 'This is similar to another book/story where...' Text-to-World — 'This connects to what we have been learning about...' Strong readers make connections constantly — it is how we make meaning from what we read."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Read chapters 7-9, pausing at key moments to discuss and make connections. Pay special attention to: How does the author use nature descriptions to reflect Calpurnia's inner world? What do we learn about Calpurnia's mother and her values? How does the 1899 setting shape the story differently than if it were set today?"
+        },
+        {
+          "type": "activity",
+          "prompt": "After reading, choose one: (1) Text-to-World Connection: Write a paragraph connecting something in these chapters to our study of genetics, evolution, or human history. How does what Calpurnia is learning relate to what we have been studying? (2) Mentor Reflection: Calpurnia's grandfather is her mentor. Write about a mentor in your life — someone who has helped you see the world differently. How did they teach you? What have you learned from them? (3) Close Reading: Choose one paragraph from today's reading that you found powerful. Copy it in your journal and write an analysis: What is the author doing with word choice, imagery, or sentence structure? Why is this passage effective?",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "The best books change how we see the world. Calpurnia's story is not just about science in 1899 — it is about the courage to be curious, the power of mentorship, and the tension between being who you are and being who others expect you to be. These are timeless themes that connect to every reader's life.",
+          "mastery_check": "Can the student make meaningful text-to-self and text-to-world connections? Can they identify and discuss emerging themes in the novel?"
+        }
       ]
     },
     "parent_notes": "Making connections (text-to-self, text-to-text, text-to-world) is a key reading comprehension strategy that good readers do automatically. Modeling this for your child is powerful: as you read aloud, pause and share your own connections ('This reminds me of...' or 'This connects to what we learned about...'). The close reading option is excellent for developing analytical skills — choosing a single paragraph and examining the author's craft teaches students to read like writers. The mentor reflection is personally meaningful and helps children articulate gratitude and awareness of influential relationships in their lives. Adjust reading pace to your child's interest — if they are deeply engaged, read more; if attention is waning, read less and discuss more.",

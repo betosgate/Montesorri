@@ -10,16 +10,56 @@
     "instructions": "1. Introduce the concept of a prefix: a group of letters added to the beginning of a word that changes its meaning.\n2. Present the prefix un-: means 'not' or 'opposite of.' Examples: unhappy, unkind, unlock, unfair.\n3. Present the prefix re-: means 'again.' Examples: redo, rewrite, rebuild, replay.\n4. The child combines prefix cards with base word cards to build new words.\n5. Write 5 sentences using words with un- and 5 with re-.\n6. Start a vocabulary journal page for prefixes.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Prefix cards (un-, re-)", "Base word cards (20 words)", "Vocabulary journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "Prefix cards (un-, re-)",
+      "Base word cards (20 words)",
+      "Vocabulary journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Prefixes", "subheading": "un- and re- — Word Building Power"},
-        {"type": "materials", "items": ["Prefix cards: un- and re- (multiple copies)", "Base word cards: happy, kind, fair, lock, do, tie, wrap, safe, lucky, real, write, build, play, read, tell, fill, view, paint, start, use", "Vocabulary journal", "Pencil and colored pencils"], "setup_instructions": "Write prefix cards on one color of card stock and base word cards on another. Spread base words on the table. Have the vocabulary journal open to a fresh page titled 'Prefixes.'"},
-        {"type": "instruction", "step": 1, "text": "A prefix is like a key that unlocks a new meaning. When we add letters to the BEGINNING of a word, we create a new word. Today we will learn two powerful prefixes."},
-        {"type": "instruction", "step": 2, "text": "The prefix un- means 'not' or 'the opposite of.' Place the un- card in front of 'happy.' Now you have 'unhappy' — the opposite of happy! Try un- with 'kind,' 'fair,' 'lock,' and 'tie.'"},
-        {"type": "instruction", "step": 3, "text": "The prefix re- means 'again.' Place the re- card in front of 'write.' Now you have 'rewrite' — to write again! Try re- with 'build,' 'play,' 'read,' and 'paint.'"},
-        {"type": "activity", "prompt": "Build as many real words as you can with un- and re-. Write each word and its meaning in your vocabulary journal. Then write 5 sentences: use a word with un- in each of the first 3, and a word with re- in the last 2.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You have unlocked word-building power! When you see un- or re- at the beginning of a word, you can figure out the meaning. Look for these prefixes in your reading this week!", "mastery_check": "Can the child correctly build at least 8 words with un- and re-, and explain how the prefix changes the meaning?"}
+        {
+          "type": "title",
+          "heading": "Prefixes",
+          "subheading": "un- and re- — Word Building Power",
+          "image_url": "https://images.pexels.com/photos/1337387/pexels-photo-1337387.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Prefix cards: un- and re- (multiple copies)",
+            "Base word cards: happy, kind, fair, lock, do, tie, wrap, safe, lucky, real, write, build, play, read, tell, fill, view, paint, start, use",
+            "Vocabulary journal",
+            "Pencil and colored pencils"
+          ],
+          "setup_instructions": "Write prefix cards on one color of card stock and base word cards on another. Spread base words on the table. Have the vocabulary journal open to a fresh page titled 'Prefixes.'"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A prefix is like a key that unlocks a new meaning. When we add letters to the BEGINNING of a word, we create a new word. Today we will learn two powerful prefixes."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The prefix un- means 'not' or 'the opposite of.' Place the un- card in front of 'happy.' Now you have 'unhappy' — the opposite of happy! Try un- with 'kind,' 'fair,' 'lock,' and 'tie.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The prefix re- means 'again.' Place the re- card in front of 'write.' Now you have 'rewrite' — to write again! Try re- with 'build,' 'play,' 'read,' and 'paint.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Build as many real words as you can with un- and re-. Write each word and its meaning in your vocabulary journal. Then write 5 sentences: use a word with un- in each of the first 3, and a word with re- in the last 2.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You have unlocked word-building power! When you see un- or re- at the beginning of a word, you can figure out the meaning. Look for these prefixes in your reading this week!",
+          "mastery_check": "Can the child correctly build at least 8 words with un- and re-, and explain how the prefix changes the meaning?"
+        }
       ]
     },
     "parent_notes": "Prefix study is one of the most efficient ways to build vocabulary. A child who knows 10 prefixes can decode hundreds of unfamiliar words. Not every base word works with every prefix — 'un-play' is not a real word, but 'replay' is. Let the child discover which combinations work and which do not. This trial-and-error builds word awareness.",
@@ -37,16 +77,55 @@
     "instructions": "1. Review fraction vocabulary: numerator, denominator.\n2. Demonstrate: 1/4 + 2/4. Place 1 fourth-piece and then 2 more fourth-pieces in the circle. Count: 3 fourths = 3/4.\n3. Explain: When denominators are the same, we add the numerators and keep the denominator.\n4. Practice with halves, thirds, and fourths.\n5. Introduce sums that equal a whole: 1/3 + 2/3 = 3/3 = 1 whole.\n6. Record all equations in the math journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Fraction insets (halves through tenths)", "Math journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "Fraction insets (halves through tenths)",
+      "Math journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Adding Fractions", "subheading": "Like Denominators with Fraction Insets"},
-        {"type": "materials", "items": ["Montessori fraction insets (halves, thirds, fourths, fifths, sixths)", "Math journal", "Pencil", "Colored pencils for drawing fractions"], "setup_instructions": "Set out fraction insets with the whole circle frame. Have the math journal open. Prepare 8-10 addition problems with like denominators."},
-        {"type": "instruction", "step": 1, "text": "Review: hold up 1/4. 'The bottom number (4) tells us the whole is divided into 4 parts. The top number (1) tells us we have 1 of those parts.' Now let us add fractions!"},
-        {"type": "instruction", "step": 2, "text": "Place 1 fourth-piece in the frame. Now add 2 more fourth-pieces. Count: 'One-fourth plus two-fourths equals... three-fourths!' Write: 1/4 + 2/4 = 3/4. The denominator stays the same because the pieces are the same size."},
-        {"type": "instruction", "step": 3, "text": "Try 1/3 + 2/3. Place pieces in the frame. Count them. 'Three-thirds fills the whole circle! Three-thirds equals one whole.' Write: 1/3 + 2/3 = 3/3 = 1."},
-        {"type": "activity", "prompt": "Solve these with the fraction insets and record in your journal: 1/2 + 1/2, 1/4 + 1/4, 2/5 + 1/5, 1/6 + 3/6, 2/4 + 2/4, 1/3 + 1/3, 3/6 + 2/6, 1/5 + 3/5. Draw each problem with colored fraction pieces.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "When fractions have the same denominator, adding is simple: just add the top numbers! The denominator stays the same because the size of the pieces does not change. You are a fraction master!", "mastery_check": "Can the child add like fractions using the insets and explain why the denominator stays the same?"}
+        {
+          "type": "title",
+          "heading": "Adding Fractions",
+          "subheading": "Like Denominators with Fraction Insets",
+          "image_url": "https://images.pexels.com/photos/6037812/pexels-photo-6037812.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Montessori fraction insets (halves, thirds, fourths, fifths, sixths)",
+            "Math journal",
+            "Pencil",
+            "Colored pencils for drawing fractions"
+          ],
+          "setup_instructions": "Set out fraction insets with the whole circle frame. Have the math journal open. Prepare 8-10 addition problems with like denominators."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: hold up 1/4. 'The bottom number (4) tells us the whole is divided into 4 parts. The top number (1) tells us we have 1 of those parts.' Now let us add fractions!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Place 1 fourth-piece in the frame. Now add 2 more fourth-pieces. Count: 'One-fourth plus two-fourths equals... three-fourths!' Write: 1/4 + 2/4 = 3/4. The denominator stays the same because the pieces are the same size."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Try 1/3 + 2/3. Place pieces in the frame. Count them. 'Three-thirds fills the whole circle! Three-thirds equals one whole.' Write: 1/3 + 2/3 = 3/3 = 1."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these with the fraction insets and record in your journal: 1/2 + 1/2, 1/4 + 1/4, 2/5 + 1/5, 1/6 + 3/6, 2/4 + 2/4, 1/3 + 1/3, 3/6 + 2/6, 1/5 + 3/5. Draw each problem with colored fraction pieces.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "When fractions have the same denominator, adding is simple: just add the top numbers! The denominator stays the same because the size of the pieces does not change. You are a fraction master!",
+          "mastery_check": "Can the child add like fractions using the insets and explain why the denominator stays the same?"
+        }
       ]
     },
     "parent_notes": "The key concept is that when denominators match, the pieces are the same size, so we simply count how many pieces we have. The fraction insets make this concrete. Let the child physically combine pieces before writing equations. If they struggle, go back to naming fractions before adding them. This foundation is critical for unlike fractions later.",
@@ -64,16 +143,57 @@
     "instructions": "1. Show a map of Egypt highlighting the Nile River.\n2. Tell the story: Every year the Nile flooded, depositing rich black soil on the banks. This made farming possible in the desert.\n3. Compare to Mesopotamia: both river civilizations, but different rivers and different challenges.\n4. Discuss: Upper Egypt (south) and Lower Egypt (north) — why the names seem backwards.\n5. The child draws a map of Egypt showing the Nile, delta, and desert.\n6. Timeline work: place Egypt on the timeline (3100 BCE - 30 BCE).",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Map of Ancient Egypt", "Timeline", "Drawing paper", "Colored pencils", "Blue crayon for the Nile"],
+    "materials_needed": [
+      "Map of Ancient Egypt",
+      "Timeline",
+      "Drawing paper",
+      "Colored pencils",
+      "Blue crayon for the Nile"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Ancient Egypt", "subheading": "The Gift of the Nile"},
-        {"type": "materials", "items": ["Map of Ancient Egypt (printed or in atlas)", "History timeline from Q1", "Drawing paper", "Colored pencils and blue crayon/marker", "Reference book on Ancient Egypt"], "setup_instructions": "Display the Egypt map prominently. Have the timeline accessible for adding Egypt. Prepare drawing paper and blue drawing tools."},
-        {"type": "instruction", "step": 1, "text": "Look at the map. Egypt is in northeastern Africa, mostly desert. But running through it is the longest river in the world — the Nile! Every year, the Nile flooded, leaving rich black mud on its banks. This mud was perfect for growing crops."},
-        {"type": "instruction", "step": 2, "text": "The Greek historian Herodotus called Egypt 'the gift of the Nile.' Without the river, Egypt would be nothing but desert. The Egyptians depended on the flood. They built their entire civilization along the river's banks."},
-        {"type": "instruction", "step": 3, "text": "Compare Egypt to Mesopotamia: both grew along rivers, both invented writing, both built great monuments. But Egypt had one long river while Mesopotamia had two. Egypt was protected by desert on both sides, making it harder to invade."},
-        {"type": "activity", "prompt": "Draw a map of Ancient Egypt. Include: the Nile River (in blue), the Mediterranean Sea (north), the Red Sea (east), the desert (yellow) on both sides, the Nile Delta where the river meets the sea, and mark Upper Egypt (south) and Lower Egypt (north). Add the timeline entry for Egypt.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Egypt lasted over 3,000 years — longer than almost any civilization in history! The Nile made it all possible. This week we will explore the pharaohs, pyramids, and mummies of this incredible civilization.", "mastery_check": "Can the child explain why Egypt was called 'the gift of the Nile' and identify the Nile, delta, and desert on a map?"}
+        {
+          "type": "title",
+          "heading": "Ancient Egypt",
+          "subheading": "The Gift of the Nile",
+          "image_url": "https://images.pexels.com/photos/3355788/pexels-photo-3355788.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Map of Ancient Egypt (printed or in atlas)",
+            "History timeline from Q1",
+            "Drawing paper",
+            "Colored pencils and blue crayon/marker",
+            "Reference book on Ancient Egypt"
+          ],
+          "setup_instructions": "Display the Egypt map prominently. Have the timeline accessible for adding Egypt. Prepare drawing paper and blue drawing tools."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Look at the map. Egypt is in northeastern Africa, mostly desert. But running through it is the longest river in the world — the Nile! Every year, the Nile flooded, leaving rich black mud on its banks. This mud was perfect for growing crops."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The Greek historian Herodotus called Egypt 'the gift of the Nile.' Without the river, Egypt would be nothing but desert. The Egyptians depended on the flood. They built their entire civilization along the river's banks."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Compare Egypt to Mesopotamia: both grew along rivers, both invented writing, both built great monuments. But Egypt had one long river while Mesopotamia had two. Egypt was protected by desert on both sides, making it harder to invade."
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw a map of Ancient Egypt. Include: the Nile River (in blue), the Mediterranean Sea (north), the Red Sea (east), the desert (yellow) on both sides, the Nile Delta where the river meets the sea, and mark Upper Egypt (south) and Lower Egypt (north). Add the timeline entry for Egypt.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Egypt lasted over 3,000 years — longer than almost any civilization in history! The Nile made it all possible. This week we will explore the pharaohs, pyramids, and mummies of this incredible civilization.",
+          "mastery_check": "Can the child explain why Egypt was called 'the gift of the Nile' and identify the Nile, delta, and desert on a map?"
+        }
       ]
     },
     "parent_notes": "This lesson establishes the geographic foundation for the entire Egypt unit. The key understanding is that geography shapes civilization — the Nile made Egypt possible just as the Tigris and Euphrates made Mesopotamia possible. The 'Upper/Lower' Egypt naming confuses many children (and adults!) — explain that the Nile flows north, so Upper Egypt is upstream (south) and Lower Egypt is downstream (north).",
@@ -91,16 +211,57 @@
     "instructions": "1. Examine a physical map of Egypt: identify deserts, Nile valley, delta, Sinai.\n2. Examine a political map: borders with Libya, Sudan, Israel; capital Cairo.\n3. Discuss how ancient and modern Egypt overlap geographically.\n4. The child creates a two-panel map: physical features on one side, political on the other.\n5. Label key features on both maps.\n6. Compare Egypt's size to the child's home state/country.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Physical map of Egypt", "Political map of Egypt", "Drawing paper (large)", "Colored pencils", "Atlas"],
+    "materials_needed": [
+      "Physical map of Egypt",
+      "Political map of Egypt",
+      "Drawing paper (large)",
+      "Colored pencils",
+      "Atlas"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Egypt", "subheading": "Physical and Political Geography"},
-        {"type": "materials", "items": ["Physical map of Egypt (showing terrain)", "Political map of Egypt (showing borders, cities)", "Large drawing paper folded in half", "Colored pencils and markers", "Atlas for reference"], "setup_instructions": "Display both maps. Fold drawing paper in half — one side for physical, one for political. Have colored pencils sorted: blue for water, yellow for desert, green for fertile land."},
-        {"type": "instruction", "step": 1, "text": "Physical geography: Egypt is 95% desert! The Sahara Desert covers the west, the Eastern Desert lies between the Nile and the Red Sea. The Sinai Peninsula connects Egypt to Asia. And the Nile cuts through it all, creating a thin green ribbon of fertile land."},
-        {"type": "instruction", "step": 2, "text": "Political geography: Egypt borders Libya to the west, Sudan to the south, and Israel to the northeast. The capital is Cairo — one of the largest cities in Africa! Alexandria is on the Mediterranean coast."},
-        {"type": "instruction", "step": 3, "text": "On the left panel, draw Egypt's physical features: the Nile, Sahara, Eastern Desert, Red Sea, Mediterranean Sea, Sinai Peninsula, Nile Delta. On the right panel, draw the political map with borders, neighboring countries, and major cities."},
-        {"type": "activity", "prompt": "Complete both map panels. Physical side: color the desert yellow, the Nile blue, fertile land green, and label all major features. Political side: draw borders, label neighboring countries, mark Cairo, Alexandria, and Luxor. Add a compass rose to each.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Egypt is where Africa meets Asia, where desert meets river, where ancient meets modern. The same Nile that fed the pharaohs still flows through Cairo today. Over 100 million people live in Egypt!", "mastery_check": "Can the child label the Nile, Sahara, Red Sea, and Sinai on a physical map and identify Egypt's capital and at least 2 neighboring countries?"}
+        {
+          "type": "title",
+          "heading": "Egypt",
+          "subheading": "Physical and Political Geography",
+          "image_url": "https://images.pexels.com/photos/8923259/pexels-photo-8923259.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Physical map of Egypt (showing terrain)",
+            "Political map of Egypt (showing borders, cities)",
+            "Large drawing paper folded in half",
+            "Colored pencils and markers",
+            "Atlas for reference"
+          ],
+          "setup_instructions": "Display both maps. Fold drawing paper in half — one side for physical, one for political. Have colored pencils sorted: blue for water, yellow for desert, green for fertile land."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Physical geography: Egypt is 95% desert! The Sahara Desert covers the west, the Eastern Desert lies between the Nile and the Red Sea. The Sinai Peninsula connects Egypt to Asia. And the Nile cuts through it all, creating a thin green ribbon of fertile land."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Political geography: Egypt borders Libya to the west, Sudan to the south, and Israel to the northeast. The capital is Cairo — one of the largest cities in Africa! Alexandria is on the Mediterranean coast."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "On the left panel, draw Egypt's physical features: the Nile, Sahara, Eastern Desert, Red Sea, Mediterranean Sea, Sinai Peninsula, Nile Delta. On the right panel, draw the political map with borders, neighboring countries, and major cities."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete both map panels. Physical side: color the desert yellow, the Nile blue, fertile land green, and label all major features. Political side: draw borders, label neighboring countries, mark Cairo, Alexandria, and Luxor. Add a compass rose to each.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Egypt is where Africa meets Asia, where desert meets river, where ancient meets modern. The same Nile that fed the pharaohs still flows through Cairo today. Over 100 million people live in Egypt!",
+          "mastery_check": "Can the child label the Nile, Sahara, Red Sea, and Sinai on a physical map and identify Egypt's capital and at least 2 neighboring countries?"
+        }
       ]
     },
     "parent_notes": "This lesson connects ancient and modern Egypt through geography. Children are often surprised that Egypt is mostly desert and that nearly everyone lives along the Nile. This is a great opportunity to discuss population density. If possible, use Google Earth to zoom into the Nile valley and see the stark contrast between green farmland and desert.",
@@ -118,16 +279,55 @@
     "instructions": "1. Introduce the book and show the cover illustrations.\n2. Read Chapter 1 or the introduction aloud.\n3. Pause for predictions: What will we learn about?\n4. Discuss new vocabulary: pharaoh, dynasty, pyramid, sphinx.\n5. The child writes new vocabulary words and definitions in their journal.\n6. Preview what comes next in the book.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Ancient Egypt read-aloud book", "Reading journal", "Pencil", "Vocabulary cards"],
+    "materials_needed": [
+      "Ancient Egypt read-aloud book",
+      "Reading journal",
+      "Pencil",
+      "Vocabulary cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Pharaohs and Pyramids", "subheading": "Our Q2 Egypt Read Aloud"},
-        {"type": "materials", "items": ["Ancient Egypt book (e.g., 'Pharaohs and Foot Soldiers,' 'The Story of the World Ch. 2-4,' or 'Ancient Egypt Revealed')", "Reading journal", "Pencil", "Blank vocabulary cards"], "setup_instructions": "Select an age-appropriate Egypt book. Bookmark the first chapter. Have vocabulary cards and the reading journal ready."},
-        {"type": "instruction", "step": 1, "text": "Show the book cover. 'This quarter we are reading about Ancient Egypt — one of the greatest civilizations in history. Look at the cover. What do you see? What do you think we will learn about?'"},
-        {"type": "instruction", "step": 2, "text": "Read the first chapter aloud. Use an engaging, dramatic voice. Pause at new vocabulary: 'A pharaoh was the king of Egypt. Dynasty means a family that rules for many generations. Let us add these to our vocabulary cards.'"},
-        {"type": "instruction", "step": 3, "text": "After reading, discuss: 'What surprised you? What do you want to know more about? How is Egypt similar to or different from Mesopotamia?'"},
-        {"type": "activity", "prompt": "Create vocabulary cards for 5 new Egypt words: pharaoh, dynasty, pyramid, sphinx, and one more from the reading. Write the word on the front and the definition plus a small drawing on the back. Then write 3 predictions about what we will learn next.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Egypt is full of mysteries and wonders! We will read more each week. Keep your vocabulary cards handy — you will become an Egypt expert!", "mastery_check": "Can the child define pharaoh and pyramid, and make at least one prediction about the upcoming reading?"}
+        {
+          "type": "title",
+          "heading": "Pharaohs and Pyramids",
+          "subheading": "Our Q2 Egypt Read Aloud",
+          "image_url": "https://images.pexels.com/photos/8500306/pexels-photo-8500306.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Ancient Egypt book (e.g., 'Pharaohs and Foot Soldiers,' 'The Story of the World Ch. 2-4,' or 'Ancient Egypt Revealed')",
+            "Reading journal",
+            "Pencil",
+            "Blank vocabulary cards"
+          ],
+          "setup_instructions": "Select an age-appropriate Egypt book. Bookmark the first chapter. Have vocabulary cards and the reading journal ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the book cover. 'This quarter we are reading about Ancient Egypt — one of the greatest civilizations in history. Look at the cover. What do you see? What do you think we will learn about?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the first chapter aloud. Use an engaging, dramatic voice. Pause at new vocabulary: 'A pharaoh was the king of Egypt. Dynasty means a family that rules for many generations. Let us add these to our vocabulary cards.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading, discuss: 'What surprised you? What do you want to know more about? How is Egypt similar to or different from Mesopotamia?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create vocabulary cards for 5 new Egypt words: pharaoh, dynasty, pyramid, sphinx, and one more from the reading. Write the word on the front and the definition plus a small drawing on the back. Then write 3 predictions about what we will learn next.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Egypt is full of mysteries and wonders! We will read more each week. Keep your vocabulary cards handy — you will become an Egypt expert!",
+          "mastery_check": "Can the child define pharaoh and pyramid, and make at least one prediction about the upcoming reading?"
+        }
       ]
     },
     "parent_notes": "Good read-aloud options for this age: 'The Story of the World Vol. 1' by Susan Wise Bauer (chapters on Egypt), 'National Geographic Ancient Egypt' by Jill Rubalcaba, 'Ancient Egypt' DK Eyewitness, or 'Pharaohs and Foot Soldiers' by Kristin Butcher. Read-alouds should be slightly above independent reading level to stretch vocabulary and comprehension.",
@@ -145,16 +345,56 @@
     "instructions": "1. Review un- and re- from yesterday.\n2. Introduce pre-: means 'before.' Examples: preview, preheat, prehistoric, preschool.\n3. Introduce dis-: means 'not,' 'opposite,' or 'apart.' Examples: disagree, disappear, disconnect, discover.\n4. The child builds words with prefix cards and base words.\n5. Play a prefix matching game: match the prefix to the correct base word.\n6. Write sentences using all four prefixes learned so far.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Prefix cards (pre-, dis-, un-, re-)", "Base word cards", "Vocabulary journal", "Pencil", "Matching game cards"],
+    "materials_needed": [
+      "Prefix cards (pre-, dis-, un-, re-)",
+      "Base word cards",
+      "Vocabulary journal",
+      "Pencil",
+      "Matching game cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "More Prefixes", "subheading": "pre- (before) and dis- (not/apart)"},
-        {"type": "materials", "items": ["Prefix cards: pre-, dis-, un-, re-", "Base word cards: view, heat, historic, school, pay, test, agree, appear, connect, cover, obey, like, order, approve, own, honor", "Vocabulary journal", "Pencil"], "setup_instructions": "Add the new prefix cards to the existing set. Prepare new base word cards. Open the vocabulary journal to the prefix page started yesterday."},
-        {"type": "instruction", "step": 1, "text": "Quick review: What does un- mean? (not/opposite) What does re- mean? (again) Great! Today we learn two more prefix superpowers."},
-        {"type": "instruction", "step": 2, "text": "The prefix pre- means 'before.' Preview means to view before. Preheat means to heat before. Prehistoric means before history was written! Place pre- in front of base words and discover new meanings."},
-        {"type": "instruction", "step": 3, "text": "The prefix dis- means 'not' or 'the opposite of' or 'apart.' Disagree means to not agree. Disappear means to not appear anymore. Disconnect means to separate apart. Try dis- with these words: like, obey, order, approve."},
-        {"type": "activity", "prompt": "In your vocabulary journal, add pre- and dis- with 5 example words each. Then write a short story (5-8 sentences) that uses at least one word with each of the four prefixes: un-, re-, pre-, dis-. Underline the prefix words.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You now know four prefixes: un-, re-, pre-, dis-. These four alone help you understand hundreds of English words! When you see an unfamiliar word, check if it has a prefix you know.", "mastery_check": "Can the child define all four prefixes and use each in a sentence with a correctly formed word?"}
+        {
+          "type": "title",
+          "heading": "More Prefixes",
+          "subheading": "pre- (before) and dis- (not/apart)",
+          "image_url": "https://images.pexels.com/photos/7807854/pexels-photo-7807854.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Prefix cards: pre-, dis-, un-, re-",
+            "Base word cards: view, heat, historic, school, pay, test, agree, appear, connect, cover, obey, like, order, approve, own, honor",
+            "Vocabulary journal",
+            "Pencil"
+          ],
+          "setup_instructions": "Add the new prefix cards to the existing set. Prepare new base word cards. Open the vocabulary journal to the prefix page started yesterday."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Quick review: What does un- mean? (not/opposite) What does re- mean? (again) Great! Today we learn two more prefix superpowers."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The prefix pre- means 'before.' Preview means to view before. Preheat means to heat before. Prehistoric means before history was written! Place pre- in front of base words and discover new meanings."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The prefix dis- means 'not' or 'the opposite of' or 'apart.' Disagree means to not agree. Disappear means to not appear anymore. Disconnect means to separate apart. Try dis- with these words: like, obey, order, approve."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your vocabulary journal, add pre- and dis- with 5 example words each. Then write a short story (5-8 sentences) that uses at least one word with each of the four prefixes: un-, re-, pre-, dis-. Underline the prefix words.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You now know four prefixes: un-, re-, pre-, dis-. These four alone help you understand hundreds of English words! When you see an unfamiliar word, check if it has a prefix you know.",
+          "mastery_check": "Can the child define all four prefixes and use each in a sentence with a correctly formed word?"
+        }
       ]
     },
     "parent_notes": "Prefix knowledge is one of the strongest predictors of reading comprehension in elementary students. When the child encounters an unknown word in reading, prompt them: 'Do you see a prefix? What does it mean? What might the whole word mean?' This strategy transfers across all subjects. The short story activity integrates creative writing with vocabulary.",
@@ -172,16 +412,55 @@
     "instructions": "1. Present 12 counters. 'Let us find 1/3 of 12.'\n2. Divide the counters into 3 equal groups. Each group is 1/3. Count one group: 4.\n3. So 1/3 of 12 = 4. Write the equation.\n4. Practice with other sets: 1/2 of 10, 1/4 of 20, 1/5 of 15.\n5. Transition to drawing: draw circles, divide into groups, shade one group.\n6. Connect to division: finding 1/3 of 12 is the same as 12 ÷ 3.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Counters or small objects (at least 30)", "Math journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "Counters or small objects (at least 30)",
+      "Math journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Fractions of a Set", "subheading": "What is 1/3 of 12?"},
-        {"type": "materials", "items": ["30 counters or small objects (beans, buttons, coins)", "Small cups or sorting containers", "Math journal", "Pencil and colored pencils"], "setup_instructions": "Count out sets of counters: 12, 10, 20, 15, 24, 18. Have sorting cups ready for dividing into groups. Open math journal to a fresh page."},
-        {"type": "instruction", "step": 1, "text": "Place 12 counters on the table. 'I want to find 1/3 of 12. The denominator 3 tells me to make 3 equal groups.' Divide 12 counters into 3 groups of 4. 'Each group is 1/3. One-third of 12 is 4!'"},
-        {"type": "instruction", "step": 2, "text": "Try 1/2 of 10. Make 2 equal groups. Each group has 5. So 1/2 of 10 = 5. Now try 1/4 of 20. Make 4 equal groups. Each group has 5. So 1/4 of 20 = 5."},
-        {"type": "instruction", "step": 3, "text": "Notice the connection: finding 1/3 of 12 is the same as dividing 12 by 3. Finding 1/4 of 20 is the same as dividing 20 by 4. Fractions and division are connected!"},
-        {"type": "activity", "prompt": "Find these fractions of sets using counters, then draw the solution and write the equation: 1/2 of 16, 1/3 of 15, 1/4 of 24, 1/5 of 20, 1/6 of 18, 1/2 of 14. Challenge: what is 2/3 of 12? (Hint: find 1/3 first, then count 2 groups.)", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Finding a fraction of a set is dividing into equal groups. This is useful in real life: sharing pizza equally, splitting treats with friends, or dividing supplies. Fractions are about fair sharing!", "mastery_check": "Can the child find a unit fraction of a set using counters and explain the connection to division?"}
+        {
+          "type": "title",
+          "heading": "Fractions of a Set",
+          "subheading": "What is 1/3 of 12?",
+          "image_url": "https://images.pexels.com/photos/1019470/pexels-photo-1019470.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "30 counters or small objects (beans, buttons, coins)",
+            "Small cups or sorting containers",
+            "Math journal",
+            "Pencil and colored pencils"
+          ],
+          "setup_instructions": "Count out sets of counters: 12, 10, 20, 15, 24, 18. Have sorting cups ready for dividing into groups. Open math journal to a fresh page."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Place 12 counters on the table. 'I want to find 1/3 of 12. The denominator 3 tells me to make 3 equal groups.' Divide 12 counters into 3 groups of 4. 'Each group is 1/3. One-third of 12 is 4!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Try 1/2 of 10. Make 2 equal groups. Each group has 5. So 1/2 of 10 = 5. Now try 1/4 of 20. Make 4 equal groups. Each group has 5. So 1/4 of 20 = 5."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Notice the connection: finding 1/3 of 12 is the same as dividing 12 by 3. Finding 1/4 of 20 is the same as dividing 20 by 4. Fractions and division are connected!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Find these fractions of sets using counters, then draw the solution and write the equation: 1/2 of 16, 1/3 of 15, 1/4 of 24, 1/5 of 20, 1/6 of 18, 1/2 of 14. Challenge: what is 2/3 of 12? (Hint: find 1/3 first, then count 2 groups.)",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Finding a fraction of a set is dividing into equal groups. This is useful in real life: sharing pizza equally, splitting treats with friends, or dividing supplies. Fractions are about fair sharing!",
+          "mastery_check": "Can the child find a unit fraction of a set using counters and explain the connection to division?"
+        }
       ]
     },
     "parent_notes": "The connection between fractions and division is a crucial mathematical insight. Some children grasp it immediately; others need many hands-on examples. The challenge problem (2/3 of 12) extends thinking beyond unit fractions — find 1/3 first (4), then count 2 of those groups (8). Use real-life examples: '1/4 of our 20 crayons are blue. How many blue crayons?'",
@@ -199,16 +478,57 @@
     "instructions": "1. Ask: What makes a mammal a mammal? Collect the child's ideas.\n2. Present the defining characteristics with examples.\n3. Discuss exceptions: platypus lays eggs, whale has almost no hair.\n4. Sort mammal picture cards by habitat: land, water, air.\n5. Compare mammals to the other vertebrate classes from Q1.\n6. Start a mammal research page in the science journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Mammal picture cards (20+)", "Vertebrate comparison chart from Q1", "Science journal", "Colored pencils", "Sorting mats"],
+    "materials_needed": [
+      "Mammal picture cards (20+)",
+      "Vertebrate comparison chart from Q1",
+      "Science journal",
+      "Colored pencils",
+      "Sorting mats"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Mammals", "subheading": "The Class We Belong To"},
-        {"type": "materials", "items": ["Mammal picture cards (at least 20 different mammals)", "3 sorting mats labeled: Land, Water, Air", "Vertebrate comparison chart from Q1", "Science journal", "Colored pencils"], "setup_instructions": "Shuffle mammal picture cards. Set out 3 habitat sorting mats. Display the Q1 vertebrate comparison chart for reference."},
-        {"type": "instruction", "step": 1, "text": "We are mammals! What makes an animal a mammal? Four key traits: 1) Warm-blooded (body stays the same temperature), 2) Has hair or fur, 3) Females nurse babies with milk, 4) Most give live birth (not eggs)."},
-        {"type": "instruction", "step": 2, "text": "Mammals live everywhere: on land (dogs, elephants, mice), in water (whales, dolphins, seals), and even in the air (bats are the only flying mammals!). Sort these picture cards by habitat."},
-        {"type": "instruction", "step": 3, "text": "Every rule has exceptions! The platypus is a mammal that lays eggs. Whales are mammals with almost no hair. Naked mole rats have very little fur. But they all nurse their babies with milk."},
-        {"type": "activity", "prompt": "Sort all mammal cards by habitat. In your science journal, create a 'Mammals' page: list the 4 key characteristics, draw 3 mammals from different habitats, and write 2 sentences about each. Add mammals to your vertebrate comparison chart.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Mammals are the most diverse vertebrate class — from tiny bumblebee bats to enormous blue whales! We are mammals too. What mammal characteristics do you share? This week, we will learn more about how mammals are classified.", "mastery_check": "Can the child list the 4 defining characteristics of mammals and classify at least 10 mammals by habitat?"}
+        {
+          "type": "title",
+          "heading": "Mammals",
+          "subheading": "The Class We Belong To",
+          "image_url": "https://images.pexels.com/photos/55827/pexels-photo-55827.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Mammal picture cards (at least 20 different mammals)",
+            "3 sorting mats labeled: Land, Water, Air",
+            "Vertebrate comparison chart from Q1",
+            "Science journal",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Shuffle mammal picture cards. Set out 3 habitat sorting mats. Display the Q1 vertebrate comparison chart for reference."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "We are mammals! What makes an animal a mammal? Four key traits: 1) Warm-blooded (body stays the same temperature), 2) Has hair or fur, 3) Females nurse babies with milk, 4) Most give live birth (not eggs)."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Mammals live everywhere: on land (dogs, elephants, mice), in water (whales, dolphins, seals), and even in the air (bats are the only flying mammals!). Sort these picture cards by habitat."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Every rule has exceptions! The platypus is a mammal that lays eggs. Whales are mammals with almost no hair. Naked mole rats have very little fur. But they all nurse their babies with milk."
+        },
+        {
+          "type": "activity",
+          "prompt": "Sort all mammal cards by habitat. In your science journal, create a 'Mammals' page: list the 4 key characteristics, draw 3 mammals from different habitats, and write 2 sentences about each. Add mammals to your vertebrate comparison chart.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Mammals are the most diverse vertebrate class — from tiny bumblebee bats to enormous blue whales! We are mammals too. What mammal characteristics do you share? This week, we will learn more about how mammals are classified.",
+          "mastery_check": "Can the child list the 4 defining characteristics of mammals and classify at least 10 mammals by habitat?"
+        }
       ]
     },
     "parent_notes": "Children are fascinated to realize they are mammals! Connect the characteristics personally: 'You were warm-blooded as a baby, you have hair, you drank milk.' The exceptions (platypus, whale) show that classification is not always simple — this is real science. If possible, watch a short video of a whale nursing underwater or a bat catching insects in flight.",
@@ -226,16 +546,57 @@
     "instructions": "1. Show examples of Egyptian wall paintings and relief carvings.\n2. Discuss the unique style: head in profile, eye from the front, shoulders broad, legs in profile.\n3. Explain this was a deliberate artistic choice, not a lack of skill.\n4. The child practices drawing a figure in Egyptian style.\n5. Add hieroglyphic-style borders.\n6. Use warm desert colors: gold, orange, brown, blue, green.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Examples of Egyptian art (printed or in books)", "Drawing paper", "Pencil", "Colored pencils or paint", "Ruler"],
+    "materials_needed": [
+      "Examples of Egyptian art (printed or in books)",
+      "Drawing paper",
+      "Pencil",
+      "Colored pencils or paint",
+      "Ruler"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Egyptian Art", "subheading": "Drawing Like an Ancient Egyptian"},
-        {"type": "materials", "items": ["Printed examples of Egyptian wall paintings", "Drawing paper (tan or light brown if available)", "Pencil and eraser", "Colored pencils, markers, or paint in Egyptian colors (gold, blue, green, red, brown)", "Ruler for borders"], "setup_instructions": "Display 3-4 examples of Egyptian art showing the characteristic style. Use tan paper to simulate papyrus. Lay out art supplies."},
-        {"type": "instruction", "step": 1, "text": "Look at Egyptian art closely. Notice how every person is drawn the same way: head turned to the side, but the eye shown from the front. Shoulders face us, but the legs walk sideways. This was not a mistake — it was their artistic rule!"},
-        {"type": "instruction", "step": 2, "text": "The Egyptians wanted to show the most recognizable view of each body part. The profile of the face, the front of the eye, the width of the shoulders, the side view of the legs. This way, you could always identify the person."},
-        {"type": "instruction", "step": 3, "text": "Let us practice! Draw a figure in Egyptian style: head in profile, eye from the front (almond-shaped), broad shoulders facing forward, arms and legs from the side. Add details: a headdress, jewelry, and traditional clothing."},
-        {"type": "activity", "prompt": "Create an Egyptian-style drawing: draw yourself or a pharaoh in the Egyptian profile style. Add a hieroglyphic-style border around the edges using simple symbols. Color with Egyptian palette: gold, blue, green, red, white, and brown.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Egyptian art lasted for over 3,000 years with very little change — artists followed strict rules passed down through generations. Your drawing follows those same ancient rules! Display it near your Egypt study area.", "mastery_check": "Does the child's drawing show the characteristic Egyptian profile style with the head in profile and eye from the front?"}
+        {
+          "type": "title",
+          "heading": "Egyptian Art",
+          "subheading": "Drawing Like an Ancient Egyptian",
+          "image_url": "https://images.pexels.com/photos/8612991/pexels-photo-8612991.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed examples of Egyptian wall paintings",
+            "Drawing paper (tan or light brown if available)",
+            "Pencil and eraser",
+            "Colored pencils, markers, or paint in Egyptian colors (gold, blue, green, red, brown)",
+            "Ruler for borders"
+          ],
+          "setup_instructions": "Display 3-4 examples of Egyptian art showing the characteristic style. Use tan paper to simulate papyrus. Lay out art supplies."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Look at Egyptian art closely. Notice how every person is drawn the same way: head turned to the side, but the eye shown from the front. Shoulders face us, but the legs walk sideways. This was not a mistake — it was their artistic rule!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The Egyptians wanted to show the most recognizable view of each body part. The profile of the face, the front of the eye, the width of the shoulders, the side view of the legs. This way, you could always identify the person."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Let us practice! Draw a figure in Egyptian style: head in profile, eye from the front (almond-shaped), broad shoulders facing forward, arms and legs from the side. Add details: a headdress, jewelry, and traditional clothing."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create an Egyptian-style drawing: draw yourself or a pharaoh in the Egyptian profile style. Add a hieroglyphic-style border around the edges using simple symbols. Color with Egyptian palette: gold, blue, green, red, white, and brown.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Egyptian art lasted for over 3,000 years with very little change — artists followed strict rules passed down through generations. Your drawing follows those same ancient rules! Display it near your Egypt study area.",
+          "mastery_check": "Does the child's drawing show the characteristic Egyptian profile style with the head in profile and eye from the front?"
+        }
       ]
     },
     "parent_notes": "Egyptian art is highly stylized and rule-based, which actually makes it accessible for children to replicate. The 'rules' provide structure that supports success. Emphasize that this was a sophisticated artistic tradition, not primitive — Egyptian artists could draw realistically but chose this style for symbolic and religious reasons. Brown paper bags can substitute for tan paper to give a papyrus feel.",
@@ -253,16 +614,55 @@
     "instructions": "1. Explain the concept of a work plan: planning your week of learning.\n2. Show a blank work plan template with subjects and days.\n3. Together, fill in the week's planned activities.\n4. Discuss priorities: what must be done vs. what the child chooses.\n5. The child decorates and personalizes their work plan.\n6. Practice checking off completed work throughout the week.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Work plan template", "Pencil", "Colored pencils", "Stickers for tracking"],
+    "materials_needed": [
+      "Work plan template",
+      "Pencil",
+      "Colored pencils",
+      "Stickers for tracking"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My Work Plan", "subheading": "Planning My Learning Week"},
-        {"type": "materials", "items": ["Blank weekly work plan template (grid with days and subjects)", "Pencil", "Colored pencils for decoration", "Stickers or stamps for tracking completion"], "setup_instructions": "Print or create a weekly work plan grid with days (Mon-Fri) across the top and subjects down the side. Leave space for the child to add details and check off completed work."},
-        {"type": "instruction", "step": 1, "text": "In Montessori classrooms, children help plan their own work. A work plan shows what you will do each day. It helps you take responsibility for your learning. Let us create your first weekly work plan!"},
-        {"type": "instruction", "step": 2, "text": "Look at the template: days across the top, subjects down the side. Some activities are planned by your parent (these go in pen). Others are YOUR choice (these go in pencil — you can change them!)."},
-        {"type": "instruction", "step": 3, "text": "Fill in next week's plan together. Each day has 5 activities. When you complete an activity, you check it off or place a sticker. At the end of the week, you can see everything you accomplished!"},
-        {"type": "activity", "prompt": "Complete your work plan for next week. Write in all planned activities. Choose 3-5 'free choice' activities from the available materials. Decorate the edges of your work plan. Post it where you can see it every day.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Your work plan is YOUR map for the week. It helps you be independent and responsible. Each day, check your plan first, then get started. You are in charge of your learning!", "mastery_check": "Can the child read and understand their work plan, and explain what they will do each day?"}
+        {
+          "type": "title",
+          "heading": "My Work Plan",
+          "subheading": "Planning My Learning Week",
+          "image_url": "https://images.pexels.com/photos/15826427/pexels-photo-15826427.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank weekly work plan template (grid with days and subjects)",
+            "Pencil",
+            "Colored pencils for decoration",
+            "Stickers or stamps for tracking completion"
+          ],
+          "setup_instructions": "Print or create a weekly work plan grid with days (Mon-Fri) across the top and subjects down the side. Leave space for the child to add details and check off completed work."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "In Montessori classrooms, children help plan their own work. A work plan shows what you will do each day. It helps you take responsibility for your learning. Let us create your first weekly work plan!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Look at the template: days across the top, subjects down the side. Some activities are planned by your parent (these go in pen). Others are YOUR choice (these go in pencil — you can change them!)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Fill in next week's plan together. Each day has 5 activities. When you complete an activity, you check it off or place a sticker. At the end of the week, you can see everything you accomplished!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete your work plan for next week. Write in all planned activities. Choose 3-5 'free choice' activities from the available materials. Decorate the edges of your work plan. Post it where you can see it every day.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Your work plan is YOUR map for the week. It helps you be independent and responsible. Each day, check your plan first, then get started. You are in charge of your learning!",
+          "mastery_check": "Can the child read and understand their work plan, and explain what they will do each day?"
+        }
       ]
     },
     "parent_notes": "The work plan is a signature Montessori practice that develops executive function — the same skills needed for homework planners, calendars, and project management in later life. Start simple: list required activities and let the child choose 1-2 extras. Over time, increase their autonomy. Do not use the work plan as a punishment tool — it should feel empowering, not controlling.",
@@ -280,16 +680,58 @@
     "instructions": "1. Set up the vocabulary journal: alphabetical sections, word entry format.\n2. Model the entry format: word, pronunciation, part of speech, definition, sentence, illustration.\n3. Read a passage together and identify 3 unfamiliar words.\n4. Practice using context clues: What clues in the sentence help us guess the meaning?\n5. Check guesses against a dictionary.\n6. The child makes 3 complete vocabulary entries.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Blank notebook for vocabulary journal", "Dictionary (age-appropriate)", "Current reading book", "Pencil", "Colored pencils", "Alphabet tabs"],
+    "materials_needed": [
+      "Blank notebook for vocabulary journal",
+      "Dictionary (age-appropriate)",
+      "Current reading book",
+      "Pencil",
+      "Colored pencils",
+      "Alphabet tabs"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My Vocabulary Journal", "subheading": "Collecting Powerful Words"},
-        {"type": "materials", "items": ["Blank notebook (small, portable)", "Alphabet tabs or stickers", "Age-appropriate dictionary", "Current reading book", "Pencil and colored pencils"], "setup_instructions": "Prepare the notebook with alphabet tabs (A-B, C-D, etc. or individual letters). Model a sample entry on the first page. Have the dictionary and a reading book ready."},
-        {"type": "instruction", "step": 1, "text": "Powerful readers collect words! Your vocabulary journal is where you keep the interesting, unusual, or confusing words you find in your reading. Set up your journal with alphabet sections."},
-        {"type": "instruction", "step": 2, "text": "For each word entry, include: 1) The word, 2) The sentence where you found it, 3) What you THINK it means (context clue guess), 4) The dictionary definition, 5) Your own sentence using the word, 6) A small illustration."},
-        {"type": "instruction", "step": 3, "text": "Let us practice with this passage. Read it aloud. When you find a word you do not know, stop. Read the sentence around it. What clues help you guess the meaning? Now check the dictionary. Were you close?"},
-        {"type": "activity", "prompt": "Find 3 unfamiliar words in your reading book. For each one, make a complete vocabulary journal entry: the word, the sentence, your guess, the dictionary definition, your own sentence, and a small drawing. Use your best handwriting.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Your vocabulary journal will grow all year! Try to add at least 2 new words each week. The more words you know, the more you can understand and express. Keep your journal with you when you read!", "mastery_check": "Can the child use context clues to make a reasonable guess about a word's meaning and create a complete vocabulary entry?"}
+        {
+          "type": "title",
+          "heading": "My Vocabulary Journal",
+          "subheading": "Collecting Powerful Words",
+          "image_url": "https://images.pexels.com/photos/1887614/pexels-photo-1887614.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank notebook (small, portable)",
+            "Alphabet tabs or stickers",
+            "Age-appropriate dictionary",
+            "Current reading book",
+            "Pencil and colored pencils"
+          ],
+          "setup_instructions": "Prepare the notebook with alphabet tabs (A-B, C-D, etc. or individual letters). Model a sample entry on the first page. Have the dictionary and a reading book ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Powerful readers collect words! Your vocabulary journal is where you keep the interesting, unusual, or confusing words you find in your reading. Set up your journal with alphabet sections."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "For each word entry, include: 1) The word, 2) The sentence where you found it, 3) What you THINK it means (context clue guess), 4) The dictionary definition, 5) Your own sentence using the word, 6) A small illustration."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Let us practice with this passage. Read it aloud. When you find a word you do not know, stop. Read the sentence around it. What clues help you guess the meaning? Now check the dictionary. Were you close?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Find 3 unfamiliar words in your reading book. For each one, make a complete vocabulary journal entry: the word, the sentence, your guess, the dictionary definition, your own sentence, and a small drawing. Use your best handwriting.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Your vocabulary journal will grow all year! Try to add at least 2 new words each week. The more words you know, the more you can understand and express. Keep your journal with you when you read!",
+          "mastery_check": "Can the child use context clues to make a reasonable guess about a word's meaning and create a complete vocabulary entry?"
+        }
       ]
     },
     "parent_notes": "The vocabulary journal becomes a personalized reference that grows with the child. Context clues are a critical reading strategy — encourage the child to guess before looking up. Research shows that words learned in context are retained better than words memorized from lists. Aim for quality entries over quantity. Review the journal weekly to reinforce learned words.",
@@ -307,16 +749,56 @@
     "instructions": "1. Warm up: review adding like fractions with insets.\n2. Transition to pictorial: draw fraction circles, shade, and add.\n3. Transition to abstract: write and solve equations without pictures.\n4. Introduce word problems: 'Maria ate 2/6 of the pizza. Her brother ate 3/6. How much did they eat together?'\n5. The child creates their own word problem.\n6. Practice a set of mixed problems.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Fraction insets", "Math journal", "Pencil", "Colored pencils", "Word problem cards"],
+    "materials_needed": [
+      "Fraction insets",
+      "Math journal",
+      "Pencil",
+      "Colored pencils",
+      "Word problem cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Adding Fractions Practice", "subheading": "From Hands-On to Word Problems"},
-        {"type": "materials", "items": ["Fraction insets for checking work", "Math journal", "Pencil and colored pencils", "Prepared word problem cards (5-6 problems)"], "setup_instructions": "Keep fraction insets accessible but encourage pictorial and abstract work. Write word problems on cards. Open math journal to a fresh page."},
-        {"type": "instruction", "step": 1, "text": "Warm up with the insets: 1/5 + 2/5 = ? Place the pieces, count, and confirm: 3/5. Now draw it: draw a circle divided into 5 parts, shade 1, then shade 2 more. Total shaded: 3/5."},
-        {"type": "instruction", "step": 2, "text": "Now try without pictures: 2/8 + 3/8 = ? The denominators are the same (8), so add the numerators: 2 + 3 = 5. Answer: 5/8. Check with the inset if you want!"},
-        {"type": "instruction", "step": 3, "text": "Word problem: 'Maria ate 2/6 of the pizza. Her brother ate 3/6. How much pizza did they eat together?' Draw the pizza, shade Maria's slices, shade her brother's slices. 2/6 + 3/6 = 5/6."},
-        {"type": "activity", "prompt": "Solve these problems in your math journal, showing your work with pictures and equations: 1) 3/8 + 2/8 = ? 2) 1/5 + 3/5 = ? 3) 4/10 + 5/10 = ? 4) Word problem: 'Dad drank 1/4 of the juice. Mom drank 2/4. How much did they drink?' 5) Create your own fraction word problem and solve it!", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You can now add fractions three ways: with fraction pieces, with pictures, and with numbers! The rule is simple: same denominator, add the numerators. Tomorrow we will explore what happens when the sum is more than one whole!", "mastery_check": "Can the child add like fractions using pictures and equations, and solve a fraction word problem?"}
+        {
+          "type": "title",
+          "heading": "Adding Fractions Practice",
+          "subheading": "From Hands-On to Word Problems",
+          "image_url": "https://images.pexels.com/photos/6693304/pexels-photo-6693304.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Fraction insets for checking work",
+            "Math journal",
+            "Pencil and colored pencils",
+            "Prepared word problem cards (5-6 problems)"
+          ],
+          "setup_instructions": "Keep fraction insets accessible but encourage pictorial and abstract work. Write word problems on cards. Open math journal to a fresh page."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Warm up with the insets: 1/5 + 2/5 = ? Place the pieces, count, and confirm: 3/5. Now draw it: draw a circle divided into 5 parts, shade 1, then shade 2 more. Total shaded: 3/5."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Now try without pictures: 2/8 + 3/8 = ? The denominators are the same (8), so add the numerators: 2 + 3 = 5. Answer: 5/8. Check with the inset if you want!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Word problem: 'Maria ate 2/6 of the pizza. Her brother ate 3/6. How much pizza did they eat together?' Draw the pizza, shade Maria's slices, shade her brother's slices. 2/6 + 3/6 = 5/6."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these problems in your math journal, showing your work with pictures and equations: 1) 3/8 + 2/8 = ? 2) 1/5 + 3/5 = ? 3) 4/10 + 5/10 = ? 4) Word problem: 'Dad drank 1/4 of the juice. Mom drank 2/4. How much did they drink?' 5) Create your own fraction word problem and solve it!",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You can now add fractions three ways: with fraction pieces, with pictures, and with numbers! The rule is simple: same denominator, add the numerators. Tomorrow we will explore what happens when the sum is more than one whole!",
+          "mastery_check": "Can the child add like fractions using pictures and equations, and solve a fraction word problem?"
+        }
       ]
     },
     "parent_notes": "The progression from concrete (insets) to pictorial (drawings) to abstract (equations) mirrors the Montessori approach to all math learning. Do not rush past the pictorial stage — drawing fractions builds deep understanding. Word problems apply fraction skills to real life. When the child creates their own problem, they demonstrate the highest level of understanding.",
@@ -334,16 +816,57 @@
     "instructions": "1. Explain the role of the pharaoh: king, religious leader, and living god.\n2. Tell the story of King Narmer unifying Upper and Lower Egypt around 3100 BCE.\n3. Show the crowns: White Crown of Upper Egypt, Red Crown of Lower Egypt, Double Crown of unified Egypt.\n4. Introduce notable pharaohs: Khufu (built Great Pyramid), Hatshepsut (female pharaoh), Tutankhamun (boy king).\n5. The child draws the three crowns and creates pharaoh biography cards.\n6. Add pharaoh dates to the timeline.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Pictures of Egyptian crowns", "Pharaoh reference cards", "Drawing paper", "Colored pencils", "Timeline"],
+    "materials_needed": [
+      "Pictures of Egyptian crowns",
+      "Pharaoh reference cards",
+      "Drawing paper",
+      "Colored pencils",
+      "Timeline"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Pharaohs", "subheading": "God-Kings of Ancient Egypt"},
-        {"type": "materials", "items": ["Pictures of the White Crown, Red Crown, and Double Crown", "Photos or illustrations of famous pharaohs", "Index cards for biography cards", "Drawing paper, colored pencils, gold crayon/marker", "History timeline"], "setup_instructions": "Display crown images prominently. Prepare pharaoh reference information. Have index cards and the timeline ready."},
-        {"type": "instruction", "step": 1, "text": "The pharaoh was not just a king — the Egyptians believed the pharaoh was a living god! The pharaoh owned all the land, commanded the army, and was the head of the religion. The word 'pharaoh' means 'great house.'"},
-        {"type": "instruction", "step": 2, "text": "Around 3100 BCE, King Narmer united Upper Egypt (the south, with the White Crown shaped like a bowling pin) and Lower Egypt (the north, with the flat Red Crown). He combined them into the Double Crown — the pschent — showing he ruled all of Egypt."},
-        {"type": "instruction", "step": 3, "text": "Let us meet some famous pharaohs: Khufu built the Great Pyramid at Giza. Hatshepsut was a powerful female pharaoh who wore a false beard! Tutankhamun became pharaoh at age 9. His tomb was found full of golden treasures in 1922."},
-        {"type": "activity", "prompt": "Draw and color the three Egyptian crowns: White Crown, Red Crown, and Double Crown. Then create biography cards for 3 pharaohs: on each card write the pharaoh's name, when they ruled, what they are famous for, and draw their portrait in Egyptian style.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "The pharaohs ruled Egypt for over 3,000 years — that is longer than the time from Julius Caesar to today! Next time, we will explore the greatest monuments the pharaohs built: the pyramids.", "mastery_check": "Can the child explain the pharaoh's role, identify the three crowns, and name at least 2 famous pharaohs with key facts?"}
+        {
+          "type": "title",
+          "heading": "The Pharaohs",
+          "subheading": "God-Kings of Ancient Egypt",
+          "image_url": "https://images.pexels.com/photos/1631665/pexels-photo-1631665.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pictures of the White Crown, Red Crown, and Double Crown",
+            "Photos or illustrations of famous pharaohs",
+            "Index cards for biography cards",
+            "Drawing paper, colored pencils, gold crayon/marker",
+            "History timeline"
+          ],
+          "setup_instructions": "Display crown images prominently. Prepare pharaoh reference information. Have index cards and the timeline ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The pharaoh was not just a king — the Egyptians believed the pharaoh was a living god! The pharaoh owned all the land, commanded the army, and was the head of the religion. The word 'pharaoh' means 'great house.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Around 3100 BCE, King Narmer united Upper Egypt (the south, with the White Crown shaped like a bowling pin) and Lower Egypt (the north, with the flat Red Crown). He combined them into the Double Crown — the pschent — showing he ruled all of Egypt."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Let us meet some famous pharaohs: Khufu built the Great Pyramid at Giza. Hatshepsut was a powerful female pharaoh who wore a false beard! Tutankhamun became pharaoh at age 9. His tomb was found full of golden treasures in 1922."
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw and color the three Egyptian crowns: White Crown, Red Crown, and Double Crown. Then create biography cards for 3 pharaohs: on each card write the pharaoh's name, when they ruled, what they are famous for, and draw their portrait in Egyptian style.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "The pharaohs ruled Egypt for over 3,000 years — that is longer than the time from Julius Caesar to today! Next time, we will explore the greatest monuments the pharaohs built: the pyramids.",
+          "mastery_check": "Can the child explain the pharaoh's role, identify the three crowns, and name at least 2 famous pharaohs with key facts?"
+        }
       ]
     },
     "parent_notes": "Children are fascinated by pharaohs, especially Tutankhamun (a child king!) and Hatshepsut (she broke gender barriers 3,500 years ago). The crown symbolism is a great way to teach about political unification. If the child is interested, the Narmer Palette is one of the oldest historical documents — look up images online together.",
@@ -361,16 +884,56 @@
     "instructions": "1. Describe a day in the life of an Egyptian child.\n2. Food: bread, beer, fish, vegetables, dates, and figs.\n3. Clothing: linen garments, sandals, jewelry and makeup for everyone.\n4. Fun: board games (Senet), swimming, hunting, festivals.\n5. The child creates a Venn diagram comparing their daily life to an Egyptian child's.\n6. Play a round of Senet (or a simplified version).",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Pictures of Egyptian daily life", "Venn diagram template", "Simple Senet board (can be drawn)", "Journal", "Colored pencils"],
+    "materials_needed": [
+      "Pictures of Egyptian daily life",
+      "Venn diagram template",
+      "Simple Senet board (can be drawn)",
+      "Journal",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Life in Ancient Egypt", "subheading": "A Day Along the Nile"},
-        {"type": "materials", "items": ["Pictures or reference book showing Egyptian daily life", "Paper for Venn diagram", "Materials for simple Senet game (grid drawn on paper, coins as pieces, popsicle sticks as dice)", "Journal and colored pencils"], "setup_instructions": "Display daily life images. Draw a Venn diagram on large paper (labeled 'Ancient Egypt' and 'My Life' with 'Both' in the middle). Prepare a simple Senet board."},
-        {"type": "instruction", "step": 1, "text": "Imagine you are a child in Ancient Egypt. You wake up in a mud-brick house, eat bread and figs for breakfast, put on a linen tunic and sandals. If you are from a rich family, you go to school to learn hieroglyphics. If not, you help with farming or a trade."},
-        {"type": "instruction", "step": 2, "text": "Egyptian children played games! Senet was the most popular board game — pharaohs and common people both loved it. Children also swam in the Nile, played with balls and dolls, and had pets like dogs, cats, and monkeys!"},
-        {"type": "instruction", "step": 3, "text": "Surprising facts: Egyptians wore eye makeup for protection from the sun and insects. Both men and women wore jewelry. They brushed their teeth with a paste made from eggshells and ox hooves! They invented some of the first board games."},
-        {"type": "activity", "prompt": "Complete the Venn diagram comparing your daily life with an Egyptian child's life. Include at least 5 items in each section. Then try a game of Senet! In your journal, write: 'If I lived in Ancient Egypt, I would...' (at least 5 sentences).", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "People 4,000 years ago were not so different from us! They loved their families, played games, ate good food, and had fun. Understanding daily life helps us connect with people across time.", "mastery_check": "Can the child describe 3 aspects of Egyptian daily life and identify both similarities and differences with their own life?"}
+        {
+          "type": "title",
+          "heading": "Life in Ancient Egypt",
+          "subheading": "A Day Along the Nile",
+          "image_url": "https://images.pexels.com/photos/12280145/pexels-photo-12280145.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pictures or reference book showing Egyptian daily life",
+            "Paper for Venn diagram",
+            "Materials for simple Senet game (grid drawn on paper, coins as pieces, popsicle sticks as dice)",
+            "Journal and colored pencils"
+          ],
+          "setup_instructions": "Display daily life images. Draw a Venn diagram on large paper (labeled 'Ancient Egypt' and 'My Life' with 'Both' in the middle). Prepare a simple Senet board."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Imagine you are a child in Ancient Egypt. You wake up in a mud-brick house, eat bread and figs for breakfast, put on a linen tunic and sandals. If you are from a rich family, you go to school to learn hieroglyphics. If not, you help with farming or a trade."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Egyptian children played games! Senet was the most popular board game — pharaohs and common people both loved it. Children also swam in the Nile, played with balls and dolls, and had pets like dogs, cats, and monkeys!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Surprising facts: Egyptians wore eye makeup for protection from the sun and insects. Both men and women wore jewelry. They brushed their teeth with a paste made from eggshells and ox hooves! They invented some of the first board games."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete the Venn diagram comparing your daily life with an Egyptian child's life. Include at least 5 items in each section. Then try a game of Senet! In your journal, write: 'If I lived in Ancient Egypt, I would...' (at least 5 sentences).",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "People 4,000 years ago were not so different from us! They loved their families, played games, ate good food, and had fun. Understanding daily life helps us connect with people across time.",
+          "mastery_check": "Can the child describe 3 aspects of Egyptian daily life and identify both similarities and differences with their own life?"
+        }
       ]
     },
     "parent_notes": "Daily life topics make ancient history relatable and engaging. The Venn diagram develops compare/contrast thinking. A simplified Senet game can be made with a 3x10 grid, coins, and popsicle sticks (marked on one side for 'casting'). The real rules are debated by historians, so any version is fine. Emphasize connections between then and now rather than exoticism.",
@@ -388,16 +951,56 @@
     "instructions": "1. Review what we read last time about Egypt.\n2. Read the chapter about pyramids aloud.\n3. Discuss: How did they build pyramids without modern machines?\n4. Talk about the purpose: tombs for pharaohs, filled with treasures for the afterlife.\n5. The child draws the Great Pyramid and writes 5 facts about it.\n6. Add new vocabulary words to the vocabulary journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Egypt read-aloud book", "Reading journal", "Vocabulary journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "Egypt read-aloud book",
+      "Reading journal",
+      "Vocabulary journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Pyramids", "subheading": "Read Aloud — Engineering Marvels"},
-        {"type": "materials", "items": ["Egypt read-aloud book (chapter on pyramids)", "Reading journal", "Vocabulary journal", "Pencil and colored pencils"], "setup_instructions": "Bookmark the pyramid chapter. Have both journals ready. Display a picture of the Great Pyramid if possible."},
-        {"type": "instruction", "step": 1, "text": "Quick review: What have we learned about Egypt so far? The Nile, the pharaohs, the crowns. Today we read about the most famous structures in the world — the pyramids!"},
-        {"type": "instruction", "step": 2, "text": "Read the pyramid chapter aloud. Pause to marvel: 'The Great Pyramid at Giza used over 2 million stone blocks, each weighing as much as a car! It took about 20 years and thousands of workers to build.'"},
-        {"type": "instruction", "step": 3, "text": "After reading, discuss: 'Why did the Egyptians build pyramids? (Tombs for pharaohs, to protect their body and treasures for the afterlife.) How do you think they moved those enormous stones without trucks or cranes?'"},
-        {"type": "activity", "prompt": "Draw the Great Pyramid with a cross-section showing the chambers inside. Write 5 amazing facts about the pyramids from today's reading. Add 3 new vocabulary words to your vocabulary journal (e.g., sarcophagus, pharaoh, monument).", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The pyramids are the only ancient wonder of the world still standing! They have survived for over 4,500 years. What does that tell you about Egyptian engineering?", "mastery_check": "Can the child explain why pyramids were built and state at least 3 facts about their construction?"}
+        {
+          "type": "title",
+          "heading": "The Pyramids",
+          "subheading": "Read Aloud — Engineering Marvels",
+          "image_url": "https://images.pexels.com/photos/5608541/pexels-photo-5608541.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Egypt read-aloud book (chapter on pyramids)",
+            "Reading journal",
+            "Vocabulary journal",
+            "Pencil and colored pencils"
+          ],
+          "setup_instructions": "Bookmark the pyramid chapter. Have both journals ready. Display a picture of the Great Pyramid if possible."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Quick review: What have we learned about Egypt so far? The Nile, the pharaohs, the crowns. Today we read about the most famous structures in the world — the pyramids!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the pyramid chapter aloud. Pause to marvel: 'The Great Pyramid at Giza used over 2 million stone blocks, each weighing as much as a car! It took about 20 years and thousands of workers to build.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading, discuss: 'Why did the Egyptians build pyramids? (Tombs for pharaohs, to protect their body and treasures for the afterlife.) How do you think they moved those enormous stones without trucks or cranes?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw the Great Pyramid with a cross-section showing the chambers inside. Write 5 amazing facts about the pyramids from today's reading. Add 3 new vocabulary words to your vocabulary journal (e.g., sarcophagus, pharaoh, monument).",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The pyramids are the only ancient wonder of the world still standing! They have survived for over 4,500 years. What does that tell you about Egyptian engineering?",
+          "mastery_check": "Can the child explain why pyramids were built and state at least 3 facts about their construction?"
+        }
       ]
     },
     "parent_notes": "The pyramids captivate children's imaginations. The scale is hard to grasp — compare the Great Pyramid's height (481 feet) to buildings the child knows. The construction methods are still debated by historians, which is an opportunity to discuss how historians think and investigate. If possible, watch a short documentary clip about pyramid construction.",
@@ -415,16 +1018,57 @@
     "instructions": "1. Review all four prefixes and their meanings.\n2. Provide a passage containing words with all four prefixes.\n3. The child highlights or circles every word with a prefix.\n4. For each word, identify the prefix, base word, and meaning.\n5. Create a prefix poster or reference card.\n6. Quiz game: parent says a base word, child adds the correct prefix.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Prepared passage with prefix words", "Highlighters (4 colors)", "Poster board or card stock", "Markers", "Vocabulary journal"],
+    "materials_needed": [
+      "Prepared passage with prefix words",
+      "Highlighters (4 colors)",
+      "Poster board or card stock",
+      "Markers",
+      "Vocabulary journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Prefix Word Detective", "subheading": "un-, re-, pre-, dis- Review"},
-        {"type": "materials", "items": ["Prepared passage with 12-15 prefix words embedded", "4 colored highlighters (one per prefix)", "Poster board or large card stock", "Markers and colored pencils", "Vocabulary journal"], "setup_instructions": "Write or print a passage that naturally includes words with all four prefixes. Prepare highlighters in 4 distinct colors. Have poster materials ready."},
-        {"type": "instruction", "step": 1, "text": "You are a Word Detective! Your mission: find every word in this passage that has a prefix. Use a different color for each prefix: yellow for un-, green for re-, blue for pre-, pink for dis-."},
-        {"type": "instruction", "step": 2, "text": "For each word you find, write it in your journal and break it apart: PREFIX + BASE WORD = NEW MEANING. Example: un + happy = unhappy (not happy). re + build = rebuild (build again)."},
-        {"type": "instruction", "step": 3, "text": "Now create a Prefix Reference Poster. Divide it into 4 sections. For each prefix, write: the prefix, its meaning, and 5 example words. Illustrate with drawings that show the meaning change."},
-        {"type": "activity", "prompt": "Complete the word detective passage, then create your Prefix Reference Poster. Finally, play the prefix quiz: your parent says a base word and a meaning clue, you name the correct prefix. Score 10 points for each correct answer!", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You are a prefix expert! Hang your poster where you can see it while reading. Whenever you encounter a word with a prefix, you can decode its meaning. Next week, we will learn suffixes — letters added to the END of words.", "mastery_check": "Can the child identify prefixed words in text, separate prefix from base word, and explain the meaning change for all 4 prefixes?"}
+        {
+          "type": "title",
+          "heading": "Prefix Word Detective",
+          "subheading": "un-, re-, pre-, dis- Review",
+          "image_url": "https://images.pexels.com/photos/1822568/pexels-photo-1822568.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Prepared passage with 12-15 prefix words embedded",
+            "4 colored highlighters (one per prefix)",
+            "Poster board or large card stock",
+            "Markers and colored pencils",
+            "Vocabulary journal"
+          ],
+          "setup_instructions": "Write or print a passage that naturally includes words with all four prefixes. Prepare highlighters in 4 distinct colors. Have poster materials ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "You are a Word Detective! Your mission: find every word in this passage that has a prefix. Use a different color for each prefix: yellow for un-, green for re-, blue for pre-, pink for dis-."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "For each word you find, write it in your journal and break it apart: PREFIX + BASE WORD = NEW MEANING. Example: un + happy = unhappy (not happy). re + build = rebuild (build again)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Now create a Prefix Reference Poster. Divide it into 4 sections. For each prefix, write: the prefix, its meaning, and 5 example words. Illustrate with drawings that show the meaning change."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete the word detective passage, then create your Prefix Reference Poster. Finally, play the prefix quiz: your parent says a base word and a meaning clue, you name the correct prefix. Score 10 points for each correct answer!",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You are a prefix expert! Hang your poster where you can see it while reading. Whenever you encounter a word with a prefix, you can decode its meaning. Next week, we will learn suffixes — letters added to the END of words.",
+          "mastery_check": "Can the child identify prefixed words in text, separate prefix from base word, and explain the meaning change for all 4 prefixes?"
+        }
       ]
     },
     "parent_notes": "The word detective activity trains the child to actively look for word parts while reading — a critical decoding strategy. For the passage, you can use text from their current reading book or write one specifically. The poster becomes a reference tool for independent reading. The quiz game format makes review fun and builds automaticity.",
@@ -442,16 +1086,57 @@
     "instructions": "1. Review finding 1/3 of a number (divide into 3 groups, take 1).\n2. Extend to 2/3 of a number (divide into 3 groups, take 2).\n3. Practice: 2/3 of 15, 3/4 of 20, 2/5 of 25.\n4. Solve word problems: 'There are 24 students. 3/4 brought lunch. How many brought lunch?'\n5. The child creates real-world problems for a partner.\n6. Connect to multiplication: 3/4 of 20 = 3 × (20 ÷ 4) = 3 × 5 = 15.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Counters (30+)", "Math journal", "Pencil", "Sorting cups", "Word problem cards"],
+    "materials_needed": [
+      "Counters (30+)",
+      "Math journal",
+      "Pencil",
+      "Sorting cups",
+      "Word problem cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Fractions of a Set", "subheading": "Finding 2/3, 3/4, and More"},
-        {"type": "materials", "items": ["30+ counters or small objects", "Sorting cups or bowls", "Math journal", "Pencil", "Prepared word problem cards"], "setup_instructions": "Count out sets of counters in advance: 15, 20, 25, 24, 30. Have sorting cups ready. Write word problems on cards."},
-        {"type": "instruction", "step": 1, "text": "Yesterday we found 1/3 of a set. Today we will find 2/3! Start with 15 counters. To find 2/3 of 15: first divide 15 into 3 equal groups (5 in each). For 2/3, take 2 of those groups: 5 + 5 = 10. So 2/3 of 15 = 10."},
-        {"type": "instruction", "step": 2, "text": "Try 3/4 of 20: Divide 20 into 4 groups (5 each). Take 3 groups: 5 + 5 + 5 = 15. So 3/4 of 20 = 15. The denominator tells you how many groups, the numerator tells you how many groups to take."},
-        {"type": "instruction", "step": 3, "text": "Word problem: 'There are 24 crayons. 2/6 are blue. How many blue crayons?' Divide 24 into 6 groups (4 each). Take 2 groups: 4 + 4 = 8 blue crayons. Draw it to prove it!"},
-        {"type": "activity", "prompt": "Solve with counters and record in your journal: 1) 2/3 of 18, 2) 3/4 of 16, 3) 2/5 of 25, 4) 5/6 of 24, 5) Word problem: 'A baker made 20 cookies. 3/5 had chocolate chips. How many chocolate chip cookies?' 6) Create your own word problem for a friend to solve.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You can find ANY fraction of a set: divide into groups (denominator), then take the right number of groups (numerator). This is one of the most useful math skills in real life!", "mastery_check": "Can the child find non-unit fractions of a set (e.g., 2/3, 3/4) and solve a word problem involving fractions of a set?"}
+        {
+          "type": "title",
+          "heading": "Fractions of a Set",
+          "subheading": "Finding 2/3, 3/4, and More",
+          "image_url": "https://images.pexels.com/photos/6256065/pexels-photo-6256065.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "30+ counters or small objects",
+            "Sorting cups or bowls",
+            "Math journal",
+            "Pencil",
+            "Prepared word problem cards"
+          ],
+          "setup_instructions": "Count out sets of counters in advance: 15, 20, 25, 24, 30. Have sorting cups ready. Write word problems on cards."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Yesterday we found 1/3 of a set. Today we will find 2/3! Start with 15 counters. To find 2/3 of 15: first divide 15 into 3 equal groups (5 in each). For 2/3, take 2 of those groups: 5 + 5 = 10. So 2/3 of 15 = 10."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Try 3/4 of 20: Divide 20 into 4 groups (5 each). Take 3 groups: 5 + 5 + 5 = 15. So 3/4 of 20 = 15. The denominator tells you how many groups, the numerator tells you how many groups to take."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Word problem: 'There are 24 crayons. 2/6 are blue. How many blue crayons?' Divide 24 into 6 groups (4 each). Take 2 groups: 4 + 4 = 8 blue crayons. Draw it to prove it!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve with counters and record in your journal: 1) 2/3 of 18, 2) 3/4 of 16, 3) 2/5 of 25, 4) 5/6 of 24, 5) Word problem: 'A baker made 20 cookies. 3/5 had chocolate chips. How many chocolate chip cookies?' 6) Create your own word problem for a friend to solve.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You can find ANY fraction of a set: divide into groups (denominator), then take the right number of groups (numerator). This is one of the most useful math skills in real life!",
+          "mastery_check": "Can the child find non-unit fractions of a set (e.g., 2/3, 3/4) and solve a word problem involving fractions of a set?"
+        }
       ]
     },
     "parent_notes": "Finding non-unit fractions of a set is a significant step up from unit fractions. The two-step process (divide, then multiply) is the foundation for fraction multiplication in later grades. Real-world connections are everywhere: '3/4 of the class is here today,' 'You ate 2/5 of the pizza.' Look for fraction-of-a-set situations in daily life.",
@@ -469,16 +1154,57 @@
     "instructions": "1. Review: mammals live in every habitat on Earth.\n2. Present Arctic adaptations: thick fur, blubber, white coloring (polar bears, Arctic foxes).\n3. Present desert adaptations: nocturnal behavior, large ears for cooling, water conservation (camels, fennec foxes).\n4. Present aquatic adaptations: streamlined bodies, flippers, blowholes (whales, dolphins, seals).\n5. The child creates an adaptation chart in their science journal.\n6. Match animal pictures to their habitat and explain the adaptations.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Animal adaptation picture cards", "Habitat cards (Arctic, desert, ocean, forest)", "Science journal", "Colored pencils", "Reference books"],
+    "materials_needed": [
+      "Animal adaptation picture cards",
+      "Habitat cards (Arctic, desert, ocean, forest)",
+      "Science journal",
+      "Colored pencils",
+      "Reference books"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Mammal Adaptations", "subheading": "Surviving in Every Habitat"},
-        {"type": "materials", "items": ["Animal picture cards showing various mammals in their habitats", "4 habitat cards: Arctic, Desert, Ocean, Forest", "Science journal", "Colored pencils", "Reference books or printed adaptation information"], "setup_instructions": "Set out the 4 habitat cards as sorting stations. Shuffle animal picture cards. Open science journal to a new 'Adaptations' page."},
-        {"type": "instruction", "step": 1, "text": "Mammals live everywhere — from freezing Arctic ice to scorching deserts, from deep oceans to high mountains. How do they survive such different environments? Through adaptations — special features that help them survive."},
-        {"type": "instruction", "step": 2, "text": "Arctic mammals like polar bears have thick fur and a layer of blubber (fat) to stay warm. Their white color helps them hide in the snow. Desert mammals like fennec foxes have HUGE ears — not for hearing, but to release heat and cool down! Camels store fat in their humps for energy."},
-        {"type": "instruction", "step": 3, "text": "Ocean mammals like whales have streamlined bodies for swimming, flippers instead of legs, and blowholes to breathe at the surface. Forest mammals like monkeys have grasping hands and tails for climbing trees."},
-        {"type": "activity", "prompt": "Create an Adaptation Chart in your science journal with 4 habitat columns. For each habitat, list 3 mammals, draw one, and explain at least 2 adaptations that help it survive. Challenge: find a mammal that can live in more than one habitat!", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Adaptations show how amazing evolution is — over millions of years, mammals developed incredible features to survive. Humans are mammals too! What adaptations do we have? (Think: our big brains, our ability to sweat, our opposable thumbs.)", "mastery_check": "Can the child explain at least 2 adaptations for mammals in 3 different habitats and state why each adaptation is helpful?"}
+        {
+          "type": "title",
+          "heading": "Mammal Adaptations",
+          "subheading": "Surviving in Every Habitat",
+          "image_url": "https://images.pexels.com/photos/121472/pexels-photo-121472.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Animal picture cards showing various mammals in their habitats",
+            "4 habitat cards: Arctic, Desert, Ocean, Forest",
+            "Science journal",
+            "Colored pencils",
+            "Reference books or printed adaptation information"
+          ],
+          "setup_instructions": "Set out the 4 habitat cards as sorting stations. Shuffle animal picture cards. Open science journal to a new 'Adaptations' page."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Mammals live everywhere — from freezing Arctic ice to scorching deserts, from deep oceans to high mountains. How do they survive such different environments? Through adaptations — special features that help them survive."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Arctic mammals like polar bears have thick fur and a layer of blubber (fat) to stay warm. Their white color helps them hide in the snow. Desert mammals like fennec foxes have HUGE ears — not for hearing, but to release heat and cool down! Camels store fat in their humps for energy."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Ocean mammals like whales have streamlined bodies for swimming, flippers instead of legs, and blowholes to breathe at the surface. Forest mammals like monkeys have grasping hands and tails for climbing trees."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create an Adaptation Chart in your science journal with 4 habitat columns. For each habitat, list 3 mammals, draw one, and explain at least 2 adaptations that help it survive. Challenge: find a mammal that can live in more than one habitat!",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Adaptations show how amazing evolution is — over millions of years, mammals developed incredible features to survive. Humans are mammals too! What adaptations do we have? (Think: our big brains, our ability to sweat, our opposable thumbs.)",
+          "mastery_check": "Can the child explain at least 2 adaptations for mammals in 3 different habitats and state why each adaptation is helpful?"
+        }
       ]
     },
     "parent_notes": "Adaptations are a core concept in biology. The key is connecting structure to function: 'Why does the fennec fox have big ears? Because large ears release more heat, keeping the fox cool in the desert.' This cause-and-effect thinking is essential scientific reasoning. If the child is interested, explore convergent evolution — how unrelated animals in similar habitats develop similar adaptations.",
@@ -496,16 +1222,58 @@
     "instructions": "1. Present the three triangle types by sides: equilateral (all equal), isosceles (two equal), scalene (none equal).\n2. Examine triangles from the geometry cabinet.\n3. Present classification by angles: right (has a 90° angle), acute (all angles less than 90°), obtuse (one angle greater than 90°).\n4. The child sorts a collection of triangles by both characteristics.\n5. Build triangles with geometry sticks.\n6. Create a triangle classification poster.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Geometry cabinet triangle drawer", "Constructive triangles", "Geometry sticks", "Protractor", "Math journal", "Colored pencils"],
+    "materials_needed": [
+      "Geometry cabinet triangle drawer",
+      "Constructive triangles",
+      "Geometry sticks",
+      "Protractor",
+      "Math journal",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Triangles", "subheading": "Classification by Sides and Angles"},
-        {"type": "materials", "items": ["Geometry cabinet (triangle drawer) or triangle cutouts", "Constructive triangles set", "Geometry sticks for building", "Protractor for measuring angles", "Math journal and colored pencils"], "setup_instructions": "Lay out the triangle drawer from the geometry cabinet. Set out constructive triangles and geometry sticks. Prepare a classification chart template."},
-        {"type": "instruction", "step": 1, "text": "All triangles have 3 sides and 3 angles, but they come in different types! By SIDES: Equilateral — all 3 sides are equal (like an even triangle). Isosceles — exactly 2 sides are equal. Scalene — no sides are equal (all different lengths)."},
-        {"type": "instruction", "step": 2, "text": "We can also classify by ANGLES: Acute triangle — all 3 angles are less than 90° (all pointy). Right triangle — has exactly one 90° angle (like a corner). Obtuse triangle — has one angle greater than 90° (one wide angle)."},
-        {"type": "instruction", "step": 3, "text": "A triangle can be classified BOTH ways! An 'isosceles right triangle' has 2 equal sides AND a right angle. Use the geometry sticks to build one of each type. Measure the angles with a protractor."},
-        {"type": "activity", "prompt": "In your math journal, create a Triangle Classification page. Draw and label: equilateral, isosceles, and scalene triangles. Draw and label: acute, right, and obtuse triangles. Build each type with geometry sticks and measure the angles. Challenge: can you make a right scalene triangle?", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Triangles are the strongest shape in construction — bridges, roofs, and towers all use triangles! Now you can look at any triangle and name its type by sides and angles. You are a triangle expert!", "mastery_check": "Can the child classify triangles by both sides (equilateral, isosceles, scalene) and angles (acute, right, obtuse)?"}
+        {
+          "type": "title",
+          "heading": "Triangles",
+          "subheading": "Classification by Sides and Angles",
+          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Geometry cabinet (triangle drawer) or triangle cutouts",
+            "Constructive triangles set",
+            "Geometry sticks for building",
+            "Protractor for measuring angles",
+            "Math journal and colored pencils"
+          ],
+          "setup_instructions": "Lay out the triangle drawer from the geometry cabinet. Set out constructive triangles and geometry sticks. Prepare a classification chart template."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "All triangles have 3 sides and 3 angles, but they come in different types! By SIDES: Equilateral — all 3 sides are equal (like an even triangle). Isosceles — exactly 2 sides are equal. Scalene — no sides are equal (all different lengths)."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "We can also classify by ANGLES: Acute triangle — all 3 angles are less than 90° (all pointy). Right triangle — has exactly one 90° angle (like a corner). Obtuse triangle — has one angle greater than 90° (one wide angle)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "A triangle can be classified BOTH ways! An 'isosceles right triangle' has 2 equal sides AND a right angle. Use the geometry sticks to build one of each type. Measure the angles with a protractor."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your math journal, create a Triangle Classification page. Draw and label: equilateral, isosceles, and scalene triangles. Draw and label: acute, right, and obtuse triangles. Build each type with geometry sticks and measure the angles. Challenge: can you make a right scalene triangle?",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Triangles are the strongest shape in construction — bridges, roofs, and towers all use triangles! Now you can look at any triangle and name its type by sides and angles. You are a triangle expert!",
+          "mastery_check": "Can the child classify triangles by both sides (equilateral, isosceles, scalene) and angles (acute, right, obtuse)?"
+        }
       ]
     },
     "parent_notes": "Triangle classification involves dual categorization, which is a higher-order thinking skill. The geometry cabinet makes this concrete — the child can feel the differences between triangle types. Building with geometry sticks reinforces understanding through construction. If the child enjoys this, encourage finding triangles in architecture and nature (snowflakes, honeycombs, bridges).",
@@ -523,16 +1291,57 @@
     "instructions": "1. Explain what a cartouche is: a protective oval containing a pharaoh's name in hieroglyphics.\n2. Show the hieroglyphic alphabet — each symbol represents a sound.\n3. The child translates their name into hieroglyphic symbols.\n4. Draw an oval cartouche shape on art paper.\n5. Write their name in hieroglyphics inside the cartouche.\n6. Decorate with Egyptian colors and symbols.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Hieroglyphic alphabet chart", "Art paper or card stock", "Gold and colored markers or paint", "Pencil", "Reference images of cartouches"],
+    "materials_needed": [
+      "Hieroglyphic alphabet chart",
+      "Art paper or card stock",
+      "Gold and colored markers or paint",
+      "Pencil",
+      "Reference images of cartouches"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My Egyptian Cartouche", "subheading": "Writing My Name in Hieroglyphics"},
-        {"type": "materials", "items": ["Hieroglyphic alphabet chart (printed)", "Sturdy art paper or card stock", "Gold paint or marker", "Colored markers, paint, or pencils", "Reference images of real cartouches"], "setup_instructions": "Print a hieroglyphic alphabet chart. Display examples of real cartouches from pharaoh tombs. Cut art paper into elongated oval shapes or let children draw their own."},
-        {"type": "instruction", "step": 1, "text": "A cartouche is an oval frame that held a pharaoh's name in hieroglyphics. The oval shape was like a rope tied in a loop — it meant protection. Only royal names were written inside cartouches."},
-        {"type": "instruction", "step": 2, "text": "Hieroglyphics used pictures for sounds. An owl = the 'm' sound. A reed = 'i.' A hand = 'd.' Use the alphabet chart to find the symbol for each letter of your name."},
-        {"type": "instruction", "step": 3, "text": "Draw a large oval (cartouche shape) on your paper. Carefully draw each hieroglyphic symbol for the letters of your name inside the oval, one below the other like the Egyptians did."},
-        {"type": "activity", "prompt": "Create your personal cartouche: draw the oval frame, write your name in hieroglyphics inside it, paint or color the background gold, and add Egyptian decorative elements around the border (lotus flowers, scarab beetles, ankh symbols).", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "You have written your name the way an Egyptian pharaoh would! Hieroglyphics were used for over 3,000 years until people forgot how to read them. It took the Rosetta Stone to unlock the secret. We will learn about that next week!", "mastery_check": "Can the child translate at least 3 letters of their name into hieroglyphic symbols and explain what a cartouche is?"}
+        {
+          "type": "title",
+          "heading": "My Egyptian Cartouche",
+          "subheading": "Writing My Name in Hieroglyphics",
+          "image_url": "https://images.pexels.com/photos/8382222/pexels-photo-8382222.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Hieroglyphic alphabet chart (printed)",
+            "Sturdy art paper or card stock",
+            "Gold paint or marker",
+            "Colored markers, paint, or pencils",
+            "Reference images of real cartouches"
+          ],
+          "setup_instructions": "Print a hieroglyphic alphabet chart. Display examples of real cartouches from pharaoh tombs. Cut art paper into elongated oval shapes or let children draw their own."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A cartouche is an oval frame that held a pharaoh's name in hieroglyphics. The oval shape was like a rope tied in a loop — it meant protection. Only royal names were written inside cartouches."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Hieroglyphics used pictures for sounds. An owl = the 'm' sound. A reed = 'i.' A hand = 'd.' Use the alphabet chart to find the symbol for each letter of your name."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Draw a large oval (cartouche shape) on your paper. Carefully draw each hieroglyphic symbol for the letters of your name inside the oval, one below the other like the Egyptians did."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your personal cartouche: draw the oval frame, write your name in hieroglyphics inside it, paint or color the background gold, and add Egyptian decorative elements around the border (lotus flowers, scarab beetles, ankh symbols).",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "You have written your name the way an Egyptian pharaoh would! Hieroglyphics were used for over 3,000 years until people forgot how to read them. It took the Rosetta Stone to unlock the secret. We will learn about that next week!",
+          "mastery_check": "Can the child translate at least 3 letters of their name into hieroglyphic symbols and explain what a cartouche is?"
+        }
       ]
     },
     "parent_notes": "This is one of the most popular Montessori Egypt activities. Hieroglyphic alphabet charts are readily available online — search 'hieroglyphic alphabet for kids.' The connection between the Great Lesson on Writing and hieroglyphics reinforces the cosmic narrative. If the child is motivated, they can write messages in hieroglyphics to family members. Display the cartouche prominently.",
@@ -550,16 +1359,57 @@
     "instructions": "1. Review the 4 prefixes one more time.\n2. The child reads independently for 15-20 minutes from their current book.\n3. As they read, they use sticky notes to flag words with prefixes.\n4. After reading, record each flagged word in the vocabulary journal.\n5. Break each word into prefix + base word and define it.\n6. Write a reading response paragraph about the chapter.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Current reading book", "Small sticky notes", "Vocabulary journal", "Pencil", "Prefix reference poster"],
+    "materials_needed": [
+      "Current reading book",
+      "Small sticky notes",
+      "Vocabulary journal",
+      "Pencil",
+      "Prefix reference poster"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Reading with Prefix Power", "subheading": "Word Detective in Action"},
-        {"type": "materials", "items": ["Child's current independent reading book", "Small sticky notes or sticky flags", "Vocabulary journal", "Pencil", "Prefix reference poster from earlier this week"], "setup_instructions": "Set up a comfortable reading spot. Provide sticky notes and have the vocabulary journal nearby. Post the prefix poster where the child can see it while reading."},
-        {"type": "instruction", "step": 1, "text": "Quick prefix review: un- means not/opposite, re- means again, pre- means before, dis- means not/apart. Today you will be a Word Detective while reading your book!"},
-        {"type": "instruction", "step": 2, "text": "As you read, whenever you spot a word with one of our four prefixes, put a tiny sticky note next to it. Keep reading — do not stop to write yet. Just flag the words and keep going."},
-        {"type": "instruction", "step": 3, "text": "After reading, go back to your flagged words. In your vocabulary journal, write each word, underline the prefix, identify the base word, and write the meaning. Then write a paragraph about what you read."},
-        {"type": "activity", "prompt": "Read for 15-20 minutes, flagging prefix words. Then record at least 5 prefix words in your vocabulary journal with full entries. Finally, write a reading response paragraph: summarize what happened in the chapter and share your thoughts or predictions.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "How many prefix words did you find? Were there any words with prefixes we have not studied yet? The more aware you are of word parts, the stronger your reading becomes. Keep your word detective eyes open!", "mastery_check": "Can the child independently identify prefixed words while reading and correctly break them into prefix + base word?"}
+        {
+          "type": "title",
+          "heading": "Reading with Prefix Power",
+          "subheading": "Word Detective in Action",
+          "image_url": "https://images.pexels.com/photos/1275235/pexels-photo-1275235.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Child's current independent reading book",
+            "Small sticky notes or sticky flags",
+            "Vocabulary journal",
+            "Pencil",
+            "Prefix reference poster from earlier this week"
+          ],
+          "setup_instructions": "Set up a comfortable reading spot. Provide sticky notes and have the vocabulary journal nearby. Post the prefix poster where the child can see it while reading."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Quick prefix review: un- means not/opposite, re- means again, pre- means before, dis- means not/apart. Today you will be a Word Detective while reading your book!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "As you read, whenever you spot a word with one of our four prefixes, put a tiny sticky note next to it. Keep reading — do not stop to write yet. Just flag the words and keep going."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading, go back to your flagged words. In your vocabulary journal, write each word, underline the prefix, identify the base word, and write the meaning. Then write a paragraph about what you read."
+        },
+        {
+          "type": "activity",
+          "prompt": "Read for 15-20 minutes, flagging prefix words. Then record at least 5 prefix words in your vocabulary journal with full entries. Finally, write a reading response paragraph: summarize what happened in the chapter and share your thoughts or predictions.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "How many prefix words did you find? Were there any words with prefixes we have not studied yet? The more aware you are of word parts, the stronger your reading becomes. Keep your word detective eyes open!",
+          "mastery_check": "Can the child independently identify prefixed words while reading and correctly break them into prefix + base word?"
+        }
       ]
     },
     "parent_notes": "This lesson transfers word study skills to authentic reading — the ultimate goal. If the child finds fewer than 5 prefix words, the book may not have many, or they may need more practice recognizing prefixes in context. Check their identifications to make sure they are correct (not every word starting with 'un' has a prefix — 'uncle' does not have the un- prefix!).",
@@ -577,16 +1427,57 @@
     "instructions": "1. Warm up with 5 quick fraction addition problems.\n2. Warm up with 5 quick fraction-of-a-set problems.\n3. Solve 3 combined word problems.\n4. The child creates a 'Fraction Rule Book' page in their journal.\n5. Play a fraction game for fluency.\n6. Preview next week: subtracting fractions.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Fraction insets", "Counters", "Math journal", "Pencil", "Dice"],
+    "materials_needed": [
+      "Fraction insets",
+      "Counters",
+      "Math journal",
+      "Pencil",
+      "Dice"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Fraction Review", "subheading": "Addition and Fractions of Sets"},
-        {"type": "materials", "items": ["Fraction insets (available for checking)", "Counters for fractions of sets", "Math journal", "Pencil and colored pencils", "Two dice for fraction game"], "setup_instructions": "Prepare a mixed problem set. Keep fraction insets and counters accessible. Have dice ready for the game."},
-        {"type": "instruction", "step": 1, "text": "Quick fire addition: 1/4 + 2/4 = ? 2/6 + 3/6 = ? 1/8 + 5/8 = ? 3/10 + 4/10 = ? 2/5 + 2/5 = ? Work these out mentally, then check with the insets if needed."},
-        {"type": "instruction", "step": 2, "text": "Quick fraction-of-set: 1/2 of 18 = ? 1/3 of 21 = ? 2/4 of 16 = ? 3/5 of 20 = ? Use counters if you need them."},
-        {"type": "instruction", "step": 3, "text": "Combined word problem: 'A farmer has 24 apples. He gives 1/4 to his neighbor and 2/4 to the school. How many apples did he give away in total? How many does he have left?' Use counters AND addition!"},
-        {"type": "activity", "prompt": "Solve the practice problem set in your math journal (10 problems). Then create a 'Fraction Rules' page: write the rules for adding like fractions AND finding fractions of a set, with examples and pictures. Game time: roll 2 dice — one is the numerator, the other is the denominator. Add the fractions you roll!", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You have mastered two important fraction skills this week! The Fraction Rules page you made is your study guide. Next week, we will learn to subtract fractions — and if you can add, you can subtract!", "mastery_check": "Can the child add like fractions and find fractions of a set with at least 80% accuracy, and explain the rules in their own words?"}
+        {
+          "type": "title",
+          "heading": "Fraction Review",
+          "subheading": "Addition and Fractions of Sets",
+          "image_url": "https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Fraction insets (available for checking)",
+            "Counters for fractions of sets",
+            "Math journal",
+            "Pencil and colored pencils",
+            "Two dice for fraction game"
+          ],
+          "setup_instructions": "Prepare a mixed problem set. Keep fraction insets and counters accessible. Have dice ready for the game."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Quick fire addition: 1/4 + 2/4 = ? 2/6 + 3/6 = ? 1/8 + 5/8 = ? 3/10 + 4/10 = ? 2/5 + 2/5 = ? Work these out mentally, then check with the insets if needed."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Quick fraction-of-set: 1/2 of 18 = ? 1/3 of 21 = ? 2/4 of 16 = ? 3/5 of 20 = ? Use counters if you need them."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Combined word problem: 'A farmer has 24 apples. He gives 1/4 to his neighbor and 2/4 to the school. How many apples did he give away in total? How many does he have left?' Use counters AND addition!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve the practice problem set in your math journal (10 problems). Then create a 'Fraction Rules' page: write the rules for adding like fractions AND finding fractions of a set, with examples and pictures. Game time: roll 2 dice — one is the numerator, the other is the denominator. Add the fractions you roll!",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You have mastered two important fraction skills this week! The Fraction Rules page you made is your study guide. Next week, we will learn to subtract fractions — and if you can add, you can subtract!",
+          "mastery_check": "Can the child add like fractions and find fractions of a set with at least 80% accuracy, and explain the rules in their own words?"
+        }
       ]
     },
     "parent_notes": "This consolidation day is important — do not skip it to move ahead. Fluency with these skills is the foundation for fraction subtraction, mixed numbers, and eventually unlike fractions. The dice game adds fun and randomness. If the child's dice roll creates an improper fraction (like 5/3), preview the concept: 'That is more than one whole! We will learn about those soon.'",
@@ -604,16 +1495,57 @@
     "instructions": "1. Trace the Nile River on a map from source to mouth.\n2. Learn key facts: 4,130 miles long, flows north, 6 cataracts.\n3. Compare the Nile to other major rivers.\n4. Discuss the annual flood: inundation, planting, harvest seasons.\n5. The child draws a detailed Nile map with labels.\n6. Write a 'biography of the Nile' as if the river were a person.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Map of Africa showing the Nile", "Blue string or yarn", "Drawing paper", "Colored pencils", "Atlas"],
+    "materials_needed": [
+      "Map of Africa showing the Nile",
+      "Blue string or yarn",
+      "Drawing paper",
+      "Colored pencils",
+      "Atlas"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Nile River", "subheading": "The World's Longest River"},
-        {"type": "materials", "items": ["Map of Africa showing the full length of the Nile", "Blue string or yarn for tracing", "Drawing paper", "Colored pencils (blue, green, yellow, brown)", "Atlas for reference"], "setup_instructions": "Display a map of Africa with the Nile clearly visible. Lay out blue string for the child to trace the river's path. Prepare drawing materials."},
-        {"type": "instruction", "step": 1, "text": "The Nile is the longest river in the world at about 4,130 miles — that is like driving from New York to Los Angeles and back! It starts at Lake Victoria in central Africa and flows NORTH (most rivers flow south!) through Uganda, Sudan, and Egypt to the Mediterranean Sea."},
-        {"type": "instruction", "step": 2, "text": "The Nile has 6 cataracts — rocky, shallow areas where the water rushes and tumbles. These made boat travel difficult. The delta at the mouth looks like a giant fan where the river splits into many channels before reaching the sea."},
-        {"type": "instruction", "step": 3, "text": "Ancient Egyptians divided the year into 3 seasons based on the Nile: Akhet (flooding, June-September), Peret (planting and growing, October-February), and Shemu (harvest, March-May). The flood brought rich black soil — they called their land 'Kemet' meaning 'black land.'"},
-        {"type": "activity", "prompt": "Draw a detailed map of the Nile River from Lake Victoria to the Mediterranean Sea. Label: Lake Victoria, White Nile, Blue Nile, the 6 cataracts, Cairo, the Delta, and the Mediterranean. Color the flood zone green. Then write a 'Biography of the Nile' — tell the river's story as if it were a person.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "The Nile still flows today, but the Aswan Dam (built in the 1960s) stopped the annual floods. This changed everything about farming in Egypt. Geography shapes history — and human decisions shape geography!", "mastery_check": "Can the child trace the Nile's path on a map, identify the source and mouth, and explain why the annual flood was important?"}
+        {
+          "type": "title",
+          "heading": "The Nile River",
+          "subheading": "The World's Longest River",
+          "image_url": "https://images.pexels.com/photos/3747542/pexels-photo-3747542.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Map of Africa showing the full length of the Nile",
+            "Blue string or yarn for tracing",
+            "Drawing paper",
+            "Colored pencils (blue, green, yellow, brown)",
+            "Atlas for reference"
+          ],
+          "setup_instructions": "Display a map of Africa with the Nile clearly visible. Lay out blue string for the child to trace the river's path. Prepare drawing materials."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The Nile is the longest river in the world at about 4,130 miles — that is like driving from New York to Los Angeles and back! It starts at Lake Victoria in central Africa and flows NORTH (most rivers flow south!) through Uganda, Sudan, and Egypt to the Mediterranean Sea."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The Nile has 6 cataracts — rocky, shallow areas where the water rushes and tumbles. These made boat travel difficult. The delta at the mouth looks like a giant fan where the river splits into many channels before reaching the sea."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Ancient Egyptians divided the year into 3 seasons based on the Nile: Akhet (flooding, June-September), Peret (planting and growing, October-February), and Shemu (harvest, March-May). The flood brought rich black soil — they called their land 'Kemet' meaning 'black land.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw a detailed map of the Nile River from Lake Victoria to the Mediterranean Sea. Label: Lake Victoria, White Nile, Blue Nile, the 6 cataracts, Cairo, the Delta, and the Mediterranean. Color the flood zone green. Then write a 'Biography of the Nile' — tell the river's story as if it were a person.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Nile still flows today, but the Aswan Dam (built in the 1960s) stopped the annual floods. This changed everything about farming in Egypt. Geography shapes history — and human decisions shape geography!",
+          "mastery_check": "Can the child trace the Nile's path on a map, identify the source and mouth, and explain why the annual flood was important?"
+        }
       ]
     },
     "parent_notes": "The Nile is an excellent case study for how geography shapes civilization. The river biography writing activity builds personification skills while reinforcing geography facts. The modern detail about the Aswan Dam shows how human decisions change landscapes — a great discussion starter about environmental impacts. If possible, look at satellite images of the Nile on Google Earth.",
@@ -631,16 +1563,60 @@
     "instructions": "1. Explain Egyptian beliefs about the afterlife: the ka (spirit) needed the body preserved.\n2. Describe the mummification process (age-appropriately): washing, removing organs, natron salt, wrapping.\n3. Explain canopic jars: special containers for organs.\n4. Begin the apple mummification experiment: cut an apple in quarters, treat each differently.\n5. Predict which method will best preserve the apple.\n6. Discuss the science: salt and drying prevent decomposition.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Apple", "Salt", "Baking soda", "4 small cups or containers", "Labels", "Science journal", "Reference book on mummies"],
+    "materials_needed": [
+      "Apple",
+      "Salt",
+      "Baking soda",
+      "4 small cups or containers",
+      "Labels",
+      "Science journal",
+      "Reference book on mummies"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Mummification", "subheading": "Preserving for the Afterlife"},
-        {"type": "materials", "items": ["1 apple, cut into 4 equal pieces", "Salt (1/2 cup)", "Baking soda (1/2 cup)", "Mix of salt and baking soda (1/2 cup each, mixed)", "4 labeled containers or cups", "Science journal for observations"], "setup_instructions": "Cut the apple into 4 equal pieces. Label 4 cups: 'Control (nothing),' 'Salt only,' 'Baking soda only,' and 'Salt + Baking soda (Natron).' Have observation sheets ready."},
-        {"type": "instruction", "step": 1, "text": "Ancient Egyptians believed in an afterlife — life after death. They thought the spirit (ka) needed its body to live forever. So they developed mummification — a way to preserve bodies that lasted thousands of years!"},
-        {"type": "instruction", "step": 2, "text": "The process took 70 days! They removed internal organs and stored them in canopic jars. They covered the body in natron — a natural salt mixture — to dry it out. Then they wrapped it in linen bandages and placed it in a decorated coffin."},
-        {"type": "instruction", "step": 3, "text": "Let us test the science! Place one apple piece in each cup. Cup 1: nothing (control). Cup 2: buried in salt. Cup 3: buried in baking soda. Cup 4: buried in salt + baking soda mix (like natron). Predict: which will be best preserved after one week?"},
-        {"type": "activity", "prompt": "Set up the mummification experiment. Draw each cup in your science journal and write your prediction: which apple piece will be best preserved and why? Draw a diagram of the mummification process with labels. We will check the apples in one week!", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "We will check our apple mummies next week! The Egyptians discovered through trial and error that salt preserves things — the same science we use today to preserve foods like jerky and pickles.", "mastery_check": "Can the child explain why Egyptians mummified bodies, describe the basic process, and make a scientific prediction about the experiment?"}
+        {
+          "type": "title",
+          "heading": "Mummification",
+          "subheading": "Preserving for the Afterlife",
+          "image_url": "https://images.pexels.com/photos/28928758/pexels-photo-28928758.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "1 apple, cut into 4 equal pieces",
+            "Salt (1/2 cup)",
+            "Baking soda (1/2 cup)",
+            "Mix of salt and baking soda (1/2 cup each, mixed)",
+            "4 labeled containers or cups",
+            "Science journal for observations"
+          ],
+          "setup_instructions": "Cut the apple into 4 equal pieces. Label 4 cups: 'Control (nothing),' 'Salt only,' 'Baking soda only,' and 'Salt + Baking soda (Natron).' Have observation sheets ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Ancient Egyptians believed in an afterlife — life after death. They thought the spirit (ka) needed its body to live forever. So they developed mummification — a way to preserve bodies that lasted thousands of years!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The process took 70 days! They removed internal organs and stored them in canopic jars. They covered the body in natron — a natural salt mixture — to dry it out. Then they wrapped it in linen bandages and placed it in a decorated coffin."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Let us test the science! Place one apple piece in each cup. Cup 1: nothing (control). Cup 2: buried in salt. Cup 3: buried in baking soda. Cup 4: buried in salt + baking soda mix (like natron). Predict: which will be best preserved after one week?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Set up the mummification experiment. Draw each cup in your science journal and write your prediction: which apple piece will be best preserved and why? Draw a diagram of the mummification process with labels. We will check the apples in one week!",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "We will check our apple mummies next week! The Egyptians discovered through trial and error that salt preserves things — the same science we use today to preserve foods like jerky and pickles.",
+          "mastery_check": "Can the child explain why Egyptians mummified bodies, describe the basic process, and make a scientific prediction about the experiment?"
+        }
       ]
     },
     "parent_notes": "The apple mummification experiment is a classic Montessori/homeschool activity that beautifully connects history and science. Real natron was a mix of sodium carbonate and sodium bicarbonate (baking soda), so the salt + baking soda mix is a reasonable approximation. Check the apples daily and record observations. The 'natron' cup should preserve best. This experiment takes 1-2 weeks for full results.",
@@ -658,16 +1634,55 @@
     "instructions": "1. Review the previous chapter.\n2. Read the chapter about mummies and tombs.\n3. Connect to today's apple mummification experiment.\n4. Discuss: What treasures were buried with pharaohs and why?\n5. The child narrates the chapter and writes a journal entry.\n6. Make predictions about the next chapter.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Egypt read-aloud book", "Reading journal", "Pencil", "Vocabulary journal"],
+    "materials_needed": [
+      "Egypt read-aloud book",
+      "Reading journal",
+      "Pencil",
+      "Vocabulary journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Mummies and Mysteries", "subheading": "Read Aloud — Treasures of the Tombs"},
-        {"type": "materials", "items": ["Egypt read-aloud book (mummies/tombs chapter)", "Reading journal", "Vocabulary journal", "Pencil and colored pencils"], "setup_instructions": "Bookmark the mummies chapter. Have both journals ready. If available, show photographs of Tutankhamun's tomb treasures."},
-        {"type": "instruction", "step": 1, "text": "Review: What did we learn about the pyramids? Today's chapter is about what was INSIDE the pyramids — mummies and treasures! This connects perfectly to our mummification experiment."},
-        {"type": "instruction", "step": 2, "text": "Read the chapter aloud. Pause to discuss: 'The Egyptians filled tombs with everything a pharaoh might need in the afterlife: food, clothes, furniture, games, and even model servants called shabti!' What would YOU want in your tomb?"},
-        {"type": "instruction", "step": 3, "text": "After reading: 'In 1922, Howard Carter discovered Tutankhamun's tomb. It was the most incredible archaeological find ever — rooms full of golden treasures that had been sealed for over 3,000 years!' Imagine opening that door!"},
-        {"type": "activity", "prompt": "Narrate the chapter in your own words (tell it back to your parent). In your reading journal, write about: What was the most amazing thing you learned today? How does the mummification process in the book connect to our apple experiment? Add new vocabulary to your journal.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The treasures of Egypt are still being discovered today! Archaeologists continue to find new tombs and artifacts. What a thrilling chapter of history. Next week, we read about hieroglyphics and the Rosetta Stone!", "mastery_check": "Can the child narrate the main events of the chapter and explain the connection between mummification beliefs and tomb contents?"}
+        {
+          "type": "title",
+          "heading": "Mummies and Mysteries",
+          "subheading": "Read Aloud — Treasures of the Tombs",
+          "image_url": "https://images.pexels.com/photos/10566480/pexels-photo-10566480.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Egypt read-aloud book (mummies/tombs chapter)",
+            "Reading journal",
+            "Vocabulary journal",
+            "Pencil and colored pencils"
+          ],
+          "setup_instructions": "Bookmark the mummies chapter. Have both journals ready. If available, show photographs of Tutankhamun's tomb treasures."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: What did we learn about the pyramids? Today's chapter is about what was INSIDE the pyramids — mummies and treasures! This connects perfectly to our mummification experiment."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the chapter aloud. Pause to discuss: 'The Egyptians filled tombs with everything a pharaoh might need in the afterlife: food, clothes, furniture, games, and even model servants called shabti!' What would YOU want in your tomb?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading: 'In 1922, Howard Carter discovered Tutankhamun's tomb. It was the most incredible archaeological find ever — rooms full of golden treasures that had been sealed for over 3,000 years!' Imagine opening that door!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Narrate the chapter in your own words (tell it back to your parent). In your reading journal, write about: What was the most amazing thing you learned today? How does the mummification process in the book connect to our apple experiment? Add new vocabulary to your journal.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The treasures of Egypt are still being discovered today! Archaeologists continue to find new tombs and artifacts. What a thrilling chapter of history. Next week, we read about hieroglyphics and the Rosetta Stone!",
+          "mastery_check": "Can the child narrate the main events of the chapter and explain the connection between mummification beliefs and tomb contents?"
+        }
       ]
     },
     "parent_notes": "The mummies topic is endlessly fascinating for this age group. If any content seems too intense (organ removal), it can be handled matter-of-factly: 'The Egyptians were very practical about this — they knew the body needed to be dried to last.' The Howard Carter discovery story is a perfect narrative hook. If the child wants more, the Tutankhamun story has been told in many excellent children's books.",

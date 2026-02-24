@@ -10,17 +10,62 @@
     "instructions": "1. Review: 'We have been reading our novel together. Today we are going to discover the THEME — the big idea the author wants us to understand.'\n2. Define theme: 'Theme is not what happens in the story (that is the plot). Theme is the LESSON or MESSAGE — like courage matters, or friendship requires sacrifice.'\n3. List common themes on a chart: courage, friendship, perseverance, fairness, growing up, belonging.\n4. Return to the novel: 'What challenges did the main character face? What did they learn?'\n5. Guide the child to identify 2-3 possible themes with evidence from specific scenes.\n6. Write a theme statement: 'The theme of [title] is ___ because ___.'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Novel study book", "Reading journal", "Chart paper for theme list", "Pencil", "Sticky notes for marking evidence"],
+    "materials_needed": [
+      "Novel study book",
+      "Reading journal",
+      "Chart paper for theme list",
+      "Pencil",
+      "Sticky notes for marking evidence"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "What Is the Theme?", "subheading": "Finding the Big Idea in Our Novel"},
-        {"type": "materials", "items": ["Novel study book", "Reading journal", "Chart paper", "Pencil", "Sticky notes"], "setup_instructions": "Have the novel and reading journal ready. Prepare a chart with the heading 'Common Themes in Literature' and list 6-8 examples."},
-        {"type": "instruction", "step": 1, "text": "'We have been reading our novel and following the characters through their journey. Today we dig deeper — we are going to find the THEME.'"},
-        {"type": "instruction", "step": 2, "text": "'Theme is NOT what happens — that is the plot. Theme is the BIG IDEA or LESSON. For example, in Charlotte's Web, the theme is that true friendship means selfless sacrifice.'"},
-        {"type": "instruction", "step": 3, "text": "'Look at our theme chart: courage, friendship, perseverance, fairness, growing up, belonging, honesty, kindness. Which of these might fit our novel? Let us look at the evidence.'"},
-        {"type": "instruction", "step": 4, "text": "'Think about the main character. What was their biggest challenge? How did they change from the beginning to the end? What did they learn? These clues point to the theme.'"},
-        {"type": "activity", "prompt": "In your reading journal, write a Theme Analysis. First, write 2-3 possible themes. Then choose the BEST one and write a theme statement: 'The theme of [title] is ___ because ___.' Include at least 2 pieces of evidence from the book.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "'You just did real literary analysis! Finding the theme means you understand not just WHAT happened, but WHY the author told this story. Every great book has a message worth discovering.'", "mastery_check": "Can the child identify a plausible theme and support it with at least two specific examples from the text?"}
+        {
+          "type": "title",
+          "heading": "What Is the Theme?",
+          "subheading": "Finding the Big Idea in Our Novel",
+          "image_url": "https://images.pexels.com/photos/6157276/pexels-photo-6157276.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Novel study book",
+            "Reading journal",
+            "Chart paper",
+            "Pencil",
+            "Sticky notes"
+          ],
+          "setup_instructions": "Have the novel and reading journal ready. Prepare a chart with the heading 'Common Themes in Literature' and list 6-8 examples."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'We have been reading our novel and following the characters through their journey. Today we dig deeper — we are going to find the THEME.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Theme is NOT what happens — that is the plot. Theme is the BIG IDEA or LESSON. For example, in Charlotte's Web, the theme is that true friendship means selfless sacrifice.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Look at our theme chart: courage, friendship, perseverance, fairness, growing up, belonging, honesty, kindness. Which of these might fit our novel? Let us look at the evidence.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Think about the main character. What was their biggest challenge? How did they change from the beginning to the end? What did they learn? These clues point to the theme.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal, write a Theme Analysis. First, write 2-3 possible themes. Then choose the BEST one and write a theme statement: 'The theme of [title] is ___ because ___.' Include at least 2 pieces of evidence from the book.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You just did real literary analysis! Finding the theme means you understand not just WHAT happened, but WHY the author told this story. Every great book has a message worth discovering.'",
+          "mastery_check": "Can the child identify a plausible theme and support it with at least two specific examples from the text?"
+        }
       ]
     },
     "parent_notes": "Theme identification is a hallmark of Montessori elementary literary analysis. Children at this age move beyond simple comprehension to interpreting meaning. The key distinction is between topic (what the book is about — e.g., 'a spider and a pig') and theme (the message — e.g., 'true friendship means sacrifice'). If your child struggles, ask guiding questions: 'What did the character learn? What would the author want YOU to take away from this story?' Accept multiple valid interpretations — literature is not math, and two readers can find different themes in the same book. The goal is reasoned argument supported by evidence, not a single 'right answer.'",
@@ -38,17 +83,62 @@
     "instructions": "1. Review 2-digit x 1-digit: 'You already know how to multiply 45 x 3. Today we go BIGGER — 3 digits times 2 digits!'\n2. Present 234 x 12. 'This looks big, but we break it into parts we already know.'\n3. Demonstrate partial products: 234 x 2 = 468 (ones digit), then 234 x 10 = 2,340 (tens digit).\n4. Add partial products: 468 + 2,340 = 2,808.\n5. Show the standard algorithm format with the placeholder zero.\n6. Work through 153 x 21 together step by step.\n7. Student independently solves 312 x 13 and 241 x 22.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Graph paper (for aligned columns)", "Pencil and eraser", "Place value cards or golden bead material", "Whiteboard for demonstration", "Multiplication reference chart"],
+    "materials_needed": [
+      "Graph paper (for aligned columns)",
+      "Pencil and eraser",
+      "Place value cards or golden bead material",
+      "Whiteboard for demonstration",
+      "Multiplication reference chart"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Big Multiplication!", "subheading": "3-Digit x 2-Digit"},
-        {"type": "materials", "items": ["Graph paper", "Pencil and eraser", "Place value cards or golden beads", "Whiteboard", "Multiplication chart"], "setup_instructions": "Prepare graph paper with large squares for column alignment. Have golden bead material available for concrete demonstration if needed."},
-        {"type": "instruction", "step": 1, "text": "'You are multiplication experts with smaller numbers. Today we tackle something new: 234 x 12. It looks enormous, but you already have every skill you need!'"},
-        {"type": "instruction", "step": 2, "text": "'The secret is PARTIAL PRODUCTS. We break 12 into 2 and 10. First: 234 x 2. Multiply each digit: 4x2=8, 3x2=6, 2x2=4. That gives us 468.'"},
-        {"type": "instruction", "step": 3, "text": "'Next: 234 x 10. When we multiply by 10, everything shifts one place left. 234 x 10 = 2,340. Write this below with a zero placeholder in the ones column.'"},
-        {"type": "instruction", "step": 4, "text": "'Now ADD the partial products: 468 + 2,340 = 2,808. That is our answer! 234 x 12 = 2,808.'"},
-        {"type": "activity", "prompt": "Solve these on graph paper using the standard algorithm: (1) 153 x 21, (2) 312 x 13, (3) 241 x 22. Show both partial products and the final sum for each. Check: does your answer make sense? Estimate first!", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "'You just multiplied numbers in the thousands! The algorithm works because we break the problem into smaller multiplications we already know, then add them up. Mathematics is beautifully logical.'", "mastery_check": "Can the child correctly set up and solve a 3-digit by 2-digit multiplication problem using partial products or the standard algorithm?"}
+        {
+          "type": "title",
+          "heading": "Big Multiplication!",
+          "subheading": "3-Digit x 2-Digit",
+          "image_url": "https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Graph paper",
+            "Pencil and eraser",
+            "Place value cards or golden beads",
+            "Whiteboard",
+            "Multiplication chart"
+          ],
+          "setup_instructions": "Prepare graph paper with large squares for column alignment. Have golden bead material available for concrete demonstration if needed."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'You are multiplication experts with smaller numbers. Today we tackle something new: 234 x 12. It looks enormous, but you already have every skill you need!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'The secret is PARTIAL PRODUCTS. We break 12 into 2 and 10. First: 234 x 2. Multiply each digit: 4x2=8, 3x2=6, 2x2=4. That gives us 468.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Next: 234 x 10. When we multiply by 10, everything shifts one place left. 234 x 10 = 2,340. Write this below with a zero placeholder in the ones column.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Now ADD the partial products: 468 + 2,340 = 2,808. That is our answer! 234 x 12 = 2,808.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these on graph paper using the standard algorithm: (1) 153 x 21, (2) 312 x 13, (3) 241 x 22. Show both partial products and the final sum for each. Check: does your answer make sense? Estimate first!",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You just multiplied numbers in the thousands! The algorithm works because we break the problem into smaller multiplications we already know, then add them up. Mathematics is beautifully logical.'",
+          "mastery_check": "Can the child correctly set up and solve a 3-digit by 2-digit multiplication problem using partial products or the standard algorithm?"
+        }
       ]
     },
     "parent_notes": "The Montessori approach to multi-digit multiplication typically progresses through the golden bead material, the stamp game, the bead frame, and finally the abstract algorithm. If your child has worked with these materials, the standard algorithm is simply a written record of what they have been doing concretely. The critical understanding is that when we multiply by the tens digit, we are really multiplying by that many tens — hence the placeholder zero. Graph paper is essential for keeping columns aligned. If your child makes errors, check column alignment first. Estimation is a powerful check: 234 x 12 is roughly 230 x 10 = 2,300, so an answer of 28,080 would signal a place value error.",
@@ -66,17 +156,62 @@
     "instructions": "1. Connect to prior learning: 'We learned about the American Revolution and the idea that all people are created equal. But for millions of enslaved people, that promise was broken. Today we learn about the people who fought to end slavery.'\n2. Define abolition: 'To abolish means to end completely. Abolitionists were people who worked to END slavery.'\n3. Introduce Frederick Douglass: born enslaved, taught himself to read, escaped, became a powerful speaker and writer.\n4. Introduce Harriet Tubman: escaped slavery, returned 13 times on the Underground Railroad to free about 70 people.\n5. Discuss the Underground Railroad: not a real railroad but a secret network of safe houses.\n6. Timeline: add key dates — 1831 (Nat Turner), 1845 (Douglass's autobiography), 1863 (Emancipation Proclamation).\n7. Discuss: 'What made these people so brave? What risks did they take?'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Timeline of the 19th century", "Portraits of Frederick Douglass and Harriet Tubman", "Map showing Underground Railroad routes", "Index cards for timeline entries", "Colored pencils"],
+    "materials_needed": [
+      "Timeline of the 19th century",
+      "Portraits of Frederick Douglass and Harriet Tubman",
+      "Map showing Underground Railroad routes",
+      "Index cards for timeline entries",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Abolition of Slavery", "subheading": "Voices for Freedom"},
-        {"type": "materials", "items": ["19th century timeline", "Portraits of Douglass and Tubman", "Underground Railroad map", "Index cards", "Colored pencils"], "setup_instructions": "Print or display portraits of Frederick Douglass and Harriet Tubman. Prepare a simple map showing Underground Railroad routes from the South to the North and Canada."},
-        {"type": "instruction", "step": 1, "text": "'The Declaration of Independence said all men are created equal. But for millions of enslaved African Americans, that promise was not kept. Brave people decided to FIGHT to end slavery. They were called abolitionists.'"},
-        {"type": "instruction", "step": 2, "text": "'Frederick Douglass was born into slavery. He secretly learned to read — which was illegal for enslaved people. He escaped to freedom and became one of the most powerful speakers in American history. His words helped change minds.'"},
-        {"type": "instruction", "step": 3, "text": "'Harriet Tubman escaped slavery and then did something incredibly brave — she went BACK, again and again, to lead others to freedom through the Underground Railroad. She made about 13 trips and freed around 70 people. She never lost a single passenger.'"},
-        {"type": "instruction", "step": 4, "text": "'The Underground Railroad was not a real railroad. It was a secret network of safe houses called stations, with guides called conductors. People hid in wagons, walked through forests at night, and followed the North Star to freedom.'"},
-        {"type": "activity", "prompt": "Create timeline cards for at least 4 key events in the abolition movement. On each card, write the date, what happened, and draw a small illustration. Then write a paragraph: 'Why were abolitionists brave?' Use at least 2 specific examples.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "'These people risked their lives because they believed in justice. Frederick Douglass used words, Harriet Tubman used action, and together with thousands of others, they changed history. The fight for equality continues today.'", "mastery_check": "Can the child explain what abolition means, identify at least 2 key abolitionists and their contributions, and describe the Underground Railroad?"}
+        {
+          "type": "title",
+          "heading": "Abolition of Slavery",
+          "subheading": "Voices for Freedom",
+          "image_url": "https://images.pexels.com/photos/1128255/pexels-photo-1128255.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "19th century timeline",
+            "Portraits of Douglass and Tubman",
+            "Underground Railroad map",
+            "Index cards",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Print or display portraits of Frederick Douglass and Harriet Tubman. Prepare a simple map showing Underground Railroad routes from the South to the North and Canada."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'The Declaration of Independence said all men are created equal. But for millions of enslaved African Americans, that promise was not kept. Brave people decided to FIGHT to end slavery. They were called abolitionists.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Frederick Douglass was born into slavery. He secretly learned to read — which was illegal for enslaved people. He escaped to freedom and became one of the most powerful speakers in American history. His words helped change minds.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Harriet Tubman escaped slavery and then did something incredibly brave — she went BACK, again and again, to lead others to freedom through the Underground Railroad. She made about 13 trips and freed around 70 people. She never lost a single passenger.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'The Underground Railroad was not a real railroad. It was a secret network of safe houses called stations, with guides called conductors. People hid in wagons, walked through forests at night, and followed the North Star to freedom.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create timeline cards for at least 4 key events in the abolition movement. On each card, write the date, what happened, and draw a small illustration. Then write a paragraph: 'Why were abolitionists brave?' Use at least 2 specific examples.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "'These people risked their lives because they believed in justice. Frederick Douglass used words, Harriet Tubman used action, and together with thousands of others, they changed history. The fight for equality continues today.'",
+          "mastery_check": "Can the child explain what abolition means, identify at least 2 key abolitionists and their contributions, and describe the Underground Railroad?"
+        }
       ]
     },
     "parent_notes": "This is sensitive and critically important content. Montessori education emphasizes presenting history honestly while being age-appropriate. Children ages 6-9 can understand that slavery was deeply wrong and that courageous people fought against it. Focus on the agency and heroism of enslaved people and abolitionists rather than graphic details of suffering. Frederick Douglass and Harriet Tubman are powerful examples because children can grasp concrete actions: learning to read in secret, leading people to freedom at night. If your child asks difficult questions about why slavery existed or why it took so long to end, answer honestly at their level. The Montessori approach trusts children with real history. Excellent read-alouds include 'Henry's Freedom Box' by Ellen Levine and 'Moses: When Harriet Tubman Led Her People to Freedom' by Carole Boston Weatherford.",
@@ -94,17 +229,62 @@
     "instructions": "1. Connect to history: 'As America grew, people moved WEST across the continent. Today we map that expansion.'\n2. Show a map of the US in 1800 vs 1850. 'Look how much the country grew!'\n3. Identify the Louisiana Purchase (1803): doubled the size of the US. Color this territory on the map.\n4. Trace the Oregon Trail from Independence, Missouri to Oregon City. Mark key landmarks: rivers, mountains, Fort Laramie.\n5. Mark the Transcontinental Railroad route (1869): from Omaha to Sacramento. 'This changed everything — a trip that took months by wagon took just ONE WEEK by train!'\n6. Discuss: 'Who already lived on this land? How did expansion affect Native American peoples?'\n7. Student completes a labeled expansion map.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Outline map of the United States", "Colored pencils", "Atlas or reference map", "Ruler", "Timeline cards from history lessons"],
+    "materials_needed": [
+      "Outline map of the United States",
+      "Colored pencils",
+      "Atlas or reference map",
+      "Ruler",
+      "Timeline cards from history lessons"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Westward Expansion", "subheading": "Mapping the American Frontier"},
-        {"type": "materials", "items": ["US outline map", "Colored pencils", "Atlas or reference map", "Ruler", "Timeline cards"], "setup_instructions": "Print two outline maps of the US — one for guided work, one for independent completion. Have a reference map or atlas showing the Louisiana Purchase, Oregon Trail, and railroad routes."},
-        {"type": "instruction", "step": 1, "text": "'In the early 1800s, the United States was mostly along the East Coast. But over the next 50 years, the country expanded all the way to the Pacific Ocean. Let us map that incredible growth.'"},
-        {"type": "instruction", "step": 2, "text": "'In 1803, President Jefferson bought the Louisiana Territory from France — it DOUBLED the size of the country! Color this huge area on your map in yellow. It stretched from the Mississippi River to the Rocky Mountains.'"},
-        {"type": "instruction", "step": 3, "text": "'Thousands of families traveled the Oregon Trail — a 2,000-mile journey by wagon that took 4-6 months! Trace the route in brown from Independence, Missouri to Oregon City, Oregon. Mark the Rocky Mountains they had to cross.'"},
-        {"type": "instruction", "step": 4, "text": "'In 1869, the Transcontinental Railroad was completed — trains could cross the entire continent! Draw the railroad route in red from Omaha, Nebraska to Sacramento, California. This changed America forever.'"},
-        {"type": "activity", "prompt": "Complete your expansion map with all three features labeled and colored: (1) Louisiana Purchase territory in yellow, (2) Oregon Trail in brown with at least 3 landmarks labeled, (3) Transcontinental Railroad in red. Add a map key. Then write 3 sentences about how geography shaped westward movement.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "'Geography shapes history! Rivers provided water, mountains were barriers, and the railroad conquered distance. But we must also remember that this land was home to Native American peoples for thousands of years before expansion changed their world.'", "mastery_check": "Can the child correctly locate the Louisiana Purchase, trace the Oregon Trail and Transcontinental Railroad routes, and explain how geography influenced westward movement?"}
+        {
+          "type": "title",
+          "heading": "Westward Expansion",
+          "subheading": "Mapping the American Frontier",
+          "image_url": "https://images.pexels.com/photos/355935/pexels-photo-355935.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "US outline map",
+            "Colored pencils",
+            "Atlas or reference map",
+            "Ruler",
+            "Timeline cards"
+          ],
+          "setup_instructions": "Print two outline maps of the US — one for guided work, one for independent completion. Have a reference map or atlas showing the Louisiana Purchase, Oregon Trail, and railroad routes."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'In the early 1800s, the United States was mostly along the East Coast. But over the next 50 years, the country expanded all the way to the Pacific Ocean. Let us map that incredible growth.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'In 1803, President Jefferson bought the Louisiana Territory from France — it DOUBLED the size of the country! Color this huge area on your map in yellow. It stretched from the Mississippi River to the Rocky Mountains.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Thousands of families traveled the Oregon Trail — a 2,000-mile journey by wagon that took 4-6 months! Trace the route in brown from Independence, Missouri to Oregon City, Oregon. Mark the Rocky Mountains they had to cross.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'In 1869, the Transcontinental Railroad was completed — trains could cross the entire continent! Draw the railroad route in red from Omaha, Nebraska to Sacramento, California. This changed America forever.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete your expansion map with all three features labeled and colored: (1) Louisiana Purchase territory in yellow, (2) Oregon Trail in brown with at least 3 landmarks labeled, (3) Transcontinental Railroad in red. Add a map key. Then write 3 sentences about how geography shaped westward movement.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Geography shapes history! Rivers provided water, mountains were barriers, and the railroad conquered distance. But we must also remember that this land was home to Native American peoples for thousands of years before expansion changed their world.'",
+          "mastery_check": "Can the child correctly locate the Louisiana Purchase, trace the Oregon Trail and Transcontinental Railroad routes, and explain how geography influenced westward movement?"
+        }
       ]
     },
     "parent_notes": "Montessori geography always connects to history and human experience. This lesson pairs directly with the abolition history lesson — the same 19th century saw both westward expansion and the fight over slavery (which territory would be free or slave was a central political conflict). It is essential to acknowledge that westward expansion came at enormous cost to Native American peoples — forced removal, broken treaties, and destruction of ways of life. Present this honestly: 'The land was not empty. People had lived there for thousands of years.' Children at this age can hold complexity — they can understand that pioneers were brave AND that expansion caused great harm. A balanced presentation honors the Montessori commitment to truth and peace education.",
@@ -122,17 +302,62 @@
     "instructions": "1. Before reading: 'This book connects to our history lesson about the Underground Railroad. The Drinking Gourd is another name for the Big Dipper constellation — enslaved people followed it north to freedom.'\n2. Read the book aloud, pausing to examine the illustrations.\n3. After reading, discuss: 'How did the song help people escape? What did each verse mean?'\n4. Show the Big Dipper and how it points to the North Star (Polaris).\n5. 'Why was a song a good way to share secret directions?'\n6. Connection: 'How does this connect to what we learned about Harriet Tubman today?'\n7. Student draws the Big Dipper pointing to the North Star and writes about its significance.",
     "duration_minutes": 45,
     "lesson_type": "read_aloud",
-    "materials_needed": ["Follow the Drinking Gourd by Jeanette Winter", "Star chart showing Big Dipper and Polaris", "Drawing paper", "Pencil and colored pencils", "Map from geography lesson"],
+    "materials_needed": [
+      "Follow the Drinking Gourd by Jeanette Winter",
+      "Star chart showing Big Dipper and Polaris",
+      "Drawing paper",
+      "Pencil and colored pencils",
+      "Map from geography lesson"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Follow the Drinking Gourd", "subheading": "A Story of Stars and Freedom"},
-        {"type": "materials", "items": ["Follow the Drinking Gourd book", "Star chart", "Drawing paper", "Pencil and colored pencils", "Map from earlier lesson"], "setup_instructions": "Have the book ready. Print or display a star chart showing the Big Dipper and North Star. Connect to the Underground Railroad map from the geography lesson."},
-        {"type": "instruction", "step": 1, "text": "'Today's read-aloud connects directly to our history lesson. Enslaved people escaping on the Underground Railroad needed to travel NORTH. But they could not use maps or compasses. So they used the STARS.'"},
-        {"type": "instruction", "step": 2, "text": "Read the book aloud. Pause at each verse of the song to decode its meaning: 'The river bank makes a very good road' — travel along rivers to hide your trail."},
-        {"type": "instruction", "step": 3, "text": "'The Drinking Gourd is the Big Dipper. The two stars at the edge of the cup POINT to Polaris, the North Star. If you follow it, you are heading north — toward freedom.'"},
-        {"type": "instruction", "step": 4, "text": "'Why was a SONG such a clever way to share escape directions? Because enslaved people were not allowed to read or write. A song could be taught, remembered, and shared without anyone knowing it was a secret map!'"},
-        {"type": "activity", "prompt": "Draw the night sky with the Big Dipper constellation clearly shown, with arrows pointing from the pointer stars to the North Star (Polaris). Below your drawing, write 3-4 sentences explaining why the Drinking Gourd was important to people escaping slavery.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "'Knowledge is power. Knowing the stars meant knowing the way to freedom. The people who escaped slavery were incredibly brave, resourceful, and intelligent. They used science, geography, and music to survive.'", "mastery_check": "Can the child explain the connection between the Big Dipper, the North Star, and the Underground Railroad? Can they articulate why a song was an effective way to encode directions?"}
+        {
+          "type": "title",
+          "heading": "Follow the Drinking Gourd",
+          "subheading": "A Story of Stars and Freedom",
+          "image_url": "https://images.pexels.com/photos/5604251/pexels-photo-5604251.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Follow the Drinking Gourd book",
+            "Star chart",
+            "Drawing paper",
+            "Pencil and colored pencils",
+            "Map from earlier lesson"
+          ],
+          "setup_instructions": "Have the book ready. Print or display a star chart showing the Big Dipper and North Star. Connect to the Underground Railroad map from the geography lesson."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today's read-aloud connects directly to our history lesson. Enslaved people escaping on the Underground Railroad needed to travel NORTH. But they could not use maps or compasses. So they used the STARS.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the book aloud. Pause at each verse of the song to decode its meaning: 'The river bank makes a very good road' — travel along rivers to hide your trail."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'The Drinking Gourd is the Big Dipper. The two stars at the edge of the cup POINT to Polaris, the North Star. If you follow it, you are heading north — toward freedom.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Why was a SONG such a clever way to share escape directions? Because enslaved people were not allowed to read or write. A song could be taught, remembered, and shared without anyone knowing it was a secret map!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw the night sky with the Big Dipper constellation clearly shown, with arrows pointing from the pointer stars to the North Star (Polaris). Below your drawing, write 3-4 sentences explaining why the Drinking Gourd was important to people escaping slavery.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Knowledge is power. Knowing the stars meant knowing the way to freedom. The people who escaped slavery were incredibly brave, resourceful, and intelligent. They used science, geography, and music to survive.'",
+          "mastery_check": "Can the child explain the connection between the Big Dipper, the North Star, and the Underground Railroad? Can they articulate why a song was an effective way to encode directions?"
+        }
       ]
     },
     "parent_notes": "This read-aloud beautifully integrates multiple subjects: history (abolition and Underground Railroad), science (astronomy — constellations and navigation), geography (north-south orientation), and music (oral tradition as information transfer). The Big Dipper pointing to Polaris is real science that your child can observe on clear nights. Take the opportunity to go outside after dark and find the Big Dipper together. The emotional impact of understanding that enslaved people navigated by stars — the same stars your child can see tonight — creates a powerful, lasting connection to history. If Follow the Drinking Gourd is unavailable, 'Freedom in Congo Square' by Carole Boston Weatherford or 'The Patchwork Path' by Bettye Stroud are excellent alternatives.",
@@ -150,17 +375,62 @@
     "instructions": "1. 'Great readers do not just read words — they CONNECT the story to their own lives. This is called a text-to-self connection.'\n2. Model with an example: 'When [character] felt nervous on the first day at a new place, it reminded me of when I started a new job. I know that feeling!'\n3. Return to the novel. Flip to 3-4 key scenes.\n4. For each scene, ask: 'Has anything like this ever happened to YOU? Have you ever felt the way this character feels?'\n5. Student writes 3 text-to-self connections using the frame: 'This reminds me of ___ because ___.'\n6. Discuss: 'How do connections help us understand characters better?'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Novel study book", "Reading journal", "Text-to-self connection frame worksheet", "Pencil", "Sticky notes"],
+    "materials_needed": [
+      "Novel study book",
+      "Reading journal",
+      "Text-to-self connection frame worksheet",
+      "Pencil",
+      "Sticky notes"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Text-to-Self Connections", "subheading": "Seeing Yourself in the Story"},
-        {"type": "materials", "items": ["Novel study book", "Reading journal", "Connection frame worksheet", "Pencil", "Sticky notes"], "setup_instructions": "Prepare a worksheet or journal page with three sections, each labeled 'In the book...' and 'This reminds me of... because...' Mark 3-4 key emotional scenes in the novel with sticky notes."},
-        {"type": "instruction", "step": 1, "text": "'Good readers make CONNECTIONS. A text-to-self connection is when something in the book reminds you of YOUR OWN life — a time you felt the same way, or had a similar experience.'"},
-        {"type": "instruction", "step": 2, "text": "'Let me show you. When [character] was scared to try something new, it reminded me of when I tried [example]. I understand that character better because I have felt that way too!'"},
-        {"type": "instruction", "step": 3, "text": "'Now let us look at some important moments in our book. For each one, think: Have I ever felt this way? Has something similar happened to me or someone I know?'"},
-        {"type": "instruction", "step": 4, "text": "'Use this sentence frame: This reminds me of ___ because ___. The BECAUSE part is important — it explains WHY you made the connection.'"},
-        {"type": "activity", "prompt": "Write 3 text-to-self connections from the novel. For each one, quote or describe the scene from the book, then explain your personal connection. Use the frame: 'When [character] ___, it reminded me of when I ___. I felt ___ just like the character because ___.'", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "'Your connections prove that this story MATTERS to you. When we see ourselves in characters, we understand them deeply. And sometimes, understanding a character helps us understand ourselves better too.'", "mastery_check": "Can the child make at least 3 meaningful text-to-self connections that include both the text reference and a personal experience, with explanation?"}
+        {
+          "type": "title",
+          "heading": "Text-to-Self Connections",
+          "subheading": "Seeing Yourself in the Story",
+          "image_url": "https://images.pexels.com/photos/8363159/pexels-photo-8363159.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Novel study book",
+            "Reading journal",
+            "Connection frame worksheet",
+            "Pencil",
+            "Sticky notes"
+          ],
+          "setup_instructions": "Prepare a worksheet or journal page with three sections, each labeled 'In the book...' and 'This reminds me of... because...' Mark 3-4 key emotional scenes in the novel with sticky notes."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Good readers make CONNECTIONS. A text-to-self connection is when something in the book reminds you of YOUR OWN life — a time you felt the same way, or had a similar experience.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Let me show you. When [character] was scared to try something new, it reminded me of when I tried [example]. I understand that character better because I have felt that way too!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Now let us look at some important moments in our book. For each one, think: Have I ever felt this way? Has something similar happened to me or someone I know?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Use this sentence frame: This reminds me of ___ because ___. The BECAUSE part is important — it explains WHY you made the connection.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write 3 text-to-self connections from the novel. For each one, quote or describe the scene from the book, then explain your personal connection. Use the frame: 'When [character] ___, it reminded me of when I ___. I felt ___ just like the character because ___.'",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Your connections prove that this story MATTERS to you. When we see ourselves in characters, we understand them deeply. And sometimes, understanding a character helps us understand ourselves better too.'",
+          "mastery_check": "Can the child make at least 3 meaningful text-to-self connections that include both the text reference and a personal experience, with explanation?"
+        }
       ]
     },
     "parent_notes": "Text-to-self connections are one of three types of reading connections taught in Montessori and literacy education (along with text-to-text and text-to-world, which come next). This strategy transforms reading from passive decoding into active meaning-making. Some children naturally make connections; others need modeling. Share your own connections generously — when you say 'that reminds me of when I...' you model the thinking process. Not every connection needs to be profound. 'The character likes dogs and I like dogs too' is a valid starting point for younger or less experienced readers. Guide toward deeper connections over time: 'You both like dogs — but have you ever felt the same WAY as this character? Worried about losing something you love?'",
@@ -178,17 +448,62 @@
     "instructions": "1. Review yesterday's algorithm with a quick example: 425 x 13.\n2. Introduce estimation: 'Before we solve, let us ESTIMATE. Round 425 to 400 and 13 to 10. 400 x 10 = 4,000. Our answer should be NEAR 4,000.'\n3. Solve 425 x 13 = 5,525. 'Is 5,525 close to our estimate of 4,000? Yes — it is reasonable because we rounded down.'\n4. Practice with estimation first: (a) 318 x 24, (b) 506 x 15, (c) 192 x 31.\n5. For each, student estimates first by rounding, then solves, then checks if the answer is reasonable.\n6. 'Estimation is your error-detector. If your answer is way off from your estimate, check your work!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Graph paper", "Pencil and eraser", "Estimation recording sheet", "Whiteboard for demonstration", "Calculator for final verification"],
+    "materials_needed": [
+      "Graph paper",
+      "Pencil and eraser",
+      "Estimation recording sheet",
+      "Whiteboard for demonstration",
+      "Calculator for final verification"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Estimate, Then Calculate", "subheading": "Using Rounding to Check Multiplication"},
-        {"type": "materials", "items": ["Graph paper", "Pencil and eraser", "Estimation recording sheet", "Whiteboard", "Calculator for checking"], "setup_instructions": "Create a recording sheet with three columns: Estimate, Exact Answer, Reasonable? Prepare 5-6 problems of increasing difficulty."},
-        {"type": "instruction", "step": 1, "text": "'Mathematicians do not just calculate — they ESTIMATE first. Before you solve a big multiplication problem, round the numbers to get a ballpark answer. Then solve. Then check: is my answer reasonable?'"},
-        {"type": "instruction", "step": 2, "text": "'Let us try: 425 x 13. Round 425 to 400, round 13 to 10. 400 x 10 = 4,000. That is our estimate. Now we know the real answer should be SOMEWHERE NEAR 4,000.'"},
-        {"type": "instruction", "step": 3, "text": "'Now solve with the algorithm: 425 x 3 = 1,275. Then 425 x 10 = 4,250. Add: 1,275 + 4,250 = 5,525. Is 5,525 close to 4,000? Yes! We rounded down, so the real answer being higher makes sense.'"},
-        {"type": "instruction", "step": 4, "text": "'If you estimated 4,000 and got 55,250, you would know something went wrong! Estimation catches mistakes. It is like a safety net for your math.'"},
-        {"type": "activity", "prompt": "For each problem: (1) Estimate by rounding both numbers, (2) Solve using the algorithm, (3) Check if your answer is reasonable. Problems: 318 x 24, 506 x 15, 192 x 31, 247 x 33, 614 x 12. Record all work in three columns.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "'Estimation is a mathematician's superpower. It tells you if you are in the right neighborhood BEFORE you do the hard work. Always estimate first — it saves time and catches errors.'", "mastery_check": "Can the child round both factors to estimate a product and then solve using the algorithm, getting at least 3 of 5 problems correct?"}
+        {
+          "type": "title",
+          "heading": "Estimate, Then Calculate",
+          "subheading": "Using Rounding to Check Multiplication",
+          "image_url": "https://images.pexels.com/photos/6238050/pexels-photo-6238050.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Graph paper",
+            "Pencil and eraser",
+            "Estimation recording sheet",
+            "Whiteboard",
+            "Calculator for checking"
+          ],
+          "setup_instructions": "Create a recording sheet with three columns: Estimate, Exact Answer, Reasonable? Prepare 5-6 problems of increasing difficulty."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Mathematicians do not just calculate — they ESTIMATE first. Before you solve a big multiplication problem, round the numbers to get a ballpark answer. Then solve. Then check: is my answer reasonable?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Let us try: 425 x 13. Round 425 to 400, round 13 to 10. 400 x 10 = 4,000. That is our estimate. Now we know the real answer should be SOMEWHERE NEAR 4,000.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Now solve with the algorithm: 425 x 3 = 1,275. Then 425 x 10 = 4,250. Add: 1,275 + 4,250 = 5,525. Is 5,525 close to 4,000? Yes! We rounded down, so the real answer being higher makes sense.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'If you estimated 4,000 and got 55,250, you would know something went wrong! Estimation catches mistakes. It is like a safety net for your math.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "For each problem: (1) Estimate by rounding both numbers, (2) Solve using the algorithm, (3) Check if your answer is reasonable. Problems: 318 x 24, 506 x 15, 192 x 31, 247 x 33, 614 x 12. Record all work in three columns.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Estimation is a mathematician's superpower. It tells you if you are in the right neighborhood BEFORE you do the hard work. Always estimate first — it saves time and catches errors.'",
+          "mastery_check": "Can the child round both factors to estimate a product and then solve using the algorithm, getting at least 3 of 5 problems correct?"
+        }
       ]
     },
     "parent_notes": "Estimation is one of the most practical and undervalued mathematical skills. In real life, we estimate far more often than we calculate precisely. Montessori elementary emphasizes reasonableness — does this answer make sense? If your child gets 318 x 24 = 76,320 (forgetting the placeholder zero on one line), the estimate of 300 x 20 = 6,000 immediately flags the error. Teach estimation as a HABIT, not an extra step. Eventually, your child should automatically think 'about how much?' before diving into computation. The calculator is used ONLY for final verification after the child has solved the problem — never as a crutch during solving.",
@@ -206,17 +521,66 @@
     "instructions": "1. 'We learned about simple machines before. Now we go deeper — understanding HOW they help us and MEASURING their advantage.'\n2. Lever: Set up a ruler on a pencil (fulcrum). Place a heavy book on one end. 'Where do you push to lift the book most easily?'\n3. Experiment: Move the fulcrum to different positions. Record effort needed at each position.\n4. Key concept: 'The farther the fulcrum is from the load, the less effort you need. But you push through a longer distance!'\n5. Inclined plane: Compare lifting a book straight up vs. sliding it up a ramp.\n6. Experiment: Use a spring scale to measure force. Straight up = more force, short distance. Ramp = less force, longer distance.\n7. Record observations and draw diagrams.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Ruler (as lever)", "Pencil or dowel (as fulcrum)", "Heavy book or weights", "Wooden board (as ramp)", "Spring scale or rubber band for measuring force", "Recording sheet", "Stack of books for ramp support"],
+    "materials_needed": [
+      "Ruler (as lever)",
+      "Pencil or dowel (as fulcrum)",
+      "Heavy book or weights",
+      "Wooden board (as ramp)",
+      "Spring scale or rubber band for measuring force",
+      "Recording sheet",
+      "Stack of books for ramp support"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Simple Machines Revisited", "subheading": "Lever and Inclined Plane"},
-        {"type": "materials", "items": ["Ruler", "Pencil as fulcrum", "Heavy book", "Wooden board for ramp", "Spring scale", "Recording sheet", "Books for ramp support"], "setup_instructions": "Set up two experiment stations: (1) a lever station with ruler, pencil fulcrum, and weights, (2) a ramp station with a board propped on books at different heights. Have a spring scale or rubber band for measuring force."},
-        {"type": "instruction", "step": 1, "text": "'Simple machines make work EASIER. Today we investigate exactly HOW with experiments. A lever has three parts: the LOAD (what you lift), the EFFORT (your push), and the FULCRUM (the balance point).'"},
-        {"type": "instruction", "step": 2, "text": "'Place the book on one end of the ruler. The pencil underneath is the fulcrum. Push down on the other end. Now move the fulcrum closer to the book and try again. What do you notice?'"},
-        {"type": "instruction", "step": 3, "text": "'When the fulcrum is closer to the load, you need LESS effort to lift it. But you have to push DOWN farther. The lever trades distance for force — that is its mechanical advantage!'"},
-        {"type": "instruction", "step": 4, "text": "'Now the inclined plane — a ramp. Try lifting the book straight up to the top of the stack. Now slide it up the ramp. Which took less force? The ramp! But the distance was longer. Same trade-off: less force, more distance.'"},
-        {"type": "activity", "prompt": "Conduct both experiments and record your data. For the lever: test 3 different fulcrum positions and rate the effort (easy, medium, hard). For the ramp: test 2 different ramp angles and measure or rate the effort. Draw labeled diagrams of each machine showing load, effort, and fulcrum (lever) or force and distance (ramp).", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "'Both the lever and inclined plane make work easier by trading force for distance. Less force over a longer distance equals the same work! This is the fundamental principle of simple machines.'", "mastery_check": "Can the child identify the three parts of a lever, explain how fulcrum position affects effort, and articulate the force-distance trade-off for both machines?"}
+        {
+          "type": "title",
+          "heading": "Simple Machines Revisited",
+          "subheading": "Lever and Inclined Plane",
+          "image_url": "https://images.pexels.com/photos/8471886/pexels-photo-8471886.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Ruler",
+            "Pencil as fulcrum",
+            "Heavy book",
+            "Wooden board for ramp",
+            "Spring scale",
+            "Recording sheet",
+            "Books for ramp support"
+          ],
+          "setup_instructions": "Set up two experiment stations: (1) a lever station with ruler, pencil fulcrum, and weights, (2) a ramp station with a board propped on books at different heights. Have a spring scale or rubber band for measuring force."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Simple machines make work EASIER. Today we investigate exactly HOW with experiments. A lever has three parts: the LOAD (what you lift), the EFFORT (your push), and the FULCRUM (the balance point).'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Place the book on one end of the ruler. The pencil underneath is the fulcrum. Push down on the other end. Now move the fulcrum closer to the book and try again. What do you notice?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'When the fulcrum is closer to the load, you need LESS effort to lift it. But you have to push DOWN farther. The lever trades distance for force — that is its mechanical advantage!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Now the inclined plane — a ramp. Try lifting the book straight up to the top of the stack. Now slide it up the ramp. Which took less force? The ramp! But the distance was longer. Same trade-off: less force, more distance.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Conduct both experiments and record your data. For the lever: test 3 different fulcrum positions and rate the effort (easy, medium, hard). For the ramp: test 2 different ramp angles and measure or rate the effort. Draw labeled diagrams of each machine showing load, effort, and fulcrum (lever) or force and distance (ramp).",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Both the lever and inclined plane make work easier by trading force for distance. Less force over a longer distance equals the same work! This is the fundamental principle of simple machines.'",
+          "mastery_check": "Can the child identify the three parts of a lever, explain how fulcrum position affects effort, and articulate the force-distance trade-off for both machines?"
+        }
       ]
     },
     "parent_notes": "This lesson deepens the child's understanding of simple machines from identification to physics principles. The key concept — that simple machines trade force for distance — is foundational to understanding work in physics. The formula W = F x d (work = force x distance) is not introduced formally, but the child is experiencing it directly. When they move the fulcrum closer to the load, they use less force but push through a greater distance. The total work stays the same! Real-world connections abound: seesaws (levers), wheelchair ramps (inclined planes), crowbars (levers), loading ramps on trucks. If you have a spring scale, actual measurements make this more precise. If not, subjective ratings (easy/medium/hard) still convey the concept effectively.",
@@ -234,17 +598,62 @@
     "instructions": "1. Connect to history: 'The enslaved people we learned about yesterday used MUSIC as a tool for survival and resistance. Today we explore their songs.'\n2. Explain spirituals: songs born from suffering that expressed hope, faith, and sometimes secret messages.\n3. Listen to 'Wade in the Water.' Discuss the surface meaning (a biblical story) and the hidden meaning ('wade in the water' = travel through streams so dogs cannot track your scent).\n4. Listen to 'Swing Low, Sweet Chariot.' Surface: a heavenly chariot. Hidden: the Underground Railroad is coming.\n5. Teach the chorus of 'Wade in the Water' — sing together.\n6. Discuss: 'Why was music so important to people who had so little? How did it give them strength?'\n7. Student creates their own coded song with a hidden message.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Recordings of 'Wade in the Water' and 'Swing Low, Sweet Chariot'", "Lyrics printed out", "Drawing paper for illustrated song", "Pencil and colored pencils", "Audio player"],
+    "materials_needed": [
+      "Recordings of 'Wade in the Water' and 'Swing Low, Sweet Chariot'",
+      "Lyrics printed out",
+      "Drawing paper for illustrated song",
+      "Pencil and colored pencils",
+      "Audio player"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Freedom Songs", "subheading": "The Music of Resistance"},
-        {"type": "materials", "items": ["Audio recordings of spirituals", "Printed lyrics", "Drawing paper", "Pencil and colored pencils", "Audio player"], "setup_instructions": "Queue up recordings of 'Wade in the Water' and 'Swing Low, Sweet Chariot.' Print lyrics. If possible, use traditional choral versions rather than modern arrangements."},
-        {"type": "instruction", "step": 1, "text": "'Enslaved people were forbidden to read, write, or gather freely. But they could SING. And they turned their songs into one of the most powerful art forms in American history — spirituals.'"},
-        {"type": "instruction", "step": 2, "text": "'Listen to Wade in the Water. On the surface, it is about a Bible story. But the HIDDEN meaning was: walk through the water so the tracking dogs lose your scent! It was escape instructions disguised as a hymn.'"},
-        {"type": "instruction", "step": 3, "text": "'Now listen to Swing Low, Sweet Chariot. The chariot sounds heavenly — but it really meant the Underground Railroad. Coming for to carry me home meant escaping to freedom in the North.'"},
-        {"type": "instruction", "step": 4, "text": "'These songs served three purposes: they gave emotional comfort, they preserved African musical traditions, and they carried SECRET MESSAGES. Music was resistance. Music was survival.'"},
-        {"type": "activity", "prompt": "First, learn and sing the chorus of 'Wade in the Water' together. Then create your OWN coded song: write a short verse (4-8 lines) that has an obvious surface meaning but hides a secret message. On the back, explain the hidden meaning. Illustrate your song.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "'Music has always been a tool for change. From spirituals to protest songs to anthems of hope, people sing when words alone are not enough. The spirituals remind us that creativity and courage can exist even in the darkest times.'", "mastery_check": "Can the child explain the dual purpose of spirituals (emotional expression and coded messages) and identify the hidden meaning in at least one spiritual?"}
+        {
+          "type": "title",
+          "heading": "Freedom Songs",
+          "subheading": "The Music of Resistance",
+          "image_url": "https://images.pexels.com/photos/8382222/pexels-photo-8382222.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Audio recordings of spirituals",
+            "Printed lyrics",
+            "Drawing paper",
+            "Pencil and colored pencils",
+            "Audio player"
+          ],
+          "setup_instructions": "Queue up recordings of 'Wade in the Water' and 'Swing Low, Sweet Chariot.' Print lyrics. If possible, use traditional choral versions rather than modern arrangements."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Enslaved people were forbidden to read, write, or gather freely. But they could SING. And they turned their songs into one of the most powerful art forms in American history — spirituals.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Listen to Wade in the Water. On the surface, it is about a Bible story. But the HIDDEN meaning was: walk through the water so the tracking dogs lose your scent! It was escape instructions disguised as a hymn.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Now listen to Swing Low, Sweet Chariot. The chariot sounds heavenly — but it really meant the Underground Railroad. Coming for to carry me home meant escaping to freedom in the North.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'These songs served three purposes: they gave emotional comfort, they preserved African musical traditions, and they carried SECRET MESSAGES. Music was resistance. Music was survival.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "First, learn and sing the chorus of 'Wade in the Water' together. Then create your OWN coded song: write a short verse (4-8 lines) that has an obvious surface meaning but hides a secret message. On the back, explain the hidden meaning. Illustrate your song.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Music has always been a tool for change. From spirituals to protest songs to anthems of hope, people sing when words alone are not enough. The spirituals remind us that creativity and courage can exist even in the darkest times.'",
+          "mastery_check": "Can the child explain the dual purpose of spirituals (emotional expression and coded messages) and identify the hidden meaning in at least one spiritual?"
+        }
       ]
     },
     "parent_notes": "This lesson integrates music, history, and critical thinking in a deeply meaningful way. African American spirituals are among the most significant contributions to American music, influencing gospel, blues, jazz, and soul. Presenting them in their historical context honors their origin and teaches children that art serves many purposes — beauty, expression, communication, and resistance. When singing together, approach the music with respect and reverence. These are not just songs; they are the voices of people who endured tremendous suffering. If your child enjoys this, explore other coded songs: 'Follow the Drinking Gourd' (which connects to yesterday's read-aloud), 'Go Down Moses,' and 'Steal Away.' The tradition of protest music continued through the Civil Rights movement and remains vibrant today.",
@@ -262,17 +671,62 @@
     "instructions": "1. Connect to history: 'The abolitionists saw something wrong and took ACTION. You can do the same! Today we start planning a community action project.'\n2. Brainstorm: 'What needs do you see around you? Someone who is lonely? Animals who need homes? A park that needs cleaning? Food for a food bank?'\n3. List 5-6 ideas on chart paper.\n4. Evaluate each: 'Can we actually DO something about this? Is it achievable for our family?'\n5. Select one project together.\n6. Plan the first steps: What do we need? Who can help? When will we do it?\n7. Student writes a Project Plan with the goal, materials needed, and timeline.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Chart paper for brainstorming", "Markers", "Project plan template", "Pencil", "Community resource guide or internet access for research"],
+    "materials_needed": [
+      "Chart paper for brainstorming",
+      "Markers",
+      "Project plan template",
+      "Pencil",
+      "Community resource guide or internet access for research"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Be the Change", "subheading": "Planning a Community Action"},
-        {"type": "materials", "items": ["Chart paper", "Markers", "Project plan template", "Pencil", "Community resource guide"], "setup_instructions": "Prepare a project plan template with sections for: Goal, Why It Matters, What We Need, Steps, Timeline. Have chart paper ready for brainstorming."},
-        {"type": "instruction", "step": 1, "text": "'Frederick Douglass and Harriet Tubman saw injustice and they ACTED. You might not face those same challenges, but there are needs in YOUR community. Today, YOU become the change-maker.'"},
-        {"type": "instruction", "step": 2, "text": "'Let us brainstorm. What needs do you notice? Maybe someone on our street is lonely. Maybe our local park has litter. Maybe the animal shelter needs supplies. Maybe we could collect books for children who do not have many. What ideas do YOU have?'"},
-        {"type": "instruction", "step": 3, "text": "'Great list! Now let us think practically. Which of these can we ACTUALLY do? We need something achievable — something we can start THIS WEEK and finish within a few weeks.'"},
-        {"type": "instruction", "step": 4, "text": "'Now that we have chosen our project, let us make a PLAN. Every action project needs: a clear goal, the materials or supplies we need, the steps to take, and a timeline.'"},
-        {"type": "activity", "prompt": "Complete your Community Action Project Plan: (1) Write your goal in one sentence, (2) Explain WHY this matters in 2-3 sentences, (3) List the materials or supplies needed, (4) Write the steps in order, (5) Set a timeline. This is a real plan for a real project!", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "'You are now a community action planner! You saw a need, chose a project, and made a real plan. This is exactly what changemakers do — they do not just WISH for a better world, they WORK for it. We will start our project this week.'", "mastery_check": "Can the child identify a genuine community need, explain why it matters, and create an actionable plan with clear steps?"}
+        {
+          "type": "title",
+          "heading": "Be the Change",
+          "subheading": "Planning a Community Action",
+          "image_url": "https://images.pexels.com/photos/4108660/pexels-photo-4108660.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Chart paper",
+            "Markers",
+            "Project plan template",
+            "Pencil",
+            "Community resource guide"
+          ],
+          "setup_instructions": "Prepare a project plan template with sections for: Goal, Why It Matters, What We Need, Steps, Timeline. Have chart paper ready for brainstorming."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Frederick Douglass and Harriet Tubman saw injustice and they ACTED. You might not face those same challenges, but there are needs in YOUR community. Today, YOU become the change-maker.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Let us brainstorm. What needs do you notice? Maybe someone on our street is lonely. Maybe our local park has litter. Maybe the animal shelter needs supplies. Maybe we could collect books for children who do not have many. What ideas do YOU have?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Great list! Now let us think practically. Which of these can we ACTUALLY do? We need something achievable — something we can start THIS WEEK and finish within a few weeks.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Now that we have chosen our project, let us make a PLAN. Every action project needs: a clear goal, the materials or supplies we need, the steps to take, and a timeline.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete your Community Action Project Plan: (1) Write your goal in one sentence, (2) Explain WHY this matters in 2-3 sentences, (3) List the materials or supplies needed, (4) Write the steps in order, (5) Set a timeline. This is a real plan for a real project!",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You are now a community action planner! You saw a need, chose a project, and made a real plan. This is exactly what changemakers do — they do not just WISH for a better world, they WORK for it. We will start our project this week.'",
+          "mastery_check": "Can the child identify a genuine community need, explain why it matters, and create an actionable plan with clear steps?"
+        }
       ]
     },
     "parent_notes": "This practical life lesson embodies the Montessori commitment to peace education and cosmic responsibility. Maria Montessori believed that children who understand their connection to the community and the world become agents of positive change. This is NOT a hypothetical exercise — follow through! Whether your child chooses to bake cookies for a neighbor, clean up a park, collect items for a shelter, or write letters to nursing home residents, completing the project teaches that one person CAN make a difference. Keep the project manageable: a single afternoon of action is perfectly sufficient. The learning is in the planning, execution, and reflection. Document the project with photos for the child's portfolio. This experience often becomes a treasured memory and a foundation for lifelong civic engagement.",
@@ -290,17 +744,62 @@
     "instructions": "1. Review: 'Yesterday we made text-to-self connections — the story reminded us of our own lives. Today we go BIGGER: text-to-WORLD connections.'\n2. Define: 'A text-to-world connection is when the story reminds you of something happening in the REAL WORLD — in history, in the news, or in society.'\n3. Model: 'The conflict in our novel reminds me of [real-world example]. Both involve people fighting for what is right.'\n4. Guide the child to find connections between the novel's themes and history lessons (abolition, suffrage, fairness).\n5. 'Stories are never JUST stories. They reflect real human experiences.'\n6. Student writes 2-3 text-to-world connections with evidence.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Novel study book", "Reading journal", "Connection frame for text-to-world", "Pencil", "Previous history notes or timeline"],
+    "materials_needed": [
+      "Novel study book",
+      "Reading journal",
+      "Connection frame for text-to-world",
+      "Pencil",
+      "Previous history notes or timeline"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Text-to-World Connections", "subheading": "Stories Reflect the Real World"},
-        {"type": "materials", "items": ["Novel study book", "Reading journal", "Connection frame", "Pencil", "History notes or timeline"], "setup_instructions": "Prepare a journal page with the frame: 'In the book... / In the real world... / The connection is...' Have the history timeline visible for reference."},
-        {"type": "instruction", "step": 1, "text": "'Yesterday you connected the story to YOUR life. Today we connect it to the WORLD. When you read about a character facing injustice, does it remind you of real history? Real events?'"},
-        {"type": "instruction", "step": 2, "text": "'A text-to-world connection links the book to something BEYOND your personal experience — to history, current events, or universal human truths.'"},
-        {"type": "instruction", "step": 3, "text": "'Think about the themes we identified — courage, justice, perseverance. Where do we see those themes in the real world? Think about our history lessons this week about abolition.'"},
-        {"type": "instruction", "step": 4, "text": "'Here is my connection: The character's determination reminds me of how abolitionists never gave up even when the fight seemed impossible. Both show that perseverance changes the world.'"},
-        {"type": "activity", "prompt": "Write 2-3 text-to-world connections. For each one, describe the moment or theme from the book, then explain the real-world connection (to history, current events, or universal experience). Use the frame: 'In the book... In the real world... The connection is...'", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "'Stories help us understand the world. When an author writes about courage, they are writing about the SAME courage that real people have shown throughout history. Books are bridges between fiction and reality.'", "mastery_check": "Can the child make at least 2 text-to-world connections that link the novel to historical events, current issues, or universal human experiences?"}
+        {
+          "type": "title",
+          "heading": "Text-to-World Connections",
+          "subheading": "Stories Reflect the Real World",
+          "image_url": "https://images.pexels.com/photos/3855553/pexels-photo-3855553.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Novel study book",
+            "Reading journal",
+            "Connection frame",
+            "Pencil",
+            "History notes or timeline"
+          ],
+          "setup_instructions": "Prepare a journal page with the frame: 'In the book... / In the real world... / The connection is...' Have the history timeline visible for reference."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Yesterday you connected the story to YOUR life. Today we connect it to the WORLD. When you read about a character facing injustice, does it remind you of real history? Real events?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'A text-to-world connection links the book to something BEYOND your personal experience — to history, current events, or universal human truths.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Think about the themes we identified — courage, justice, perseverance. Where do we see those themes in the real world? Think about our history lessons this week about abolition.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Here is my connection: The character's determination reminds me of how abolitionists never gave up even when the fight seemed impossible. Both show that perseverance changes the world.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write 2-3 text-to-world connections. For each one, describe the moment or theme from the book, then explain the real-world connection (to history, current events, or universal experience). Use the frame: 'In the book... In the real world... The connection is...'",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Stories help us understand the world. When an author writes about courage, they are writing about the SAME courage that real people have shown throughout history. Books are bridges between fiction and reality.'",
+          "mastery_check": "Can the child make at least 2 text-to-world connections that link the novel to historical events, current issues, or universal human experiences?"
+        }
       ]
     },
     "parent_notes": "Text-to-world connections require more abstract thinking than text-to-self connections, which is why we sequence them this way. Your child is now operating at a sophisticated level of literary analysis — connecting fiction to real-world patterns. This is the same skill that college literature courses demand! If your child struggles, bridge the gap: 'Remember what we learned about the abolitionists? Is there anything in our novel that reminds you of their fight?' The timing is intentional — this week's history content about abolition and suffrage provides rich material for text-to-world connections. Over time, children who regularly make these connections become more empathetic readers AND more informed citizens, because they see patterns between stories and reality.",
@@ -318,17 +817,62 @@
     "instructions": "1. Review rounding: 'We round to the nearest ten or hundred to make estimation easier.'\n2. Introduce compatible numbers: 'Sometimes instead of rounding to the nearest ten, we round to a COMPATIBLE number — one that is easy to multiply mentally.'\n3. Example: 298 x 15. Rounding: 300 x 20 = 6,000. Compatible: 300 x 15 = 4,500 (closer!).\n4. 'Why was 300 x 15 better? Because 298 is very close to 300, and 15 is already easy to multiply.'\n5. Practice: estimate before solving: 412 x 19, 597 x 11, 203 x 48.\n6. Compare estimates to exact answers. Which rounding strategy was closest?\n7. 'Smart estimators choose their rounding carefully!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Whiteboard for demonstrations", "Graph paper", "Pencil and eraser", "Estimation comparison chart", "Calculator for verification"],
+    "materials_needed": [
+      "Whiteboard for demonstrations",
+      "Graph paper",
+      "Pencil and eraser",
+      "Estimation comparison chart",
+      "Calculator for verification"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Smart Estimation", "subheading": "Strategic Rounding and Compatible Numbers"},
-        {"type": "materials", "items": ["Whiteboard", "Graph paper", "Pencil and eraser", "Estimation comparison chart", "Calculator"], "setup_instructions": "Create a comparison chart with columns: Problem, Basic Estimate (round both), Smart Estimate (compatible numbers), Exact Answer, Which Was Closer?"},
-        {"type": "instruction", "step": 1, "text": "'You know how to estimate by rounding. But today you become a STRATEGIC estimator. Sometimes there is a smarter way to round that gives you a closer answer.'"},
-        {"type": "instruction", "step": 2, "text": "'Look at 298 x 15. Basic rounding: 300 x 20 = 6,000. But 15 is already easy to work with! So try 300 x 15 = 4,500. The exact answer is 4,470 — which estimate was closer?'"},
-        {"type": "instruction", "step": 3, "text": "'Compatible numbers are numbers that are easy to compute mentally. 300, 200, 500 are compatible. 25 is compatible (think quarters). 50 is compatible (think halves). Choose rounding targets that make the math EASY.'"},
-        {"type": "instruction", "step": 4, "text": "'Another trick: if you round one number UP, try rounding the other DOWN. This balances the error. 412 x 19 — round to 400 x 20 = 8,000. One went down, one went up — they balance!'"},
-        {"type": "activity", "prompt": "For each problem, make TWO estimates (basic rounding and smart/compatible rounding), then solve exactly, then determine which estimate was closer. Problems: 412 x 19, 597 x 11, 203 x 48, 315 x 22, 489 x 31.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "'Strategic estimation is a real mathematical skill. Scientists, engineers, and businesspeople estimate constantly. The better your estimates, the faster you can check your work and make decisions.'", "mastery_check": "Can the child use compatible numbers to make a closer estimate than basic rounding for at least 3 of the 5 problems?"}
+        {
+          "type": "title",
+          "heading": "Smart Estimation",
+          "subheading": "Strategic Rounding and Compatible Numbers",
+          "image_url": "https://images.pexels.com/photos/3693101/pexels-photo-3693101.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Whiteboard",
+            "Graph paper",
+            "Pencil and eraser",
+            "Estimation comparison chart",
+            "Calculator"
+          ],
+          "setup_instructions": "Create a comparison chart with columns: Problem, Basic Estimate (round both), Smart Estimate (compatible numbers), Exact Answer, Which Was Closer?"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'You know how to estimate by rounding. But today you become a STRATEGIC estimator. Sometimes there is a smarter way to round that gives you a closer answer.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Look at 298 x 15. Basic rounding: 300 x 20 = 6,000. But 15 is already easy to work with! So try 300 x 15 = 4,500. The exact answer is 4,470 — which estimate was closer?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Compatible numbers are numbers that are easy to compute mentally. 300, 200, 500 are compatible. 25 is compatible (think quarters). 50 is compatible (think halves). Choose rounding targets that make the math EASY.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Another trick: if you round one number UP, try rounding the other DOWN. This balances the error. 412 x 19 — round to 400 x 20 = 8,000. One went down, one went up — they balance!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "For each problem, make TWO estimates (basic rounding and smart/compatible rounding), then solve exactly, then determine which estimate was closer. Problems: 412 x 19, 597 x 11, 203 x 48, 315 x 22, 489 x 31.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Strategic estimation is a real mathematical skill. Scientists, engineers, and businesspeople estimate constantly. The better your estimates, the faster you can check your work and make decisions.'",
+          "mastery_check": "Can the child use compatible numbers to make a closer estimate than basic rounding for at least 3 of the 5 problems?"
+        }
       ]
     },
     "parent_notes": "Strategic estimation is a genuinely advanced mathematical skill. Many adults round mechanically without considering whether their rounding choice gives a good estimate. Teaching children to think about WHICH numbers to round to — and the concept of balancing by rounding one up and one down — develops mathematical reasoning far beyond the algorithm. The comparison chart makes this concrete: the child sees that 300 x 15 = 4,500 is much closer to the exact answer of 4,470 than 300 x 20 = 6,000. This builds number sense — an intuitive feel for how numbers behave. If your child finds this challenging, focus on just one strategy (compatible numbers) rather than all strategies at once. The goal is flexible thinking, not memorizing rules.",
@@ -346,17 +890,62 @@
     "instructions": "1. Connect: 'The abolitionists fought for freedom for enslaved people. Many of the SAME people also fought for women's right to VOTE. This was called the suffrage movement.'\n2. 'In the 1800s, women could not vote, own property in many states, or attend most colleges. Some women said: this must change.'\n3. Seneca Falls Convention (1848): Elizabeth Cady Stanton and Lucretia Mott organized the first women's rights convention. 300 people attended.\n4. Susan B. Anthony: dedicated her life to suffrage, was arrested for voting in 1872.\n5. Sojourner Truth: formerly enslaved woman who fought for BOTH abolition AND women's rights. Her 'Ain't I a Woman?' speech challenged the idea that women were too delicate for rights.\n6. 19th Amendment (1920): women finally won the right to vote — after 72 YEARS of fighting.\n7. Timeline: add suffrage events. Discuss: 'Why did it take so long?'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Timeline of the 19th century", "Portraits of Stanton, Anthony, and Truth", "Copy or summary of the 19th Amendment", "Index cards for timeline entries", "Pencil and colored pencils"],
+    "materials_needed": [
+      "Timeline of the 19th century",
+      "Portraits of Stanton, Anthony, and Truth",
+      "Copy or summary of the 19th Amendment",
+      "Index cards for timeline entries",
+      "Pencil and colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Votes for Women", "subheading": "The Suffrage Movement"},
-        {"type": "materials", "items": ["19th century timeline", "Portraits of suffrage leaders", "19th Amendment text", "Index cards", "Pencil and colored pencils"], "setup_instructions": "Print portraits of Elizabeth Cady Stanton, Susan B. Anthony, and Sojourner Truth. Prepare a simplified version of the 19th Amendment text. Have the timeline from Monday's lesson ready to add new events."},
-        {"type": "instruction", "step": 1, "text": "'Many abolitionists realized something: if we are fighting for FREEDOM and EQUALITY, we must fight for EVERYONE — including women. In the 1800s, women could not vote. The fight to change that was called the suffrage movement.'"},
-        {"type": "instruction", "step": 2, "text": "'In 1848, Elizabeth Cady Stanton and Lucretia Mott organized the Seneca Falls Convention — the FIRST women's rights meeting in America. They wrote a declaration: We hold these truths to be self-evident, that all men AND WOMEN are created equal.'"},
-        {"type": "instruction", "step": 3, "text": "'Susan B. Anthony became the face of the movement. She gave speeches, collected petitions, and in 1872, she VOTED — even though it was illegal for women. She was arrested! At her trial she said: It was we, the people, not we, the men.'"},
-        {"type": "instruction", "step": 4, "text": "'Sojourner Truth was born enslaved, freed herself, and fought for BOTH abolition and women's rights. She asked: Ain't I a woman? She proved that the fight for justice is connected — you cannot have freedom for some and not others.'"},
-        {"type": "activity", "prompt": "Add at least 3 suffrage events to your timeline (1848 Seneca Falls, 1872 Anthony arrested, 1920 19th Amendment). Then write a paragraph: Choose ONE suffrage leader and explain why their contribution mattered. Include at least 3 facts.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "'It took 72 years from Seneca Falls to the 19th Amendment. Imagine fighting your ENTIRE LIFE for something and never seeing it happen — Elizabeth Cady Stanton and Susan B. Anthony both died before women could vote. But their work made it possible. That is the power of perseverance.'", "mastery_check": "Can the child explain what suffrage means, identify at least 2 key suffrage leaders and their contributions, and place the movement on the timeline?"}
+        {
+          "type": "title",
+          "heading": "Votes for Women",
+          "subheading": "The Suffrage Movement",
+          "image_url": "https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "19th century timeline",
+            "Portraits of suffrage leaders",
+            "19th Amendment text",
+            "Index cards",
+            "Pencil and colored pencils"
+          ],
+          "setup_instructions": "Print portraits of Elizabeth Cady Stanton, Susan B. Anthony, and Sojourner Truth. Prepare a simplified version of the 19th Amendment text. Have the timeline from Monday's lesson ready to add new events."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Many abolitionists realized something: if we are fighting for FREEDOM and EQUALITY, we must fight for EVERYONE — including women. In the 1800s, women could not vote. The fight to change that was called the suffrage movement.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'In 1848, Elizabeth Cady Stanton and Lucretia Mott organized the Seneca Falls Convention — the FIRST women's rights meeting in America. They wrote a declaration: We hold these truths to be self-evident, that all men AND WOMEN are created equal.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Susan B. Anthony became the face of the movement. She gave speeches, collected petitions, and in 1872, she VOTED — even though it was illegal for women. She was arrested! At her trial she said: It was we, the people, not we, the men.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Sojourner Truth was born enslaved, freed herself, and fought for BOTH abolition and women's rights. She asked: Ain't I a woman? She proved that the fight for justice is connected — you cannot have freedom for some and not others.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Add at least 3 suffrage events to your timeline (1848 Seneca Falls, 1872 Anthony arrested, 1920 19th Amendment). Then write a paragraph: Choose ONE suffrage leader and explain why their contribution mattered. Include at least 3 facts.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "'It took 72 years from Seneca Falls to the 19th Amendment. Imagine fighting your ENTIRE LIFE for something and never seeing it happen — Elizabeth Cady Stanton and Susan B. Anthony both died before women could vote. But their work made it possible. That is the power of perseverance.'",
+          "mastery_check": "Can the child explain what suffrage means, identify at least 2 key suffrage leaders and their contributions, and place the movement on the timeline?"
+        }
       ]
     },
     "parent_notes": "The suffrage movement connects directly to the abolition movement — many of the same people fought for both causes, and Seneca Falls was partly inspired by the anti-slavery movement. This is a powerful lesson in intersectionality for young learners: Sojourner Truth fought for racial AND gender justice simultaneously, recognizing that these struggles are linked. For children ages 6-9, the most powerful aspect is the timeline: 72 YEARS of sustained effort. Stanton died in 1902 and Anthony in 1906, both before the 19th Amendment passed in 1920. This teaches that some fights outlast a single lifetime, and that we build on the work of those who came before us. If your child asks about ongoing inequality, be honest: the fight continues, and their generation will carry it forward.",
@@ -374,17 +963,62 @@
     "instructions": "1. 'In the 1800s, MILLIONS of people left their home countries and came to America. Why would someone leave everything they know?'\n2. Discuss push factors: famine (Irish Potato Famine, 1845-1852), war, religious persecution, poverty.\n3. Discuss pull factors: promise of jobs, land, freedom, education.\n4. Ellis Island: the gateway. Arriving by ship after weeks at sea. Medical inspections, paperwork, the Great Hall.\n5. 'Imagine: you are 8 years old. You have been on a crowded ship for 3 weeks. You do not speak English. You step off the boat and see the Statue of Liberty. What do you feel?'\n6. Many immigrants faced discrimination in America but built communities and contributed enormously.\n7. Student writes a first-person diary entry from the perspective of a child immigrant.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Photos of Ellis Island and immigrant ships", "Map showing immigration routes", "Diary/journal paper", "Pencil", "Colored pencils for illustrations"],
+    "materials_needed": [
+      "Photos of Ellis Island and immigrant ships",
+      "Map showing immigration routes",
+      "Diary/journal paper",
+      "Pencil",
+      "Colored pencils for illustrations"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Coming to America", "subheading": "Immigration in the 1800s"},
-        {"type": "materials", "items": ["Ellis Island photos", "Immigration route map", "Diary paper", "Pencil", "Colored pencils"], "setup_instructions": "Print or display historical photos of Ellis Island, immigrant ships, and the Great Hall. Prepare a map showing routes from Europe to New York. Have journal paper ready for the diary entry activity."},
-        {"type": "instruction", "step": 1, "text": "'Between 1820 and 1920, over 30 MILLION people immigrated to America. They came from Ireland, Germany, Italy, Poland, China, Russia, and many other countries. Each person had a reason for leaving and a dream for their new life.'"},
-        {"type": "instruction", "step": 2, "text": "'Why did people leave? Some were escaping terrible things: famine in Ireland where the potato crops failed and people were starving, wars in Europe, or persecution for their religion. These are called PUSH factors — things that push you away.'"},
-        {"type": "instruction", "step": 3, "text": "'Why did they come to America? Jobs in factories, land to farm, freedom to worship, schools for their children. These are PULL factors — things that pull you toward a new place.'"},
-        {"type": "instruction", "step": 4, "text": "'Most European immigrants arrived at Ellis Island in New York. After weeks on a crowded ship, they saw the Statue of Liberty. Then they waited in the Great Hall for inspections. Some were turned away after the entire journey. Can you imagine the fear and hope they felt?'"},
-        {"type": "activity", "prompt": "Write a diary entry from the perspective of an 8-year-old immigrant child arriving at Ellis Island. Include: Where are you from? Why did your family leave? What was the ship voyage like? What do you see, hear, and feel at Ellis Island? What do you hope for in America? Write at least 8-10 sentences. Illustrate one scene from your diary.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "'Every immigrant story is a story of courage. Leaving everything you know — your home, your friends, your language — to start over in a strange place takes incredible bravery. Many of us have immigrant ancestors. Their courage made our lives possible.'", "mastery_check": "Can the child explain push and pull factors of immigration, describe the Ellis Island experience, and write an empathetic first-person narrative from an immigrant's perspective?"}
+        {
+          "type": "title",
+          "heading": "Coming to America",
+          "subheading": "Immigration in the 1800s",
+          "image_url": "https://images.pexels.com/photos/2187605/pexels-photo-2187605.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Ellis Island photos",
+            "Immigration route map",
+            "Diary paper",
+            "Pencil",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Print or display historical photos of Ellis Island, immigrant ships, and the Great Hall. Prepare a map showing routes from Europe to New York. Have journal paper ready for the diary entry activity."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Between 1820 and 1920, over 30 MILLION people immigrated to America. They came from Ireland, Germany, Italy, Poland, China, Russia, and many other countries. Each person had a reason for leaving and a dream for their new life.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Why did people leave? Some were escaping terrible things: famine in Ireland where the potato crops failed and people were starving, wars in Europe, or persecution for their religion. These are called PUSH factors — things that push you away.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Why did they come to America? Jobs in factories, land to farm, freedom to worship, schools for their children. These are PULL factors — things that pull you toward a new place.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Most European immigrants arrived at Ellis Island in New York. After weeks on a crowded ship, they saw the Statue of Liberty. Then they waited in the Great Hall for inspections. Some were turned away after the entire journey. Can you imagine the fear and hope they felt?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write a diary entry from the perspective of an 8-year-old immigrant child arriving at Ellis Island. Include: Where are you from? Why did your family leave? What was the ship voyage like? What do you see, hear, and feel at Ellis Island? What do you hope for in America? Write at least 8-10 sentences. Illustrate one scene from your diary.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Every immigrant story is a story of courage. Leaving everything you know — your home, your friends, your language — to start over in a strange place takes incredible bravery. Many of us have immigrant ancestors. Their courage made our lives possible.'",
+          "mastery_check": "Can the child explain push and pull factors of immigration, describe the Ellis Island experience, and write an empathetic first-person narrative from an immigrant's perspective?"
+        }
       ]
     },
     "parent_notes": "Immigration is deeply personal for many families — your own family may have immigration stories to share. This lesson deliberately uses empathy-building through first-person narrative writing. When children imagine themselves as an 8-year-old on a ship, alone in a new country, they develop compassion and historical understanding simultaneously. The push/pull framework helps children understand that immigration is driven by both necessity and hope. Be aware that this topic connects to contemporary immigration debates. For ages 6-9, focus on the HUMAN experience rather than policy. If your child asks about modern immigration, you might say: 'People are still coming to America for many of the same reasons — safety, opportunity, freedom. It is a conversation our country is still having.' If your family has immigration stories, this is a perfect time to share them.",
@@ -402,17 +1036,62 @@
     "instructions": "1. Before reading: 'This story connects to our immigration lesson. It is about a girl named Unhei who moves from Korea to America and faces a big choice about her identity.'\n2. Read the book aloud, pausing at key moments to predict and discuss.\n3. When Unhei considers choosing a new name: 'Why might someone want to change their name in a new country? What would be lost?'\n4. When her classmates fill the name jar: 'What does this tell us about how the class feels?'\n5. At the ending: 'What did Unhei decide? Why? What does her name MEAN to her?'\n6. Discuss: 'Have you ever felt like you did not fit in? What helped?'\n7. Extension: research the meaning of the child's own name.",
     "duration_minutes": 45,
     "lesson_type": "read_aloud",
-    "materials_needed": ["The Name Jar by Yangsook Choi", "Paper for name art", "Colored pencils or markers", "Dictionary of name meanings (or internet access)", "Reading journal"],
+    "materials_needed": [
+      "The Name Jar by Yangsook Choi",
+      "Paper for name art",
+      "Colored pencils or markers",
+      "Dictionary of name meanings (or internet access)",
+      "Reading journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Name Jar", "subheading": "A Story of Names, Identity, and Belonging"},
-        {"type": "materials", "items": ["The Name Jar book", "Paper for name art", "Colored pencils or markers", "Name meanings resource", "Reading journal"], "setup_instructions": "Have the book ready. Look up the meaning of your child's name in advance. Prepare art paper for the name art extension activity."},
-        {"type": "instruction", "step": 1, "text": "'Today's story is about Unhei, a girl who moves from Korea to America. On her first day of school, other kids cannot pronounce her name. She considers choosing a new, American name. What would YOU do?'"},
-        {"type": "instruction", "step": 2, "text": "Read the book aloud. When Unhei considers new names, pause: 'Her Korean name was chosen by her grandmother. It means grace. If she changes it, what is she losing? What is she gaining?'"},
-        {"type": "instruction", "step": 3, "text": "At the resolution, discuss: 'Unhei chose to KEEP her name. Why? Because her name carries her IDENTITY — her family, her culture, her story. She taught her classmates to say it, and they WANTED to learn.'"},
-        {"type": "instruction", "step": 4, "text": "'This connects to our immigration lesson. Many immigrants felt pressure to change their names, their language, their customs to fit in. But fitting in does not mean erasing who you are. True belonging means being accepted AS you are.'"},
-        {"type": "activity", "prompt": "Research the meaning of YOUR name. Who chose it? What does it mean? Why? Create a name art piece: write your name beautifully in the center of the page, and around it write or draw: the meaning of your name, who chose it, and why your name matters to you.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "'Your name is part of your story. It connects you to your family and your history. Just like Unhei, you can be proud of your name and help others learn it, say it, and respect it.'", "mastery_check": "Can the child explain Unhei's dilemma, articulate why she chose to keep her name, and connect the story to broader themes of immigration and identity?"}
+        {
+          "type": "title",
+          "heading": "The Name Jar",
+          "subheading": "A Story of Names, Identity, and Belonging",
+          "image_url": "https://images.pexels.com/photos/3890481/pexels-photo-3890481.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "The Name Jar book",
+            "Paper for name art",
+            "Colored pencils or markers",
+            "Name meanings resource",
+            "Reading journal"
+          ],
+          "setup_instructions": "Have the book ready. Look up the meaning of your child's name in advance. Prepare art paper for the name art extension activity."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today's story is about Unhei, a girl who moves from Korea to America. On her first day of school, other kids cannot pronounce her name. She considers choosing a new, American name. What would YOU do?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the book aloud. When Unhei considers new names, pause: 'Her Korean name was chosen by her grandmother. It means grace. If she changes it, what is she losing? What is she gaining?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "At the resolution, discuss: 'Unhei chose to KEEP her name. Why? Because her name carries her IDENTITY — her family, her culture, her story. She taught her classmates to say it, and they WANTED to learn.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'This connects to our immigration lesson. Many immigrants felt pressure to change their names, their language, their customs to fit in. But fitting in does not mean erasing who you are. True belonging means being accepted AS you are.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Research the meaning of YOUR name. Who chose it? What does it mean? Why? Create a name art piece: write your name beautifully in the center of the page, and around it write or draw: the meaning of your name, who chose it, and why your name matters to you.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Your name is part of your story. It connects you to your family and your history. Just like Unhei, you can be proud of your name and help others learn it, say it, and respect it.'",
+          "mastery_check": "Can the child explain Unhei's dilemma, articulate why she chose to keep her name, and connect the story to broader themes of immigration and identity?"
+        }
       ]
     },
     "parent_notes": "The Name Jar is a beloved Montessori read-aloud that addresses identity, immigration, and belonging at an age-appropriate level. The central conflict — whether to keep or change one's name — is a powerful metaphor for the immigrant experience of balancing assimilation and cultural preservation. For many immigrant families, this resonates deeply. The name art activity is more meaningful than it might seem: researching the origin and meaning of one's own name creates a personal connection to culture and family history. If you adopted your child, chose a name from a different culture, or your child has a unique name with a story, this is a wonderful time to share. The key message is that ALL names carry meaning and deserve respect, whether common or unusual, easy to pronounce or challenging for English speakers.",
@@ -430,17 +1109,62 @@
     "instructions": "1. Review all three connection types: text-to-self (reminds me of MY life), text-to-text (reminds me of ANOTHER book), text-to-world (reminds me of the REAL WORLD).\n2. Introduce text-to-text: 'Does this book remind you of another book we have read? Maybe similar characters, themes, or events?'\n3. Model: 'The theme of perseverance in our novel reminds me of [another book] because both characters never give up.'\n4. Create a three-column chart: Text-to-Self | Text-to-Text | Text-to-World.\n5. Student fills in at least 2 connections per column (6 total).\n6. Discuss: 'Which type of connection is easiest for you? Which is hardest? Why?'\n7. Reflect: 'How do all these connections deepen your understanding of the story?'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Novel study book", "Large paper for three-column chart", "Pencil", "Previous connection notes from Days 1-3", "List of books read this year"],
+    "materials_needed": [
+      "Novel study book",
+      "Large paper for three-column chart",
+      "Pencil",
+      "Previous connection notes from Days 1-3",
+      "List of books read this year"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Connection Web", "subheading": "Text-to-Self, Text-to-Text, Text-to-World"},
-        {"type": "materials", "items": ["Novel study book", "Large paper for chart", "Pencil", "Previous connection notes", "Books-read list"], "setup_instructions": "Prepare a large three-column chart on poster paper or in the reading journal. Have the child's previous text-to-self and text-to-world connections available for reference."},
-        {"type": "instruction", "step": 1, "text": "'You have made text-to-self connections and text-to-world connections. Today we add the third type: TEXT-TO-TEXT. This is when our novel reminds you of ANOTHER book, story, or movie.'"},
-        {"type": "instruction", "step": 2, "text": "'Think about other books we have read this year. Does our novel remind you of any of them? Maybe two characters face similar challenges, or two stories have the same theme.'"},
-        {"type": "instruction", "step": 3, "text": "'Now let us put all three types together on one chart. Three columns: Self, Text, World. You already have notes for Self and World from earlier this week. Add Text-to-Text connections now.'"},
-        {"type": "instruction", "step": 4, "text": "'Great readers use ALL THREE types of connections. Together, they create a WEB of understanding. The more connections you make, the deeper you understand the story.'"},
-        {"type": "activity", "prompt": "Complete your three-column connection chart with at least 2 entries in each column (6 total). For each connection, include: what happens in the book, what it connects to, and WHY. Then write a reflection paragraph: 'Making connections helps me understand this book because...'", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "'Look at your connection chart — you have built a web of meaning around this one story! It connects to YOUR life, to other STORIES, and to the WORLD. This is what it means to be a deep, thoughtful reader.'", "mastery_check": "Can the child make at least 2 meaningful connections of each type (6 total) and articulate how connection-making deepens comprehension?"}
+        {
+          "type": "title",
+          "heading": "The Connection Web",
+          "subheading": "Text-to-Self, Text-to-Text, Text-to-World",
+          "image_url": "https://images.pexels.com/photos/5212350/pexels-photo-5212350.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Novel study book",
+            "Large paper for chart",
+            "Pencil",
+            "Previous connection notes",
+            "Books-read list"
+          ],
+          "setup_instructions": "Prepare a large three-column chart on poster paper or in the reading journal. Have the child's previous text-to-self and text-to-world connections available for reference."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'You have made text-to-self connections and text-to-world connections. Today we add the third type: TEXT-TO-TEXT. This is when our novel reminds you of ANOTHER book, story, or movie.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Think about other books we have read this year. Does our novel remind you of any of them? Maybe two characters face similar challenges, or two stories have the same theme.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Now let us put all three types together on one chart. Three columns: Self, Text, World. You already have notes for Self and World from earlier this week. Add Text-to-Text connections now.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Great readers use ALL THREE types of connections. Together, they create a WEB of understanding. The more connections you make, the deeper you understand the story.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete your three-column connection chart with at least 2 entries in each column (6 total). For each connection, include: what happens in the book, what it connects to, and WHY. Then write a reflection paragraph: 'Making connections helps me understand this book because...'",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Look at your connection chart — you have built a web of meaning around this one story! It connects to YOUR life, to other STORIES, and to the WORLD. This is what it means to be a deep, thoughtful reader.'",
+          "mastery_check": "Can the child make at least 2 meaningful connections of each type (6 total) and articulate how connection-making deepens comprehension?"
+        }
       ]
     },
     "parent_notes": "The three types of connections form a comprehensive framework for active reading. Text-to-self is typically easiest (it is personal), text-to-world develops next (it requires knowledge), and text-to-text is often the most challenging (it requires memory of other reading and the ability to see patterns across stories). Do not worry if text-to-text connections seem surface-level at first ('both books have a dog'). With practice, children move toward thematic connections ('both books are about overcoming fear'). The reflection paragraph is important — metacognition (thinking about thinking) is a hallmark of mature learners. When your child can articulate HOW connections help them understand, they have internalized the strategy and will use it independently. Display the connection chart as a record of sophisticated literary analysis.",
@@ -458,17 +1182,62 @@
     "instructions": "1. 'You know the algorithm. Now let us use it to solve REAL problems!'\n2. Present: 'A school orders 24 boxes of pencils. Each box has 144 pencils. How many pencils total?'\n3. Model: Identify the numbers, the operation, estimate first (25 x 150 = 3,750), then solve (144 x 24 = 3,456).\n4. Present: 'A farmer plants 312 seeds in each row. She plants 15 rows. How many seeds total?'\n5. Discuss interpreting answers: 'Does the answer make sense? Does the unit make sense? (seeds, not rows)'\n6. Student solves 4 word problems independently, estimating before calculating each.\n7. Extension: student writes their own multiplication word problem and solves it.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Word problem cards or worksheet", "Graph paper for computation", "Pencil and eraser", "Whiteboard for modeling", "Calculator for verification"],
+    "materials_needed": [
+      "Word problem cards or worksheet",
+      "Graph paper for computation",
+      "Pencil and eraser",
+      "Whiteboard for modeling",
+      "Calculator for verification"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Multiplication in Real Life", "subheading": "Solving Word Problems"},
-        {"type": "materials", "items": ["Word problem cards", "Graph paper", "Pencil and eraser", "Whiteboard", "Calculator"], "setup_instructions": "Prepare 6 word problems on cards with real-world contexts: shopping, farming, building, cooking, travel, school. Include problems with different number sizes."},
-        {"type": "instruction", "step": 1, "text": "'Multiplication is not just for math class — people use it every day! Today you solve REAL problems that require big multiplication.'"},
-        {"type": "instruction", "step": 2, "text": "'Step 1: READ the problem carefully. Step 2: IDENTIFY the numbers and what you are finding. Step 3: ESTIMATE first. Step 4: SOLVE with the algorithm. Step 5: CHECK — does the answer make sense?'"},
-        {"type": "instruction", "step": 3, "text": "'Problem: A school orders 24 boxes of pencils with 144 pencils per box. How many pencils total? The numbers are 144 and 24. We multiply. Estimate: 150 x 25 = 3,750. Solve: 144 x 24 = 3,456. That is close to our estimate!'"},
-        {"type": "instruction", "step": 4, "text": "'Always check: does the UNIT make sense? We multiplied pencils per box TIMES boxes, and got total pencils. Yes! If the answer were in boxes, something would be wrong.'"},
-        {"type": "activity", "prompt": "Solve these word problems. For each: estimate first, solve, then check reasonableness. (1) A baker makes 175 cookies per batch and bakes 12 batches for a fair. How many cookies? (2) A road is 248 miles long. A cyclist rides it 14 times in a year. How many miles? (3) A theater has 326 seats. It is full for 21 shows. How many total tickets sold? (4) Write your OWN word problem and solve it.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "'Multiplication helps us answer real questions: How many total? How far altogether? How much does it cost? The algorithm is the tool, but understanding what the problem is asking is the real skill.'", "mastery_check": "Can the child correctly interpret word problems, set up multiplication, estimate, and solve with at least 3 of 4 correct?"}
+        {
+          "type": "title",
+          "heading": "Multiplication in Real Life",
+          "subheading": "Solving Word Problems",
+          "image_url": "https://images.pexels.com/photos/8612931/pexels-photo-8612931.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Word problem cards",
+            "Graph paper",
+            "Pencil and eraser",
+            "Whiteboard",
+            "Calculator"
+          ],
+          "setup_instructions": "Prepare 6 word problems on cards with real-world contexts: shopping, farming, building, cooking, travel, school. Include problems with different number sizes."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Multiplication is not just for math class — people use it every day! Today you solve REAL problems that require big multiplication.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Step 1: READ the problem carefully. Step 2: IDENTIFY the numbers and what you are finding. Step 3: ESTIMATE first. Step 4: SOLVE with the algorithm. Step 5: CHECK — does the answer make sense?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Problem: A school orders 24 boxes of pencils with 144 pencils per box. How many pencils total? The numbers are 144 and 24. We multiply. Estimate: 150 x 25 = 3,750. Solve: 144 x 24 = 3,456. That is close to our estimate!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Always check: does the UNIT make sense? We multiplied pencils per box TIMES boxes, and got total pencils. Yes! If the answer were in boxes, something would be wrong.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these word problems. For each: estimate first, solve, then check reasonableness. (1) A baker makes 175 cookies per batch and bakes 12 batches for a fair. How many cookies? (2) A road is 248 miles long. A cyclist rides it 14 times in a year. How many miles? (3) A theater has 326 seats. It is full for 21 shows. How many total tickets sold? (4) Write your OWN word problem and solve it.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Multiplication helps us answer real questions: How many total? How far altogether? How much does it cost? The algorithm is the tool, but understanding what the problem is asking is the real skill.'",
+          "mastery_check": "Can the child correctly interpret word problems, set up multiplication, estimate, and solve with at least 3 of 4 correct?"
+        }
       ]
     },
     "parent_notes": "Word problems are where mathematical skill meets real-world understanding. Many children who can execute the algorithm perfectly struggle with word problems because they require reading comprehension, identification of the operation, and interpretation of the answer. The five-step process (read, identify, estimate, solve, check) provides a reliable framework. If your child struggles with step 2 (identifying what to do), ask: 'Are we combining equal groups? That is multiplication. Are we splitting into groups? That is division.' The extension of writing their own word problem is powerful — creating a problem requires deeper understanding than solving one. Encourage creative contexts: sports statistics, cooking quantities, building measurements, travel distances.",
@@ -486,17 +1255,64 @@
     "instructions": "1. Review: 'Monday we explored levers and inclined planes. Today: the other four simple machines!'\n2. Wheel and axle: demonstrate with a doorknob or screwdriver. 'The wheel (handle) turns a small axle with less effort.'\n3. Pulley: set up a simple pulley with a spool and string. Compare lifting a weight straight up vs. through the pulley.\n4. Wedge: examine a knife, axe, or doorstop. 'A wedge is two inclined planes back to back. It splits things apart.'\n5. Screw: examine a screw and a jar lid. 'A screw is an inclined plane wrapped around a cylinder. It converts turning into linear motion.'\n6. Scavenger hunt: find examples of all 6 simple machines in your home.\n7. Complete a simple machines reference chart.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Doorknob or screwdriver (wheel and axle)", "Spool and string for pulley", "Small weight or bag of coins", "Knife or wedge-shaped doorstop", "Screws and jar with lid", "Recording chart for all 6 machines"],
+    "materials_needed": [
+      "Doorknob or screwdriver (wheel and axle)",
+      "Spool and string for pulley",
+      "Small weight or bag of coins",
+      "Knife or wedge-shaped doorstop",
+      "Screws and jar with lid",
+      "Recording chart for all 6 machines"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Four More Simple Machines", "subheading": "Wheel & Axle, Pulley, Wedge, Screw"},
-        {"type": "materials", "items": ["Doorknob or screwdriver", "Spool and string", "Small weight", "Knife or doorstop", "Screws and jar lid", "Recording chart"], "setup_instructions": "Set up four stations, one for each machine. At each station, place the object and a card explaining how it works. Prepare a recording chart with columns: Machine, How It Works, Example, and Drawing."},
-        {"type": "instruction", "step": 1, "text": "'You know levers and inclined planes. Now meet the rest of the family! WHEEL AND AXLE: try turning a doorknob. The big wheel (the knob) makes it easy to turn the small axle (the shaft). Less force!'"},
-        {"type": "instruction", "step": 2, "text": "'PULLEY: a wheel with a groove that a rope runs through. Try lifting this weight straight up — hard! Now thread the string over the spool and pull down — easier! A pulley changes the DIRECTION of the force.'"},
-        {"type": "instruction", "step": 3, "text": "'WEDGE: look at this knife or doorstop. It is two inclined planes stuck together. When you push the thin end into something, the wide part forces it apart. Axes, chisels, and your front teeth are all wedges!'"},
-        {"type": "instruction", "step": 4, "text": "'SCREW: look carefully at a screw's threads. They are an inclined plane WRAPPED around a cylinder! When you turn a screw, it moves slowly into wood — trading rotational motion for powerful linear force. Jar lids work the same way!'"},
-        {"type": "activity", "prompt": "Part 1: Complete the simple machines chart for all 6 machines (lever, inclined plane, wheel & axle, pulley, wedge, screw). For each, write how it works, draw it, and list 2 real-world examples. Part 2: Scavenger hunt! Find at least 10 simple machines in your home and list them with their type.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "'You have now studied ALL SIX simple machines! They are everywhere — in your kitchen, your toolbox, your playground, even your body. Most complex machines are just combinations of these six simple ones working together.'", "mastery_check": "Can the child identify all 6 simple machines, explain how each works, and find real-world examples of each in their environment?"}
+        {
+          "type": "title",
+          "heading": "Four More Simple Machines",
+          "subheading": "Wheel & Axle, Pulley, Wedge, Screw",
+          "image_url": "https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Doorknob or screwdriver",
+            "Spool and string",
+            "Small weight",
+            "Knife or doorstop",
+            "Screws and jar lid",
+            "Recording chart"
+          ],
+          "setup_instructions": "Set up four stations, one for each machine. At each station, place the object and a card explaining how it works. Prepare a recording chart with columns: Machine, How It Works, Example, and Drawing."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'You know levers and inclined planes. Now meet the rest of the family! WHEEL AND AXLE: try turning a doorknob. The big wheel (the knob) makes it easy to turn the small axle (the shaft). Less force!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'PULLEY: a wheel with a groove that a rope runs through. Try lifting this weight straight up — hard! Now thread the string over the spool and pull down — easier! A pulley changes the DIRECTION of the force.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'WEDGE: look at this knife or doorstop. It is two inclined planes stuck together. When you push the thin end into something, the wide part forces it apart. Axes, chisels, and your front teeth are all wedges!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'SCREW: look carefully at a screw's threads. They are an inclined plane WRAPPED around a cylinder! When you turn a screw, it moves slowly into wood — trading rotational motion for powerful linear force. Jar lids work the same way!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Part 1: Complete the simple machines chart for all 6 machines (lever, inclined plane, wheel & axle, pulley, wedge, screw). For each, write how it works, draw it, and list 2 real-world examples. Part 2: Scavenger hunt! Find at least 10 simple machines in your home and list them with their type.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You have now studied ALL SIX simple machines! They are everywhere — in your kitchen, your toolbox, your playground, even your body. Most complex machines are just combinations of these six simple ones working together.'",
+          "mastery_check": "Can the child identify all 6 simple machines, explain how each works, and find real-world examples of each in their environment?"
+        }
       ]
     },
     "parent_notes": "The six simple machines are a cornerstone of elementary physics education. After this lesson, your child should be able to look at ANY tool or machine and identify which simple machines it contains. A bicycle is a wonderful example: wheel and axle (wheels, pedals), lever (brake handles), pulley (chain and gears), and screw (bolts holding it together). The scavenger hunt is the most valuable part — finding simple machines in the real world proves that physics is not abstract but everywhere. Common finds: scissors (lever + wedge), wheelbarrow (lever + wheel and axle), blinds cord (pulley), light bulb (screw), ramp to a building (inclined plane). Take photos of their finds for the science journal or portfolio. Children who see physics in everyday objects develop a fundamentally different relationship with the physical world.",
@@ -514,17 +1330,62 @@
     "instructions": "1. 'You know all 6 simple machines. But most real tools are COMPOUND machines — combinations of simple machines working together!'\n2. Analyze scissors: lever (the handles pivot) + wedge (the blades cut). Two simple machines in one tool!\n3. Analyze a wheelbarrow: lever (the handles) + wheel and axle (the wheel). The lever reduces effort, the wheel reduces friction.\n4. Analyze a bicycle: wheel and axle (wheels), lever (brake handles, pedals), pulley (chain system), screw (bolts).\n5. Provide 3-4 other objects for analysis: can opener, stapler, fishing rod with reel.\n6. Design challenge: student designs a compound machine that solves a problem, labeling each simple machine within it.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Scissors, wheelbarrow diagram, bicycle diagram", "Analysis worksheet", "Drawing paper for design challenge", "Pencil and colored pencils", "Ruler"],
+    "materials_needed": [
+      "Scissors, wheelbarrow diagram, bicycle diagram",
+      "Analysis worksheet",
+      "Drawing paper for design challenge",
+      "Pencil and colored pencils",
+      "Ruler"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Compound Machines", "subheading": "Simple Machines Working Together"},
-        {"type": "materials", "items": ["Real objects or diagrams of compound machines", "Analysis worksheet", "Drawing paper", "Pencil and colored pencils", "Ruler"], "setup_instructions": "Gather real objects if possible: scissors, can opener, stapler. Otherwise, print clear diagrams. Prepare an analysis worksheet with columns: Object, Simple Machines Inside, How They Work Together."},
-        {"type": "instruction", "step": 1, "text": "'Almost every machine you use is a COMPOUND machine — two or more simple machines combined. Today you become a machine detective, taking apart machines to find the simple machines hiding inside!'"},
-        {"type": "instruction", "step": 2, "text": "'Look at scissors. The handles are a LEVER — they pivot around a fulcrum (the screw in the middle). The blades are WEDGES — they push material apart. Lever + wedge = scissors!'"},
-        {"type": "instruction", "step": 3, "text": "'A wheelbarrow combines a LEVER (the long handles reduce effort) with a WHEEL AND AXLE (the wheel at the front reduces friction). Together, they let you move heavy loads easily!'"},
-        {"type": "instruction", "step": 4, "text": "'A bicycle has FOUR simple machines: wheel and axle (the wheels), lever (brake handles and pedals), pulley (the chain and gear system), and screw (the bolts holding it together). Complex machines are just simple machines cooperating!'"},
-        {"type": "activity", "prompt": "Part 1: Analyze 3 compound machines (can opener, stapler, and one of your choice). For each, identify every simple machine inside and explain how they work together. Part 2: DESIGN CHALLENGE — invent a compound machine that solves a problem. Draw it, label each simple machine, and explain what it does.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "'Every machine humans have ever built — from ancient catapults to modern robots — is made of combinations of just SIX simple machines. Understanding these six building blocks means you understand the foundation of ALL engineering!'", "mastery_check": "Can the child analyze a compound machine by identifying its component simple machines and design an original compound machine with at least 3 simple machines?"}
+        {
+          "type": "title",
+          "heading": "Compound Machines",
+          "subheading": "Simple Machines Working Together",
+          "image_url": "https://images.pexels.com/photos/31864433/pexels-photo-31864433.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Real objects or diagrams of compound machines",
+            "Analysis worksheet",
+            "Drawing paper",
+            "Pencil and colored pencils",
+            "Ruler"
+          ],
+          "setup_instructions": "Gather real objects if possible: scissors, can opener, stapler. Otherwise, print clear diagrams. Prepare an analysis worksheet with columns: Object, Simple Machines Inside, How They Work Together."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Almost every machine you use is a COMPOUND machine — two or more simple machines combined. Today you become a machine detective, taking apart machines to find the simple machines hiding inside!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Look at scissors. The handles are a LEVER — they pivot around a fulcrum (the screw in the middle). The blades are WEDGES — they push material apart. Lever + wedge = scissors!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'A wheelbarrow combines a LEVER (the long handles reduce effort) with a WHEEL AND AXLE (the wheel at the front reduces friction). Together, they let you move heavy loads easily!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'A bicycle has FOUR simple machines: wheel and axle (the wheels), lever (brake handles and pedals), pulley (the chain and gear system), and screw (the bolts holding it together). Complex machines are just simple machines cooperating!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Part 1: Analyze 3 compound machines (can opener, stapler, and one of your choice). For each, identify every simple machine inside and explain how they work together. Part 2: DESIGN CHALLENGE — invent a compound machine that solves a problem. Draw it, label each simple machine, and explain what it does.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Every machine humans have ever built — from ancient catapults to modern robots — is made of combinations of just SIX simple machines. Understanding these six building blocks means you understand the foundation of ALL engineering!'",
+          "mastery_check": "Can the child analyze a compound machine by identifying its component simple machines and design an original compound machine with at least 3 simple machines?"
+        }
       ]
     },
     "parent_notes": "This lesson bridges physics and engineering design. The analysis portion develops analytical thinking — breaking a complex object into simpler components. The design challenge develops creative thinking — combining components to solve a problem. Both are essential STEM skills. For the design challenge, there are no wrong answers as long as the child correctly identifies and uses simple machines. A 'breakfast maker' with a lever to crack eggs, a wedge to cut bread, and a pulley to lower toast is just as valid as a 'garden helper' with a wheel and axle to carry tools, an inclined plane to load them, and a lever to dig. Celebrate creativity and correct identification of simple machines equally. If your child is enthusiastic, build a simple prototype from household materials!",
@@ -542,17 +1403,68 @@
     "instructions": "1. 'Rube Goldberg was an artist and engineer who drew HILARIOUS cartoon machines that did simple tasks in the most complicated ways possible!'\n2. Show examples of Rube Goldberg cartoons (available online or in books).\n3. 'His machines used simple machines — levers, ramps, pulleys — connected in a chain reaction. One thing triggers the next!'\n4. Design phase: student plans a chain-reaction machine with at least 4 steps to accomplish a simple task (ring a bell, pop a balloon, turn a page).\n5. Build phase: using dominoes, books, ramps, marbles, cups, and string.\n6. Test, adjust, and test again! Engineering requires iteration.\n7. Document with drawings and/or photos.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Examples of Rube Goldberg cartoons", "Dominoes", "Marbles", "Books and cardboard for ramps", "String", "Cups", "Small ball", "Drawing paper for design", "Camera for documentation"],
+    "materials_needed": [
+      "Examples of Rube Goldberg cartoons",
+      "Dominoes",
+      "Marbles",
+      "Books and cardboard for ramps",
+      "String",
+      "Cups",
+      "Small ball",
+      "Drawing paper for design",
+      "Camera for documentation"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Rube Goldberg Machines", "subheading": "The Art of Chain Reactions"},
-        {"type": "materials", "items": ["Rube Goldberg cartoon examples", "Dominoes", "Marbles", "Books and cardboard", "String and cups", "Drawing paper", "Camera"], "setup_instructions": "Gather household materials for building: dominoes, marbles, cardboard tubes, books as ramps, cups, string, small balls. Print or display 2-3 Rube Goldberg cartoons. Clear a large floor or table space for building."},
-        {"type": "instruction", "step": 1, "text": "'Rube Goldberg was a cartoonist and engineer who drew the most wonderfully ridiculous machines. Imagine: to turn on a light, a ball rolls down a ramp, hits a lever, which tips a cup of water, which fills a bucket, which pulls a string that flips the switch! Absurdly complicated — and genius!'"},
-        {"type": "instruction", "step": 2, "text": "'His machines use simple machines in a CHAIN REACTION. Each step triggers the next. Let us look at some examples and identify the simple machines: inclined planes (ramps), levers (seesaws), pulleys (strings over wheels)...'"},
-        {"type": "instruction", "step": 3, "text": "'Now YOU become a Rube Goldberg engineer! First, choose your GOAL — something simple like ringing a bell or knocking down a cup. Then DESIGN at least 4 steps that lead to that goal. Draw your design first!'"},
-        {"type": "instruction", "step": 4, "text": "'Engineering secret: your first attempt will NOT work perfectly. That is normal! Real engineers test, adjust, and try again. Each failure teaches you something. Adjust and iterate!'"},
-        {"type": "activity", "prompt": "Phase 1: Design your machine on paper — draw each step and label the simple machines used. Phase 2: BUILD it! Create at least 4 connected steps. Phase 3: TEST and adjust until it works (or mostly works — even professional engineers sometimes need more iterations!). Document with photos or drawings.", "duration_minutes": 28},
-        {"type": "wrap_up", "text": "'You just combined art, engineering, physics, and creativity into one project! Rube Goldberg machines teach us that there is beauty in complexity and joy in making things work. Keep inventing!'", "mastery_check": "Did the child design a machine with at least 4 connected steps, identify simple machines within it, and iterate on the build through testing?"}
+        {
+          "type": "title",
+          "heading": "Rube Goldberg Machines",
+          "subheading": "The Art of Chain Reactions",
+          "image_url": "https://images.pexels.com/photos/10474187/pexels-photo-10474187.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Rube Goldberg cartoon examples",
+            "Dominoes",
+            "Marbles",
+            "Books and cardboard",
+            "String and cups",
+            "Drawing paper",
+            "Camera"
+          ],
+          "setup_instructions": "Gather household materials for building: dominoes, marbles, cardboard tubes, books as ramps, cups, string, small balls. Print or display 2-3 Rube Goldberg cartoons. Clear a large floor or table space for building."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Rube Goldberg was a cartoonist and engineer who drew the most wonderfully ridiculous machines. Imagine: to turn on a light, a ball rolls down a ramp, hits a lever, which tips a cup of water, which fills a bucket, which pulls a string that flips the switch! Absurdly complicated — and genius!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'His machines use simple machines in a CHAIN REACTION. Each step triggers the next. Let us look at some examples and identify the simple machines: inclined planes (ramps), levers (seesaws), pulleys (strings over wheels)...'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Now YOU become a Rube Goldberg engineer! First, choose your GOAL — something simple like ringing a bell or knocking down a cup. Then DESIGN at least 4 steps that lead to that goal. Draw your design first!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Engineering secret: your first attempt will NOT work perfectly. That is normal! Real engineers test, adjust, and try again. Each failure teaches you something. Adjust and iterate!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Phase 1: Design your machine on paper — draw each step and label the simple machines used. Phase 2: BUILD it! Create at least 4 connected steps. Phase 3: TEST and adjust until it works (or mostly works — even professional engineers sometimes need more iterations!). Document with photos or drawings.",
+          "duration_minutes": 28
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You just combined art, engineering, physics, and creativity into one project! Rube Goldberg machines teach us that there is beauty in complexity and joy in making things work. Keep inventing!'",
+          "mastery_check": "Did the child design a machine with at least 4 connected steps, identify simple machines within it, and iterate on the build through testing?"
+        }
       ]
     },
     "parent_notes": "Rube Goldberg machines are a perfect intersection of art, engineering, and physics. The design phase exercises creative thinking and planning, while the build phase requires spatial reasoning, fine motor skills, and persistence. Expect the first (and second, and third) attempts to fail — this is the most valuable part! When children troubleshoot a chain reaction, they are doing real engineering: identifying failure points, adjusting variables, and retesting. Resist the urge to fix it for them. Ask questions instead: 'Where does the chain break? What could you change? Does the marble need to go faster? How?' If the machine never fully works, that is FINE — celebrate the process and the learning. Some of the most important engineering lessons come from elegant failures.",
@@ -570,17 +1482,62 @@
     "instructions": "1. 'This week you identified themes, made connections, and analyzed our novel deeply. Today you bring it all together in a reading response essay.'\n2. Review essay structure: Introduction (title, author, brief summary), Body (theme + evidence, connections), Conclusion (your opinion + recommendation).\n3. Model the introduction: 'In the novel [title] by [author], the main character faces [central conflict]. Through this story, the author explores the theme of [theme].'\n4. Body paragraphs: one about theme with evidence, one about a meaningful connection.\n5. Conclusion: 'I would/would not recommend this book because...'\n6. Student drafts the essay.\n7. Peer review or parent review, then revision.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Novel study book", "Reading journal with week's notes", "Essay planning template", "Lined paper for draft", "Pencil and eraser"],
+    "materials_needed": [
+      "Novel study book",
+      "Reading journal with week's notes",
+      "Essay planning template",
+      "Lined paper for draft",
+      "Pencil and eraser"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Reading Response Essay", "subheading": "Bringing It All Together"},
-        {"type": "materials", "items": ["Novel study book", "Reading journal", "Essay planning template", "Lined paper", "Pencil and eraser"], "setup_instructions": "Prepare an essay template with labeled sections: Introduction (3-4 sentences), Body Paragraph 1: Theme (4-5 sentences), Body Paragraph 2: Connection (4-5 sentences), Conclusion (3-4 sentences). Have the child's week of notes available."},
-        {"type": "instruction", "step": 1, "text": "'All week you have been analyzing our novel like a literary scholar. Now you write a READING RESPONSE ESSAY — a formal piece of writing that shares your analysis and opinion.'"},
-        {"type": "instruction", "step": 2, "text": "'Your introduction names the book, the author, gives a brief summary (2-3 sentences — no spoilers!), and states the theme. Example: In [title] by [author], [character] faces [conflict]. Through this story, the author shows us that [theme].'"},
-        {"type": "instruction", "step": 3, "text": "'Body paragraph 1 is about THEME. State the theme, then prove it with evidence from the book. Use phrases like: This is shown when... For example... The author demonstrates this by...'"},
-        {"type": "instruction", "step": 4, "text": "'Body paragraph 2 is about CONNECTIONS. Share your most meaningful connection (self, text, or world). Explain how the connection deepened your understanding. Conclusion: would you recommend this book? Why or why not?'"},
-        {"type": "activity", "prompt": "Write your reading response essay using the template. Include: (1) Introduction with title, author, summary, and theme statement, (2) Theme paragraph with 2+ pieces of evidence, (3) Connection paragraph with explanation, (4) Conclusion with your recommendation. Aim for 15-20 sentences total.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "'You have written a genuine literary analysis essay! You identified themes, supported them with evidence, made meaningful connections, and shared your informed opinion. This is the work of a true reader and writer.'", "mastery_check": "Does the essay include all four components (introduction, theme analysis with evidence, connection, conclusion) and demonstrate coherent organization?"}
+        {
+          "type": "title",
+          "heading": "Reading Response Essay",
+          "subheading": "Bringing It All Together",
+          "image_url": "https://images.pexels.com/photos/3876339/pexels-photo-3876339.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Novel study book",
+            "Reading journal",
+            "Essay planning template",
+            "Lined paper",
+            "Pencil and eraser"
+          ],
+          "setup_instructions": "Prepare an essay template with labeled sections: Introduction (3-4 sentences), Body Paragraph 1: Theme (4-5 sentences), Body Paragraph 2: Connection (4-5 sentences), Conclusion (3-4 sentences). Have the child's week of notes available."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'All week you have been analyzing our novel like a literary scholar. Now you write a READING RESPONSE ESSAY — a formal piece of writing that shares your analysis and opinion.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Your introduction names the book, the author, gives a brief summary (2-3 sentences — no spoilers!), and states the theme. Example: In [title] by [author], [character] faces [conflict]. Through this story, the author shows us that [theme].'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Body paragraph 1 is about THEME. State the theme, then prove it with evidence from the book. Use phrases like: This is shown when... For example... The author demonstrates this by...'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Body paragraph 2 is about CONNECTIONS. Share your most meaningful connection (self, text, or world). Explain how the connection deepened your understanding. Conclusion: would you recommend this book? Why or why not?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your reading response essay using the template. Include: (1) Introduction with title, author, summary, and theme statement, (2) Theme paragraph with 2+ pieces of evidence, (3) Connection paragraph with explanation, (4) Conclusion with your recommendation. Aim for 15-20 sentences total.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You have written a genuine literary analysis essay! You identified themes, supported them with evidence, made meaningful connections, and shared your informed opinion. This is the work of a true reader and writer.'",
+          "mastery_check": "Does the essay include all four components (introduction, theme analysis with evidence, connection, conclusion) and demonstrate coherent organization?"
+        }
       ]
     },
     "parent_notes": "This essay represents a significant milestone in your child's writing development. A multi-paragraph essay with an introduction, body paragraphs organized by topic, textual evidence, and a conclusion is college-preparatory work! In Montessori elementary, children are expected to write extensively about their reading. The key is structure — the template provides scaffolding so the child can focus on content and ideas rather than organization. Do not worry about perfect grammar or spelling in the first draft; those are revision concerns. Read the essay together and celebrate the THINKING — 'I love how you connected the theme to your own experience' matters more than 'you forgot a comma.' This essay belongs in the child's portfolio as evidence of literary analysis skills.",
@@ -598,17 +1555,62 @@
     "instructions": "1. 'You have mastered the 3-digit x 2-digit algorithm. Today: CHALLENGES!'\n2. Pattern discovery: Calculate 111 x 11, 222 x 11, 333 x 11. 'What pattern do you see?'\n3. Another pattern: 99 x 12, 99 x 13, 99 x 14. 'What is happening with 99?'\n4. Multi-step problem: 'A school has 3 grades with 28 students each. Each student needs 12 pencils. How many pencils total?'\n5. Step 1: 3 x 28 = 84 students. Step 2: 84 x 12 = 1,008 pencils.\n6. Student solves 3 multi-step problems independently.\n7. Challenge: find the pattern in 37 x 3, 37 x 6, 37 x 9 (produces 111, 222, 333!).",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Graph paper", "Pencil and eraser", "Pattern recording sheet", "Calculator for verification", "Challenge problem cards"],
+    "materials_needed": [
+      "Graph paper",
+      "Pencil and eraser",
+      "Pattern recording sheet",
+      "Calculator for verification",
+      "Challenge problem cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Multiplication Challenges", "subheading": "Patterns and Multi-Step Problems"},
-        {"type": "materials", "items": ["Graph paper", "Pencil and eraser", "Pattern recording sheet", "Calculator", "Challenge cards"], "setup_instructions": "Prepare challenge problem cards with multi-step word problems. Create a pattern investigation sheet with the number sequences to explore."},
-        {"type": "instruction", "step": 1, "text": "'Today is challenge day! You have the skills — now let us push them further with patterns and multi-step problems.'"},
-        {"type": "instruction", "step": 2, "text": "'Pattern investigation: Calculate 111 x 11. Now 222 x 11. Now 333 x 11. Write the answers in a column. Do you see the pattern? Can you PREDICT what 444 x 11 will be before you calculate?'"},
-        {"type": "instruction", "step": 3, "text": "'Multi-step problems need more than one calculation. Read carefully: A school has 3 grades with 28 students each. Each student needs 12 pencils. What is the FIRST step? Find the total students: 3 x 28 = 84. THEN multiply: 84 x 12 = 1,008 pencils.'"},
-        {"type": "instruction", "step": 4, "text": "'One more pattern for fun: 37 x 3 = 111. What is 37 x 6? What about 37 x 9? Mathematics is FULL of beautiful surprises!'"},
-        {"type": "activity", "prompt": "Part 1: Investigate patterns — calculate each sequence and describe the pattern you find. Part 2: Solve 3 multi-step problems: (1) A bakery makes 156 muffins daily for 22 days, then donates 500. How many remain? (2) A library has 12 shelves with 45 books each in 8 rooms. Total books? (3) Create your own 2-step multiplication problem. Part 3: Bonus — predict 37 x 12 and 37 x 15.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "'Mathematics is full of patterns waiting to be discovered. The more you explore, the more surprises you find. You have gone from learning the multiplication algorithm to solving complex, multi-step problems in just one week. That is real mathematical growth!'", "mastery_check": "Can the child solve multi-step problems requiring two multiplication operations (or multiplication combined with addition/subtraction) and identify at least one multiplication pattern?"}
+        {
+          "type": "title",
+          "heading": "Multiplication Challenges",
+          "subheading": "Patterns and Multi-Step Problems",
+          "image_url": "https://images.pexels.com/photos/6692923/pexels-photo-6692923.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Graph paper",
+            "Pencil and eraser",
+            "Pattern recording sheet",
+            "Calculator",
+            "Challenge cards"
+          ],
+          "setup_instructions": "Prepare challenge problem cards with multi-step word problems. Create a pattern investigation sheet with the number sequences to explore."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today is challenge day! You have the skills — now let us push them further with patterns and multi-step problems.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Pattern investigation: Calculate 111 x 11. Now 222 x 11. Now 333 x 11. Write the answers in a column. Do you see the pattern? Can you PREDICT what 444 x 11 will be before you calculate?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Multi-step problems need more than one calculation. Read carefully: A school has 3 grades with 28 students each. Each student needs 12 pencils. What is the FIRST step? Find the total students: 3 x 28 = 84. THEN multiply: 84 x 12 = 1,008 pencils.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'One more pattern for fun: 37 x 3 = 111. What is 37 x 6? What about 37 x 9? Mathematics is FULL of beautiful surprises!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Part 1: Investigate patterns — calculate each sequence and describe the pattern you find. Part 2: Solve 3 multi-step problems: (1) A bakery makes 156 muffins daily for 22 days, then donates 500. How many remain? (2) A library has 12 shelves with 45 books each in 8 rooms. Total books? (3) Create your own 2-step multiplication problem. Part 3: Bonus — predict 37 x 12 and 37 x 15.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Mathematics is full of patterns waiting to be discovered. The more you explore, the more surprises you find. You have gone from learning the multiplication algorithm to solving complex, multi-step problems in just one week. That is real mathematical growth!'",
+          "mastery_check": "Can the child solve multi-step problems requiring two multiplication operations (or multiplication combined with addition/subtraction) and identify at least one multiplication pattern?"
+        }
       ]
     },
     "parent_notes": "This lesson celebrates mathematical thinking at multiple levels. Pattern discovery develops algebraic thinking — when children predict that 444 x 11 = 4,884 based on the pattern, they are doing informal algebra. The 37 x 3 = 111 pattern (and 37 x 6 = 222, 37 x 9 = 333) is genuinely delightful and connects to number theory. Multi-step problems are closer to real-world mathematics, where solutions rarely require just one operation. The key challenge is identifying WHICH operations to use and in WHAT ORDER. If your child struggles, teach them to underline the question, circle the numbers, and think: 'What do I need to find FIRST?' Celebrate mathematical curiosity — if your child wants to explore more patterns, that enthusiasm is worth more than any algorithm.",
@@ -626,17 +1628,64 @@
     "instructions": "1. 'Millions of immigrants arrived in America through specific PORTS — coastal cities where ships docked. Today we map their journeys.'\n2. Major East Coast port: New York (Ellis Island) — gateway for European immigrants.\n3. West Coast port: San Francisco (Angel Island) — gateway for Asian immigrants, especially Chinese.\n4. Southern ports: New Orleans, Galveston — entry points for some European and Latin American immigrants.\n5. Trace routes on a world map: Ireland to New York, Italy to New York, China to San Francisco, Mexico to Texas.\n6. 'Where immigrants entered often determined where they settled. Many stayed near their port city.'\n7. Student creates a migration route map with at least 4 routes from different countries.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["World map outline", "US map showing port cities", "Colored pencils (different color per route)", "Atlas for reference", "Ruler for drawing routes", "Map key template"],
+    "materials_needed": [
+      "World map outline",
+      "US map showing port cities",
+      "Colored pencils (different color per route)",
+      "Atlas for reference",
+      "Ruler for drawing routes",
+      "Map key template"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Immigration Ports and Routes", "subheading": "Mapping the Journey to America"},
-        {"type": "materials", "items": ["World map outline", "US map with port cities", "Colored pencils", "Atlas", "Ruler", "Map key template"], "setup_instructions": "Print a world map large enough for drawing routes. Mark the major port cities on the US map: New York, San Francisco, New Orleans, Galveston, Boston. Have an atlas available for finding origin countries."},
-        {"type": "instruction", "step": 1, "text": "'Immigrants did not just appear in America — they traveled THOUSANDS of miles across oceans. Today we trace their journeys on a map and discover why geography mattered so much.'"},
-        {"type": "instruction", "step": 2, "text": "'The biggest port was New York City — Ellis Island. From 1892 to 1954, over 12 million immigrants entered through Ellis Island. They came mostly from Europe: Ireland, Italy, Germany, Poland, Russia.'"},
-        {"type": "instruction", "step": 3, "text": "'On the West Coast, Angel Island in San Francisco Bay was the entry point for immigrants from China, Japan, Korea, and other Asian countries. The journey across the Pacific Ocean was even longer than across the Atlantic.'"},
-        {"type": "instruction", "step": 4, "text": "'Geography shaped settlement. Irish immigrants often stayed in Boston and New York. Chinese immigrants built communities in San Francisco. German immigrants settled in the Midwest. Where you arrived influenced where you lived.'"},
-        {"type": "activity", "prompt": "Create a migration route map. Draw at least 4 routes in different colors from: (1) Ireland to New York, (2) Italy to New York, (3) China to San Francisco, (4) Your choice — Germany, Poland, Japan, Mexico, etc. Label each route with the country and port. Add a map key. Write 3 sentences explaining how geography affected where immigrants settled.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "'Every route on your map represents millions of real people making a brave journey across an ocean to start a new life. Geography determined their path, their port of entry, and often where they built their new homes. The map of American communities today still reflects these immigration patterns.'", "mastery_check": "Can the child identify at least 3 major immigration ports, trace accurate routes from origin countries, and explain how geography influenced settlement patterns?"}
+        {
+          "type": "title",
+          "heading": "Immigration Ports and Routes",
+          "subheading": "Mapping the Journey to America",
+          "image_url": "https://images.pexels.com/photos/87651/pexels-photo-87651.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World map outline",
+            "US map with port cities",
+            "Colored pencils",
+            "Atlas",
+            "Ruler",
+            "Map key template"
+          ],
+          "setup_instructions": "Print a world map large enough for drawing routes. Mark the major port cities on the US map: New York, San Francisco, New Orleans, Galveston, Boston. Have an atlas available for finding origin countries."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Immigrants did not just appear in America — they traveled THOUSANDS of miles across oceans. Today we trace their journeys on a map and discover why geography mattered so much.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'The biggest port was New York City — Ellis Island. From 1892 to 1954, over 12 million immigrants entered through Ellis Island. They came mostly from Europe: Ireland, Italy, Germany, Poland, Russia.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'On the West Coast, Angel Island in San Francisco Bay was the entry point for immigrants from China, Japan, Korea, and other Asian countries. The journey across the Pacific Ocean was even longer than across the Atlantic.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Geography shaped settlement. Irish immigrants often stayed in Boston and New York. Chinese immigrants built communities in San Francisco. German immigrants settled in the Midwest. Where you arrived influenced where you lived.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a migration route map. Draw at least 4 routes in different colors from: (1) Ireland to New York, (2) Italy to New York, (3) China to San Francisco, (4) Your choice — Germany, Poland, Japan, Mexico, etc. Label each route with the country and port. Add a map key. Write 3 sentences explaining how geography affected where immigrants settled.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Every route on your map represents millions of real people making a brave journey across an ocean to start a new life. Geography determined their path, their port of entry, and often where they built their new homes. The map of American communities today still reflects these immigration patterns.'",
+          "mastery_check": "Can the child identify at least 3 major immigration ports, trace accurate routes from origin countries, and explain how geography influenced settlement patterns?"
+        }
       ]
     },
     "parent_notes": "This geography lesson makes immigration tangible by showing the physical journeys involved. The distances are staggering — over 3,000 miles from Ireland to New York, over 6,000 miles from China to San Francisco. Help your child understand the scale: 'That is like driving from here to [distant reference point] and then doing it again!' Angel Island is often overlooked in immigration history but is critically important. While Ellis Island processed European immigrants relatively quickly, Angel Island detained many Chinese immigrants for weeks or months under the Chinese Exclusion Act (1882) — America's first immigration restriction law. If your child asks about this disparity, it is an opportunity to discuss how discrimination shaped immigration policy. The connection between port of entry and settlement patterns is visible today in cities like Boston (Irish heritage), San Francisco (Chinatown), Milwaukee (German heritage), and New Orleans (diverse immigrant influences).",
@@ -654,17 +1703,62 @@
     "instructions": "1. 'Immigrants did not just COME to America — they BUILT America. Today we explore their contributions.'\n2. Food: pizza (Italian), hot dogs (German), tacos (Mexican), egg rolls (Chinese), bagels (Jewish/Polish).\n3. Inventions: Alexander Graham Bell (Scottish — telephone), Albert Einstein (German — physics), Nikola Tesla (Serbian — electricity).\n4. Music: jazz (African American/Caribbean), polka (Polish/Czech), mariachi (Mexican).\n5. Traditions: Christmas trees (German), piñatas (Mexican), St. Patrick's Day (Irish).\n6. 'America is a tapestry — each thread from a different culture makes it richer and more beautiful.'\n7. Student researches one immigrant contribution in depth and creates a mini-presentation.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Reference books or internet access", "Poster paper for presentation", "Colored pencils and markers", "Research template", "Photos or illustrations of contributions"],
+    "materials_needed": [
+      "Reference books or internet access",
+      "Poster paper for presentation",
+      "Colored pencils and markers",
+      "Research template",
+      "Photos or illustrations of contributions"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Gifts from Everywhere", "subheading": "How Immigration Shaped America"},
-        {"type": "materials", "items": ["Reference materials", "Poster paper", "Colored pencils and markers", "Research template", "Photos or illustrations"], "setup_instructions": "Prepare a research template with sections: Contribution, Origin Country, How It Came to America, How It Changed American Life. Have reference materials ready on immigrant contributions."},
-        {"type": "instruction", "step": 1, "text": "'Think about your favorite foods, holidays, and music. Many of them came to America with IMMIGRANTS! Today we celebrate the incredible gifts that people from around the world brought to this country.'"},
-        {"type": "instruction", "step": 2, "text": "'FOOD: Pizza came from Italy. Hot dogs from Germany. Tacos from Mexico. Bagels from Jewish communities in Poland. Without immigrants, American food would be VERY boring!'"},
-        {"type": "instruction", "step": 3, "text": "'INVENTIONS: Alexander Graham Bell came from Scotland and invented the telephone. Albert Einstein fled Germany and transformed physics. Immigrants have been behind some of the most important inventions in history.'"},
-        {"type": "instruction", "step": 4, "text": "'MUSIC AND TRADITIONS: Jazz has roots in African and Caribbean musical traditions. Christmas trees came from Germany. St. Patrick's Day celebrates Irish heritage. America's culture is a beautiful TAPESTRY of contributions from everywhere.'"},
-        {"type": "activity", "prompt": "Choose ONE immigrant contribution that interests you most. Research it: Where did it come from? Who brought it? How did it change American life? Create a mini-poster or presentation page with a title, 5+ facts, an illustration, and a conclusion about why this contribution matters.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "'Every day, you eat food, enjoy music, and use inventions that immigrants brought to America. Our culture is not one thing — it is a blend of THOUSANDS of traditions from around the world. That diversity is what makes America unique and vibrant.'", "mastery_check": "Can the child identify at least 5 immigrant contributions to American culture and present an in-depth research piece on one contribution?"}
+        {
+          "type": "title",
+          "heading": "Gifts from Everywhere",
+          "subheading": "How Immigration Shaped America",
+          "image_url": "https://images.pexels.com/photos/2034335/pexels-photo-2034335.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Reference materials",
+            "Poster paper",
+            "Colored pencils and markers",
+            "Research template",
+            "Photos or illustrations"
+          ],
+          "setup_instructions": "Prepare a research template with sections: Contribution, Origin Country, How It Came to America, How It Changed American Life. Have reference materials ready on immigrant contributions."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Think about your favorite foods, holidays, and music. Many of them came to America with IMMIGRANTS! Today we celebrate the incredible gifts that people from around the world brought to this country.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'FOOD: Pizza came from Italy. Hot dogs from Germany. Tacos from Mexico. Bagels from Jewish communities in Poland. Without immigrants, American food would be VERY boring!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'INVENTIONS: Alexander Graham Bell came from Scotland and invented the telephone. Albert Einstein fled Germany and transformed physics. Immigrants have been behind some of the most important inventions in history.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'MUSIC AND TRADITIONS: Jazz has roots in African and Caribbean musical traditions. Christmas trees came from Germany. St. Patrick's Day celebrates Irish heritage. America's culture is a beautiful TAPESTRY of contributions from everywhere.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose ONE immigrant contribution that interests you most. Research it: Where did it come from? Who brought it? How did it change American life? Create a mini-poster or presentation page with a title, 5+ facts, an illustration, and a conclusion about why this contribution matters.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Every day, you eat food, enjoy music, and use inventions that immigrants brought to America. Our culture is not one thing — it is a blend of THOUSANDS of traditions from around the world. That diversity is what makes America unique and vibrant.'",
+          "mastery_check": "Can the child identify at least 5 immigrant contributions to American culture and present an in-depth research piece on one contribution?"
+        }
       ]
     },
     "parent_notes": "This lesson celebrates the enrichment that immigration brings to a society. It counters fear-based narratives with factual, positive examples that children can personally relate to (they all have favorite foods and holiday traditions with immigrant origins!). The research component develops academic skills while the content builds cultural appreciation. If your family has immigrant heritage, this is a wonderful opportunity to research and share your own family's contributions. Even families who have been in America for generations can trace cultural practices to immigrant ancestors. The 'tapestry' metaphor is intentional — unlike 'melting pot' (which implies losing individual identity), a tapestry celebrates distinct threads that together create something beautiful. This aligns with the Montessori vision of cosmic education: every person and culture contributes to the whole of human civilization.",
@@ -682,17 +1776,62 @@
     "instructions": "1. Before reading: 'The Statue of Liberty stands in New York Harbor — right where millions of immigrants first saw America. This book tells us something surprising about her.'\n2. Read the book aloud, enjoying Eggers's humorous style and Shea Harris's illustrations.\n3. Build suspense: 'What is special about her RIGHT FOOT?'\n4. The reveal: her foot is mid-stride. She is WALKING. She is not standing still — she is moving FORWARD, toward the people arriving.\n5. Discuss: 'Why does it matter that Liberty is walking? What does it symbolize?'\n6. Connect to the week's themes: abolition (Liberty's broken chain at her feet), immigration (she greeted arrivals), suffrage (women's freedom).\n7. Student writes a reflection connecting the Statue of Liberty to this week's lessons.",
     "duration_minutes": 45,
     "lesson_type": "read_aloud",
-    "materials_needed": ["Her Right Foot by Dave Eggers", "Photo of the Statue of Liberty", "Writing paper for reflection", "Pencil", "This week's notes and maps"],
+    "materials_needed": [
+      "Her Right Foot by Dave Eggers",
+      "Photo of the Statue of Liberty",
+      "Writing paper for reflection",
+      "Pencil",
+      "This week's notes and maps"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Her Right Foot", "subheading": "The Statue of Liberty's Secret"},
-        {"type": "materials", "items": ["Her Right Foot book", "Statue of Liberty photo", "Writing paper", "Pencil", "Week's notes"], "setup_instructions": "Have the book ready. Display a full photo of the Statue of Liberty. Gather the child's work from this week — timeline, maps, essays — for the synthesis reflection."},
-        {"type": "instruction", "step": 1, "text": "'All week we have studied abolition, suffrage, and immigration — all movements about FREEDOM. Today's book is about the ultimate American symbol of freedom: the Statue of Liberty. But it has a secret...'"},
-        {"type": "instruction", "step": 2, "text": "Read the book aloud, pausing for humor and building toward the reveal. 'Dave Eggers describes every part of Lady Liberty — her crown, her torch, her tablet. But what about her RIGHT FOOT?'"},
-        {"type": "instruction", "step": 3, "text": "'The reveal: her right foot is MID-STRIDE. She is WALKING. She is not standing still, waiting for freedom to come to her. She is MOVING FORWARD, toward the people arriving on ships. Liberty does not stand still — liberty moves!'"},
-        {"type": "instruction", "step": 4, "text": "'Now look at her feet more carefully — there are BROKEN CHAINS. She has broken free. She represents abolition, freedom, and welcome. She faces the ocean, greeting immigrants. Everything we studied this week comes together in this one statue.'"},
-        {"type": "activity", "prompt": "Write a week-in-review reflection (8-10 sentences) connecting the Statue of Liberty to this week's lessons. How does she connect to abolition (broken chains), suffrage (women's freedom), and immigration (welcoming newcomers)? What does it mean that she is walking, not standing still?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "'The Statue of Liberty is not just a tourist attraction. She is a symbol of everything we studied this week: the fight against slavery, the fight for equal rights, and the welcome of immigrants from every land. And she is WALKING — because freedom is not something you stand still for. It is something you MOVE toward, every day.'", "mastery_check": "Can the child connect the Statue of Liberty's symbolism to abolition, suffrage, and immigration, and articulate what her forward stride represents?"}
+        {
+          "type": "title",
+          "heading": "Her Right Foot",
+          "subheading": "The Statue of Liberty's Secret",
+          "image_url": "https://images.pexels.com/photos/5951842/pexels-photo-5951842.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Her Right Foot book",
+            "Statue of Liberty photo",
+            "Writing paper",
+            "Pencil",
+            "Week's notes"
+          ],
+          "setup_instructions": "Have the book ready. Display a full photo of the Statue of Liberty. Gather the child's work from this week — timeline, maps, essays — for the synthesis reflection."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'All week we have studied abolition, suffrage, and immigration — all movements about FREEDOM. Today's book is about the ultimate American symbol of freedom: the Statue of Liberty. But it has a secret...'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the book aloud, pausing for humor and building toward the reveal. 'Dave Eggers describes every part of Lady Liberty — her crown, her torch, her tablet. But what about her RIGHT FOOT?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'The reveal: her right foot is MID-STRIDE. She is WALKING. She is not standing still, waiting for freedom to come to her. She is MOVING FORWARD, toward the people arriving on ships. Liberty does not stand still — liberty moves!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Now look at her feet more carefully — there are BROKEN CHAINS. She has broken free. She represents abolition, freedom, and welcome. She faces the ocean, greeting immigrants. Everything we studied this week comes together in this one statue.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write a week-in-review reflection (8-10 sentences) connecting the Statue of Liberty to this week's lessons. How does she connect to abolition (broken chains), suffrage (women's freedom), and immigration (welcoming newcomers)? What does it mean that she is walking, not standing still?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "'The Statue of Liberty is not just a tourist attraction. She is a symbol of everything we studied this week: the fight against slavery, the fight for equal rights, and the welcome of immigrants from every land. And she is WALKING — because freedom is not something you stand still for. It is something you MOVE toward, every day.'",
+          "mastery_check": "Can the child connect the Statue of Liberty's symbolism to abolition, suffrage, and immigration, and articulate what her forward stride represents?"
+        }
       ]
     },
     "parent_notes": "Her Right Foot by Dave Eggers is a masterful read-aloud that uses humor and surprise to deliver a profound message. The detail about the broken chains at Liberty's feet is often missed by adult visitors to the statue — Bartholdi, the sculptor, included them as a deliberate symbol of abolition. The mid-stride foot is real and symbolically powerful: liberty is not passive, it is active and forward-moving. This read-aloud serves as a perfect synthesis for the week, tying together abolition (broken chains), immigration (the statue greeted millions of arrivals), and the ongoing nature of the fight for freedom (she is still walking). If your child is moved by this, consider watching documentary footage of immigrants arriving at Ellis Island and seeing the statue for the first time. The emotional resonance of freedom as an ongoing journey — not a destination — is a concept that will deepen over your child's lifetime.",

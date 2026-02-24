@@ -10,17 +10,62 @@
     "instructions": "1. 'Your report is nearly complete! Today we add two important final pieces: the bibliography and the author's note.'\n2. Review the bibliography from last week's draft. Refine the format: Author Last Name, First Name. Title of Book. Publisher, Year.\n3. For any websites used: Website Name. 'Article Title.' URL.\n4. Arrange sources in alphabetical order by author's last name.\n5. Write an author's note: 'This is where YOU speak directly to the reader. Why did you choose this topic? What surprised you during your research? What was the hardest part? What do you hope readers learn?'\n6. Model with an example author's note.\n7. Child writes their own author's note (aim for 1 paragraph, about 5-8 sentences).\n8. Add both pages to the report.\n9. Final review: read the complete report from cover to cover.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Capstone report in progress", "Bibliography format reference card", "Lined paper for author's note", "Source materials for verifying citations", "Pencil with eraser"],
+    "materials_needed": [
+      "Capstone report in progress",
+      "Bibliography format reference card",
+      "Lined paper for author's note",
+      "Source materials for verifying citations",
+      "Pencil with eraser"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Finishing Touches", "subheading": "Bibliography and Author's Note"},
-        {"type": "materials", "items": ["Report in progress", "Bibliography format card", "Lined paper", "Source materials", "Pencil"], "setup_instructions": "Prepare a bibliography format reference card showing the correct format for books and websites. Gather all source materials so the child can verify author names, titles, and publication years."},
-        {"type": "instruction", "step": 1, "text": "Explain the bibliography's importance: 'Every serious researcher gives credit to the people whose work helped them. A bibliography lists all the books, articles, and sources you used. It shows you are honest and thorough.'"},
-        {"type": "instruction", "step": 2, "text": "Format the entries: 'For each book: Author's last name, first name. Title of the book (underlined or in italics). Publisher name, year. Arrange all entries in alphabetical order by the author's last name.'"},
-        {"type": "instruction", "step": 3, "text": "Introduce the author's note: 'Many books include a note from the author explaining why they wrote it. YOUR author's note tells the reader: Why did you choose this topic? What surprised you? What was challenging? What do you hope people learn?'"},
-        {"type": "instruction", "step": 4, "text": "Model it: 'Here is an example: I chose to write about Ancient Egypt because I was fascinated by the pyramids. I was surprised to learn that the workers were not slaves but skilled craftsmen. The hardest part was understanding the hieroglyphic system. I hope readers discover how amazing Egyptian civilization was.'"},
-        {"type": "activity", "prompt": "Create your polished bibliography with at least 3 sources in proper format, arranged alphabetically. Then write your author's note (5-8 sentences) explaining your personal connection to the topic, surprises from your research, challenges you faced, and what you hope readers will learn.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Read the complete report from start to finish: 'From the title page to the bibliography — this is a complete, professional research report. You should feel enormously proud. You are a published author and researcher!'", "mastery_check": "Can the child format a bibliography with proper citations, write a reflective author's note, and assemble a complete multi-component research report?"}
+        {
+          "type": "title",
+          "heading": "Finishing Touches",
+          "subheading": "Bibliography and Author's Note",
+          "image_url": "https://images.pexels.com/photos/1337387/pexels-photo-1337387.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Report in progress",
+            "Bibliography format card",
+            "Lined paper",
+            "Source materials",
+            "Pencil"
+          ],
+          "setup_instructions": "Prepare a bibliography format reference card showing the correct format for books and websites. Gather all source materials so the child can verify author names, titles, and publication years."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Explain the bibliography's importance: 'Every serious researcher gives credit to the people whose work helped them. A bibliography lists all the books, articles, and sources you used. It shows you are honest and thorough.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Format the entries: 'For each book: Author's last name, first name. Title of the book (underlined or in italics). Publisher name, year. Arrange all entries in alphabetical order by the author's last name.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Introduce the author's note: 'Many books include a note from the author explaining why they wrote it. YOUR author's note tells the reader: Why did you choose this topic? What surprised you? What was challenging? What do you hope people learn?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Model it: 'Here is an example: I chose to write about Ancient Egypt because I was fascinated by the pyramids. I was surprised to learn that the workers were not slaves but skilled craftsmen. The hardest part was understanding the hieroglyphic system. I hope readers discover how amazing Egyptian civilization was.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your polished bibliography with at least 3 sources in proper format, arranged alphabetically. Then write your author's note (5-8 sentences) explaining your personal connection to the topic, surprises from your research, challenges you faced, and what you hope readers will learn.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Read the complete report from start to finish: 'From the title page to the bibliography — this is a complete, professional research report. You should feel enormously proud. You are a published author and researcher!'",
+          "mastery_check": "Can the child format a bibliography with proper citations, write a reflective author's note, and assemble a complete multi-component research report?"
+        }
       ]
     },
     "parent_notes": "The bibliography teaches academic honesty at its most fundamental level — giving credit where it is due. This concept, introduced early, builds a foundation for academic integrity throughout the child's education. The format does not need to be perfect APA or MLA; the important thing is that the child understands WHY we cite sources and can list them in an organized way. The author's note is a metacognitive exercise: the child reflects on their own learning process, identifying what engaged them, what challenged them, and what they discovered. This self-awareness about learning is a hallmark of mature thinkers. Reading the complete report from start to finish gives the child the experience of holding their finished work — a powerful moment of accomplishment. This report represents weeks of sustained effort across multiple skill domains. Celebrate it accordingly. In Montessori terms, this is the child's great work — a meaningful project completed with independence, purpose, and pride.",
@@ -38,17 +83,64 @@
     "instructions": "1. 'This week we celebrate everything you have learned in math! Today we start with the four operations — the foundations of all mathematics.'\n2. Set up 4 stations, each with 15-minute activities:\n   - Station 1: Addition — multi-digit addition with carrying, word problems involving distances, populations, and money.\n   - Station 2: Subtraction — multi-digit subtraction with borrowing, word problems involving differences, change, and elapsed time.\n   - Station 3: Multiplication — 2-digit by 1-digit and 2-digit by 2-digit, word problems involving groups, arrays, and area.\n   - Station 4: Division — long division with single-digit divisors, word problems involving sharing, grouping, and rates.\n3. At each station, complete 3-4 problems independently.\n4. Check answers with a calculator after completing each station.\n5. Track mastery: star the problems you found easy, circle the ones that were challenging.\n6. 'You can do ALL of these! Look at how much you have grown this year!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Station cards with problems for each operation", "Scratch paper for work", "Calculator for checking", "Timer", "Golden bead material or base-ten blocks (optional)", "Star and circle stickers for self-assessment"],
+    "materials_needed": [
+      "Station cards with problems for each operation",
+      "Scratch paper for work",
+      "Calculator for checking",
+      "Timer",
+      "Golden bead material or base-ten blocks (optional)",
+      "Star and circle stickers for self-assessment"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Operation Stations", "subheading": "Reviewing the Four Foundations"},
-        {"type": "materials", "items": ["Station problem cards", "Scratch paper", "Calculator", "Timer", "Base-ten blocks (optional)", "Assessment stickers"], "setup_instructions": "Set up 4 distinct stations around the room. Each station needs: 4 computation problems of increasing difficulty, 2 word problems, scratch paper, and a calculator (face-down, for checking only). Prepare problems at the child's current level with slight stretch challenges."},
-        {"type": "instruction", "step": 1, "text": "Set the tone: 'This is not a test — this is a CELEBRATION of your mathematical growth! At the beginning of the year, some of these problems would have been impossible. Now you can do them all. Let us prove it!'"},
-        {"type": "instruction", "step": 2, "text": "Station 1 — Addition: 'Start with the addition station. You will find multi-digit addition problems and word problems. Show your work, use carrying when needed, and check with the calculator when you finish.'"},
-        {"type": "instruction", "step": 3, "text": "Station 2 — Subtraction: 'Move to subtraction. Remember borrowing! When the top digit is smaller than the bottom digit, borrow from the next column. Word problems will ask about differences and change.'"},
-        {"type": "instruction", "step": 4, "text": "Stations 3 and 4 — Multiplication and Division: 'Multiplication uses repeated addition and the algorithm you learned. Division is the reverse — sharing into equal groups. Show all your work and check with the calculator.'"},
-        {"type": "activity", "prompt": "Complete all 4 stations. At each one, solve at least 4 computation problems and 2 word problems. Show all your work. After each station, check with the calculator and mark: star for problems you found easy, circle for ones that challenged you.", "duration_minutes": 28},
-        {"type": "wrap_up", "text": "Review the self-assessment: 'Look at all those stars! And the circles show you where you can keep growing. Every mathematician has areas of strength and areas for growth. The important thing is that you tackled ALL of them with confidence!'", "mastery_check": "Can the child perform multi-digit addition, subtraction, multiplication, and division with accuracy, apply operations to word problems, and self-assess their mathematical strengths?"}
+        {
+          "type": "title",
+          "heading": "Operation Stations",
+          "subheading": "Reviewing the Four Foundations",
+          "image_url": "https://images.pexels.com/photos/6256065/pexels-photo-6256065.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Station problem cards",
+            "Scratch paper",
+            "Calculator",
+            "Timer",
+            "Base-ten blocks (optional)",
+            "Assessment stickers"
+          ],
+          "setup_instructions": "Set up 4 distinct stations around the room. Each station needs: 4 computation problems of increasing difficulty, 2 word problems, scratch paper, and a calculator (face-down, for checking only). Prepare problems at the child's current level with slight stretch challenges."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the tone: 'This is not a test — this is a CELEBRATION of your mathematical growth! At the beginning of the year, some of these problems would have been impossible. Now you can do them all. Let us prove it!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Station 1 — Addition: 'Start with the addition station. You will find multi-digit addition problems and word problems. Show your work, use carrying when needed, and check with the calculator when you finish.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Station 2 — Subtraction: 'Move to subtraction. Remember borrowing! When the top digit is smaller than the bottom digit, borrow from the next column. Word problems will ask about differences and change.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Stations 3 and 4 — Multiplication and Division: 'Multiplication uses repeated addition and the algorithm you learned. Division is the reverse — sharing into equal groups. Show all your work and check with the calculator.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete all 4 stations. At each one, solve at least 4 computation problems and 2 word problems. Show all your work. After each station, check with the calculator and mark: star for problems you found easy, circle for ones that challenged you.",
+          "duration_minutes": 28
+        },
+        {
+          "type": "wrap_up",
+          "text": "Review the self-assessment: 'Look at all those stars! And the circles show you where you can keep growing. Every mathematician has areas of strength and areas for growth. The important thing is that you tackled ALL of them with confidence!'",
+          "mastery_check": "Can the child perform multi-digit addition, subtraction, multiplication, and division with accuracy, apply operations to word problems, and self-assess their mathematical strengths?"
+        }
       ]
     },
     "parent_notes": "Review stations are far more effective than traditional tests because they are low-pressure, self-paced, and include built-in self-assessment. The star/circle system teaches metacognition — the ability to evaluate one's own understanding. Celebrate the stars enthusiastically and treat the circles as valuable information, not failures. If you notice patterns in the circles (always struggles with borrowing in subtraction, for example), note them for summer practice. The calculator is used only for checking, not solving — this builds both computational skills and verification habits. The word problems are especially important because they test whether the child can identify which operation to use, not just execute the algorithm. If the child flies through all stations, add challenge problems (larger numbers, multi-step word problems). This is a celebration of growth, so compare current performance to the beginning of the year. The growth will be astonishing.",
@@ -66,17 +158,64 @@
     "instructions": "1. 'All year we have studied history one period at a time. Today we connect them ALL into one magnificent timeline — the story of human civilization!'\n2. Provide a long roll of paper (or tape several sheets together) for the timeline.\n3. List all periods studied: Big Bang, Timeline of Life, First Humans, Mesopotamia, Egypt, Indus Valley, China, Greece, Rome, Middle Ages, Renaissance, Scientific Revolution, Enlightenment, Industrial Revolution, American/French Revolutions, 19th Century, WWI, WWII, Civil Rights, Modern World.\n4. For each period, the child writes the name, approximate dates, and draws one key image or symbol.\n5. Add connecting annotations: 'How did one period lead to the next? What ideas or events caused change?'\n6. Include the child's favorite fact or person from each period.\n7. At the end of the timeline, add 'The Future' with the child's predictions or hopes.\n8. This timeline will be displayed at the week 35 history museum.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Long roll of paper or taped-together sheets (at least 6 feet)", "Colored pencils and markers", "Ruler for timeline line", "Reference list of all periods and dates studied", "Previous history work for reference", "Tape for display"],
+    "materials_needed": [
+      "Long roll of paper or taped-together sheets (at least 6 feet)",
+      "Colored pencils and markers",
+      "Ruler for timeline line",
+      "Reference list of all periods and dates studied",
+      "Previous history work for reference",
+      "Tape for display"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My History Timeline", "subheading": "The Grand Story of Human Civilization"},
-        {"type": "materials", "items": ["Long paper roll (6+ feet)", "Colored pencils and markers", "Ruler", "Reference list of periods", "Previous history work", "Display tape"], "setup_instructions": "Prepare a long timeline base — tape multiple sheets of paper together or use a paper roll. Create a reference list of all historical periods studied with approximate dates. Gather the child's previous history work for reference and inspiration."},
-        {"type": "instruction", "step": 1, "text": "Set the vision: 'Imagine unrolling the entire story of human civilization on one long paper. From the very beginning — the Big Bang — all the way to today and beyond. That is what we are creating right now!'"},
-        {"type": "instruction", "step": 2, "text": "Start the framework: 'Draw a long line down the center of the paper. On the left end, write the Big Bang and the beginning of the universe. On the right end, write TODAY and THE FUTURE. Now we fill in everything in between.'"},
-        {"type": "instruction", "step": 3, "text": "Fill in the periods: 'For each civilization and era we studied, write the name and dates, draw a small symbol or picture, and write your favorite fact. Connect them with the timeline line. Use different colors for different eras.'"},
-        {"type": "instruction", "step": 4, "text": "Add connections: 'History is not just a list of events — it is a STORY of cause and effect. Write brief notes connecting periods: Greek ideas influenced Rome. The printing press led to the Scientific Revolution. Draw arrows showing these connections.'"},
-        {"type": "activity", "prompt": "Create your comprehensive timeline with ALL historical periods studied this year. Each entry needs: name, approximate dates, one drawing/symbol, and one favorite fact. Add at least 5 connection arrows showing how one period led to another. End with 'The Future' and your predictions.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Step back and admire: 'Look at what you have created — the entire story of human civilization on one timeline! YOU know this story now. From the first civilizations to the modern world, you understand how we got here. This knowledge is part of you forever.'", "mastery_check": "Can the child place all major historical periods in chronological order, provide key facts for each, identify cause-and-effect connections between periods, and articulate the continuity of human history?"}
+        {
+          "type": "title",
+          "heading": "My History Timeline",
+          "subheading": "The Grand Story of Human Civilization",
+          "image_url": "https://images.pexels.com/photos/1128255/pexels-photo-1128255.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Long paper roll (6+ feet)",
+            "Colored pencils and markers",
+            "Ruler",
+            "Reference list of periods",
+            "Previous history work",
+            "Display tape"
+          ],
+          "setup_instructions": "Prepare a long timeline base — tape multiple sheets of paper together or use a paper roll. Create a reference list of all historical periods studied with approximate dates. Gather the child's previous history work for reference and inspiration."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the vision: 'Imagine unrolling the entire story of human civilization on one long paper. From the very beginning — the Big Bang — all the way to today and beyond. That is what we are creating right now!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Start the framework: 'Draw a long line down the center of the paper. On the left end, write the Big Bang and the beginning of the universe. On the right end, write TODAY and THE FUTURE. Now we fill in everything in between.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Fill in the periods: 'For each civilization and era we studied, write the name and dates, draw a small symbol or picture, and write your favorite fact. Connect them with the timeline line. Use different colors for different eras.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Add connections: 'History is not just a list of events — it is a STORY of cause and effect. Write brief notes connecting periods: Greek ideas influenced Rome. The printing press led to the Scientific Revolution. Draw arrows showing these connections.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your comprehensive timeline with ALL historical periods studied this year. Each entry needs: name, approximate dates, one drawing/symbol, and one favorite fact. Add at least 5 connection arrows showing how one period led to another. End with 'The Future' and your predictions.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Step back and admire: 'Look at what you have created — the entire story of human civilization on one timeline! YOU know this story now. From the first civilizations to the modern world, you understand how we got here. This knowledge is part of you forever.'",
+          "mastery_check": "Can the child place all major historical periods in chronological order, provide key facts for each, identify cause-and-effect connections between periods, and articulate the continuity of human history?"
+        }
       ]
     },
     "parent_notes": "This comprehensive timeline is the capstone of the year's history curriculum and a powerful demonstration of the child's knowledge. The physical act of placing all periods on one continuous line reveals the grand narrative that individual lessons can obscure. Expect the child to have strong memories of some periods and vague recollections of others — that is completely normal. The periods they remember best are the ones that captured their imagination, and those details will stay with them. The connection arrows are the most intellectually demanding part: identifying cause-and-effect across historical periods requires sophisticated analytical thinking. Help with prompts if needed ('Why did the Renaissance happen? What came before it that made people want to rediscover learning?'). The 'Future' section at the end is inspiring — the child sees themselves as part of an ongoing story, not just observers of the past. Display this timeline proudly at the week 35 history museum. It is a magnificent achievement.",
@@ -94,17 +233,64 @@
     "instructions": "1. 'All year we have explored the world — every continent, dozens of countries, countless geographic features. Now you create your own atlas page for YOUR favorite place!'\n2. Child selects their favorite country or region from the year's studies.\n3. Atlas page components:\n   - Detailed map with borders, capital, major cities, rivers, and mountains.\n   - Physical features: landforms, bodies of water, climate zones.\n   - Flag and brief history.\n   - Culture: language, food, traditions, art.\n   - Economy: what the country produces or is known for.\n   - Fun facts: at least 5 interesting details.\n   - Personal note: 'Why I chose this place and what I would do if I visited.'\n4. Use reference maps and books for accuracy.\n5. Make it beautiful — this is a page worthy of a real atlas!\n6. This page will be shared during the week 35 'World Tour' presentation.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Large paper or card stock for atlas page", "Reference maps and atlases", "Colored pencils and fine-tip markers", "Ruler for borders and lines", "Reference books about chosen country", "Globe for spatial reference"],
+    "materials_needed": [
+      "Large paper or card stock for atlas page",
+      "Reference maps and atlases",
+      "Colored pencils and fine-tip markers",
+      "Ruler for borders and lines",
+      "Reference books about chosen country",
+      "Globe for spatial reference"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My Atlas Page", "subheading": "Creating a Geographic Masterpiece"},
-        {"type": "materials", "items": ["Large paper or card stock", "Reference maps and atlases", "Colored pencils and markers", "Ruler", "Reference books", "Globe"], "setup_instructions": "Provide the child with a large, clean sheet of paper or card stock. Gather reference materials specific to their chosen country. Have a globe or world map available for spatial context."},
-        {"type": "instruction", "step": 1, "text": "Choose your place: 'Think about all the countries and regions we explored this year. Which one fascinated you most? Which one do you dream of visiting? THAT is the one you will create an atlas page for.'"},
-        {"type": "instruction", "step": 2, "text": "Start with the map: 'Draw the outline of your country carefully — use a reference map to get the shape right. Mark the capital with a star, major cities with dots, rivers with blue lines, and mountains with small triangles. Add a compass rose.'"},
-        {"type": "instruction", "step": 3, "text": "Add layers of information: 'A great atlas page has more than just a map. Add sections for: Physical Features (landforms, climate), Culture (language, food, traditions), Economy (what the country produces), and Fun Facts (at least 5 interesting details).'"},
-        {"type": "instruction", "step": 4, "text": "Make it personal: 'Real atlases give facts. YOUR atlas page also includes YOUR voice. Write a section called My Connection: why you chose this place, what you find most fascinating, and what you would do if you visited.'"},
-        {"type": "activity", "prompt": "Create a complete atlas page for your chosen country or region. Include: a detailed map with labels, physical features section, culture section, economy section, at least 5 fun facts, the national flag, and a personal connection paragraph. Make it visually beautiful!", "duration_minutes": 28},
-        {"type": "wrap_up", "text": "Admire the work: 'This atlas page is worthy of a real published atlas! You combined cartography, geography, cultural knowledge, research skills, and artistic talent into one beautiful page. Next week you will share it with everyone during the World Tour.'", "mastery_check": "Can the child create an accurate, detailed, and visually appealing atlas page that integrates geographic, cultural, and economic information about a chosen country?"}
+        {
+          "type": "title",
+          "heading": "My Atlas Page",
+          "subheading": "Creating a Geographic Masterpiece",
+          "image_url": "https://images.pexels.com/photos/4468974/pexels-photo-4468974.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large paper or card stock",
+            "Reference maps and atlases",
+            "Colored pencils and markers",
+            "Ruler",
+            "Reference books",
+            "Globe"
+          ],
+          "setup_instructions": "Provide the child with a large, clean sheet of paper or card stock. Gather reference materials specific to their chosen country. Have a globe or world map available for spatial context."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Choose your place: 'Think about all the countries and regions we explored this year. Which one fascinated you most? Which one do you dream of visiting? THAT is the one you will create an atlas page for.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Start with the map: 'Draw the outline of your country carefully — use a reference map to get the shape right. Mark the capital with a star, major cities with dots, rivers with blue lines, and mountains with small triangles. Add a compass rose.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Add layers of information: 'A great atlas page has more than just a map. Add sections for: Physical Features (landforms, climate), Culture (language, food, traditions), Economy (what the country produces), and Fun Facts (at least 5 interesting details).'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Make it personal: 'Real atlases give facts. YOUR atlas page also includes YOUR voice. Write a section called My Connection: why you chose this place, what you find most fascinating, and what you would do if you visited.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a complete atlas page for your chosen country or region. Include: a detailed map with labels, physical features section, culture section, economy section, at least 5 fun facts, the national flag, and a personal connection paragraph. Make it visually beautiful!",
+          "duration_minutes": 28
+        },
+        {
+          "type": "wrap_up",
+          "text": "Admire the work: 'This atlas page is worthy of a real published atlas! You combined cartography, geography, cultural knowledge, research skills, and artistic talent into one beautiful page. Next week you will share it with everyone during the World Tour.'",
+          "mastery_check": "Can the child create an accurate, detailed, and visually appealing atlas page that integrates geographic, cultural, and economic information about a chosen country?"
+        }
       ]
     },
     "parent_notes": "The atlas page is a perfect capstone geography project because it requires the integration of every geographic skill learned this year: map drawing, physical geography, cultural knowledge, economic understanding, and spatial reasoning. The personal element — choosing their favorite place and explaining why — honors the child's individual interests and makes the work meaningful rather than merely academic. Accuracy matters but so does beauty: atlases are both informative and artistic. Encourage the child to take their time with the map drawing, using reference materials for accuracy. The personal connection paragraph reveals what aspects of geography captured the child's imagination — landscapes, cultures, foods, history, or wildlife. All are valid entry points. This page will be presented during week 35's World Tour, so it should be the child's best work. Consider laminating it afterward as a keepsake of this year's geographic journey.",
@@ -122,17 +308,58 @@
     "instructions": "1. 'This book is about a girl named Rosie who loves to invent things. But she has a problem — she is afraid of failing. Does that ever happen to you?'\n2. Read the story with expression, pausing at key moments.\n3. When Rosie hides her inventions: 'Why does she stop inventing? Have you ever stopped doing something because you were afraid it was not good enough?'\n4. When Great-Great-Aunt Rose laughs (with joy, not at Rosie): 'What changed for Rosie in this moment?'\n5. Discuss the key message: 'The only true failure is quitting. Every flop is a step toward success.'\n6. Connect to the capstone projects: 'This week you are finishing big projects. Were there moments that were hard? Moments you wanted to give up? You did not — you persevered!'\n7. Write about a time you persevered through something difficult this year.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Rosie Revere, Engineer by Andrea Beaty", "Paper for written response", "Colored pencils"],
+    "materials_needed": [
+      "Rosie Revere, Engineer by Andrea Beaty",
+      "Paper for written response",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Rosie Revere, Engineer", "subheading": "The Power of Perseverance"},
-        {"type": "materials", "items": ["Rosie Revere, Engineer by Andrea Beaty", "Response paper", "Colored pencils"], "setup_instructions": "Have the book ready. If unavailable, substitute with The Most Magnificent Thing by Ashley Spires or Beautiful Oops! by Barney Saltzberg. Prepare response paper."},
-        {"type": "instruction", "step": 1, "text": "Introduce the theme: 'As you finish your capstone projects this week, there is something important to remember about the journey. This story is about Rosie, a brilliant inventor who almost gave up. But listen to what she learned...'"},
-        {"type": "instruction", "step": 2, "text": "Read and pause. When Rosie hides her inventions after being laughed at: 'Rosie is afraid. She stops creating. Have you ever been afraid to try something because you might fail? What happens when we let that fear stop us?'"},
-        {"type": "instruction", "step": 3, "text": "At the turning point: 'Great-Great-Aunt Rose does not laugh AT Rosie — she laughs with joy because Rosie TRIED. She says the only true failure is not trying at all. What do you think about that?'"},
-        {"type": "instruction", "step": 4, "text": "Connect to life: 'This year you have done many hard things — challenging math, research writing, science experiments, new ideas. There were probably moments you wanted to quit. But you kept going. That is the message of this book: keep going!'"},
-        {"type": "activity", "prompt": "Write about a time this year when something was really hard but you kept going. What was the challenge? How did you feel in the middle? What happened because you persevered? Draw a picture of yourself overcoming the challenge.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Affirm: 'Every single person who accomplished something amazing — every scientist, artist, mathematician, historian — failed many times along the way. The difference is they kept trying. You have that same spirit. Carry it with you always.'", "mastery_check": "Can the child identify the book's message about perseverance, connect it to personal experiences, and articulate the value of persistence through difficulty?"}
+        {
+          "type": "title",
+          "heading": "Rosie Revere, Engineer",
+          "subheading": "The Power of Perseverance",
+          "image_url": "https://images.pexels.com/photos/6437505/pexels-photo-6437505.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Rosie Revere, Engineer by Andrea Beaty",
+            "Response paper",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Have the book ready. If unavailable, substitute with The Most Magnificent Thing by Ashley Spires or Beautiful Oops! by Barney Saltzberg. Prepare response paper."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Introduce the theme: 'As you finish your capstone projects this week, there is something important to remember about the journey. This story is about Rosie, a brilliant inventor who almost gave up. But listen to what she learned...'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read and pause. When Rosie hides her inventions after being laughed at: 'Rosie is afraid. She stops creating. Have you ever been afraid to try something because you might fail? What happens when we let that fear stop us?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "At the turning point: 'Great-Great-Aunt Rose does not laugh AT Rosie — she laughs with joy because Rosie TRIED. She says the only true failure is not trying at all. What do you think about that?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Connect to life: 'This year you have done many hard things — challenging math, research writing, science experiments, new ideas. There were probably moments you wanted to quit. But you kept going. That is the message of this book: keep going!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write about a time this year when something was really hard but you kept going. What was the challenge? How did you feel in the middle? What happened because you persevered? Draw a picture of yourself overcoming the challenge.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Affirm: 'Every single person who accomplished something amazing — every scientist, artist, mathematician, historian — failed many times along the way. The difference is they kept trying. You have that same spirit. Carry it with you always.'",
+          "mastery_check": "Can the child identify the book's message about perseverance, connect it to personal experiences, and articulate the value of persistence through difficulty?"
+        }
       ]
     },
     "parent_notes": "Rosie Revere, Engineer is a perfect bridge between the capstone project work and the approaching transition to upper elementary. As the child finishes major projects, they can reflect on the challenges they overcame along the way. The growth mindset message — that failure is learning, not defeat — is one of the most important concepts a child can internalize before the more demanding work of upper elementary. The written response about personal perseverance creates a powerful self-portrait of resilience. Share your own stories of persevering through difficulty — children need to know that adults face challenges too. Andrea Beaty's other books (Ada Twist, Scientist and Iggy Peck, Architect) make excellent companion reads if your child enjoys this one. The key takeaway: intelligence and talent matter, but perseverance matters more.",
@@ -150,17 +377,62 @@
     "instructions": "1. 'Next week you will present your research to your family. Today we practice the skills that make presentations powerful!'\n2. Teach the 5 keys to great presenting:\n   - Volume: speak loudly enough for everyone to hear.\n   - Eye contact: look at your audience, not just your paper.\n   - Posture: stand tall and still, with your shoulders back.\n   - Pacing: speak slowly enough to be understood. Pause between ideas.\n   - Enthusiasm: let your audience feel your excitement about the topic.\n3. Practice each skill separately with fun exercises:\n   - Volume: say a sentence at whisper, normal, and presentation volume.\n   - Eye contact: present one fact while looking at 3 different spots in the room.\n   - Pacing: present a paragraph fast, then at the perfect speed.\n4. Full rehearsal: present the capstone report using all 5 skills.\n5. Give specific, kind feedback after each practice.\n6. Practice answering questions: 'What if someone asks you a question about your topic?'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Capstone research report", "Presentation skills checklist", "Timer for pacing practice", "Mirror (optional, for posture check)", "Stuffed animals or family photos as 'audience'"],
+    "materials_needed": [
+      "Capstone research report",
+      "Presentation skills checklist",
+      "Timer for pacing practice",
+      "Mirror (optional, for posture check)",
+      "Stuffed animals or family photos as 'audience'"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Presenting with Power", "subheading": "Public Speaking Skills Workshop"},
-        {"type": "materials", "items": ["Capstone report", "Skills checklist", "Timer", "Mirror (optional)", "Pretend audience"], "setup_instructions": "Set up a presentation area with a 'stage' and 'audience' space. Place stuffed animals or family photos in audience seats if no live audience is available. Prepare a presentation skills checklist: Volume, Eye Contact, Posture, Pacing, Enthusiasm."},
-        {"type": "instruction", "step": 1, "text": "Set the stage: 'Great researchers do not just write their findings — they PRESENT them. Scientists give talks. Authors do readings. Historians give lectures. Today you learn the skills that make a presentation unforgettable.'"},
-        {"type": "instruction", "step": 2, "text": "Teach the five keys: 'Key 1: Volume — be heard by the person farthest away. Key 2: Eye Contact — look at your audience, not your paper. Key 3: Posture — stand tall and confident. Key 4: Pacing — speak slowly enough to be understood. Key 5: Enthusiasm — show your audience you love this topic!'"},
-        {"type": "instruction", "step": 3, "text": "Practice each skill: 'Let us try volume first. Say this sentence at a whisper... now at your normal voice... now at presentation volume. Good! Now, tell me one fact from your report while looking at my eyes, then the wall, then back to me.'"},
-        {"type": "instruction", "step": 4, "text": "Full rehearsal: 'Now present your report using ALL five skills. I will be your audience. Afterward, I will tell you what you did brilliantly and one thing to polish. Then we will try again!'"},
-        {"type": "activity", "prompt": "Do at least 2 full run-throughs of your capstone presentation. Use the 5-key checklist. After each run, rate yourself on each skill (1-5) and identify one thing to improve for the next round. Practice answering 3 possible questions about your topic.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Encourage: 'You are ready! You know your topic deeply, your report is excellent, and your presentation skills are strong. Next week when you stand in front of your family, remember: you are the EXPERT on this topic. No one knows more about it than you!'", "mastery_check": "Can the child present with appropriate volume, eye contact, posture, pacing, and enthusiasm, and can they respond thoughtfully to questions about their topic?"}
+        {
+          "type": "title",
+          "heading": "Presenting with Power",
+          "subheading": "Public Speaking Skills Workshop",
+          "image_url": "https://images.pexels.com/photos/7807854/pexels-photo-7807854.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Capstone report",
+            "Skills checklist",
+            "Timer",
+            "Mirror (optional)",
+            "Pretend audience"
+          ],
+          "setup_instructions": "Set up a presentation area with a 'stage' and 'audience' space. Place stuffed animals or family photos in audience seats if no live audience is available. Prepare a presentation skills checklist: Volume, Eye Contact, Posture, Pacing, Enthusiasm."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the stage: 'Great researchers do not just write their findings — they PRESENT them. Scientists give talks. Authors do readings. Historians give lectures. Today you learn the skills that make a presentation unforgettable.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Teach the five keys: 'Key 1: Volume — be heard by the person farthest away. Key 2: Eye Contact — look at your audience, not your paper. Key 3: Posture — stand tall and confident. Key 4: Pacing — speak slowly enough to be understood. Key 5: Enthusiasm — show your audience you love this topic!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Practice each skill: 'Let us try volume first. Say this sentence at a whisper... now at your normal voice... now at presentation volume. Good! Now, tell me one fact from your report while looking at my eyes, then the wall, then back to me.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Full rehearsal: 'Now present your report using ALL five skills. I will be your audience. Afterward, I will tell you what you did brilliantly and one thing to polish. Then we will try again!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Do at least 2 full run-throughs of your capstone presentation. Use the 5-key checklist. After each run, rate yourself on each skill (1-5) and identify one thing to improve for the next round. Practice answering 3 possible questions about your topic.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Encourage: 'You are ready! You know your topic deeply, your report is excellent, and your presentation skills are strong. Next week when you stand in front of your family, remember: you are the EXPERT on this topic. No one knows more about it than you!'",
+          "mastery_check": "Can the child present with appropriate volume, eye contact, posture, pacing, and enthusiasm, and can they respond thoughtfully to questions about their topic?"
+        }
       ]
     },
     "parent_notes": "Public speaking is consistently ranked as one of the most important — and most feared — skills in adult life. Teaching it early and positively creates confident communicators. The key is making practice feel safe and supportive, not evaluative. Give genuinely positive specific feedback first ('I loved how you looked right at me when you described the pyramids'), then offer one gentle suggestion ('Next time, try pausing after each big idea to let it sink in'). Never criticize the content or the child's knowledge during presentation practice — that crushes confidence. The physical skills (volume, posture, eye contact) can be practiced separately before combining them. If the child is nervous, normalize it: 'Even professional speakers get nervous. That is your body giving you energy to perform well!' The stuffed animal audience adds humor while making the practice feel real. By the time week 35 arrives, the child should feel prepared and excited, not anxious.",
@@ -178,17 +450,66 @@
     "instructions": "1. 'Today we celebrate your fraction, decimal, and percentage skills!'\n2. Set up 3 stations:\n   - Station 1: Fractions — identifying, comparing, equivalent fractions, adding and subtracting with like and unlike denominators, multiplying fractions. Use fraction circles and strips for visual support.\n   - Station 2: Decimals — place value, comparing, adding, subtracting, and connecting to money (dollars and cents). Use base-ten blocks for concrete representation.\n   - Station 3: Percentages — finding percentages of numbers, converting between fractions/decimals/percentages, real-world discount problems.\n3. Each station includes computation problems AND word problems.\n4. At each station, the child uses manipulatives first, then solves abstractly, then checks.\n5. Self-assessment: star easy problems, circle challenging ones.\n6. 'Fractions, decimals, and percentages are three ways of saying the same thing!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Fraction circles and strips", "Base-ten blocks", "Station problem cards", "Calculator for checking", "Scratch paper", "Self-assessment stickers", "Conversion chart reference"],
+    "materials_needed": [
+      "Fraction circles and strips",
+      "Base-ten blocks",
+      "Station problem cards",
+      "Calculator for checking",
+      "Scratch paper",
+      "Self-assessment stickers",
+      "Conversion chart reference"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Fractions, Decimals, Percentages", "subheading": "Three Ways to Say the Same Thing"},
-        {"type": "materials", "items": ["Fraction circles and strips", "Base-ten blocks", "Station cards", "Calculator", "Scratch paper", "Stickers", "Conversion chart"], "setup_instructions": "Set up 3 stations with appropriate manipulatives and problem cards. Station 1 needs fraction materials, Station 2 needs base-ten blocks and play money, Station 3 needs a conversion reference chart. Problems should progress from concrete to abstract at each station."},
-        {"type": "instruction", "step": 1, "text": "Connect the concepts: 'Did you know that 1/2, 0.5, and 50% are all the SAME amount? Fractions, decimals, and percentages are three languages for the same idea. Today you prove you can speak all three!'"},
-        {"type": "instruction", "step": 2, "text": "Station 1 — Fractions: 'Use fraction circles to show each fraction, then solve the problems. Compare fractions, find equivalents, and add and subtract. Some problems even ask you to multiply fractions!'"},
-        {"type": "instruction", "step": 3, "text": "Station 2 — Decimals: 'Decimals are fractions in disguise! 0.25 is really 25/100 or 1/4. Use base-ten blocks to model decimals, then add and subtract. The money problems use dollars and cents — that is decimals in real life!'"},
-        {"type": "instruction", "step": 4, "text": "Station 3 — Percentages: 'Percent means per hundred. 25% means 25 out of 100. Find 10% of 80, 50% of 60, 25% of 200. Then try the discount problems — this is the shopping math from last week!'"},
-        {"type": "activity", "prompt": "Complete all 3 stations. At each one, start with the manipulatives, then solve problems on paper, then check with a calculator. Include: 4 computation problems and 2 word problems per station. Self-assess with stars and circles.", "duration_minutes": 28},
-        {"type": "wrap_up", "text": "Celebrate connections: 'You just proved you understand fractions, decimals, AND percentages — and you can convert between them! This is sophisticated math that connects to everything from cooking to shopping to science. You are ready for upper elementary math!'", "mastery_check": "Can the child work fluently with fractions, decimals, and percentages, convert between them, and apply these concepts to word problems?"}
+        {
+          "type": "title",
+          "heading": "Fractions, Decimals, Percentages",
+          "subheading": "Three Ways to Say the Same Thing",
+          "image_url": "https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Fraction circles and strips",
+            "Base-ten blocks",
+            "Station cards",
+            "Calculator",
+            "Scratch paper",
+            "Stickers",
+            "Conversion chart"
+          ],
+          "setup_instructions": "Set up 3 stations with appropriate manipulatives and problem cards. Station 1 needs fraction materials, Station 2 needs base-ten blocks and play money, Station 3 needs a conversion reference chart. Problems should progress from concrete to abstract at each station."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect the concepts: 'Did you know that 1/2, 0.5, and 50% are all the SAME amount? Fractions, decimals, and percentages are three languages for the same idea. Today you prove you can speak all three!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Station 1 — Fractions: 'Use fraction circles to show each fraction, then solve the problems. Compare fractions, find equivalents, and add and subtract. Some problems even ask you to multiply fractions!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Station 2 — Decimals: 'Decimals are fractions in disguise! 0.25 is really 25/100 or 1/4. Use base-ten blocks to model decimals, then add and subtract. The money problems use dollars and cents — that is decimals in real life!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Station 3 — Percentages: 'Percent means per hundred. 25% means 25 out of 100. Find 10% of 80, 50% of 60, 25% of 200. Then try the discount problems — this is the shopping math from last week!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete all 3 stations. At each one, start with the manipulatives, then solve problems on paper, then check with a calculator. Include: 4 computation problems and 2 word problems per station. Self-assess with stars and circles.",
+          "duration_minutes": 28
+        },
+        {
+          "type": "wrap_up",
+          "text": "Celebrate connections: 'You just proved you understand fractions, decimals, AND percentages — and you can convert between them! This is sophisticated math that connects to everything from cooking to shopping to science. You are ready for upper elementary math!'",
+          "mastery_check": "Can the child work fluently with fractions, decimals, and percentages, convert between them, and apply these concepts to word problems?"
+        }
       ]
     },
     "parent_notes": "The connection between fractions, decimals, and percentages is one of the most important conceptual bridges in elementary mathematics. Many students learn them as separate topics; this review emphasizes their unity. The concrete-to-abstract progression at each station (manipulatives first, then computation, then checking) follows the Montessori principle of moving from hands-on to abstract. If the child struggles with any station, the manipulatives provide a way back to understanding. The conversion between representations (1/4 = 0.25 = 25%) is particularly important for upper elementary readiness. Do not rush this — spend extra time on any station where the child needs it. The real-world problems (money, discounts, cooking measurements) show that these are not just school math but life math. Note which areas are starred and which are circled for summer practice planning.",
@@ -206,17 +527,64 @@
     "instructions": "1. 'All year you have been a scientist — observing, experimenting, recording, and analyzing. Today you design your OWN experiment from scratch!'\n2. Help the child brainstorm questions they want to investigate. Examples:\n   - Does water temperature affect how fast sugar dissolves?\n   - Does the color of light affect plant growth?\n   - Does the weight of a paper airplane affect how far it flies?\n   - Does music affect how fast someone completes a puzzle?\n3. Choose one question and formulate a hypothesis: 'I think ___ because ___.'\n4. Plan the experiment: identify variables (what you change, what you measure, what stays the same), list materials, write step-by-step procedure.\n5. Discuss fair testing: 'Everything must stay the same except the one thing you are testing!'\n6. Begin the experiment — collect initial data.\n7. Record observations carefully in a data table.\n8. 'We will analyze results and write the lab report next time!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Science journal or lab report template", "Materials specific to chosen experiment", "Measuring tools (ruler, thermometer, timer, scale as needed)", "Data table template", "Pencils", "Camera for documentation (optional)"],
+    "materials_needed": [
+      "Science journal or lab report template",
+      "Materials specific to chosen experiment",
+      "Measuring tools (ruler, thermometer, timer, scale as needed)",
+      "Data table template",
+      "Pencils",
+      "Camera for documentation (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My Own Experiment", "subheading": "Designing a Scientific Investigation"},
-        {"type": "materials", "items": ["Lab report template", "Experiment-specific materials", "Measuring tools", "Data table template", "Pencils", "Camera (optional)"], "setup_instructions": "Have multiple experiment options ready with pre-gathered materials. Prepare a lab report template with sections: Question, Hypothesis, Variables, Materials, Procedure, Data Table, Results, Conclusion. Have measuring tools available."},
-        {"type": "instruction", "step": 1, "text": "Inspire curiosity: 'Every scientific discovery started with someone asking a question and then designing an experiment to find the answer. Today you are that scientist. What do you want to discover?'"},
-        {"type": "instruction", "step": 2, "text": "Choose and hypothesize: 'Pick your question and make a prediction. A good hypothesis explains WHY you think something will happen: I think hot water will dissolve sugar faster BECAUSE heat makes molecules move faster.'"},
-        {"type": "instruction", "step": 3, "text": "Plan carefully: 'Identify your variables: the independent variable (what you change), the dependent variable (what you measure), and the controlled variables (everything that stays the same). A fair test changes only ONE thing!'"},
-        {"type": "instruction", "step": 4, "text": "Conduct the experiment: 'Follow your procedure step by step. Measure carefully. Record every observation in your data table. Take pictures if you can. Real scientists are meticulous about recording data!'"},
-        {"type": "activity", "prompt": "Complete your experiment design (question, hypothesis, variables, materials, procedure) and begin conducting the experiment. Record at least one full trial in your data table. If your experiment needs time (like plant growth), set it up and plan your observation schedule.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Check in: 'You just designed and began a real scientific experiment! You asked a question, made a prediction, planned a fair test, and collected data. Next session we will analyze your results and write them up. This is exactly what professional scientists do!'", "mastery_check": "Can the child formulate a testable question and hypothesis, identify variables, design a fair experimental procedure, and begin systematic data collection?"}
+        {
+          "type": "title",
+          "heading": "My Own Experiment",
+          "subheading": "Designing a Scientific Investigation",
+          "image_url": "https://images.pexels.com/photos/55827/pexels-photo-55827.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Lab report template",
+            "Experiment-specific materials",
+            "Measuring tools",
+            "Data table template",
+            "Pencils",
+            "Camera (optional)"
+          ],
+          "setup_instructions": "Have multiple experiment options ready with pre-gathered materials. Prepare a lab report template with sections: Question, Hypothesis, Variables, Materials, Procedure, Data Table, Results, Conclusion. Have measuring tools available."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Inspire curiosity: 'Every scientific discovery started with someone asking a question and then designing an experiment to find the answer. Today you are that scientist. What do you want to discover?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Choose and hypothesize: 'Pick your question and make a prediction. A good hypothesis explains WHY you think something will happen: I think hot water will dissolve sugar faster BECAUSE heat makes molecules move faster.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Plan carefully: 'Identify your variables: the independent variable (what you change), the dependent variable (what you measure), and the controlled variables (everything that stays the same). A fair test changes only ONE thing!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Conduct the experiment: 'Follow your procedure step by step. Measure carefully. Record every observation in your data table. Take pictures if you can. Real scientists are meticulous about recording data!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete your experiment design (question, hypothesis, variables, materials, procedure) and begin conducting the experiment. Record at least one full trial in your data table. If your experiment needs time (like plant growth), set it up and plan your observation schedule.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Check in: 'You just designed and began a real scientific experiment! You asked a question, made a prediction, planned a fair test, and collected data. Next session we will analyze your results and write them up. This is exactly what professional scientists do!'",
+          "mastery_check": "Can the child formulate a testable question and hypothesis, identify variables, design a fair experimental procedure, and begin systematic data collection?"
+        }
       ]
     },
     "parent_notes": "This is the ultimate test of scientific thinking — not because someone is evaluating the child, but because they are genuinely investigating their own question. The ability to design an experiment from scratch demonstrates deep understanding of the scientific method. Guide the child toward a question that can be tested within one or two sessions with materials you have at home. The variables discussion is critical: many children want to change multiple things at once ('I will use hot water AND more sugar'), which makes results uninterpretable. Help them understand why changing only one variable matters. If the experiment does not go as planned, that is a feature, not a bug — unexpected results are where the best learning happens. Take this experiment seriously: measure carefully, record accurately, and treat the child like a real scientist. Their lab report will be presented at the week 35 science fair. This capstone activity demonstrates the child's readiness for the more independent scientific work of upper elementary.",
@@ -234,17 +602,64 @@
     "instructions": "1. 'Artists organize their best work into a portfolio — a collection that shows their skills and growth. Today you curate YOUR portfolio!'\n2. Spread out all artwork from the year (or as much as can be gathered).\n3. Sort into categories: drawing, painting, sculpture/3D, mixed media, crafts.\n4. Select 5-8 best pieces that show range and growth.\n5. For each selected piece, write an artist's statement: title, date, medium, what it shows, what you are proud of, and what you would change.\n6. Arrange pieces in chronological order to show growth over the year.\n7. Compare early and late pieces: 'How has your art changed? What new skills did you develop?'\n8. Select 2-3 pieces for the week 35 exhibition display.\n9. Create a portfolio cover: 'The Art of [child's name] — Year [year].'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Collection of year's artwork", "Portfolio folder or binder", "Index cards for artist's statements", "Pencil", "Colored pencils for portfolio cover", "Large table for sorting and viewing"],
+    "materials_needed": [
+      "Collection of year's artwork",
+      "Portfolio folder or binder",
+      "Index cards for artist's statements",
+      "Pencil",
+      "Colored pencils for portfolio cover",
+      "Large table for sorting and viewing"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My Art Portfolio", "subheading": "Curating a Year of Creativity"},
-        {"type": "materials", "items": ["Year's artwork collection", "Portfolio folder", "Index cards", "Pencil", "Colored pencils", "Large sorting surface"], "setup_instructions": "Gather all artwork from the year. If some pieces are in frames or on display, photograph them. Set up a large table or floor space for spreading out and sorting work."},
-        {"type": "instruction", "step": 1, "text": "Introduce the concept: 'Professional artists keep portfolios of their best work. It shows who they are as an artist and how they have grown. Today you create YOUR artist's portfolio from this entire year of art.'"},
-        {"type": "instruction", "step": 2, "text": "Sort and select: 'Let us spread out all your art from this year. Look at it all together — that is a LOT of creativity! Now choose your 5 to 8 best pieces. Pick ones that show different skills and ones you are most proud of.'"},
-        {"type": "instruction", "step": 3, "text": "Write artist's statements: 'For each piece, write on an index card: the title, when you made it, what materials you used, what it represents, and what you like best about it. Professional artists always explain their work.'"},
-        {"type": "instruction", "step": 4, "text": "Notice growth: 'Put your first piece from the year next to your most recent one. What do you notice? How has your art changed? What new techniques did you learn? This growth is something to celebrate!'"},
-        {"type": "activity", "prompt": "Select your best 5-8 pieces and write artist's statements for each. Arrange them chronologically in your portfolio. Design a portfolio cover with your name and year. Choose 2-3 pieces for the exhibition display next week.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Celebrate artistry: 'Your portfolio is a record of a year of creative growth. From your earliest pieces to your most recent, you can SEE how your skills, confidence, and artistic voice developed. You are an artist!'", "mastery_check": "Can the child curate work based on quality and variety, write reflective artist's statements, and identify their own artistic growth over time?"}
+        {
+          "type": "title",
+          "heading": "My Art Portfolio",
+          "subheading": "Curating a Year of Creativity",
+          "image_url": "https://images.pexels.com/photos/8363102/pexels-photo-8363102.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Year's artwork collection",
+            "Portfolio folder",
+            "Index cards",
+            "Pencil",
+            "Colored pencils",
+            "Large sorting surface"
+          ],
+          "setup_instructions": "Gather all artwork from the year. If some pieces are in frames or on display, photograph them. Set up a large table or floor space for spreading out and sorting work."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Introduce the concept: 'Professional artists keep portfolios of their best work. It shows who they are as an artist and how they have grown. Today you create YOUR artist's portfolio from this entire year of art.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Sort and select: 'Let us spread out all your art from this year. Look at it all together — that is a LOT of creativity! Now choose your 5 to 8 best pieces. Pick ones that show different skills and ones you are most proud of.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Write artist's statements: 'For each piece, write on an index card: the title, when you made it, what materials you used, what it represents, and what you like best about it. Professional artists always explain their work.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Notice growth: 'Put your first piece from the year next to your most recent one. What do you notice? How has your art changed? What new techniques did you learn? This growth is something to celebrate!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Select your best 5-8 pieces and write artist's statements for each. Arrange them chronologically in your portfolio. Design a portfolio cover with your name and year. Choose 2-3 pieces for the exhibition display next week.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Celebrate artistry: 'Your portfolio is a record of a year of creative growth. From your earliest pieces to your most recent, you can SEE how your skills, confidence, and artistic voice developed. You are an artist!'",
+          "mastery_check": "Can the child curate work based on quality and variety, write reflective artist's statements, and identify their own artistic growth over time?"
+        }
       ]
     },
     "parent_notes": "Portfolio curation develops metacognitive skills — the child must evaluate their own work, make selections based on quality and variety, and articulate what they value in their art. The artist's statement writing connects art to language arts and develops critical vocabulary. The chronological arrangement makes growth visible: even without explicit instruction, children's art naturally develops in complexity, detail, and expression over a school year. Point out specific improvements: 'Look at how much more detail your drawings have now!' or 'Your color choices have become so sophisticated.' Avoid comparing to other artists or setting external standards — the portfolio reflects this individual child's journey. The exhibition pieces for week 35 should be the ones the child is most proud of, regardless of which ones you think are 'best.' This honors the child's artistic voice and builds confidence in their own aesthetic judgment.",
@@ -262,17 +677,64 @@
     "instructions": "1. 'Next week is our big celebration — we will share all your amazing work with family! But a great celebration needs great planning. Today YOU are the event planner.'\n2. Together, decide: Who will be invited? When will it happen? What will be displayed?\n3. Create invitations: include date, time, location, and what guests will experience (history museum, science fair, art exhibition, research presentation, world tour).\n4. Plan the schedule: 'We need time for each activity. If we have 2 hours, how should we divide the time?'\n5. Plan the display: which projects go where? How will the room be set up?\n6. Plan refreshments: simple snacks the child can help prepare. Calculate quantities based on number of guests.\n7. Create a task list with deadlines: what needs to be done before the celebration?\n8. 'You are managing a real event — logistics, communication, hospitality, and organization!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Invitation materials (paper, envelopes, colored pencils)", "Event planning template", "Room layout paper for display planning", "Schedule template", "Task list template", "Calculator for refreshment quantities"],
+    "materials_needed": [
+      "Invitation materials (paper, envelopes, colored pencils)",
+      "Event planning template",
+      "Room layout paper for display planning",
+      "Schedule template",
+      "Task list template",
+      "Calculator for refreshment quantities"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Party Planning!", "subheading": "Organizing Our Year-End Celebration"},
-        {"type": "materials", "items": ["Invitation materials", "Event planning template", "Room layout paper", "Schedule template", "Task list", "Calculator"], "setup_instructions": "Prepare templates for: invitation design, event schedule, room layout sketch, and task checklist with deadlines. Have a calendar available for selecting the celebration date."},
-        {"type": "instruction", "step": 1, "text": "Set the vision: 'Next week we celebrate everything you accomplished this year! You will present your research, show your art, share your atlas page, display your experiments, and more. But first — we need to PLAN this event.'"},
-        {"type": "instruction", "step": 2, "text": "Create invitations: 'Who should come? Grandparents, family friends, siblings? Make beautiful invitations with all the important details: date, time, place, and what guests will see. Make them excited to come!'"},
-        {"type": "instruction", "step": 3, "text": "Plan the schedule: 'If the celebration is 2 hours long, we need to fit in: research presentations, science fair, art exhibition, history timeline tour, world tour, and refreshments. How long for each? Let us create a schedule.'"},
-        {"type": "instruction", "step": 4, "text": "Plan the space and food: 'Sketch the room layout — where will the timeline go? The art? The science display? Then plan the refreshments. If 8 people are coming and each person gets 3 cookies, how many cookies do we need?'"},
-        {"type": "activity", "prompt": "Complete your event plan: (1) Create at least 3 invitations, (2) Write a schedule with time blocks, (3) Sketch the room layout for displays, (4) Calculate refreshment quantities, (5) Make a task checklist with deadlines. This is YOUR event!", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Review the plan: 'You just planned an entire event — invitations, schedule, layout, food, and logistics. This takes the same skills as planning a business meeting, a conference, or a wedding! You are ready to host your celebration.'", "mastery_check": "Can the child plan an event with invitations, schedule, spatial layout, quantity calculations, and a task management checklist?"}
+        {
+          "type": "title",
+          "heading": "Party Planning!",
+          "subheading": "Organizing Our Year-End Celebration",
+          "image_url": "https://images.pexels.com/photos/8507615/pexels-photo-8507615.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Invitation materials",
+            "Event planning template",
+            "Room layout paper",
+            "Schedule template",
+            "Task list",
+            "Calculator"
+          ],
+          "setup_instructions": "Prepare templates for: invitation design, event schedule, room layout sketch, and task checklist with deadlines. Have a calendar available for selecting the celebration date."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the vision: 'Next week we celebrate everything you accomplished this year! You will present your research, show your art, share your atlas page, display your experiments, and more. But first — we need to PLAN this event.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Create invitations: 'Who should come? Grandparents, family friends, siblings? Make beautiful invitations with all the important details: date, time, place, and what guests will see. Make them excited to come!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Plan the schedule: 'If the celebration is 2 hours long, we need to fit in: research presentations, science fair, art exhibition, history timeline tour, world tour, and refreshments. How long for each? Let us create a schedule.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Plan the space and food: 'Sketch the room layout — where will the timeline go? The art? The science display? Then plan the refreshments. If 8 people are coming and each person gets 3 cookies, how many cookies do we need?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete your event plan: (1) Create at least 3 invitations, (2) Write a schedule with time blocks, (3) Sketch the room layout for displays, (4) Calculate refreshment quantities, (5) Make a task checklist with deadlines. This is YOUR event!",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Review the plan: 'You just planned an entire event — invitations, schedule, layout, food, and logistics. This takes the same skills as planning a business meeting, a conference, or a wedding! You are ready to host your celebration.'",
+          "mastery_check": "Can the child plan an event with invitations, schedule, spatial layout, quantity calculations, and a task management checklist?"
+        }
       ]
     },
     "parent_notes": "Event planning is one of the most complex practical life activities because it integrates so many skills: communication (invitations), mathematics (time blocking, quantity calculations), spatial reasoning (room layout), executive function (task management, deadlines), and social awareness (hospitality, anticipating guest needs). The child should make real decisions and do real work — this is not a pretend exercise. Actually send the invitations, follow the schedule, and prepare the refreshments together. The task checklist teaches project management — breaking a complex goal into specific, time-bound steps. If the child forgets something in the plan, let them discover it rather than pointing it out preemptively; discovering gaps and solving them is the learning. This activity transforms the child from passive recipient of a celebration into its active creator, which is deeply empowering and perfectly Montessori.",
@@ -290,17 +752,64 @@
     "instructions": "1. 'Published authors choose their best work to share with the world. Today you create YOUR literary magazine — a collection of your finest writing from the whole year!'\n2. Gather all writing from the year: stories, poems, research papers, letters, journal entries, essays.\n3. Select 6-10 pieces that represent the child's best work across different genres.\n4. For each piece, do a quick revision pass: fix any errors, improve word choices, clean up formatting.\n5. Create a table of contents listing each piece with its page number and genre.\n6. Design a cover: title (e.g., 'Words and Wonders: A Literary Magazine by [Name]'), illustration, year.\n7. Write an 'About the Author' page with a brief biography and photo or self-portrait.\n8. Assemble in order, number pages, bind or staple.\n9. 'You are a published author! This magazine showcases a year of growth!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Collection of year's writing", "Clean paper for final copies", "Colored pencils for cover and illustrations", "Stapler or binding materials", "Table of contents template", "Pencils and erasers"],
+    "materials_needed": [
+      "Collection of year's writing",
+      "Clean paper for final copies",
+      "Colored pencils for cover and illustrations",
+      "Stapler or binding materials",
+      "Table of contents template",
+      "Pencils and erasers"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My Literary Magazine", "subheading": "A Year of Writing in One Collection"},
-        {"type": "materials", "items": ["Year's writing collection", "Clean paper", "Colored pencils", "Stapler or binder", "Table of contents template", "Pencils"], "setup_instructions": "Gather all the child's writing from the year. Sort by genre (story, poem, essay, letter, research, journal) and by date. Have clean paper available for any pieces that need fresh copies."},
-        {"type": "instruction", "step": 1, "text": "Set the vision: 'Literary magazines publish the best writing of their authors. Today you are both the author AND the editor of YOUR magazine. You get to choose what goes in and how it looks.'"},
-        {"type": "instruction", "step": 2, "text": "Curate carefully: 'Look through all your writing. Which pieces are you most proud of? Which ones show different skills — a powerful story, a beautiful poem, a well-researched report, a persuasive letter? Choose 6 to 10 of your best.'"},
-        {"type": "instruction", "step": 3, "text": "Edit for publication: 'Before publishing, editors check every piece one more time. Read each selection aloud. Fix any spelling errors. Improve any words that could be stronger. Make sure every piece is your BEST version.'"},
-        {"type": "instruction", "step": 4, "text": "Design and assemble: 'Create a cover that is worthy of a real magazine. Write a table of contents. Add an About the Author page with your biography. Assemble everything in order and bind it together.'"},
-        {"type": "activity", "prompt": "Select your pieces, do final edits, create the table of contents, design the cover, write your About the Author page, and assemble the literary magazine. Include at least 3 different genres of writing.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Celebrate publication: 'You are holding a REAL literary magazine — YOUR words, YOUR voice, YOUR growth as a writer, all in one beautiful collection. From the first things you wrote this year to the most recent, you can see how much your writing has grown. You are a published author!'", "mastery_check": "Can the child select quality writing across genres, edit for publication, create organizational elements (table of contents, cover), and assemble a cohesive literary collection?"}
+        {
+          "type": "title",
+          "heading": "My Literary Magazine",
+          "subheading": "A Year of Writing in One Collection",
+          "image_url": "https://images.pexels.com/photos/1887614/pexels-photo-1887614.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Year's writing collection",
+            "Clean paper",
+            "Colored pencils",
+            "Stapler or binder",
+            "Table of contents template",
+            "Pencils"
+          ],
+          "setup_instructions": "Gather all the child's writing from the year. Sort by genre (story, poem, essay, letter, research, journal) and by date. Have clean paper available for any pieces that need fresh copies."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the vision: 'Literary magazines publish the best writing of their authors. Today you are both the author AND the editor of YOUR magazine. You get to choose what goes in and how it looks.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Curate carefully: 'Look through all your writing. Which pieces are you most proud of? Which ones show different skills — a powerful story, a beautiful poem, a well-researched report, a persuasive letter? Choose 6 to 10 of your best.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Edit for publication: 'Before publishing, editors check every piece one more time. Read each selection aloud. Fix any spelling errors. Improve any words that could be stronger. Make sure every piece is your BEST version.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Design and assemble: 'Create a cover that is worthy of a real magazine. Write a table of contents. Add an About the Author page with your biography. Assemble everything in order and bind it together.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Select your pieces, do final edits, create the table of contents, design the cover, write your About the Author page, and assemble the literary magazine. Include at least 3 different genres of writing.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Celebrate publication: 'You are holding a REAL literary magazine — YOUR words, YOUR voice, YOUR growth as a writer, all in one beautiful collection. From the first things you wrote this year to the most recent, you can see how much your writing has grown. You are a published author!'",
+          "mastery_check": "Can the child select quality writing across genres, edit for publication, create organizational elements (table of contents, cover), and assemble a cohesive literary collection?"
+        }
       ]
     },
     "parent_notes": "The literary magazine is one of the most meaningful end-of-year activities because it makes the child's writing journey visible and permanent. Selecting pieces across genres demonstrates range; comparing early and late pieces reveals growth. The editing-for-publication process teaches that published work goes through multiple revisions — an important lesson for a culture that often values first drafts and instant posting. The About the Author page is delightful and builds identity: the child writes about themselves as a writer, which reinforces that they ARE a writer. Consider making copies of the magazine for grandparents or other family members — having real readers makes the publishing process feel authentic. This magazine can be shared at the week 35 celebration. It becomes a cherished keepsake — years from now, the family will treasure this window into the child's mind at this age.",
@@ -318,17 +827,66 @@
     "instructions": "1. 'Today we celebrate your geometry and measurement mastery!'\n2. Set up 4 stations:\n   - Station 1: Shapes and Angles — identify and classify triangles (equilateral, isosceles, scalene, right, acute, obtuse), quadrilaterals (square, rectangle, rhombus, parallelogram, trapezoid), and other polygons. Measure angles with a protractor.\n   - Station 2: Area and Perimeter — calculate area and perimeter of rectangles, triangles, and composite shapes. Word problems involving real-world measurements.\n   - Station 3: Symmetry and Transformations — identify lines of symmetry, complete symmetric drawings, identify reflections and rotations.\n   - Station 4: Measurement — convert between units (cm/m, g/kg, mL/L), measure real objects, solve measurement word problems including time and temperature.\n3. Each station: 3-4 problems with manipulatives available.\n4. Self-assessment at each station.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Geometric shapes and solids", "Protractor and rulers", "Grid paper for area calculations", "Measuring tools (ruler, scale, measuring cups, thermometer)", "Station problem cards", "Calculator for checking", "Symmetry mirrors"],
+    "materials_needed": [
+      "Geometric shapes and solids",
+      "Protractor and rulers",
+      "Grid paper for area calculations",
+      "Measuring tools (ruler, scale, measuring cups, thermometer)",
+      "Station problem cards",
+      "Calculator for checking",
+      "Symmetry mirrors"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Geometry and Measurement", "subheading": "Shapes, Space, and Measuring the World"},
-        {"type": "materials", "items": ["Geometric shapes", "Protractor and rulers", "Grid paper", "Measuring tools", "Station cards", "Calculator", "Symmetry mirrors"], "setup_instructions": "Set up 4 stations with appropriate tools: Station 1 needs shapes and protractor, Station 2 needs grid paper and ruler, Station 3 needs symmetry mirrors and grid paper, Station 4 needs measuring tools (ruler, scale, measuring cups)."},
-        {"type": "instruction", "step": 1, "text": "Set the tone: 'Geometry is the mathematics of shape and space — it is how we understand the physical world around us. Today you prove your mastery of shapes, measurement, and spatial thinking!'"},
-        {"type": "instruction", "step": 2, "text": "Station 1 — Shapes and Angles: 'Identify and classify each shape. Measure angles with the protractor. Can you tell the difference between acute, right, and obtuse angles? Between equilateral and scalene triangles?'"},
-        {"type": "instruction", "step": 3, "text": "Station 2 — Area and Perimeter: 'Calculate the area (space inside) and perimeter (distance around) of each shape. Remember: area of a rectangle is length times width. Area of a triangle is base times height divided by 2.'"},
-        {"type": "instruction", "step": 4, "text": "Stations 3 and 4: 'At the symmetry station, find lines of symmetry, complete mirror drawings, and identify transformations. At the measurement station, measure real objects and convert between units: 100 cm = 1 m, 1000 g = 1 kg, 1000 mL = 1 L.'"},
-        {"type": "activity", "prompt": "Complete all 4 stations. Solve at least 4 problems at each station, including at least 1 word problem. Use manipulatives and measuring tools. Self-assess with stars and circles. Time yourself — can you complete all stations in 28 minutes?", "duration_minutes": 28},
-        {"type": "wrap_up", "text": "Celebrate spatial thinking: 'You understand shapes, angles, area, perimeter, symmetry, and measurement — the tools for understanding the physical world! Architects, engineers, artists, and scientists all use these skills every day.'", "mastery_check": "Can the child classify shapes, measure angles, calculate area and perimeter, identify symmetry, and convert between measurement units?"}
+        {
+          "type": "title",
+          "heading": "Geometry and Measurement",
+          "subheading": "Shapes, Space, and Measuring the World",
+          "image_url": "https://images.pexels.com/photos/6238050/pexels-photo-6238050.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Geometric shapes",
+            "Protractor and rulers",
+            "Grid paper",
+            "Measuring tools",
+            "Station cards",
+            "Calculator",
+            "Symmetry mirrors"
+          ],
+          "setup_instructions": "Set up 4 stations with appropriate tools: Station 1 needs shapes and protractor, Station 2 needs grid paper and ruler, Station 3 needs symmetry mirrors and grid paper, Station 4 needs measuring tools (ruler, scale, measuring cups)."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the tone: 'Geometry is the mathematics of shape and space — it is how we understand the physical world around us. Today you prove your mastery of shapes, measurement, and spatial thinking!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Station 1 — Shapes and Angles: 'Identify and classify each shape. Measure angles with the protractor. Can you tell the difference between acute, right, and obtuse angles? Between equilateral and scalene triangles?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Station 2 — Area and Perimeter: 'Calculate the area (space inside) and perimeter (distance around) of each shape. Remember: area of a rectangle is length times width. Area of a triangle is base times height divided by 2.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Stations 3 and 4: 'At the symmetry station, find lines of symmetry, complete mirror drawings, and identify transformations. At the measurement station, measure real objects and convert between units: 100 cm = 1 m, 1000 g = 1 kg, 1000 mL = 1 L.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete all 4 stations. Solve at least 4 problems at each station, including at least 1 word problem. Use manipulatives and measuring tools. Self-assess with stars and circles. Time yourself — can you complete all stations in 28 minutes?",
+          "duration_minutes": 28
+        },
+        {
+          "type": "wrap_up",
+          "text": "Celebrate spatial thinking: 'You understand shapes, angles, area, perimeter, symmetry, and measurement — the tools for understanding the physical world! Architects, engineers, artists, and scientists all use these skills every day.'",
+          "mastery_check": "Can the child classify shapes, measure angles, calculate area and perimeter, identify symmetry, and convert between measurement units?"
+        }
       ]
     },
     "parent_notes": "Geometry and measurement are the most tangible branches of mathematics — they connect directly to the physical world the child can see and touch. The manipulatives at each station (protractors, rulers, shapes, measuring tools) reinforce that these are not just abstract concepts but tools for understanding real space. If the child struggles with any station, note it for summer focus. Area and perimeter are often confused; the concrete experience of counting squares (area) versus measuring edges (perimeter) helps clarify the distinction. The measurement station is particularly important for practical life — cooking uses volume, building uses length, and science uses all measurement types. Conversions between metric units follow a consistent pattern (multiply or divide by 10, 100, or 1000) that, once understood, makes the metric system beautifully logical.",
@@ -346,17 +904,64 @@
     "instructions": "1. 'Museums bring history to life! Next week, you will have YOUR own museum exhibit. Today we build it!'\n2. Choose a period (can be the same as or different from the capstone report topic).\n3. Museum display components:\n   - Title banner with the period name and dates.\n   - 3-5 informational panels with text and illustrations (key facts, daily life, important people, achievements, legacy).\n   - At least 1 artifact reproduction (draw, sculpt, or build a model of a real artifact from the period).\n   - An interactive element: a quiz, a hands-on activity, or a question for visitors.\n   - A 'Docent card' — a brief script the child can use to guide visitors through the exhibit.\n4. Begin creating panels and artifacts.\n5. 'Real museum curators think about what visitors will find most interesting and memorable. What is the ONE thing you want visitors to remember about this period?'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Large paper or poster board for panels", "Card stock for title banner", "Art supplies for artifact reproduction (clay, paint, cardboard, fabric)", "Colored pencils and markers", "Reference materials on chosen period", "Index cards for docent script"],
+    "materials_needed": [
+      "Large paper or poster board for panels",
+      "Card stock for title banner",
+      "Art supplies for artifact reproduction (clay, paint, cardboard, fabric)",
+      "Colored pencils and markers",
+      "Reference materials on chosen period",
+      "Index cards for docent script"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My History Museum", "subheading": "Building an Exhibit"},
-        {"type": "materials", "items": ["Poster board for panels", "Card stock for banner", "Clay, paint, or cardboard for artifacts", "Colored pencils and markers", "Reference materials", "Index cards"], "setup_instructions": "Set up a large workspace for creating display panels and artifacts. Have multiple art supplies available for artifact reproduction. Prepare a museum exhibit planning sheet with sections for each component."},
-        {"type": "instruction", "step": 1, "text": "Inspire with real museums: 'Think about the best museums you have visited or seen pictures of. What makes an exhibit GREAT? Clear information, beautiful images, real artifacts, and interactive elements. Your exhibit will have all of these!'"},
-        {"type": "instruction", "step": 2, "text": "Plan your panels: 'You need 3 to 5 panels, each focusing on one aspect: daily life, important people, key events, achievements and inventions, and lasting legacy. Each panel needs a title, 3-5 facts, and at least one illustration.'"},
-        {"type": "instruction", "step": 3, "text": "Create an artifact: 'Every great museum has artifacts — real objects from the past. You cannot get a REAL artifact, but you can make a reproduction! Choose something iconic from your period and recreate it: an Egyptian amulet, a Roman coin, a medieval shield, a Renaissance painting.'"},
-        {"type": "instruction", "step": 4, "text": "Write your docent card: 'A docent is a museum guide. Write a short script you can use to welcome visitors and walk them through your exhibit. Start with: Welcome to the [Period] exhibit. I am going to show you...'"},
-        {"type": "activity", "prompt": "Create at least 3 information panels with text and illustrations, begin making your artifact reproduction, design one interactive element (quiz, matching game, or hands-on activity), and write your docent guide card. Make it museum-quality!", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Preview the exhibit: 'Walk me through your museum exhibit like I am a visitor. Use your docent card. Show me each panel. Let me try the interactive element. This is going to be an amazing museum!'", "mastery_check": "Can the child create informational displays that communicate historical knowledge clearly, design an artifact reproduction, and prepare to guide visitors through an exhibit?"}
+        {
+          "type": "title",
+          "heading": "My History Museum",
+          "subheading": "Building an Exhibit",
+          "image_url": "https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Poster board for panels",
+            "Card stock for banner",
+            "Clay, paint, or cardboard for artifacts",
+            "Colored pencils and markers",
+            "Reference materials",
+            "Index cards"
+          ],
+          "setup_instructions": "Set up a large workspace for creating display panels and artifacts. Have multiple art supplies available for artifact reproduction. Prepare a museum exhibit planning sheet with sections for each component."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Inspire with real museums: 'Think about the best museums you have visited or seen pictures of. What makes an exhibit GREAT? Clear information, beautiful images, real artifacts, and interactive elements. Your exhibit will have all of these!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Plan your panels: 'You need 3 to 5 panels, each focusing on one aspect: daily life, important people, key events, achievements and inventions, and lasting legacy. Each panel needs a title, 3-5 facts, and at least one illustration.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Create an artifact: 'Every great museum has artifacts — real objects from the past. You cannot get a REAL artifact, but you can make a reproduction! Choose something iconic from your period and recreate it: an Egyptian amulet, a Roman coin, a medieval shield, a Renaissance painting.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Write your docent card: 'A docent is a museum guide. Write a short script you can use to welcome visitors and walk them through your exhibit. Start with: Welcome to the [Period] exhibit. I am going to show you...'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create at least 3 information panels with text and illustrations, begin making your artifact reproduction, design one interactive element (quiz, matching game, or hands-on activity), and write your docent guide card. Make it museum-quality!",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Preview the exhibit: 'Walk me through your museum exhibit like I am a visitor. Use your docent card. Show me each panel. Let me try the interactive element. This is going to be an amazing museum!'",
+          "mastery_check": "Can the child create informational displays that communicate historical knowledge clearly, design an artifact reproduction, and prepare to guide visitors through an exhibit?"
+        }
       ]
     },
     "parent_notes": "The history museum project transforms the child from a learner of history into a teacher of history — and teaching is the deepest form of learning. Creating information panels requires the child to distill their knowledge into clear, concise, audience-friendly text. The artifact reproduction adds artistic and craftsmanship skills. The interactive element requires thinking about the audience's experience. The docent card develops public speaking skills. This multi-faceted project integrates history knowledge, writing, art, public speaking, and event planning. Help with logistics (gathering materials, cutting large pieces) but let the child make all content and design decisions. The quality of the museum exhibit reveals how deeply the child engaged with the historical content throughout the year. Some children will create elaborate, detailed exhibits; others will be simpler but equally valid. What matters is that the child can communicate what they know and is excited to share it.",
@@ -374,17 +979,62 @@
     "instructions": "1. 'Next week we celebrate YOUR achievements. But first — how do other cultures celebrate important milestones?'\n2. Explore celebration traditions from around the world:\n   - Japan: Shichi-Go-San (7-5-3 Festival) celebrating children at ages 3, 5, and 7.\n   - Mexico: La Calaverita and Day of the Dead celebrations honoring life.\n   - India: Diwali and other festivals celebrating light, knowledge, and victory.\n   - West Africa: naming ceremonies and rites of passage.\n   - Native American: seasonal ceremonies honoring the earth's cycles.\n   - Jewish: Bar/Bat Mitzvah celebrating coming of age.\n3. Discuss common themes: every culture marks important moments with ceremony, food, music, community, and reflection.\n4. 'What traditions does YOUR family have for celebrating achievements?'\n5. Design a personal celebration tradition: what elements from different cultures would you include in your year-end celebration?\n6. Create a 'celebration plan' incorporating meaningful traditions.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Pictures and descriptions of cultural celebrations", "World map", "Paper for celebration plan", "Colored pencils", "Chart paper for comparing traditions"],
+    "materials_needed": [
+      "Pictures and descriptions of cultural celebrations",
+      "World map",
+      "Paper for celebration plan",
+      "Colored pencils",
+      "Chart paper for comparing traditions"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "How the World Celebrates", "subheading": "Traditions of Achievement and Transition"},
-        {"type": "materials", "items": ["Cultural celebration pictures", "World map", "Paper", "Colored pencils", "Chart paper"], "setup_instructions": "Research and prepare brief, age-appropriate descriptions of 5-6 cultural celebration traditions. Mark their locations on a world map. Prepare a comparison chart with columns for: Culture, Celebration, When, Key Elements."},
-        {"type": "instruction", "step": 1, "text": "Connect to the moment: 'You are about to finish a big year of learning. Every culture in the world has special ways of marking moments like this — when someone grows, achieves, or moves to a new stage of life. Let us explore how the world celebrates!'"},
-        {"type": "instruction", "step": 2, "text": "Explore traditions: 'In Japan, there is a special festival called Shichi-Go-San for children at ages 3, 5, and 7. In India, Diwali celebrates the victory of light over darkness. In many African cultures, there are ceremonies when children reach new stages of maturity.'"},
-        {"type": "instruction", "step": 3, "text": "Find common threads: 'What do all these celebrations have in common? Food! Music! Family and community! Reflection on growth! Special clothing or decorations! Every culture knows that milestones deserve to be marked and remembered.'"},
-        {"type": "instruction", "step": 4, "text": "Design your own: 'For YOUR year-end celebration next week, what elements would you like to include? A special food? Music? A ritual of gratitude or reflection? Something from one of the cultures we studied? Design YOUR ideal celebration.'"},
-        {"type": "activity", "prompt": "Create a comparison chart of at least 5 cultural celebrations, noting common elements. Then design your ideal year-end celebration plan, incorporating at least 2 elements inspired by celebrations from different cultures. Explain why you chose each element.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Reflect: 'Humans have always marked important moments with ceremony and celebration. As you finish this year of incredible learning, you deserve a celebration too. And now you know — your celebration connects you to a worldwide human tradition of honoring growth.'", "mastery_check": "Can the child describe celebration traditions from multiple cultures, identify common themes across traditions, and design a personally meaningful celebration incorporating diverse cultural elements?"}
+        {
+          "type": "title",
+          "heading": "How the World Celebrates",
+          "subheading": "Traditions of Achievement and Transition",
+          "image_url": "https://images.pexels.com/photos/7685728/pexels-photo-7685728.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Cultural celebration pictures",
+            "World map",
+            "Paper",
+            "Colored pencils",
+            "Chart paper"
+          ],
+          "setup_instructions": "Research and prepare brief, age-appropriate descriptions of 5-6 cultural celebration traditions. Mark their locations on a world map. Prepare a comparison chart with columns for: Culture, Celebration, When, Key Elements."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect to the moment: 'You are about to finish a big year of learning. Every culture in the world has special ways of marking moments like this — when someone grows, achieves, or moves to a new stage of life. Let us explore how the world celebrates!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Explore traditions: 'In Japan, there is a special festival called Shichi-Go-San for children at ages 3, 5, and 7. In India, Diwali celebrates the victory of light over darkness. In many African cultures, there are ceremonies when children reach new stages of maturity.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Find common threads: 'What do all these celebrations have in common? Food! Music! Family and community! Reflection on growth! Special clothing or decorations! Every culture knows that milestones deserve to be marked and remembered.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Design your own: 'For YOUR year-end celebration next week, what elements would you like to include? A special food? Music? A ritual of gratitude or reflection? Something from one of the cultures we studied? Design YOUR ideal celebration.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a comparison chart of at least 5 cultural celebrations, noting common elements. Then design your ideal year-end celebration plan, incorporating at least 2 elements inspired by celebrations from different cultures. Explain why you chose each element.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect: 'Humans have always marked important moments with ceremony and celebration. As you finish this year of incredible learning, you deserve a celebration too. And now you know — your celebration connects you to a worldwide human tradition of honoring growth.'",
+          "mastery_check": "Can the child describe celebration traditions from multiple cultures, identify common themes across traditions, and design a personally meaningful celebration incorporating diverse cultural elements?"
+        }
       ]
     },
     "parent_notes": "This lesson is a wonderful bridge between cultural studies and the child's personal experience. Learning that cultures worldwide share the impulse to celebrate achievements and transitions normalizes the child's own feelings about endings and beginnings. The coming-of-age traditions are particularly relevant as the child approaches the transition to upper elementary — they are moving from one developmental plane to another. Discussing your family's own celebration traditions connects the lesson to the child's identity. The design activity gives the child agency in shaping their own celebration, which is deeply Montessori: the child participates in creating their experience rather than passively receiving it. If the child wants to include a cultural element from a tradition not their own, discuss respectful incorporation: understanding the meaning behind the practice, not just copying its surface appearance.",
@@ -402,17 +1052,58 @@
     "instructions": "1. 'This is one of the most famous books ever written about going to a new place in life. It was written for people exactly where you are right now — finishing one chapter and starting another.'\n2. Read with energy and expression. The rhythm of Dr. Seuss deserves dramatic delivery.\n3. Pause at 'The Waiting Place': 'Have you ever felt stuck? What did you do to get unstuck?'\n4. Pause at the challenges: 'Life is not always easy. But the book says you will succeed. Do you believe that?'\n5. At the ending: 'You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.' Discuss what this means.\n6. Connect to the year: 'Think about everything you have accomplished this year. You really CAN go anywhere!'\n7. Write about where YOU plan to go — not just physically, but what you want to learn, become, and achieve.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Oh, the Places You'll Go! by Dr. Seuss", "Paper for response writing", "Colored pencils for illustration"],
+    "materials_needed": [
+      "Oh, the Places You'll Go! by Dr. Seuss",
+      "Paper for response writing",
+      "Colored pencils for illustration"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Oh, the Places You'll Go!", "subheading": "A Journey of Courage and Possibility"},
-        {"type": "materials", "items": ["Oh, the Places You'll Go! by Dr. Seuss", "Response paper", "Colored pencils"], "setup_instructions": "Have the book ready. This is a book best read with energy and enthusiasm. Prepare response paper with the prompt visible."},
-        {"type": "instruction", "step": 1, "text": "Introduce the significance: 'Dr. Seuss wrote this book for people who are finishing one chapter of their lives and starting a new one. People read it at graduations, at new beginnings, at moments exactly like YOURS — finishing an amazing year and getting ready for what comes next.'"},
-        {"type": "instruction", "step": 2, "text": "Read with drama. The playful language and rhythm deserve full theatrical delivery. Pause at key moments to let the words land: 'You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.'"},
-        {"type": "instruction", "step": 3, "text": "Discuss the challenges: 'The book does not pretend everything will be easy. There are slumps and waiting places and lonely games. But it says YOU are the person who will decide what to do. How does that feel — knowing you have that power?'"},
-        {"type": "instruction", "step": 4, "text": "Connect to life: 'This year you studied the entire history of human civilization, mastered fractions and geometry, wrote research reports, conducted experiments, and explored the world. If you can do ALL that, you really CAN go anywhere!'"},
-        {"type": "activity", "prompt": "Write and illustrate 'The Places I Will Go' — your personal version. Where do you want to go in upper elementary? What do you want to learn? What kind of person do you want to become? What adventures await? Write at least 1 full page.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "End with the book's final words and a personal message: 'You are off to great places. Today is your day. Your mountain is waiting. So get on your way!' And I want to add: I am so proud of you and everything you have accomplished this year.'", "mastery_check": "Can the child connect the book's themes to personal experience, articulate goals and aspirations, and express confidence about their future learning journey?"}
+        {
+          "type": "title",
+          "heading": "Oh, the Places You'll Go!",
+          "subheading": "A Journey of Courage and Possibility",
+          "image_url": "https://images.pexels.com/photos/5604251/pexels-photo-5604251.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Oh, the Places You'll Go! by Dr. Seuss",
+            "Response paper",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Have the book ready. This is a book best read with energy and enthusiasm. Prepare response paper with the prompt visible."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Introduce the significance: 'Dr. Seuss wrote this book for people who are finishing one chapter of their lives and starting a new one. People read it at graduations, at new beginnings, at moments exactly like YOURS — finishing an amazing year and getting ready for what comes next.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read with drama. The playful language and rhythm deserve full theatrical delivery. Pause at key moments to let the words land: 'You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Discuss the challenges: 'The book does not pretend everything will be easy. There are slumps and waiting places and lonely games. But it says YOU are the person who will decide what to do. How does that feel — knowing you have that power?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Connect to life: 'This year you studied the entire history of human civilization, mastered fractions and geometry, wrote research reports, conducted experiments, and explored the world. If you can do ALL that, you really CAN go anywhere!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write and illustrate 'The Places I Will Go' — your personal version. Where do you want to go in upper elementary? What do you want to learn? What kind of person do you want to become? What adventures await? Write at least 1 full page.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "End with the book's final words and a personal message: 'You are off to great places. Today is your day. Your mountain is waiting. So get on your way!' And I want to add: I am so proud of you and everything you have accomplished this year.'",
+          "mastery_check": "Can the child connect the book's themes to personal experience, articulate goals and aspirations, and express confidence about their future learning journey?"
+        }
       ]
     },
     "parent_notes": "Oh, the Places You'll Go! is traditionally read at transitions — graduations, new beginnings, major milestones. Reading it now, as the child prepares to transition from lower to upper elementary, is deeply appropriate. The book acknowledges that life has challenges (the 'Waiting Place,' the 'slumps') while maintaining confidence that the child will overcome them. This honest optimism is far more useful than naive cheerfulness. The child's written response reveals their aspirations, fears, and self-concept. Some children will write about specific goals; others will express excitement or anxiety about change. All responses are valuable. Consider keeping this writing and giving it back to the child at their next major transition. The book's central message — that the child is the agent of their own life — is the essence of Montessori education. Maria Montessori would have loved this book.",
@@ -430,17 +1121,66 @@
     "instructions": "1. 'You have learned all eight parts of speech this year — noun, verb, adjective, adverb, pronoun, preposition, conjunction, and interjection. Today we test your mastery with games!'\n2. Game 1: Parts of Speech Sort — write 30 words on cards. Child sorts them into 8 piles by part of speech. Time it!\n3. Game 2: Sentence Challenge — give a sentence pattern (e.g., adjective-noun-verb-adverb) and the child creates a sentence following the pattern.\n4. Game 3: Parts of Speech Hunt — read a paragraph aloud. Child identifies as many of each part of speech as possible in 2 minutes.\n5. Game 4: Mad Libs — create fill-in-the-blank stories using grammar terms. The child provides words by part of speech.\n6. Between games, briefly review any parts of speech the child confuses.\n7. Award a 'Grammar Champion' certificate at the end!",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Word cards (30+) for sorting", "Sentence pattern cards", "Paragraph for parts of speech hunt", "Mad Libs templates (or create your own)", "Timer", "Grammar Champion certificate (prepared)", "Pencils"],
+    "materials_needed": [
+      "Word cards (30+) for sorting",
+      "Sentence pattern cards",
+      "Paragraph for parts of speech hunt",
+      "Mad Libs templates (or create your own)",
+      "Timer",
+      "Grammar Champion certificate (prepared)",
+      "Pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Grammar Games!", "subheading": "Parts of Speech Championship"},
-        {"type": "materials", "items": ["Word cards", "Sentence pattern cards", "Hunt paragraph", "Mad Libs templates", "Timer", "Certificate", "Pencils"], "setup_instructions": "Prepare 30+ word cards with a mix of all 8 parts of speech. Create sentence pattern cards with different structures. Select a paragraph at the child's reading level. Prepare or print Mad Libs templates and a Grammar Champion certificate."},
-        {"type": "instruction", "step": 1, "text": "Set the championship mood: 'Welcome to the Parts of Speech Championship! This year you learned ALL eight parts of speech — the building blocks of every sentence ever written. Today we see just how much you know!'"},
-        {"type": "instruction", "step": 2, "text": "Game 1 — Speed Sort: 'Here are 30 word cards. Sort them into 8 groups: nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections. I am timing you! Ready? Go!'"},
-        {"type": "instruction", "step": 3, "text": "Game 2 — Sentence Challenge: 'I give you a pattern. You create a sentence! Pattern: adjective-noun-verb-preposition-adjective-noun. Example: The clever fox jumped over the lazy dog. Now you try this pattern: [new pattern].'"},
-        {"type": "instruction", "step": 4, "text": "Game 3 — Grammar Hunt and Mad Libs: 'In the hunt, find every noun, verb, and adjective in this paragraph. In Mad Libs, fill in the blanks by part of speech — the results are always hilarious!'"},
-        {"type": "activity", "prompt": "Complete all four games! In the Speed Sort, try to beat your time on a second attempt. In the Sentence Challenge, create at least 5 sentences following different patterns. In the Hunt, find at least 20 parts of speech. Play at least 2 rounds of Mad Libs.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Award the certificate: 'You are officially a Grammar Champion! You can identify all eight parts of speech, create sentences following any pattern, and find grammar at work in any text. This knowledge makes you a powerful reader AND writer!'", "mastery_check": "Can the child correctly identify all eight parts of speech, create sentences following specified grammatical patterns, and locate parts of speech in running text?"}
+        {
+          "type": "title",
+          "heading": "Grammar Games!",
+          "subheading": "Parts of Speech Championship",
+          "image_url": "https://images.pexels.com/photos/1822568/pexels-photo-1822568.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Word cards",
+            "Sentence pattern cards",
+            "Hunt paragraph",
+            "Mad Libs templates",
+            "Timer",
+            "Certificate",
+            "Pencils"
+          ],
+          "setup_instructions": "Prepare 30+ word cards with a mix of all 8 parts of speech. Create sentence pattern cards with different structures. Select a paragraph at the child's reading level. Prepare or print Mad Libs templates and a Grammar Champion certificate."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the championship mood: 'Welcome to the Parts of Speech Championship! This year you learned ALL eight parts of speech — the building blocks of every sentence ever written. Today we see just how much you know!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Game 1 — Speed Sort: 'Here are 30 word cards. Sort them into 8 groups: nouns, verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, and interjections. I am timing you! Ready? Go!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Game 2 — Sentence Challenge: 'I give you a pattern. You create a sentence! Pattern: adjective-noun-verb-preposition-adjective-noun. Example: The clever fox jumped over the lazy dog. Now you try this pattern: [new pattern].'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Game 3 — Grammar Hunt and Mad Libs: 'In the hunt, find every noun, verb, and adjective in this paragraph. In Mad Libs, fill in the blanks by part of speech — the results are always hilarious!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete all four games! In the Speed Sort, try to beat your time on a second attempt. In the Sentence Challenge, create at least 5 sentences following different patterns. In the Hunt, find at least 20 parts of speech. Play at least 2 rounds of Mad Libs.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Award the certificate: 'You are officially a Grammar Champion! You can identify all eight parts of speech, create sentences following any pattern, and find grammar at work in any text. This knowledge makes you a powerful reader AND writer!'",
+          "mastery_check": "Can the child correctly identify all eight parts of speech, create sentences following specified grammatical patterns, and locate parts of speech in running text?"
+        }
       ]
     },
     "parent_notes": "Grammar review through games is infinitely more effective than worksheets because the competitive, playful format keeps energy high and makes repetition enjoyable. The Speed Sort develops automatic recognition — the child should be able to identify common parts of speech quickly, not through laborious analysis. If they consistently misidentify a particular part of speech (adverbs and adjectives are commonly confused), take a moment to review the distinction during the game rather than in a separate lesson. Mad Libs are brilliant grammar teaching tools because they require the child to generate words by category — they cannot just give a noun when an adjective is needed. The sentence pattern activity develops syntactic awareness, which improves both writing and reading comprehension. The Grammar Champion certificate is not just fun — it marks real achievement. Understanding grammar gives the child tools to analyze and produce language at a sophisticated level.",
@@ -458,17 +1198,66 @@
     "instructions": "1. 'Today we celebrate your data analysis skills! You are going to collect, display, and analyze information like a real statistician.'\n2. Set up 3 stations:\n   - Station 1: Data Collection and Bar/Line Graphs — survey questions, tally data, create a bar graph and a line graph. Interpret: which graph type is better for this data and why?\n   - Station 2: Pie Charts and Statistics — given a data set, create a pie chart (using fractions and percentages). Calculate mean, median, mode, and range.\n   - Station 3: Probability — predict outcomes of coin flips, dice rolls, and card draws. Express probability as fractions. Conduct probability experiments and compare predicted vs. actual results.\n3. Each station includes hands-on data collection AND computation.\n4. Self-assess at each station.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Graph paper", "Rulers and colored pencils", "Dice, coins, and playing cards", "Protractor for pie charts", "Calculator", "Data recording sheets", "Station problem cards"],
+    "materials_needed": [
+      "Graph paper",
+      "Rulers and colored pencils",
+      "Dice, coins, and playing cards",
+      "Protractor for pie charts",
+      "Calculator",
+      "Data recording sheets",
+      "Station problem cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Data Detective", "subheading": "Graphs, Statistics, and Probability"},
-        {"type": "materials", "items": ["Graph paper", "Rulers and colored pencils", "Dice, coins, cards", "Protractor", "Calculator", "Data sheets", "Station cards"], "setup_instructions": "Station 1 needs graph paper and survey materials. Station 2 needs protractor, calculator, and prepared data sets. Station 3 needs dice, coins, and cards. Each station needs recording sheets."},
-        {"type": "instruction", "step": 1, "text": "Connect to the real world: 'Data is everywhere — sports statistics, weather forecasts, election results, scientific research. People who understand data understand the world better. Today you prove you are a data expert!'"},
-        {"type": "instruction", "step": 2, "text": "Station 1 — Graphs: 'Conduct a quick survey (favorite season, favorite subject, hours of sleep). Tally the results. Create a bar graph and a line graph. Which type better represents your data? Why?'"},
-        {"type": "instruction", "step": 3, "text": "Station 2 — Statistics: 'Given this data set, create a pie chart showing each category as a fraction and percentage of the whole. Then calculate the mean (average), median (middle value), mode (most common), and range (highest minus lowest).'"},
-        {"type": "instruction", "step": 4, "text": "Station 3 — Probability: 'What is the probability of flipping heads? That is 1 out of 2, or 1/2. What about rolling a 6 on a die? 1 out of 6, or 1/6. Predict the outcomes, then actually flip and roll 20 times. How do your results compare to your predictions?'"},
-        {"type": "activity", "prompt": "Complete all 3 stations. Create at least 2 different graph types, calculate all 4 statistics for a data set, create a pie chart, and conduct a probability experiment with at least 20 trials. Compare predicted vs. actual results.", "duration_minutes": 28},
-        {"type": "wrap_up", "text": "Celebrate data literacy: 'You can collect data, display it in multiple ways, calculate statistics, and predict probability! These skills make you a critical thinker who cannot be fooled by misleading graphs or false claims. You are data literate!'", "mastery_check": "Can the child create and interpret bar, line, and pie graphs, calculate mean/median/mode/range, and express and test probability as fractions?"}
+        {
+          "type": "title",
+          "heading": "Data Detective",
+          "subheading": "Graphs, Statistics, and Probability",
+          "image_url": "https://images.pexels.com/photos/3693101/pexels-photo-3693101.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Graph paper",
+            "Rulers and colored pencils",
+            "Dice, coins, cards",
+            "Protractor",
+            "Calculator",
+            "Data sheets",
+            "Station cards"
+          ],
+          "setup_instructions": "Station 1 needs graph paper and survey materials. Station 2 needs protractor, calculator, and prepared data sets. Station 3 needs dice, coins, and cards. Each station needs recording sheets."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect to the real world: 'Data is everywhere — sports statistics, weather forecasts, election results, scientific research. People who understand data understand the world better. Today you prove you are a data expert!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Station 1 — Graphs: 'Conduct a quick survey (favorite season, favorite subject, hours of sleep). Tally the results. Create a bar graph and a line graph. Which type better represents your data? Why?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Station 2 — Statistics: 'Given this data set, create a pie chart showing each category as a fraction and percentage of the whole. Then calculate the mean (average), median (middle value), mode (most common), and range (highest minus lowest).'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Station 3 — Probability: 'What is the probability of flipping heads? That is 1 out of 2, or 1/2. What about rolling a 6 on a die? 1 out of 6, or 1/6. Predict the outcomes, then actually flip and roll 20 times. How do your results compare to your predictions?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete all 3 stations. Create at least 2 different graph types, calculate all 4 statistics for a data set, create a pie chart, and conduct a probability experiment with at least 20 trials. Compare predicted vs. actual results.",
+          "duration_minutes": 28
+        },
+        {
+          "type": "wrap_up",
+          "text": "Celebrate data literacy: 'You can collect data, display it in multiple ways, calculate statistics, and predict probability! These skills make you a critical thinker who cannot be fooled by misleading graphs or false claims. You are data literate!'",
+          "mastery_check": "Can the child create and interpret bar, line, and pie graphs, calculate mean/median/mode/range, and express and test probability as fractions?"
+        }
       ]
     },
     "parent_notes": "Data literacy is increasingly recognized as a critical 21st-century skill. Children who can create and interpret graphs, understand statistics, and reason about probability are better equipped to evaluate information in the news, in science, and in daily life. The probability station is particularly engaging because the child makes predictions and then tests them — the gap between expected and actual results teaches that probability describes long-run patterns, not individual outcomes. A coin might land heads 7 out of 10 times even though the probability is 1/2. This is a profound insight about uncertainty and evidence. The pie chart connects fractions, percentages, and geometry (circle divisions). If any station is particularly challenging, note it for summer review. Data analysis skills built now will be essential in upper elementary science and social studies.",
@@ -486,17 +1275,66 @@
     "instructions": "1. 'Scientists do not just DO experiments — they COMMUNICATE their findings so others can learn. Today you analyze your results and write them up!'\n2. Review the data collected in the previous session.\n3. Create a graph of the results: bar graph, line graph, or another appropriate display.\n4. Analyze: 'What does the data show? Was your hypothesis correct? If not, that is not failure — that is discovery!'\n5. Write the lab report sections:\n   - Title\n   - Question and Hypothesis\n   - Materials and Procedure (already done)\n   - Results (data table and graph)\n   - Conclusion: Was the hypothesis supported? What did you learn? What would you do differently next time?\n6. Discuss sources of error: 'Was anything about the experiment imperfect? Real scientists always identify potential problems.'\n7. 'Your lab report is ready for the science fair next week!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Data from previous experiment session", "Graph paper", "Lab report template", "Colored pencils for graph", "Ruler", "Calculator", "Previous experiment notes"],
+    "materials_needed": [
+      "Data from previous experiment session",
+      "Graph paper",
+      "Lab report template",
+      "Colored pencils for graph",
+      "Ruler",
+      "Calculator",
+      "Previous experiment notes"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My Lab Report", "subheading": "Analyzing Results and Drawing Conclusions"},
-        {"type": "materials", "items": ["Experiment data", "Graph paper", "Lab report template", "Colored pencils", "Ruler", "Calculator", "Experiment notes"], "setup_instructions": "Have all experiment data available. Prepare a lab report template with clearly labeled sections. Have graph paper and graphing tools ready. If the experiment needs additional data collection, do that first."},
-        {"type": "instruction", "step": 1, "text": "Start with the data: 'Let us look at what your experiment found. What patterns do you see in the numbers? Does anything surprise you?'"},
-        {"type": "instruction", "step": 2, "text": "Create a graph: 'A graph makes your data visual — it helps people SEE what you found. Choose the best type: a bar graph for comparing categories, or a line graph for showing change over time. Label your axes clearly.'"},
-        {"type": "instruction", "step": 3, "text": "Draw conclusions: 'The big question: was your hypothesis right? Look at the data. If you predicted hot water would dissolve sugar faster and it DID, your hypothesis was supported. If it did not, that is just as interesting! You discovered something unexpected.'"},
-        {"type": "instruction", "step": 4, "text": "Complete the lab report: 'Write your conclusion: state whether the hypothesis was supported, explain what the data shows, identify any errors or problems, and suggest what you would do differently next time. Then add one more thing: what NEW question does this experiment raise?'"},
-        {"type": "activity", "prompt": "Create your graph, write the Results and Conclusion sections of your lab report, and identify at least one source of error and one new question for future research. Assemble the complete lab report for the science fair.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Celebrate the science: 'You have completed a full scientific investigation — from question to hypothesis to experiment to analysis to conclusion. This is EXACTLY what professional scientists do. Your lab report is ready for the science fair!'", "mastery_check": "Can the child create an appropriate graph of experimental data, analyze results relative to the hypothesis, draw evidence-based conclusions, and identify sources of error?"}
+        {
+          "type": "title",
+          "heading": "My Lab Report",
+          "subheading": "Analyzing Results and Drawing Conclusions",
+          "image_url": "https://images.pexels.com/photos/121472/pexels-photo-121472.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Experiment data",
+            "Graph paper",
+            "Lab report template",
+            "Colored pencils",
+            "Ruler",
+            "Calculator",
+            "Experiment notes"
+          ],
+          "setup_instructions": "Have all experiment data available. Prepare a lab report template with clearly labeled sections. Have graph paper and graphing tools ready. If the experiment needs additional data collection, do that first."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Start with the data: 'Let us look at what your experiment found. What patterns do you see in the numbers? Does anything surprise you?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Create a graph: 'A graph makes your data visual — it helps people SEE what you found. Choose the best type: a bar graph for comparing categories, or a line graph for showing change over time. Label your axes clearly.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Draw conclusions: 'The big question: was your hypothesis right? Look at the data. If you predicted hot water would dissolve sugar faster and it DID, your hypothesis was supported. If it did not, that is just as interesting! You discovered something unexpected.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Complete the lab report: 'Write your conclusion: state whether the hypothesis was supported, explain what the data shows, identify any errors or problems, and suggest what you would do differently next time. Then add one more thing: what NEW question does this experiment raise?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your graph, write the Results and Conclusion sections of your lab report, and identify at least one source of error and one new question for future research. Assemble the complete lab report for the science fair.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Celebrate the science: 'You have completed a full scientific investigation — from question to hypothesis to experiment to analysis to conclusion. This is EXACTLY what professional scientists do. Your lab report is ready for the science fair!'",
+          "mastery_check": "Can the child create an appropriate graph of experimental data, analyze results relative to the hypothesis, draw evidence-based conclusions, and identify sources of error?"
+        }
       ]
     },
     "parent_notes": "The lab report is the written output of the scientific method, and learning to write one teaches the child to communicate findings clearly and honestly. The most important moment in this lesson may be when the hypothesis is not supported — this teaches that 'wrong' predictions are not failures but discoveries. Many of the greatest scientific breakthroughs came from unexpected results. The sources of error discussion develops critical thinking: no experiment is perfect, and acknowledging limitations is a sign of intellectual maturity, not weakness. The 'new question' prompt is key — science is not about answers but about generating better and better questions. This lab report, presented at the week 35 science fair, demonstrates the child's mastery of scientific thinking. It does not matter whether the experiment was about sugar dissolving or paper airplanes — the thinking process is what matters. Display the report proudly.",
@@ -514,17 +1352,66 @@
     "instructions": "1. 'Did you know that math can be beautiful? Today we explore one of the most beautiful things in geometry: tessellations!'\n2. Show examples of tessellations: Escher's artwork, Islamic geometric art, honeycomb patterns, tiled floors.\n3. Explain: 'A tessellation is a pattern of shapes that covers a surface with NO gaps and NO overlaps. Like puzzle pieces that fit together perfectly.'\n4. Explore which regular shapes tessellate: triangles (yes), squares (yes), hexagons (yes), pentagons (no).\n5. Demonstrate how to create a tessellation: start with a square, cut a shape from one side, tape it to the opposite side. This creates a custom tessellation shape.\n6. Child creates their own tessellation shape and uses it to create a repeating pattern.\n7. Color the tessellation to create a work of art.\n8. 'This is where math and art become one — geometry is beautiful!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Examples of tessellations (Escher prints, Islamic art)", "Card stock for creating tessellation templates", "Scissors and tape", "Large paper for tessellation artwork", "Colored pencils and markers", "Ruler", "Pre-cut triangles, squares, and hexagons for exploration"],
+    "materials_needed": [
+      "Examples of tessellations (Escher prints, Islamic art)",
+      "Card stock for creating tessellation templates",
+      "Scissors and tape",
+      "Large paper for tessellation artwork",
+      "Colored pencils and markers",
+      "Ruler",
+      "Pre-cut triangles, squares, and hexagons for exploration"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Tessellation Art", "subheading": "Where Geometry Meets Beauty"},
-        {"type": "materials", "items": ["Tessellation examples", "Card stock", "Scissors and tape", "Large art paper", "Colored pencils and markers", "Ruler", "Pre-cut shapes"], "setup_instructions": "Print examples of tessellations (M.C. Escher's work is ideal, also Islamic geometric art and natural tessellations like honeycomb). Prepare card stock squares for template creation. Have large paper ready for the final artwork."},
-        {"type": "instruction", "step": 1, "text": "Show the beauty: 'Look at these images. This artist, M.C. Escher, created incredible patterns where birds turn into fish, lizards interlock perfectly, and shapes flow endlessly. These are called TESSELLATIONS — patterns with no gaps and no overlaps.'"},
-        {"type": "instruction", "step": 2, "text": "Explore the math: 'Not all shapes tessellate. Let us test: can you tile a surface with triangles? Yes! Squares? Yes! Hexagons? Yes! Pentagons? No — gaps appear! The shapes that tessellate have angles that add up to 360 degrees at each vertex.'"},
-        {"type": "instruction", "step": 3, "text": "Create your own: 'Start with a square piece of card stock. Cut an interesting shape from one side. Tape that exact piece to the OPPOSITE side. Now you have a custom shape that will tessellate! Trace it over and over on your paper.'"},
-        {"type": "instruction", "step": 4, "text": "Make it art: 'Now color your tessellation! You can use alternating colors, add details to make each shape look like something (a bird, a fish, a face), or create a color gradient. This is YOUR mathematical art masterpiece!'"},
-        {"type": "activity", "prompt": "Create a custom tessellation shape using the cut-and-tape method. Trace it to fill an entire page with a seamless pattern (no gaps, no overlaps). Color it beautifully. Add details to make each shape represent something recognizable if you can!", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Admire the work: 'You just created mathematical art! Every tessellation follows geometric rules — angles must add up perfectly, shapes must fit without gaps. When math and art combine, the results are breathtaking. Geometry IS beauty!'", "mastery_check": "Can the child explain what a tessellation is, identify which shapes tessellate and why, create a custom tessellation shape, and produce a complete tessellation pattern?"}
+        {
+          "type": "title",
+          "heading": "Tessellation Art",
+          "subheading": "Where Geometry Meets Beauty",
+          "image_url": "https://images.pexels.com/photos/4491703/pexels-photo-4491703.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Tessellation examples",
+            "Card stock",
+            "Scissors and tape",
+            "Large art paper",
+            "Colored pencils and markers",
+            "Ruler",
+            "Pre-cut shapes"
+          ],
+          "setup_instructions": "Print examples of tessellations (M.C. Escher's work is ideal, also Islamic geometric art and natural tessellations like honeycomb). Prepare card stock squares for template creation. Have large paper ready for the final artwork."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the beauty: 'Look at these images. This artist, M.C. Escher, created incredible patterns where birds turn into fish, lizards interlock perfectly, and shapes flow endlessly. These are called TESSELLATIONS — patterns with no gaps and no overlaps.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Explore the math: 'Not all shapes tessellate. Let us test: can you tile a surface with triangles? Yes! Squares? Yes! Hexagons? Yes! Pentagons? No — gaps appear! The shapes that tessellate have angles that add up to 360 degrees at each vertex.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Create your own: 'Start with a square piece of card stock. Cut an interesting shape from one side. Tape that exact piece to the OPPOSITE side. Now you have a custom shape that will tessellate! Trace it over and over on your paper.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Make it art: 'Now color your tessellation! You can use alternating colors, add details to make each shape look like something (a bird, a fish, a face), or create a color gradient. This is YOUR mathematical art masterpiece!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a custom tessellation shape using the cut-and-tape method. Trace it to fill an entire page with a seamless pattern (no gaps, no overlaps). Color it beautifully. Add details to make each shape represent something recognizable if you can!",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Admire the work: 'You just created mathematical art! Every tessellation follows geometric rules — angles must add up perfectly, shapes must fit without gaps. When math and art combine, the results are breathtaking. Geometry IS beauty!'",
+          "mastery_check": "Can the child explain what a tessellation is, identify which shapes tessellate and why, create a custom tessellation shape, and produce a complete tessellation pattern?"
+        }
       ]
     },
     "parent_notes": "Tessellations are where geometry becomes undeniably beautiful, and this lesson helps children see mathematics as creative and aesthetic, not just computational. M.C. Escher's work is endlessly fascinating for children — his impossible buildings and morphing tessellations challenge perception while demonstrating mathematical principles. The cut-and-tape method for creating custom tessellation shapes is simple but powerful: the child sees that the shape they create MUST tessellate because the piece removed from one side is added to the other, preserving the fit. This is a concrete proof of a geometric principle. The coloring phase is genuinely artistic — some children will create abstract color patterns, while others will transform their shapes into recognizable forms (Escher-style). Both approaches are valid. Consider displaying this tessellation art at the week 35 celebration — it is striking and conversation-starting. Tessellations appear in nature (honeycomb, turtle shells, pineapple patterns), architecture (tiled floors, mosaics), and art (Islamic geometric art), making them a true cross-disciplinary topic.",
@@ -542,17 +1429,62 @@
     "instructions": "1. 'Music tells the story of its time. Today we take a musical journey through all the periods we studied this year!'\n2. Play brief excerpts from music connected to the year's studies:\n   - Ancient: simple drums and flutes (or recordings of reconstructed ancient music)\n   - Medieval: Gregorian chant\n   - Renaissance: madrigals or lute music\n   - Baroque: Bach or Vivaldi\n   - Classical: Mozart or Beethoven\n   - Romantic: Chopin or Tchaikovsky\n   - 20th Century: jazz, rock and roll\n   - World music: excerpts from various cultures studied\n3. For each excerpt, discuss: 'What period does this come from? How does it make you feel? What does it tell us about the people who created it?'\n4. Child selects their top 5 favorites and creates a personal 'Soundtrack of History' listening guide with the piece name, composer, period, and why they chose it.\n5. 'Music is a time machine — it takes us right into the heart of another era!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Audio recordings of music from various periods", "Audio player", "Listening guide template", "Colored pencils for decorating the guide", "Timeline for reference"],
+    "materials_needed": [
+      "Audio recordings of music from various periods",
+      "Audio player",
+      "Listening guide template",
+      "Colored pencils for decorating the guide",
+      "Timeline for reference"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Soundtrack of History", "subheading": "A Musical Journey Through the Year"},
-        {"type": "materials", "items": ["Audio recordings from various periods", "Audio player", "Listening guide template", "Colored pencils", "Timeline"], "setup_instructions": "Queue up 8-10 musical excerpts representing different historical periods and cultures studied this year. Each excerpt should be 1-2 minutes. Prepare a listening guide template with spaces for: piece name, composer/origin, period, and personal response."},
-        {"type": "instruction", "step": 1, "text": "Set the journey: 'Today we do not read about history or look at pictures — we LISTEN to it! Music tells us what people felt, celebrated, mourned, and dreamed. Let us hear the soundtrack of our year's journey.'"},
-        {"type": "instruction", "step": 2, "text": "Listen to each excerpt and discuss: 'This is Gregorian chant from the Middle Ages. Close your eyes and imagine monks singing this in a stone monastery a thousand years ago. How does it feel? What does it tell you about that time?'"},
-        {"type": "instruction", "step": 3, "text": "Continue through the eras: Play each excerpt, name the period and composer/culture, and discuss. Move from ancient through medieval, Renaissance, Baroque, Classical, Romantic, and 20th century, ending with world music."},
-        {"type": "instruction", "step": 4, "text": "Create your soundtrack: 'Which 5 pieces spoke to you the most? Create your personal Soundtrack of History — a listening guide with each piece's name, composer, period, and why you chose it.'"},
-        {"type": "activity", "prompt": "Listen to all the excerpts and take brief notes about each. Then choose your top 5 and create a beautifully designed 'My Soundtrack of History' listening guide. For each selection, write the title, composer/origin, historical period, and 2-3 sentences about why you chose it and what it makes you feel.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Reflect: 'Music connects us to every era and every culture in a way that words sometimes cannot. Your Soundtrack of History is unique to you — it reflects what moved YOUR heart. Keep listening, keep feeling, keep connecting through music!'", "mastery_check": "Can the child identify musical styles from different historical periods, articulate how music reflects its cultural context, and express personal aesthetic preferences with supporting reasoning?"}
+        {
+          "type": "title",
+          "heading": "Soundtrack of History",
+          "subheading": "A Musical Journey Through the Year",
+          "image_url": "https://images.pexels.com/photos/7887172/pexels-photo-7887172.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Audio recordings from various periods",
+            "Audio player",
+            "Listening guide template",
+            "Colored pencils",
+            "Timeline"
+          ],
+          "setup_instructions": "Queue up 8-10 musical excerpts representing different historical periods and cultures studied this year. Each excerpt should be 1-2 minutes. Prepare a listening guide template with spaces for: piece name, composer/origin, period, and personal response."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the journey: 'Today we do not read about history or look at pictures — we LISTEN to it! Music tells us what people felt, celebrated, mourned, and dreamed. Let us hear the soundtrack of our year's journey.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Listen to each excerpt and discuss: 'This is Gregorian chant from the Middle Ages. Close your eyes and imagine monks singing this in a stone monastery a thousand years ago. How does it feel? What does it tell you about that time?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Continue through the eras: Play each excerpt, name the period and composer/culture, and discuss. Move from ancient through medieval, Renaissance, Baroque, Classical, Romantic, and 20th century, ending with world music."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Create your soundtrack: 'Which 5 pieces spoke to you the most? Create your personal Soundtrack of History — a listening guide with each piece's name, composer, period, and why you chose it.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Listen to all the excerpts and take brief notes about each. Then choose your top 5 and create a beautifully designed 'My Soundtrack of History' listening guide. For each selection, write the title, composer/origin, historical period, and 2-3 sentences about why you chose it and what it makes you feel.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect: 'Music connects us to every era and every culture in a way that words sometimes cannot. Your Soundtrack of History is unique to you — it reflects what moved YOUR heart. Keep listening, keep feeling, keep connecting through music!'",
+          "mastery_check": "Can the child identify musical styles from different historical periods, articulate how music reflects its cultural context, and express personal aesthetic preferences with supporting reasoning?"
+        }
       ]
     },
     "parent_notes": "This listening review connects music education to history in a deeply meaningful way. When a child hears Gregorian chant and recognizes it as medieval, or hears jazz and connects it to 20th-century America, they demonstrate cross-curricular understanding that goes far beyond memorization. Musical preferences are personal, so honor whatever the child gravitates toward — a child who loves Baroque harpsichord is no more or less valid than one who loves African drumming. The listening guide develops critical language about music: describing not just 'I like it' but WHY — what it makes them feel, what it reminds them of, what it tells them about the people who made it. If your child shows strong interest in any particular style, consider finding more recordings or even beginning formal music study. Music appreciation is a lifelong enrichment. The Soundtrack of History makes a wonderful share at the celebration — play the excerpts while guests view the other displays.",
@@ -570,17 +1502,64 @@
     "instructions": "1. 'This year you learned hundreds of new words — from history, science, geography, math, and literature. Today we celebrate your vocabulary with a spelling bee!'\n2. Prepare word lists from each subject area:\n   - History: civilization, pharaoh, democracy, renaissance, revolution, industrial, suffrage\n   - Science: ecosystem, photosynthesis, vertebrate, experiment, hypothesis, molecule\n   - Geography: continent, hemisphere, longitude, latitude, peninsula, archipelago\n   - Math: multiplication, fraction, perimeter, symmetry, probability, equation\n   - Language: paragraph, adjective, conjunction, bibliography, metaphor, dialogue\n3. Format: call out a word, use it in a sentence, child spells it.\n4. For each correctly spelled word, add a link to a 'vocabulary chain' (paper strips linked together).\n5. If misspelled, say the correct spelling together, then continue (no elimination!).\n6. Track subject totals: which subject area has the strongest vocabulary?\n7. End with the chain: 'Look at all the words you know!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Subject-organized vocabulary word lists", "Paper strips for vocabulary chain", "Tape or stapler for chain links", "Score sheet", "Pencil", "Subject area labels"],
+    "materials_needed": [
+      "Subject-organized vocabulary word lists",
+      "Paper strips for vocabulary chain",
+      "Tape or stapler for chain links",
+      "Score sheet",
+      "Pencil",
+      "Subject area labels"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Vocabulary Champion", "subheading": "Year-End Spelling Bee"},
-        {"type": "materials", "items": ["Vocabulary word lists by subject", "Paper strips", "Tape or stapler", "Score sheet", "Pencil", "Subject labels"], "setup_instructions": "Prepare word lists with 8-10 words per subject area (5 subjects = 40-50 words total). Cut paper strips for the vocabulary chain. Color-code strips by subject if possible. Arrange in rounds progressing from familiar to challenging."},
-        {"type": "instruction", "step": 1, "text": "Celebrate vocabulary: 'Did you know that you probably learned over 500 new vocabulary words this year? Words from history, science, geography, math, and language arts. Today we celebrate how many you can spell!'"},
-        {"type": "instruction", "step": 2, "text": "Explain the format: 'I will say a word, use it in a sentence, and tell you what subject it comes from. You spell it. If you get it right, we add a link to our vocabulary chain. If not, we learn the spelling together and move on. This is a celebration, not a test!'"},
-        {"type": "instruction", "step": 3, "text": "Begin the bee! Start with familiar words and progress to more challenging ones. Mix subjects to keep it varied: 'CONTINENT — We studied every continent this year. CONTINENT.'"},
-        {"type": "instruction", "step": 4, "text": "Track and celebrate: 'Keep count by subject. Which area has the most correct spellings? That might be your strongest subject! And the chain keeps growing — look how many words you know!'"},
-        {"type": "activity", "prompt": "Participate in the spelling bee! Aim for at least 30 words across all 5 subjects. For any words you miss, write them 3 times to practice. At the end, count your vocabulary chain links and identify your strongest subject area.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Celebrate with the chain: 'Look at this chain! Each link is a word you KNOW — a word that helps you read, write, think, and communicate. You are not just a good speller — you are someone with a rich, powerful vocabulary that will grow every year!'", "mastery_check": "Can the child correctly spell vocabulary from multiple subject areas, demonstrate understanding of word meanings through context, and identify personal vocabulary strengths?"}
+        {
+          "type": "title",
+          "heading": "Vocabulary Champion",
+          "subheading": "Year-End Spelling Bee",
+          "image_url": "https://images.pexels.com/photos/1275235/pexels-photo-1275235.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Vocabulary word lists by subject",
+            "Paper strips",
+            "Tape or stapler",
+            "Score sheet",
+            "Pencil",
+            "Subject labels"
+          ],
+          "setup_instructions": "Prepare word lists with 8-10 words per subject area (5 subjects = 40-50 words total). Cut paper strips for the vocabulary chain. Color-code strips by subject if possible. Arrange in rounds progressing from familiar to challenging."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Celebrate vocabulary: 'Did you know that you probably learned over 500 new vocabulary words this year? Words from history, science, geography, math, and language arts. Today we celebrate how many you can spell!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Explain the format: 'I will say a word, use it in a sentence, and tell you what subject it comes from. You spell it. If you get it right, we add a link to our vocabulary chain. If not, we learn the spelling together and move on. This is a celebration, not a test!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Begin the bee! Start with familiar words and progress to more challenging ones. Mix subjects to keep it varied: 'CONTINENT — We studied every continent this year. CONTINENT.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Track and celebrate: 'Keep count by subject. Which area has the most correct spellings? That might be your strongest subject! And the chain keeps growing — look how many words you know!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Participate in the spelling bee! Aim for at least 30 words across all 5 subjects. For any words you miss, write them 3 times to practice. At the end, count your vocabulary chain links and identify your strongest subject area.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Celebrate with the chain: 'Look at this chain! Each link is a word you KNOW — a word that helps you read, write, think, and communicate. You are not just a good speller — you are someone with a rich, powerful vocabulary that will grow every year!'",
+          "mastery_check": "Can the child correctly spell vocabulary from multiple subject areas, demonstrate understanding of word meanings through context, and identify personal vocabulary strengths?"
+        }
       ]
     },
     "parent_notes": "Cross-curricular vocabulary is one of the hidden strengths of Montessori education. A child who studies history learns words like civilization, democracy, and revolution. A child who studies science learns words like photosynthesis, hypothesis, and molecule. These words become part of their reading vocabulary, their writing vocabulary, and their thinking vocabulary. The spelling bee format is celebratory, not eliminative — every word attempted is a win, and missed words become learning opportunities. The vocabulary chain provides a visual, tangible representation of the child's word knowledge that is often shockingly impressive. When a child sees a chain of 35 or 40 links, they realize how much they have learned. The subject area analysis reveals patterns: a child strong in science vocabulary but weaker in history vocabulary tells you where their deepest engagement was. Use this information for summer reading recommendations.",
@@ -598,17 +1577,64 @@
     "instructions": "1. 'Today we review some of the most exciting math you learned this year — ideas that start to feel like REAL mathematician work!'\n2. Order of Operations (PEMDAS):\n   - Review: Parentheses, Exponents, Multiplication/Division (left to right), Addition/Subtraction (left to right).\n   - Practice with increasingly complex expressions: 3 + 4 x 2, (3 + 4) x 2, 5 x (6 - 2) + 3.\n   - 'Without these rules, the same expression could give different answers!'\n3. Coordinate Graphing:\n   - Review the x-axis and y-axis, ordered pairs (x, y), plotting points.\n   - Plot points to create a picture (connect-the-dots with coordinates).\n4. Negative Numbers:\n   - Review the number line extending below zero.\n   - Real-world contexts: temperature below zero, depth below sea level, owing money.\n   - Practice: 5 - 8 = -3. What is -4 + 7?\n5. 'These concepts are the gateway to algebra. You are READY!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Order of operations problems on cards", "Coordinate plane grid paper", "Coordinate picture puzzle (prepared)", "Number line extending to negative numbers", "Thermometer for negative number context", "Pencils and colored pencils"],
+    "materials_needed": [
+      "Order of operations problems on cards",
+      "Coordinate plane grid paper",
+      "Coordinate picture puzzle (prepared)",
+      "Number line extending to negative numbers",
+      "Thermometer for negative number context",
+      "Pencils and colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Advanced Math Review", "subheading": "Order of Operations, Coordinates, and Negatives"},
-        {"type": "materials", "items": ["PEMDAS problem cards", "Coordinate grid paper", "Coordinate picture puzzle", "Number line", "Thermometer", "Pencils"], "setup_instructions": "Prepare PEMDAS expression cards of increasing difficulty. Create or print a coordinate picture puzzle (list of ordered pairs that form a picture when connected). Prepare a large number line from -20 to 20."},
-        {"type": "instruction", "step": 1, "text": "Order of Operations: 'When a math expression has multiple operations, we need rules for which to do first. PEMDAS: Parentheses first, then Exponents, then Multiplication and Division (left to right), then Addition and Subtraction (left to right). Without these rules, math would be chaos!'"},
-        {"type": "instruction", "step": 2, "text": "Practice PEMDAS: 'What is 3 + 4 x 2? Is it 14 or 11? Remember — multiplication comes before addition. 4 x 2 = 8, then 3 + 8 = 11. But (3 + 4) x 2? Parentheses first: 7 x 2 = 14. Parentheses change everything!'"},
-        {"type": "instruction", "step": 3, "text": "Coordinate Graphing: 'The coordinate plane has an x-axis (horizontal) and a y-axis (vertical). Every point is described by an ordered pair: (x, y). Plot each point and connect them to reveal a hidden picture!'"},
-        {"type": "instruction", "step": 4, "text": "Negative Numbers: 'Numbers do not stop at zero — they keep going! Negative numbers are below zero. If it is 5 degrees and the temperature drops 8 degrees, what temperature is it? 5 - 8 = -3 degrees. The thermometer shows us exactly how this works.'"},
-        {"type": "activity", "prompt": "Complete: (1) 8 PEMDAS expressions of increasing difficulty, (2) the coordinate picture puzzle by plotting at least 15 ordered pairs and connecting them, (3) 10 negative number problems using the number line. Check answers with a partner or calculator.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Celebrate readiness: 'Order of operations, coordinate graphing, and negative numbers are the beginning of ALGEBRA — the math of middle school and beyond. You understand all three! You are mathematically ready for upper elementary and beyond!'", "mastery_check": "Can the child correctly apply order of operations, plot points on a coordinate plane, and perform basic operations with negative numbers?"}
+        {
+          "type": "title",
+          "heading": "Advanced Math Review",
+          "subheading": "Order of Operations, Coordinates, and Negatives",
+          "image_url": "https://images.pexels.com/photos/8612931/pexels-photo-8612931.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "PEMDAS problem cards",
+            "Coordinate grid paper",
+            "Coordinate picture puzzle",
+            "Number line",
+            "Thermometer",
+            "Pencils"
+          ],
+          "setup_instructions": "Prepare PEMDAS expression cards of increasing difficulty. Create or print a coordinate picture puzzle (list of ordered pairs that form a picture when connected). Prepare a large number line from -20 to 20."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Order of Operations: 'When a math expression has multiple operations, we need rules for which to do first. PEMDAS: Parentheses first, then Exponents, then Multiplication and Division (left to right), then Addition and Subtraction (left to right). Without these rules, math would be chaos!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Practice PEMDAS: 'What is 3 + 4 x 2? Is it 14 or 11? Remember — multiplication comes before addition. 4 x 2 = 8, then 3 + 8 = 11. But (3 + 4) x 2? Parentheses first: 7 x 2 = 14. Parentheses change everything!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Coordinate Graphing: 'The coordinate plane has an x-axis (horizontal) and a y-axis (vertical). Every point is described by an ordered pair: (x, y). Plot each point and connect them to reveal a hidden picture!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Negative Numbers: 'Numbers do not stop at zero — they keep going! Negative numbers are below zero. If it is 5 degrees and the temperature drops 8 degrees, what temperature is it? 5 - 8 = -3 degrees. The thermometer shows us exactly how this works.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete: (1) 8 PEMDAS expressions of increasing difficulty, (2) the coordinate picture puzzle by plotting at least 15 ordered pairs and connecting them, (3) 10 negative number problems using the number line. Check answers with a partner or calculator.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Celebrate readiness: 'Order of operations, coordinate graphing, and negative numbers are the beginning of ALGEBRA — the math of middle school and beyond. You understand all three! You are mathematically ready for upper elementary and beyond!'",
+          "mastery_check": "Can the child correctly apply order of operations, plot points on a coordinate plane, and perform basic operations with negative numbers?"
+        }
       ]
     },
     "parent_notes": "These three topics represent the child's readiness for the more abstract math of upper elementary and eventually algebra. Order of operations teaches that mathematics has conventions that prevent ambiguity — the same expression must give the same answer no matter who solves it. Coordinate graphing introduces the Cartesian plane, which is fundamental to algebra, geometry, physics, and computer science. Negative numbers extend the number line below zero, which is conceptually challenging but essential. Use real-world contexts (temperature, depth, finance) to make negatives intuitive. The coordinate picture puzzle makes graphing fun — children love discovering what image appears as they plot points. If your child handles all three topics comfortably, they have a strong mathematical foundation for upper elementary. If any topic is shaky, note it for focused practice. These concepts will be developed much further in the next level.",
@@ -626,17 +1652,68 @@
     "instructions": "1. 'Today we finish your atlas page and then play geography games to celebrate everything you know about our world!'\n2. Final touches on the atlas page: check accuracy, add any missing details, make it presentation-ready.\n3. Geography Game 1: Continent Challenge — name as many countries as possible for each continent in 1 minute. Keep a tally.\n4. Geography Game 2: Capital Match — match countries to their capitals. Use flashcards or a matching game format.\n5. Geography Game 3: Landform Identification — show pictures of landforms (peninsula, archipelago, plateau, delta, canyon, etc.) and identify each.\n6. Geography Game 4: Where in the World? — describe a place by its features and the child guesses the country or region.\n7. Track scores and celebrate knowledge.\n8. 'You know this planet better than most adults. What an incredible geographic education!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Atlas page in progress", "Continent/country flashcards", "Capital city matching cards", "Landform pictures", "Timer", "Score sheet", "World map for verification", "Globe"],
+    "materials_needed": [
+      "Atlas page in progress",
+      "Continent/country flashcards",
+      "Capital city matching cards",
+      "Landform pictures",
+      "Timer",
+      "Score sheet",
+      "World map for verification",
+      "Globe"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Atlas Finale", "subheading": "Completing and Celebrating Geography Knowledge"},
-        {"type": "materials", "items": ["Atlas page", "Flashcards", "Matching cards", "Landform pictures", "Timer", "Score sheet", "World map", "Globe"], "setup_instructions": "Prepare 4 game stations or activities. Create or print flashcards for continents/countries and capitals. Gather pictures of 10+ landforms. Prepare 'Where in the World' clue cards. Have the world map visible for verification."},
-        {"type": "instruction", "step": 1, "text": "Complete the atlas page: 'Take 10 minutes to add any final details, check accuracy, and make your atlas page beautiful. This will be shared at the World Tour next week!'"},
-        {"type": "instruction", "step": 2, "text": "Game 1 — Continent Challenge: 'I name a continent, you name as many countries as you can in 60 seconds. Ready? AFRICA!' Keep tallies for each continent."},
-        {"type": "instruction", "step": 3, "text": "Game 2 — Capital Match: 'Match each country to its capital. France goes with... Paris! Japan goes with... Tokyo! How many can you match correctly?'"},
-        {"type": "instruction", "step": 4, "text": "Game 3 and 4: 'For Landform ID, I show a picture and you name the landform. For Where in the World, I give clues and you guess the place: This country has the Amazon River, the largest rainforest, and Carnival... Brazil!'"},
-        {"type": "activity", "prompt": "Finalize your atlas page, then play all 4 geography games. Keep score! In the Continent Challenge, try to name at least 5 countries per continent. In Capital Match, aim for at least 15 correct. In Landform ID, name at least 10 landforms. In Where in the World, get at least 8 correct.", "duration_minutes": 28},
-        {"type": "wrap_up", "text": "Celebrate geographic literacy: 'You can identify countries, capitals, and landforms from every continent. You understand trade, culture, climate, and connections across the globe. You are a true citizen of the world — and your atlas page proves it!'", "mastery_check": "Can the child name multiple countries per continent, match countries to capitals, identify major landforms, and use geographic clues to identify places?"}
+        {
+          "type": "title",
+          "heading": "Atlas Finale",
+          "subheading": "Completing and Celebrating Geography Knowledge",
+          "image_url": "https://images.pexels.com/photos/29303947/pexels-photo-29303947.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Atlas page",
+            "Flashcards",
+            "Matching cards",
+            "Landform pictures",
+            "Timer",
+            "Score sheet",
+            "World map",
+            "Globe"
+          ],
+          "setup_instructions": "Prepare 4 game stations or activities. Create or print flashcards for continents/countries and capitals. Gather pictures of 10+ landforms. Prepare 'Where in the World' clue cards. Have the world map visible for verification."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Complete the atlas page: 'Take 10 minutes to add any final details, check accuracy, and make your atlas page beautiful. This will be shared at the World Tour next week!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Game 1 — Continent Challenge: 'I name a continent, you name as many countries as you can in 60 seconds. Ready? AFRICA!' Keep tallies for each continent."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Game 2 — Capital Match: 'Match each country to its capital. France goes with... Paris! Japan goes with... Tokyo! How many can you match correctly?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Game 3 and 4: 'For Landform ID, I show a picture and you name the landform. For Where in the World, I give clues and you guess the place: This country has the Amazon River, the largest rainforest, and Carnival... Brazil!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Finalize your atlas page, then play all 4 geography games. Keep score! In the Continent Challenge, try to name at least 5 countries per continent. In Capital Match, aim for at least 15 correct. In Landform ID, name at least 10 landforms. In Where in the World, get at least 8 correct.",
+          "duration_minutes": 28
+        },
+        {
+          "type": "wrap_up",
+          "text": "Celebrate geographic literacy: 'You can identify countries, capitals, and landforms from every continent. You understand trade, culture, climate, and connections across the globe. You are a true citizen of the world — and your atlas page proves it!'",
+          "mastery_check": "Can the child name multiple countries per continent, match countries to capitals, identify major landforms, and use geographic clues to identify places?"
+        }
       ]
     },
     "parent_notes": "Geography games are the best assessment tool because they test recall in a low-pressure, high-energy format. The continent challenge reveals which regions the child knows best and which need summer reinforcement. Capital cities are a classic geography skill that, once learned, provides a mental framework for understanding world events. Landform identification connects to physical geography and helps the child read and interpret maps. The 'Where in the World' game requires the most sophisticated thinking: synthesizing multiple pieces of geographic information to identify a specific place. Keep track of which areas are strong and which are gaps — this is valuable information for continuing geographic education. The completed atlas page is a beautiful capstone that belongs in the child's portfolio. Consider framing it or laminating it. Geography knowledge, once built this broadly, provides a lifetime foundation for understanding the world.",
@@ -654,17 +1731,62 @@
     "instructions": "1. 'All year we have studied cultures from around the world. But there is one culture we have not explored yet — YOURS! Today you discover your own cultural heritage.'\n2. Discuss: 'Where did your family come from? What traditions does your family have? What foods, holidays, stories, or customs are important in your family?'\n3. Explore multiple layers of identity: family heritage, community traditions, regional culture, national identity, and personal interests.\n4. Create a 'Cultural Identity Map' — a visual representation with the child at the center and branches showing all their cultural connections:\n   - Family traditions and heritage\n   - Languages spoken or known\n   - Foods special to the family\n   - Holidays and celebrations\n   - Music, art, and stories that matter\n   - Values and beliefs\n   - Community and friends\n5. 'You are a unique blend of all these influences. No one else in the world has the same cultural identity as you!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Large paper for Cultural Identity Map", "Colored pencils and markers", "Family photos or cultural objects (optional)", "World map to mark heritage locations", "Stickers or decorative materials"],
+    "materials_needed": [
+      "Large paper for Cultural Identity Map",
+      "Colored pencils and markers",
+      "Family photos or cultural objects (optional)",
+      "World map to mark heritage locations",
+      "Stickers or decorative materials"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My Cultural Identity", "subheading": "Discovering the Cultures Within Me"},
-        {"type": "materials", "items": ["Large paper", "Colored pencils and markers", "Family photos (optional)", "World map", "Decorative materials"], "setup_instructions": "Prepare a large paper template with the child's name or photo in the center and radiating branches for different cultural categories. Have the world map available for marking heritage locations. If possible, gather family photos or cultural objects for discussion."},
-        {"type": "instruction", "step": 1, "text": "Begin with identity: 'This year you learned about dozens of cultures — Egyptian, Greek, Roman, Chinese, Indian, African, and more. But there is one culture that is the most important of all — YOUR culture. The unique blend of traditions, values, and experiences that make you who you are.'"},
-        {"type": "instruction", "step": 2, "text": "Explore heritage: 'Where did your family come from? Your parents, grandparents, great-grandparents? Every family has a story. Find these places on the world map. You are connected to all of them!'"},
-        {"type": "instruction", "step": 3, "text": "Explore traditions: 'What foods are special in your family? What holidays do you celebrate and how? What stories do your grandparents tell? What music does your family love? These are all parts of your cultural identity.'"},
-        {"type": "instruction", "step": 4, "text": "Create your map: 'Put yourself in the center. Draw branches for each area: heritage, traditions, food, holidays, language, music, values, community. Fill in each branch with specific details. You are creating a map of everything that makes you uniquely YOU.'"},
-        {"type": "activity", "prompt": "Create your Cultural Identity Map with at least 6 branches, each containing at least 3 specific details. Mark your heritage locations on the world map. Write a paragraph at the bottom titled 'What I Love About My Culture' explaining what makes your cultural identity special to you.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Celebrate individuality: 'Look at your Cultural Identity Map — it is as unique as a fingerprint! Every person is a blend of cultures, traditions, and experiences that no one else shares exactly. Understanding YOUR culture helps you appreciate others, and understanding OTHERS helps you appreciate your own.'", "mastery_check": "Can the child identify and articulate multiple elements of their cultural heritage, connect personal identity to geographic and historical contexts, and express appreciation for their unique cultural background?"}
+        {
+          "type": "title",
+          "heading": "My Cultural Identity",
+          "subheading": "Discovering the Cultures Within Me",
+          "image_url": "https://images.pexels.com/photos/4714521/pexels-photo-4714521.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large paper",
+            "Colored pencils and markers",
+            "Family photos (optional)",
+            "World map",
+            "Decorative materials"
+          ],
+          "setup_instructions": "Prepare a large paper template with the child's name or photo in the center and radiating branches for different cultural categories. Have the world map available for marking heritage locations. If possible, gather family photos or cultural objects for discussion."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Begin with identity: 'This year you learned about dozens of cultures — Egyptian, Greek, Roman, Chinese, Indian, African, and more. But there is one culture that is the most important of all — YOUR culture. The unique blend of traditions, values, and experiences that make you who you are.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Explore heritage: 'Where did your family come from? Your parents, grandparents, great-grandparents? Every family has a story. Find these places on the world map. You are connected to all of them!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Explore traditions: 'What foods are special in your family? What holidays do you celebrate and how? What stories do your grandparents tell? What music does your family love? These are all parts of your cultural identity.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Create your map: 'Put yourself in the center. Draw branches for each area: heritage, traditions, food, holidays, language, music, values, community. Fill in each branch with specific details. You are creating a map of everything that makes you uniquely YOU.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your Cultural Identity Map with at least 6 branches, each containing at least 3 specific details. Mark your heritage locations on the world map. Write a paragraph at the bottom titled 'What I Love About My Culture' explaining what makes your cultural identity special to you.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Celebrate individuality: 'Look at your Cultural Identity Map — it is as unique as a fingerprint! Every person is a blend of cultures, traditions, and experiences that no one else shares exactly. Understanding YOUR culture helps you appreciate others, and understanding OTHERS helps you appreciate your own.'",
+          "mastery_check": "Can the child identify and articulate multiple elements of their cultural heritage, connect personal identity to geographic and historical contexts, and express appreciation for their unique cultural background?"
+        }
       ]
     },
     "parent_notes": "This is one of the most personally meaningful lessons of the year. After studying cultures around the world, the child turns the lens inward to explore their own cultural identity. This develops self-awareness and pride while connecting personal experience to the broader human tapestry. The Cultural Identity Map reveals what the child sees as important about their family and community — share this process by participating; tell your child about their heritage, traditions, and the family stories that shaped who you are. Every family has culture, even if it does not feel 'exotic' — the traditions of movie night, Sunday dinner, holiday rituals, and bedtime stories are all cultural practices. For multiracial or multicultural families, this activity celebrates the richness of blended identities. The key message: your culture is something to be proud of, and it connects you to people across time and space. This is the ultimate Montessori culture lesson — the child sees themselves as both unique and part of the whole.",
@@ -682,17 +1804,60 @@
     "instructions": "1. 'We have read so many wonderful books together this year. This story is about what books DO for us — how they change us and how we pass the joy of reading on to others.'\n2. Read the story, noting the beautiful illustrations that tell as much of the story as the words.\n3. Pause when Mr. Morris finds the books: 'Books found him when he needed them most. Has a book ever found you at just the right time?'\n4. When he cares for the books: 'He did not just read them — he loved them, fixed them, shared them. How do you care for your books?'\n5. When he passes the stories on: 'The best thing about a great story is sharing it with someone else.'\n6. After reading: 'What is the book that changed YOUR life this year? What book would you recommend to every child?'\n7. Write a 'book review' of their favorite book from the year — for an imaginary reader who has not discovered it yet.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["The Fantastic Flying Books of Mr. Morris Lessmore by William Joyce", "Paper for book review", "Colored pencils for illustration", "List of books read this year for reference"],
+    "materials_needed": [
+      "The Fantastic Flying Books of Mr. Morris Lessmore by William Joyce",
+      "Paper for book review",
+      "Colored pencils for illustration",
+      "List of books read this year for reference"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Fantastic Flying Books", "subheading": "A Celebration of Stories and Reading"},
-        {"type": "materials", "items": ["The Fantastic Flying Books by William Joyce", "Book review paper", "Colored pencils", "Year's reading list"], "setup_instructions": "Have the book ready. If unavailable, substitute with The Library by Sarah Stewart or The Incredible Book Eating Boy by Oliver Jeffers. If possible, compile a list of all books read aloud this year for reflection."},
-        {"type": "instruction", "step": 1, "text": "Set the mood: 'We have shared so many stories this year — funny ones, sad ones, true ones, and impossible ones. Today we read a story that celebrates stories themselves. It is about what books do for our hearts and minds.'"},
-        {"type": "instruction", "step": 2, "text": "Read and absorb. This book works on multiple levels — let the child experience it first as a story, then as a metaphor. The visual storytelling is extraordinary; spend time with the illustrations."},
-        {"type": "instruction", "step": 3, "text": "Discuss the magic of books: 'Books found Mr. Morris when he was lost and gave him purpose. Stories healed him. And when he grew old, his stories lived on in others. What does that tell us about the power of books and reading?'"},
-        {"type": "instruction", "step": 4, "text": "Reflect on the year: 'Think about all the books we read this year. Which one was your FAVORITE? Which one changed how you think? Which one would you want every child in the world to read? Write a review of that book — make someone else want to read it!'"},
-        {"type": "activity", "prompt": "Write a book review of your favorite read-aloud from this year. Include: the title and author, a brief summary (without spoilers!), what makes it special, who would love it, and your personal rating (out of 5 stars). Illustrate a scene from the book.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Close with gratitude: 'Reading together has been one of the most precious parts of this year. Every story we shared became part of both of us. Keep reading, keep sharing stories, and keep letting books take you to places you have never been.'", "mastery_check": "Can the child articulate the thematic message about the power of stories, write a persuasive book review, and express a personal connection to reading and literature?"}
+        {
+          "type": "title",
+          "heading": "The Fantastic Flying Books",
+          "subheading": "A Celebration of Stories and Reading",
+          "image_url": "https://images.pexels.com/photos/3890481/pexels-photo-3890481.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "The Fantastic Flying Books by William Joyce",
+            "Book review paper",
+            "Colored pencils",
+            "Year's reading list"
+          ],
+          "setup_instructions": "Have the book ready. If unavailable, substitute with The Library by Sarah Stewart or The Incredible Book Eating Boy by Oliver Jeffers. If possible, compile a list of all books read aloud this year for reflection."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the mood: 'We have shared so many stories this year — funny ones, sad ones, true ones, and impossible ones. Today we read a story that celebrates stories themselves. It is about what books do for our hearts and minds.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read and absorb. This book works on multiple levels — let the child experience it first as a story, then as a metaphor. The visual storytelling is extraordinary; spend time with the illustrations."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Discuss the magic of books: 'Books found Mr. Morris when he was lost and gave him purpose. Stories healed him. And when he grew old, his stories lived on in others. What does that tell us about the power of books and reading?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Reflect on the year: 'Think about all the books we read this year. Which one was your FAVORITE? Which one changed how you think? Which one would you want every child in the world to read? Write a review of that book — make someone else want to read it!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write a book review of your favorite read-aloud from this year. Include: the title and author, a brief summary (without spoilers!), what makes it special, who would love it, and your personal rating (out of 5 stars). Illustrate a scene from the book.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Close with gratitude: 'Reading together has been one of the most precious parts of this year. Every story we shared became part of both of us. Keep reading, keep sharing stories, and keep letting books take you to places you have never been.'",
+          "mastery_check": "Can the child articulate the thematic message about the power of stories, write a persuasive book review, and express a personal connection to reading and literature?"
+        }
       ]
     },
     "parent_notes": "This story is a love letter to books and reading, and reading it near the end of the year celebrates the read-aloud tradition you have shared with your child. The Fantastic Flying Books works on multiple levels: as a simple story, as a meditation on the lifecycle of stories, and as a metaphor for how we are changed by what we read and how we pass that change forward. The book review activity develops persuasive writing (convince someone to read this!) and critical thinking (what makes a book great?). Consider compiling a list of every book you read together this year — many families are astonished at the total. Each book left something in the child's mind and heart. The act of recommending a book to others is one of the most authentic literacy activities: it requires comprehension, evaluation, and persuasion. As the year of read-alouds closes, know that this daily ritual has built not just literacy skills but a deep emotional association between reading and connection.",

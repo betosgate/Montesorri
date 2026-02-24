@@ -10,16 +10,56 @@
     "instructions": "1. Set up tray with pitcher and three glasses.\n2. Demonstrate pouring small amounts into each glass, going around twice.\n3. Compare levels — are they even?\n4. Pour back and try again.\n5. Child practices independently.\n6. Clean up spills with sponge.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Small tray", "One pitcher", "Three small glasses", "Sponge", "Water"],
+    "materials_needed": [
+      "Small tray",
+      "One pitcher",
+      "Three small glasses",
+      "Sponge",
+      "Water"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Pouring Water", "subheading": "Pitcher to Three Glasses"},
-        {"type": "materials", "items": ["Pitcher", "Three matching glasses", "Tray", "Sponge"], "setup_instructions": "Fill pitcher halfway. Arrange three glasses in a row on the tray."},
-        {"type": "instruction", "step": 1, "text": "'Today we have THREE glasses. The challenge is to fill them all the same amount!'"},
-        {"type": "instruction", "step": 2, "text": "Pour a little into glass 1, a little into glass 2, a little into glass 3. Go around again."},
-        {"type": "instruction", "step": 3, "text": "Compare: 'Are they equal? Which one needs more? Which has too much?'"},
-        {"type": "activity", "prompt": "Practice 3 times. Each time, try to make the glasses more and more equal.", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Clean up and return materials. 'Pouring into three is tricky but you're getting better!'", "mastery_check": "Can the child pour approximately equal amounts into three glasses?"}
+        {
+          "type": "title",
+          "heading": "Pouring Water",
+          "subheading": "Pitcher to Three Glasses",
+          "image_url": "https://images.pexels.com/photos/8507615/pexels-photo-8507615.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pitcher",
+            "Three matching glasses",
+            "Tray",
+            "Sponge"
+          ],
+          "setup_instructions": "Fill pitcher halfway. Arrange three glasses in a row on the tray."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today we have THREE glasses. The challenge is to fill them all the same amount!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Pour a little into glass 1, a little into glass 2, a little into glass 3. Go around again."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Compare: 'Are they equal? Which one needs more? Which has too much?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice 3 times. Each time, try to make the glasses more and more equal.",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Clean up and return materials. 'Pouring into three is tricky but you're getting better!'",
+          "mastery_check": "Can the child pour approximately equal amounts into three glasses?"
+        }
       ]
     },
     "parent_notes": "Three glasses introduces more complex estimation — a precursor to division concepts. The child naturally thinks about 'fair shares.' If frustrated, go back to two glasses and build confidence first. This is also great practice for pouring drinks at the table — a real-life skill.",
@@ -37,16 +77,54 @@
     "instructions": "1. Present sandpaper letter 'p'.\n2. Trace while saying /p/ (quick puff of air). Repeat 3 times.\n3. Child traces and says the sound.\n4. Three-period lesson.\n5. Review all five letters.\n6. Build new words: 'pat', 'map', 'tap', 'sap'.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Sandpaper letter 'p'", "All previously learned letters", "Moveable alphabet", "Tray"],
+    "materials_needed": [
+      "Sandpaper letter 'p'",
+      "All previously learned letters",
+      "Moveable alphabet",
+      "Tray"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Sandpaper Letter", "subheading": "The Sound /p/"},
-        {"type": "materials", "items": ["Sandpaper letter 'p'", "Letters s, m, a, t", "Moveable alphabet letters"], "setup_instructions": "Place 'p' on tray. Keep review letters and moveable alphabet ready."},
-        {"type": "instruction", "step": 1, "text": "Trace 'p': straight line down, then bump out. Say '/p/' — a quick puff of air."},
-        {"type": "instruction", "step": 2, "text": "Child traces. Three-period lesson. Then review all five letters."},
-        {"type": "instruction", "step": 3, "text": "'With our new sound, we can build NEW words!' Sound out: /p/-/a/-/t/ = pat!"},
-        {"type": "activity", "prompt": "Build with the moveable alphabet: pat, map, tap, sap. Sound out each word as you build it.", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'Five sounds and so many words! You're becoming a word builder!'", "mastery_check": "Can the child identify /p/ and build new CVC words?"}
+        {
+          "type": "title",
+          "heading": "Sandpaper Letter",
+          "subheading": "The Sound /p/",
+          "image_url": "https://images.pexels.com/photos/247819/pexels-photo-247819.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sandpaper letter 'p'",
+            "Letters s, m, a, t",
+            "Moveable alphabet letters"
+          ],
+          "setup_instructions": "Place 'p' on tray. Keep review letters and moveable alphabet ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Trace 'p': straight line down, then bump out. Say '/p/' — a quick puff of air."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Child traces. Three-period lesson. Then review all five letters."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'With our new sound, we can build NEW words!' Sound out: /p/-/a/-/t/ = pat!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Build with the moveable alphabet: pat, map, tap, sap. Sound out each word as you build it.",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Five sounds and so many words! You're becoming a word builder!'",
+          "mastery_check": "Can the child identify /p/ and build new CVC words?"
+        }
       ]
     },
     "parent_notes": "Each new consonant opens up many new word possibilities. With s, m, a, t, p the child can now build: sat, mat, pat, tap, map, sap, am, at, Sam, Pam, and more. Word building should feel like play. If the child wants to build 'words' that aren't real words, that's fine — the phonetic process is what matters.",
@@ -64,16 +142,54 @@
     "instructions": "1. Present the spindle box with compartments 0-4.\n2. Point to '0': 'Zero means nothing — no spindles go here.' Leave it empty.\n3. Point to '1': 'One.' Place 1 spindle. Bind with rubber band.\n4. Continue through 4.\n5. Emphasize: '0 means none. The compartment stays empty.'\n6. Child practices independently.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Spindle box (0-9)", "45 spindles", "Rubber bands (optional)", "Basket for spindles"],
+    "materials_needed": [
+      "Spindle box (0-9)",
+      "45 spindles",
+      "Rubber bands (optional)",
+      "Basket for spindles"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Spindle Box", "subheading": "Learning Zero — Quantities 0-4"},
-        {"type": "materials", "items": ["Spindle box", "Spindles (at least 10 for 0-4)", "Rubber bands"], "setup_instructions": "Place the spindle box on the table. Put spindles in a basket beside it."},
-        {"type": "instruction", "step": 1, "text": "Point to the '0' compartment: 'This is zero. Zero means NONE. Nothing goes in here.' Touch the empty space."},
-        {"type": "instruction", "step": 2, "text": "Point to '1': count out one spindle. Place it in. '2': count out two. Bind each group with a rubber band."},
-        {"type": "instruction", "step": 3, "text": "Continue through '4'. Emphasize counting each spindle aloud as you place it."},
-        {"type": "activity", "prompt": "Empty all spindles. Now YOU fill compartments 0-4. Remember — zero gets nothing!", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'You learned about zero today! Zero is special — it means none.'", "mastery_check": "Does the child understand that zero means no objects?"}
+        {
+          "type": "title",
+          "heading": "The Spindle Box",
+          "subheading": "Learning Zero — Quantities 0-4",
+          "image_url": "https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Spindle box",
+            "Spindles (at least 10 for 0-4)",
+            "Rubber bands"
+          ],
+          "setup_instructions": "Place the spindle box on the table. Put spindles in a basket beside it."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Point to the '0' compartment: 'This is zero. Zero means NONE. Nothing goes in here.' Touch the empty space."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Point to '1': count out one spindle. Place it in. '2': count out two. Bind each group with a rubber band."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Continue through '4'. Emphasize counting each spindle aloud as you place it."
+        },
+        {
+          "type": "activity",
+          "prompt": "Empty all spindles. Now YOU fill compartments 0-4. Remember — zero gets nothing!",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You learned about zero today! Zero is special — it means none.'",
+          "mastery_check": "Does the child understand that zero means no objects?"
+        }
       ]
     },
     "parent_notes": "The spindle box introduces THREE crucial concepts: (1) Zero as the absence of quantity, (2) That each numeral represents a fixed quantity, and (3) That individual objects can be grouped. The rubber bands show that '4' is a GROUP of four individual items. This is different from the number rods where 4 is a single rod. Both representations deepen understanding.",
@@ -91,16 +207,56 @@
     "instructions": "1. Bring in a real plant with visible roots (pulled from soil), stem, leaves, and flower.\n2. Point to each part and name it: root, stem, leaf, flower.\n3. Explain each part's job simply.\n4. The child draws and labels the plant parts.\n5. Use the botany puzzle if available.\n6. Go outside and find each plant part on different plants.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Real plant with roots visible", "Drawing paper", "Green and other colored pencils", "Botany puzzle (optional)", "Labels: root, stem, leaf, flower"],
+    "materials_needed": [
+      "Real plant with roots visible",
+      "Drawing paper",
+      "Green and other colored pencils",
+      "Botany puzzle (optional)",
+      "Labels: root, stem, leaf, flower"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Parts of a Plant", "subheading": "Root, Stem, Leaf, Flower"},
-        {"type": "materials", "items": ["Real plant specimen", "Drawing paper and pencils", "Labels", "Optional: botany puzzle"], "setup_instructions": "Gently pull a weed or small plant from the soil to show roots. Wash roots gently."},
-        {"type": "instruction", "step": 1, "text": "Hold up the plant. 'Every plant has special parts. Let's learn their names!'"},
-        {"type": "instruction", "step": 2, "text": "Roots: 'These are the roots. They drink water from the soil.' Stem: 'This carries the water up.' Leaves: 'These catch sunlight.' Flower: 'This makes seeds for new plants!'"},
-        {"type": "instruction", "step": 3, "text": "Place labels next to each part. Have the child repeat each name."},
-        {"type": "activity", "prompt": "Draw a plant and label the four parts: root, stem, leaf, and flower.", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'Every plant has these parts! Let's find them on plants outside.'", "mastery_check": "Can the child name all four basic plant parts?"}
+        {
+          "type": "title",
+          "heading": "Parts of a Plant",
+          "subheading": "Root, Stem, Leaf, Flower",
+          "image_url": "https://images.pexels.com/photos/8471944/pexels-photo-8471944.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Real plant specimen",
+            "Drawing paper and pencils",
+            "Labels",
+            "Optional: botany puzzle"
+          ],
+          "setup_instructions": "Gently pull a weed or small plant from the soil to show roots. Wash roots gently."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Hold up the plant. 'Every plant has special parts. Let's learn their names!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Roots: 'These are the roots. They drink water from the soil.' Stem: 'This carries the water up.' Leaves: 'These catch sunlight.' Flower: 'This makes seeds for new plants!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Place labels next to each part. Have the child repeat each name."
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw a plant and label the four parts: root, stem, leaf, and flower.",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Every plant has these parts! Let's find them on plants outside.'",
+          "mastery_check": "Can the child name all four basic plant parts?"
+        }
       ]
     },
     "parent_notes": "Botany is a major Montessori subject. This first lesson uses a real specimen — much more impactful than a picture. A dandelion or herb plant works perfectly. The child doesn't need to know photosynthesis yet; simple explanations are best: 'Roots drink water. Leaves catch sunlight. The stem is like a highway for water.' Connect this to the garden, meals, and nature walks.",
@@ -118,16 +274,51 @@
     "instructions": "1. Show the cover. 'What do you see on his head?'\n2. Read aloud with dramatic expression, especially the monkeys' 'Tsk, tsk, tsk!'\n3. Let the child join in on the repeated phrases.\n4. After reading, sequence the events: 'What happened first? Then what?'\n5. Act it out: stack hats on head, shake fist at monkeys.\n6. Discuss: 'How did the man solve his problem?'",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Caps for Sale by Esphyr Slobodkina", "Optional: several hats or caps for dramatic play"],
+    "materials_needed": [
+      "Caps for Sale by Esphyr Slobodkina",
+      "Optional: several hats or caps for dramatic play"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "Caps for Sale by Esphyr Slobodkina"},
-        {"type": "materials", "items": ["Caps for Sale book", "Optional: hats for acting out"], "setup_instructions": "Gather several hats if available for dramatic retelling."},
-        {"type": "instruction", "step": 1, "text": "Cover: 'What's on this man's head? How many caps can you count?'"},
-        {"type": "instruction", "step": 2, "text": "Read with drama! The peddler's calls, the monkeys' 'Tsk, tsk, tsk!' — let the child join in."},
-        {"type": "instruction", "step": 3, "text": "Discuss: 'What happened first? What did the monkeys do? How did he get his caps back?'"},
-        {"type": "activity", "prompt": "Act it out! Stack hats on your head. Pretend to fall asleep. Be the monkeys! How does it end?", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "'What a funny story! The monkeys copied everything he did!'", "mastery_check": "Can the child retell the story in the correct sequence?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "Caps for Sale by Esphyr Slobodkina",
+          "image_url": "https://images.pexels.com/photos/5604251/pexels-photo-5604251.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Caps for Sale book",
+            "Optional: hats for acting out"
+          ],
+          "setup_instructions": "Gather several hats if available for dramatic retelling."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Cover: 'What's on this man's head? How many caps can you count?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read with drama! The peddler's calls, the monkeys' 'Tsk, tsk, tsk!' — let the child join in."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Discuss: 'What happened first? What did the monkeys do? How did he get his caps back?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Act it out! Stack hats on your head. Pretend to fall asleep. Be the monkeys! How does it end?",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "'What a funny story! The monkeys copied everything he did!'",
+          "mastery_check": "Can the child retell the story in the correct sequence?"
+        }
       ]
     },
     "parent_notes": "This story teaches sequencing, problem-solving, and the concept of imitation (the monkeys copy). The repetitive structure supports memory and prediction. Acting it out deepens comprehension and is joyful. Color words are reinforced (gray caps, brown caps, blue caps, red caps). This is a wonderful book for repeated readings.",
@@ -145,16 +336,50 @@
     "instructions": "1. Place Block 1 on the table.\n2. Remove all cylinders starting from one end, placing them randomly.\n3. Pick up a cylinder. Try it in different sockets until it fits.\n4. Continue until all are replaced.\n5. Show how the control of error works — wrong socket won't fit properly.\n6. Child works independently.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Knobbed Cylinder Block 1", "Table or work mat"],
+    "materials_needed": [
+      "Knobbed Cylinder Block 1",
+      "Table or work mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Knobbed Cylinders", "subheading": "Block 1"},
-        {"type": "materials", "items": ["Knobbed Cylinder Block 1"], "setup_instructions": "Place the block on the table. Ensure good lighting so the child can see size differences."},
-        {"type": "instruction", "step": 1, "text": "Use three fingers (thumb, index, middle) to grasp the knob. Remove each cylinder, placing them in front."},
-        {"type": "instruction", "step": 2, "text": "Mix the cylinders. 'Now let's put them back! Each one has its own special place.'"},
-        {"type": "instruction", "step": 3, "text": "Pick up a cylinder. Try it in a socket. If it's too big or too small, try another. The right one fits perfectly!"},
-        {"type": "activity", "prompt": "Remove all cylinders and put them back. Time yourself — then do it again!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Return the block to the shelf. 'Your eyes are getting very good at seeing differences in size!'", "mastery_check": "Can the child replace all cylinders in the correct sockets?"}
+        {
+          "type": "title",
+          "heading": "Knobbed Cylinders",
+          "subheading": "Block 1",
+          "image_url": "https://images.pexels.com/photos/5386604/pexels-photo-5386604.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Knobbed Cylinder Block 1"
+          ],
+          "setup_instructions": "Place the block on the table. Ensure good lighting so the child can see size differences."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Use three fingers (thumb, index, middle) to grasp the knob. Remove each cylinder, placing them in front."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Mix the cylinders. 'Now let's put them back! Each one has its own special place.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Pick up a cylinder. Try it in a socket. If it's too big or too small, try another. The right one fits perfectly!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Remove all cylinders and put them back. Time yourself — then do it again!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Return the block to the shelf. 'Your eyes are getting very good at seeing differences in size!'",
+          "mastery_check": "Can the child replace all cylinders in the correct sockets?"
+        }
       ]
     },
     "parent_notes": "The knobbed cylinders develop visual discrimination of dimension AND the three-finger grip used in writing. Block 1 varies in both diameter and height. The material is self-correcting: if a cylinder is in the wrong socket, the last one won't fit. Let the child discover this rather than pointing it out. Children often repeat this work many times — it's deeply satisfying.",
@@ -172,16 +397,54 @@
     "instructions": "1. Review letter sounds: s, m, a, t, p.\n2. Build words together: 'map', 'tap', 'pat', 'sap', 'spam'.\n3. For each word: sound it out slowly, child finds each letter.\n4. After building, 'read' the word back by blending sounds.\n5. Let the child choose objects and build the word for each.\n6. Extension: can the child build a word without help?",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Moveable alphabet", "Work mat", "Small objects (map, tap, pat related)", "Tray"],
+    "materials_needed": [
+      "Moveable alphabet",
+      "Work mat",
+      "Small objects (map, tap, pat related)",
+      "Tray"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Word Building", "subheading": "More CVC Words"},
-        {"type": "materials", "items": ["Moveable alphabet letters: s, m, a, t, p", "Work mat", "Miniature objects"], "setup_instructions": "Lay out the mat. Place needed letters from the moveable alphabet nearby."},
-        {"type": "instruction", "step": 1, "text": "Review sounds: hold up each letter. Child says the sound. Quick and playful."},
-        {"type": "instruction", "step": 2, "text": "'Let's build MAP. Listen: /m/ - /a/ - /p/. What's first?' Child selects m. '/a/?' → a. '/p/?' → p. 'MAP!'"},
-        {"type": "instruction", "step": 3, "text": "Build more words. Then try: 'Here is a tap (show object). Can you build the word TAP?'"},
-        {"type": "activity", "prompt": "Build 5 words: map, tap, pat, sap, mat. Then try to build one word all by yourself — choose any word!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Read back all the words together. 'Look at all these words you made!'", "mastery_check": "Can the child independently build at least 1 CVC word?"}
+        {
+          "type": "title",
+          "heading": "Word Building",
+          "subheading": "More CVC Words",
+          "image_url": "https://images.pexels.com/photos/8613089/pexels-photo-8613089.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Moveable alphabet letters: s, m, a, t, p",
+            "Work mat",
+            "Miniature objects"
+          ],
+          "setup_instructions": "Lay out the mat. Place needed letters from the moveable alphabet nearby."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review sounds: hold up each letter. Child says the sound. Quick and playful."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Let's build MAP. Listen: /m/ - /a/ - /p/. What's first?' Child selects m. '/a/?' → a. '/p/?' → p. 'MAP!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Build more words. Then try: 'Here is a tap (show object). Can you build the word TAP?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Build 5 words: map, tap, pat, sap, mat. Then try to build one word all by yourself — choose any word!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Read back all the words together. 'Look at all these words you made!'",
+          "mastery_check": "Can the child independently build at least 1 CVC word?"
+        }
       ]
     },
     "parent_notes": "Building words is encoding (spelling). Reading words is decoding. In Montessori, encoding typically comes first. The child may or may not be able to READ the words they build — both are normal. Don't push reading yet. Let the magic of building words with sounds be enough. Some children will naturally start blending to read; let that happen organically.",
@@ -199,16 +462,53 @@
     "instructions": "1. Review 0-4 from previous lesson.\n2. Extend to 5: count out 5 spindles, place in compartment. Rubber band.\n3. Continue through 9.\n4. Verify: count total spindles used (0+1+2+3+4+5+6+7+8+9 = 45).\n5. Emphasize zero again: 'Zero is still empty.'\n6. Child does the full exercise independently.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Spindle box (0-9)", "45 spindles", "Rubber bands"],
+    "materials_needed": [
+      "Spindle box (0-9)",
+      "45 spindles",
+      "Rubber bands"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Spindle Box", "subheading": "Complete Set 0-9"},
-        {"type": "materials", "items": ["Spindle box", "45 spindles", "Rubber bands"], "setup_instructions": "All 45 spindles in a basket. Spindle box on the table."},
-        {"type": "instruction", "step": 1, "text": "Review 0-4. 'Today let's fill ALL the compartments — from zero to nine!'"},
-        {"type": "instruction", "step": 2, "text": "Count out spindles for 5, 6, 7, 8, 9. Rubber band each group before placing."},
-        {"type": "instruction", "step": 3, "text": "'Check: if we did it right, we should use every single spindle. Let's see... all 45!'"},
-        {"type": "activity", "prompt": "Empty everything and do the whole box by yourself — 0 through 9!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You filled the whole spindle box! Every number from zero to nine.'", "mastery_check": "Can the child fill all compartments correctly and independently?"}
+        {
+          "type": "title",
+          "heading": "The Spindle Box",
+          "subheading": "Complete Set 0-9",
+          "image_url": "https://images.pexels.com/photos/6238050/pexels-photo-6238050.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Spindle box",
+            "45 spindles",
+            "Rubber bands"
+          ],
+          "setup_instructions": "All 45 spindles in a basket. Spindle box on the table."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review 0-4. 'Today let's fill ALL the compartments — from zero to nine!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Count out spindles for 5, 6, 7, 8, 9. Rubber band each group before placing."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Check: if we did it right, we should use every single spindle. Let's see... all 45!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Empty everything and do the whole box by yourself — 0 through 9!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You filled the whole spindle box! Every number from zero to nine.'",
+          "mastery_check": "Can the child fill all compartments correctly and independently?"
+        }
       ]
     },
     "parent_notes": "The self-correcting nature of the spindle box is elegant: if the child miscounts anywhere, they'll have too many or too few spindles at the end. This natural feedback teaches the child to self-check. The rubber bands are significant — they show that '7' is a group of 7 individual items, connecting to the concept of sets.",
@@ -226,16 +526,56 @@
     "instructions": "1. Review island/lake and peninsula/gulf.\n2. Introduce isthmus: 'A narrow strip of land connecting two larger pieces of land.' Pour water.\n3. Introduce strait: 'A narrow strip of water connecting two larger bodies of water.' Pour water.\n4. 'They're opposites again!'\n5. Draw and label each.\n6. Real examples: Isthmus of Panama, Strait of Gibraltar.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Land/water form trays (isthmus and strait)", "Water", "Drawing paper", "Colored pencils", "Map or globe"],
+    "materials_needed": [
+      "Land/water form trays (isthmus and strait)",
+      "Water",
+      "Drawing paper",
+      "Colored pencils",
+      "Map or globe"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Land and Water Forms", "subheading": "Isthmus and Strait"},
-        {"type": "materials", "items": ["Isthmus and strait form trays", "Water", "Paper and pencils", "Globe"], "setup_instructions": "Set up trays on towels. Have the globe handy for real-world examples."},
-        {"type": "instruction", "step": 1, "text": "Review: 'What is an island? A peninsula? Name the opposites!'"},
-        {"type": "instruction", "step": 2, "text": "Isthmus: 'A thin bridge of LAND connecting two big pieces of land.' Pour water on both sides."},
-        {"type": "instruction", "step": 3, "text": "Strait: 'A thin bridge of WATER connecting two big bodies of water.' Pour water through it."},
-        {"type": "activity", "prompt": "Draw both: an isthmus (land bridge with water on both sides) and a strait (water channel with land on both sides).", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'Six land and water forms! Island-lake, peninsula-gulf, isthmus-strait. You're a geographer!'", "mastery_check": "Can the child define isthmus and strait and identify them as opposites?"}
+        {
+          "type": "title",
+          "heading": "Land and Water Forms",
+          "subheading": "Isthmus and Strait",
+          "image_url": "https://images.pexels.com/photos/8923259/pexels-photo-8923259.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Isthmus and strait form trays",
+            "Water",
+            "Paper and pencils",
+            "Globe"
+          ],
+          "setup_instructions": "Set up trays on towels. Have the globe handy for real-world examples."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'What is an island? A peninsula? Name the opposites!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Isthmus: 'A thin bridge of LAND connecting two big pieces of land.' Pour water on both sides."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Strait: 'A thin bridge of WATER connecting two big bodies of water.' Pour water through it."
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw both: an isthmus (land bridge with water on both sides) and a strait (water channel with land on both sides).",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Six land and water forms! Island-lake, peninsula-gulf, isthmus-strait. You're a geographer!'",
+          "mastery_check": "Can the child define isthmus and strait and identify them as opposites?"
+        }
       ]
     },
     "parent_notes": "The Isthmus of Panama (connecting North and South America) is a wonderful real-world example — show it on the globe! The child can see how it separates the Pacific and Atlantic oceans. These geographic concepts seem advanced for kindergarten, but the concrete trays make them accessible and memorable.",
@@ -253,16 +593,54 @@
     "instructions": "1. Set up a mirror at the child's level.\n2. 'Look in the mirror. What do you see? What shape is your face?'\n3. Draw an oval for the head together.\n4. 'Where are your eyes? About in the middle!' Draw circles for eyes.\n5. Continue: nose, mouth, ears, hair.\n6. Add details: eye color, hair color, clothes.\n7. Display the self-portrait proudly.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Mirror", "Drawing paper", "Crayons or colored pencils", "Pencil for outline"],
+    "materials_needed": [
+      "Mirror",
+      "Drawing paper",
+      "Crayons or colored pencils",
+      "Pencil for outline"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Drawing", "subheading": "My Self-Portrait"},
-        {"type": "materials", "items": ["Mirror", "Drawing paper", "Crayons and pencils"], "setup_instructions": "Place the mirror where the child can see their full face. Set out paper and drawing tools."},
-        {"type": "instruction", "step": 1, "text": "'Today you're going to draw YOURSELF! Look in the mirror. What shape is your face?'"},
-        {"type": "instruction", "step": 2, "text": "Guide: draw an oval. 'Eyes are in the middle — not at the top! Nose below, mouth below that.'"},
-        {"type": "instruction", "step": 3, "text": "'What color are your eyes? Your hair? Add all the details you see!'"},
-        {"type": "activity", "prompt": "Add details: eyelashes, eyebrows, ears, hair, neck, and even a shirt. Make it look like YOU!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Sign your name (or first letter). Date it. 'This is you TODAY! We'll make another one later this year.'", "mastery_check": "Does the portrait include at least 5 facial features?"}
+        {
+          "type": "title",
+          "heading": "Drawing",
+          "subheading": "My Self-Portrait",
+          "image_url": "https://images.pexels.com/photos/1246437/pexels-photo-1246437.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Mirror",
+            "Drawing paper",
+            "Crayons and pencils"
+          ],
+          "setup_instructions": "Place the mirror where the child can see their full face. Set out paper and drawing tools."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today you're going to draw YOURSELF! Look in the mirror. What shape is your face?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Guide: draw an oval. 'Eyes are in the middle — not at the top! Nose below, mouth below that.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'What color are your eyes? Your hair? Add all the details you see!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Add details: eyelashes, eyebrows, ears, hair, neck, and even a shirt. Make it look like YOU!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Sign your name (or first letter). Date it. 'This is you TODAY! We'll make another one later this year.'",
+          "mastery_check": "Does the portrait include at least 5 facial features?"
+        }
       ]
     },
     "parent_notes": "Self-portraits are wonderful developmental markers. Save this one and do another at mid-year and end-of-year — the growth in observation and fine motor skills will be remarkable. Children typically draw faces with eyes at the very top; gently guiding placement to the middle is fine. Accept whatever the child produces — it's THEIR self-portrait.",
@@ -280,16 +658,50 @@
     "instructions": "1. Place the button dressing frame on the table.\n2. Demonstrate unbuttoning: start at the top, use both hands.\n3. Open the flaps. Close them again.\n4. Demonstrate buttoning: push button through hole.\n5. Child practices unbuttoning, then buttoning.\n6. Connect to real clothing: 'Now you can button your own shirt!'",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Button dressing frame", "Table or tray"],
+    "materials_needed": [
+      "Button dressing frame",
+      "Table or tray"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Dressing Frame", "subheading": "Buttons"},
-        {"type": "materials", "items": ["Button dressing frame (large buttons)"], "setup_instructions": "Place the frame flat on the table in front of the child."},
-        {"type": "instruction", "step": 1, "text": "'This frame helps us practice buttoning. Watch carefully.'"},
-        {"type": "instruction", "step": 2, "text": "Unbutton: hold fabric with one hand, push button through with the other. Start at top, work down."},
-        {"type": "instruction", "step": 3, "text": "Open flaps wide. Close them. Now button: push button halfway through, grab from other side, pull through."},
-        {"type": "activity", "prompt": "Unbutton all the buttons. Open the flaps. Close them. Button all the buttons. Repeat!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You can button! Try buttoning your own clothes today.'", "mastery_check": "Can the child button and unbutton with minimal frustration?"}
+        {
+          "type": "title",
+          "heading": "Dressing Frame",
+          "subheading": "Buttons",
+          "image_url": "https://images.pexels.com/photos/3154305/pexels-photo-3154305.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Button dressing frame (large buttons)"
+          ],
+          "setup_instructions": "Place the frame flat on the table in front of the child."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'This frame helps us practice buttoning. Watch carefully.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Unbutton: hold fabric with one hand, push button through with the other. Start at top, work down."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Open flaps wide. Close them. Now button: push button halfway through, grab from other side, pull through."
+        },
+        {
+          "type": "activity",
+          "prompt": "Unbutton all the buttons. Open the flaps. Close them. Button all the buttons. Repeat!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You can button! Try buttoning your own clothes today.'",
+          "mastery_check": "Can the child button and unbutton with minimal frustration?"
+        }
       ]
     },
     "parent_notes": "Dressing frames isolate one skill at a time. Start with large buttons; small buttons come later. The child should work from top to bottom (as with real clothes). This builds independence — 'I can do it myself!' is a core Montessori goal. Practice patience: buttoning is genuinely difficult for small fingers. If you don't have a frame, practice on a shirt laid flat on the table.",
@@ -307,16 +719,55 @@
     "instructions": "1. Present sandpaper letter 'c'.\n2. Trace while saying /k/ (hard c sound). Repeat 3 times.\n3. Three-period lesson.\n4. I Spy with objects for all 6 sounds: s, m, a, t, p, c.\n5. Sort objects by beginning sound.\n6. Build new words: 'cap', 'cat', 'camp'.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Sandpaper letter 'c'", "All previous letters", "Objects for 6 sounds", "Moveable alphabet"],
+    "materials_needed": [
+      "Sandpaper letter 'c'",
+      "All previous letters",
+      "Objects for 6 sounds",
+      "Moveable alphabet"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Sandpaper Letter", "subheading": "The Sound /k/ (letter c)"},
-        {"type": "materials", "items": ["Sandpaper letter 'c'", "All previous letters", "I Spy objects", "Moveable alphabet"], "setup_instructions": "Place 'c' on tray. Prepare objects and sorting mats for 6 sounds."},
-        {"type": "instruction", "step": 1, "text": "Trace 'c': a curve that opens to the right. Say '/k/' — the hard sound. Not 'see' but /k/!"},
-        {"type": "instruction", "step": 2, "text": "Three-period lesson. Then I Spy with ALL SIX sounds — the child's biggest sound collection yet!"},
-        {"type": "instruction", "step": 3, "text": "New words: /k/-/a/-/t/ = cat! /k/-/a/-/p/ = cap!"},
-        {"type": "activity", "prompt": "Sort objects into 6 groups by sound. Then build: cat, cap, camp.", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'Six sounds! And new words like cat and cap. Amazing!'", "mastery_check": "Can the child identify the /k/ sound for letter c?"}
+        {
+          "type": "title",
+          "heading": "Sandpaper Letter",
+          "subheading": "The Sound /k/ (letter c)",
+          "image_url": "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sandpaper letter 'c'",
+            "All previous letters",
+            "I Spy objects",
+            "Moveable alphabet"
+          ],
+          "setup_instructions": "Place 'c' on tray. Prepare objects and sorting mats for 6 sounds."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Trace 'c': a curve that opens to the right. Say '/k/' — the hard sound. Not 'see' but /k/!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Three-period lesson. Then I Spy with ALL SIX sounds — the child's biggest sound collection yet!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "New words: /k/-/a/-/t/ = cat! /k/-/a/-/p/ = cap!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Sort objects into 6 groups by sound. Then build: cat, cap, camp.",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Six sounds! And new words like cat and cap. Amazing!'",
+          "mastery_check": "Can the child identify the /k/ sound for letter c?"
+        }
       ]
     },
     "parent_notes": "We teach 'c' with its hard /k/ sound only at this stage. The soft 'c' (as in 'city') comes much later. This keeps things simple and consistent. The child may wonder 'why do we need c if k makes the same sound?' — a great question for later! For now, just practice the sound. With 6 sounds, word-building possibilities multiply significantly.",
@@ -334,17 +785,58 @@
     "instructions": "1. Lay out numeral cards 1-10 in a row (odd numbers on top row, even on bottom, or in a line).\n2. Count out counters for each number: 1 under '1', 2 under '2', etc.\n3. Arrange counters in pairs (two by two, one on top of another).\n4. Point out: odd numbers have a 'lonely' counter at the bottom.\n5. Even numbers are all paired up.\n6. 'Odd numbers have a leftover. Even numbers pair up perfectly.'",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Number cards 1-10", "55 counters (same color)", "Floor mat or large table"],
+    "materials_needed": [
+      "Number cards 1-10",
+      "55 counters (same color)",
+      "Floor mat or large table"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Cards and Counters", "subheading": "Odd and Even"},
-        {"type": "materials", "items": ["Numeral cards 1-10", "55 counters (chips, buttons, or beans)", "Large mat"], "setup_instructions": "Lay out the mat. Shuffle the number cards. Have counters in a bowl."},
-        {"type": "instruction", "step": 1, "text": "'First, put the number cards in order from 1 to 10.' Child sequences the cards."},
-        {"type": "instruction", "step": 2, "text": "'Now count out the right number of counters for each card.' Place in vertical pairs under each card."},
-        {"type": "instruction", "step": 3, "text": "Point to 1: 'One counter — it's alone.' Point to 2: 'Two counters — they pair up!' Point to 3: 'Three — two pair up, one is left alone.'"},
-        {"type": "instruction", "step": 4, "text": "'Numbers where everyone has a partner are called EVEN. Numbers with a lonely one left over are ODD.'"},
-        {"type": "activity", "prompt": "Point to each number: 'Is it odd or even?' Check by looking for the lonely counter.", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'Odd numbers: 1, 3, 5, 7, 9. Even numbers: 2, 4, 6, 8, 10!'", "mastery_check": "Can the child identify numbers as odd or even using the counters?"}
+        {
+          "type": "title",
+          "heading": "Cards and Counters",
+          "subheading": "Odd and Even",
+          "image_url": "https://images.pexels.com/photos/3693101/pexels-photo-3693101.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Numeral cards 1-10",
+            "55 counters (chips, buttons, or beans)",
+            "Large mat"
+          ],
+          "setup_instructions": "Lay out the mat. Shuffle the number cards. Have counters in a bowl."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'First, put the number cards in order from 1 to 10.' Child sequences the cards."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Now count out the right number of counters for each card.' Place in vertical pairs under each card."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Point to 1: 'One counter — it's alone.' Point to 2: 'Two counters — they pair up!' Point to 3: 'Three — two pair up, one is left alone.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Numbers where everyone has a partner are called EVEN. Numbers with a lonely one left over are ODD.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Point to each number: 'Is it odd or even?' Check by looking for the lonely counter.",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Odd numbers: 1, 3, 5, 7, 9. Even numbers: 2, 4, 6, 8, 10!'",
+          "mastery_check": "Can the child identify numbers as odd or even using the counters?"
+        }
       ]
     },
     "parent_notes": "This is a brilliant Montessori material. By arranging counters in pairs, the child can literally SEE that odd numbers have a leftover and even numbers pair perfectly. This concrete understanding of odd and even goes far deeper than memorizing a list. Let the child discover the pattern — point it out if they don't notice, but give them time to see it first.",
@@ -362,16 +854,54 @@
     "instructions": "1. Present the world puzzle map.\n2. Remove all continents one at a time, naming each.\n3. Place them on a mat beside the map.\n4. Replace each continent: 'Where does North America go?' Use the color and shape as guides.\n5. Once complete, trace a continent onto paper and color it.\n6. 'Which continent would you like to visit? Why?'",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["World puzzle map", "Tracing paper or white paper", "Colored pencils (continent colors)", "Work mat"],
+    "materials_needed": [
+      "World puzzle map",
+      "Tracing paper or white paper",
+      "Colored pencils (continent colors)",
+      "Work mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "World Puzzle Map", "subheading": "Continents Review"},
-        {"type": "materials", "items": ["World puzzle map", "Paper for tracing", "Colored pencils"], "setup_instructions": "Place the puzzle map on the table. Have tracing materials ready."},
-        {"type": "instruction", "step": 1, "text": "'Let's explore our world map! Can you name each continent as I lift it out?'"},
-        {"type": "instruction", "step": 2, "text": "Remove each piece. Name it. Place on the mat. 'Look at the shape of Africa — it's like a question mark!'"},
-        {"type": "instruction", "step": 3, "text": "'Now put them back! Use the shape and color to figure out where each one goes.'"},
-        {"type": "activity", "prompt": "Trace your favorite continent onto paper. Color it with the Montessori color. Label it!", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'Which continent would you most like to visit someday?'", "mastery_check": "Can the child replace all continent pieces and name at least 5?"}
+        {
+          "type": "title",
+          "heading": "World Puzzle Map",
+          "subheading": "Continents Review",
+          "image_url": "https://images.pexels.com/photos/4714521/pexels-photo-4714521.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World puzzle map",
+            "Paper for tracing",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Place the puzzle map on the table. Have tracing materials ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Let's explore our world map! Can you name each continent as I lift it out?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Remove each piece. Name it. Place on the mat. 'Look at the shape of Africa — it's like a question mark!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Now put them back! Use the shape and color to figure out where each one goes.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Trace your favorite continent onto paper. Color it with the Montessori color. Label it!",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Which continent would you most like to visit someday?'",
+          "mastery_check": "Can the child replace all continent pieces and name at least 5?"
+        }
       ]
     },
     "parent_notes": "The puzzle map is a classic Montessori material that gives geography a tactile dimension. Tracing the continent shapes builds hand control while reinforcing geography. Over the year, we'll trace individual continents and then their countries. If you don't have a puzzle map, print continent shapes for cutting and placing on a world outline.",
@@ -389,16 +919,51 @@
     "instructions": "1. Recite 'Little Miss Muffet' with actions.\n2. Discuss vocabulary: 'What is a tuffet? What are curds and whey?'\n3. Echo recitation: you say a line, child repeats.\n4. Recite 'Hey Diddle Diddle' with wonder and laughter.\n5. 'Can a cow really jump over the moon? This is a SILLY poem!'\n6. Review all nursery rhymes learned so far.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Nursery rhyme book (optional)", "Props: bowl and spoon, toy spider (optional)"],
+    "materials_needed": [
+      "Nursery rhyme book (optional)",
+      "Props: bowl and spoon, toy spider (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Nursery Rhymes", "subheading": "Little Miss Muffet & Hey Diddle Diddle"},
-        {"type": "materials", "items": ["Optional: nursery rhyme book", "Props: bowl, spoon, toy spider"], "setup_instructions": "Sit together comfortably. Have props ready for dramatization."},
-        {"type": "instruction", "step": 1, "text": "Recite 'Little Miss Muffet' slowly. Act it out: sit on a tuffet (cushion), pretend to eat, gasp at the spider!"},
-        {"type": "instruction", "step": 2, "text": "Vocabulary: 'A tuffet is a little stool or cushion. Curds and whey is like cottage cheese!'"},
-        {"type": "instruction", "step": 3, "text": "'Hey Diddle Diddle!' Recite with amazement. 'A cow jumping over the moon! A dish running away with a spoon!'"},
-        {"type": "activity", "prompt": "Recite all four nursery rhymes you know! Which one is your favorite?", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "'You know FOUR nursery rhymes now. You're building a wonderful collection!'", "mastery_check": "Can the child recite most of at least 3 nursery rhymes?"}
+        {
+          "type": "title",
+          "heading": "Nursery Rhymes",
+          "subheading": "Little Miss Muffet & Hey Diddle Diddle",
+          "image_url": "https://images.pexels.com/photos/3890481/pexels-photo-3890481.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Optional: nursery rhyme book",
+            "Props: bowl, spoon, toy spider"
+          ],
+          "setup_instructions": "Sit together comfortably. Have props ready for dramatization."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Recite 'Little Miss Muffet' slowly. Act it out: sit on a tuffet (cushion), pretend to eat, gasp at the spider!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Vocabulary: 'A tuffet is a little stool or cushion. Curds and whey is like cottage cheese!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Hey Diddle Diddle!' Recite with amazement. 'A cow jumping over the moon! A dish running away with a spoon!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Recite all four nursery rhymes you know! Which one is your favorite?",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You know FOUR nursery rhymes now. You're building a wonderful collection!'",
+          "mastery_check": "Can the child recite most of at least 3 nursery rhymes?"
+        }
       ]
     },
     "parent_notes": "Vocabulary building through nursery rhymes is significant. Words like 'tuffet,' 'curds and whey,' and 'diddle' expose children to unusual language. Research consistently shows that nursery rhyme knowledge is one of the strongest predictors of later reading success — even stronger than alphabet knowledge alone.",
@@ -416,16 +981,51 @@
     "instructions": "1. Present Block 2.\n2. Remove all cylinders using the three-finger grip.\n3. Scatter randomly.\n4. Replace by trying each in various sockets.\n5. Note: these are all the same height but different widths.\n6. Compare with Block 1: 'How is this set different?'",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Knobbed Cylinder Block 2", "Block 1 for comparison (optional)"],
+    "materials_needed": [
+      "Knobbed Cylinder Block 2",
+      "Block 1 for comparison (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Knobbed Cylinders", "subheading": "Block 2 — Width Only"},
-        {"type": "materials", "items": ["Knobbed Cylinder Block 2", "Optional: Block 1 for comparison"], "setup_instructions": "Place Block 2 on the table."},
-        {"type": "instruction", "step": 1, "text": "'This is a new cylinder block! Look: they're all the SAME height but DIFFERENT widths.'"},
-        {"type": "instruction", "step": 2, "text": "Remove all cylinders. Mix them up. 'Now find each cylinder's home!'"},
-        {"type": "instruction", "step": 3, "text": "The control of error: if a thin cylinder goes in a wide hole, it fits but wobbles. The right fit is snug."},
-        {"type": "activity", "prompt": "Do the whole block by yourself! Then compare: how is Block 2 different from Block 1?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'Block 1 changes in both height AND width. Block 2 changes only in width. Great observation!'", "mastery_check": "Can the child complete Block 2 and articulate how it differs from Block 1?"}
+        {
+          "type": "title",
+          "heading": "Knobbed Cylinders",
+          "subheading": "Block 2 — Width Only",
+          "image_url": "https://images.pexels.com/photos/7269674/pexels-photo-7269674.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Knobbed Cylinder Block 2",
+            "Optional: Block 1 for comparison"
+          ],
+          "setup_instructions": "Place Block 2 on the table."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'This is a new cylinder block! Look: they're all the SAME height but DIFFERENT widths.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Remove all cylinders. Mix them up. 'Now find each cylinder's home!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The control of error: if a thin cylinder goes in a wide hole, it fits but wobbles. The right fit is snug."
+        },
+        {
+          "type": "activity",
+          "prompt": "Do the whole block by yourself! Then compare: how is Block 2 different from Block 1?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Block 1 changes in both height AND width. Block 2 changes only in width. Great observation!'",
+          "mastery_check": "Can the child complete Block 2 and articulate how it differs from Block 1?"
+        }
       ]
     },
     "parent_notes": "Each cylinder block isolates a different dimension. Block 1: height and diameter vary together. Block 2: only diameter varies. Block 3: only height varies. Block 4: diameter and height vary inversely. This systematic isolation is what makes Montessori materials so effective — the child refines one sense discrimination at a time.",
@@ -443,16 +1043,54 @@
     "instructions": "1. Choose the oval metal inset.\n2. Trace frame, trace inset, fill with parallel lines.\n3. Repeat with the rectangle.\n4. Focus on keeping lines close together and parallel.\n5. Let the child choose their own colors.\n6. Create an overlapping design: trace both shapes on the same paper.",
     "duration_minutes": 30,
     "lesson_type": "independent",
-    "materials_needed": ["Metal insets (oval and rectangle)", "Paper", "Colored pencils", "Tray"],
+    "materials_needed": [
+      "Metal insets (oval and rectangle)",
+      "Paper",
+      "Colored pencils",
+      "Tray"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Metal Insets", "subheading": "Oval and Rectangle"},
-        {"type": "materials", "items": ["Oval and rectangle metal insets", "Paper squares", "Colored pencils"], "setup_instructions": "Let the child select their own colors today."},
-        {"type": "instruction", "step": 1, "text": "'Choose which shape to start with! Trace the frame, trace the inset, fill with lines.'"},
-        {"type": "instruction", "step": 2, "text": "Focus: 'Try to keep your filling lines close together — like a fence with no gaps.'"},
-        {"type": "instruction", "step": 3, "text": "Extension: 'What if you trace BOTH shapes on one paper — overlapping? Color the sections different colors!'"},
-        {"type": "activity", "prompt": "Create your designs. Try the overlapping extension if you're ready!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Display your metal inset art. 'Your lines are getting more and more controlled!'", "mastery_check": "Are filling lines becoming more parallel and closer together?"}
+        {
+          "type": "title",
+          "heading": "Metal Insets",
+          "subheading": "Oval and Rectangle",
+          "image_url": "https://images.pexels.com/photos/278888/pexels-photo-278888.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Oval and rectangle metal insets",
+            "Paper squares",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Let the child select their own colors today."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Choose which shape to start with! Trace the frame, trace the inset, fill with lines.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Focus: 'Try to keep your filling lines close together — like a fence with no gaps.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Extension: 'What if you trace BOTH shapes on one paper — overlapping? Color the sections different colors!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your designs. Try the overlapping extension if you're ready!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Display your metal inset art. 'Your lines are getting more and more controlled!'",
+          "mastery_check": "Are filling lines becoming more parallel and closer together?"
+        }
       ]
     },
     "parent_notes": "The overlapping extension creates beautiful geometric art while challenging the child to fill complex shapes. This is higher-level visual-spatial work. Over time, the child may combine 3 or 4 shapes. These designs make lovely artwork for display. Save examples monthly to track fine motor progress.",
@@ -470,16 +1108,53 @@
     "instructions": "1. Invite the child to do cards and counters independently.\n2. Observe: does the child sequence cards correctly? Count accurately?\n3. After setup, review: 'Point to all the odd numbers. Point to all the even numbers.'\n4. Extension: 'Is 0 odd or even?' (Even — zero pairs are zero!)\n5. Sing an odd/even chant if desired.\n6. Clean up together.",
     "duration_minutes": 30,
     "lesson_type": "independent",
-    "materials_needed": ["Number cards 1-10", "55 counters", "Floor mat"],
+    "materials_needed": [
+      "Number cards 1-10",
+      "55 counters",
+      "Floor mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Cards and Counters", "subheading": "Independent Practice"},
-        {"type": "materials", "items": ["Number cards 1-10", "55 counters", "Mat"], "setup_instructions": "Provide all materials. Let the child set up independently."},
-        {"type": "instruction", "step": 1, "text": "'Today, do the whole cards and counters exercise by yourself!'"},
-        {"type": "instruction", "step": 2, "text": "Observe without interrupting. Note any sequencing or counting errors."},
-        {"type": "instruction", "step": 3, "text": "After completion: 'Touch all the odd numbers. Now touch all the even numbers.'"},
-        {"type": "activity", "prompt": "Do the complete layout independently. Then answer: which numbers are odd? Which are even?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "'You know odd and even numbers! 1,3,5,7,9 are odd. 2,4,6,8,10 are even.'", "mastery_check": "Can the child complete the layout and identify odd/even independently?"}
+        {
+          "type": "title",
+          "heading": "Cards and Counters",
+          "subheading": "Independent Practice",
+          "image_url": "https://images.pexels.com/photos/8612931/pexels-photo-8612931.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Number cards 1-10",
+            "55 counters",
+            "Mat"
+          ],
+          "setup_instructions": "Provide all materials. Let the child set up independently."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today, do the whole cards and counters exercise by yourself!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Observe without interrupting. Note any sequencing or counting errors."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After completion: 'Touch all the odd numbers. Now touch all the even numbers.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Do the complete layout independently. Then answer: which numbers are odd? Which are even?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You know odd and even numbers! 1,3,5,7,9 are odd. 2,4,6,8,10 are even.'",
+          "mastery_check": "Can the child complete the layout and identify odd/even independently?"
+        }
       ]
     },
     "parent_notes": "Independence is key. Resist the urge to correct during the work. If counters are miscounted, the child may notice when one group doesn't look right. If they don't notice, you can verify together afterward. The odd/even concept is often tested in kindergarten assessments — your child will know it concretely, not just from memorization.",
@@ -497,17 +1172,62 @@
     "instructions": "1. Soak lima beans overnight.\n2. Give the child a soaked bean. 'What does it feel like?'\n3. Gently split the bean open with fingernails.\n4. Identify: seed coat (outside covering), cotyledon (food storage), embryo (tiny baby plant).\n5. Use a magnifying glass to see the embryo.\n6. Plant some beans in a wet paper towel in a bag to observe germination.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Soaked lima beans (several)", "Magnifying glass", "Paper towel", "Plastic bag", "Water", "Drawing paper"],
+    "materials_needed": [
+      "Soaked lima beans (several)",
+      "Magnifying glass",
+      "Paper towel",
+      "Plastic bag",
+      "Water",
+      "Drawing paper"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Inside a Seed", "subheading": "What's Hiding in There?"},
-        {"type": "materials", "items": ["Soaked lima beans", "Magnifying glass", "Paper towel and plastic bag", "Paper for drawing"], "setup_instructions": "Soak beans the night before. They should be plump and soft."},
-        {"type": "instruction", "step": 1, "text": "'This tiny bean is a SEED. There's a whole baby plant hiding inside! Let's find it.'"},
-        {"type": "instruction", "step": 2, "text": "Peel off the seed coat. 'This is the coat — it protects the seed like your jacket protects you.'"},
-        {"type": "instruction", "step": 3, "text": "Split the bean gently. 'See these two fat halves? That's FOOD for the baby plant.' Use the magnifying glass."},
-        {"type": "instruction", "step": 4, "text": "'And look — right here — a TINY baby plant! That will grow into a whole bean plant!'"},
-        {"type": "activity", "prompt": "Draw the inside of the seed: coat, food halves, and baby plant. Then plant a few beans in a wet paper towel!", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "Tape the plastic bag (with wet paper towel and beans) to a window. 'We'll watch them grow!'", "mastery_check": "Can the child identify the 3 parts of the seed?"}
+        {
+          "type": "title",
+          "heading": "Inside a Seed",
+          "subheading": "What's Hiding in There?",
+          "image_url": "https://images.pexels.com/photos/8471892/pexels-photo-8471892.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Soaked lima beans",
+            "Magnifying glass",
+            "Paper towel and plastic bag",
+            "Paper for drawing"
+          ],
+          "setup_instructions": "Soak beans the night before. They should be plump and soft."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'This tiny bean is a SEED. There's a whole baby plant hiding inside! Let's find it.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Peel off the seed coat. 'This is the coat — it protects the seed like your jacket protects you.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Split the bean gently. 'See these two fat halves? That's FOOD for the baby plant.' Use the magnifying glass."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'And look — right here — a TINY baby plant! That will grow into a whole bean plant!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw the inside of the seed: coat, food halves, and baby plant. Then plant a few beans in a wet paper towel!",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "Tape the plastic bag (with wet paper towel and beans) to a window. 'We'll watch them grow!'",
+          "mastery_check": "Can the child identify the 3 parts of the seed?"
+        }
       ]
     },
     "parent_notes": "This is hands-on botany at its best. Children are amazed to find a baby plant inside a seed. The paper-towel-in-a-bag method lets you watch germination happen day by day — much more exciting than waiting for soil sprouts. Check the bag daily together. The root emerges first, then the stem. Connect this to the plant parts lesson.",
@@ -525,16 +1245,51 @@
     "instructions": "1. Play a high note and a low note on a xylophone (or use glasses with water levels).\n2. 'This is HIGH. This is LOW. Listen to the difference.'\n3. Child closes eyes. Play a note. 'Was that high or low?'\n4. Use voices: make high sounds (squeak like a mouse) and low sounds (growl like a bear).\n5. Arrange xylophone bars from low to high.\n6. Play a simple scale up and down.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Xylophone or water glasses (different levels)", "Optional: tone bars or piano"],
+    "materials_needed": [
+      "Xylophone or water glasses (different levels)",
+      "Optional: tone bars or piano"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Music Exploration", "subheading": "High and Low Sounds"},
-        {"type": "materials", "items": ["Xylophone or glasses with water", "Mallet"], "setup_instructions": "Set up the instrument. If using glasses, fill to different levels."},
-        {"type": "instruction", "step": 1, "text": "Play a high note: 'This is a HIGH sound — up in the sky!' Play a low note: 'This is LOW — down in the ground!'"},
-        {"type": "instruction", "step": 2, "text": "Listening game: child closes eyes. You play a note. 'High or low?' Alternate."},
-        {"type": "instruction", "step": 3, "text": "Voice exploration: 'Make the highest sound you can! Now the lowest! Can you slide from low to high?'"},
-        {"type": "activity", "prompt": "Play the xylophone from low to high, then back down. Listen to the sounds go up like stairs!", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "'We learned about high and low sounds — also called PITCH. Music uses both!'", "mastery_check": "Can the child distinguish high from low sounds?"}
+        {
+          "type": "title",
+          "heading": "Music Exploration",
+          "subheading": "High and Low Sounds",
+          "image_url": "https://images.pexels.com/photos/3094035/pexels-photo-3094035.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Xylophone or glasses with water",
+            "Mallet"
+          ],
+          "setup_instructions": "Set up the instrument. If using glasses, fill to different levels."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Play a high note: 'This is a HIGH sound — up in the sky!' Play a low note: 'This is LOW — down in the ground!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Listening game: child closes eyes. You play a note. 'High or low?' Alternate."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Voice exploration: 'Make the highest sound you can! Now the lowest! Can you slide from low to high?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Play the xylophone from low to high, then back down. Listen to the sounds go up like stairs!",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "'We learned about high and low sounds — also called PITCH. Music uses both!'",
+          "mastery_check": "Can the child distinguish high from low sounds?"
+        }
       ]
     },
     "parent_notes": "Pitch discrimination is a key early music skill. Water glasses make great DIY instruments — more water = lower pitch. A xylophone is ideal. This connects to the Montessori bell materials used in classrooms. Some children naturally have strong pitch discrimination; others need more practice. Both are normal. Keep it playful — animal sounds are a fun way to practice high and low.",
@@ -552,16 +1307,49 @@
     "instructions": "1. Present the zipper dressing frame.\n2. Demonstrate: separate the zipper at the bottom.\n3. Insert the pin into the slider. Pull up slowly.\n4. Unzip by pulling down.\n5. Child practices zipping and unzipping.\n6. Connect to real clothing: coats, jackets, bags.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Zipper dressing frame"],
+    "materials_needed": [
+      "Zipper dressing frame"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Dressing Frame", "subheading": "Zippers"},
-        {"type": "materials", "items": ["Zipper dressing frame"], "setup_instructions": "Place the frame flat on the table."},
-        {"type": "instruction", "step": 1, "text": "'Today we're learning zippers! Watch carefully — the beginning part is the trickiest.'"},
-        {"type": "instruction", "step": 2, "text": "Separate the sides. Hold the slider in one hand. Insert the pin into the slider with the other hand."},
-        {"type": "instruction", "step": 3, "text": "Hold the bottom firmly. Pull the slider up smoothly. 'Zip!' Unzip by pulling down."},
-        {"type": "activity", "prompt": "Practice: zip up, then unzip. Try 5 times! The start gets easier each time.", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You can zip! Try your coat zipper yourself today.'", "mastery_check": "Can the child insert the pin and zip up independently?"}
+        {
+          "type": "title",
+          "heading": "Dressing Frame",
+          "subheading": "Zippers",
+          "image_url": "https://images.pexels.com/photos/6641321/pexels-photo-6641321.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Zipper dressing frame"
+          ],
+          "setup_instructions": "Place the frame flat on the table."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today we're learning zippers! Watch carefully — the beginning part is the trickiest.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Separate the sides. Hold the slider in one hand. Insert the pin into the slider with the other hand."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Hold the bottom firmly. Pull the slider up smoothly. 'Zip!' Unzip by pulling down."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice: zip up, then unzip. Try 5 times! The start gets easier each time.",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You can zip! Try your coat zipper yourself today.'",
+          "mastery_check": "Can the child insert the pin and zip up independently?"
+        }
       ]
     },
     "parent_notes": "Starting a zipper (inserting the pin) is the hardest part. Many children can zip up once started but struggle with the beginning. Practice on the frame first, then transfer to real jackets. Lay the jacket on the floor or table first — it's easier than while wearing it. This is a major independence milestone — celebrate when the child zips their own coat!",
@@ -579,16 +1367,53 @@
     "instructions": "1. Build a word with the moveable alphabet: 'cat'.\n2. Point to each letter slowly: '/k/ - /a/ - /t/... cat!'\n3. Show how to blend: run finger under the word while saying sounds faster.\n4. Build 'sat'. Child tries to blend: '/s/ - /a/ - /t/... sat!'\n5. Build 3-4 more words for the child to decode.\n6. Celebrate every attempt — accuracy will come with practice.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Moveable alphabet", "Work mat", "Small objects matching CVC words"],
+    "materials_needed": [
+      "Moveable alphabet",
+      "Work mat",
+      "Small objects matching CVC words"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Reading!", "subheading": "Blending CVC Words"},
-        {"type": "materials", "items": ["Moveable alphabet", "Mat", "Matching objects"], "setup_instructions": "Build a word before the child comes. Have objects ready for matching."},
-        {"type": "instruction", "step": 1, "text": "'I built a word! Let's figure out what it says. Point to each letter and say its sound.'"},
-        {"type": "instruction", "step": 2, "text": "Child points: '/k/... /a/... /t/.' 'Now say them faster: /ka/... /t/... cat!' Model blending."},
-        {"type": "instruction", "step": 3, "text": "Build 'sat' — child tries to blend. 'What did you get?' Celebrate any attempt!"},
-        {"type": "activity", "prompt": "Read these words: mat, cap, tap, Sam. Point to each letter, say the sound, blend them together!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You READ words today! You are becoming a reader!'", "mastery_check": "Can the child blend at least 2 CVC words with support?"}
+        {
+          "type": "title",
+          "heading": "Reading!",
+          "subheading": "Blending CVC Words",
+          "image_url": "https://images.pexels.com/photos/256468/pexels-photo-256468.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Moveable alphabet",
+            "Mat",
+            "Matching objects"
+          ],
+          "setup_instructions": "Build a word before the child comes. Have objects ready for matching."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'I built a word! Let's figure out what it says. Point to each letter and say its sound.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Child points: '/k/... /a/... /t/.' 'Now say them faster: /ka/... /t/... cat!' Model blending."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Build 'sat' — child tries to blend. 'What did you get?' Celebrate any attempt!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Read these words: mat, cap, tap, Sam. Point to each letter, say the sound, blend them together!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You READ words today! You are becoming a reader!'",
+          "mastery_check": "Can the child blend at least 2 CVC words with support?"
+        }
       ]
     },
     "parent_notes": "THIS IS A HUGE MILESTONE. Blending sounds into words is READING. It may be halting and slow — that's perfect. Some children 'get it' immediately; for others, the blending click happens over weeks. Be endlessly patient and encouraging. If the child struggles, go back to word building (encoding) — the reading will follow. Never force or show frustration.",
@@ -606,16 +1431,53 @@
     "instructions": "1. Place rod 10 at the top of the mat.\n2. Place rod 9 below it. 'What rod do we need to match the length of 10?' Try rod 1. 'Perfect! 9 and 1 make 10!'\n3. Place rod 8 next. Try rods until finding 2. '8 and 2 make 10!'\n4. Continue: 7+3, 6+4, 5+5.\n5. Record the combinations.\n6. 'There are many ways to make 10!'",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Number rods 1-10", "Large floor mat", "Paper and pencil (optional)"],
+    "materials_needed": [
+      "Number rods 1-10",
+      "Large floor mat",
+      "Paper and pencil (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Making 10!", "subheading": "Number Rod Combinations"},
-        {"type": "materials", "items": ["Number rods 1-10", "Large mat", "Optional: paper for recording"], "setup_instructions": "Lay out the mat. Have all rods available."},
-        {"type": "instruction", "step": 1, "text": "Place rod 10 at the top. 'This is our target — TEN! Can we use two shorter rods to match it?'"},
-        {"type": "instruction", "step": 2, "text": "Place rod 9 below. 'It's close but not quite. What rod fills the gap?' Try rod 1. 'YES! 9 + 1 = 10!'"},
-        {"type": "instruction", "step": 3, "text": "Continue with 8+2, 7+3, 6+4, 5+5. Each pair should match the length of rod 10 exactly."},
-        {"type": "activity", "prompt": "Find ALL the pairs that make 10! How many different ways are there?", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'Five pairs! 9+1, 8+2, 7+3, 6+4, and 5+5. You just discovered addition!'", "mastery_check": "Can the child find at least 3 combinations that make 10?"}
+        {
+          "type": "title",
+          "heading": "Making 10!",
+          "subheading": "Number Rod Combinations",
+          "image_url": "https://images.pexels.com/photos/6692923/pexels-photo-6692923.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Number rods 1-10",
+            "Large mat",
+            "Optional: paper for recording"
+          ],
+          "setup_instructions": "Lay out the mat. Have all rods available."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Place rod 10 at the top. 'This is our target — TEN! Can we use two shorter rods to match it?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Place rod 9 below. 'It's close but not quite. What rod fills the gap?' Try rod 1. 'YES! 9 + 1 = 10!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Continue with 8+2, 7+3, 6+4, 5+5. Each pair should match the length of rod 10 exactly."
+        },
+        {
+          "type": "activity",
+          "prompt": "Find ALL the pairs that make 10! How many different ways are there?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Five pairs! 9+1, 8+2, 7+3, 6+4, and 5+5. You just discovered addition!'",
+          "mastery_check": "Can the child find at least 3 combinations that make 10?"
+        }
       ]
     },
     "parent_notes": "This is the child's first experience with addition, though we don't use that word yet. The concrete experience of placing two rods together to match a longer rod makes addition VISIBLE. 'Combinations of 10' is a critical math fact that students use throughout elementary school. This concrete foundation makes later memorization much easier.",
@@ -633,16 +1495,55 @@
     "instructions": "1. Present the North America puzzle map.\n2. Identify key pieces: Canada, United States, Mexico.\n3. 'We live in the United States!' Find your approximate location.\n4. Remove and replace the three main countries.\n5. Notice Central America and the Caribbean islands.\n6. Trace the United States onto paper and color it.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["North America puzzle map", "Tracing paper", "Colored pencils", "Globe for reference"],
+    "materials_needed": [
+      "North America puzzle map",
+      "Tracing paper",
+      "Colored pencils",
+      "Globe for reference"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "North America", "subheading": "Puzzle Map Exploration"},
-        {"type": "materials", "items": ["North America puzzle map", "Paper for tracing", "Colored pencils", "Globe"], "setup_instructions": "Show North America on the globe first, then transition to the puzzle map."},
-        {"type": "instruction", "step": 1, "text": "Show North America on the globe. 'Let's look at this continent up close with our puzzle map!'"},
-        {"type": "instruction", "step": 2, "text": "'This big pink country is Canada. Below it — this is the United States! And here is Mexico.'"},
-        {"type": "instruction", "step": 3, "text": "'We live RIGHT HERE in the United States!' Point to your approximate location."},
-        {"type": "activity", "prompt": "Take out Canada, USA, and Mexico. Put them back! Then trace the USA and color it.", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'You explored North America! Three big countries: Canada, the United States, and Mexico.'", "mastery_check": "Can the child identify Canada, USA, and Mexico on the puzzle map?"}
+        {
+          "type": "title",
+          "heading": "North America",
+          "subheading": "Puzzle Map Exploration",
+          "image_url": "https://images.pexels.com/photos/31846587/pexels-photo-31846587.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "North America puzzle map",
+            "Paper for tracing",
+            "Colored pencils",
+            "Globe"
+          ],
+          "setup_instructions": "Show North America on the globe first, then transition to the puzzle map."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show North America on the globe. 'Let's look at this continent up close with our puzzle map!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'This big pink country is Canada. Below it — this is the United States! And here is Mexico.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'We live RIGHT HERE in the United States!' Point to your approximate location."
+        },
+        {
+          "type": "activity",
+          "prompt": "Take out Canada, USA, and Mexico. Put them back! Then trace the USA and color it.",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You explored North America! Three big countries: Canada, the United States, and Mexico.'",
+          "mastery_check": "Can the child identify Canada, USA, and Mexico on the puzzle map?"
+        }
       ]
     },
     "parent_notes": "Moving from the whole world to one continent is a classic Montessori zoom-in approach. The child goes from global to local perspective. Help them understand the relationship: 'This piece on the world map (North America) contains all these countries on this map.' Real-world connections are great: 'Grandma lives in Canada' or 'Our food comes from Mexico.'",
@@ -660,16 +1561,57 @@
     "instructions": "1. Provide colored paper, old magazines, and glue.\n2. Demonstrate tearing paper: controlled, small tears make interesting shapes.\n3. 'What would you like to make? A tree? A house? An animal?'\n4. Tear pieces and arrange them before gluing.\n5. Glue pieces down once the composition is planned.\n6. Add details with crayons if desired.",
     "duration_minutes": 20,
     "lesson_type": "independent",
-    "materials_needed": ["Colored paper (various colors)", "Old magazines", "Glue stick", "Background paper (white or colored)", "Crayons for details"],
+    "materials_needed": [
+      "Colored paper (various colors)",
+      "Old magazines",
+      "Glue stick",
+      "Background paper (white or colored)",
+      "Crayons for details"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Collage Art", "subheading": "Torn Paper Pictures"},
-        {"type": "materials", "items": ["Colored paper", "Old magazines", "Glue stick", "Background paper", "Crayons"], "setup_instructions": "Lay out materials. Pre-tear some strips to get started."},
-        {"type": "instruction", "step": 1, "text": "'Today we're making art with torn paper — no scissors needed! Your fingers are the tool.'"},
-        {"type": "instruction", "step": 2, "text": "Demonstrate: pinch the paper between thumbs and forefingers. Pull gently to tear a shape."},
-        {"type": "instruction", "step": 3, "text": "'Arrange your pieces on the background paper FIRST. Move them around until you like it. Then glue!'"},
-        {"type": "activity", "prompt": "Create your torn paper art! Make anything you imagine — a scene, a pattern, or an abstract design.", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Add crayon details if you like. 'What a creative collage!' Display the artwork.", "mastery_check": "Can the child tear paper with control and create a composition?"}
+        {
+          "type": "title",
+          "heading": "Collage Art",
+          "subheading": "Torn Paper Pictures",
+          "image_url": "https://images.pexels.com/photos/159644/art-supplies-brushes-rulers-702137.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Colored paper",
+            "Old magazines",
+            "Glue stick",
+            "Background paper",
+            "Crayons"
+          ],
+          "setup_instructions": "Lay out materials. Pre-tear some strips to get started."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today we're making art with torn paper — no scissors needed! Your fingers are the tool.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Demonstrate: pinch the paper between thumbs and forefingers. Pull gently to tear a shape."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Arrange your pieces on the background paper FIRST. Move them around until you like it. Then glue!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your torn paper art! Make anything you imagine — a scene, a pattern, or an abstract design.",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Add crayon details if you like. 'What a creative collage!' Display the artwork.",
+          "mastery_check": "Can the child tear paper with control and create a composition?"
+        }
       ]
     },
     "parent_notes": "Torn paper collage develops the same fine motor muscles as writing but in a creative, pressure-free context. The tearing motion strengthens the pincer grip. Encouraging the child to PLAN (arrange before gluing) builds executive function. Magazine pictures add interesting textures. This is a wonderful independent art activity once introduced.",

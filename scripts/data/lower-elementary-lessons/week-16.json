@@ -10,17 +10,61 @@
     "instructions": "1. Review verbs and adjectives with grammar symbols.\n2. Introduce adverbs: words that modify verbs.\n3. Present the Montessori grammar symbol for adverbs (small orange circle).\n4. Demonstrate: 'She ran' vs. 'She ran quickly.' The adverb tells HOW she ran.\n5. Explore three types: how (quickly, softly), when (yesterday, soon), where (here, outside).\n6. Play the adverb game: act out verbs with different adverbs.\n7. Write sentences with adverbs.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Grammar symbol cards", "Adverb word cards", "Sentence strips", "Language journal", "Pencil"],
+    "materials_needed": [
+      "Grammar symbol cards",
+      "Adverb word cards",
+      "Sentence strips",
+      "Language journal",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Adverbs", "subheading": "Words That Tell How, When, and Where"},
-        {"type": "materials", "items": ["Montessori grammar symbol cards (noun, verb, adjective, adverb)", "Adverb word cards sorted by type: HOW (quickly, slowly, carefully, loudly, gently), WHEN (yesterday, today, tomorrow, soon, always), WHERE (here, there, outside, everywhere, nearby)", "Sentence strips with verbs", "Language journal and pencil"], "setup_instructions": "Lay out grammar symbols. Sort adverb cards into three groups by type. Prepare sentence strips with simple subject-verb sentences that need adverbs. Clear space for the acting game."},
-        {"type": "instruction", "step": 1, "text": "You know adjectives describe NOUNS (the blue triangle). Now meet the ADVERB — it describes VERBS! Its symbol is a small orange circle, because it is related to the verb (red circle) but smaller, since it depends on the verb. Adverb literally means 'added to the verb.'"},
-        {"type": "instruction", "step": 2, "text": "Adverbs answer three questions about verbs. HOW? 'The cat walked QUIETLY.' (How did it walk? Quietly.) WHEN? 'The cat walked YESTERDAY.' (When did it walk? Yesterday.) WHERE? 'The cat walked OUTSIDE.' (Where did it walk? Outside.) One word changes the whole meaning!"},
-        {"type": "instruction", "step": 3, "text": "Many HOW adverbs end in -ly. You can make them from adjectives: slow → slowly, careful → carefully, loud → loudly, gentle → gently. But not all adverbs end in -ly! 'Fast,' 'hard,' 'well,' 'soon,' 'here,' and 'always' are adverbs without -ly."},
-        {"type": "instruction", "step": 4, "text": "Let us play the ADVERB GAME! I will give you a verb and an adverb card. You act it out! Walk + quickly. Walk + slowly. Walk + proudly. Eat + messily. Eat + politely. The audience guesses the adverb! This shows how one adverb changes the entire action."},
-        {"type": "activity", "prompt": "In your language journal, create three columns: HOW, WHEN, WHERE. List 5 adverbs in each column. Then write 6 sentences: 2 using HOW adverbs, 2 using WHEN adverbs, 2 using WHERE adverbs. Place the orange circle symbol above each adverb. Challenge: Write one sentence that uses ALL three types of adverbs. Example: 'Yesterday, the bird sang beautifully outside.'", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Adverbs add precision to our writing. Instead of 'He ran,' we can say 'He ran desperately through the forest yesterday.' That is much more vivid! Adjectives paint nouns, adverbs paint verbs. Together, they make writing come alive. Listen for adverbs in our read-aloud this week!", "mastery_check": "Can the child identify adverbs in sentences, classify them as how/when/where, and use the correct grammar symbol?"}
+        {
+          "type": "title",
+          "heading": "Adverbs",
+          "subheading": "Words That Tell How, When, and Where",
+          "image_url": "https://images.pexels.com/photos/1337387/pexels-photo-1337387.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Montessori grammar symbol cards (noun, verb, adjective, adverb)",
+            "Adverb word cards sorted by type: HOW (quickly, slowly, carefully, loudly, gently), WHEN (yesterday, today, tomorrow, soon, always), WHERE (here, there, outside, everywhere, nearby)",
+            "Sentence strips with verbs",
+            "Language journal and pencil"
+          ],
+          "setup_instructions": "Lay out grammar symbols. Sort adverb cards into three groups by type. Prepare sentence strips with simple subject-verb sentences that need adverbs. Clear space for the acting game."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "You know adjectives describe NOUNS (the blue triangle). Now meet the ADVERB — it describes VERBS! Its symbol is a small orange circle, because it is related to the verb (red circle) but smaller, since it depends on the verb. Adverb literally means 'added to the verb.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Adverbs answer three questions about verbs. HOW? 'The cat walked QUIETLY.' (How did it walk? Quietly.) WHEN? 'The cat walked YESTERDAY.' (When did it walk? Yesterday.) WHERE? 'The cat walked OUTSIDE.' (Where did it walk? Outside.) One word changes the whole meaning!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Many HOW adverbs end in -ly. You can make them from adjectives: slow → slowly, careful → carefully, loud → loudly, gentle → gently. But not all adverbs end in -ly! 'Fast,' 'hard,' 'well,' 'soon,' 'here,' and 'always' are adverbs without -ly."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Let us play the ADVERB GAME! I will give you a verb and an adverb card. You act it out! Walk + quickly. Walk + slowly. Walk + proudly. Eat + messily. Eat + politely. The audience guesses the adverb! This shows how one adverb changes the entire action."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your language journal, create three columns: HOW, WHEN, WHERE. List 5 adverbs in each column. Then write 6 sentences: 2 using HOW adverbs, 2 using WHEN adverbs, 2 using WHERE adverbs. Place the orange circle symbol above each adverb. Challenge: Write one sentence that uses ALL three types of adverbs. Example: 'Yesterday, the bird sang beautifully outside.'",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Adverbs add precision to our writing. Instead of 'He ran,' we can say 'He ran desperately through the forest yesterday.' That is much more vivid! Adjectives paint nouns, adverbs paint verbs. Together, they make writing come alive. Listen for adverbs in our read-aloud this week!",
+          "mastery_check": "Can the child identify adverbs in sentences, classify them as how/when/where, and use the correct grammar symbol?"
+        }
       ]
     },
     "parent_notes": "Adverbs expand a child's writing toolkit enormously. The acting game is the best way to internalize adverbs — when children physically experience the difference between walking 'quickly' and walking 'cautiously,' the concept becomes embodied. The -ly pattern is helpful but imperfect; emphasize that not all -ly words are adverbs (e.g., 'friendly' is an adjective) and not all adverbs end in -ly. In daily conversation, casually use adverbs: 'You ate your breakfast quickly today!' This models the language naturally.",
@@ -38,16 +82,58 @@
     "instructions": "1. Review 3s and 4s facts.\n2. Skip count by 6: 6, 12, 18, 24, 30, 36, 42, 48, 54, 60.\n3. Introduce the 5+1 strategy: 6 x 7 = (5 x 7) + 7 = 35 + 7 = 42.\n4. Use the short bead chain of 6 to verify.\n5. Build arrays for 6 x facts.\n6. Practice with flash cards.\n7. Record the 6s table in math journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Short bead chain of 6", "Bead bars", "Array grid paper", "Math journal", "Pencil", "Multiplication flash cards for 6s"],
+    "materials_needed": [
+      "Short bead chain of 6",
+      "Bead bars",
+      "Array grid paper",
+      "Math journal",
+      "Pencil",
+      "Multiplication flash cards for 6s"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Multiplication Facts", "subheading": "The 6s — Five Plus One More Group"},
-        {"type": "materials", "items": ["Montessori short bead chain of 6 (purple beads)", "Individual bead bars of 6", "Centimeter grid paper for arrays", "Math journal and pencil", "Multiplication flash cards for 6s table"], "setup_instructions": "Lay out the short bead chain of 6. Prepare grid paper. Write the 5s table alongside a blank 6s table so children can see the strategy: each 6s fact is one more group than the 5s fact."},
-        {"type": "instruction", "step": 1, "text": "The 6s table sounds hard, but here is a secret: you already know the 5s table! And 6 = 5 + 1. So 6 x any number = 5 x that number PLUS one more group. Example: 6 x 4. You know 5 x 4 = 20. Add one more group of 4: 20 + 4 = 24. So 6 x 4 = 24!"},
-        {"type": "instruction", "step": 2, "text": "Try more: 6 x 7. 5 x 7 = 35. Add one more 7: 35 + 7 = 42. 6 x 8. 5 x 8 = 40. Add one more 8: 40 + 8 = 48. 6 x 9. 5 x 9 = 45. Add one more 9: 45 + 9 = 54. See? If you know the 5s, you know the 6s!"},
-        {"type": "instruction", "step": 3, "text": "Now verify with the bead chain. Count by 6s along the chain: 6, 12, 18, 24, 30, 36, 42, 48, 54, 60. Place tickets at each arrow. Check our strategy: ticket 7 should be at 42 (6 x 7 = 42). It is! Pattern: 6s products are always EVEN (because 6 is even, and even x anything = even)."},
-        {"type": "activity", "prompt": "Complete the 6s table from 6 x 1 to 6 x 12 in your math journal using the 5+1 strategy. Show your work: write the 5s fact first, then add one more group. Draw arrays for 6 x 3, 6 x 5, and 6 x 6. Practice flash cards for 3s, 4s, and 6s. Write 2 word problems using multiplication by 6. Example: 'An insect has 6 legs. How many legs do 8 insects have?'", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The 6s are manageable because of the 5+1 strategy. And notice: 6 x 6 = 36 is a SQUARE number (6 squared). Every number multiplied by itself makes a square! You now know 2s, 3s, 4s, 5s, 6s, and 10s. That covers most of the multiplication table!", "mastery_check": "Can the child use the 5+1 strategy to find 6s facts, recite the 6s table, and solve 6s facts within 5 seconds?"}
+        {
+          "type": "title",
+          "heading": "Multiplication Facts",
+          "subheading": "The 6s — Five Plus One More Group",
+          "image_url": "https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Montessori short bead chain of 6 (purple beads)",
+            "Individual bead bars of 6",
+            "Centimeter grid paper for arrays",
+            "Math journal and pencil",
+            "Multiplication flash cards for 6s table"
+          ],
+          "setup_instructions": "Lay out the short bead chain of 6. Prepare grid paper. Write the 5s table alongside a blank 6s table so children can see the strategy: each 6s fact is one more group than the 5s fact."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The 6s table sounds hard, but here is a secret: you already know the 5s table! And 6 = 5 + 1. So 6 x any number = 5 x that number PLUS one more group. Example: 6 x 4. You know 5 x 4 = 20. Add one more group of 4: 20 + 4 = 24. So 6 x 4 = 24!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Try more: 6 x 7. 5 x 7 = 35. Add one more 7: 35 + 7 = 42. 6 x 8. 5 x 8 = 40. Add one more 8: 40 + 8 = 48. 6 x 9. 5 x 9 = 45. Add one more 9: 45 + 9 = 54. See? If you know the 5s, you know the 6s!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Now verify with the bead chain. Count by 6s along the chain: 6, 12, 18, 24, 30, 36, 42, 48, 54, 60. Place tickets at each arrow. Check our strategy: ticket 7 should be at 42 (6 x 7 = 42). It is! Pattern: 6s products are always EVEN (because 6 is even, and even x anything = even)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete the 6s table from 6 x 1 to 6 x 12 in your math journal using the 5+1 strategy. Show your work: write the 5s fact first, then add one more group. Draw arrays for 6 x 3, 6 x 5, and 6 x 6. Practice flash cards for 3s, 4s, and 6s. Write 2 word problems using multiplication by 6. Example: 'An insect has 6 legs. How many legs do 8 insects have?'",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The 6s are manageable because of the 5+1 strategy. And notice: 6 x 6 = 36 is a SQUARE number (6 squared). Every number multiplied by itself makes a square! You now know 2s, 3s, 4s, 5s, 6s, and 10s. That covers most of the multiplication table!",
+          "mastery_check": "Can the child use the 5+1 strategy to find 6s facts, recite the 6s table, and solve 6s facts within 5 seconds?"
+        }
       ]
     },
     "parent_notes": "The 6s table often feels daunting, but the 5+1 strategy makes it accessible by building on the already-mastered 5s table. This is the Montessori approach: never introduce a concept in isolation; always connect it to what the child already knows. The 6s are particularly useful because of their connection to time (60 minutes, 60 seconds) and insects (6 legs). Continue reviewing all learned tables — flashcard practice of 2-3 minutes daily maintains fluency without becoming tedious.",
@@ -65,17 +151,61 @@
     "instructions": "1. Place the fall of Rome (476 AD) on the timeline.\n2. Review Ancient Rome briefly — how powerful it was.\n3. Explain why Rome fell: invasions, economic problems, division.\n4. Describe what happened: roads decayed, trade declined, cities shrank.\n5. Introduce the Catholic Church as the new unifying institution.\n6. Explain feudalism in simple terms: kings, lords, knights, peasants.\n7. Record key facts in history journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Timeline of civilizations", "Map of Europe (476 AD)", "History journal", "Pencil", "Images of early medieval Europe"],
+    "materials_needed": [
+      "Timeline of civilizations",
+      "Map of Europe (476 AD)",
+      "History journal",
+      "Pencil",
+      "Images of early medieval Europe"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Middle Ages Begin", "subheading": "After the Fall of Rome"},
-        {"type": "materials", "items": ["Timeline of civilizations (extending from Ancient Rome to Middle Ages)", "Map showing the Roman Empire and the barbarian kingdoms that replaced it", "History journal and pencil", "Images of early medieval life, churches, and castles"], "setup_instructions": "Mark 476 AD on the timeline. Display the map showing how the Roman Empire fragmented. Have images of contrast: Roman cities vs. medieval villages. Open history journal to a new section titled 'The Middle Ages.'"},
-        {"type": "instruction", "step": 1, "text": "The Roman Empire was the greatest power the Western world had ever known — it ruled from Britain to Egypt for 500 years! But by the 400s AD, it was crumbling. Invasions from Germanic tribes (Goths, Vandals, Franks) overwhelmed the borders. In 476 AD, the last Roman emperor was overthrown. A great era ended."},
-        {"type": "instruction", "step": 2, "text": "Without Rome's army and government, things fell apart. Roman roads crumbled. Trade routes became dangerous. Cities shrank as people moved to the countryside for safety. Reading and writing became rare. Historians call this the beginning of the MIDDLE AGES — the time 'in the middle' between ancient Rome and the modern world."},
-        {"type": "instruction", "step": 3, "text": "One institution survived the fall: the Catholic Church. Monasteries became centers of learning where monks copied books, grew food, and cared for the sick. The Church provided laws, education, and a sense of community when governments could not. The Pope in Rome became one of the most powerful people in Europe."},
-        {"type": "instruction", "step": 4, "text": "A new system called FEUDALISM developed. The KING owned all the land. He gave land to LORDS in exchange for loyalty and soldiers. Lords gave smaller pieces to KNIGHTS who fought for them. At the bottom, PEASANTS farmed the land and gave most of their crops to the lord. Everyone depended on everyone else."},
-        {"type": "activity", "prompt": "In your history journal, draw the feudalism pyramid: King at top, Lords below, Knights below them, Peasants at the bottom. For each level, write what they gave and what they received. Then create a timeline entry for 476 AD showing the transition from Roman Empire to Middle Ages. Write 3 sentences explaining why the Middle Ages began.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The Middle Ages lasted about 1,000 years (roughly 500-1500 AD). It was not a 'dark' time — it was a time of great change, adaptation, and eventually, incredible achievements in architecture, art, and exploration. Over the next weeks, we will discover the fascinating world of medieval castles, knights, and cathedrals!", "mastery_check": "Can the child explain why Rome fell, describe the feudal system, and place the Middle Ages on the timeline?"}
+        {
+          "type": "title",
+          "heading": "The Middle Ages Begin",
+          "subheading": "After the Fall of Rome",
+          "image_url": "https://images.pexels.com/photos/3355788/pexels-photo-3355788.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Timeline of civilizations (extending from Ancient Rome to Middle Ages)",
+            "Map showing the Roman Empire and the barbarian kingdoms that replaced it",
+            "History journal and pencil",
+            "Images of early medieval life, churches, and castles"
+          ],
+          "setup_instructions": "Mark 476 AD on the timeline. Display the map showing how the Roman Empire fragmented. Have images of contrast: Roman cities vs. medieval villages. Open history journal to a new section titled 'The Middle Ages.'"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The Roman Empire was the greatest power the Western world had ever known — it ruled from Britain to Egypt for 500 years! But by the 400s AD, it was crumbling. Invasions from Germanic tribes (Goths, Vandals, Franks) overwhelmed the borders. In 476 AD, the last Roman emperor was overthrown. A great era ended."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Without Rome's army and government, things fell apart. Roman roads crumbled. Trade routes became dangerous. Cities shrank as people moved to the countryside for safety. Reading and writing became rare. Historians call this the beginning of the MIDDLE AGES — the time 'in the middle' between ancient Rome and the modern world."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "One institution survived the fall: the Catholic Church. Monasteries became centers of learning where monks copied books, grew food, and cared for the sick. The Church provided laws, education, and a sense of community when governments could not. The Pope in Rome became one of the most powerful people in Europe."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "A new system called FEUDALISM developed. The KING owned all the land. He gave land to LORDS in exchange for loyalty and soldiers. Lords gave smaller pieces to KNIGHTS who fought for them. At the bottom, PEASANTS farmed the land and gave most of their crops to the lord. Everyone depended on everyone else."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your history journal, draw the feudalism pyramid: King at top, Lords below, Knights below them, Peasants at the bottom. For each level, write what they gave and what they received. Then create a timeline entry for 476 AD showing the transition from Roman Empire to Middle Ages. Write 3 sentences explaining why the Middle Ages began.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Middle Ages lasted about 1,000 years (roughly 500-1500 AD). It was not a 'dark' time — it was a time of great change, adaptation, and eventually, incredible achievements in architecture, art, and exploration. Over the next weeks, we will discover the fascinating world of medieval castles, knights, and cathedrals!",
+          "mastery_check": "Can the child explain why Rome fell, describe the feudal system, and place the Middle Ages on the timeline?"
+        }
       ]
     },
     "parent_notes": "The Middle Ages are often called the 'Dark Ages,' but historians now prefer 'Middle Ages' or 'Medieval period' because the era was rich in its own way. The feudal pyramid is a simplification but an effective one for this age group. The key concept is interdependence: everyone in the feudal system needed everyone else. This connects to Montessori's emphasis on community and interconnection. If your child asks about the Eastern Roman Empire (Byzantine Empire), note that it continued until 1453 — only the Western half fell in 476.",
@@ -93,17 +223,62 @@
     "instructions": "1. Display the puzzle map of South America.\n2. Identify major physical features: Andes Mountains, Amazon River, Amazon Rainforest.\n3. Discuss the Andes: longest mountain range in the world, 4,500 miles.\n4. Explore contrasts: Atacama Desert (driest place), Amazon (wettest).\n5. Identify the Pampas, Patagonia, and Pantanal wetlands.\n6. The child creates a physical features map.\n7. Compare South America's geography to North America.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Puzzle map of South America", "Atlas", "Blank outline map", "Colored pencils", "Geography journal"],
+    "materials_needed": [
+      "Puzzle map of South America",
+      "Atlas",
+      "Blank outline map",
+      "Colored pencils",
+      "Geography journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "South America", "subheading": "Physical Features and the Mighty Andes"},
-        {"type": "materials", "items": ["Montessori puzzle map of South America", "Atlas or globe", "Blank outline map of South America (printed)", "Colored pencils", "Geography journal"], "setup_instructions": "Set out the puzzle map. Print a blank outline map. Open the atlas to South America. Have the geography journal ready."},
-        {"type": "instruction", "step": 1, "text": "South America is the fourth-largest continent, and it is a land of EXTREMES! It has the longest mountain range (Andes), the largest rainforest (Amazon), the driest desert (Atacama), the highest waterfall (Angel Falls), and the widest river (Amazon). No continent packs more variety into its landscape!"},
-        {"type": "instruction", "step": 2, "text": "The ANDES MOUNTAINS run down the entire western edge of South America — 4,500 miles from Venezuela to Chile! They are the longest continental mountain range in the world. Some peaks reach over 22,000 feet. The Andes were formed by tectonic plates colliding, just like the Himalayas — remember our Q1 lessons?"},
-        {"type": "instruction", "step": 3, "text": "East of the Andes lies the AMAZON RIVER and RAINFOREST. The Amazon carries more water than any other river — one-fifth of all river water on Earth! The rainforest is home to more species of plants and animals than anywhere else. To the south, the PAMPAS are vast grasslands (like American prairies), and PATAGONIA has glaciers and wind-swept plains."},
-        {"type": "instruction", "step": 4, "text": "The extremes are remarkable: the ATACAMA DESERT in Chile is the driest place on Earth — some parts have not had rain in recorded history! Yet just across the Andes, the Amazon gets over 80 inches of rain per year. The mountains block moisture, creating a 'rain shadow' desert."},
-        {"type": "activity", "prompt": "On your blank map, label and color: Andes Mountains (brown), Amazon River (blue), Amazon Rainforest (dark green), Atacama Desert (yellow), Pampas (light green), Patagonia (gray), and Angel Falls. Mark the equator. Label the Pacific Ocean and Atlantic Ocean. In your journal, write: Why does South America have such extreme geography? Mention tectonic plates and the rain shadow effect.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "South America's geography created incredible biodiversity and diverse human cultures. The Andes gave rise to the Inca civilization. The Amazon sustains indigenous peoples who have lived there for thousands of years. The Pampas became cattle country like the American West. Geography truly shapes how people live!", "mastery_check": "Can the child locate the Andes, Amazon, and Atacama on the map and explain why the continent has such extreme geographic variation?"}
+        {
+          "type": "title",
+          "heading": "South America",
+          "subheading": "Physical Features and the Mighty Andes",
+          "image_url": "https://images.pexels.com/photos/5428267/pexels-photo-5428267.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Montessori puzzle map of South America",
+            "Atlas or globe",
+            "Blank outline map of South America (printed)",
+            "Colored pencils",
+            "Geography journal"
+          ],
+          "setup_instructions": "Set out the puzzle map. Print a blank outline map. Open the atlas to South America. Have the geography journal ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "South America is the fourth-largest continent, and it is a land of EXTREMES! It has the longest mountain range (Andes), the largest rainforest (Amazon), the driest desert (Atacama), the highest waterfall (Angel Falls), and the widest river (Amazon). No continent packs more variety into its landscape!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The ANDES MOUNTAINS run down the entire western edge of South America — 4,500 miles from Venezuela to Chile! They are the longest continental mountain range in the world. Some peaks reach over 22,000 feet. The Andes were formed by tectonic plates colliding, just like the Himalayas — remember our Q1 lessons?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "East of the Andes lies the AMAZON RIVER and RAINFOREST. The Amazon carries more water than any other river — one-fifth of all river water on Earth! The rainforest is home to more species of plants and animals than anywhere else. To the south, the PAMPAS are vast grasslands (like American prairies), and PATAGONIA has glaciers and wind-swept plains."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "The extremes are remarkable: the ATACAMA DESERT in Chile is the driest place on Earth — some parts have not had rain in recorded history! Yet just across the Andes, the Amazon gets over 80 inches of rain per year. The mountains block moisture, creating a 'rain shadow' desert."
+        },
+        {
+          "type": "activity",
+          "prompt": "On your blank map, label and color: Andes Mountains (brown), Amazon River (blue), Amazon Rainforest (dark green), Atacama Desert (yellow), Pampas (light green), Patagonia (gray), and Angel Falls. Mark the equator. Label the Pacific Ocean and Atlantic Ocean. In your journal, write: Why does South America have such extreme geography? Mention tectonic plates and the rain shadow effect.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "South America's geography created incredible biodiversity and diverse human cultures. The Andes gave rise to the Inca civilization. The Amazon sustains indigenous peoples who have lived there for thousands of years. The Pampas became cattle country like the American West. Geography truly shapes how people live!",
+          "mastery_check": "Can the child locate the Andes, Amazon, and Atacama on the map and explain why the continent has such extreme geographic variation?"
+        }
       ]
     },
     "parent_notes": "South America's extremes make it exciting for children — biggest, longest, driest, wettest. The rain shadow concept (mountains blocking moisture) is a sophisticated geographical idea that children can grasp with a simple diagram. Connect to Q1 tectonic plate lessons: the Andes formed from the Nazca Plate diving under the South American Plate. If your child is interested in the Amazon, this can lead to weeks of independent study on rainforest ecology, indigenous cultures, and conservation.",
@@ -121,16 +296,54 @@
     "instructions": "1. Review the story so far: the peach is airborne, carried by seagulls.\n2. Read chapters 17-21 aloud.\n3. Pause to discuss: How do the characters work as a team?\n4. Identify adverbs in Dahl's writing — how does he describe actions?\n5. Discuss the Centipede's song — what does it reveal about his character?\n6. The child writes a journal entry from a character's perspective.\n7. Add new vocabulary words.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["James and the Giant Peach by Roald Dahl", "Reading journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "James and the Giant Peach by Roald Dahl",
+      "Reading journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "James and the Giant Peach", "subheading": "Chapters 17-21: Across the Ocean"},
-        {"type": "materials", "items": ["James and the Giant Peach by Roald Dahl", "Reading journal", "Pencil and colored pencils"], "setup_instructions": "Review chapters read so far. Prepare to read with dramatic expression — these chapters are full of action and humor. Have the journal ready for adverb-hunting and character perspective writing."},
-        {"type": "instruction", "step": 1, "text": "The peach is now flying across the Atlantic Ocean, carried by hundreds of seagulls! The characters face challenges together: sharks attacked earlier, and now they must navigate the open sky. Today, notice how each character contributes their unique skills to the group."},
-        {"type": "instruction", "step": 2, "text": "As I read, listen for ADVERBS — they are everywhere in Dahl's writing! He does not just say characters 'spoke' — they spoke 'nervously' or 'proudly' or 'angrily.' Each adverb tells us exactly HOW something happened. Raise your hand when you hear one!"},
-        {"type": "instruction", "step": 3, "text": "The Centipede sings a wild, boastful song. What does this tell us about his character? Is he really as brave as he claims? How does humor help the group during scary moments? Dahl uses humor to help his characters (and readers!) cope with danger."},
-        {"type": "activity", "prompt": "In your reading journal, write a diary entry from the perspective of ONE character during the ocean crossing. Use at least 4 adverbs to describe how things happened. For example, if you choose the Earthworm: 'I nervously peeked outside and quickly hid again...' Draw a scene from today's chapters and list 5 adverbs you heard during the reading.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Dahl is a master of using adverbs to bring scenes to life. His characters do not just DO things — they do them in specific, vivid ways. As a writer, choosing the right adverb is like choosing the right spice in cooking — it transforms the whole dish!", "mastery_check": "Can the child identify adverbs in Dahl's text and write a character perspective entry using adverbs effectively?"}
+        {
+          "type": "title",
+          "heading": "James and the Giant Peach",
+          "subheading": "Chapters 17-21: Across the Ocean",
+          "image_url": "https://images.pexels.com/photos/4145354/pexels-photo-4145354.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "James and the Giant Peach by Roald Dahl",
+            "Reading journal",
+            "Pencil and colored pencils"
+          ],
+          "setup_instructions": "Review chapters read so far. Prepare to read with dramatic expression — these chapters are full of action and humor. Have the journal ready for adverb-hunting and character perspective writing."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The peach is now flying across the Atlantic Ocean, carried by hundreds of seagulls! The characters face challenges together: sharks attacked earlier, and now they must navigate the open sky. Today, notice how each character contributes their unique skills to the group."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "As I read, listen for ADVERBS — they are everywhere in Dahl's writing! He does not just say characters 'spoke' — they spoke 'nervously' or 'proudly' or 'angrily.' Each adverb tells us exactly HOW something happened. Raise your hand when you hear one!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The Centipede sings a wild, boastful song. What does this tell us about his character? Is he really as brave as he claims? How does humor help the group during scary moments? Dahl uses humor to help his characters (and readers!) cope with danger."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal, write a diary entry from the perspective of ONE character during the ocean crossing. Use at least 4 adverbs to describe how things happened. For example, if you choose the Earthworm: 'I nervously peeked outside and quickly hid again...' Draw a scene from today's chapters and list 5 adverbs you heard during the reading.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Dahl is a master of using adverbs to bring scenes to life. His characters do not just DO things — they do them in specific, vivid ways. As a writer, choosing the right adverb is like choosing the right spice in cooking — it transforms the whole dish!",
+          "mastery_check": "Can the child identify adverbs in Dahl's text and write a character perspective entry using adverbs effectively?"
+        }
       ]
     },
     "parent_notes": "These chapters maintain high adventure while deepening character relationships. The connection to the language lesson on adverbs is intentional — Dahl's writing is rich with them. Encourage your child to notice how adverbs change the feeling of a sentence. The character perspective writing exercise builds empathy and point-of-view understanding. If your child struggles with perspective writing, start by asking: 'What would [character] see, feel, and think right now?'",
@@ -148,17 +361,62 @@
     "instructions": "1. Review simple sentences: subject + verb.\n2. Present two short sentences: 'I like cats. I like dogs.'\n3. Introduce conjunctions: words that JOIN sentences.\n4. Demonstrate: 'I like cats AND I like dogs.'\n5. Teach FANBOYS: For, And, Nor, But, Or, Yet, So.\n6. Practice combining sentence pairs.\n7. Write compound sentences with commas before the conjunction.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Sentence strip pairs", "Conjunction cards", "Language journal", "Pencil", "Grammar symbol cards"],
+    "materials_needed": [
+      "Sentence strip pairs",
+      "Conjunction cards",
+      "Language journal",
+      "Pencil",
+      "Grammar symbol cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Compound Sentences", "subheading": "Joining Ideas with And, But, Or, So"},
-        {"type": "materials", "items": ["Pairs of simple sentences on strips", "Conjunction word cards: for, and, nor, but, or, yet, so", "Comma cards", "Language journal and pencil", "Grammar symbol cards (pink rectangle for conjunction)"], "setup_instructions": "Prepare pairs of simple sentences that can be logically joined. Have conjunction cards ready. Prepare a FANBOYS reference card. Demonstrate the comma placement before the conjunction."},
-        {"type": "instruction", "step": 1, "text": "Listen to this: 'The sun was hot. We went swimming.' Two short, choppy sentences. Now: 'The sun was hot, SO we went swimming.' One smooth sentence! The word 'so' is a CONJUNCTION — it JOINS two sentences into one. The new sentence is called a COMPOUND sentence (compound means made of two parts)."},
-        {"type": "instruction", "step": 2, "text": "The most common conjunctions spell FANBOYS: For (because), And (adds), Nor (neither), But (contrast), Or (choice), Yet (however), So (therefore). The most useful are AND (adds ideas), BUT (shows contrast), OR (gives choices), and SO (shows result)."},
-        {"type": "instruction", "step": 3, "text": "Practice: 'I studied hard' + 'I passed the test.' Which conjunction fits? 'I studied hard, AND I passed the test' or 'I studied hard, SO I passed the test.' Both work, but SO shows cause and effect better! Try: 'It was raining' + 'We played inside.' → 'It was raining, SO we played inside.'"},
-        {"type": "instruction", "step": 4, "text": "Important rule: put a COMMA before the conjunction in a compound sentence. 'I like pizza, BUT I do not like anchovies.' The comma gives the reader a tiny pause before the new idea. Without it, the sentence runs together."},
-        {"type": "activity", "prompt": "Combine these sentence pairs using the best conjunction. Write the compound sentence with a comma: 1) 'She is tall. She is fast.' 2) 'We can go to the park. We can stay home.' 3) 'He was tired. He kept working.' 4) 'The movie was scary. I enjoyed it.' Then write 4 original compound sentences using AND, BUT, OR, and SO. Underline the conjunction and circle the comma.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Compound sentences make your writing flow! Instead of lots of short choppy sentences, you can join related ideas with FANBOYS conjunctions. Remember the comma before the conjunction. Challenge: in your reading today, look for compound sentences and identify which conjunction the author used.", "mastery_check": "Can the child combine two simple sentences with an appropriate conjunction and correct comma placement?"}
+        {
+          "type": "title",
+          "heading": "Compound Sentences",
+          "subheading": "Joining Ideas with And, But, Or, So",
+          "image_url": "https://images.pexels.com/photos/7807854/pexels-photo-7807854.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pairs of simple sentences on strips",
+            "Conjunction word cards: for, and, nor, but, or, yet, so",
+            "Comma cards",
+            "Language journal and pencil",
+            "Grammar symbol cards (pink rectangle for conjunction)"
+          ],
+          "setup_instructions": "Prepare pairs of simple sentences that can be logically joined. Have conjunction cards ready. Prepare a FANBOYS reference card. Demonstrate the comma placement before the conjunction."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Listen to this: 'The sun was hot. We went swimming.' Two short, choppy sentences. Now: 'The sun was hot, SO we went swimming.' One smooth sentence! The word 'so' is a CONJUNCTION — it JOINS two sentences into one. The new sentence is called a COMPOUND sentence (compound means made of two parts)."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The most common conjunctions spell FANBOYS: For (because), And (adds), Nor (neither), But (contrast), Or (choice), Yet (however), So (therefore). The most useful are AND (adds ideas), BUT (shows contrast), OR (gives choices), and SO (shows result)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Practice: 'I studied hard' + 'I passed the test.' Which conjunction fits? 'I studied hard, AND I passed the test' or 'I studied hard, SO I passed the test.' Both work, but SO shows cause and effect better! Try: 'It was raining' + 'We played inside.' → 'It was raining, SO we played inside.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Important rule: put a COMMA before the conjunction in a compound sentence. 'I like pizza, BUT I do not like anchovies.' The comma gives the reader a tiny pause before the new idea. Without it, the sentence runs together."
+        },
+        {
+          "type": "activity",
+          "prompt": "Combine these sentence pairs using the best conjunction. Write the compound sentence with a comma: 1) 'She is tall. She is fast.' 2) 'We can go to the park. We can stay home.' 3) 'He was tired. He kept working.' 4) 'The movie was scary. I enjoyed it.' Then write 4 original compound sentences using AND, BUT, OR, and SO. Underline the conjunction and circle the comma.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Compound sentences make your writing flow! Instead of lots of short choppy sentences, you can join related ideas with FANBOYS conjunctions. Remember the comma before the conjunction. Challenge: in your reading today, look for compound sentences and identify which conjunction the author used.",
+          "mastery_check": "Can the child combine two simple sentences with an appropriate conjunction and correct comma placement?"
+        }
       ]
     },
     "parent_notes": "Compound sentences are a major step in writing development. Children at this level often write strings of short sentences or overuse 'and.' Teaching FANBOYS gives them options. Focus on the four most common (and, but, or, so) before introducing for, nor, and yet. The comma before the conjunction is important but do not overstress it — content and fluency matter more than punctuation at this stage. Read compound sentences aloud so the child hears the natural pause at the comma.",
@@ -176,16 +434,56 @@
     "instructions": "1. Present a real-world problem: 12 cookies shared among 3 friends.\n2. The child physically divides 12 items into 3 equal groups.\n3. Introduce division notation: 12 / 3 = 4.\n4. Explain the parts: dividend (total), divisor (groups), quotient (in each group).\n5. Connect to multiplication: if 3 x 4 = 12, then 12 / 3 = 4.\n6. Practice with various numbers.\n7. Record in math journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Golden bead units", "Small bowls or plates (for groups)", "Math journal", "Pencil", "Counters or small objects"],
+    "materials_needed": [
+      "Golden bead units",
+      "Small bowls or plates (for groups)",
+      "Math journal",
+      "Pencil",
+      "Counters or small objects"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Introduction to Division", "subheading": "Sharing Equally Among Groups"},
-        {"type": "materials", "items": ["Golden bead unit beads (at least 60)", "Small bowls, plates, or mats (3-6) for creating groups", "Math journal and pencil", "Counters, buttons, or small objects as alternatives to beads"], "setup_instructions": "Set out bowls to represent groups. Have golden beads or counters ready for distribution. Prepare problems that divide evenly (no remainders yet). Have the multiplication table visible so children can see the connection."},
-        {"type": "instruction", "step": 1, "text": "You have 12 cookies to share equally among 3 friends. How many does each friend get? Let us find out! Take 12 beads (cookies) and deal them out to 3 bowls (friends), one at a time, going around: 1 for you, 1 for you, 1 for you, 1 for you, 1 for you, 1 for you... until all 12 are dealt."},
-        {"type": "instruction", "step": 2, "text": "Count the beads in each bowl: 4, 4, 4! Each friend gets 4 cookies. This is DIVISION: splitting a total into equal groups. We write it as 12 ÷ 3 = 4. The 12 is called the DIVIDEND (what we start with), 3 is the DIVISOR (how many groups), and 4 is the QUOTIENT (how many in each group)."},
-        {"type": "instruction", "step": 3, "text": "Here is the big secret: division is multiplication BACKWARDS! If 3 x 4 = 12, then 12 ÷ 3 = 4 AND 12 ÷ 4 = 3. They are in the same fact family! Knowing your multiplication facts means you already know division facts! 6 x 5 = 30, so 30 ÷ 6 = 5 and 30 ÷ 5 = 6."},
-        {"type": "activity", "prompt": "Solve by sharing beads into equal groups: 1) 15 ÷ 3 (use 3 bowls), 2) 20 ÷ 4 (use 4 bowls), 3) 18 ÷ 6, 4) 24 ÷ 4, 5) 30 ÷ 5. For each problem, write the division equation AND the related multiplication fact. Draw the groups for at least 2 problems. Write 2 word problems involving sharing equally.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Division is simply sharing equally. Whenever you split something into equal groups, you are dividing! And because division is the reverse of multiplication, your multiplication facts are also division facts. The better you know multiplication, the easier division becomes!", "mastery_check": "Can the child physically divide objects into equal groups, write the division equation, and connect it to the related multiplication fact?"}
+        {
+          "type": "title",
+          "heading": "Introduction to Division",
+          "subheading": "Sharing Equally Among Groups",
+          "image_url": "https://images.pexels.com/photos/6238050/pexels-photo-6238050.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Golden bead unit beads (at least 60)",
+            "Small bowls, plates, or mats (3-6) for creating groups",
+            "Math journal and pencil",
+            "Counters, buttons, or small objects as alternatives to beads"
+          ],
+          "setup_instructions": "Set out bowls to represent groups. Have golden beads or counters ready for distribution. Prepare problems that divide evenly (no remainders yet). Have the multiplication table visible so children can see the connection."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "You have 12 cookies to share equally among 3 friends. How many does each friend get? Let us find out! Take 12 beads (cookies) and deal them out to 3 bowls (friends), one at a time, going around: 1 for you, 1 for you, 1 for you, 1 for you, 1 for you, 1 for you... until all 12 are dealt."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Count the beads in each bowl: 4, 4, 4! Each friend gets 4 cookies. This is DIVISION: splitting a total into equal groups. We write it as 12 ÷ 3 = 4. The 12 is called the DIVIDEND (what we start with), 3 is the DIVISOR (how many groups), and 4 is the QUOTIENT (how many in each group)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Here is the big secret: division is multiplication BACKWARDS! If 3 x 4 = 12, then 12 ÷ 3 = 4 AND 12 ÷ 4 = 3. They are in the same fact family! Knowing your multiplication facts means you already know division facts! 6 x 5 = 30, so 30 ÷ 6 = 5 and 30 ÷ 5 = 6."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve by sharing beads into equal groups: 1) 15 ÷ 3 (use 3 bowls), 2) 20 ÷ 4 (use 4 bowls), 3) 18 ÷ 6, 4) 24 ÷ 4, 5) 30 ÷ 5. For each problem, write the division equation AND the related multiplication fact. Draw the groups for at least 2 problems. Write 2 word problems involving sharing equally.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Division is simply sharing equally. Whenever you split something into equal groups, you are dividing! And because division is the reverse of multiplication, your multiplication facts are also division facts. The better you know multiplication, the easier division becomes!",
+          "mastery_check": "Can the child physically divide objects into equal groups, write the division equation, and connect it to the related multiplication fact?"
+        }
       ]
     },
     "parent_notes": "Division is one of the four fundamental operations, and introducing it through physical sharing makes it concrete and intuitive. Children naturally understand fairness ('that is not equal!'), so sharing equally resonates. The critical connection is division-multiplication inverse: if a child knows 4 x 6 = 24, they can immediately know 24 ÷ 4 = 6. Do NOT introduce remainders yet — use only numbers that divide evenly. The golden bead distribution mirrors the Montessori racks and tubes division work that comes later.",
@@ -203,17 +501,67 @@
     "instructions": "1. Define 'work' in science: using force to move something over a distance.\n2. Introduce simple machines: tools that make work easier by changing force.\n3. Present the lever: a bar that pivots on a fulcrum.\n4. Experiment: lift a heavy book with and without a lever.\n5. Present the inclined plane: a ramp.\n6. Experiment: pull a toy car up a ramp vs. lifting it straight up.\n7. Record observations in science journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Ruler or wooden bar (lever)", "Fulcrum (eraser, wooden block)", "Heavy books", "Inclined plane (board or ramp)", "Toy car or small weight", "Spring scale (optional)", "Science journal", "Pencil"],
+    "materials_needed": [
+      "Ruler or wooden bar (lever)",
+      "Fulcrum (eraser, wooden block)",
+      "Heavy books",
+      "Inclined plane (board or ramp)",
+      "Toy car or small weight",
+      "Spring scale (optional)",
+      "Science journal",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Simple Machines", "subheading": "Levers and Inclined Planes"},
-        {"type": "materials", "items": ["Ruler or flat wooden bar for lever", "Triangular block, eraser, or dowel for fulcrum", "Heavy book or weight", "Board or rigid cardboard for inclined plane", "Stack of books to elevate one end of the ramp", "Toy car, small box, or weight for ramp experiments", "Science journal and pencil"], "setup_instructions": "Set up two experiment stations. Station 1: Lever — place the ruler over the fulcrum with a heavy book on one end. Station 2: Inclined plane — prop a board against a stack of books to create a ramp. Have the toy car or weight ready."},
-        {"type": "instruction", "step": 1, "text": "In science, WORK means using a FORCE to move something over a DISTANCE. Pushing a box across the floor is work. Lifting a backpack is work. Sometimes work is hard! That is why humans invented SIMPLE MACHINES — tools that make work easier. There are six types, and today we learn two."},
-        {"type": "instruction", "step": 2, "text": "A LEVER is a bar that pivots on a point called a FULCRUM. Try lifting this heavy book straight up — feel how heavy it is. Now place the ruler over the fulcrum, put the book on one end, and push down on the other end. Much easier! The lever MULTIPLIED your force. Seesaws, scissors, and bottle openers are all levers!"},
-        {"type": "instruction", "step": 3, "text": "An INCLINED PLANE is a ramp — a flat surface at an angle. Try lifting the toy car straight up to the top of the book stack. Now roll it up the ramp. The ramp is longer but easier! The inclined plane trades DISTANCE for FORCE — you push over a longer distance but with less force. Stairs, slides, and wheelchair ramps are inclined planes!"},
-        {"type": "instruction", "step": 4, "text": "Both machines follow the same principle: you cannot get something for nothing! A lever reduces force but increases distance. A ramp reduces force but increases the path length. The total WORK is the same — the machine just makes it feel easier by spreading the effort out."},
-        {"type": "activity", "prompt": "In your science journal, draw and label both experiments: the lever (label the bar, fulcrum, effort, and load) and the inclined plane (label the ramp, height, and load). List 3 real-world examples of levers and 3 examples of inclined planes in your home or school. Answer: Why do movers use ramps to load heavy furniture into trucks instead of lifting it?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Simple machines are all around us! Every time you use scissors (lever), climb stairs (inclined plane), or open a door with a handle (lever), you are using a simple machine. These inventions have been used for thousands of years — the Egyptians used inclined planes to build the pyramids!", "mastery_check": "Can the child explain how a lever and an inclined plane make work easier and identify real-world examples of each?"}
+        {
+          "type": "title",
+          "heading": "Simple Machines",
+          "subheading": "Levers and Inclined Planes",
+          "image_url": "https://images.pexels.com/photos/672142/pexels-photo-672142.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Ruler or flat wooden bar for lever",
+            "Triangular block, eraser, or dowel for fulcrum",
+            "Heavy book or weight",
+            "Board or rigid cardboard for inclined plane",
+            "Stack of books to elevate one end of the ramp",
+            "Toy car, small box, or weight for ramp experiments",
+            "Science journal and pencil"
+          ],
+          "setup_instructions": "Set up two experiment stations. Station 1: Lever — place the ruler over the fulcrum with a heavy book on one end. Station 2: Inclined plane — prop a board against a stack of books to create a ramp. Have the toy car or weight ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "In science, WORK means using a FORCE to move something over a DISTANCE. Pushing a box across the floor is work. Lifting a backpack is work. Sometimes work is hard! That is why humans invented SIMPLE MACHINES — tools that make work easier. There are six types, and today we learn two."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "A LEVER is a bar that pivots on a point called a FULCRUM. Try lifting this heavy book straight up — feel how heavy it is. Now place the ruler over the fulcrum, put the book on one end, and push down on the other end. Much easier! The lever MULTIPLIED your force. Seesaws, scissors, and bottle openers are all levers!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "An INCLINED PLANE is a ramp — a flat surface at an angle. Try lifting the toy car straight up to the top of the book stack. Now roll it up the ramp. The ramp is longer but easier! The inclined plane trades DISTANCE for FORCE — you push over a longer distance but with less force. Stairs, slides, and wheelchair ramps are inclined planes!"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Both machines follow the same principle: you cannot get something for nothing! A lever reduces force but increases distance. A ramp reduces force but increases the path length. The total WORK is the same — the machine just makes it feel easier by spreading the effort out."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your science journal, draw and label both experiments: the lever (label the bar, fulcrum, effort, and load) and the inclined plane (label the ramp, height, and load). List 3 real-world examples of levers and 3 examples of inclined planes in your home or school. Answer: Why do movers use ramps to load heavy furniture into trucks instead of lifting it?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Simple machines are all around us! Every time you use scissors (lever), climb stairs (inclined plane), or open a door with a handle (lever), you are using a simple machine. These inventions have been used for thousands of years — the Egyptians used inclined planes to build the pyramids!",
+          "mastery_check": "Can the child explain how a lever and an inclined plane make work easier and identify real-world examples of each?"
+        }
       ]
     },
     "parent_notes": "Simple machines are one of the most hands-on and engaging science units. The experiments are simple but powerful — the child can FEEL the difference between lifting with and without a lever. The key concept is the trade-off: less force but more distance. Do not worry about formulas at this age; focus on the intuitive understanding. Go on a 'simple machine hunt' around your house — children are amazed at how many they find. Next lessons will cover pulleys, wheels and axles, wedges, and screws.",
@@ -231,16 +579,59 @@
     "instructions": "1. Show images of illuminated manuscripts (Book of Kells, Book of Hours).\n2. Explain: before printing, every book was hand-written and decorated by monks.\n3. Focus on the illuminated initial: the large decorated first letter of a chapter.\n4. Note elements: gold leaf, vine patterns, animal figures, bright colors.\n5. The child sketches their initial letter large on paper.\n6. Add decorative elements: vines, flowers, animals.\n7. Color with rich, bright colors.\n8. Add gold details (gold paint, gold marker, or gold paper).",
     "duration_minutes": 45,
     "lesson_type": "independent",
-    "materials_needed": ["Images of illuminated manuscripts", "Heavy drawing paper", "Pencil", "Fine-tipped markers", "Colored pencils or watercolors", "Gold paint or gold marker"],
+    "materials_needed": [
+      "Images of illuminated manuscripts",
+      "Heavy drawing paper",
+      "Pencil",
+      "Fine-tipped markers",
+      "Colored pencils or watercolors",
+      "Gold paint or gold marker"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Illuminated Letters", "subheading": "The Art of Medieval Manuscripts"},
-        {"type": "materials", "items": ["Printed images of illuminated manuscripts (Book of Kells, Books of Hours)", "Heavy drawing paper or cardstock", "Pencil for sketching", "Fine-tipped black marker for outlines", "Colored pencils, markers, or watercolor paints", "Gold paint, gold marker, or gold paper for accents"], "setup_instructions": "Display illuminated manuscript images prominently. Provide large paper (at least 8x10 inches) so the child has room for detail. Demonstrate how the initial letter fills most of the space with decorative elements flowing from it."},
-        {"type": "instruction", "step": 1, "text": "Before the printing press was invented around 1450, every single book in Europe was copied BY HAND! Monks in monasteries spent years copying the Bible and other texts. To make these books beautiful and sacred, they ILLUMINATED them — the word means 'filled with light.' They used gold leaf that literally glowed in candlelight!"},
-        {"type": "instruction", "step": 2, "text": "The most decorated part was the INITIAL LETTER — the first letter of a chapter or section. It was drawn HUGE, sometimes filling half the page! The letter was filled with patterns: curling vines, flowers, tiny animals (birds, rabbits, dragons), geometric designs, and sometimes scenes from the story itself."},
-        {"type": "instruction", "step": 3, "text": "Look at these examples from the Book of Kells, made around 800 AD in Ireland. The letters are incredibly detailed — monks used brushes with just a few hairs! The colors are vivid: deep blue from lapis lazuli, red from lead, green from copper. Gold was applied as thin sheets called gold leaf."},
-        {"type": "activity", "prompt": "Create an illuminated version of the first letter of your name. Draw the letter large, filling most of the page. Fill the inside with: vine and leaf patterns, at least one animal, geometric borders, and a small scene or symbol that represents something you love. Outline everything in black marker. Color with rich, bright colors. Add gold accents with gold paint or marker. This should look fit for a medieval king's library!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Your illuminated letter is a work of art in a tradition that is over 1,200 years old! Medieval monks devoted their lives to creating beautiful books. When the printing press arrived, it made books available to everyone, but the art of hand illumination remains one of humanity's most extraordinary achievements.", "mastery_check": "Can the child explain what illuminated manuscripts are, why they were created, and produce an illuminated initial with decorative elements?"}
+        {
+          "type": "title",
+          "heading": "Illuminated Letters",
+          "subheading": "The Art of Medieval Manuscripts",
+          "image_url": "https://images.pexels.com/photos/8422248/pexels-photo-8422248.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed images of illuminated manuscripts (Book of Kells, Books of Hours)",
+            "Heavy drawing paper or cardstock",
+            "Pencil for sketching",
+            "Fine-tipped black marker for outlines",
+            "Colored pencils, markers, or watercolor paints",
+            "Gold paint, gold marker, or gold paper for accents"
+          ],
+          "setup_instructions": "Display illuminated manuscript images prominently. Provide large paper (at least 8x10 inches) so the child has room for detail. Demonstrate how the initial letter fills most of the space with decorative elements flowing from it."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Before the printing press was invented around 1450, every single book in Europe was copied BY HAND! Monks in monasteries spent years copying the Bible and other texts. To make these books beautiful and sacred, they ILLUMINATED them — the word means 'filled with light.' They used gold leaf that literally glowed in candlelight!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The most decorated part was the INITIAL LETTER — the first letter of a chapter or section. It was drawn HUGE, sometimes filling half the page! The letter was filled with patterns: curling vines, flowers, tiny animals (birds, rabbits, dragons), geometric designs, and sometimes scenes from the story itself."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Look at these examples from the Book of Kells, made around 800 AD in Ireland. The letters are incredibly detailed — monks used brushes with just a few hairs! The colors are vivid: deep blue from lapis lazuli, red from lead, green from copper. Gold was applied as thin sheets called gold leaf."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create an illuminated version of the first letter of your name. Draw the letter large, filling most of the page. Fill the inside with: vine and leaf patterns, at least one animal, geometric borders, and a small scene or symbol that represents something you love. Outline everything in black marker. Color with rich, bright colors. Add gold accents with gold paint or marker. This should look fit for a medieval king's library!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Your illuminated letter is a work of art in a tradition that is over 1,200 years old! Medieval monks devoted their lives to creating beautiful books. When the printing press arrived, it made books available to everyone, but the art of hand illumination remains one of humanity's most extraordinary achievements.",
+          "mastery_check": "Can the child explain what illuminated manuscripts are, why they were created, and produce an illuminated initial with decorative elements?"
+        }
       ]
     },
     "parent_notes": "Illuminated letters connect art to history (Middle Ages) beautifully. This project can take longer than one session — let the child work on it over several days if they are engaged. The detail work develops fine motor control and patience. If you have access to gold leaf sheets (available at craft stores), using real gold leaf is magical and authentic. Encourage the child to incorporate elements from their own life into the design while keeping the medieval style. Display the finished work — these are often treasured for years.",
@@ -258,16 +649,61 @@
     "instructions": "1. Discuss why we grow herbs: food, medicine, beauty, fragrance.\n2. Examine the seeds — different herbs have different seeds.\n3. Prepare the containers: drainage holes, potting soil.\n4. Plant seeds at the correct depth (usually 2x seed diameter).\n5. Water gently with a spray bottle.\n6. Place in a sunny spot.\n7. Create a care chart: when to water, how much light needed.\n8. Set up an observation journal.",
     "duration_minutes": 45,
     "lesson_type": "collaborative",
-    "materials_needed": ["Small pots or containers", "Potting soil", "Herb seeds (basil, parsley, mint)", "Spray bottle", "Popsicle sticks for labels", "Marker", "Tray for under pots"],
+    "materials_needed": [
+      "Small pots or containers",
+      "Potting soil",
+      "Herb seeds (basil, parsley, mint)",
+      "Spray bottle",
+      "Popsicle sticks for labels",
+      "Marker",
+      "Tray for under pots"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Plant Care", "subheading": "Growing an Herb Garden"},
-        {"type": "materials", "items": ["Small pots or recycled containers with drainage holes", "Potting soil (pre-moistened)", "Herb seeds: basil, parsley, and/or mint", "Spray bottle filled with water", "Popsicle sticks and permanent marker for labels", "Tray to catch drainage water", "Plant observation journal or science journal"], "setup_instructions": "Cover the workspace with newspaper. Pre-moisten the potting soil (damp but not soggy). Poke drainage holes in containers if needed. Have seeds, spray bottle, and labels ready. Choose a sunny windowsill for the herb garden's permanent location."},
-        {"type": "instruction", "step": 1, "text": "Herbs are plants that people have grown for THOUSANDS of years — for cooking, medicine, and fragrance. Ancient Greeks grew mint and oregano. Medieval monks kept herb gardens in monasteries. Today you become an herb gardener! You will be responsible for living things that depend on YOUR care."},
-        {"type": "instruction", "step": 2, "text": "Every plant needs four things: SOIL (nutrients and support), WATER (not too much, not too little), LIGHT (herbs love sunshine — at least 6 hours), and AIR (good circulation prevents disease). Like the Montessori care of environment lessons, plants need daily attention and gentle care."},
-        {"type": "instruction", "step": 3, "text": "Fill your pot 3/4 full with pre-moistened potting soil. Press gently to remove air pockets. Place 3-4 seeds on top (we plant extra because not all seeds germinate). Cover with a thin layer of soil — about twice the seed's thickness. Mist gently with the spray bottle. Label the pot with the herb name and today's date."},
-        {"type": "activity", "prompt": "Plant at least 2 different herbs in separate containers. Label each one. Create a Plant Care Chart in your journal with columns for: Date, What I Did (watered, moved to sun, etc.), and Observations (any changes I see). Water your herbs gently. Predict: Which herb do you think will sprout first? How many days will it take? Write your predictions. Start observing daily!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "You are now responsible for living things! Check your herbs EVERY DAY: feel the soil — if it is dry, mist it. Make sure they get sunlight. In 7-14 days, you should see tiny green sprouts pushing through the soil. The care you give determines whether they thrive. This is a big responsibility and a big reward!", "mastery_check": "Can the child explain what plants need to grow, properly plant seeds, and set up a care and observation schedule?"}
+        {
+          "type": "title",
+          "heading": "Plant Care",
+          "subheading": "Growing an Herb Garden",
+          "image_url": "https://images.pexels.com/photos/3154305/pexels-photo-3154305.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Small pots or recycled containers with drainage holes",
+            "Potting soil (pre-moistened)",
+            "Herb seeds: basil, parsley, and/or mint",
+            "Spray bottle filled with water",
+            "Popsicle sticks and permanent marker for labels",
+            "Tray to catch drainage water",
+            "Plant observation journal or science journal"
+          ],
+          "setup_instructions": "Cover the workspace with newspaper. Pre-moisten the potting soil (damp but not soggy). Poke drainage holes in containers if needed. Have seeds, spray bottle, and labels ready. Choose a sunny windowsill for the herb garden's permanent location."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Herbs are plants that people have grown for THOUSANDS of years — for cooking, medicine, and fragrance. Ancient Greeks grew mint and oregano. Medieval monks kept herb gardens in monasteries. Today you become an herb gardener! You will be responsible for living things that depend on YOUR care."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Every plant needs four things: SOIL (nutrients and support), WATER (not too much, not too little), LIGHT (herbs love sunshine — at least 6 hours), and AIR (good circulation prevents disease). Like the Montessori care of environment lessons, plants need daily attention and gentle care."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Fill your pot 3/4 full with pre-moistened potting soil. Press gently to remove air pockets. Place 3-4 seeds on top (we plant extra because not all seeds germinate). Cover with a thin layer of soil — about twice the seed's thickness. Mist gently with the spray bottle. Label the pot with the herb name and today's date."
+        },
+        {
+          "type": "activity",
+          "prompt": "Plant at least 2 different herbs in separate containers. Label each one. Create a Plant Care Chart in your journal with columns for: Date, What I Did (watered, moved to sun, etc.), and Observations (any changes I see). Water your herbs gently. Predict: Which herb do you think will sprout first? How many days will it take? Write your predictions. Start observing daily!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "You are now responsible for living things! Check your herbs EVERY DAY: feel the soil — if it is dry, mist it. Make sure they get sunlight. In 7-14 days, you should see tiny green sprouts pushing through the soil. The care you give determines whether they thrive. This is a big responsibility and a big reward!",
+          "mastery_check": "Can the child explain what plants need to grow, properly plant seeds, and set up a care and observation schedule?"
+        }
       ]
     },
     "parent_notes": "Plant care is a cornerstone Montessori practical life activity. It teaches responsibility, patience, observation, and respect for living things. Help your child check the herbs daily — establishing a routine is important. Basil sprouts fastest (5-7 days), parsley is slower (14-21 days). If herbs do not sprout, discuss possible reasons (too wet, too dry, too cold) and try again — failure is part of learning. When the herbs are large enough, use them in cooking to complete the seed-to-table cycle!",
@@ -285,16 +721,55 @@
     "instructions": "1. Read 3 short poems aloud (different styles).\n2. Discuss: How is poetry different from stories?\n3. Identify rhyme patterns: AABB (couplets) and ABAB (alternating).\n4. Clap the rhythm (meter) of a poem.\n5. Find imagery: words that paint pictures.\n6. The child writes a quatrain (4-line poem) with a rhyme scheme.\n7. Share poems aloud.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Poetry anthology or printed poems", "Language journal", "Pencil", "Rhyming dictionary (optional)"],
+    "materials_needed": [
+      "Poetry anthology or printed poems",
+      "Language journal",
+      "Pencil",
+      "Rhyming dictionary (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Poetry", "subheading": "Rhyme, Rhythm, and Painting with Words"},
-        {"type": "materials", "items": ["Poetry anthology or 3-4 printed poems (Shel Silverstein, Jack Prelutsky, Robert Frost, or similar)", "Language journal and pencil", "Rhyming dictionary or rhyming word lists (optional)", "Colored pencils for decorating final poems"], "setup_instructions": "Select 3-4 poems at different levels: one with simple AABB rhyme, one with ABAB rhyme, and one with strong imagery. Practice reading them aloud with good rhythm. Have the journal open to a fresh page for poetry writing."},
-        {"type": "instruction", "step": 1, "text": "Poetry is the music of language! Listen to this: 'I do not like green eggs and ham. I do not like them, Sam-I-Am.' That is Dr. Seuss — notice the RHYME (ham/Sam) and the RHYTHM (a beat you can clap). Poems use fewer words than stories but make every word count."},
-        {"type": "instruction", "step": 2, "text": "Poems have RHYME SCHEMES — patterns of rhyming. In AABB, lines 1 and 2 rhyme, lines 3 and 4 rhyme: 'The cat sat on the mat (A) / And wore a fancy hat (A) / The dog ran down the street (B) / With slippers on his feet (B).' In ABAB, lines 1 and 3 rhyme, lines 2 and 4 rhyme."},
-        {"type": "instruction", "step": 3, "text": "Poems also use IMAGERY — words that appeal to your senses. 'The golden sun melted into the purple horizon' makes you SEE the sunset. 'The crisp autumn leaves crunched under my boots' makes you HEAR and FEEL. Good poets are painters who use words instead of colors."},
-        {"type": "activity", "prompt": "Write TWO quatrains (4-line poems). One in AABB rhyme scheme and one in ABAB. Choose a topic: a season, an animal, your favorite food, or a feeling. Use at least one example of imagery (a word picture that appeals to the senses). Decorate the page around your poems with colored pencil illustrations. Then read your poems aloud — poetry is meant to be HEARD!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Poetry is one of the oldest forms of human expression — people were writing poems long before they wrote novels! When you write a poem, you join a tradition that includes Homer, Shakespeare, Emily Dickinson, and Shel Silverstein. Keep a poetry section in your journal and add to it whenever inspiration strikes.", "mastery_check": "Can the child identify AABB and ABAB rhyme schemes, find imagery in a poem, and write a quatrain with a consistent rhyme scheme?"}
+        {
+          "type": "title",
+          "heading": "Poetry",
+          "subheading": "Rhyme, Rhythm, and Painting with Words",
+          "image_url": "https://images.pexels.com/photos/1887614/pexels-photo-1887614.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Poetry anthology or 3-4 printed poems (Shel Silverstein, Jack Prelutsky, Robert Frost, or similar)",
+            "Language journal and pencil",
+            "Rhyming dictionary or rhyming word lists (optional)",
+            "Colored pencils for decorating final poems"
+          ],
+          "setup_instructions": "Select 3-4 poems at different levels: one with simple AABB rhyme, one with ABAB rhyme, and one with strong imagery. Practice reading them aloud with good rhythm. Have the journal open to a fresh page for poetry writing."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Poetry is the music of language! Listen to this: 'I do not like green eggs and ham. I do not like them, Sam-I-Am.' That is Dr. Seuss — notice the RHYME (ham/Sam) and the RHYTHM (a beat you can clap). Poems use fewer words than stories but make every word count."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Poems have RHYME SCHEMES — patterns of rhyming. In AABB, lines 1 and 2 rhyme, lines 3 and 4 rhyme: 'The cat sat on the mat (A) / And wore a fancy hat (A) / The dog ran down the street (B) / With slippers on his feet (B).' In ABAB, lines 1 and 3 rhyme, lines 2 and 4 rhyme."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Poems also use IMAGERY — words that appeal to your senses. 'The golden sun melted into the purple horizon' makes you SEE the sunset. 'The crisp autumn leaves crunched under my boots' makes you HEAR and FEEL. Good poets are painters who use words instead of colors."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write TWO quatrains (4-line poems). One in AABB rhyme scheme and one in ABAB. Choose a topic: a season, an animal, your favorite food, or a feeling. Use at least one example of imagery (a word picture that appeals to the senses). Decorate the page around your poems with colored pencil illustrations. Then read your poems aloud — poetry is meant to be HEARD!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Poetry is one of the oldest forms of human expression — people were writing poems long before they wrote novels! When you write a poem, you join a tradition that includes Homer, Shakespeare, Emily Dickinson, and Shel Silverstein. Keep a poetry section in your journal and add to it whenever inspiration strikes.",
+          "mastery_check": "Can the child identify AABB and ABAB rhyme schemes, find imagery in a poem, and write a quatrain with a consistent rhyme scheme?"
+        }
       ]
     },
     "parent_notes": "Poetry can feel intimidating, but children this age often love it — especially humorous poets like Shel Silverstein and Jack Prelutsky. Start with poems that make the child laugh, then introduce more serious poems. The key skill is hearing the rhyme and rhythm. Read poems aloud together, clap the beat, and have fun with it. Do not critique the child's poems for technical perfection; celebrate the attempt. Poetry builds phonemic awareness, vocabulary, and emotional expression simultaneously.",
@@ -312,16 +787,56 @@
     "instructions": "1. Review the division-multiplication connection.\n2. Model the thinking strategy: 24 ÷ 6 = ? Think: 6 x ? = 24. Answer: 4.\n3. Practice with 3s, 4s, and 6s division facts.\n4. Use bead bars to verify answers.\n5. Introduce fact family triangles: 3, 6, 18 → 3x6=18, 6x3=18, 18÷3=6, 18÷6=3.\n6. Create fact family cards.\n7. Solve mixed multiplication and division problems.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Bead bars", "Math journal", "Pencil", "Fact family triangle cards", "Flash cards"],
+    "materials_needed": [
+      "Bead bars",
+      "Math journal",
+      "Pencil",
+      "Fact family triangle cards",
+      "Flash cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Division with Multiplication Facts", "subheading": "Think Backwards to Move Forward"},
-        {"type": "materials", "items": ["Bead bars for verification", "Math journal and pencil", "Blank triangle cards for fact families", "Flash cards mixing multiplication and division facts"], "setup_instructions": "Prepare triangle cards with the product at the top and two factors at the bottom corners. Have flash cards ready with both multiplication and division problems mixed together. Bead bars available for checking."},
-        {"type": "instruction", "step": 1, "text": "Here is the most powerful division strategy: THINK MULTIPLICATION! When you see 24 ÷ 6, think: '6 times WHAT equals 24?' If you know 6 x 4 = 24, then 24 ÷ 6 = 4! You are using multiplication facts you already know to solve division!"},
-        {"type": "instruction", "step": 2, "text": "Try these: 18 ÷ 3 = ? Think: 3 x ? = 18. Answer: 6! 28 ÷ 4 = ? Think: 4 x ? = 28. Answer: 7! 36 ÷ 6 = ? Think: 6 x ? = 36. Answer: 6! See how multiplication unlocks division? This is why we practiced those facts!"},
-        {"type": "instruction", "step": 3, "text": "Every multiplication fact creates a FACT FAMILY — four related equations. Take 3, 5, and 15: 3 x 5 = 15, 5 x 3 = 15, 15 ÷ 3 = 5, 15 ÷ 5 = 3. The triangle card shows 15 at the top (product/dividend) and 3 and 5 at the bottom corners (factors/divisors)."},
-        {"type": "activity", "prompt": "Create fact family triangle cards for: (3, 4, 12), (6, 5, 30), (4, 8, 32), (3, 9, 27), (6, 7, 42). For each triangle, write all four equations in your math journal. Then solve these division problems using the 'think multiplication' strategy: 1) 21 ÷ 3, 2) 36 ÷ 4, 3) 42 ÷ 6, 4) 27 ÷ 3, 5) 48 ÷ 6, 6) 32 ÷ 4. Show your thinking!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Division and multiplication are two sides of the same coin — they are INVERSE operations. Every time you learn a multiplication fact, you actually learn a division fact too! Fact families show this beautiful connection. The better you know multiplication, the better you know division.", "mastery_check": "Can the child use the 'think multiplication' strategy to solve division facts and create complete fact families?"}
+        {
+          "type": "title",
+          "heading": "Division with Multiplication Facts",
+          "subheading": "Think Backwards to Move Forward",
+          "image_url": "https://images.pexels.com/photos/3693101/pexels-photo-3693101.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Bead bars for verification",
+            "Math journal and pencil",
+            "Blank triangle cards for fact families",
+            "Flash cards mixing multiplication and division facts"
+          ],
+          "setup_instructions": "Prepare triangle cards with the product at the top and two factors at the bottom corners. Have flash cards ready with both multiplication and division problems mixed together. Bead bars available for checking."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Here is the most powerful division strategy: THINK MULTIPLICATION! When you see 24 ÷ 6, think: '6 times WHAT equals 24?' If you know 6 x 4 = 24, then 24 ÷ 6 = 4! You are using multiplication facts you already know to solve division!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Try these: 18 ÷ 3 = ? Think: 3 x ? = 18. Answer: 6! 28 ÷ 4 = ? Think: 4 x ? = 28. Answer: 7! 36 ÷ 6 = ? Think: 6 x ? = 36. Answer: 6! See how multiplication unlocks division? This is why we practiced those facts!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Every multiplication fact creates a FACT FAMILY — four related equations. Take 3, 5, and 15: 3 x 5 = 15, 5 x 3 = 15, 15 ÷ 3 = 5, 15 ÷ 5 = 3. The triangle card shows 15 at the top (product/dividend) and 3 and 5 at the bottom corners (factors/divisors)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create fact family triangle cards for: (3, 4, 12), (6, 5, 30), (4, 8, 32), (3, 9, 27), (6, 7, 42). For each triangle, write all four equations in your math journal. Then solve these division problems using the 'think multiplication' strategy: 1) 21 ÷ 3, 2) 36 ÷ 4, 3) 42 ÷ 6, 4) 27 ÷ 3, 5) 48 ÷ 6, 6) 32 ÷ 4. Show your thinking!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Division and multiplication are two sides of the same coin — they are INVERSE operations. Every time you learn a multiplication fact, you actually learn a division fact too! Fact families show this beautiful connection. The better you know multiplication, the better you know division.",
+          "mastery_check": "Can the child use the 'think multiplication' strategy to solve division facts and create complete fact families?"
+        }
       ]
     },
     "parent_notes": "The 'think multiplication' strategy is the single most important division strategy. If a child knows their multiplication tables fluently, division becomes almost automatic. Fact family triangles are a powerful visual tool — the three numbers always relate through two multiplications and two divisions. Practice with flash cards showing division problems, and if the child hesitates, prompt: 'What times [divisor] gives you [dividend]?' This thinking pattern becomes automatic with practice.",
@@ -339,17 +854,62 @@
     "instructions": "1. Explain what a monastery is and who monks were.\n2. Describe the daily life of a monk: prayer, work, study.\n3. Discuss the scriptorium: where monks copied and illuminated books.\n4. Explain how monasteries preserved ancient knowledge.\n5. Describe monastery farms, gardens, and hospitality.\n6. Connect to the illuminated letters art project.\n7. The child creates a daily schedule for a medieval monk.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Images of medieval monasteries", "Timeline", "History journal", "Pencil", "Images of illuminated manuscripts"],
+    "materials_needed": [
+      "Images of medieval monasteries",
+      "Timeline",
+      "History journal",
+      "Pencil",
+      "Images of illuminated manuscripts"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Monks and Monasteries", "subheading": "Keepers of Knowledge in the Middle Ages"},
-        {"type": "materials", "items": ["Images of medieval monasteries (floor plans, buildings, gardens)", "Images of monks working in scriptoriums", "Timeline of civilizations", "History journal and pencil", "Examples of illuminated manuscripts"], "setup_instructions": "Display monastery images. Show a typical monastery floor plan: church, cloister, scriptorium, dormitory, refectory (dining hall), garden, hospital. Have illuminated manuscript images ready to connect to the art lesson."},
-        {"type": "instruction", "step": 1, "text": "When the Roman Empire fell, who kept knowledge alive? MONKS! Monks were men who dedicated their lives to God, living in communities called MONASTERIES. They followed strict rules: wake before dawn, pray seven times a day, work hard, eat simply, own nothing, and serve others."},
-        {"type": "instruction", "step": 2, "text": "The most important room in a monastery was the SCRIPTORIUM — the writing room. Here, monks spent years copying books by hand: the Bible, ancient Greek and Roman texts, medical knowledge, farming guides. Without these monks, the writings of Aristotle, Plato, and many others would have been LOST FOREVER."},
-        {"type": "instruction", "step": 3, "text": "But monks did much more than write. They were farmers who developed new agricultural techniques. They ran hospitals for the sick. They operated schools for children. They welcomed travelers (hospitality). The word 'hospital' actually comes from the Latin word for 'guest house' — monks cared for everyone who came to their doors."},
-        {"type": "instruction", "step": 4, "text": "Famous monasteries include Lindisfarne in England, Monte Cassino in Italy (founded by Saint Benedict), and Clonmacnoise in Ireland. Each monastery was a self-contained community with a church, dormitories, kitchens, gardens, workshops, and a library — like a small village dedicated to learning and service."},
-        {"type": "activity", "prompt": "In your history journal, create a daily schedule for a medieval monk. Start at 2 AM (Matins prayer) and go through the day: prayer times, meals, work periods (gardening, copying books, teaching, caring for the sick). Include at least 7 activities. Then write a paragraph: Why were monasteries so important for keeping knowledge alive during the Middle Ages?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Without monks and monasteries, we might have lost the great writings of ancient Greece and Rome. These dedicated men preserved civilization itself! Your illuminated letter from art class is a connection to this tradition — every decorated letter honors the monks who spent their lives creating beautiful books.", "mastery_check": "Can the child explain 3 contributions monasteries made to medieval society and describe a monk's daily routine?"}
+        {
+          "type": "title",
+          "heading": "Monks and Monasteries",
+          "subheading": "Keepers of Knowledge in the Middle Ages",
+          "image_url": "https://images.pexels.com/photos/1631665/pexels-photo-1631665.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Images of medieval monasteries (floor plans, buildings, gardens)",
+            "Images of monks working in scriptoriums",
+            "Timeline of civilizations",
+            "History journal and pencil",
+            "Examples of illuminated manuscripts"
+          ],
+          "setup_instructions": "Display monastery images. Show a typical monastery floor plan: church, cloister, scriptorium, dormitory, refectory (dining hall), garden, hospital. Have illuminated manuscript images ready to connect to the art lesson."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "When the Roman Empire fell, who kept knowledge alive? MONKS! Monks were men who dedicated their lives to God, living in communities called MONASTERIES. They followed strict rules: wake before dawn, pray seven times a day, work hard, eat simply, own nothing, and serve others."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The most important room in a monastery was the SCRIPTORIUM — the writing room. Here, monks spent years copying books by hand: the Bible, ancient Greek and Roman texts, medical knowledge, farming guides. Without these monks, the writings of Aristotle, Plato, and many others would have been LOST FOREVER."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "But monks did much more than write. They were farmers who developed new agricultural techniques. They ran hospitals for the sick. They operated schools for children. They welcomed travelers (hospitality). The word 'hospital' actually comes from the Latin word for 'guest house' — monks cared for everyone who came to their doors."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Famous monasteries include Lindisfarne in England, Monte Cassino in Italy (founded by Saint Benedict), and Clonmacnoise in Ireland. Each monastery was a self-contained community with a church, dormitories, kitchens, gardens, workshops, and a library — like a small village dedicated to learning and service."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your history journal, create a daily schedule for a medieval monk. Start at 2 AM (Matins prayer) and go through the day: prayer times, meals, work periods (gardening, copying books, teaching, caring for the sick). Include at least 7 activities. Then write a paragraph: Why were monasteries so important for keeping knowledge alive during the Middle Ages?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Without monks and monasteries, we might have lost the great writings of ancient Greece and Rome. These dedicated men preserved civilization itself! Your illuminated letter from art class is a connection to this tradition — every decorated letter honors the monks who spent their lives creating beautiful books.",
+          "mastery_check": "Can the child explain 3 contributions monasteries made to medieval society and describe a monk's daily routine?"
+        }
       ]
     },
     "parent_notes": "Monasteries are the bridge between the ancient and modern worlds — without them, much of classical knowledge would have been lost. This lesson connects directly to the illuminated letters art project and to the history of writing (Third Great Lesson). The monks' daily schedule is structured and repetitive, which resonates with Montessori's emphasis on order and routine. If your child is interested, explore how different religious communities (Buddhist monasteries, Islamic madrasas) also preserved and advanced knowledge during this period.",
@@ -367,16 +927,59 @@
     "instructions": "1. Use the puzzle map to identify South American countries.\n2. Focus on 5 key countries: Brazil, Argentina, Peru, Colombia, Chile.\n3. Discuss languages: Portuguese in Brazil, Spanish elsewhere, indigenous languages.\n4. Explore cultural elements: food, music, dance, traditions.\n5. Connect geography to culture: how does landscape affect life?\n6. The child labels countries and adds cultural facts.\n7. Compare South American cultures to their own.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Puzzle map of South America", "Atlas", "Blank outline map", "Colored pencils", "Geography journal", "Images of South American cultures"],
+    "materials_needed": [
+      "Puzzle map of South America",
+      "Atlas",
+      "Blank outline map",
+      "Colored pencils",
+      "Geography journal",
+      "Images of South American cultures"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "South America", "subheading": "Countries and Cultures"},
-        {"type": "materials", "items": ["Montessori puzzle map of South America", "Atlas or globe", "Blank outline map of South America", "Colored pencils", "Geography journal", "Images of South American cultural elements (food, music, dance, architecture)"], "setup_instructions": "Set out the puzzle map. Print a blank outline map. Gather cultural images: carnival in Brazil, tango in Argentina, Machu Picchu in Peru, etc. Have the geography journal ready."},
-        {"type": "instruction", "step": 1, "text": "South America has 12 countries plus French Guiana. Let us explore five major countries. BRAZIL is the largest — almost half the continent! Its language is Portuguese (not Spanish!) because it was colonized by Portugal. Brazil is famous for Carnival, soccer (futebol), the Amazon, and vibrant music like samba and bossa nova."},
-        {"type": "instruction", "step": 2, "text": "ARGENTINA is known for the tango dance, beef ranching on the Pampas, and Buenos Aires — called the 'Paris of South America.' PERU is home to Machu Picchu, the ancient Inca city in the Andes, and has incredible food (ceviche!). COLOMBIA has stunning biodiversity and grows the world's best coffee."},
-        {"type": "instruction", "step": 3, "text": "CHILE is a long, narrow country stretching 2,600 miles along the Pacific coast — from the Atacama Desert in the north to glaciers in the south! Geography shapes each culture: Peru's Andes produced the Inca mountain civilization, Brazil's coastline created seafaring and trading cultures, and Argentina's grasslands created gaucho (cowboy) traditions."},
-        {"type": "activity", "prompt": "On your blank map, color and label all 12 South American countries. For the 5 countries we studied, add a small illustration or symbol: Brazil (soccer ball or carnival mask), Argentina (tango dancers), Peru (Machu Picchu), Colombia (coffee bean), Chile (long shape!). In your journal, create a fact card for each of the 5 countries: capital, language, one famous landmark, and one cultural tradition.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "South America is a continent of incredible cultural diversity — from the samba rhythms of Brazil to the ancient Inca traditions of Peru. Despite sharing much history (Spanish and Portuguese colonization, indigenous heritage), each country has a unique identity shaped by its geography, people, and traditions. The world is richer because of this diversity!", "mastery_check": "Can the child locate at least 8 South American countries on the map and share 2 cultural facts about Brazil, Argentina, and Peru?"}
+        {
+          "type": "title",
+          "heading": "South America",
+          "subheading": "Countries and Cultures",
+          "image_url": "https://images.pexels.com/photos/8926461/pexels-photo-8926461.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Montessori puzzle map of South America",
+            "Atlas or globe",
+            "Blank outline map of South America",
+            "Colored pencils",
+            "Geography journal",
+            "Images of South American cultural elements (food, music, dance, architecture)"
+          ],
+          "setup_instructions": "Set out the puzzle map. Print a blank outline map. Gather cultural images: carnival in Brazil, tango in Argentina, Machu Picchu in Peru, etc. Have the geography journal ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "South America has 12 countries plus French Guiana. Let us explore five major countries. BRAZIL is the largest — almost half the continent! Its language is Portuguese (not Spanish!) because it was colonized by Portugal. Brazil is famous for Carnival, soccer (futebol), the Amazon, and vibrant music like samba and bossa nova."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "ARGENTINA is known for the tango dance, beef ranching on the Pampas, and Buenos Aires — called the 'Paris of South America.' PERU is home to Machu Picchu, the ancient Inca city in the Andes, and has incredible food (ceviche!). COLOMBIA has stunning biodiversity and grows the world's best coffee."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "CHILE is a long, narrow country stretching 2,600 miles along the Pacific coast — from the Atacama Desert in the north to glaciers in the south! Geography shapes each culture: Peru's Andes produced the Inca mountain civilization, Brazil's coastline created seafaring and trading cultures, and Argentina's grasslands created gaucho (cowboy) traditions."
+        },
+        {
+          "type": "activity",
+          "prompt": "On your blank map, color and label all 12 South American countries. For the 5 countries we studied, add a small illustration or symbol: Brazil (soccer ball or carnival mask), Argentina (tango dancers), Peru (Machu Picchu), Colombia (coffee bean), Chile (long shape!). In your journal, create a fact card for each of the 5 countries: capital, language, one famous landmark, and one cultural tradition.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "South America is a continent of incredible cultural diversity — from the samba rhythms of Brazil to the ancient Inca traditions of Peru. Despite sharing much history (Spanish and Portuguese colonization, indigenous heritage), each country has a unique identity shaped by its geography, people, and traditions. The world is richer because of this diversity!",
+          "mastery_check": "Can the child locate at least 8 South American countries on the map and share 2 cultural facts about Brazil, Argentina, and Peru?"
+        }
       ]
     },
     "parent_notes": "South American cultural study is rich and engaging. If possible, cook a South American dish (Brazilian rice and beans, Peruvian ceviche style salad, Argentine empanadas), listen to South American music (samba, tango, Andean flute music), or watch short videos of cultural celebrations. The language distinction — Brazil speaks Portuguese, most others speak Spanish — often surprises children. Indigenous languages (Quechua, Guarani, Aymara) are still widely spoken, which is worth discussing. This builds appreciation for linguistic diversity.",
@@ -394,16 +997,54 @@
     "instructions": "1. Review the adventure so far.\n2. Read chapters 22-28 aloud.\n3. Discuss the arrival in New York: How do people react to a giant peach?\n4. Analyze character growth: How has James changed from the beginning?\n5. Explore the theme: What makes a place 'home'?\n6. The child writes a review of the book.\n7. Discuss: What would YOU do if you found a giant peach?",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["James and the Giant Peach by Roald Dahl", "Reading journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "James and the Giant Peach by Roald Dahl",
+      "Reading journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "James and the Giant Peach", "subheading": "Chapters 22-28: New York City!"},
-        {"type": "materials", "items": ["James and the Giant Peach by Roald Dahl", "Reading journal", "Pencil and colored pencils"], "setup_instructions": "This is the climax and resolution of the book. Read with energy and emotion. Prepare discussion questions about character growth and themes."},
-        {"type": "instruction", "step": 1, "text": "The peach has traveled across the Atlantic Ocean and is now approaching NEW YORK CITY! As we read the final chapters, think about how each character has grown. James started as a lonely, frightened boy. How is he different now? What gave him courage?"},
-        {"type": "instruction", "step": 2, "text": "Dahl shows us that HOME is not just a place — it is where you belong, where people care about you. James's house with Aunt Sponge and Aunt Spiker was never truly home. Has the peach become home? What will James's life look like after the adventure ends?"},
-        {"type": "instruction", "step": 3, "text": "Notice how Dahl ends the story. Each insect friend finds their perfect place in New York. The peach pit becomes James's new home in Central Park. The ending is about everyone finding where they BELONG — not where they were put, but where they choose to be."},
-        {"type": "activity", "prompt": "Write a book review of James and the Giant Peach. Include: 1) A brief summary (3-4 sentences, no spoilers!). 2) Your favorite character and why. 3) The most exciting part. 4) The main theme (what Dahl wants us to learn). 5) Your rating (1-5 stars) with an explanation. Draw a scene from the ending. Would you recommend this book? To whom?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "James and the Giant Peach reminds us that even in the worst circumstances, magic can happen. James found courage, friendship, and a real home. Roald Dahl wrote this book to show that children have more strength and bravery than they know. What adventure will we read next?", "mastery_check": "Can the child summarize the book, identify its themes, analyze character growth, and write a thoughtful review?"}
+        {
+          "type": "title",
+          "heading": "James and the Giant Peach",
+          "subheading": "Chapters 22-28: New York City!",
+          "image_url": "https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "James and the Giant Peach by Roald Dahl",
+            "Reading journal",
+            "Pencil and colored pencils"
+          ],
+          "setup_instructions": "This is the climax and resolution of the book. Read with energy and emotion. Prepare discussion questions about character growth and themes."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The peach has traveled across the Atlantic Ocean and is now approaching NEW YORK CITY! As we read the final chapters, think about how each character has grown. James started as a lonely, frightened boy. How is he different now? What gave him courage?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Dahl shows us that HOME is not just a place — it is where you belong, where people care about you. James's house with Aunt Sponge and Aunt Spiker was never truly home. Has the peach become home? What will James's life look like after the adventure ends?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Notice how Dahl ends the story. Each insect friend finds their perfect place in New York. The peach pit becomes James's new home in Central Park. The ending is about everyone finding where they BELONG — not where they were put, but where they choose to be."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write a book review of James and the Giant Peach. Include: 1) A brief summary (3-4 sentences, no spoilers!). 2) Your favorite character and why. 3) The most exciting part. 4) The main theme (what Dahl wants us to learn). 5) Your rating (1-5 stars) with an explanation. Draw a scene from the ending. Would you recommend this book? To whom?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "James and the Giant Peach reminds us that even in the worst circumstances, magic can happen. James found courage, friendship, and a real home. Roald Dahl wrote this book to show that children have more strength and bravery than they know. What adventure will we read next?",
+          "mastery_check": "Can the child summarize the book, identify its themes, analyze character growth, and write a thoughtful review?"
+        }
       ]
     },
     "parent_notes": "Finishing a chapter book is an achievement to celebrate! The book review develops critical thinking — evaluating and articulating opinions about literature. James and the Giant Peach has layers: on the surface it is a fun adventure, but deeper themes include resilience, chosen family, and the power of imagination. Ask your child: 'How is James different at the end than at the beginning?' This kind of character analysis builds emotional intelligence. Next, consider starting Ramona Quimby, Age 8 — a very different but equally wonderful book.",
@@ -421,17 +1062,62 @@
     "instructions": "1. Discuss why we write book reports: to share and reflect.\n2. Present the structure: title/author, setting, characters, plot, opinion.\n3. Model each section with a familiar book.\n4. The child organizes their notes for each section.\n5. Write a first draft.\n6. Revise for compound sentences, adjectives, and adverbs.\n7. Write a final copy.\n8. Share the report aloud.",
     "duration_minutes": 45,
     "lesson_type": "independent",
-    "materials_needed": ["Book report template", "Language journal", "Pencil", "Eraser", "Completed book"],
+    "materials_needed": [
+      "Book report template",
+      "Language journal",
+      "Pencil",
+      "Eraser",
+      "Completed book"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Book Reports", "subheading": "Sharing Your Reading with the World"},
-        {"type": "materials", "items": ["Book report template or outline", "Language journal", "Pencil and eraser", "The completed book (James and the Giant Peach or another)", "Yesterday's book review notes"], "setup_instructions": "Create a simple book report template with sections: Title and Author, Setting, Main Characters, Plot Summary (beginning, middle, end), and My Opinion. Have the book available for reference. Yesterday's review can serve as a starting point."},
-        {"type": "instruction", "step": 1, "text": "A book report is different from a review. A review gives your OPINION. A report tells the reader about the book in an organized way so they can decide if they want to read it. Today we write a complete book report with five parts."},
-        {"type": "instruction", "step": 2, "text": "Part 1: TITLE AND AUTHOR. 'James and the Giant Peach by Roald Dahl.' Part 2: SETTING — where and when does the story take place? 'The story begins on a hill in the English countryside and moves to a giant peach flying across the Atlantic Ocean to New York City.'"},
-        {"type": "instruction", "step": 3, "text": "Part 3: MAIN CHARACTERS — describe 3-4 important characters using adjectives. Part 4: PLOT SUMMARY — beginning, middle, and end. Do NOT tell every detail — give the highlights! Part 5: MY OPINION — Did you enjoy it? Why or why not? Use specific reasons and examples from the book."},
-        {"type": "instruction", "step": 4, "text": "As you write, use the skills we have learned this quarter: ADJECTIVES to describe characters and settings. ADVERBS to describe how things happened. COMPOUND SENTENCES to join ideas smoothly. Remember the comma before your conjunction!"},
-        {"type": "activity", "prompt": "Write your book report using the five-part structure. Aim for at least 1 paragraph per section (that is 5 paragraphs total). Use at least 3 compound sentences (with conjunctions), 5 adjectives, and 3 adverbs. After your first draft, read it aloud to yourself and revise. Then write or type a clean final copy. Add an illustration of your favorite scene.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Writing book reports helps you think deeply about what you read. It also helps OTHER readers discover great books! Your report could convince someone to pick up James and the Giant Peach. That is the power of good writing — it connects people through stories.", "mastery_check": "Can the child write an organized book report with all five sections, using compound sentences, adjectives, and adverbs?"}
+        {
+          "type": "title",
+          "heading": "Book Reports",
+          "subheading": "Sharing Your Reading with the World",
+          "image_url": "https://images.pexels.com/photos/1822568/pexels-photo-1822568.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Book report template or outline",
+            "Language journal",
+            "Pencil and eraser",
+            "The completed book (James and the Giant Peach or another)",
+            "Yesterday's book review notes"
+          ],
+          "setup_instructions": "Create a simple book report template with sections: Title and Author, Setting, Main Characters, Plot Summary (beginning, middle, end), and My Opinion. Have the book available for reference. Yesterday's review can serve as a starting point."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A book report is different from a review. A review gives your OPINION. A report tells the reader about the book in an organized way so they can decide if they want to read it. Today we write a complete book report with five parts."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Part 1: TITLE AND AUTHOR. 'James and the Giant Peach by Roald Dahl.' Part 2: SETTING — where and when does the story take place? 'The story begins on a hill in the English countryside and moves to a giant peach flying across the Atlantic Ocean to New York City.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Part 3: MAIN CHARACTERS — describe 3-4 important characters using adjectives. Part 4: PLOT SUMMARY — beginning, middle, and end. Do NOT tell every detail — give the highlights! Part 5: MY OPINION — Did you enjoy it? Why or why not? Use specific reasons and examples from the book."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "As you write, use the skills we have learned this quarter: ADJECTIVES to describe characters and settings. ADVERBS to describe how things happened. COMPOUND SENTENCES to join ideas smoothly. Remember the comma before your conjunction!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your book report using the five-part structure. Aim for at least 1 paragraph per section (that is 5 paragraphs total). Use at least 3 compound sentences (with conjunctions), 5 adjectives, and 3 adverbs. After your first draft, read it aloud to yourself and revise. Then write or type a clean final copy. Add an illustration of your favorite scene.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Writing book reports helps you think deeply about what you read. It also helps OTHER readers discover great books! Your report could convince someone to pick up James and the Giant Peach. That is the power of good writing — it connects people through stories.",
+          "mastery_check": "Can the child write an organized book report with all five sections, using compound sentences, adjectives, and adverbs?"
+        }
       ]
     },
     "parent_notes": "The book report synthesizes multiple language skills: paragraph structure, adjectives, adverbs, and compound sentences. This is a significant piece of writing for a lower elementary student. Focus on organization and content first, then grammar and mechanics. If the child finds five paragraphs overwhelming, start with three (characters, plot, opinion) and build up. The 'read it aloud' revision step is powerful — children hear errors they cannot see. Consider displaying the final report or sharing it with grandparents to validate the child's work.",
@@ -449,17 +1135,61 @@
     "instructions": "1. Present two rulers: one with inches, one with centimeters.\n2. Explain: inches are used in the US, centimeters are used worldwide.\n3. Demonstrate proper ruler use: start at zero, read at the object's end.\n4. Measure the same object in both units.\n5. Discover: 1 inch is about 2.5 centimeters.\n6. Practice estimating, then measuring various objects.\n7. Record measurements in a chart.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Rulers with inches and centimeters", "Various objects to measure", "Math journal", "Pencil", "Measurement chart template"],
+    "materials_needed": [
+      "Rulers with inches and centimeters",
+      "Various objects to measure",
+      "Math journal",
+      "Pencil",
+      "Measurement chart template"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Measurement", "subheading": "Inches and Centimeters — Two Ways to Measure"},
-        {"type": "materials", "items": ["Rulers showing both inches and centimeters", "Objects to measure: pencil, book, hand span, shoe, eraser, paper clip, fork", "Math journal and pencil", "Measurement chart template (Object, Estimate, Inches, Centimeters)"], "setup_instructions": "Gather 8-10 objects of varying sizes for measuring. Prepare a measurement chart in the journal or on a worksheet. Ensure rulers are accurate and start at zero (not all rulers do). Demonstrate proper ruler placement."},
-        {"type": "instruction", "step": 1, "text": "There are TWO main systems for measuring length. The CUSTOMARY system uses inches, feet, and yards — it is used mainly in the United States. The METRIC system uses centimeters, meters, and kilometers — it is used in almost every other country and in science everywhere. Today we learn BOTH!"},
-        {"type": "instruction", "step": 2, "text": "Here is a ruler. One side shows INCHES — the longer marks. An inch is about the width of a quarter. The other side shows CENTIMETERS — shorter but more of them. A centimeter is about the width of your pinky fingernail. Important: always start measuring from the ZERO line, not the edge of the ruler!"},
-        {"type": "instruction", "step": 3, "text": "Let us measure this pencil. Line up the zero mark with one end. Read where the other end lands: 7 inches! Now flip the ruler: 18 centimeters! Notice: the centimeter number is always bigger because centimeters are smaller units. 1 inch = about 2.5 centimeters."},
-        {"type": "instruction", "step": 4, "text": "Before you measure, ESTIMATE first. An estimate is your best guess. Look at the pencil — about how many inches long do you think it is? Write your estimate, THEN measure. Estimating builds number sense. The more you practice, the better your estimates get!"},
-        {"type": "activity", "prompt": "Measure 8 objects. For each one: 1) Estimate the length in inches, 2) Measure in inches, 3) Measure in centimeters. Record in a chart. Objects: your pencil, this book, your hand span, your shoe, an eraser, a paper clip, a fork/spoon, and one object you choose. After measuring, answer: Were your estimates close? Which object was longest? About how many centimeters equal 1 inch?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Now you can measure in TWO systems! Scientists around the world use metric (centimeters) because it is based on 10s. In the US we use both systems, so knowing both is important. Practice estimating before measuring — developing a sense of 'about how long' is a superpower!", "mastery_check": "Can the child measure objects accurately in both inches and centimeters, starting from zero, and estimate within 1 inch of the actual measurement?"}
+        {
+          "type": "title",
+          "heading": "Measurement",
+          "subheading": "Inches and Centimeters — Two Ways to Measure",
+          "image_url": "https://images.pexels.com/photos/8612931/pexels-photo-8612931.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Rulers showing both inches and centimeters",
+            "Objects to measure: pencil, book, hand span, shoe, eraser, paper clip, fork",
+            "Math journal and pencil",
+            "Measurement chart template (Object, Estimate, Inches, Centimeters)"
+          ],
+          "setup_instructions": "Gather 8-10 objects of varying sizes for measuring. Prepare a measurement chart in the journal or on a worksheet. Ensure rulers are accurate and start at zero (not all rulers do). Demonstrate proper ruler placement."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "There are TWO main systems for measuring length. The CUSTOMARY system uses inches, feet, and yards — it is used mainly in the United States. The METRIC system uses centimeters, meters, and kilometers — it is used in almost every other country and in science everywhere. Today we learn BOTH!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Here is a ruler. One side shows INCHES — the longer marks. An inch is about the width of a quarter. The other side shows CENTIMETERS — shorter but more of them. A centimeter is about the width of your pinky fingernail. Important: always start measuring from the ZERO line, not the edge of the ruler!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Let us measure this pencil. Line up the zero mark with one end. Read where the other end lands: 7 inches! Now flip the ruler: 18 centimeters! Notice: the centimeter number is always bigger because centimeters are smaller units. 1 inch = about 2.5 centimeters."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Before you measure, ESTIMATE first. An estimate is your best guess. Look at the pencil — about how many inches long do you think it is? Write your estimate, THEN measure. Estimating builds number sense. The more you practice, the better your estimates get!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Measure 8 objects. For each one: 1) Estimate the length in inches, 2) Measure in inches, 3) Measure in centimeters. Record in a chart. Objects: your pencil, this book, your hand span, your shoe, an eraser, a paper clip, a fork/spoon, and one object you choose. After measuring, answer: Were your estimates close? Which object was longest? About how many centimeters equal 1 inch?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Now you can measure in TWO systems! Scientists around the world use metric (centimeters) because it is based on 10s. In the US we use both systems, so knowing both is important. Practice estimating before measuring — developing a sense of 'about how long' is a superpower!",
+          "mastery_check": "Can the child measure objects accurately in both inches and centimeters, starting from zero, and estimate within 1 inch of the actual measurement?"
+        }
       ]
     },
     "parent_notes": "Measurement is one of the most practical math skills. The key techniques are: start at zero (not the ruler edge), read to the nearest whole unit, and always estimate first. The relationship between inches and centimeters (1 inch = 2.54 cm) does not need to be memorized precisely; the approximate relationship (2.5 cm) is sufficient. Practice measurement throughout the day: cooking, building, sewing. Children who estimate regularly develop strong number sense that transfers to all areas of math.",
@@ -477,17 +1207,67 @@
     "instructions": "1. Review levers and inclined planes from Day 2.\n2. Introduce the pulley: a wheel with a groove for rope.\n3. Demonstrate: lift a bucket of blocks with and without a pulley.\n4. Build a simple pulley with a spool and string.\n5. Introduce the wheel and axle: a wheel attached to a rod.\n6. Experiment: move a heavy book on pencil 'rollers' vs. sliding it.\n7. Identify real-world examples of pulleys and wheels.\n8. Record in science journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Spool or small pulley", "String or rope", "Small bucket or bag", "Blocks or weights", "Round pencils (for rollers)", "Heavy book", "Science journal", "Pencil"],
+    "materials_needed": [
+      "Spool or small pulley",
+      "String or rope",
+      "Small bucket or bag",
+      "Blocks or weights",
+      "Round pencils (for rollers)",
+      "Heavy book",
+      "Science journal",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Simple Machines", "subheading": "Pulleys and Wheels and Axles"},
-        {"type": "materials", "items": ["Empty thread spool or toy pulley", "String or thin rope (3-4 feet)", "Small bucket, bag, or basket", "Blocks or small weights for the bucket", "5-6 round pencils to use as rollers", "Heavy book", "Science journal and pencil"], "setup_instructions": "Set up the pulley: hang the spool from a doorframe or hook using a coat hanger or tape. Thread string over it with a bucket on one end. For the wheel and axle demo, place pencils parallel on a table and put a heavy book on top."},
-        {"type": "instruction", "step": 1, "text": "Today we learn two more simple machines! First, the PULLEY: a wheel with a groove for rope. You have seen pulleys on flagpoles (pull the rope DOWN, the flag goes UP), on window blinds, and on cranes. A pulley changes the DIRECTION of force — instead of lifting UP, you pull DOWN, which is easier!"},
-        {"type": "instruction", "step": 2, "text": "Try this: lift the bucket full of blocks straight up. Feel the weight. Now thread the string over the spool-pulley, attach the bucket to one end, and pull the other end DOWN. Same weight, but pulling DOWN is easier because you can use your body weight to help! A pulley does not reduce force as much as a lever, but it changes direction."},
-        {"type": "instruction", "step": 3, "text": "Next: the WHEEL AND AXLE. A wheel is a circle that turns around a central rod (the axle). Try pushing this heavy book across the table — feel the friction? Now place it on pencil 'rollers' and push. SO much easier! The round pencils reduce friction. This is why ancient Egyptians may have used log rollers to move pyramid stones!"},
-        {"type": "instruction", "step": 4, "text": "Wheels and axles are EVERYWHERE: car wheels, bicycle wheels, doorknobs (the knob is the wheel, the shaft is the axle), screwdrivers, and roller skates. Every wheel reduces friction and makes movement easier. Wheels might be humanity's most important invention!"},
-        {"type": "activity", "prompt": "In your science journal, draw and label both machines: 1) The pulley system (label the wheel, rope, load, and effort direction). 2) The wheel and axle (label the wheel, axle, and direction of movement). List 5 real-world examples of pulleys and 5 examples of wheels and axles. Answer: Which simple machine do you think is the most important invention in history? Write 3 sentences defending your answer.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "We have now learned 4 of the 6 simple machines: lever, inclined plane, pulley, and wheel and axle. Each one makes work easier by changing the amount or direction of force. Next week, we finish with wedges and screws! Look around your house tonight and count how many simple machines you can find.", "mastery_check": "Can the child explain how pulleys and wheels and axles make work easier and give 3 real-world examples of each?"}
+        {
+          "type": "title",
+          "heading": "Simple Machines",
+          "subheading": "Pulleys and Wheels and Axles",
+          "image_url": "https://images.pexels.com/photos/248339/pexels-photo-248339.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Empty thread spool or toy pulley",
+            "String or thin rope (3-4 feet)",
+            "Small bucket, bag, or basket",
+            "Blocks or small weights for the bucket",
+            "5-6 round pencils to use as rollers",
+            "Heavy book",
+            "Science journal and pencil"
+          ],
+          "setup_instructions": "Set up the pulley: hang the spool from a doorframe or hook using a coat hanger or tape. Thread string over it with a bucket on one end. For the wheel and axle demo, place pencils parallel on a table and put a heavy book on top."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Today we learn two more simple machines! First, the PULLEY: a wheel with a groove for rope. You have seen pulleys on flagpoles (pull the rope DOWN, the flag goes UP), on window blinds, and on cranes. A pulley changes the DIRECTION of force — instead of lifting UP, you pull DOWN, which is easier!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Try this: lift the bucket full of blocks straight up. Feel the weight. Now thread the string over the spool-pulley, attach the bucket to one end, and pull the other end DOWN. Same weight, but pulling DOWN is easier because you can use your body weight to help! A pulley does not reduce force as much as a lever, but it changes direction."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Next: the WHEEL AND AXLE. A wheel is a circle that turns around a central rod (the axle). Try pushing this heavy book across the table — feel the friction? Now place it on pencil 'rollers' and push. SO much easier! The round pencils reduce friction. This is why ancient Egyptians may have used log rollers to move pyramid stones!"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Wheels and axles are EVERYWHERE: car wheels, bicycle wheels, doorknobs (the knob is the wheel, the shaft is the axle), screwdrivers, and roller skates. Every wheel reduces friction and makes movement easier. Wheels might be humanity's most important invention!"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your science journal, draw and label both machines: 1) The pulley system (label the wheel, rope, load, and effort direction). 2) The wheel and axle (label the wheel, axle, and direction of movement). List 5 real-world examples of pulleys and 5 examples of wheels and axles. Answer: Which simple machine do you think is the most important invention in history? Write 3 sentences defending your answer.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "We have now learned 4 of the 6 simple machines: lever, inclined plane, pulley, and wheel and axle. Each one makes work easier by changing the amount or direction of force. Next week, we finish with wedges and screws! Look around your house tonight and count how many simple machines you can find.",
+          "mastery_check": "Can the child explain how pulleys and wheels and axles make work easier and give 3 real-world examples of each?"
+        }
       ]
     },
     "parent_notes": "The pulley experiment is best done with a real pulley if available (hardware stores sell small ones inexpensively). The pencil-roller experiment is simple but powerful — children are amazed at the difference. The 'simple machine hunt' around the house is an excellent evening activity: doorknobs, scissors, stairs, wheels on furniture — they are literally everywhere. This unit builds foundational physics understanding that connects to engineering and design thinking.",
@@ -505,17 +1285,62 @@
     "instructions": "1. Introduce the recorder: a woodwind instrument with a long history.\n2. Teach proper holding position: left hand on top, right hand on bottom.\n3. Demonstrate gentle blowing: 'too' not 'phoo' — warm air, not forceful.\n4. Teach note B (thumb + first finger), A (thumb + fingers 1-2), G (thumb + fingers 1-2-3).\n5. Practice each note until clear and steady.\n6. Play a simple melody: 'Hot Cross Buns' (B-A-G, B-A-G, G-G-G-G, A-A-A-A, B-A-G).\n7. Practice slowly, then build speed.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Soprano recorder", "Fingering chart", "Music staff paper", "Pencil", "Music journal"],
+    "materials_needed": [
+      "Soprano recorder",
+      "Fingering chart",
+      "Music staff paper",
+      "Pencil",
+      "Music journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Recorder", "subheading": "Your First Three Notes: B, A, G"},
-        {"type": "materials", "items": ["Soprano recorder (cleaned and ready)", "Recorder fingering chart showing B, A, and G", "Music staff paper", "Pencil", "Music journal for notes"], "setup_instructions": "Clean the recorder. Post the fingering chart where the child can see it easily. Have a mirror available so the child can check their hand position. Prepare to demonstrate each note. 'Hot Cross Buns' should be written out with letter names above the notes."},
-        {"type": "instruction", "step": 1, "text": "The recorder is one of the oldest instruments in the world — people played recorders in medieval Europe, which connects to our history studies! It is called a 'recorder' because in old English, 'to record' meant 'to sing like a bird.' Today you start your journey as a recorder player with three notes."},
-        {"type": "instruction", "step": 2, "text": "Hold the recorder with your LEFT hand on TOP (near your mouth) and RIGHT hand on BOTTOM. Your left thumb covers the hole on the back. Your left pointer finger covers the first hole on top. Blow gently while saying 'too' — not hard like blowing out candles, but soft like fogging a mirror. That gives you the note B!"},
-        {"type": "instruction", "step": 3, "text": "For note A, keep your thumb and first finger in place, and ADD your left middle finger on the second hole. Blow gently: 'too.' That is A! For note G, add your left ring finger on the third hole (thumb + 3 fingers now). Blow gently. G! You now know B, A, and G — enough to play a song!"},
-        {"type": "instruction", "step": 4, "text": "Let us play 'Hot Cross Buns!' It only uses B, A, and G: B-A-G (rest), B-A-G (rest), G-G-G-G, A-A-A-A, B-A-G. Play it slowly first, making sure each note is clear. Then gradually speed up. Remember: gentle breath, firm finger coverage (no leaks!), and tongue each note ('too-too-too')."},
-        {"type": "activity", "prompt": "Practice B, A, and G individually until each note sounds clear (no squeaking). Then practice 'Hot Cross Buns' at least 5 times slowly. In your music journal, draw the recorder and mark where your fingers go for B, A, and G. Write out 'Hot Cross Buns' using letter names. Challenge: Can you make up your own short melody using just B, A, and G? Write it down!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "You played your first song on the recorder! B, A, and G are the building blocks of recorder music. Practice every day for 5-10 minutes — your fingers will remember the positions with practice. Next time we will add more notes and learn a longer song. Music takes patience, but the reward is beautiful!", "mastery_check": "Can the child play B, A, and G clearly on the recorder and perform 'Hot Cross Buns' at a slow tempo?"}
+        {
+          "type": "title",
+          "heading": "The Recorder",
+          "subheading": "Your First Three Notes: B, A, G",
+          "image_url": "https://images.pexels.com/photos/8363102/pexels-photo-8363102.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Soprano recorder (cleaned and ready)",
+            "Recorder fingering chart showing B, A, and G",
+            "Music staff paper",
+            "Pencil",
+            "Music journal for notes"
+          ],
+          "setup_instructions": "Clean the recorder. Post the fingering chart where the child can see it easily. Have a mirror available so the child can check their hand position. Prepare to demonstrate each note. 'Hot Cross Buns' should be written out with letter names above the notes."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The recorder is one of the oldest instruments in the world — people played recorders in medieval Europe, which connects to our history studies! It is called a 'recorder' because in old English, 'to record' meant 'to sing like a bird.' Today you start your journey as a recorder player with three notes."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Hold the recorder with your LEFT hand on TOP (near your mouth) and RIGHT hand on BOTTOM. Your left thumb covers the hole on the back. Your left pointer finger covers the first hole on top. Blow gently while saying 'too' — not hard like blowing out candles, but soft like fogging a mirror. That gives you the note B!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "For note A, keep your thumb and first finger in place, and ADD your left middle finger on the second hole. Blow gently: 'too.' That is A! For note G, add your left ring finger on the third hole (thumb + 3 fingers now). Blow gently. G! You now know B, A, and G — enough to play a song!"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Let us play 'Hot Cross Buns!' It only uses B, A, and G: B-A-G (rest), B-A-G (rest), G-G-G-G, A-A-A-A, B-A-G. Play it slowly first, making sure each note is clear. Then gradually speed up. Remember: gentle breath, firm finger coverage (no leaks!), and tongue each note ('too-too-too')."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice B, A, and G individually until each note sounds clear (no squeaking). Then practice 'Hot Cross Buns' at least 5 times slowly. In your music journal, draw the recorder and mark where your fingers go for B, A, and G. Write out 'Hot Cross Buns' using letter names. Challenge: Can you make up your own short melody using just B, A, and G? Write it down!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "You played your first song on the recorder! B, A, and G are the building blocks of recorder music. Practice every day for 5-10 minutes — your fingers will remember the positions with practice. Next time we will add more notes and learn a longer song. Music takes patience, but the reward is beautiful!",
+          "mastery_check": "Can the child play B, A, and G clearly on the recorder and perform 'Hot Cross Buns' at a slow tempo?"
+        }
       ]
     },
     "parent_notes": "The recorder is an ideal first instrument: inexpensive, portable, and directly teaches musical concepts like pitch, rhythm, and breath control. Key tips: gentle blowing is crucial — most squeaking comes from blowing too hard. Make sure all finger holes are completely covered (a common problem). Practice should be short and daily (5-10 minutes) rather than long and occasional. If the child gets frustrated, go back to single notes before songs. The medieval connection adds historical context. Be patient with the sound quality — it improves dramatically with practice!",
@@ -533,16 +1358,59 @@
     "instructions": "1. Discuss: What does it mean to be part of a community?\n2. Introduce classroom jobs: each person has a role that helps everyone.\n3. Present the jobs: plant caretaker, supply organizer, shelf straightener, table washer, timekeeper, calendar updater.\n4. Demonstrate each job with precise movements.\n5. The child practices one job thoroughly.\n6. Create a job rotation chart.\n7. Discuss personal responsibility and follow-through.",
     "duration_minutes": 45,
     "lesson_type": "collaborative",
-    "materials_needed": ["Job rotation chart", "Cleaning supplies", "Timer", "Calendar", "Supply containers", "Watering can"],
+    "materials_needed": [
+      "Job rotation chart",
+      "Cleaning supplies",
+      "Timer",
+      "Calendar",
+      "Supply containers",
+      "Watering can"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Classroom Jobs", "subheading": "Everyone Has a Role in Our Community"},
-        {"type": "materials", "items": ["Poster board or chart for job rotation schedule", "Markers for creating the chart", "Cleaning supplies: spray bottle, cloth, dustpan, broom", "Watering can for plant care", "Timer for timekeeper role", "Calendar for calendar updater role"], "setup_instructions": "Prepare the learning space as the 'classroom.' Define 5-6 jobs appropriate for your setting. Have all supplies needed for each job accessible and organized. Demonstrate each job slowly and precisely, Montessori-style."},
-        {"type": "instruction", "step": 1, "text": "In a Montessori classroom, the space belongs to EVERYONE, and everyone helps take care of it. This is just like a family, a village, or any community — it works best when each person contributes. Today we set up classroom jobs: specific responsibilities that rotate so everyone learns every role."},
-        {"type": "instruction", "step": 2, "text": "Here are our jobs: PLANT CARETAKER — water plants, check soil, remove dead leaves. SUPPLY ORGANIZER — sharpen pencils, refill paper, organize materials. SHELF STRAIGHTENER — return materials to correct spots, align items neatly. TABLE WASHER — clean work surfaces with spray and cloth. TIMEKEEPER — set timers, announce transitions."},
-        {"type": "instruction", "step": 3, "text": "Watch how I do the table washing job precisely: spray three times (not too much), wipe in circles from the center outward, dry with a clean cloth, fold the cloth, and return supplies to their place. Every job has specific steps. Doing them carefully shows RESPECT for the community."},
-        {"type": "activity", "prompt": "Practice each job today. Spend 3 minutes on each one, doing it carefully and completely. Then create a weekly job rotation chart: list each job, and assign yourself a different job for each day of the week. Decorate the chart and hang it where you can see it daily. Write in your journal: Why is it important for everyone to contribute to the community? What is your favorite job and why?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Taking care of our shared space is one of the most important things we do. It is not about being told to clean up — it is about CHOOSING to contribute because you are part of a community. When you do your job well, everyone benefits. This is how families, schools, and whole societies work.", "mastery_check": "Can the child perform each classroom job independently and explain why community contribution matters?"}
+        {
+          "type": "title",
+          "heading": "Classroom Jobs",
+          "subheading": "Everyone Has a Role in Our Community",
+          "image_url": "https://images.pexels.com/photos/6641321/pexels-photo-6641321.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Poster board or chart for job rotation schedule",
+            "Markers for creating the chart",
+            "Cleaning supplies: spray bottle, cloth, dustpan, broom",
+            "Watering can for plant care",
+            "Timer for timekeeper role",
+            "Calendar for calendar updater role"
+          ],
+          "setup_instructions": "Prepare the learning space as the 'classroom.' Define 5-6 jobs appropriate for your setting. Have all supplies needed for each job accessible and organized. Demonstrate each job slowly and precisely, Montessori-style."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "In a Montessori classroom, the space belongs to EVERYONE, and everyone helps take care of it. This is just like a family, a village, or any community — it works best when each person contributes. Today we set up classroom jobs: specific responsibilities that rotate so everyone learns every role."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Here are our jobs: PLANT CARETAKER — water plants, check soil, remove dead leaves. SUPPLY ORGANIZER — sharpen pencils, refill paper, organize materials. SHELF STRAIGHTENER — return materials to correct spots, align items neatly. TABLE WASHER — clean work surfaces with spray and cloth. TIMEKEEPER — set timers, announce transitions."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Watch how I do the table washing job precisely: spray three times (not too much), wipe in circles from the center outward, dry with a clean cloth, fold the cloth, and return supplies to their place. Every job has specific steps. Doing them carefully shows RESPECT for the community."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice each job today. Spend 3 minutes on each one, doing it carefully and completely. Then create a weekly job rotation chart: list each job, and assign yourself a different job for each day of the week. Decorate the chart and hang it where you can see it daily. Write in your journal: Why is it important for everyone to contribute to the community? What is your favorite job and why?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Taking care of our shared space is one of the most important things we do. It is not about being told to clean up — it is about CHOOSING to contribute because you are part of a community. When you do your job well, everyone benefits. This is how families, schools, and whole societies work.",
+          "mastery_check": "Can the child perform each classroom job independently and explain why community contribution matters?"
+        }
       ]
     },
     "parent_notes": "Classroom jobs (or 'home jobs' in a homeschool setting) develop responsibility, independence, and community awareness — core Montessori values. The key is consistency: the job rotation chart should be followed daily. Demonstrate each job slowly and precisely, then step back and let the child do it. Resist the urge to redo their work — autonomy builds confidence. For homeschooling, adapt jobs to your home: pet feeder, mail getter, table setter, laundry folder, dishwasher helper. Rotating jobs prevents boredom and builds versatility.",
@@ -560,16 +1428,56 @@
     "instructions": "1. Review the silent e rule with examples.\n2. Review the 1-1-1 doubling rule with examples.\n3. Review other patterns: -tion, -ness suffixes.\n4. Conduct a dictation exercise: read sentences aloud, child writes them.\n5. The child checks their work against the correct sentences.\n6. Identify patterns in any misspelled words.\n7. Create a personal spelling list for future practice.",
     "duration_minutes": 45,
     "lesson_type": "independent",
-    "materials_needed": ["Spelling rules reference sheet", "Language journal", "Pencil", "Eraser", "Dictation sentences"],
+    "materials_needed": [
+      "Spelling rules reference sheet",
+      "Language journal",
+      "Pencil",
+      "Eraser",
+      "Dictation sentences"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Spelling Review", "subheading": "Dictation — Putting Rules into Practice"},
-        {"type": "materials", "items": ["Spelling rules reference sheet (silent e, doubling rule, -tion, -ness)", "Language journal and pencil with eraser", "Prepared dictation sentences incorporating all spelling rules", "Personal spelling list template"], "setup_instructions": "Prepare 10 dictation sentences that include silent e words, doubled consonant words, and -tion/-ness words. Read each sentence twice at dictation pace. Have the correct sentences written separately for checking."},
-        {"type": "instruction", "step": 1, "text": "Quick review! Silent E rule: adding 'e' to the end makes the vowel say its name: hop → hope, kit → kite, cap → cape. Doubling rule (1-1-1): one syllable, one vowel, one final consonant — double before adding a suffix: run → running, big → biggest. Suffix rules: -tion (verb → noun), -ness (adjective → noun)."},
-        {"type": "instruction", "step": 2, "text": "Now for DICTATION! I will read a sentence twice. Listen carefully the first time. Write it the second time. Use your spelling rules to figure out tricky words. Do not worry about perfection — this is PRACTICE. We learn from mistakes!"},
-        {"type": "instruction", "step": 3, "text": "Dictation sentences use words from our rules. Listen for silent e words (like 'bravely' or 'skating'), doubled consonant words (like 'running' or 'biggest'), and suffix words (like 'celebration' or 'happiness'). Think about which rule applies before you write!"},
-        {"type": "activity", "prompt": "Write these dictation sentences as they are read to you. Then check your work against the correct versions. For any misspelled words: identify which rule you needed, write the word correctly 3 times, and add it to your personal spelling list. Count how many words you spelled correctly out of the total. Celebrate your strengths and note areas to practice!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Dictation is how real writers practice — they hear language and write it accurately. Every misspelling is a learning opportunity, not a failure. Your personal spelling list is your roadmap for improvement. Review it each week, and watch those tricky words become easy ones!", "mastery_check": "Can the child apply spelling rules during dictation, scoring at least 80% accuracy, and identify the rules needed for any misspelled words?"}
+        {
+          "type": "title",
+          "heading": "Spelling Review",
+          "subheading": "Dictation — Putting Rules into Practice",
+          "image_url": "https://images.pexels.com/photos/1275235/pexels-photo-1275235.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Spelling rules reference sheet (silent e, doubling rule, -tion, -ness)",
+            "Language journal and pencil with eraser",
+            "Prepared dictation sentences incorporating all spelling rules",
+            "Personal spelling list template"
+          ],
+          "setup_instructions": "Prepare 10 dictation sentences that include silent e words, doubled consonant words, and -tion/-ness words. Read each sentence twice at dictation pace. Have the correct sentences written separately for checking."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Quick review! Silent E rule: adding 'e' to the end makes the vowel say its name: hop → hope, kit → kite, cap → cape. Doubling rule (1-1-1): one syllable, one vowel, one final consonant — double before adding a suffix: run → running, big → biggest. Suffix rules: -tion (verb → noun), -ness (adjective → noun)."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Now for DICTATION! I will read a sentence twice. Listen carefully the first time. Write it the second time. Use your spelling rules to figure out tricky words. Do not worry about perfection — this is PRACTICE. We learn from mistakes!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Dictation sentences use words from our rules. Listen for silent e words (like 'bravely' or 'skating'), doubled consonant words (like 'running' or 'biggest'), and suffix words (like 'celebration' or 'happiness'). Think about which rule applies before you write!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write these dictation sentences as they are read to you. Then check your work against the correct versions. For any misspelled words: identify which rule you needed, write the word correctly 3 times, and add it to your personal spelling list. Count how many words you spelled correctly out of the total. Celebrate your strengths and note areas to practice!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Dictation is how real writers practice — they hear language and write it accurately. Every misspelling is a learning opportunity, not a failure. Your personal spelling list is your roadmap for improvement. Review it each week, and watch those tricky words become easy ones!",
+          "mastery_check": "Can the child apply spelling rules during dictation, scoring at least 80% accuracy, and identify the rules needed for any misspelled words?"
+        }
       ]
     },
     "parent_notes": "Dictation is a powerful Montessori language tool. Read each sentence at a natural pace first, then slowly for writing. Emphasize that mistakes are data, not failures — they show us exactly what to practice. The personal spelling list is the child's own study tool; review it weekly. Common dictation sentences: 'The brave knight was running to the huge celebration.' (silent e: brave, huge; doubling: running; -tion: celebration). Adjust difficulty to your child's level — the goal is 80% success with 20% stretch.",
@@ -587,16 +1495,55 @@
     "instructions": "1. Review division as sharing equally.\n2. Present word problems: 'I have 24 stickers to share among 6 friends. How many does each friend get?'\n3. Identify key phrases: 'share equally,' 'divided into groups,' 'how many in each.'\n4. Contrast with multiplication: 'Each friend gets 4 stickers. There are 6 friends. How many total?'\n5. Practice mixed operation word problems.\n6. The child writes their own word problems.\n7. Exchange and solve each other's problems.",
     "duration_minutes": 45,
     "lesson_type": "independent",
-    "materials_needed": ["Word problem cards", "Math journal", "Pencil", "Counters for modeling"],
+    "materials_needed": [
+      "Word problem cards",
+      "Math journal",
+      "Pencil",
+      "Counters for modeling"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Division Word Problems", "subheading": "When Do We Divide? When Do We Multiply?"},
-        {"type": "materials", "items": ["Prepared word problem cards (6 division, 4 multiplication)", "Math journal and pencil", "Counters or small objects for modeling problems", "Blank cards for writing original problems"], "setup_instructions": "Prepare word problem cards, mixing division and multiplication problems. Include key-word-rich problems so children can identify signals. Have counters available for children who need to model problems concretely."},
-        {"type": "instruction", "step": 1, "text": "Division word problems tell stories about sharing, grouping, or splitting. Key phrases: 'shared equally among,' 'divided into groups,' 'split between,' 'how many in each group.' When you see these, think DIVISION. Example: '18 cookies shared equally among 3 plates. How many on each plate?' 18 ÷ 3 = 6."},
-        {"type": "instruction", "step": 2, "text": "Multiplication word problems are different: they tell stories about combining equal groups. Key phrases: 'each,' 'every,' 'groups of,' 'total.' Example: '3 plates with 6 cookies each. How many cookies total?' 3 x 6 = 18. Same numbers, different operations!"},
-        {"type": "instruction", "step": 3, "text": "The trick is understanding what the problem ASKS. 'How many in EACH group?' → Division. 'How many TOTAL?' → Multiplication. Read the problem carefully, identify what you know and what you need to find, THEN choose the operation."},
-        {"type": "activity", "prompt": "Solve these problems. For each one, write whether it is multiplication or division and WHY: 1) 30 apples divided equally into 5 baskets. How many in each? 2) 4 shelves with 8 books each. How many books total? 3) 42 children split into 6 teams. How many per team? 4) Each bag holds 6 marbles. You have 9 bags. How many marbles? Then write 3 of your own word problems (at least 1 division and 1 multiplication) for someone else to solve.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Multiplication and division are a team — they are inverse operations! Knowing when to use each one is just as important as knowing how to compute the answer. Read word problems carefully, look for key words, and always ask: 'Am I finding a TOTAL or splitting a total INTO GROUPS?'", "mastery_check": "Can the child correctly identify whether a word problem requires multiplication or division and solve it accurately?"}
+        {
+          "type": "title",
+          "heading": "Division Word Problems",
+          "subheading": "When Do We Divide? When Do We Multiply?",
+          "image_url": "https://images.pexels.com/photos/6692923/pexels-photo-6692923.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Prepared word problem cards (6 division, 4 multiplication)",
+            "Math journal and pencil",
+            "Counters or small objects for modeling problems",
+            "Blank cards for writing original problems"
+          ],
+          "setup_instructions": "Prepare word problem cards, mixing division and multiplication problems. Include key-word-rich problems so children can identify signals. Have counters available for children who need to model problems concretely."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Division word problems tell stories about sharing, grouping, or splitting. Key phrases: 'shared equally among,' 'divided into groups,' 'split between,' 'how many in each group.' When you see these, think DIVISION. Example: '18 cookies shared equally among 3 plates. How many on each plate?' 18 ÷ 3 = 6."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Multiplication word problems are different: they tell stories about combining equal groups. Key phrases: 'each,' 'every,' 'groups of,' 'total.' Example: '3 plates with 6 cookies each. How many cookies total?' 3 x 6 = 18. Same numbers, different operations!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The trick is understanding what the problem ASKS. 'How many in EACH group?' → Division. 'How many TOTAL?' → Multiplication. Read the problem carefully, identify what you know and what you need to find, THEN choose the operation."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these problems. For each one, write whether it is multiplication or division and WHY: 1) 30 apples divided equally into 5 baskets. How many in each? 2) 4 shelves with 8 books each. How many books total? 3) 42 children split into 6 teams. How many per team? 4) Each bag holds 6 marbles. You have 9 bags. How many marbles? Then write 3 of your own word problems (at least 1 division and 1 multiplication) for someone else to solve.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Multiplication and division are a team — they are inverse operations! Knowing when to use each one is just as important as knowing how to compute the answer. Read word problems carefully, look for key words, and always ask: 'Am I finding a TOTAL or splitting a total INTO GROUPS?'",
+          "mastery_check": "Can the child correctly identify whether a word problem requires multiplication or division and solve it accurately?"
+        }
       ]
     },
     "parent_notes": "Word problems are where math meets the real world. Many children can compute correctly but struggle to know WHICH operation to use. The key-word strategy helps, but also encourage children to visualize the problem: draw a picture or use objects. If the child sees items being distributed into groups, it is division. If they see groups being combined, it is multiplication. Write word problems about your child's life: sharing snacks with siblings, distributing supplies, counting items in groups. Relevance builds understanding.",
@@ -614,17 +1561,62 @@
     "instructions": "1. Introduce the role of knights in feudal society.\n2. Describe the training: page (age 7), squire (age 14), knight (age 21).\n3. Explain armor and weapons: chainmail, plate armor, swords, lances.\n4. Present the code of chivalry: honor, courage, loyalty, protecting the weak.\n5. Discuss: Were knights really as noble as the stories say?\n6. The child designs a coat of arms with personal symbols.\n7. Record in history journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Images of medieval knights and armor", "History journal", "Pencil", "Colored pencils", "Shield template for coat of arms"],
+    "materials_needed": [
+      "Images of medieval knights and armor",
+      "History journal",
+      "Pencil",
+      "Colored pencils",
+      "Shield template for coat of arms"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Knights and Chivalry", "subheading": "The Warriors of the Middle Ages"},
-        {"type": "materials", "items": ["Images of medieval knights, armor, and castles", "History journal and pencil", "Colored pencils or markers", "Shield-shaped template for coat of arms design", "Timeline of civilizations"], "setup_instructions": "Display knight images showing the progression: page, squire, knight. Show different types of armor (chainmail, plate armor). Prepare shield templates on cardstock. Have heraldry color/symbol reference available."},
-        {"type": "instruction", "step": 1, "text": "In the feudal system, KNIGHTS were the warriors. But becoming a knight took YEARS of training. At age 7, a boy left home to serve as a PAGE in a lord's castle, learning manners, riding, and basic combat. At 14, he became a SQUIRE, serving a specific knight and training with real weapons. At 21, he was dubbed a KNIGHT in a ceremony."},
-        {"type": "instruction", "step": 2, "text": "Knight armor evolved over centuries. Early knights wore CHAINMAIL — thousands of tiny metal rings linked together. Later came PLATE ARMOR — solid metal pieces that covered the entire body. A full suit weighed 45-55 pounds! Weapons included swords, lances (for jousting), maces, and shields. Each knight's shield bore a unique COAT OF ARMS to identify them in battle."},
-        {"type": "instruction", "step": 3, "text": "Knights followed a code called CHIVALRY: Be brave in battle. Be loyal to your lord and king. Protect the weak and innocent. Be honest and keep your word. Show mercy to defeated enemies. Be courteous and generous. These ideals inspired stories of heroic knights like King Arthur and his Knights of the Round Table."},
-        {"type": "instruction", "step": 4, "text": "Were real knights always chivalrous? Honestly, no. Many knights were violent and greedy. The code of chivalry was an IDEAL — something to strive for, not always reality. But the ideal itself was powerful. It influenced ideas about honor, justice, and good character that we still value today."},
-        {"type": "activity", "prompt": "Design your own COAT OF ARMS on the shield template. Divide the shield into 4 sections. In each section, draw a symbol that represents something important to you: a value you hold (courage, kindness, creativity, loyalty), a skill you are proud of, your family, or something you love. Choose colors carefully — in heraldry, gold means generosity, red means courage, blue means loyalty, green means hope. Write the meaning of each symbol.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Knights remind us that people have always valued courage, honor, and service — even if they did not always live up to those ideals. Your coat of arms represents YOUR values and identity, just as a knight's shield represented theirs. What do you want to stand for?", "mastery_check": "Can the child describe the three stages of knight training, explain the code of chivalry, and design a meaningful coat of arms?"}
+        {
+          "type": "title",
+          "heading": "Knights and Chivalry",
+          "subheading": "The Warriors of the Middle Ages",
+          "image_url": "https://images.pexels.com/photos/10131669/pexels-photo-10131669.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Images of medieval knights, armor, and castles",
+            "History journal and pencil",
+            "Colored pencils or markers",
+            "Shield-shaped template for coat of arms design",
+            "Timeline of civilizations"
+          ],
+          "setup_instructions": "Display knight images showing the progression: page, squire, knight. Show different types of armor (chainmail, plate armor). Prepare shield templates on cardstock. Have heraldry color/symbol reference available."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "In the feudal system, KNIGHTS were the warriors. But becoming a knight took YEARS of training. At age 7, a boy left home to serve as a PAGE in a lord's castle, learning manners, riding, and basic combat. At 14, he became a SQUIRE, serving a specific knight and training with real weapons. At 21, he was dubbed a KNIGHT in a ceremony."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Knight armor evolved over centuries. Early knights wore CHAINMAIL — thousands of tiny metal rings linked together. Later came PLATE ARMOR — solid metal pieces that covered the entire body. A full suit weighed 45-55 pounds! Weapons included swords, lances (for jousting), maces, and shields. Each knight's shield bore a unique COAT OF ARMS to identify them in battle."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Knights followed a code called CHIVALRY: Be brave in battle. Be loyal to your lord and king. Protect the weak and innocent. Be honest and keep your word. Show mercy to defeated enemies. Be courteous and generous. These ideals inspired stories of heroic knights like King Arthur and his Knights of the Round Table."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Were real knights always chivalrous? Honestly, no. Many knights were violent and greedy. The code of chivalry was an IDEAL — something to strive for, not always reality. But the ideal itself was powerful. It influenced ideas about honor, justice, and good character that we still value today."
+        },
+        {
+          "type": "activity",
+          "prompt": "Design your own COAT OF ARMS on the shield template. Divide the shield into 4 sections. In each section, draw a symbol that represents something important to you: a value you hold (courage, kindness, creativity, loyalty), a skill you are proud of, your family, or something you love. Choose colors carefully — in heraldry, gold means generosity, red means courage, blue means loyalty, green means hope. Write the meaning of each symbol.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Knights remind us that people have always valued courage, honor, and service — even if they did not always live up to those ideals. Your coat of arms represents YOUR values and identity, just as a knight's shield represented theirs. What do you want to stand for?",
+          "mastery_check": "Can the child describe the three stages of knight training, explain the code of chivalry, and design a meaningful coat of arms?"
+        }
       ]
     },
     "parent_notes": "Knights are endlessly fascinating for children. The progression from page to squire to knight shows that mastery takes years of dedication — a great parallel to the child's own learning journey. The coat of arms activity is personal and meaningful; display it proudly. The critical thinking element (Were knights really chivalrous?) teaches children to question idealized narratives. If your child is interested, read excerpts from King Arthur legends or watch age-appropriate documentaries about medieval life. The armor discussion can connect to simple machines (levers in sword fighting, wedges in arrowheads).",
@@ -642,17 +1634,66 @@
     "instructions": "1. Review the four simple machines learned so far.\n2. Introduce the wedge: a moving inclined plane that concentrates force.\n3. Demonstrate: splitting clay with a butter knife (wedge).\n4. Introduce the screw: an inclined plane wrapped around a cylinder.\n5. Demonstrate: wrapping a triangle of paper around a pencil to show the 'ramp.'\n6. Compare a screw to a ramp spiraling upward.\n7. Identify all six simple machines in compound machines.\n8. Record in science journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Butter knife (wedge)", "Clay or playdough", "Various screws and bolts", "Triangle of paper", "Pencil", "Science journal", "Images of compound machines"],
+    "materials_needed": [
+      "Butter knife (wedge)",
+      "Clay or playdough",
+      "Various screws and bolts",
+      "Triangle of paper",
+      "Pencil",
+      "Science journal",
+      "Images of compound machines"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Simple Machines", "subheading": "Wedges and Screws — The Final Two"},
-        {"type": "materials", "items": ["Butter knife or plastic knife (wedge demonstration)", "Clay or playdough for splitting", "Various screws, bolts, and jar lids", "Right triangle cut from paper", "Pencil for wrapping demonstration", "Science journal and pencil", "Images showing compound machines (bicycle, can opener, scissors)"], "setup_instructions": "Prepare a ball of clay. Have screws of different sizes visible. Cut a right triangle from paper (for the spiral demonstration). Gather images of compound machines. Set up the science journal with a '6 Simple Machines' reference page."},
-        {"type": "instruction", "step": 1, "text": "We have learned lever, inclined plane, pulley, and wheel and axle. Today we complete the set! Machine #5: the WEDGE. A wedge is an inclined plane that MOVES. Instead of you moving UP the ramp, the wedge moves INTO something to split it apart. Think of an axe splitting wood or a knife cutting bread."},
-        {"type": "instruction", "step": 2, "text": "Try this: push the butter knife through the clay. The thin edge enters easily, and the wider part pushes the clay apart. That is a wedge in action! The thin edge concentrates your force into a small point. Axes, knives, nails, chisels, doorstops, and even your front teeth are wedges!"},
-        {"type": "instruction", "step": 3, "text": "Machine #6: the SCREW. A screw is an inclined plane wrapped around a cylinder in a spiral. Watch: wrap this paper triangle around the pencil — see how the slanted edge creates a spiral? That is the thread of a screw! Screws convert turning motion into forward motion. They hold things together with incredible force."},
-        {"type": "instruction", "step": 4, "text": "Look at this screw closely — see the spiral ridge (thread)? Each turn moves the screw a tiny bit deeper, like walking slowly up a very long ramp. Jar lids, light bulbs, spiral staircases, and drill bits are all screws! Now you know ALL SIX simple machines. Most real tools are COMPOUND machines — combinations of simple machines!"},
-        {"type": "activity", "prompt": "Create a '6 Simple Machines' reference page in your science journal. For each machine, draw it, write a definition, and list 3 everyday examples: 1) Lever, 2) Inclined plane, 3) Pulley, 4) Wheel and axle, 5) Wedge, 6) Screw. Then analyze a COMPOUND machine: how many simple machines can you find in a bicycle? In scissors? In a can opener? Draw and label them.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "You now know all six simple machines — the building blocks of every tool, vehicle, and machine ever made! From ancient Egyptian ramps to modern spacecraft, every machine is built from combinations of these six basic types. Engineers are people who combine simple machines to solve problems. You think like an engineer!", "mastery_check": "Can the child identify all 6 simple machines, give examples of each, and find simple machines within a compound machine?"}
+        {
+          "type": "title",
+          "heading": "Simple Machines",
+          "subheading": "Wedges and Screws — The Final Two",
+          "image_url": "https://images.pexels.com/photos/55827/pexels-photo-55827.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Butter knife or plastic knife (wedge demonstration)",
+            "Clay or playdough for splitting",
+            "Various screws, bolts, and jar lids",
+            "Right triangle cut from paper",
+            "Pencil for wrapping demonstration",
+            "Science journal and pencil",
+            "Images showing compound machines (bicycle, can opener, scissors)"
+          ],
+          "setup_instructions": "Prepare a ball of clay. Have screws of different sizes visible. Cut a right triangle from paper (for the spiral demonstration). Gather images of compound machines. Set up the science journal with a '6 Simple Machines' reference page."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "We have learned lever, inclined plane, pulley, and wheel and axle. Today we complete the set! Machine #5: the WEDGE. A wedge is an inclined plane that MOVES. Instead of you moving UP the ramp, the wedge moves INTO something to split it apart. Think of an axe splitting wood or a knife cutting bread."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Try this: push the butter knife through the clay. The thin edge enters easily, and the wider part pushes the clay apart. That is a wedge in action! The thin edge concentrates your force into a small point. Axes, knives, nails, chisels, doorstops, and even your front teeth are wedges!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Machine #6: the SCREW. A screw is an inclined plane wrapped around a cylinder in a spiral. Watch: wrap this paper triangle around the pencil — see how the slanted edge creates a spiral? That is the thread of a screw! Screws convert turning motion into forward motion. They hold things together with incredible force."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Look at this screw closely — see the spiral ridge (thread)? Each turn moves the screw a tiny bit deeper, like walking slowly up a very long ramp. Jar lids, light bulbs, spiral staircases, and drill bits are all screws! Now you know ALL SIX simple machines. Most real tools are COMPOUND machines — combinations of simple machines!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a '6 Simple Machines' reference page in your science journal. For each machine, draw it, write a definition, and list 3 everyday examples: 1) Lever, 2) Inclined plane, 3) Pulley, 4) Wheel and axle, 5) Wedge, 6) Screw. Then analyze a COMPOUND machine: how many simple machines can you find in a bicycle? In scissors? In a can opener? Draw and label them.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "You now know all six simple machines — the building blocks of every tool, vehicle, and machine ever made! From ancient Egyptian ramps to modern spacecraft, every machine is built from combinations of these six basic types. Engineers are people who combine simple machines to solve problems. You think like an engineer!",
+          "mastery_check": "Can the child identify all 6 simple machines, give examples of each, and find simple machines within a compound machine?"
+        }
       ]
     },
     "parent_notes": "Completing all six simple machines is a significant science milestone. The paper-triangle-around-pencil demonstration for screws is brilliant and memorable. The compound machine analysis (finding simple machines inside complex tools) develops systems thinking. A bicycle is an excellent compound machine to analyze: wheels and axles (wheels), levers (brake handles, pedals), screws (bolts), pulleys (chain and gears). Consider visiting a hardware store or toolbox to find examples of all six machines. This unit has natural connections to engineering and invention.",
@@ -670,16 +1711,55 @@
     "instructions": "1. Discuss dancing in the Middle Ages: celebrations, harvest festivals, weddings.\n2. Explain that folk dances were learned by everyone — no special training needed.\n3. Demonstrate a simple circle dance: step-step-kick, step-step-kick.\n4. Practice the circle dance to music (or clapping).\n5. Demonstrate a simple line dance: forward-forward, back-back, turn.\n6. Practice the line dance.\n7. Perform both dances together.\n8. Discuss how dance brings community together.",
     "duration_minutes": 45,
     "lesson_type": "collaborative",
-    "materials_needed": ["Open space for dancing", "Music (medieval folk or any rhythmic music)", "Music player", "Music journal"],
+    "materials_needed": [
+      "Open space for dancing",
+      "Music (medieval folk or any rhythmic music)",
+      "Music player",
+      "Music journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Medieval Folk Dance", "subheading": "Dancing in Community"},
-        {"type": "materials", "items": ["Open space large enough for dancing (living room, yard, or gym)", "Music player with medieval folk music or any rhythmic music with a clear beat", "Music journal and pencil for recording dance steps", "Comfortable shoes or bare feet"], "setup_instructions": "Clear a large space for dancing. Find medieval folk music or any music with a clear, moderate tempo. If multiple family members can participate, the dances are more authentic and fun. Practice the steps yourself before teaching."},
-        {"type": "instruction", "step": 1, "text": "In the Middle Ages, EVERYONE danced — kings and peasants, old and young! Dancing happened at harvest festivals, weddings, holy days, and market fairs. There were no dance studios or lessons — people learned by joining in. Folk dances were simple patterns that anyone could follow."},
-        {"type": "instruction", "step": 2, "text": "Let us learn a CIRCLE DANCE. Stand in a circle (or face each other if just two). The pattern is: Step RIGHT, step LEFT, step RIGHT, KICK LEFT. Step LEFT, step RIGHT, step LEFT, KICK RIGHT. Move clockwise around the circle. The rhythm is: step-step-step-kick, step-step-step-kick."},
-        {"type": "instruction", "step": 3, "text": "Now a LINE DANCE — everyone faces the same direction in a line. The pattern is: Walk FORWARD 4 steps (1-2-3-4). Walk BACKWARD 4 steps (1-2-3-4). Slide RIGHT 4 steps. Slide LEFT 4 steps. TURN in a full circle. Clap twice! Repeat!"},
-        {"type": "activity", "prompt": "Practice both dances to music. Perform the circle dance 3 times and the line dance 3 times. Then create your OWN folk dance with at least 4 different moves that repeat in a pattern. Name your dance (e.g., 'The Harvest Hop' or 'The Castle Stomp'). In your music journal, write the steps of your original dance so someone else could learn it. Teach it to a family member!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Folk dancing has been bringing communities together for thousands of years. You do not need to be a professional dancer — folk dances are for EVERYONE. Creating your own dance makes you a choreographer! Dance is one of the oldest forms of human expression, alongside music and storytelling.", "mastery_check": "Can the child perform the circle and line dances in rhythm, and create an original dance pattern with at least 4 repeating moves?"}
+        {
+          "type": "title",
+          "heading": "Medieval Folk Dance",
+          "subheading": "Dancing in Community",
+          "image_url": "https://images.pexels.com/photos/7887172/pexels-photo-7887172.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Open space large enough for dancing (living room, yard, or gym)",
+            "Music player with medieval folk music or any rhythmic music with a clear beat",
+            "Music journal and pencil for recording dance steps",
+            "Comfortable shoes or bare feet"
+          ],
+          "setup_instructions": "Clear a large space for dancing. Find medieval folk music or any music with a clear, moderate tempo. If multiple family members can participate, the dances are more authentic and fun. Practice the steps yourself before teaching."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "In the Middle Ages, EVERYONE danced — kings and peasants, old and young! Dancing happened at harvest festivals, weddings, holy days, and market fairs. There were no dance studios or lessons — people learned by joining in. Folk dances were simple patterns that anyone could follow."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Let us learn a CIRCLE DANCE. Stand in a circle (or face each other if just two). The pattern is: Step RIGHT, step LEFT, step RIGHT, KICK LEFT. Step LEFT, step RIGHT, step LEFT, KICK RIGHT. Move clockwise around the circle. The rhythm is: step-step-step-kick, step-step-step-kick."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Now a LINE DANCE — everyone faces the same direction in a line. The pattern is: Walk FORWARD 4 steps (1-2-3-4). Walk BACKWARD 4 steps (1-2-3-4). Slide RIGHT 4 steps. Slide LEFT 4 steps. TURN in a full circle. Clap twice! Repeat!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice both dances to music. Perform the circle dance 3 times and the line dance 3 times. Then create your OWN folk dance with at least 4 different moves that repeat in a pattern. Name your dance (e.g., 'The Harvest Hop' or 'The Castle Stomp'). In your music journal, write the steps of your original dance so someone else could learn it. Teach it to a family member!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Folk dancing has been bringing communities together for thousands of years. You do not need to be a professional dancer — folk dances are for EVERYONE. Creating your own dance makes you a choreographer! Dance is one of the oldest forms of human expression, alongside music and storytelling.",
+          "mastery_check": "Can the child perform the circle and line dances in rhythm, and create an original dance pattern with at least 4 repeating moves?"
+        }
       ]
     },
     "parent_notes": "Folk dancing connects movement, music, history, and community. The more family members who participate, the more authentic and fun it becomes. Do not worry about perfection — the point is joyful movement! The dance patterns develop rhythm awareness, coordination, and spatial awareness. Medieval folk music is available on YouTube and streaming services. If your child enjoys this, explore folk dances from other cultures: Mexican folk dance, Irish step dance, or Indian classical dance. The choreography exercise develops sequencing and creative expression.",

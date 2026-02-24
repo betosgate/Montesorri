@@ -10,17 +10,61 @@
     "instructions": "1. Discuss what research means and why it matters.\n2. Define primary sources (diaries, letters, artifacts) vs. secondary sources (textbooks, encyclopedias).\n3. Introduce the CRAAP test for evaluating sources: Currency, Relevance, Authority, Accuracy, Purpose.\n4. Show examples of reliable and unreliable sources.\n5. Practice evaluating three sample sources using the checklist.\n6. Student begins a Research Skills notebook section.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Writer's notebook", "CRAAP test checklist (printed or displayed)", "Sample source materials (3 examples)", "Highlighters", "Pencils"],
+    "materials_needed": [
+      "Writer's notebook",
+      "CRAAP test checklist (printed or displayed)",
+      "Sample source materials (3 examples)",
+      "Highlighters",
+      "Pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Becoming a Researcher", "subheading": "Finding and Evaluating Sources"},
-        {"type": "materials", "items": ["Writer's notebook", "CRAAP test checklist", "Sample source materials", "Highlighters"], "setup_instructions": "Print or display the CRAAP test checklist. Prepare three sample sources: a news article, a personal blog post, and an encyclopedia entry on the same topic."},
-        {"type": "instruction", "step": 1, "text": "Research is the process of finding reliable information to answer questions. Good researchers do not just accept the first thing they read. They ask: Who wrote this? When? Why? Is it accurate? Today we learn a system for evaluating any source of information."},
-        {"type": "instruction", "step": 2, "text": "There are two main types of sources. Primary sources are original, first-hand accounts: a diary from the Civil War, a photograph from 1920, a scientist's lab notes. Secondary sources interpret or analyze primary sources: a textbook chapter, an encyclopedia article, a documentary. Both are valuable, but they serve different purposes."},
-        {"type": "instruction", "step": 3, "text": "The CRAAP Test helps you evaluate any source. C = Currency: When was it written or updated? R = Relevance: Does it relate to your topic? A = Authority: Who is the author? Are they an expert? A = Accuracy: Can the facts be verified elsewhere? P = Purpose: Why was this written — to inform, persuade, sell, or entertain?"},
-        {"type": "instruction", "step": 4, "text": "Let us practice. Look at Source 1: a newspaper article about volcanoes by a science reporter, published last year. Now Source 2: a blog post titled 'Volcanoes Are Cool!!' by an anonymous writer with no date. Now Source 3: an encyclopedia entry on volcanoes reviewed by geologists. Which would you trust most for a research report, and why?"},
-        {"type": "activity", "prompt": "In your writer's notebook, create a 'Source Evaluation' page. Draw a table with columns for each CRAAP category. Evaluate all three sample sources by filling in the table. Then write a paragraph explaining which source you would use for a school report and why. Be specific — reference the CRAAP criteria in your reasoning.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "You now have a tool for evaluating any source you encounter. This year, every time you research a topic, you will use the CRAAP test to make sure your information is reliable. Tomorrow we continue building research skills with note-taking strategies.", "mastery_check": "Can the student explain the difference between primary and secondary sources? Can they apply the CRAAP test to evaluate a source's reliability?"}
+        {
+          "type": "title",
+          "heading": "Becoming a Researcher",
+          "subheading": "Finding and Evaluating Sources",
+          "image_url": "https://images.pexels.com/photos/1337387/pexels-photo-1337387.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Writer's notebook",
+            "CRAAP test checklist",
+            "Sample source materials",
+            "Highlighters"
+          ],
+          "setup_instructions": "Print or display the CRAAP test checklist. Prepare three sample sources: a news article, a personal blog post, and an encyclopedia entry on the same topic."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Research is the process of finding reliable information to answer questions. Good researchers do not just accept the first thing they read. They ask: Who wrote this? When? Why? Is it accurate? Today we learn a system for evaluating any source of information."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "There are two main types of sources. Primary sources are original, first-hand accounts: a diary from the Civil War, a photograph from 1920, a scientist's lab notes. Secondary sources interpret or analyze primary sources: a textbook chapter, an encyclopedia article, a documentary. Both are valuable, but they serve different purposes."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The CRAAP Test helps you evaluate any source. C = Currency: When was it written or updated? R = Relevance: Does it relate to your topic? A = Authority: Who is the author? Are they an expert? A = Accuracy: Can the facts be verified elsewhere? P = Purpose: Why was this written — to inform, persuade, sell, or entertain?"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Let us practice. Look at Source 1: a newspaper article about volcanoes by a science reporter, published last year. Now Source 2: a blog post titled 'Volcanoes Are Cool!!' by an anonymous writer with no date. Now Source 3: an encyclopedia entry on volcanoes reviewed by geologists. Which would you trust most for a research report, and why?"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your writer's notebook, create a 'Source Evaluation' page. Draw a table with columns for each CRAAP category. Evaluate all three sample sources by filling in the table. Then write a paragraph explaining which source you would use for a school report and why. Be specific — reference the CRAAP criteria in your reasoning.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "You now have a tool for evaluating any source you encounter. This year, every time you research a topic, you will use the CRAAP test to make sure your information is reliable. Tomorrow we continue building research skills with note-taking strategies.",
+          "mastery_check": "Can the student explain the difference between primary and secondary sources? Can they apply the CRAAP test to evaluate a source's reliability?"
+        }
       ]
     },
     "parent_notes": "Research skills are foundational for upper elementary. The CRAAP test (developed by librarians at California State University) is a widely used framework. Help your child see that evaluating sources is not just an academic exercise — it applies to everything they read online. If your child is new to research, focus on the basic idea of asking 'Who wrote this and why?' before diving into all five criteria. You can practice informally by evaluating websites, YouTube videos, or news articles together.",
@@ -38,17 +82,61 @@
     "instructions": "1. Review place value chart from ones through hundred millions.\n2. Practice reading large numbers using period names (ones, thousands, millions).\n3. Write numbers in standard form, expanded form, and word form.\n4. Compare and order large numbers using place value.\n5. Explore real-world large numbers (population, distances in space).\n6. Complete practice problems with self-checking.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Place value chart (through hundred millions)", "Base-ten materials or place value discs", "Math journal", "Pencils", "World almanac or reference sheet with large number facts"],
+    "materials_needed": [
+      "Place value chart (through hundred millions)",
+      "Base-ten materials or place value discs",
+      "Math journal",
+      "Pencils",
+      "World almanac or reference sheet with large number facts"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The World of Large Numbers", "subheading": "Place Value Through the Millions"},
-        {"type": "materials", "items": ["Place value chart through hundred millions", "Math journal", "Pencils", "Reference sheet with large number facts"], "setup_instructions": "Display the place value chart prominently. Prepare a reference sheet with real-world large numbers: world population, distance to the moon, etc."},
-        {"type": "instruction", "step": 1, "text": "Our number system is built on groups of three called periods. The ones period has ones, tens, hundreds. The thousands period has thousands, ten-thousands, hundred-thousands. The millions period has millions, ten-millions, hundred-millions. Each place is 10 times the place to its right."},
-        {"type": "instruction", "step": 2, "text": "To read a large number like 45,328,716 we read each period separately: 45 million, 328 thousand, 716. Notice we say the period name after each group except the ones period. Practice: How do you read 102,450,008? One hundred two million, four hundred fifty thousand, eight."},
-        {"type": "instruction", "step": 3, "text": "Three forms of a number: Standard form: 7,230,500. Expanded form: 7,000,000 + 200,000 + 30,000 + 500. Word form: seven million, two hundred thirty thousand, five hundred. To convert between forms, use the place value chart as your guide."},
-        {"type": "instruction", "step": 4, "text": "To compare large numbers, start at the largest place value and work right. Compare 34,567,890 and 34,576,890. Both have 34 million. In the ten-thousands place, the first has 6 and the second has 7. So 34,567,890 < 34,576,890. The symbol < means 'less than' and > means 'greater than.'"},
-        {"type": "activity", "prompt": "In your math journal: (A) Write these in expanded and word form: 8,045,200 and 156,302,011. (B) Order from least to greatest: 5,432,100; 5,423,100; 5,432,010; 5,342,100. (C) Research challenge: The distance from Earth to the Sun is about 93,000,000 miles. Write this in word form and expanded form. If you drove 60 miles per hour without stopping, how many years would it take to reach the Sun?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Large numbers follow the same place value patterns as small numbers — they just have more periods. Understanding place value is the foundation for all the operations we will review this quarter. Tomorrow we will use these skills with addition and subtraction of large numbers.", "mastery_check": "Can the student read, write, and compare numbers through the hundred millions using standard, expanded, and word forms?"}
+        {
+          "type": "title",
+          "heading": "The World of Large Numbers",
+          "subheading": "Place Value Through the Millions",
+          "image_url": "https://images.pexels.com/photos/8612931/pexels-photo-8612931.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Place value chart through hundred millions",
+            "Math journal",
+            "Pencils",
+            "Reference sheet with large number facts"
+          ],
+          "setup_instructions": "Display the place value chart prominently. Prepare a reference sheet with real-world large numbers: world population, distance to the moon, etc."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Our number system is built on groups of three called periods. The ones period has ones, tens, hundreds. The thousands period has thousands, ten-thousands, hundred-thousands. The millions period has millions, ten-millions, hundred-millions. Each place is 10 times the place to its right."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "To read a large number like 45,328,716 we read each period separately: 45 million, 328 thousand, 716. Notice we say the period name after each group except the ones period. Practice: How do you read 102,450,008? One hundred two million, four hundred fifty thousand, eight."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Three forms of a number: Standard form: 7,230,500. Expanded form: 7,000,000 + 200,000 + 30,000 + 500. Word form: seven million, two hundred thirty thousand, five hundred. To convert between forms, use the place value chart as your guide."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "To compare large numbers, start at the largest place value and work right. Compare 34,567,890 and 34,576,890. Both have 34 million. In the ten-thousands place, the first has 6 and the second has 7. So 34,567,890 < 34,576,890. The symbol < means 'less than' and > means 'greater than.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your math journal: (A) Write these in expanded and word form: 8,045,200 and 156,302,011. (B) Order from least to greatest: 5,432,100; 5,423,100; 5,432,010; 5,342,100. (C) Research challenge: The distance from Earth to the Sun is about 93,000,000 miles. Write this in word form and expanded form. If you drove 60 miles per hour without stopping, how many years would it take to reach the Sun?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Large numbers follow the same place value patterns as small numbers — they just have more periods. Understanding place value is the foundation for all the operations we will review this quarter. Tomorrow we will use these skills with addition and subtraction of large numbers.",
+          "mastery_check": "Can the student read, write, and compare numbers through the hundred millions using standard, expanded, and word forms?"
+        }
       ]
     },
     "parent_notes": "This lesson establishes the foundation for all upper elementary math. If your child is comfortable with thousands but shaky on millions, spend extra time with the place value chart. Real-world connections make large numbers meaningful — look up populations of countries, distances between planets, or the national debt. The driving-to-the-Sun problem (about 177 years) helps children grasp just how large these numbers really are. If your child needs more challenge, introduce billions.",
@@ -66,17 +154,61 @@
     "instructions": "1. Locate Mesopotamia on a world map (modern-day Iraq, parts of Syria and Turkey).\n2. Define 'civilization' and discuss what makes a society a civilization.\n3. Explain the Fertile Crescent and why river valleys attracted settlers.\n4. Discuss the shift from nomadic hunter-gatherers to settled farmers.\n5. Introduce the key features of civilization: cities, government, religion, social structure, writing, arts, technology.\n6. Begin a Mesopotamia section in the history journal.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["World map or atlas", "History journal", "Colored pencils", "Timeline (blank or pre-made)", "Images of Fertile Crescent landscape"],
+    "materials_needed": [
+      "World map or atlas",
+      "History journal",
+      "Colored pencils",
+      "Timeline (blank or pre-made)",
+      "Images of Fertile Crescent landscape"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Mesopotamia", "subheading": "The Cradle of Civilization"},
-        {"type": "materials", "items": ["World map or atlas", "History journal", "Colored pencils", "Blank timeline"], "setup_instructions": "Have a world map displayed showing the Middle East region. Prepare the history journal with a fresh page titled 'Mesopotamia.'"},
-        {"type": "instruction", "step": 1, "text": "About 10,000 years ago, humans made a revolutionary discovery: they learned to plant seeds and grow food. This happened in a region shaped like a crescent moon, stretching from the Persian Gulf through modern Iraq, Syria, and into Turkey and Egypt. We call it the Fertile Crescent because its soil was incredibly rich."},
-        {"type": "instruction", "step": 2, "text": "At the heart of the Fertile Crescent lay Mesopotamia — a Greek word meaning 'land between the rivers.' The two rivers were the Tigris and the Euphrates. Every year they flooded, depositing nutrient-rich silt on the land. This made farming possible even in a hot, dry climate. Find these rivers on your map."},
-        {"type": "instruction", "step": 3, "text": "When people could grow food reliably, everything changed. They no longer needed to wander searching for food. They settled down, built permanent homes, and grew surplus crops. Surplus food meant not everyone had to farm — some people could become potters, weavers, priests, or builders. Specialization led to complex societies."},
-        {"type": "instruction", "step": 4, "text": "Historians define a civilization by these features: (1) cities with large populations, (2) organized government and laws, (3) organized religion, (4) social classes, (5) a writing system, (6) art and architecture, (7) technology and inventions. Mesopotamia developed all seven — the first place on Earth to do so."},
-        {"type": "activity", "prompt": "In your history journal: (1) Draw and label a map of the Fertile Crescent showing the Tigris and Euphrates rivers, the Persian Gulf, and modern country borders. Color the fertile areas green. (2) Create a chart listing the 7 features of civilization with a brief definition of each. (3) Write a paragraph answering: Why did civilization begin near rivers instead of in mountains or forests?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Mesopotamia gave humanity its first cities, first writing, first laws, and first literature. Over the next two weeks, we will explore the Sumerians, Babylonians, and Assyrians who built their empires in this remarkable land. The story of civilization begins here, between two rivers.", "mastery_check": "Can the student explain why Mesopotamia was called the Fertile Crescent and list at least five features of civilization?"}
+        {
+          "type": "title",
+          "heading": "Mesopotamia",
+          "subheading": "The Cradle of Civilization",
+          "image_url": "https://images.pexels.com/photos/10131669/pexels-photo-10131669.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World map or atlas",
+            "History journal",
+            "Colored pencils",
+            "Blank timeline"
+          ],
+          "setup_instructions": "Have a world map displayed showing the Middle East region. Prepare the history journal with a fresh page titled 'Mesopotamia.'"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "About 10,000 years ago, humans made a revolutionary discovery: they learned to plant seeds and grow food. This happened in a region shaped like a crescent moon, stretching from the Persian Gulf through modern Iraq, Syria, and into Turkey and Egypt. We call it the Fertile Crescent because its soil was incredibly rich."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "At the heart of the Fertile Crescent lay Mesopotamia — a Greek word meaning 'land between the rivers.' The two rivers were the Tigris and the Euphrates. Every year they flooded, depositing nutrient-rich silt on the land. This made farming possible even in a hot, dry climate. Find these rivers on your map."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "When people could grow food reliably, everything changed. They no longer needed to wander searching for food. They settled down, built permanent homes, and grew surplus crops. Surplus food meant not everyone had to farm — some people could become potters, weavers, priests, or builders. Specialization led to complex societies."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Historians define a civilization by these features: (1) cities with large populations, (2) organized government and laws, (3) organized religion, (4) social classes, (5) a writing system, (6) art and architecture, (7) technology and inventions. Mesopotamia developed all seven — the first place on Earth to do so."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your history journal: (1) Draw and label a map of the Fertile Crescent showing the Tigris and Euphrates rivers, the Persian Gulf, and modern country borders. Color the fertile areas green. (2) Create a chart listing the 7 features of civilization with a brief definition of each. (3) Write a paragraph answering: Why did civilization begin near rivers instead of in mountains or forests?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Mesopotamia gave humanity its first cities, first writing, first laws, and first literature. Over the next two weeks, we will explore the Sumerians, Babylonians, and Assyrians who built their empires in this remarkable land. The story of civilization begins here, between two rivers.",
+          "mastery_check": "Can the student explain why Mesopotamia was called the Fertile Crescent and list at least five features of civilization?"
+        }
       ]
     },
     "parent_notes": "This lesson introduces the overarching theme of the year: the story of ancient civilizations. The key concept is cause and effect — geographic advantages (rivers, fertile soil, mild climate) led to agriculture, which led to surplus, which led to specialization, which led to civilization. Help your child see this chain of causation. If possible, find a short video showing the landscape of modern Iraq near the rivers. The Montessori approach emphasizes the interconnectedness of human development — keep connecting back to the big picture throughout the unit.",
@@ -94,17 +226,63 @@
     "instructions": "1. Review the shape of the Earth and the concept of a globe vs. flat map.\n2. Introduce latitude lines (parallels) running east-west, measuring north-south position.\n3. Introduce longitude lines (meridians) running north-south, measuring east-west position.\n4. Explain the Equator (0 degrees latitude) and Prime Meridian (0 degrees longitude).\n5. Practice reading coordinates and locating places on a map.\n6. Play a coordinate guessing game.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Globe", "World map with grid lines", "Atlas", "Geography journal", "Pencils", "Ruler"],
+    "materials_needed": [
+      "Globe",
+      "World map with grid lines",
+      "Atlas",
+      "Geography journal",
+      "Pencils",
+      "Ruler"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Global Grid", "subheading": "Latitude and Longitude"},
-        {"type": "materials", "items": ["Globe", "World map with grid lines", "Atlas", "Geography journal", "Pencils"], "setup_instructions": "Display the globe and a flat world map side by side. Ensure the map clearly shows latitude and longitude lines with degree markings."},
-        {"type": "instruction", "step": 1, "text": "Imagine you need to tell someone exactly where you are on Earth — not just the country or city, but the precise spot. Scientists and navigators solve this problem with an invisible grid of lines covering the entire globe. Every point on Earth has a unique address in this system."},
-        {"type": "instruction", "step": 2, "text": "Latitude lines run east to west like the rungs of a ladder (think 'lat' sounds like 'ladder'). They measure how far north or south you are from the Equator. The Equator is 0 degrees latitude. The North Pole is 90 degrees North. The South Pole is 90 degrees South. Find the Equator on your globe."},
-        {"type": "instruction", "step": 3, "text": "Longitude lines run north to south, from pole to pole. They measure how far east or west you are from the Prime Meridian, which passes through Greenwich, England, at 0 degrees longitude. Going east, longitude increases to 180 degrees. Going west, it also increases to 180 degrees. The 180-degree line is the International Date Line."},
-        {"type": "instruction", "step": 4, "text": "Coordinates are written as a pair: latitude first, then longitude. For example, Cairo, Egypt is approximately 30 degrees N, 31 degrees E. This means Cairo is 30 degrees north of the Equator and 31 degrees east of the Prime Meridian. Every place on Earth can be described this way."},
-        {"type": "activity", "prompt": "Using your atlas or world map: (1) Find the coordinates of these cities: New York, London, Tokyo, Sydney, and Rio de Janeiro. Record them in your geography journal. (2) Plot these coordinates on your map and identify what is at each location: 0 degrees N, 0 degrees E; 90 degrees N; 30 degrees N, 90 degrees W; 34 degrees S, 18 degrees E. (3) Find the coordinates of your own home city and record them.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Latitude and longitude give us a universal language for describing locations on Earth. Sailors, pilots, hikers, and even your phone's GPS all use this system. This week we will continue building map skills with scale, legends, and different types of maps.", "mastery_check": "Can the student explain the difference between latitude and longitude and use coordinates to locate places on a world map?"}
+        {
+          "type": "title",
+          "heading": "The Global Grid",
+          "subheading": "Latitude and Longitude",
+          "image_url": "https://images.pexels.com/photos/5428267/pexels-photo-5428267.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Globe",
+            "World map with grid lines",
+            "Atlas",
+            "Geography journal",
+            "Pencils"
+          ],
+          "setup_instructions": "Display the globe and a flat world map side by side. Ensure the map clearly shows latitude and longitude lines with degree markings."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Imagine you need to tell someone exactly where you are on Earth — not just the country or city, but the precise spot. Scientists and navigators solve this problem with an invisible grid of lines covering the entire globe. Every point on Earth has a unique address in this system."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Latitude lines run east to west like the rungs of a ladder (think 'lat' sounds like 'ladder'). They measure how far north or south you are from the Equator. The Equator is 0 degrees latitude. The North Pole is 90 degrees North. The South Pole is 90 degrees South. Find the Equator on your globe."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Longitude lines run north to south, from pole to pole. They measure how far east or west you are from the Prime Meridian, which passes through Greenwich, England, at 0 degrees longitude. Going east, longitude increases to 180 degrees. Going west, it also increases to 180 degrees. The 180-degree line is the International Date Line."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Coordinates are written as a pair: latitude first, then longitude. For example, Cairo, Egypt is approximately 30 degrees N, 31 degrees E. This means Cairo is 30 degrees north of the Equator and 31 degrees east of the Prime Meridian. Every place on Earth can be described this way."
+        },
+        {
+          "type": "activity",
+          "prompt": "Using your atlas or world map: (1) Find the coordinates of these cities: New York, London, Tokyo, Sydney, and Rio de Janeiro. Record them in your geography journal. (2) Plot these coordinates on your map and identify what is at each location: 0 degrees N, 0 degrees E; 90 degrees N; 30 degrees N, 90 degrees W; 34 degrees S, 18 degrees E. (3) Find the coordinates of your own home city and record them.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Latitude and longitude give us a universal language for describing locations on Earth. Sailors, pilots, hikers, and even your phone's GPS all use this system. This week we will continue building map skills with scale, legends, and different types of maps.",
+          "mastery_check": "Can the student explain the difference between latitude and longitude and use coordinates to locate places on a world map?"
+        }
       ]
     },
     "parent_notes": "Understanding latitude and longitude is essential for all geography work this year. The memory trick 'latitude = ladder' (rungs go side to side) helps many children remember which is which. Use a real globe if possible — it makes the concept much clearer than a flat map. You can reinforce this at home by looking up the coordinates of places you have visited or want to visit. Many phone map apps show coordinates if you long-press on a location. If your child struggles with the concept, start with just latitude and add longitude once that is solid.",
@@ -122,17 +300,59 @@
     "instructions": "1. Introduce the book: author, setting, genre (realistic fiction / survival).\n2. Read chapters 1-3 aloud together.\n3. Discuss Sam's motivations for leaving the city.\n4. Identify the challenges Sam faces in his first days alone.\n5. Discuss the theme of self-reliance.\n6. Make predictions about what will happen next.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["My Side of the Mountain by Jean Craighhead George", "Reading journal", "Pencils", "Map of New York State (optional)"],
+    "materials_needed": [
+      "My Side of the Mountain by Jean Craighhead George",
+      "Reading journal",
+      "Pencils",
+      "Map of New York State (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My Side of the Mountain", "subheading": "By Jean Craighhead George — Chapters 1-3"},
-        {"type": "materials", "items": ["My Side of the Mountain by Jean Craighhead George", "Reading journal", "Pencils"], "setup_instructions": "Have the book ready. Set up a comfortable reading area. If available, show a map of the Catskill Mountains in New York State."},
-        {"type": "instruction", "step": 1, "text": "Jean Craighhead George (1919-2012) was a naturalist and writer who spent her life studying wildlife. She wrote over 100 books about nature and animals. 'My Side of the Mountain,' published in 1959, is her most famous work. It is the story of a boy who decides to live entirely on his own in the wilderness — and actually succeeds."},
-        {"type": "instruction", "step": 2, "text": "As we read chapters 1-3, pay attention to: Why does Sam leave home? What does he bring with him? What problems does he face immediately? How does he solve them? Notice that the story is told partly through Sam's journal entries — he is writing about his experience as it happens."},
-        {"type": "instruction", "step": 3, "text": "Read chapters 1-3 aloud together now. Pause at key moments to discuss Sam's decisions and feelings. Notice the detailed descriptions of nature — George was a scientist, and her writing reflects careful observation of the natural world."},
-        {"type": "instruction", "step": 4, "text": "After reading, consider these questions: What does Sam's decision tell us about his character? Is he brave, foolish, or both? How does the author make us believe a boy could survive alone in the mountains? What skills and knowledge does Sam already have when he arrives?"},
-        {"type": "activity", "prompt": "In your reading journal: (1) Create a character profile for Sam Gribley — his age, personality traits, skills, and motivations. (2) List the survival challenges Sam faces in chapters 1-3 and how he addresses each one. (3) Write a prediction: What do you think will be Sam's biggest challenge in the coming chapters? Why?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Sam Gribley is embarking on an incredible adventure in self-reliance. As we continue reading, we will track his survival skills, his relationship with nature, and how living alone changes him. Think about whether you could do what Sam is doing — and what you would miss most about your regular life.", "mastery_check": "Can the student describe Sam's character and motivations and identify the main challenges he faces in the opening chapters?"}
+        {
+          "type": "title",
+          "heading": "My Side of the Mountain",
+          "subheading": "By Jean Craighhead George — Chapters 1-3",
+          "image_url": "https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "My Side of the Mountain by Jean Craighhead George",
+            "Reading journal",
+            "Pencils"
+          ],
+          "setup_instructions": "Have the book ready. Set up a comfortable reading area. If available, show a map of the Catskill Mountains in New York State."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Jean Craighhead George (1919-2012) was a naturalist and writer who spent her life studying wildlife. She wrote over 100 books about nature and animals. 'My Side of the Mountain,' published in 1959, is her most famous work. It is the story of a boy who decides to live entirely on his own in the wilderness — and actually succeeds."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "As we read chapters 1-3, pay attention to: Why does Sam leave home? What does he bring with him? What problems does he face immediately? How does he solve them? Notice that the story is told partly through Sam's journal entries — he is writing about his experience as it happens."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Read chapters 1-3 aloud together now. Pause at key moments to discuss Sam's decisions and feelings. Notice the detailed descriptions of nature — George was a scientist, and her writing reflects careful observation of the natural world."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "After reading, consider these questions: What does Sam's decision tell us about his character? Is he brave, foolish, or both? How does the author make us believe a boy could survive alone in the mountains? What skills and knowledge does Sam already have when he arrives?"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal: (1) Create a character profile for Sam Gribley — his age, personality traits, skills, and motivations. (2) List the survival challenges Sam faces in chapters 1-3 and how he addresses each one. (3) Write a prediction: What do you think will be Sam's biggest challenge in the coming chapters? Why?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Sam Gribley is embarking on an incredible adventure in self-reliance. As we continue reading, we will track his survival skills, his relationship with nature, and how living alone changes him. Think about whether you could do what Sam is doing — and what you would miss most about your regular life.",
+          "mastery_check": "Can the student describe Sam's character and motivations and identify the main challenges he faces in the opening chapters?"
+        }
       ]
     },
     "parent_notes": "This beloved Newbery Honor book appeals strongly to 9-12 year olds with its themes of independence and survival. Reading aloud together — even with older children — builds comprehension and provides natural discussion opportunities. Let your child take turns reading if they wish. The book's journal-entry format makes it a great model for your child's own journal writing. If your child becomes fascinated by the survival skills described, consider trying some together (safely): identifying edible plants in a field guide, building a simple shelter, or learning to start a fire with supervision.",
@@ -150,17 +370,61 @@
     "instructions": "1. Discuss why note-taking matters for research and studying.\n2. Introduce the Cornell method: divide the page into three sections (cue column, notes column, summary).\n3. Model the process with a short informational passage.\n4. Student practices taking Cornell notes on a second passage.\n5. Show how to use cue column for review and self-testing.\n6. Compare Cornell notes to just highlighting or copying.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Writer's notebook", "Ruler", "Pencils", "Short informational text (2 passages)", "Cornell notes template (optional)"],
+    "materials_needed": [
+      "Writer's notebook",
+      "Ruler",
+      "Pencils",
+      "Short informational text (2 passages)",
+      "Cornell notes template (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Cornell Method", "subheading": "Taking Notes That Actually Help You Learn"},
-        {"type": "materials", "items": ["Writer's notebook", "Ruler", "Pencils", "Two short informational texts"], "setup_instructions": "Prepare two short informational passages (1-2 paragraphs each) on any topic — animals, space, history. Have a ruler ready for drawing the Cornell layout."},
-        {"type": "instruction", "step": 1, "text": "When you research a topic, you cannot remember everything you read. You need a system for capturing the most important information. Just highlighting is not enough — research shows that writing things in your own words helps you understand and remember far better than highlighting."},
-        {"type": "instruction", "step": 2, "text": "The Cornell Method divides your page into three sections. Draw a vertical line about 2.5 inches from the left edge. Draw a horizontal line about 2 inches from the bottom. The large right section is for NOTES during reading. The narrow left column is for QUESTIONS and KEY WORDS after reading. The bottom section is for a SUMMARY."},
-        {"type": "instruction", "step": 3, "text": "Step 1: During reading, write notes in the right column using short phrases, not full sentences. Paraphrase — use your own words. Skip lines between ideas. Step 2: After reading, write questions or key terms in the left column that match your notes. Step 3: Cover the right column and try to answer your questions using only the left column. Step 4: Write a brief summary at the bottom."},
-        {"type": "instruction", "step": 4, "text": "Watch as I model this with our first passage. (Read the passage aloud, then demonstrate writing notes in the right column, adding questions to the left column, and writing a 2-sentence summary at the bottom.) Notice I did not copy sentences from the text — I restated ideas in my own words."},
-        {"type": "activity", "prompt": "Now it is your turn. Set up a Cornell notes page in your notebook using a ruler. Read the second passage carefully. Take notes in the right column using your own words — no copying sentences directly. Then add 3-5 questions or key terms to the left column. Finally, write a 2-3 sentence summary at the bottom. When finished, test yourself: cover the right side and try to answer your questions from memory.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "The Cornell method transforms note-taking from passive copying into active learning. The key is paraphrasing — putting ideas in your own words forces your brain to process the information. We will use Cornell notes throughout the year for research projects.", "mastery_check": "Can the student set up a Cornell notes page correctly and take organized notes using paraphrasing rather than copying?"}
+        {
+          "type": "title",
+          "heading": "The Cornell Method",
+          "subheading": "Taking Notes That Actually Help You Learn",
+          "image_url": "https://images.pexels.com/photos/7807854/pexels-photo-7807854.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Writer's notebook",
+            "Ruler",
+            "Pencils",
+            "Two short informational texts"
+          ],
+          "setup_instructions": "Prepare two short informational passages (1-2 paragraphs each) on any topic — animals, space, history. Have a ruler ready for drawing the Cornell layout."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "When you research a topic, you cannot remember everything you read. You need a system for capturing the most important information. Just highlighting is not enough — research shows that writing things in your own words helps you understand and remember far better than highlighting."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The Cornell Method divides your page into three sections. Draw a vertical line about 2.5 inches from the left edge. Draw a horizontal line about 2 inches from the bottom. The large right section is for NOTES during reading. The narrow left column is for QUESTIONS and KEY WORDS after reading. The bottom section is for a SUMMARY."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Step 1: During reading, write notes in the right column using short phrases, not full sentences. Paraphrase — use your own words. Skip lines between ideas. Step 2: After reading, write questions or key terms in the left column that match your notes. Step 3: Cover the right column and try to answer your questions using only the left column. Step 4: Write a brief summary at the bottom."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Watch as I model this with our first passage. (Read the passage aloud, then demonstrate writing notes in the right column, adding questions to the left column, and writing a 2-sentence summary at the bottom.) Notice I did not copy sentences from the text — I restated ideas in my own words."
+        },
+        {
+          "type": "activity",
+          "prompt": "Now it is your turn. Set up a Cornell notes page in your notebook using a ruler. Read the second passage carefully. Take notes in the right column using your own words — no copying sentences directly. Then add 3-5 questions or key terms to the left column. Finally, write a 2-3 sentence summary at the bottom. When finished, test yourself: cover the right side and try to answer your questions from memory.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Cornell method transforms note-taking from passive copying into active learning. The key is paraphrasing — putting ideas in your own words forces your brain to process the information. We will use Cornell notes throughout the year for research projects.",
+          "mastery_check": "Can the student set up a Cornell notes page correctly and take organized notes using paraphrasing rather than copying?"
+        }
       ]
     },
     "parent_notes": "The Cornell method was developed at Cornell University in the 1950s and remains one of the most effective note-taking systems. The power is in the review process — using the cue column for self-testing. Encourage your child to use this method whenever they read informational texts or watch educational videos. At first, they may struggle with paraphrasing; remind them to read a section, look away, and then write what they remember. This 'read-cover-write-check' process builds genuine comprehension.",
@@ -178,17 +442,60 @@
     "instructions": "1. Review the standard addition algorithm with regrouping.\n2. Review the standard subtraction algorithm with borrowing across zeros.\n3. Practice problems with increasing difficulty (up to 7-digit numbers).\n4. Introduce checking with inverse operations.\n5. Solve multi-step word problems.\n6. Discuss estimation as a reasonableness check.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Math journal", "Pencils", "Graph paper", "Place value chart"],
+    "materials_needed": [
+      "Math journal",
+      "Pencils",
+      "Graph paper",
+      "Place value chart"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Addition and Subtraction Mastery", "subheading": "Working with Large Numbers"},
-        {"type": "materials", "items": ["Math journal", "Pencils", "Graph paper", "Place value chart"], "setup_instructions": "Graph paper helps keep digits aligned in columns. Have the place value chart from yesterday's lesson available for reference."},
-        {"type": "instruction", "step": 1, "text": "Addition with regrouping works the same whether you are adding 34 + 58 or 2,345,678 + 4,567,891. Start at the ones place, add each column, and carry (regroup) whenever the sum is 10 or more. Use graph paper to keep your columns straight — one digit per square."},
-        {"type": "instruction", "step": 2, "text": "Subtraction with borrowing can be tricky when there are zeros. Example: 5,000,000 - 2,346,789. When you need to borrow from a zero, you must keep going left until you find a non-zero digit, then regroup back through each place. Practice: Work through this problem step by step on your graph paper."},
-        {"type": "instruction", "step": 3, "text": "Checking your work: Addition and subtraction are inverse operations. If 345 + 278 = 623, then 623 - 278 should equal 345. Always check subtraction by adding your answer to the number you subtracted. Always check addition by subtracting one addend from the sum."},
-        {"type": "instruction", "step": 4, "text": "Estimation helps you know if your answer is reasonable. Round each number to the leading digit before calculating. Example: 4,872,345 + 2,156,789. Estimate: 5,000,000 + 2,000,000 = 7,000,000. If your exact answer is far from 7 million, you probably made an error."},
-        {"type": "activity", "prompt": "Complete in your math journal: (A) 3,456,789 + 2,876,543 (B) 8,000,000 - 3,245,678 (C) 12,345,678 + 9,876,543 (D) 5,000,000 - 1,999,999. Check each answer using the inverse operation. Then solve: A library had 2,450,000 books. They received a donation of 875,340 books and then gave away 1,230,500 to branch libraries. How many books does the library have now? Estimate first, then calculate.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Addition and subtraction are tools you will use every day in mathematics. The key skills are careful regrouping, checking with inverse operations, and estimating to verify reasonableness. Tomorrow we begin reviewing multiplication.", "mastery_check": "Can the student accurately add and subtract multi-digit numbers (up to 7 digits) with regrouping and check their work using inverse operations?"}
+        {
+          "type": "title",
+          "heading": "Addition and Subtraction Mastery",
+          "subheading": "Working with Large Numbers",
+          "image_url": "https://images.pexels.com/photos/6692923/pexels-photo-6692923.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math journal",
+            "Pencils",
+            "Graph paper",
+            "Place value chart"
+          ],
+          "setup_instructions": "Graph paper helps keep digits aligned in columns. Have the place value chart from yesterday's lesson available for reference."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Addition with regrouping works the same whether you are adding 34 + 58 or 2,345,678 + 4,567,891. Start at the ones place, add each column, and carry (regroup) whenever the sum is 10 or more. Use graph paper to keep your columns straight — one digit per square."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Subtraction with borrowing can be tricky when there are zeros. Example: 5,000,000 - 2,346,789. When you need to borrow from a zero, you must keep going left until you find a non-zero digit, then regroup back through each place. Practice: Work through this problem step by step on your graph paper."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Checking your work: Addition and subtraction are inverse operations. If 345 + 278 = 623, then 623 - 278 should equal 345. Always check subtraction by adding your answer to the number you subtracted. Always check addition by subtracting one addend from the sum."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Estimation helps you know if your answer is reasonable. Round each number to the leading digit before calculating. Example: 4,872,345 + 2,156,789. Estimate: 5,000,000 + 2,000,000 = 7,000,000. If your exact answer is far from 7 million, you probably made an error."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete in your math journal: (A) 3,456,789 + 2,876,543 (B) 8,000,000 - 3,245,678 (C) 12,345,678 + 9,876,543 (D) 5,000,000 - 1,999,999. Check each answer using the inverse operation. Then solve: A library had 2,450,000 books. They received a donation of 875,340 books and then gave away 1,230,500 to branch libraries. How many books does the library have now? Estimate first, then calculate.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Addition and subtraction are tools you will use every day in mathematics. The key skills are careful regrouping, checking with inverse operations, and estimating to verify reasonableness. Tomorrow we begin reviewing multiplication.",
+          "mastery_check": "Can the student accurately add and subtract multi-digit numbers (up to 7 digits) with regrouping and check their work using inverse operations?"
+        }
       ]
     },
     "parent_notes": "This review lesson ensures fluency with foundational operations before moving to multiplication and division. If your child makes frequent errors, the issue is almost always column alignment — graph paper solves this. The borrowing-across-zeros concept trips up many students; if needed, practice with simpler examples like 1,000 - 456 before tackling millions. The estimation step is critical: mathematicians always ask 'Does my answer make sense?' before moving on. Encourage this habit.",
@@ -206,17 +513,60 @@
     "instructions": "1. Discuss what science is and how scientists learn about the world.\n2. Introduce the steps of the scientific method: question, research, hypothesis, experiment, analyze, conclude.\n3. Practice distinguishing testable vs. non-testable questions.\n4. Model turning an observation into a testable question and hypothesis.\n5. Students generate their own testable questions from observations.\n6. Introduce the science journal format.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Science journal", "Pencils", "Scientific method poster or chart", "Observation objects (a plant, a magnet, ice cubes, or similar)"],
+    "materials_needed": [
+      "Science journal",
+      "Pencils",
+      "Scientific method poster or chart",
+      "Observation objects (a plant, a magnet, ice cubes, or similar)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Thinking Like a Scientist", "subheading": "The Scientific Method"},
-        {"type": "materials", "items": ["Science journal", "Pencils", "Scientific method chart", "Observation objects"], "setup_instructions": "Set up 3-4 interesting objects for observation: a growing plant, a magnet with paper clips, ice cubes in two different containers, etc. Display the scientific method chart."},
-        {"type": "instruction", "step": 1, "text": "Science is not just a subject — it is a way of thinking. Scientists observe the world, ask questions, and then systematically search for answers through experimentation. The scientific method is the process scientists use to ensure their investigations are reliable and their conclusions are valid."},
-        {"type": "instruction", "step": 2, "text": "The Scientific Method has six steps: (1) Observe and Ask a Question — notice something and wonder about it. (2) Research — find out what is already known. (3) Form a Hypothesis — make an educated prediction you can test. (4) Experiment — design a fair test. (5) Analyze Data — examine your results. (6) Draw Conclusions — what did you learn?"},
-        {"type": "instruction", "step": 3, "text": "Not all questions are testable. A testable question can be answered through an experiment. Testable: 'Does the amount of sunlight affect how fast a plant grows?' Not testable: 'Is blue the best color?' or 'Do dogs feel love?' Testable questions are specific, measurable, and can be answered through observation or experiment."},
-        {"type": "instruction", "step": 4, "text": "A hypothesis is an educated guess that follows the pattern: 'If [I do this], then [this will happen], because [reason].' Example: 'If I put one plant in sunlight and one in a dark closet, then the plant in sunlight will grow taller, because plants need light for photosynthesis.' The 'because' part shows your reasoning."},
-        {"type": "activity", "prompt": "Look at the observation objects set up for you. In your science journal: (1) Write 3 detailed observations about each object — what you see, feel, smell, or hear. (2) Turn each observation into a testable question using 'Does... affect...?' or 'What happens when...?' format. (3) Choose your best question and write a hypothesis using the 'If... then... because...' format. (4) Label which questions are testable and which are not, and explain why.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Every great scientific discovery started with someone observing the world and asking 'Why?' or 'What if?' This year we will use the scientific method to investigate topics from earth science to biology. Your science journal will be your record of questions, experiments, and discoveries.", "mastery_check": "Can the student distinguish between testable and non-testable questions and write a hypothesis using the if-then-because format?"}
+        {
+          "type": "title",
+          "heading": "Thinking Like a Scientist",
+          "subheading": "The Scientific Method",
+          "image_url": "https://images.pexels.com/photos/11286088/pexels-photo-11286088.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Science journal",
+            "Pencils",
+            "Scientific method chart",
+            "Observation objects"
+          ],
+          "setup_instructions": "Set up 3-4 interesting objects for observation: a growing plant, a magnet with paper clips, ice cubes in two different containers, etc. Display the scientific method chart."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Science is not just a subject — it is a way of thinking. Scientists observe the world, ask questions, and then systematically search for answers through experimentation. The scientific method is the process scientists use to ensure their investigations are reliable and their conclusions are valid."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The Scientific Method has six steps: (1) Observe and Ask a Question — notice something and wonder about it. (2) Research — find out what is already known. (3) Form a Hypothesis — make an educated prediction you can test. (4) Experiment — design a fair test. (5) Analyze Data — examine your results. (6) Draw Conclusions — what did you learn?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Not all questions are testable. A testable question can be answered through an experiment. Testable: 'Does the amount of sunlight affect how fast a plant grows?' Not testable: 'Is blue the best color?' or 'Do dogs feel love?' Testable questions are specific, measurable, and can be answered through observation or experiment."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "A hypothesis is an educated guess that follows the pattern: 'If [I do this], then [this will happen], because [reason].' Example: 'If I put one plant in sunlight and one in a dark closet, then the plant in sunlight will grow taller, because plants need light for photosynthesis.' The 'because' part shows your reasoning."
+        },
+        {
+          "type": "activity",
+          "prompt": "Look at the observation objects set up for you. In your science journal: (1) Write 3 detailed observations about each object — what you see, feel, smell, or hear. (2) Turn each observation into a testable question using 'Does... affect...?' or 'What happens when...?' format. (3) Choose your best question and write a hypothesis using the 'If... then... because...' format. (4) Label which questions are testable and which are not, and explain why.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Every great scientific discovery started with someone observing the world and asking 'Why?' or 'What if?' This year we will use the scientific method to investigate topics from earth science to biology. Your science journal will be your record of questions, experiments, and discoveries.",
+          "mastery_check": "Can the student distinguish between testable and non-testable questions and write a hypothesis using the if-then-because format?"
+        }
       ]
     },
     "parent_notes": "The scientific method is the backbone of all science instruction this year. Upper elementary students are ready for the full process, including the critical 'because' in their hypotheses — this forces them to think about mechanism, not just prediction. Encourage your child to ask 'testable questions' about everyday life: Does hot water freeze faster than cold water? Does the type of soil affect how a bean plant grows? The observation objects are meant to spark curiosity — let your child handle and explore them freely before directing the activity.",
@@ -234,17 +584,63 @@
     "instructions": "1. Show images of cave paintings from Lascaux (France) and Altamira (Spain).\n2. Discuss when these were created (15,000-40,000 years ago) and by whom.\n3. Explore the materials: charcoal, ochre, manganese oxide, animal fat binders.\n4. Discuss theories about why early humans created art.\n5. Students create their own cave-art-inspired painting.\n6. Reflect on the connection between ancient and modern art.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Images of Lascaux and Altamira cave paintings", "Brown paper bags or kraft paper (to simulate cave walls)", "Charcoal sticks", "Earth-tone paints or pastels (brown, red, yellow, black)", "Sponges", "Water cups"],
+    "materials_needed": [
+      "Images of Lascaux and Altamira cave paintings",
+      "Brown paper bags or kraft paper (to simulate cave walls)",
+      "Charcoal sticks",
+      "Earth-tone paints or pastels (brown, red, yellow, black)",
+      "Sponges",
+      "Water cups"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Cave Art", "subheading": "The Dawn of Human Creativity"},
-        {"type": "materials", "items": ["Images of cave paintings", "Brown paper bags or kraft paper", "Charcoal sticks", "Earth-tone paints or pastels", "Sponges"], "setup_instructions": "Crumple brown paper bags and then flatten them to create a textured, cave-wall-like surface. Set out charcoal, earth-tone paints, and sponges. Display cave painting images prominently."},
-        {"type": "instruction", "step": 1, "text": "In 1940, four teenagers in Lascaux, France, followed their dog into a hole in the ground and discovered something astonishing: the walls were covered with paintings of horses, bulls, deer, and other animals — paintings made over 17,000 years ago. These were not crude scratches. They were sophisticated, beautiful works of art that still amaze us today."},
-        {"type": "instruction", "step": 2, "text": "The oldest known cave paintings are in Chauvet Cave, France — about 36,000 years old. At Altamira in Spain, bison painted 15,000 years ago still seem to leap from the ceiling. These ancient artists used charcoal for black, iron oxide (ochre) for red and yellow, and manganese oxide for dark brown. They mixed pigments with animal fat or spit and applied them with fingers, sticks, fur pads, and even blowing through hollow bones."},
-        {"type": "instruction", "step": 3, "text": "Why did they paint? Historians have several theories: (1) Hunting magic — painting an animal gave power over it. (2) Storytelling — recording important events. (3) Spiritual or religious ceremonies. (4) Teaching — showing young hunters what animals looked like. (5) Simply the human need to create and express. The true answer may include all of these."},
-        {"type": "instruction", "step": 4, "text": "Notice the techniques: the artists used the natural bumps and curves of the cave wall to give their animals a three-dimensional look. They outlined figures in charcoal, then filled with color. Some paintings show animals in motion — galloping, leaping, turning their heads. These were skilled artists who understood observation and representation."},
-        {"type": "activity", "prompt": "Create your own cave painting on crumpled brown paper. Choose an animal or a scene from nature. Use only earth-tone colors (brown, red, yellow, black, white) and charcoal. Try to work like a cave artist: use your fingers or a sponge instead of a brush. Think about the bumps and wrinkles in your paper — can you use them to make your animal look three-dimensional? Add handprint stencils around your painting, as many cave artists did.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Tens of thousands of years ago, our ancestors crawled deep into dark caves with flickering torches and created art that still moves us today. Art is one of the defining features of humanity. This unit will trace the story of art from these first cave paintings through the ancient civilizations we are studying in history.", "mastery_check": "Can the student describe where and when major cave paintings were found and explain at least two theories about why cave art was created?"}
+        {
+          "type": "title",
+          "heading": "Cave Art",
+          "subheading": "The Dawn of Human Creativity",
+          "image_url": "https://images.pexels.com/photos/8613054/pexels-photo-8613054.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Images of cave paintings",
+            "Brown paper bags or kraft paper",
+            "Charcoal sticks",
+            "Earth-tone paints or pastels",
+            "Sponges"
+          ],
+          "setup_instructions": "Crumple brown paper bags and then flatten them to create a textured, cave-wall-like surface. Set out charcoal, earth-tone paints, and sponges. Display cave painting images prominently."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "In 1940, four teenagers in Lascaux, France, followed their dog into a hole in the ground and discovered something astonishing: the walls were covered with paintings of horses, bulls, deer, and other animals — paintings made over 17,000 years ago. These were not crude scratches. They were sophisticated, beautiful works of art that still amaze us today."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The oldest known cave paintings are in Chauvet Cave, France — about 36,000 years old. At Altamira in Spain, bison painted 15,000 years ago still seem to leap from the ceiling. These ancient artists used charcoal for black, iron oxide (ochre) for red and yellow, and manganese oxide for dark brown. They mixed pigments with animal fat or spit and applied them with fingers, sticks, fur pads, and even blowing through hollow bones."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Why did they paint? Historians have several theories: (1) Hunting magic — painting an animal gave power over it. (2) Storytelling — recording important events. (3) Spiritual or religious ceremonies. (4) Teaching — showing young hunters what animals looked like. (5) Simply the human need to create and express. The true answer may include all of these."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Notice the techniques: the artists used the natural bumps and curves of the cave wall to give their animals a three-dimensional look. They outlined figures in charcoal, then filled with color. Some paintings show animals in motion — galloping, leaping, turning their heads. These were skilled artists who understood observation and representation."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own cave painting on crumpled brown paper. Choose an animal or a scene from nature. Use only earth-tone colors (brown, red, yellow, black, white) and charcoal. Try to work like a cave artist: use your fingers or a sponge instead of a brush. Think about the bumps and wrinkles in your paper — can you use them to make your animal look three-dimensional? Add handprint stencils around your painting, as many cave artists did.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Tens of thousands of years ago, our ancestors crawled deep into dark caves with flickering torches and created art that still moves us today. Art is one of the defining features of humanity. This unit will trace the story of art from these first cave paintings through the ancient civilizations we are studying in history.",
+          "mastery_check": "Can the student describe where and when major cave paintings were found and explain at least two theories about why cave art was created?"
+        }
       ]
     },
     "parent_notes": "This lesson connects beautifully with the history unit on ancient civilizations. Cave art demonstrates that the impulse to create is deeply human. The crumpled paper technique simulates the uneven cave wall surface and encourages children to think about texture and dimension. If your child enjoys this, look up virtual tours of Lascaux (the French government created a remarkable online version at archeologie.culture.gouv.fr/lascaux). Emphasize that these were not 'primitive' people — the sophistication of the art shows remarkable skill and intelligence.",
@@ -262,17 +658,61 @@
     "instructions": "1. Discuss why time management matters for growing independence.\n2. List categories of activities: school, chores, free time, physical activity, family time, sleep.\n3. Introduce the concept of fixed vs. flexible time blocks.\n4. Model creating a weekly schedule with time blocks.\n5. Student creates their own weekly schedule.\n6. Discuss strategies for sticking to a schedule.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Blank weekly schedule template", "Pencils", "Colored pencils or markers", "Ruler", "Clock or watch for reference"],
+    "materials_needed": [
+      "Blank weekly schedule template",
+      "Pencils",
+      "Colored pencils or markers",
+      "Ruler",
+      "Clock or watch for reference"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Managing Your Time", "subheading": "Building a Weekly Schedule"},
-        {"type": "materials", "items": ["Blank weekly schedule template", "Pencils", "Colored pencils or markers", "Ruler"], "setup_instructions": "Prepare a blank weekly schedule grid with days across the top and hours down the side (7 AM to 9 PM). Have colored pencils ready for color-coding different activity types."},
-        {"type": "instruction", "step": 1, "text": "Everyone gets the same 24 hours each day and 168 hours each week. The difference between people who accomplish their goals and those who feel constantly behind is how they manage those hours. As you grow more independent, managing your own time becomes one of the most important skills you can develop."},
-        {"type": "instruction", "step": 2, "text": "There are two types of time commitments: Fixed commitments happen at set times and cannot be moved — meals, classes, appointments, bedtime. Flexible commitments need to happen but can be scheduled at different times — homework, chores, practice, free time. The key to a good schedule is placing fixed commitments first, then fitting flexible ones around them."},
-        {"type": "instruction", "step": 3, "text": "A balanced week includes: learning time (school subjects), physical activity (at least 60 minutes daily), chores and responsibilities, creative or free time, family time, and adequate sleep (9-11 hours for your age). No category should dominate — even school. Your brain needs variety to work well."},
-        {"type": "instruction", "step": 4, "text": "Color-code your schedule: blue for learning, green for physical activity, yellow for chores, orange for free time, purple for family time. This helps you see at a glance if your week is balanced. If you see too much of one color and too little of another, adjust. Build in buffer time between activities — rushing causes stress."},
-        {"type": "activity", "prompt": "Create your own weekly schedule for next week. Start by listing your fixed commitments and placing them on the grid. Then add your flexible commitments. Color-code each type of activity. Make sure you have included: at least 5 hours of learning per day, 1 hour of physical activity per day, time for chores, free time every day, and 9-11 hours of sleep. When finished, write a paragraph about what surprised you and what you want to change.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "A schedule is not a cage — it is a tool for freedom. When you plan your time, you make sure the important things get done and you actually have MORE free time, not less. Review your schedule each Sunday evening and adjust for the coming week. We will check in on how your schedule is working next week.", "mastery_check": "Can the student create a balanced weekly schedule with fixed and flexible commitments and explain the importance of time management?"}
+        {
+          "type": "title",
+          "heading": "Managing Your Time",
+          "subheading": "Building a Weekly Schedule",
+          "image_url": "https://images.pexels.com/photos/15826427/pexels-photo-15826427.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank weekly schedule template",
+            "Pencils",
+            "Colored pencils or markers",
+            "Ruler"
+          ],
+          "setup_instructions": "Prepare a blank weekly schedule grid with days across the top and hours down the side (7 AM to 9 PM). Have colored pencils ready for color-coding different activity types."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Everyone gets the same 24 hours each day and 168 hours each week. The difference between people who accomplish their goals and those who feel constantly behind is how they manage those hours. As you grow more independent, managing your own time becomes one of the most important skills you can develop."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "There are two types of time commitments: Fixed commitments happen at set times and cannot be moved — meals, classes, appointments, bedtime. Flexible commitments need to happen but can be scheduled at different times — homework, chores, practice, free time. The key to a good schedule is placing fixed commitments first, then fitting flexible ones around them."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "A balanced week includes: learning time (school subjects), physical activity (at least 60 minutes daily), chores and responsibilities, creative or free time, family time, and adequate sleep (9-11 hours for your age). No category should dominate — even school. Your brain needs variety to work well."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Color-code your schedule: blue for learning, green for physical activity, yellow for chores, orange for free time, purple for family time. This helps you see at a glance if your week is balanced. If you see too much of one color and too little of another, adjust. Build in buffer time between activities — rushing causes stress."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own weekly schedule for next week. Start by listing your fixed commitments and placing them on the grid. Then add your flexible commitments. Color-code each type of activity. Make sure you have included: at least 5 hours of learning per day, 1 hour of physical activity per day, time for chores, free time every day, and 9-11 hours of sleep. When finished, write a paragraph about what surprised you and what you want to change.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "A schedule is not a cage — it is a tool for freedom. When you plan your time, you make sure the important things get done and you actually have MORE free time, not less. Review your schedule each Sunday evening and adjust for the coming week. We will check in on how your schedule is working next week.",
+          "mastery_check": "Can the student create a balanced weekly schedule with fixed and flexible commitments and explain the importance of time management?"
+        }
       ]
     },
     "parent_notes": "Time management is a cornerstone Montessori practical life skill for upper elementary. The goal is not rigid scheduling but awareness of how time is spent. Involve your child in the process rather than dictating the schedule. If your child resists scheduling, start with just the morning routine and expand gradually. The color-coding makes imbalances visible — if the schedule is all blue (learning) with no orange (free time), your child will see the problem themselves. Review the schedule together weekly and celebrate when they follow it independently.",
@@ -290,17 +730,61 @@
     "instructions": "1. Review the four sentence types with examples.\n2. Define clause: a group of words with a subject and verb.\n3. Introduce independent clauses (can stand alone) vs. dependent clauses (cannot stand alone).\n4. Show how dependent clauses begin with subordinating conjunctions (because, when, although, if, while).\n5. Practice identifying clauses in sentences from literature.\n6. Combine independent and dependent clauses to form complex sentences.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Writer's notebook", "Grammar reference chart", "Sentence strips or index cards", "Pencils", "Published text for clause identification"],
+    "materials_needed": [
+      "Writer's notebook",
+      "Grammar reference chart",
+      "Sentence strips or index cards",
+      "Pencils",
+      "Published text for clause identification"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Clauses and Sentence Types", "subheading": "Building Blocks of Strong Writing"},
-        {"type": "materials", "items": ["Writer's notebook", "Grammar reference chart", "Sentence strips or index cards", "Pencils"], "setup_instructions": "Prepare sentence strips with examples of independent and dependent clauses. Have a grammar reference chart showing the four sentence types and common subordinating conjunctions."},
-        {"type": "instruction", "step": 1, "text": "Every sentence in English is one of four types: Declarative makes a statement (ends with a period). Interrogative asks a question (ends with a question mark). Imperative gives a command (ends with a period or exclamation point). Exclamatory expresses strong emotion (ends with an exclamation point). Skilled writers use all four types to create variety."},
-        {"type": "instruction", "step": 2, "text": "A clause is a group of words that contains both a subject and a verb. An independent clause expresses a complete thought and can stand alone as a sentence: 'The cat sat on the mat.' A dependent clause has a subject and verb but cannot stand alone: 'When the cat sat on the mat.' It leaves you wondering — then what happened?"},
-        {"type": "instruction", "step": 3, "text": "Dependent clauses usually begin with subordinating conjunctions: because, when, while, although, if, since, before, after, unless, until. These words signal that the clause depends on another clause to make sense. A complex sentence combines one independent clause with one or more dependent clauses: 'When the cat sat on the mat, the dog barked loudly.'"},
-        {"type": "instruction", "step": 4, "text": "Notice the comma rule: When a dependent clause comes BEFORE the independent clause, use a comma. 'Although it was raining, we went outside.' When the dependent clause comes AFTER, usually no comma is needed. 'We went outside although it was raining.' This pattern will improve your writing immediately."},
-        {"type": "activity", "prompt": "In your notebook: (1) Write two examples of each sentence type (8 sentences total). (2) Underline the independent clause and circle the dependent clause in these sentences: 'Because the river flooded, the farmers lost their crops.' / 'The explorers continued even though they were exhausted.' / 'If you study the map carefully, you will find the hidden path.' (3) Write 5 original complex sentences using different subordinating conjunctions. Put the dependent clause first in at least 3 of them and use commas correctly.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Understanding clauses gives you power over your writing. Simple sentences are fine, but complex sentences let you show relationships between ideas — cause and effect, time, conditions, and contrasts. Listen for clauses as we read this week and notice how published authors use them.", "mastery_check": "Can the student identify independent and dependent clauses, name common subordinating conjunctions, and write complex sentences with correct comma placement?"}
+        {
+          "type": "title",
+          "heading": "Clauses and Sentence Types",
+          "subheading": "Building Blocks of Strong Writing",
+          "image_url": "https://images.pexels.com/photos/1887614/pexels-photo-1887614.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Writer's notebook",
+            "Grammar reference chart",
+            "Sentence strips or index cards",
+            "Pencils"
+          ],
+          "setup_instructions": "Prepare sentence strips with examples of independent and dependent clauses. Have a grammar reference chart showing the four sentence types and common subordinating conjunctions."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Every sentence in English is one of four types: Declarative makes a statement (ends with a period). Interrogative asks a question (ends with a question mark). Imperative gives a command (ends with a period or exclamation point). Exclamatory expresses strong emotion (ends with an exclamation point). Skilled writers use all four types to create variety."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "A clause is a group of words that contains both a subject and a verb. An independent clause expresses a complete thought and can stand alone as a sentence: 'The cat sat on the mat.' A dependent clause has a subject and verb but cannot stand alone: 'When the cat sat on the mat.' It leaves you wondering — then what happened?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Dependent clauses usually begin with subordinating conjunctions: because, when, while, although, if, since, before, after, unless, until. These words signal that the clause depends on another clause to make sense. A complex sentence combines one independent clause with one or more dependent clauses: 'When the cat sat on the mat, the dog barked loudly.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Notice the comma rule: When a dependent clause comes BEFORE the independent clause, use a comma. 'Although it was raining, we went outside.' When the dependent clause comes AFTER, usually no comma is needed. 'We went outside although it was raining.' This pattern will improve your writing immediately."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your notebook: (1) Write two examples of each sentence type (8 sentences total). (2) Underline the independent clause and circle the dependent clause in these sentences: 'Because the river flooded, the farmers lost their crops.' / 'The explorers continued even though they were exhausted.' / 'If you study the map carefully, you will find the hidden path.' (3) Write 5 original complex sentences using different subordinating conjunctions. Put the dependent clause first in at least 3 of them and use commas correctly.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Understanding clauses gives you power over your writing. Simple sentences are fine, but complex sentences let you show relationships between ideas — cause and effect, time, conditions, and contrasts. Listen for clauses as we read this week and notice how published authors use them.",
+          "mastery_check": "Can the student identify independent and dependent clauses, name common subordinating conjunctions, and write complex sentences with correct comma placement?"
+        }
       ]
     },
     "parent_notes": "Clause identification is a major grammar concept for upper elementary. The key insight is that dependent clauses create relationships between ideas — 'because' shows cause, 'when' shows time, 'although' shows contrast. If your child finds the terminology confusing, use the analogy: an independent clause is like an adult who can live alone, while a dependent clause is like a child who needs an adult to take care of it. Practice spotting clauses in books your child is reading — it makes grammar feel relevant rather than abstract.",
@@ -318,17 +802,61 @@
     "instructions": "1. Review multiplication facts and the concept of partial products.\n2. Demonstrate the standard algorithm for 2-digit by 1-digit multiplication.\n3. Extend to 3-digit by 1-digit and 2-digit by 2-digit multiplication.\n4. Show the connection between the algorithm and area model.\n5. Practice estimation using rounding.\n6. Solve word problems requiring multi-digit multiplication.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Math journal", "Graph paper", "Pencils", "Multiplication table reference (if needed)", "Base-ten materials (optional)"],
+    "materials_needed": [
+      "Math journal",
+      "Graph paper",
+      "Pencils",
+      "Multiplication table reference (if needed)",
+      "Base-ten materials (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Multi-Digit Multiplication", "subheading": "Mastering the Standard Algorithm"},
-        {"type": "materials", "items": ["Math journal", "Graph paper", "Pencils", "Multiplication table reference"], "setup_instructions": "Use graph paper to keep digits aligned. Have multiplication facts reference available for students who need it — the focus today is on the algorithm, not memorization."},
-        {"type": "instruction", "step": 1, "text": "Multiplication is repeated addition, but the standard algorithm makes it efficient. Let us start with 347 x 6. Work right to left: 6 x 7 = 42, write 2, carry 4. 6 x 4 = 24, plus 4 = 28, write 8, carry 2. 6 x 3 = 18, plus 2 = 20. Answer: 2,082. Check by estimating: 350 x 6 = 2,100. Our answer is close — it is reasonable."},
-        {"type": "instruction", "step": 2, "text": "For 2-digit by 2-digit, like 45 x 23, we multiply by each digit separately. First: 45 x 3 = 135 (multiply by the ones). Second: 45 x 20 = 900 (multiply by the tens — notice the zero placeholder). Add the partial products: 135 + 900 = 1,035. This works because 23 = 20 + 3, so 45 x 23 = 45 x 20 + 45 x 3."},
-        {"type": "instruction", "step": 3, "text": "The area model shows why this works visually. Draw a rectangle split into sections: 45 = 40 + 5 across the top, 23 = 20 + 3 down the side. The four sections are: 40x20=800, 5x20=100, 40x3=120, 5x3=15. Total: 800+100+120+15 = 1,035. Same answer, different method. The standard algorithm is just a shortcut for the area model."},
-        {"type": "instruction", "step": 4, "text": "For larger problems like 234 x 56: multiply 234 x 6 = 1,404. Then 234 x 50 = 11,700. Add: 1,404 + 11,700 = 13,104. Estimate to check: 230 x 60 = 13,800. Our answer is reasonable. Always estimate before and after to catch errors."},
-        {"type": "activity", "prompt": "Complete in your math journal (estimate first, then calculate, then check): (A) 456 x 7 (B) 89 x 34 (C) 267 x 53 (D) 508 x 46. Then solve: A school ordered 48 boxes of pencils with 144 pencils in each box. How many pencils did they order in all? A farmer plants 365 rows of corn with 275 plants in each row. How many corn plants is that?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Multi-digit multiplication is one of the most important computational skills you will use. The key is understanding partial products — you are really breaking a hard problem into easier parts. Keep practicing until the algorithm feels automatic. Thursday we will tackle division.", "mastery_check": "Can the student multiply a 3-digit number by a 2-digit number using the standard algorithm and verify the answer with estimation?"}
+        {
+          "type": "title",
+          "heading": "Multi-Digit Multiplication",
+          "subheading": "Mastering the Standard Algorithm",
+          "image_url": "https://images.pexels.com/photos/6692940/pexels-photo-6692940.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math journal",
+            "Graph paper",
+            "Pencils",
+            "Multiplication table reference"
+          ],
+          "setup_instructions": "Use graph paper to keep digits aligned. Have multiplication facts reference available for students who need it — the focus today is on the algorithm, not memorization."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Multiplication is repeated addition, but the standard algorithm makes it efficient. Let us start with 347 x 6. Work right to left: 6 x 7 = 42, write 2, carry 4. 6 x 4 = 24, plus 4 = 28, write 8, carry 2. 6 x 3 = 18, plus 2 = 20. Answer: 2,082. Check by estimating: 350 x 6 = 2,100. Our answer is close — it is reasonable."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "For 2-digit by 2-digit, like 45 x 23, we multiply by each digit separately. First: 45 x 3 = 135 (multiply by the ones). Second: 45 x 20 = 900 (multiply by the tens — notice the zero placeholder). Add the partial products: 135 + 900 = 1,035. This works because 23 = 20 + 3, so 45 x 23 = 45 x 20 + 45 x 3."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The area model shows why this works visually. Draw a rectangle split into sections: 45 = 40 + 5 across the top, 23 = 20 + 3 down the side. The four sections are: 40x20=800, 5x20=100, 40x3=120, 5x3=15. Total: 800+100+120+15 = 1,035. Same answer, different method. The standard algorithm is just a shortcut for the area model."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "For larger problems like 234 x 56: multiply 234 x 6 = 1,404. Then 234 x 50 = 11,700. Add: 1,404 + 11,700 = 13,104. Estimate to check: 230 x 60 = 13,800. Our answer is reasonable. Always estimate before and after to catch errors."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete in your math journal (estimate first, then calculate, then check): (A) 456 x 7 (B) 89 x 34 (C) 267 x 53 (D) 508 x 46. Then solve: A school ordered 48 boxes of pencils with 144 pencils in each box. How many pencils did they order in all? A farmer plants 365 rows of corn with 275 plants in each row. How many corn plants is that?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Multi-digit multiplication is one of the most important computational skills you will use. The key is understanding partial products — you are really breaking a hard problem into easier parts. Keep practicing until the algorithm feels automatic. Thursday we will tackle division.",
+          "mastery_check": "Can the student multiply a 3-digit number by a 2-digit number using the standard algorithm and verify the answer with estimation?"
+        }
       ]
     },
     "parent_notes": "If your child struggles with multi-digit multiplication, the issue is usually one of two things: weak multiplication facts (practice these separately) or losing track of place value during partial products. Graph paper and the area model both help with alignment. The area model is especially powerful because it shows the mathematical reasoning behind the algorithm. Let your child use a multiplication facts chart while learning the algorithm — trying to recall facts and learn a new process simultaneously overloads working memory.",
@@ -346,17 +874,63 @@
     "instructions": "1. Locate Sumer in southern Mesopotamia on a map.\n2. Describe Sumerian city-states: Ur, Uruk, Eridu, Lagash.\n3. Explain the structure of a city-state: city + surrounding farmland, ruled by a king or priest.\n4. Tell the story of cuneiform: from pictographs on clay tablets to abstract symbols.\n5. Discuss why writing was revolutionary and what it was first used for.\n6. Students practice writing their names in cuneiform-style symbols.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["History journal", "Map of ancient Mesopotamia", "Images of cuneiform tablets", "Clay or playdough", "Popsicle sticks or stylus tools", "Cuneiform symbol reference chart"],
+    "materials_needed": [
+      "History journal",
+      "Map of ancient Mesopotamia",
+      "Images of cuneiform tablets",
+      "Clay or playdough",
+      "Popsicle sticks or stylus tools",
+      "Cuneiform symbol reference chart"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Sumer", "subheading": "The First Cities and the Birth of Writing"},
-        {"type": "materials", "items": ["History journal", "Map of ancient Mesopotamia", "Cuneiform reference chart", "Clay or playdough", "Popsicle sticks"], "setup_instructions": "Prepare small balls of clay or playdough for each student. Have popsicle sticks or chopsticks ready as stylus tools. Display images of actual cuneiform tablets."},
-        {"type": "instruction", "step": 1, "text": "By about 3500 BCE, the first true cities arose in southern Mesopotamia in a region called Sumer. The city of Uruk may have had 40,000 people — enormous for the time. Sumerian cities were independent city-states, each with its own king, army, and patron god. They cooperated through trade and competed through war."},
-        {"type": "instruction", "step": 2, "text": "Each city-state centered around a massive stepped pyramid called a ziggurat — a temple to the city's god. At the base of the ziggurat, priests managed the city's surplus grain, organized irrigation projects, and settled disputes. The kings claimed to rule with the blessing of the gods. This was the beginning of organized government."},
-        {"type": "instruction", "step": 3, "text": "Around 3200 BCE, Sumerian scribes invented writing — one of the most important inventions in human history. It started simply: they pressed pictures into wet clay tablets to keep track of grain and livestock. Over centuries, the pictures became abstract wedge-shaped marks called cuneiform (from the Latin 'cuneus' meaning wedge). Scribes used a reed stylus pressed into soft clay."},
-        {"type": "instruction", "step": 4, "text": "At first, writing was used only for accounting — counting bags of grain and heads of cattle. But soon people realized writing could record anything: laws, prayers, letters, recipes, stories, medical knowledge, astronomical observations. Writing meant that knowledge could be preserved beyond one person's memory and passed to future generations. This changed everything."},
-        {"type": "activity", "prompt": "Two-part activity: (1) In your history journal, create a labeled diagram of a Sumerian city-state showing the ziggurat, city walls, market area, residential areas, farmland, and irrigation canals. Write a caption explaining the role of each part. (2) Flatten your clay into a tablet shape. Using the cuneiform reference chart and a popsicle stick, write a simple message (your name, a short word, or a number). Press the stick at different angles to make wedge shapes. Think about how different this is from writing with a pencil.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "The Sumerians gave humanity some of its greatest gifts: cities, writing, the wheel, the plow, the 60-minute hour, and the 360-degree circle. Writing especially transformed civilization — it made history itself possible, because before writing, there were no written records. Next lesson we will explore more of Mesopotamian achievements.", "mastery_check": "Can the student describe the structure of a Sumerian city-state and explain why the invention of writing was revolutionary?"}
+        {
+          "type": "title",
+          "heading": "Sumer",
+          "subheading": "The First Cities and the Birth of Writing",
+          "image_url": "https://images.pexels.com/photos/10392293/pexels-photo-10392293.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "History journal",
+            "Map of ancient Mesopotamia",
+            "Cuneiform reference chart",
+            "Clay or playdough",
+            "Popsicle sticks"
+          ],
+          "setup_instructions": "Prepare small balls of clay or playdough for each student. Have popsicle sticks or chopsticks ready as stylus tools. Display images of actual cuneiform tablets."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "By about 3500 BCE, the first true cities arose in southern Mesopotamia in a region called Sumer. The city of Uruk may have had 40,000 people — enormous for the time. Sumerian cities were independent city-states, each with its own king, army, and patron god. They cooperated through trade and competed through war."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Each city-state centered around a massive stepped pyramid called a ziggurat — a temple to the city's god. At the base of the ziggurat, priests managed the city's surplus grain, organized irrigation projects, and settled disputes. The kings claimed to rule with the blessing of the gods. This was the beginning of organized government."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Around 3200 BCE, Sumerian scribes invented writing — one of the most important inventions in human history. It started simply: they pressed pictures into wet clay tablets to keep track of grain and livestock. Over centuries, the pictures became abstract wedge-shaped marks called cuneiform (from the Latin 'cuneus' meaning wedge). Scribes used a reed stylus pressed into soft clay."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "At first, writing was used only for accounting — counting bags of grain and heads of cattle. But soon people realized writing could record anything: laws, prayers, letters, recipes, stories, medical knowledge, astronomical observations. Writing meant that knowledge could be preserved beyond one person's memory and passed to future generations. This changed everything."
+        },
+        {
+          "type": "activity",
+          "prompt": "Two-part activity: (1) In your history journal, create a labeled diagram of a Sumerian city-state showing the ziggurat, city walls, market area, residential areas, farmland, and irrigation canals. Write a caption explaining the role of each part. (2) Flatten your clay into a tablet shape. Using the cuneiform reference chart and a popsicle stick, write a simple message (your name, a short word, or a number). Press the stick at different angles to make wedge shapes. Think about how different this is from writing with a pencil.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Sumerians gave humanity some of its greatest gifts: cities, writing, the wheel, the plow, the 60-minute hour, and the 360-degree circle. Writing especially transformed civilization — it made history itself possible, because before writing, there were no written records. Next lesson we will explore more of Mesopotamian achievements.",
+          "mastery_check": "Can the student describe the structure of a Sumerian city-state and explain why the invention of writing was revolutionary?"
+        }
       ]
     },
     "parent_notes": "The cuneiform clay activity is a highlight — children love pressing symbols into clay. If possible, find images of real cuneiform tablets online (the British Museum has excellent digital collections). The key concept here is that writing transformed human society by allowing knowledge to accumulate across generations. Without writing, each generation had to relearn everything. With writing, each generation could build on the knowledge of those before. Help your child see that their own writing carries on this tradition that began 5,000 years ago in Sumer.",
@@ -374,17 +948,63 @@
     "instructions": "1. Review latitude and longitude from the previous lesson.\n2. Introduce the compass rose and cardinal/intermediate directions.\n3. Explain the map scale and how to use it to measure distances.\n4. Introduce the legend (key) and common map symbols.\n5. Practice reading a map using all three features.\n6. Create a map of a familiar place using proper map conventions.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Various maps (road map, topographic map, park map)", "Ruler", "Geography journal", "Pencils", "Colored pencils", "String (for measuring curved distances)"],
+    "materials_needed": [
+      "Various maps (road map, topographic map, park map)",
+      "Ruler",
+      "Geography journal",
+      "Pencils",
+      "Colored pencils",
+      "String (for measuring curved distances)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Reading Maps Like an Expert", "subheading": "Scale, Legend, and Compass Rose"},
-        {"type": "materials", "items": ["Various maps", "Ruler", "Geography journal", "Colored pencils", "String"], "setup_instructions": "Gather 2-3 different types of maps. A road map, a national park trail map, and a city map work well. Have rulers and string pieces ready for distance measurement."},
-        {"type": "instruction", "step": 1, "text": "Every good map has three essential features. The compass rose shows direction — North is typically at the top, with East to the right, South at the bottom, and West to the left. Intermediate directions fall between: Northeast (NE), Southeast (SE), Southwest (SW), and Northwest (NW). Always orient yourself to the compass rose before reading any map."},
-        {"type": "instruction", "step": 2, "text": "The scale bar tells you how map distance relates to real-world distance. A scale might show that 1 inch on the map equals 10 miles in reality. To find the real distance between two points, measure the map distance with a ruler, then multiply by the scale. For curved routes, lay a string along the path, then straighten the string and measure it."},
-        {"type": "instruction", "step": 3, "text": "The legend (also called the key) is a decoder for map symbols. A blue line might represent a river, a dotted line a trail, a triangle a mountain peak, a star a capital city. Every map uses different symbols, so you must always check the legend before interpreting the map. No symbol has a universal meaning."},
-        {"type": "instruction", "step": 4, "text": "Let us practice with a real map. Find the compass rose — which way is north? Use the legend to identify rivers, roads, cities, and boundaries. Now use the scale to measure the distance between two cities. For a curved road, use string to trace the route, then measure the string against the scale bar. This is how navigators have worked for centuries."},
-        {"type": "activity", "prompt": "Two tasks: (1) Using one of the provided maps, answer these questions in your geography journal: What is the distance between two major cities? What direction would you travel to get from point A to point B? Identify three features using the legend. (2) Create your own map of your home, yard, or neighborhood. Include a compass rose, a scale bar (decide what 1 inch represents), and a legend with at least 5 symbols. Use proper map conventions.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Scale, legend, and compass rose are the three tools that turn a picture into a useful navigation tool. Professional cartographers, hikers, military planners, and city designers all depend on these skills. Practice reading every map you encounter — on walls, in books, on your phone — and always check the scale and legend first.", "mastery_check": "Can the student use a scale bar to calculate real-world distances, interpret a map legend, and identify cardinal and intermediate directions on a compass rose?"}
+        {
+          "type": "title",
+          "heading": "Reading Maps Like an Expert",
+          "subheading": "Scale, Legend, and Compass Rose",
+          "image_url": "https://images.pexels.com/photos/8926461/pexels-photo-8926461.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Various maps",
+            "Ruler",
+            "Geography journal",
+            "Colored pencils",
+            "String"
+          ],
+          "setup_instructions": "Gather 2-3 different types of maps. A road map, a national park trail map, and a city map work well. Have rulers and string pieces ready for distance measurement."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Every good map has three essential features. The compass rose shows direction — North is typically at the top, with East to the right, South at the bottom, and West to the left. Intermediate directions fall between: Northeast (NE), Southeast (SE), Southwest (SW), and Northwest (NW). Always orient yourself to the compass rose before reading any map."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The scale bar tells you how map distance relates to real-world distance. A scale might show that 1 inch on the map equals 10 miles in reality. To find the real distance between two points, measure the map distance with a ruler, then multiply by the scale. For curved routes, lay a string along the path, then straighten the string and measure it."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The legend (also called the key) is a decoder for map symbols. A blue line might represent a river, a dotted line a trail, a triangle a mountain peak, a star a capital city. Every map uses different symbols, so you must always check the legend before interpreting the map. No symbol has a universal meaning."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Let us practice with a real map. Find the compass rose — which way is north? Use the legend to identify rivers, roads, cities, and boundaries. Now use the scale to measure the distance between two cities. For a curved road, use string to trace the route, then measure the string against the scale bar. This is how navigators have worked for centuries."
+        },
+        {
+          "type": "activity",
+          "prompt": "Two tasks: (1) Using one of the provided maps, answer these questions in your geography journal: What is the distance between two major cities? What direction would you travel to get from point A to point B? Identify three features using the legend. (2) Create your own map of your home, yard, or neighborhood. Include a compass rose, a scale bar (decide what 1 inch represents), and a legend with at least 5 symbols. Use proper map conventions.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Scale, legend, and compass rose are the three tools that turn a picture into a useful navigation tool. Professional cartographers, hikers, military planners, and city designers all depend on these skills. Practice reading every map you encounter — on walls, in books, on your phone — and always check the scale and legend first.",
+          "mastery_check": "Can the student use a scale bar to calculate real-world distances, interpret a map legend, and identify cardinal and intermediate directions on a compass rose?"
+        }
       ]
     },
     "parent_notes": "Map reading is a practical skill that builds spatial reasoning. If possible, use real physical maps rather than just digital ones — handling a large paper map engages different cognitive skills than pinching and zooming on a screen. The string technique for measuring curved distances is a real cartography method. Encourage your child to practice during family trips: have them navigate using a paper map, calculating distances and identifying landmarks. The map-creation activity helps children understand that maps are deliberate constructions — every element is a choice the mapmaker made.",
@@ -402,17 +1022,58 @@
     "instructions": "1. Review chapters 1-3 briefly.\n2. Read chapters 4-6 aloud together.\n3. Track the survival skills Sam learns.\n4. Discuss how Sam uses observation and experimentation (connecting to science).\n5. Analyze the author's use of descriptive language about nature.\n6. Compare Sam's life to the student's own daily life.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["My Side of the Mountain by Jean Craighhead George", "Reading journal", "Pencils"],
+    "materials_needed": [
+      "My Side of the Mountain by Jean Craighhead George",
+      "Reading journal",
+      "Pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "My Side of the Mountain", "subheading": "Chapters 4-6: Learning to Survive"},
-        {"type": "materials", "items": ["My Side of the Mountain", "Reading journal", "Pencils"], "setup_instructions": "Have the book ready at chapter 4. Review reading journal entries from the first session."},
-        {"type": "instruction", "step": 1, "text": "Before we read, let us remember where we left Sam. He has arrived in the Catskill Mountains and is beginning to figure out how to survive alone. He is learning that the wilderness is both more challenging and more rewarding than he imagined. As we read today, pay attention to each new skill Sam develops."},
-        {"type": "instruction", "step": 2, "text": "Read chapters 4-6 aloud together. Pause to discuss: What problems does Sam face? How does he solve each one? Notice that Sam often uses a process similar to the scientific method — he observes, forms a plan, tries it, and adjusts based on results. This is how humans have learned to survive throughout history."},
-        {"type": "instruction", "step": 3, "text": "Jean Craighhead George's writing is rich with sensory detail about nature. As we read, notice passages where you can almost see, hear, smell, or feel what Sam experiences. Good nature writing makes the reader feel present in the scene. Mark passages that you find especially vivid."},
-        {"type": "instruction", "step": 4, "text": "Consider this question as we read: How is Sam changing as a person? Living alone in nature is transforming him — in what ways? Think about his confidence, his knowledge, his relationship with the natural world, and his feelings about his old life in the city."},
-        {"type": "activity", "prompt": "In your reading journal: (1) Create a 'Survival Skills Log' — list every survival skill Sam has learned so far, how he learned it, and rate its importance on a scale of 1-5. (2) Choose your favorite descriptive passage from today's reading and copy it. Below it, explain what makes the writing effective — what senses does it engage? What specific words create the image? (3) Write a journal entry as if you are Sam after one of today's chapters. What are you thinking and feeling?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Sam is becoming competent and self-reliant in the wilderness. Notice how each skill he learns builds on previous ones — just like your own learning. As you go through your day, think about which of Sam's skills you could learn and which ones you already have in different forms.", "mastery_check": "Can the student track Sam's skill development and analyze the author's use of descriptive language to create vivid nature writing?"}
+        {
+          "type": "title",
+          "heading": "My Side of the Mountain",
+          "subheading": "Chapters 4-6: Learning to Survive",
+          "image_url": "https://images.pexels.com/photos/8466915/pexels-photo-8466915.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "My Side of the Mountain",
+            "Reading journal",
+            "Pencils"
+          ],
+          "setup_instructions": "Have the book ready at chapter 4. Review reading journal entries from the first session."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Before we read, let us remember where we left Sam. He has arrived in the Catskill Mountains and is beginning to figure out how to survive alone. He is learning that the wilderness is both more challenging and more rewarding than he imagined. As we read today, pay attention to each new skill Sam develops."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read chapters 4-6 aloud together. Pause to discuss: What problems does Sam face? How does he solve each one? Notice that Sam often uses a process similar to the scientific method — he observes, forms a plan, tries it, and adjusts based on results. This is how humans have learned to survive throughout history."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Jean Craighhead George's writing is rich with sensory detail about nature. As we read, notice passages where you can almost see, hear, smell, or feel what Sam experiences. Good nature writing makes the reader feel present in the scene. Mark passages that you find especially vivid."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Consider this question as we read: How is Sam changing as a person? Living alone in nature is transforming him — in what ways? Think about his confidence, his knowledge, his relationship with the natural world, and his feelings about his old life in the city."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal: (1) Create a 'Survival Skills Log' — list every survival skill Sam has learned so far, how he learned it, and rate its importance on a scale of 1-5. (2) Choose your favorite descriptive passage from today's reading and copy it. Below it, explain what makes the writing effective — what senses does it engage? What specific words create the image? (3) Write a journal entry as if you are Sam after one of today's chapters. What are you thinking and feeling?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Sam is becoming competent and self-reliant in the wilderness. Notice how each skill he learns builds on previous ones — just like your own learning. As you go through your day, think about which of Sam's skills you could learn and which ones you already have in different forms.",
+          "mastery_check": "Can the student track Sam's skill development and analyze the author's use of descriptive language to create vivid nature writing?"
+        }
       ]
     },
     "parent_notes": "The survival skills log is a great cross-curricular connection to science (observation, experimentation) and practical life (self-reliance). If your child is deeply engaged, consider trying some of Sam's simpler skills together — identifying trees, building a small shelter from sticks, or learning to identify edible plants from a field guide (with adult supervision). The journal-entry-as-Sam activity builds empathy and deepens comprehension by requiring your child to inhabit the character's perspective. Encourage vivid, specific writing rather than generic statements.",
@@ -430,17 +1091,63 @@
     "instructions": "1. Explain that over 60% of English words come from Latin and Greek.\n2. Introduce the concept of roots, prefixes, and suffixes.\n3. Study the root 'port' (carry): transport, portable, export, import, report, deport.\n4. Study the root 'scrib/script' (write): scribble, describe, prescription, scripture, manuscript.\n5. Study the root 'dict' (say): dictate, predict, dictionary, contradict, verdict.\n6. Practice using roots to decode unfamiliar words.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Writer's notebook", "Latin roots reference chart", "Dictionary", "Index cards for vocabulary cards", "Pencils", "Colored pencils"],
+    "materials_needed": [
+      "Writer's notebook",
+      "Latin roots reference chart",
+      "Dictionary",
+      "Index cards for vocabulary cards",
+      "Pencils",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Word Detectives", "subheading": "Latin Roots — Port, Scrib, Dict"},
-        {"type": "materials", "items": ["Writer's notebook", "Latin roots reference chart", "Dictionary", "Index cards", "Colored pencils"], "setup_instructions": "Prepare a reference chart showing the three roots with their meanings. Have index cards ready for vocabulary word cards. Set up the dictionary for verification."},
-        {"type": "instruction", "step": 1, "text": "Here is a superpower for vocabulary: over 60 percent of English words come from Latin and Greek. If you know common roots, you can figure out the meaning of words you have never seen before. A root is the core part of a word that carries the main meaning. Prefixes attach before it, and suffixes attach after it."},
-        {"type": "instruction", "step": 2, "text": "Root 1: PORT means 'to carry.' Transport = carry across (trans = across). Portable = able to be carried. Export = carry out (ex = out). Import = carry in (im = in). Report = carry back (re = back). Deport = carry away (de = away). See how the root stays the same while prefixes change the meaning?"},
-        {"type": "instruction", "step": 3, "text": "Root 2: SCRIB / SCRIPT means 'to write.' Scribble = write carelessly. Describe = write about (de = about). Prescription = written before (pre = before) — a doctor writes it before you get medicine. Manuscript = written by hand (manu = hand). Subscribe = write under (sub = under) — you sign your name below to agree."},
-        {"type": "instruction", "step": 4, "text": "Root 3: DICT means 'to say or speak.' Dictate = to say aloud for someone to write. Predict = to say before something happens (pre = before). Dictionary = a book of words and what they say (mean). Contradict = to say against (contra = against). Verdict = truly said (ver = truth) — what the jury says is true."},
-        {"type": "activity", "prompt": "Create vocabulary cards: For each of the three roots, make 4 index cards (12 total). On the front, write the word. On the back, write: the root and its meaning, the prefix and its meaning, a definition in your own words, and a sentence using the word. Then try to decode these challenge words using what you know about roots: inscription, transportation, dictator, portfolio, nondescript, unpredictable.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "You now have a tool for cracking open unfamiliar words. When you encounter a word you do not know, look for a root you recognize. We will learn new Latin and Greek roots every week this year, building a vocabulary toolkit that will serve you for life.", "mastery_check": "Can the student define the roots port, scrib, and dict, give examples of words containing each, and use root knowledge to decode unfamiliar words?"}
+        {
+          "type": "title",
+          "heading": "Word Detectives",
+          "subheading": "Latin Roots — Port, Scrib, Dict",
+          "image_url": "https://images.pexels.com/photos/1822568/pexels-photo-1822568.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Writer's notebook",
+            "Latin roots reference chart",
+            "Dictionary",
+            "Index cards",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Prepare a reference chart showing the three roots with their meanings. Have index cards ready for vocabulary word cards. Set up the dictionary for verification."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Here is a superpower for vocabulary: over 60 percent of English words come from Latin and Greek. If you know common roots, you can figure out the meaning of words you have never seen before. A root is the core part of a word that carries the main meaning. Prefixes attach before it, and suffixes attach after it."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Root 1: PORT means 'to carry.' Transport = carry across (trans = across). Portable = able to be carried. Export = carry out (ex = out). Import = carry in (im = in). Report = carry back (re = back). Deport = carry away (de = away). See how the root stays the same while prefixes change the meaning?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Root 2: SCRIB / SCRIPT means 'to write.' Scribble = write carelessly. Describe = write about (de = about). Prescription = written before (pre = before) — a doctor writes it before you get medicine. Manuscript = written by hand (manu = hand). Subscribe = write under (sub = under) — you sign your name below to agree."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Root 3: DICT means 'to say or speak.' Dictate = to say aloud for someone to write. Predict = to say before something happens (pre = before). Dictionary = a book of words and what they say (mean). Contradict = to say against (contra = against). Verdict = truly said (ver = truth) — what the jury says is true."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create vocabulary cards: For each of the three roots, make 4 index cards (12 total). On the front, write the word. On the back, write: the root and its meaning, the prefix and its meaning, a definition in your own words, and a sentence using the word. Then try to decode these challenge words using what you know about roots: inscription, transportation, dictator, portfolio, nondescript, unpredictable.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "You now have a tool for cracking open unfamiliar words. When you encounter a word you do not know, look for a root you recognize. We will learn new Latin and Greek roots every week this year, building a vocabulary toolkit that will serve you for life.",
+          "mastery_check": "Can the student define the roots port, scrib, and dict, give examples of words containing each, and use root knowledge to decode unfamiliar words?"
+        }
       ]
     },
     "parent_notes": "Latin and Greek roots are one of the most efficient ways to build vocabulary at this age. Research shows that root knowledge helps students decode approximately 60% of unfamiliar words they encounter. Make this a game: when your child encounters a new word in any subject, challenge them to find the root. Many everyday words become fascinating when you know their roots — 'manufacture' means 'make by hand,' 'aquarium' means 'place for water.' The vocabulary cards can be reviewed using spaced repetition — practice with them every few days.",
@@ -458,17 +1165,59 @@
     "instructions": "1. Review the relationship between multiplication and division.\n2. Demonstrate the long division algorithm step by step: divide, multiply, subtract, bring down.\n3. Practice with progressively larger dividends.\n4. Discuss remainders: what they mean and how to interpret them.\n5. Check division answers using multiplication.\n6. Solve word problems requiring interpretation of remainders.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Math journal", "Graph paper", "Pencils", "Base-ten materials (optional)"],
+    "materials_needed": [
+      "Math journal",
+      "Graph paper",
+      "Pencils",
+      "Base-ten materials (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Long Division Mastery", "subheading": "Dividing by 1-Digit Numbers"},
-        {"type": "materials", "items": ["Math journal", "Graph paper", "Pencils"], "setup_instructions": "Use graph paper for alignment. Write the mnemonic on the board: Divide, Multiply, Subtract, Bring down (Does McDonald's Sell Burgers?)."},
-        {"type": "instruction", "step": 1, "text": "Division is the inverse of multiplication. If 8 x 7 = 56, then 56 / 8 = 7 and 56 / 7 = 8. Long division is a systematic process for dividing larger numbers. The memory aid is: Divide, Multiply, Subtract, Bring down — repeat until done. Some people remember it as 'Does McDonald's Sell Burgers?'"},
-        {"type": "instruction", "step": 2, "text": "Example: 847 / 3. Step 1: Does 3 go into 8? Yes, 2 times (2x3=6). Write 2 above the 8. Subtract: 8-6=2. Step 2: Bring down the 4 to make 24. Does 3 go into 24? Yes, 8 times (8x3=24). Write 8 above the 4. Subtract: 24-24=0. Step 3: Bring down the 7. Does 3 go into 7? Yes, 2 times (2x3=6). Write 2 above the 7. Subtract: 7-6=1. Answer: 282 remainder 1."},
-        {"type": "instruction", "step": 3, "text": "Check your work: 282 x 3 = 846. Add the remainder: 846 + 1 = 847. It checks out! Always verify division by multiplying your answer by the divisor and adding the remainder. The result should equal the original dividend."},
-        {"type": "instruction", "step": 4, "text": "Remainders mean different things in different situations. Problem 1: 25 students need to ride in vans that hold 6 each. 25/6 = 4 R1. You need 5 vans (round up — you cannot leave someone behind). Problem 2: You have 25 stickers to share equally among 6 friends. 25/6 = 4 R1. Each person gets 4 stickers (the remainder is left over). Always think about what the remainder means in context."},
-        {"type": "activity", "prompt": "Complete in your math journal: (A) 5,436 / 4 (B) 7,829 / 6 (C) 9,015 / 7 (D) 12,456 / 8. Check each answer using multiplication. Then solve these word problems and explain what you do with the remainder: (1) A baker has 3,247 cookies to pack in boxes of 8. How many full boxes can she fill? How many cookies are left over? (2) A school needs to transport 1,456 students on buses that hold 55 each. How many buses are needed?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Long division follows a predictable pattern: divide, multiply, subtract, bring down. The challenge is doing each step carefully and interpreting the remainder correctly. Tomorrow we will continue with problem-solving that combines all four operations.", "mastery_check": "Can the student perform long division with 1-digit divisors, check answers using multiplication, and correctly interpret remainders in word problems?"}
+        {
+          "type": "title",
+          "heading": "Long Division Mastery",
+          "subheading": "Dividing by 1-Digit Numbers",
+          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math journal",
+            "Graph paper",
+            "Pencils"
+          ],
+          "setup_instructions": "Use graph paper for alignment. Write the mnemonic on the board: Divide, Multiply, Subtract, Bring down (Does McDonald's Sell Burgers?)."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Division is the inverse of multiplication. If 8 x 7 = 56, then 56 / 8 = 7 and 56 / 7 = 8. Long division is a systematic process for dividing larger numbers. The memory aid is: Divide, Multiply, Subtract, Bring down — repeat until done. Some people remember it as 'Does McDonald's Sell Burgers?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Example: 847 / 3. Step 1: Does 3 go into 8? Yes, 2 times (2x3=6). Write 2 above the 8. Subtract: 8-6=2. Step 2: Bring down the 4 to make 24. Does 3 go into 24? Yes, 8 times (8x3=24). Write 8 above the 4. Subtract: 24-24=0. Step 3: Bring down the 7. Does 3 go into 7? Yes, 2 times (2x3=6). Write 2 above the 7. Subtract: 7-6=1. Answer: 282 remainder 1."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Check your work: 282 x 3 = 846. Add the remainder: 846 + 1 = 847. It checks out! Always verify division by multiplying your answer by the divisor and adding the remainder. The result should equal the original dividend."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Remainders mean different things in different situations. Problem 1: 25 students need to ride in vans that hold 6 each. 25/6 = 4 R1. You need 5 vans (round up — you cannot leave someone behind). Problem 2: You have 25 stickers to share equally among 6 friends. 25/6 = 4 R1. Each person gets 4 stickers (the remainder is left over). Always think about what the remainder means in context."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete in your math journal: (A) 5,436 / 4 (B) 7,829 / 6 (C) 9,015 / 7 (D) 12,456 / 8. Check each answer using multiplication. Then solve these word problems and explain what you do with the remainder: (1) A baker has 3,247 cookies to pack in boxes of 8. How many full boxes can she fill? How many cookies are left over? (2) A school needs to transport 1,456 students on buses that hold 55 each. How many buses are needed?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Long division follows a predictable pattern: divide, multiply, subtract, bring down. The challenge is doing each step carefully and interpreting the remainder correctly. Tomorrow we will continue with problem-solving that combines all four operations.",
+          "mastery_check": "Can the student perform long division with 1-digit divisors, check answers using multiplication, and correctly interpret remainders in word problems?"
+        }
       ]
     },
     "parent_notes": "Long division is often considered the most challenging arithmetic algorithm. If your child struggles, try these approaches: (1) Use graph paper to keep digits aligned. (2) Practice the steps with smaller numbers first (2-digit dividends) before moving to larger ones. (3) Make sure multiplication facts are solid — division depends on knowing them. (4) The 'Does McDonald's Sell Burgers?' mnemonic helps many children remember the sequence. The remainder interpretation problems are important — in real life, math answers need context.",
@@ -486,17 +1235,59 @@
     "instructions": "1. Review the scientific method from the previous lesson.\n2. Define variable: anything that can change in an experiment.\n3. Introduce independent variable (what you change), dependent variable (what you measure), and controlled variables (what you keep the same).\n4. Identify variables in sample experiments.\n5. Discuss the concept of a control group.\n6. Students design their own experiment with clearly identified variables.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Science journal", "Pencils", "Experiment planning worksheet", "Sample experiment descriptions"],
+    "materials_needed": [
+      "Science journal",
+      "Pencils",
+      "Experiment planning worksheet",
+      "Sample experiment descriptions"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Designing Fair Experiments", "subheading": "Variables and Controls"},
-        {"type": "materials", "items": ["Science journal", "Pencils", "Experiment planning worksheet"], "setup_instructions": "Prepare descriptions of 3-4 simple experiments for practice identifying variables. Have the experiment planning worksheet ready with sections for each variable type."},
-        {"type": "instruction", "step": 1, "text": "Last time we learned to ask testable questions and form hypotheses. Today we learn to design experiments that actually test those hypotheses fairly. The key concept is variables — things that can change. A fair experiment changes only ONE thing at a time so you know what caused any differences you observe."},
-        {"type": "instruction", "step": 2, "text": "There are three types of variables. The INDEPENDENT variable is what YOU deliberately change — it is the thing you are testing. The DEPENDENT variable is what you MEASURE — it depends on what you changed. CONTROLLED variables are everything you keep the SAME so they do not affect your results. Memory trick: I change the Independent, I measure the Dependent, I control the Controlled."},
-        {"type": "instruction", "step": 3, "text": "Example: Does the amount of water affect how tall a bean plant grows? Independent variable: amount of water (you change this). Dependent variable: height of the plant (you measure this). Controlled variables: type of soil, amount of sunlight, type of bean, size of pot, temperature — all kept the same. If you changed the soil AND the water, you would not know which caused the difference."},
-        {"type": "instruction", "step": 4, "text": "A control group receives no treatment — it is your baseline for comparison. In the bean experiment, a control group plant gets a 'normal' amount of water. Your experimental groups get more or less than normal. Without a control group, you have nothing to compare your results to. Professional scientists always include a control group."},
-        {"type": "activity", "prompt": "Part 1: For each sample experiment, identify the independent variable, dependent variable, and at least 3 controlled variables: (a) Does the color of light affect plant growth? (b) Does the brand of paper towel affect how much water it absorbs? (c) Does music affect how fast you finish a math test? Part 2: Design your own experiment. Write a testable question, hypothesis, and list all variables (independent, dependent, controlled). Describe your control group. Draw a diagram of your experimental setup.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Identifying and controlling variables is what separates a real experiment from just trying something to see what happens. Every time you read about a scientific discovery, ask: What was the independent variable? What did they measure? What did they control? Next week we will actually conduct an experiment using these principles.", "mastery_check": "Can the student identify independent, dependent, and controlled variables in an experiment and explain the purpose of a control group?"}
+        {
+          "type": "title",
+          "heading": "Designing Fair Experiments",
+          "subheading": "Variables and Controls",
+          "image_url": "https://images.pexels.com/photos/7457518/pexels-photo-7457518.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Science journal",
+            "Pencils",
+            "Experiment planning worksheet"
+          ],
+          "setup_instructions": "Prepare descriptions of 3-4 simple experiments for practice identifying variables. Have the experiment planning worksheet ready with sections for each variable type."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Last time we learned to ask testable questions and form hypotheses. Today we learn to design experiments that actually test those hypotheses fairly. The key concept is variables — things that can change. A fair experiment changes only ONE thing at a time so you know what caused any differences you observe."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "There are three types of variables. The INDEPENDENT variable is what YOU deliberately change — it is the thing you are testing. The DEPENDENT variable is what you MEASURE — it depends on what you changed. CONTROLLED variables are everything you keep the SAME so they do not affect your results. Memory trick: I change the Independent, I measure the Dependent, I control the Controlled."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Example: Does the amount of water affect how tall a bean plant grows? Independent variable: amount of water (you change this). Dependent variable: height of the plant (you measure this). Controlled variables: type of soil, amount of sunlight, type of bean, size of pot, temperature — all kept the same. If you changed the soil AND the water, you would not know which caused the difference."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "A control group receives no treatment — it is your baseline for comparison. In the bean experiment, a control group plant gets a 'normal' amount of water. Your experimental groups get more or less than normal. Without a control group, you have nothing to compare your results to. Professional scientists always include a control group."
+        },
+        {
+          "type": "activity",
+          "prompt": "Part 1: For each sample experiment, identify the independent variable, dependent variable, and at least 3 controlled variables: (a) Does the color of light affect plant growth? (b) Does the brand of paper towel affect how much water it absorbs? (c) Does music affect how fast you finish a math test? Part 2: Design your own experiment. Write a testable question, hypothesis, and list all variables (independent, dependent, controlled). Describe your control group. Draw a diagram of your experimental setup.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Identifying and controlling variables is what separates a real experiment from just trying something to see what happens. Every time you read about a scientific discovery, ask: What was the independent variable? What did they measure? What did they control? Next week we will actually conduct an experiment using these principles.",
+          "mastery_check": "Can the student identify independent, dependent, and controlled variables in an experiment and explain the purpose of a control group?"
+        }
       ]
     },
     "parent_notes": "Understanding variables is a major cognitive leap for upper elementary students. The concept that you must change only one thing at a time to draw valid conclusions applies far beyond science — it is a critical thinking skill. Reinforce this at home with casual examples: 'If you change your bedtime AND your breakfast, and you feel more energetic, which change caused it?' When your child designs their experiment, help them think of controlled variables they might have missed. The most common student error is not controlling enough variables.",
@@ -514,17 +1305,63 @@
     "instructions": "1. Introduce the seven elements of art: line, shape, form, color, value, texture, space.\n2. Explore types of lines and their emotional qualities.\n3. Show how lines create shapes: geometric (circle, square, triangle) and organic (freeform).\n4. Examine how artists use line and shape in famous artworks.\n5. Create an abstract composition using only line and shape.\n6. Discuss how different lines and shapes create different moods.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Drawing paper (large)", "Black markers (thin and thick)", "Pencils", "Ruler", "Images of artworks emphasizing line and shape", "Colored pencils (optional)"],
+    "materials_needed": [
+      "Drawing paper (large)",
+      "Black markers (thin and thick)",
+      "Pencils",
+      "Ruler",
+      "Images of artworks emphasizing line and shape",
+      "Colored pencils (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Elements of Art", "subheading": "Line and Shape"},
-        {"type": "materials", "items": ["Large drawing paper", "Black markers (thin and thick)", "Pencils", "Ruler", "Art prints showing line and shape"], "setup_instructions": "Display 3-4 artworks that emphasize line and shape: a Kandinsky abstract, a Mondrian grid, a Matisse cut-out, and a Paul Klee drawing. Set out drawing materials."},
-        {"type": "instruction", "step": 1, "text": "Every piece of visual art is built from seven basic elements, just as every piece of music is built from melody, rhythm, and harmony. Today we explore the first two: line and shape. A line is a mark made by a moving point. It is the most basic element of art — and one of the most powerful."},
-        {"type": "instruction", "step": 2, "text": "Lines have character and emotion. Straight horizontal lines feel calm and restful (think of a horizon). Vertical lines feel strong and stable (think of a tree trunk). Diagonal lines feel dynamic and energetic (think of a lightning bolt). Curved lines feel graceful and flowing. Zigzag lines feel anxious or excited. Spiral lines feel hypnotic and organic."},
-        {"type": "instruction", "step": 3, "text": "When lines enclose a space, they create shapes. Geometric shapes are precise and mathematical: circles, squares, rectangles, triangles, hexagons. Organic shapes (also called freeform shapes) are irregular and found in nature: leaves, clouds, puddles, amoebas. Most artwork uses a combination of both types."},
-        {"type": "instruction", "step": 4, "text": "Look at the artworks on display. In Kandinsky's paintings, lines and shapes dance with energy. Mondrian uses only straight lines and geometric shapes to create order. Matisse's cut-outs use organic shapes that feel alive and joyful. Each artist uses line and shape differently to create a unique mood and message."},
-        {"type": "activity", "prompt": "Create an abstract composition using only line and shape — no recognizable objects. Divide your paper into 4 sections. In section 1, use only straight lines and geometric shapes to create a feeling of order or calm. In section 2, use only curved lines and organic shapes to create a feeling of movement or growth. In section 3, use zigzag and diagonal lines with sharp angular shapes to create energy or tension. In section 4, combine all line and shape types in a balanced design. Use markers of different thicknesses for variety.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Line and shape are the foundation of all visual art. Every drawing, painting, and sculpture begins with these elements. As you look at art and the world around you, notice the lines and shapes — are they geometric or organic? Straight or curved? What mood do they create? Next lesson we will explore color and value.", "mastery_check": "Can the student identify different types of lines and shapes, explain their emotional qualities, and use them intentionally in an abstract composition?"}
+        {
+          "type": "title",
+          "heading": "Elements of Art",
+          "subheading": "Line and Shape",
+          "image_url": "https://images.pexels.com/photos/8612991/pexels-photo-8612991.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large drawing paper",
+            "Black markers (thin and thick)",
+            "Pencils",
+            "Ruler",
+            "Art prints showing line and shape"
+          ],
+          "setup_instructions": "Display 3-4 artworks that emphasize line and shape: a Kandinsky abstract, a Mondrian grid, a Matisse cut-out, and a Paul Klee drawing. Set out drawing materials."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Every piece of visual art is built from seven basic elements, just as every piece of music is built from melody, rhythm, and harmony. Today we explore the first two: line and shape. A line is a mark made by a moving point. It is the most basic element of art — and one of the most powerful."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Lines have character and emotion. Straight horizontal lines feel calm and restful (think of a horizon). Vertical lines feel strong and stable (think of a tree trunk). Diagonal lines feel dynamic and energetic (think of a lightning bolt). Curved lines feel graceful and flowing. Zigzag lines feel anxious or excited. Spiral lines feel hypnotic and organic."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "When lines enclose a space, they create shapes. Geometric shapes are precise and mathematical: circles, squares, rectangles, triangles, hexagons. Organic shapes (also called freeform shapes) are irregular and found in nature: leaves, clouds, puddles, amoebas. Most artwork uses a combination of both types."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Look at the artworks on display. In Kandinsky's paintings, lines and shapes dance with energy. Mondrian uses only straight lines and geometric shapes to create order. Matisse's cut-outs use organic shapes that feel alive and joyful. Each artist uses line and shape differently to create a unique mood and message."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create an abstract composition using only line and shape — no recognizable objects. Divide your paper into 4 sections. In section 1, use only straight lines and geometric shapes to create a feeling of order or calm. In section 2, use only curved lines and organic shapes to create a feeling of movement or growth. In section 3, use zigzag and diagonal lines with sharp angular shapes to create energy or tension. In section 4, combine all line and shape types in a balanced design. Use markers of different thicknesses for variety.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Line and shape are the foundation of all visual art. Every drawing, painting, and sculpture begins with these elements. As you look at art and the world around you, notice the lines and shapes — are they geometric or organic? Straight or curved? What mood do they create? Next lesson we will explore color and value.",
+          "mastery_check": "Can the student identify different types of lines and shapes, explain their emotional qualities, and use them intentionally in an abstract composition?"
+        }
       ]
     },
     "parent_notes": "The elements of art are like the alphabet of visual language — once your child understands them, they can 'read' and 'write' art with much greater sophistication. The abstract composition removes the pressure of drawing recognizable things and lets children focus purely on the elements. Point out lines and shapes in your everyday environment: architecture, nature, fabric patterns, logos. If your child says 'I can't draw,' this lesson proves that art does not require drawing realistic objects — abstract art is a legitimate and powerful form of expression.",
@@ -542,17 +1379,59 @@
     "instructions": "1. Discuss how environment affects concentration and learning.\n2. Identify the characteristics of an effective study space: lighting, noise level, organization, supplies, comfort.\n3. Discuss common study distractions and strategies for managing them.\n4. Student evaluates their current study space using a checklist.\n5. Create an improvement plan with specific, actionable changes.\n6. Discuss the concept of study routines.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Notebook", "Pencils", "Study space evaluation checklist", "Camera or drawing supplies (to document current space)"],
+    "materials_needed": [
+      "Notebook",
+      "Pencils",
+      "Study space evaluation checklist",
+      "Camera or drawing supplies (to document current space)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Your Study Space", "subheading": "Creating an Environment for Success"},
-        {"type": "materials", "items": ["Notebook", "Pencils", "Study space evaluation checklist"], "setup_instructions": "Prepare a study space evaluation checklist with categories: lighting, noise, organization, supplies, comfort, and distractions. If possible, plan to visit the student's actual study area during the lesson."},
-        {"type": "instruction", "step": 1, "text": "Your environment has a powerful effect on how well you concentrate and learn. Research shows that the right study space can improve focus by up to 50 percent. Today we are going to examine what makes a study space effective and create a plan to optimize yours."},
-        {"type": "instruction", "step": 2, "text": "An effective study space has these qualities: (1) Good lighting — natural light is best, but a desk lamp works too. (2) Minimal noise — or consistent background noise like white noise. (3) Organized and clutter-free — visual clutter distracts your brain. (4) Supplies within reach — so you do not break concentration to find things. (5) Comfortable but not too comfortable — a chair at a desk beats a couch or bed."},
-        {"type": "instruction", "step": 3, "text": "The biggest study enemies are distractions. Digital distractions (phones, tablets, TV) are the worst — research shows that just having a phone visible reduces concentration, even if it is turned off. Other distractions include noise, interruptions from siblings, hunger, and clutter. For each distraction, you need a specific strategy: phone in another room, 'Do Not Disturb' sign, healthy snack before studying."},
-        {"type": "instruction", "step": 4, "text": "A study routine is as important as the space. When you study at the same time and place each day, your brain learns to switch into 'focus mode' automatically — like how you get sleepy at bedtime. Choose a consistent time, go to your study space, remove distractions, and begin. After 25-30 minutes, take a 5-minute break. This cycle (called the Pomodoro technique) maintains peak concentration."},
-        {"type": "activity", "prompt": "Evaluate your study space using the checklist. Rate each category from 1 (poor) to 5 (excellent): lighting, noise level, organization, supplies, comfort, freedom from distractions. Calculate your total score out of 30. Then create an improvement plan: for any category rated 3 or below, write 2 specific changes you can make this week. Finally, design your ideal study routine: what time, what space, what supplies, and what distraction strategies will you use? Draw or photograph your study space as it is now and sketch how you want it to look.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "You now have a plan for creating a study environment that supports your best work. Implement your changes this week and notice whether your concentration improves. Remember: small changes can make a big difference. The most important step is removing digital distractions during study time.", "mastery_check": "Can the student evaluate a study space for effectiveness, identify specific improvements, and describe the Pomodoro technique for maintaining focus?"}
+        {
+          "type": "title",
+          "heading": "Your Study Space",
+          "subheading": "Creating an Environment for Success",
+          "image_url": "https://images.pexels.com/photos/6636605/pexels-photo-6636605.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Notebook",
+            "Pencils",
+            "Study space evaluation checklist"
+          ],
+          "setup_instructions": "Prepare a study space evaluation checklist with categories: lighting, noise, organization, supplies, comfort, and distractions. If possible, plan to visit the student's actual study area during the lesson."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Your environment has a powerful effect on how well you concentrate and learn. Research shows that the right study space can improve focus by up to 50 percent. Today we are going to examine what makes a study space effective and create a plan to optimize yours."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "An effective study space has these qualities: (1) Good lighting — natural light is best, but a desk lamp works too. (2) Minimal noise — or consistent background noise like white noise. (3) Organized and clutter-free — visual clutter distracts your brain. (4) Supplies within reach — so you do not break concentration to find things. (5) Comfortable but not too comfortable — a chair at a desk beats a couch or bed."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The biggest study enemies are distractions. Digital distractions (phones, tablets, TV) are the worst — research shows that just having a phone visible reduces concentration, even if it is turned off. Other distractions include noise, interruptions from siblings, hunger, and clutter. For each distraction, you need a specific strategy: phone in another room, 'Do Not Disturb' sign, healthy snack before studying."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "A study routine is as important as the space. When you study at the same time and place each day, your brain learns to switch into 'focus mode' automatically — like how you get sleepy at bedtime. Choose a consistent time, go to your study space, remove distractions, and begin. After 25-30 minutes, take a 5-minute break. This cycle (called the Pomodoro technique) maintains peak concentration."
+        },
+        {
+          "type": "activity",
+          "prompt": "Evaluate your study space using the checklist. Rate each category from 1 (poor) to 5 (excellent): lighting, noise level, organization, supplies, comfort, freedom from distractions. Calculate your total score out of 30. Then create an improvement plan: for any category rated 3 or below, write 2 specific changes you can make this week. Finally, design your ideal study routine: what time, what space, what supplies, and what distraction strategies will you use? Draw or photograph your study space as it is now and sketch how you want it to look.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "You now have a plan for creating a study environment that supports your best work. Implement your changes this week and notice whether your concentration improves. Remember: small changes can make a big difference. The most important step is removing digital distractions during study time.",
+          "mastery_check": "Can the student evaluate a study space for effectiveness, identify specific improvements, and describe the Pomodoro technique for maintaining focus?"
+        }
       ]
     },
     "parent_notes": "Creating an effective study environment is one of the most impactful practical life skills for upper elementary students. Help your child implement their improvement plan — even small changes like better lighting or a desk organizer can make a noticeable difference. The Pomodoro technique (25 minutes work, 5 minutes break) is research-backed and works well for this age group. Be a partner in removing distractions: agree on where devices go during study time. Model good habits yourself — children who see parents reading or working without phone interruptions are more likely to do the same.",
@@ -570,17 +1449,60 @@
     "instructions": "1. Explain the purpose of an introduction: engage the reader, provide context, state the main idea.\n2. Introduce the three parts: hook, background, thesis statement.\n3. Explore types of hooks: question, surprising fact, quote, anecdote.\n4. Analyze 2-3 model introduction paragraphs.\n5. Student drafts an introduction paragraph for a chosen topic.\n6. Peer review or self-review using a checklist.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Writer's notebook", "Model introduction paragraphs (2-3 examples)", "Introduction checklist", "Pencils"],
+    "materials_needed": [
+      "Writer's notebook",
+      "Model introduction paragraphs (2-3 examples)",
+      "Introduction checklist",
+      "Pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Art of the Introduction", "subheading": "Hooks, Background, and Thesis Statements"},
-        {"type": "materials", "items": ["Writer's notebook", "Model introduction paragraphs", "Introduction checklist", "Pencils"], "setup_instructions": "Prepare 2-3 model introduction paragraphs from published essays or articles at an appropriate reading level. Create a simple checklist: hook present, background provided, thesis clear."},
-        {"type": "instruction", "step": 1, "text": "An introduction is your reader's first impression of your writing. It must do three things: grab attention (hook), provide context (background), and state your main point (thesis). Think of it as a funnel — starting broad and narrowing to your specific argument."},
-        {"type": "instruction", "step": 2, "text": "The hook is your first sentence or two. Its only job is to make the reader want to keep reading. Four powerful hook types: (1) A question: 'Have you ever wondered why the sky is blue?' (2) A surprising fact: 'Every minute, the world uses 1 million plastic bottles.' (3) A quote: 'Einstein once said, imagination is more important than knowledge.' (4) A short anecdote: 'When I was seven, I found a fossil in my backyard.'"},
-        {"type": "instruction", "step": 3, "text": "After the hook, provide 2-3 sentences of background information. This gives the reader the context they need to understand your thesis. If your essay is about protecting rainforests, your background might explain what rainforests are, where they are located, and why they are shrinking. Background builds a bridge between your hook and your thesis."},
-        {"type": "instruction", "step": 4, "text": "The thesis statement is the last sentence of your introduction. It tells the reader exactly what your essay will argue or explain. A strong thesis is specific and arguable: 'Rainforests should be protected because they contain unique species, regulate global climate, and provide medicines.' Weak thesis: 'Rainforests are important.' Strong thesis: specific reasons and a clear position."},
-        {"type": "activity", "prompt": "Choose a topic you are interested in (it can relate to any subject we are studying). Draft an introduction paragraph that includes: (1) A hook using one of the four types we discussed. (2) Two to three sentences of background information. (3) A clear, specific thesis statement as the final sentence. Then evaluate your introduction using the checklist. Rewrite any section that does not meet the criteria. Try writing two different hooks for the same topic to see which works better.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "A strong introduction sets up everything that follows in your essay. It tells the reader what to expect and makes them want to read more. Save your introduction — next week we will build body paragraphs to support your thesis. Every essay you write this year will follow this structure.", "mastery_check": "Can the student write an introduction paragraph with a hook, background information, and a clear thesis statement?"}
+        {
+          "type": "title",
+          "heading": "The Art of the Introduction",
+          "subheading": "Hooks, Background, and Thesis Statements",
+          "image_url": "https://images.pexels.com/photos/1275235/pexels-photo-1275235.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Writer's notebook",
+            "Model introduction paragraphs",
+            "Introduction checklist",
+            "Pencils"
+          ],
+          "setup_instructions": "Prepare 2-3 model introduction paragraphs from published essays or articles at an appropriate reading level. Create a simple checklist: hook present, background provided, thesis clear."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "An introduction is your reader's first impression of your writing. It must do three things: grab attention (hook), provide context (background), and state your main point (thesis). Think of it as a funnel — starting broad and narrowing to your specific argument."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The hook is your first sentence or two. Its only job is to make the reader want to keep reading. Four powerful hook types: (1) A question: 'Have you ever wondered why the sky is blue?' (2) A surprising fact: 'Every minute, the world uses 1 million plastic bottles.' (3) A quote: 'Einstein once said, imagination is more important than knowledge.' (4) A short anecdote: 'When I was seven, I found a fossil in my backyard.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After the hook, provide 2-3 sentences of background information. This gives the reader the context they need to understand your thesis. If your essay is about protecting rainforests, your background might explain what rainforests are, where they are located, and why they are shrinking. Background builds a bridge between your hook and your thesis."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "The thesis statement is the last sentence of your introduction. It tells the reader exactly what your essay will argue or explain. A strong thesis is specific and arguable: 'Rainforests should be protected because they contain unique species, regulate global climate, and provide medicines.' Weak thesis: 'Rainforests are important.' Strong thesis: specific reasons and a clear position."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose a topic you are interested in (it can relate to any subject we are studying). Draft an introduction paragraph that includes: (1) A hook using one of the four types we discussed. (2) Two to three sentences of background information. (3) A clear, specific thesis statement as the final sentence. Then evaluate your introduction using the checklist. Rewrite any section that does not meet the criteria. Try writing two different hooks for the same topic to see which works better.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "A strong introduction sets up everything that follows in your essay. It tells the reader what to expect and makes them want to read more. Save your introduction — next week we will build body paragraphs to support your thesis. Every essay you write this year will follow this structure.",
+          "mastery_check": "Can the student write an introduction paragraph with a hook, background information, and a clear thesis statement?"
+        }
       ]
     },
     "parent_notes": "The five-paragraph essay is the standard academic writing format for upper elementary and beyond. This lesson focuses just on the introduction — we will build the full essay over several weeks. Help your child understand that the thesis statement is like a promise to the reader: 'Here is what I will prove in this essay.' If your child struggles to narrow a topic, help them ask: 'What specific point do I want to make about this topic?' A thesis about 'dogs' is too broad; a thesis about 'why golden retrievers make the best family pets' is specific enough to write about.",
@@ -598,17 +1520,59 @@
     "instructions": "1. Introduce the 4-step problem-solving process: Understand, Plan, Solve, Check.\n2. Discuss key words that suggest each operation (but emphasize understanding over keyword hunting).\n3. Model solving a multi-step word problem using the 4-step process.\n4. Practice with problems of increasing complexity.\n5. Discuss multiple solution strategies for the same problem.\n6. Student creates their own multi-step word problem.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Math journal", "Pencils", "Graph paper", "Problem-solving process poster"],
+    "materials_needed": [
+      "Math journal",
+      "Pencils",
+      "Graph paper",
+      "Problem-solving process poster"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Putting It All Together", "subheading": "Multi-Step Problem Solving"},
-        {"type": "materials", "items": ["Math journal", "Pencils", "Graph paper"], "setup_instructions": "Display the 4-step problem-solving process: Understand, Plan, Solve, Check. Have several multi-step word problems prepared at varying difficulty levels."},
-        {"type": "instruction", "step": 1, "text": "Real math problems rarely require just one step. Today we combine all four operations — addition, subtraction, multiplication, and division — to solve problems that require multiple steps. The key is having a systematic approach so you do not get lost."},
-        {"type": "instruction", "step": 2, "text": "The 4-Step Process: (1) UNDERSTAND: Read the problem twice. What information is given? What are you asked to find? Draw a picture or diagram. (2) PLAN: Decide which operations to use and in what order. Write an expression or equation. (3) SOLVE: Calculate carefully, showing all work. (4) CHECK: Does your answer make sense? Is it reasonable? Can you verify it?"},
-        {"type": "instruction", "step": 3, "text": "Model problem: A school is planning a field trip. There are 234 students going. Each bus holds 45 students. Bus rental costs $350 per bus. The school also needs to buy lunch for each student at $8 per person. What is the total cost? Step 1: Find number of buses needed: 234 / 45 = 5 R9, so 6 buses. Step 2: Bus cost: 6 x $350 = $2,100. Step 3: Lunch cost: 234 x $8 = $1,872. Step 4: Total: $2,100 + $1,872 = $3,972."},
-        {"type": "instruction", "step": 4, "text": "Warning about keyword hunting: Many students look for words like 'total' (add), 'left' (subtract), 'each' (multiply or divide). Keywords can help, but they can also mislead. 'How many more' might mean subtract, but 'how many groups' means divide. Always understand the SITUATION first, then choose the operation that matches the situation, not just the keywords."},
-        {"type": "activity", "prompt": "Solve using the 4-step process (show all work): (1) Maria earns $12 per hour babysitting. She worked 8 hours on Saturday and 6 hours on Sunday. She wants to buy a bike that costs $250. How much more money does she need? (2) A farmer has 3 fields. The first produces 1,245 bushels of wheat, the second produces 987 bushels, and the third produces 1,456 bushels. He sells the wheat in bags of 25 bushels at $15 per bag. What is his total revenue? (3) Create your own 3-step word problem and solve it.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "This week we reviewed all four operations with large numbers. You have the computational tools — now the skill is knowing when and how to apply them. Every real-world math problem requires deciding what to do, not just how to calculate. Next week we dive deeper into multiplication and begin exploring factors and multiples.", "mastery_check": "Can the student solve multi-step word problems by identifying the correct operations, performing them in the right order, and verifying the reasonableness of their answer?"}
+        {
+          "type": "title",
+          "heading": "Putting It All Together",
+          "subheading": "Multi-Step Problem Solving",
+          "image_url": "https://images.pexels.com/photos/6693302/pexels-photo-6693302.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math journal",
+            "Pencils",
+            "Graph paper"
+          ],
+          "setup_instructions": "Display the 4-step problem-solving process: Understand, Plan, Solve, Check. Have several multi-step word problems prepared at varying difficulty levels."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Real math problems rarely require just one step. Today we combine all four operations — addition, subtraction, multiplication, and division — to solve problems that require multiple steps. The key is having a systematic approach so you do not get lost."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The 4-Step Process: (1) UNDERSTAND: Read the problem twice. What information is given? What are you asked to find? Draw a picture or diagram. (2) PLAN: Decide which operations to use and in what order. Write an expression or equation. (3) SOLVE: Calculate carefully, showing all work. (4) CHECK: Does your answer make sense? Is it reasonable? Can you verify it?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Model problem: A school is planning a field trip. There are 234 students going. Each bus holds 45 students. Bus rental costs $350 per bus. The school also needs to buy lunch for each student at $8 per person. What is the total cost? Step 1: Find number of buses needed: 234 / 45 = 5 R9, so 6 buses. Step 2: Bus cost: 6 x $350 = $2,100. Step 3: Lunch cost: 234 x $8 = $1,872. Step 4: Total: $2,100 + $1,872 = $3,972."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Warning about keyword hunting: Many students look for words like 'total' (add), 'left' (subtract), 'each' (multiply or divide). Keywords can help, but they can also mislead. 'How many more' might mean subtract, but 'how many groups' means divide. Always understand the SITUATION first, then choose the operation that matches the situation, not just the keywords."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve using the 4-step process (show all work): (1) Maria earns $12 per hour babysitting. She worked 8 hours on Saturday and 6 hours on Sunday. She wants to buy a bike that costs $250. How much more money does she need? (2) A farmer has 3 fields. The first produces 1,245 bushels of wheat, the second produces 987 bushels, and the third produces 1,456 bushels. He sells the wheat in bags of 25 bushels at $15 per bag. What is his total revenue? (3) Create your own 3-step word problem and solve it.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "This week we reviewed all four operations with large numbers. You have the computational tools — now the skill is knowing when and how to apply them. Every real-world math problem requires deciding what to do, not just how to calculate. Next week we dive deeper into multiplication and begin exploring factors and multiples.",
+          "mastery_check": "Can the student solve multi-step word problems by identifying the correct operations, performing them in the right order, and verifying the reasonableness of their answer?"
+        }
       ]
     },
     "parent_notes": "Multi-step word problems are where computation meets critical thinking. The biggest challenge for most students is not the arithmetic — it is figuring out what to do. Encourage your child to always draw a picture or diagram before calculating. If they get stuck, ask guiding questions: 'What do you know? What do you need to find? What could you calculate first?' Avoid telling them which operation to use — the struggle of figuring it out is where the learning happens. The problem-creation activity is powerful because composing a problem requires deeper understanding than solving one.",
@@ -626,17 +1590,61 @@
     "instructions": "1. Introduce Hammurabi of Babylon (ruled approximately 1792-1750 BCE).\n2. Read and discuss selected laws from the Code of Hammurabi.\n3. Compare Hammurabi's laws to modern laws — similarities and differences.\n4. Survey Mesopotamian inventions: the wheel, plow, sailboat, base-60 system.\n5. Discuss how these inventions affect our lives today.\n6. Student creates a 'Mesopotamian Achievements' poster or journal page.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["History journal", "Excerpts from the Code of Hammurabi (simplified)", "Images of Mesopotamian inventions", "Large paper for poster (optional)", "Colored pencils"],
+    "materials_needed": [
+      "History journal",
+      "Excerpts from the Code of Hammurabi (simplified)",
+      "Images of Mesopotamian inventions",
+      "Large paper for poster (optional)",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Gifts from Mesopotamia", "subheading": "Laws, Inventions, and Ideas That Changed the World"},
-        {"type": "materials", "items": ["History journal", "Code of Hammurabi excerpts", "Images of Mesopotamian inventions", "Colored pencils"], "setup_instructions": "Prepare simplified excerpts of 8-10 Hammurabi laws appropriate for this age group. Display images of the wheel, plow, cuneiform, and the Hammurabi stele."},
-        {"type": "instruction", "step": 1, "text": "Around 1792 BCE, a king named Hammurabi united the cities of Mesopotamia under Babylonian rule. His greatest legacy was not military conquest but a set of 282 laws carved into a stone pillar (stele) for all to see. This was revolutionary: for the first time, laws were written down and publicly displayed, so everyone knew the rules."},
-        {"type": "instruction", "step": 2, "text": "Some of Hammurabi's laws seem familiar: 'If a man steals property, he shall be put to death.' 'If a builder builds a house that collapses and kills the owner, the builder shall be put to death.' Others seem strange or harsh to us today. The laws reveal what Mesopotamians valued: property, fair trade, family, and craftsmanship. The punishments show that their idea of justice was 'an eye for an eye.'"},
-        {"type": "instruction", "step": 3, "text": "Compare Hammurabi's laws to ours: Both have laws about stealing, property damage, and fair business practices. But Hammurabi's laws treated different social classes differently — punishments for harming a noble were harsher than for harming a commoner. Our laws aim to treat everyone equally (at least in principle). Also, we no longer use 'an eye for an eye' — our justice system focuses on rehabilitation."},
-        {"type": "instruction", "step": 4, "text": "Mesopotamia gave us inventions we still use daily. The wheel (around 3500 BCE) — first used for pottery, then for transportation. The plow — transformed farming. The base-60 number system — this is why we have 60 seconds in a minute, 60 minutes in an hour, and 360 degrees in a circle. The sailboat. Irrigation canals. Astronomy — Mesopotamians mapped the stars and predicted eclipses."},
-        {"type": "activity", "prompt": "In your history journal, create a two-page spread: Page 1 — 'Hammurabi's Code': Read the simplified excerpts. Choose 3 laws you find most interesting. For each, write the law, explain what it tells us about Mesopotamian society, and compare it to a modern equivalent. Page 2 — 'Mesopotamian Inventions': Create an illustrated chart of at least 5 inventions. For each, draw it, describe it, and explain how we still use it or its descendants today. Circle the invention you think was most important and write a paragraph defending your choice.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "The Mesopotamians laid foundations that still support our world: written law, the wheel, our measurement of time, and the very concept of recording knowledge in writing. As we move to studying Egypt next, notice how each civilization built upon the ideas of those that came before.", "mastery_check": "Can the student describe the significance of Hammurabi's Code and identify at least four Mesopotamian inventions that still influence modern life?"}
+        {
+          "type": "title",
+          "heading": "Gifts from Mesopotamia",
+          "subheading": "Laws, Inventions, and Ideas That Changed the World",
+          "image_url": "https://images.pexels.com/photos/161858/pexels-photo-161858.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "History journal",
+            "Code of Hammurabi excerpts",
+            "Images of Mesopotamian inventions",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Prepare simplified excerpts of 8-10 Hammurabi laws appropriate for this age group. Display images of the wheel, plow, cuneiform, and the Hammurabi stele."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Around 1792 BCE, a king named Hammurabi united the cities of Mesopotamia under Babylonian rule. His greatest legacy was not military conquest but a set of 282 laws carved into a stone pillar (stele) for all to see. This was revolutionary: for the first time, laws were written down and publicly displayed, so everyone knew the rules."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Some of Hammurabi's laws seem familiar: 'If a man steals property, he shall be put to death.' 'If a builder builds a house that collapses and kills the owner, the builder shall be put to death.' Others seem strange or harsh to us today. The laws reveal what Mesopotamians valued: property, fair trade, family, and craftsmanship. The punishments show that their idea of justice was 'an eye for an eye.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Compare Hammurabi's laws to ours: Both have laws about stealing, property damage, and fair business practices. But Hammurabi's laws treated different social classes differently — punishments for harming a noble were harsher than for harming a commoner. Our laws aim to treat everyone equally (at least in principle). Also, we no longer use 'an eye for an eye' — our justice system focuses on rehabilitation."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Mesopotamia gave us inventions we still use daily. The wheel (around 3500 BCE) — first used for pottery, then for transportation. The plow — transformed farming. The base-60 number system — this is why we have 60 seconds in a minute, 60 minutes in an hour, and 360 degrees in a circle. The sailboat. Irrigation canals. Astronomy — Mesopotamians mapped the stars and predicted eclipses."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your history journal, create a two-page spread: Page 1 — 'Hammurabi's Code': Read the simplified excerpts. Choose 3 laws you find most interesting. For each, write the law, explain what it tells us about Mesopotamian society, and compare it to a modern equivalent. Page 2 — 'Mesopotamian Inventions': Create an illustrated chart of at least 5 inventions. For each, draw it, describe it, and explain how we still use it or its descendants today. Circle the invention you think was most important and write a paragraph defending your choice.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Mesopotamians laid foundations that still support our world: written law, the wheel, our measurement of time, and the very concept of recording knowledge in writing. As we move to studying Egypt next, notice how each civilization built upon the ideas of those that came before.",
+          "mastery_check": "Can the student describe the significance of Hammurabi's Code and identify at least four Mesopotamian inventions that still influence modern life?"
+        }
       ]
     },
     "parent_notes": "The Code of Hammurabi provides a wonderful opportunity to discuss justice, fairness, and how societies create rules. Children this age have a strong sense of fairness, and comparing ancient and modern law codes sparks rich discussion. Ask your child: 'Do you think Hammurabi's laws were fair? What would you change?' The inventions section connects to math (base-60 system), science (astronomy), and practical life (the wheel, agriculture). Help your child see that the things we take for granted — measuring time, writing things down, using wheels — were all invented by someone, somewhere, for the first time.",
@@ -654,17 +1662,65 @@
     "instructions": "1. Review the role of observation in the scientific method.\n2. Define qualitative observations (descriptive) vs. quantitative observations (measurable).\n3. Practice making both types of observations with sample objects.\n4. Introduce proper data recording: tables, labels, units.\n5. Discuss the importance of precise, objective language.\n6. Student conducts an observation exercise and records data.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Science journal", "Pencils", "Ruler", "Thermometer", "Scale or balance", "5-6 observation objects (rock, leaf, shell, fruit, etc.)", "Magnifying glass"],
+    "materials_needed": [
+      "Science journal",
+      "Pencils",
+      "Ruler",
+      "Thermometer",
+      "Scale or balance",
+      "5-6 observation objects (rock, leaf, shell, fruit, etc.)",
+      "Magnifying glass"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Power of Observation", "subheading": "Qualitative and Quantitative Data"},
-        {"type": "materials", "items": ["Science journal", "Ruler", "Thermometer", "Scale", "Observation objects", "Magnifying glass"], "setup_instructions": "Set up a station with 5-6 objects to observe: a rock, a leaf, a shell, a piece of fruit, a cup of water, and a small toy or tool. Have measuring tools available: ruler, thermometer, scale."},
-        {"type": "instruction", "step": 1, "text": "All science begins with observation — carefully noticing the world around you. But not all observations are the same. Scientists distinguish between two types of data. Understanding this distinction will make you a much better scientist."},
-        {"type": "instruction", "step": 2, "text": "Qualitative observations describe qualities using your senses and words: 'The rock is rough and gray with white specks.' 'The water smells like chlorine.' 'The leaf has jagged edges.' Quantitative observations describe quantities using numbers and units: 'The rock weighs 45 grams.' 'The water temperature is 22 degrees Celsius.' 'The leaf is 8.5 centimeters long.'"},
-        {"type": "instruction", "step": 3, "text": "Quantitative data is usually more useful in experiments because it is precise and can be compared mathematically. 'Plant A is taller than Plant B' (qualitative) is less useful than 'Plant A is 15.2 cm and Plant B is 11.8 cm' (quantitative). But qualitative data captures things numbers cannot: color, texture, smell, shape. Good scientists collect both types."},
-        {"type": "instruction", "step": 4, "text": "Recording data properly is crucial. Use tables with clear labels and units. Avoid vague language: instead of 'the rock is heavy,' write 'the rock weighs 156 grams.' Instead of 'the water is warm,' write 'the water temperature is 35 degrees Celsius.' Be objective — describe what IS, not what you think or feel about it. 'The flower is red' is objective. 'The flower is beautiful' is subjective."},
-        {"type": "activity", "prompt": "In your science journal, create a data table with columns: Object, Qualitative Observations (at least 3 per object), and Quantitative Observations (at least 2 per object). Observe each of the 5-6 objects at your station. Use the magnifying glass for detailed qualitative observations. Use the ruler, thermometer, and scale for quantitative measurements. Include units for all measurements. Then answer: Which type of observation was easier? Which gave you more useful information? Which object was most interesting to observe, and why?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Careful observation is the foundation of all science. Qualitative observations describe what you notice with your senses. Quantitative observations measure with numbers and units. The best scientists use both. Practice observing carefully this week — you will be amazed at what you notice when you really look.", "mastery_check": "Can the student make detailed qualitative and quantitative observations, record them in an organized data table, and explain the difference between the two types?"}
+        {
+          "type": "title",
+          "heading": "The Power of Observation",
+          "subheading": "Qualitative and Quantitative Data",
+          "image_url": "https://images.pexels.com/photos/8924160/pexels-photo-8924160.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Science journal",
+            "Ruler",
+            "Thermometer",
+            "Scale",
+            "Observation objects",
+            "Magnifying glass"
+          ],
+          "setup_instructions": "Set up a station with 5-6 objects to observe: a rock, a leaf, a shell, a piece of fruit, a cup of water, and a small toy or tool. Have measuring tools available: ruler, thermometer, scale."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "All science begins with observation — carefully noticing the world around you. But not all observations are the same. Scientists distinguish between two types of data. Understanding this distinction will make you a much better scientist."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Qualitative observations describe qualities using your senses and words: 'The rock is rough and gray with white specks.' 'The water smells like chlorine.' 'The leaf has jagged edges.' Quantitative observations describe quantities using numbers and units: 'The rock weighs 45 grams.' 'The water temperature is 22 degrees Celsius.' 'The leaf is 8.5 centimeters long.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Quantitative data is usually more useful in experiments because it is precise and can be compared mathematically. 'Plant A is taller than Plant B' (qualitative) is less useful than 'Plant A is 15.2 cm and Plant B is 11.8 cm' (quantitative). But qualitative data captures things numbers cannot: color, texture, smell, shape. Good scientists collect both types."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Recording data properly is crucial. Use tables with clear labels and units. Avoid vague language: instead of 'the rock is heavy,' write 'the rock weighs 156 grams.' Instead of 'the water is warm,' write 'the water temperature is 35 degrees Celsius.' Be objective — describe what IS, not what you think or feel about it. 'The flower is red' is objective. 'The flower is beautiful' is subjective."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your science journal, create a data table with columns: Object, Qualitative Observations (at least 3 per object), and Quantitative Observations (at least 2 per object). Observe each of the 5-6 objects at your station. Use the magnifying glass for detailed qualitative observations. Use the ruler, thermometer, and scale for quantitative measurements. Include units for all measurements. Then answer: Which type of observation was easier? Which gave you more useful information? Which object was most interesting to observe, and why?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Careful observation is the foundation of all science. Qualitative observations describe what you notice with your senses. Quantitative observations measure with numbers and units. The best scientists use both. Practice observing carefully this week — you will be amazed at what you notice when you really look.",
+          "mastery_check": "Can the student make detailed qualitative and quantitative observations, record them in an organized data table, and explain the difference between the two types?"
+        }
       ]
     },
     "parent_notes": "Observation skills transfer across all subjects and into daily life. Encourage your child to make observations throughout the day — at dinner, on a walk, while cooking. The key distinction between qualitative and quantitative is words vs. numbers. A common student error is including opinions in observations ('the rock is cool-looking') — gently redirect to objective descriptions ('the rock has a smooth surface with gray and white bands'). Having real measuring tools available is important — the practice of actually measuring, rather than guessing, builds scientific rigor.",
@@ -682,17 +1738,61 @@
     "instructions": "1. Discuss the origins of music — rhythm likely came before melody.\n2. Explore ancient percussion instruments: frame drums, djembe, sistrum.\n3. Listen to examples of ancient-style drumming.\n4. Learn basic rhythm concepts: beat, tempo, meter, pattern.\n5. Practice body percussion patterns (clapping, stomping, snapping).\n6. Create and perform a group rhythmic composition.",
     "duration_minutes": 60,
     "lesson_type": "collaborative",
-    "materials_needed": ["Images of ancient instruments", "Drum or bucket drum", "Rhythm sticks or wooden spoons", "Audio recordings of traditional drumming", "Found objects for percussion (pots, boxes, containers)"],
+    "materials_needed": [
+      "Images of ancient instruments",
+      "Drum or bucket drum",
+      "Rhythm sticks or wooden spoons",
+      "Audio recordings of traditional drumming",
+      "Found objects for percussion (pots, boxes, containers)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Ancient Rhythms", "subheading": "The World's Oldest Music"},
-        {"type": "materials", "items": ["Images of ancient instruments", "Drum or bucket drum", "Rhythm sticks or wooden spoons", "Found objects for percussion"], "setup_instructions": "Set up a percussion station with available drums, wooden spoons, pots, containers, and any other objects that make interesting sounds when struck. Queue up audio recordings of traditional drumming."},
-        {"type": "instruction", "step": 1, "text": "Music is one of the oldest human activities — older than farming, older than cities, possibly older than language. The earliest music was almost certainly percussion: clapping hands, stomping feet, striking objects. Rhythm is built into our bodies — our heartbeat is a drum, our walking is a rhythm, our breathing follows a pattern."},
-        {"type": "instruction", "step": 2, "text": "Ancient Mesopotamians played frame drums — flat, circular drums held in one hand and struck with the other. The Egyptians used the sistrum, a metal rattle sacred to the goddess Hathor. In West Africa, the djembe drum (carved from a single piece of wood with goatskin head) has been played for over 800 years, and its ancestors go back much further. Every culture developed percussion instruments."},
-        {"type": "instruction", "step": 3, "text": "Rhythm has four key concepts. Beat: the steady pulse (like a heartbeat). Tempo: how fast or slow the beat goes. Meter: how beats are grouped (in 2s, 3s, or 4s). Pattern: a specific sequence of sounds and silences. Listen to this drumming — can you find the beat? Can you feel the meter?"},
-        {"type": "instruction", "step": 4, "text": "Body percussion uses your body as the instrument: clap hands, snap fingers, pat thighs, stomp feet. Each makes a different sound. Let us learn a simple pattern: stomp-stomp-clap, stomp-stomp-clap, stomp-clap-stomp-clap-stomp-stomp-clap. This is a pattern in 4/4 meter. Once you can do it steadily, try changing the tempo — faster and slower."},
-        {"type": "activity", "prompt": "Create your own rhythmic composition. Step 1: Choose 3-4 sounds (body percussion, drum, found objects). Step 2: Create a 4-beat pattern using those sounds. Step 3: Create a second 4-beat pattern that contrasts with the first. Step 4: Arrange your patterns into a composition: Pattern A (repeat 4 times), Pattern B (repeat 4 times), Pattern A (repeat 4 times). This is ABA form — the most basic musical structure. Practice until you can perform it smoothly. If working with others, layer different patterns on top of each other.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Rhythm connects us to the earliest humans who ever made music. When you drum or clap a pattern, you are participating in a tradition that is tens of thousands of years old. Music will accompany our study of ancient civilizations throughout the year — every culture we study had its own rich musical traditions.", "mastery_check": "Can the student identify basic rhythm concepts (beat, tempo, meter, pattern), name ancient percussion instruments, and create a simple rhythmic composition in ABA form?"}
+        {
+          "type": "title",
+          "heading": "Ancient Rhythms",
+          "subheading": "The World's Oldest Music",
+          "image_url": "https://images.pexels.com/photos/8382222/pexels-photo-8382222.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Images of ancient instruments",
+            "Drum or bucket drum",
+            "Rhythm sticks or wooden spoons",
+            "Found objects for percussion"
+          ],
+          "setup_instructions": "Set up a percussion station with available drums, wooden spoons, pots, containers, and any other objects that make interesting sounds when struck. Queue up audio recordings of traditional drumming."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Music is one of the oldest human activities — older than farming, older than cities, possibly older than language. The earliest music was almost certainly percussion: clapping hands, stomping feet, striking objects. Rhythm is built into our bodies — our heartbeat is a drum, our walking is a rhythm, our breathing follows a pattern."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Ancient Mesopotamians played frame drums — flat, circular drums held in one hand and struck with the other. The Egyptians used the sistrum, a metal rattle sacred to the goddess Hathor. In West Africa, the djembe drum (carved from a single piece of wood with goatskin head) has been played for over 800 years, and its ancestors go back much further. Every culture developed percussion instruments."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Rhythm has four key concepts. Beat: the steady pulse (like a heartbeat). Tempo: how fast or slow the beat goes. Meter: how beats are grouped (in 2s, 3s, or 4s). Pattern: a specific sequence of sounds and silences. Listen to this drumming — can you find the beat? Can you feel the meter?"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Body percussion uses your body as the instrument: clap hands, snap fingers, pat thighs, stomp feet. Each makes a different sound. Let us learn a simple pattern: stomp-stomp-clap, stomp-stomp-clap, stomp-clap-stomp-clap-stomp-stomp-clap. This is a pattern in 4/4 meter. Once you can do it steadily, try changing the tempo — faster and slower."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own rhythmic composition. Step 1: Choose 3-4 sounds (body percussion, drum, found objects). Step 2: Create a 4-beat pattern using those sounds. Step 3: Create a second 4-beat pattern that contrasts with the first. Step 4: Arrange your patterns into a composition: Pattern A (repeat 4 times), Pattern B (repeat 4 times), Pattern A (repeat 4 times). This is ABA form — the most basic musical structure. Practice until you can perform it smoothly. If working with others, layer different patterns on top of each other.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Rhythm connects us to the earliest humans who ever made music. When you drum or clap a pattern, you are participating in a tradition that is tens of thousands of years old. Music will accompany our study of ancient civilizations throughout the year — every culture we study had its own rich musical traditions.",
+          "mastery_check": "Can the student identify basic rhythm concepts (beat, tempo, meter, pattern), name ancient percussion instruments, and create a simple rhythmic composition in ABA form?"
+        }
       ]
     },
     "parent_notes": "This lesson connects music to history, making both subjects richer. Children who are kinesthetic learners especially thrive with percussion activities. If possible, listen to recordings of traditional drumming from various cultures — YouTube has excellent examples of djembe ensembles, Japanese taiko, and Middle Eastern frame drumming. The ABA form (also called ternary form) appears in nearly all music from pop songs to symphonies. When listening to music in the car, challenge your child to identify the ABA structure. If your child is interested in drumming, a simple djembe or bongo set is an excellent investment.",

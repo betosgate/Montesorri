@@ -10,17 +10,58 @@
     "instructions": "1. 'Our home is a shared space. We take care of it together. Today you'll learn to SWEEP!'\n2. Present the child-sized broom and dustpan.\n3. Define a small area to sweep (a section of floor, about 4x4 feet).\n4. Demonstrate: hold the broom with both hands, one near the top and one in the middle.\n5. Short, smooth strokes pulling TOWARD you. 'Sweep everything into the center.'\n6. Demonstrate using the dustpan: hold it flat on the floor, sweep debris onto it.\n7. Child practices sweeping the area. Dispose of debris in the trash.\n8. 'Whenever you see something on the floor, you know what to do!'",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Child-sized broom", "Child-sized dustpan", "Small debris to practice sweeping (torn paper bits or cracker crumbs)"],
+    "materials_needed": [
+      "Child-sized broom",
+      "Child-sized dustpan",
+      "Small debris to practice sweeping (torn paper bits or cracker crumbs)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Care of Environment", "subheading": "Sweeping"},
-        {"type": "materials", "items": ["Child-sized broom", "Child-sized dustpan", "Small debris for practice"], "setup_instructions": "Scatter a small amount of torn paper bits on a section of floor. Have broom and dustpan ready."},
-        {"type": "instruction", "step": 1, "text": "'We take care of our home! When the floor is dirty, we can SWEEP it clean. Let me show you.'"},
-        {"type": "instruction", "step": 2, "text": "Hold the broom: 'Both hands — one near the top, one in the middle. Short, smooth strokes toward you.'"},
-        {"type": "instruction", "step": 3, "text": "'Sweep everything into the CENTER of the area. Make a little pile.' Demonstrate slow, deliberate strokes."},
-        {"type": "instruction", "step": 4, "text": "'Now the dustpan: hold it flat on the floor. Sweep the pile right onto it. Lift carefully and put in the trash!'"},
-        {"type": "activity", "prompt": "Sweep the whole area. Get every little piece into the dustpan! When you're done, check: is the floor completely clean?", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'You cleaned the floor all by yourself! This is a job you can do anytime our floor needs help.'", "mastery_check": "Can the child sweep debris into a pile and transfer it to a dustpan without scattering it?"}
+        {
+          "type": "title",
+          "heading": "Care of Environment",
+          "subheading": "Sweeping",
+          "image_url": "https://images.pexels.com/photos/269220/pexels-photo-269220.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Child-sized broom",
+            "Child-sized dustpan",
+            "Small debris for practice"
+          ],
+          "setup_instructions": "Scatter a small amount of torn paper bits on a section of floor. Have broom and dustpan ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'We take care of our home! When the floor is dirty, we can SWEEP it clean. Let me show you.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Hold the broom: 'Both hands — one near the top, one in the middle. Short, smooth strokes toward you.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Sweep everything into the CENTER of the area. Make a little pile.' Demonstrate slow, deliberate strokes."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Now the dustpan: hold it flat on the floor. Sweep the pile right onto it. Lift carefully and put in the trash!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Sweep the whole area. Get every little piece into the dustpan! When you're done, check: is the floor completely clean?",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You cleaned the floor all by yourself! This is a job you can do anytime our floor needs help.'",
+          "mastery_check": "Can the child sweep debris into a pile and transfer it to a dustpan without scattering it?"
+        }
       ]
     },
     "parent_notes": "Care of the environment is a fundamental Montessori practical life category. Sweeping teaches the child that maintaining shared spaces is everyone's responsibility, not just the adults'. Use a real child-sized broom (not a toy) — the child can tell the difference and takes real tools seriously. The key skill is the sweeping direction: always TOWARD the body, always into a central pile. Most children initially sweep in all directions, scattering debris. Patient demonstration helps. Once learned, sweeping becomes a daily routine the child can do independently, building self-discipline and contribution to family life.",
@@ -38,17 +79,61 @@
     "instructions": "1. Lay out ALL learned sandpaper letters: s, m, a, t, p, r, i, o, n, g, l, h, d, b (and sh phonogram).\n2. 'Let's see how many sounds you know! I'll point to a letter — you tell me its sound.'\n3. Go through each letter. Note any that need review.\n4. Reverse: 'I'll say a sound — you find the letter!' /m/... /g/... /sh/...\n5. Speed round: lay out 6 letters. Child traces and says each as fast as they can (accuracy over speed).\n6. Word building challenge: 'Build as many words as you can in 5 minutes!' Child works independently.\n7. Count the words together. Celebrate the total!",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["All learned sandpaper letters", "Sandpaper phonogram 'sh'", "Moveable alphabet", "Timer (optional)", "Paper for recording words"],
+    "materials_needed": [
+      "All learned sandpaper letters",
+      "Sandpaper phonogram 'sh'",
+      "Moveable alphabet",
+      "Timer (optional)",
+      "Paper for recording words"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Sound Review", "subheading": "All Your Letter Sounds"},
-        {"type": "materials", "items": ["All sandpaper letters", "Phonogram sh", "Moveable alphabet", "Timer"], "setup_instructions": "Spread all learned letters on the mat. Have moveable alphabet ready for word building."},
-        {"type": "instruction", "step": 1, "text": "'Look at all the letters you've learned! Let's review every one.' Point to each — child says the sound."},
-        {"type": "instruction", "step": 2, "text": "Reverse: 'Find the letter that says /p/!' Child picks it up. '/sh/!' Child finds the phonogram."},
-        {"type": "instruction", "step": 3, "text": "Note any letters the child hesitates on. 'Let's trace this one three more times to make it stick.'"},
-        {"type": "instruction", "step": 4, "text": "'Now the fun part — build as many WORDS as you can! Use any letters you know.'"},
-        {"type": "activity", "prompt": "Word building challenge! Build as many words as you can in 5 minutes. Each word gets a tally mark. How many can you make?", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'You know so many sounds and can build so many words! You've made incredible progress this quarter!'", "mastery_check": "Can the child identify at least 12 of the 15 letter sounds without hesitation?"}
+        {
+          "type": "title",
+          "heading": "Q1 Sound Review",
+          "subheading": "All Your Letter Sounds",
+          "image_url": "https://images.pexels.com/photos/247819/pexels-photo-247819.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "All sandpaper letters",
+            "Phonogram sh",
+            "Moveable alphabet",
+            "Timer"
+          ],
+          "setup_instructions": "Spread all learned letters on the mat. Have moveable alphabet ready for word building."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Look at all the letters you've learned! Let's review every one.' Point to each — child says the sound."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Reverse: 'Find the letter that says /p/!' Child picks it up. '/sh/!' Child finds the phonogram."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Note any letters the child hesitates on. 'Let's trace this one three more times to make it stick.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Now the fun part — build as many WORDS as you can! Use any letters you know.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Word building challenge! Build as many words as you can in 5 minutes. Each word gets a tally mark. How many can you make?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You know so many sounds and can build so many words! You've made incredible progress this quarter!'",
+          "mastery_check": "Can the child identify at least 12 of the 15 letter sounds without hesitation?"
+        }
       ]
     },
     "parent_notes": "This review lesson gives you a clear picture of where the child stands at the end of Q1. Note which letters are automatic (immediate recognition) and which still require effort. Letters that need effort should be revisited daily until they become automatic. The word building challenge is both assessment and celebration — the child sees how many words they can now create from the sounds they've learned. A typical Q1 child might build 10-20 words in 5 minutes. Record this number; you'll compare it at the end of Q2 to show growth.",
@@ -66,17 +151,60 @@
     "instructions": "1. Lay out all number rods in stair formation (1-10).\n2. 'Point to each rod and count.' Child counts segments: 1, 2, 3... up to 10.\n3. Random: 'Hand me the rod that shows 7.' 'Which rod shows 4?'\n4. Match sandpaper numerals to rods: child places the correct numeral beside each rod.\n5. Counting objects: give the child 10 small objects. 'Count out exactly 6.' Then 8. Then 3.\n6. Zero: 'Count out zero objects.' (Nothing!) 'Zero means none.'\n7. Addition preview: 'What's 3 and 2?' Child combines rods. 'Five!'",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Number Rods 1-10", "Sandpaper numerals 0-10", "10 small counting objects", "Mat"],
+    "materials_needed": [
+      "Number Rods 1-10",
+      "Sandpaper numerals 0-10",
+      "10 small counting objects",
+      "Mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Math Review", "subheading": "Numbers, Counting, and Rods"},
-        {"type": "materials", "items": ["Number Rods 1-10", "Sandpaper numerals 0-10", "Counting objects", "Mat"], "setup_instructions": "Set up rods in stair formation. Have numerals and counting objects ready."},
-        {"type": "instruction", "step": 1, "text": "'Let's visit all our number friends! Count the rods: 1, 2, 3... all the way to 10.'"},
-        {"type": "instruction", "step": 2, "text": "Random requests: 'Show me 7!' 'Hand me 4!' Child selects the correct rod each time."},
-        {"type": "instruction", "step": 3, "text": "'Now match the NUMBERS to the rods.' Child places sandpaper numerals beside the correct rods."},
-        {"type": "instruction", "step": 4, "text": "'Count out exactly 6 objects.' Child counts carefully, one by one. Repeat with different quantities."},
-        {"type": "activity", "prompt": "Match all numerals to rods. Count out 5 different quantities I request. Then show me: what's 4 and 1?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You know your numbers from 0 to 10 inside and out! You can count, match, and even add. What a mathematician!'", "mastery_check": "Can the child count to 10, match numerals to quantities, and count out specific amounts accurately?"}
+        {
+          "type": "title",
+          "heading": "Q1 Math Review",
+          "subheading": "Numbers, Counting, and Rods",
+          "image_url": "https://images.pexels.com/photos/6692923/pexels-photo-6692923.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Number Rods 1-10",
+            "Sandpaper numerals 0-10",
+            "Counting objects",
+            "Mat"
+          ],
+          "setup_instructions": "Set up rods in stair formation. Have numerals and counting objects ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Let's visit all our number friends! Count the rods: 1, 2, 3... all the way to 10.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Random requests: 'Show me 7!' 'Hand me 4!' Child selects the correct rod each time."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Now match the NUMBERS to the rods.' Child places sandpaper numerals beside the correct rods."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Count out exactly 6 objects.' Child counts carefully, one by one. Repeat with different quantities."
+        },
+        {
+          "type": "activity",
+          "prompt": "Match all numerals to rods. Count out 5 different quantities I request. Then show me: what's 4 and 1?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You know your numbers from 0 to 10 inside and out! You can count, match, and even add. What a mathematician!'",
+          "mastery_check": "Can the child count to 10, match numerals to quantities, and count out specific amounts accurately?"
+        }
       ]
     },
     "parent_notes": "This review assesses the foundational skills that everything in Q2 builds upon: counting with meaning (not just reciting), numeral recognition, one-to-one correspondence (counting objects accurately), and the concept of zero. A child who can do all of these confidently is ready for Q2. If you notice gaps — for example, the child consistently miscounts objects by skipping or double-counting — spend extra time on that specific skill before moving forward. In Montessori, mastery matters more than pace.",
@@ -94,17 +222,61 @@
     "instructions": "1. Start with the globe. 'Can you name all seven continents?' Child points to each.\n2. Review colors: North America (orange), South America (pink), Europe (red), Asia (yellow), Africa (green), Australia (brown/orange), Antarctica (white).\n3. Open the Continent Book: review each page the child has created.\n4. Land/water forms: 'What's an island? A peninsula? An isthmus?' Use the miniature models or globe.\n5. 'What's your favorite continent? Why?'\n6. Globe game: 'I'm thinking of a continent that has the biggest desert...' (Africa!) Child finds it.\n7. Add a final page to the Continent Book: draw the whole world with all 7 continents labeled.",
     "duration_minutes": 25,
     "lesson_type": "guided",
-    "materials_needed": ["Globe", "World puzzle map", "Continent Book", "Land/water form models or cards", "Colored pencils"],
+    "materials_needed": [
+      "Globe",
+      "World puzzle map",
+      "Continent Book",
+      "Land/water form models or cards",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Geography Review", "subheading": "Our Amazing World"},
-        {"type": "materials", "items": ["Globe", "World puzzle map", "Continent Book", "Colored pencils"], "setup_instructions": "Have the globe, puzzle map, and the child's Continent Book all available."},
-        {"type": "instruction", "step": 1, "text": "'Spin the globe! Can you name all seven continents? Point to each one as you say it.'"},
-        {"type": "instruction", "step": 2, "text": "Review land forms: 'What's an island? Show me on the globe.' 'What's a peninsula?' Child explains."},
-        {"type": "instruction", "step": 3, "text": "Open the Continent Book: 'Look at all you've learned! Tell me one thing about each continent.'"},
-        {"type": "instruction", "step": 4, "text": "Clue game: 'This continent has kangaroos!' (Australia!) 'This continent is covered in ice!' (Antarctica!)"},
-        {"type": "activity", "prompt": "Draw a world map showing all 7 continents. Color each one. Label them if you can! Add this to your Continent Book.", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'You know so much about our world! Seven continents, land and water forms, animals, and landmarks. Amazing!'", "mastery_check": "Can the child name and locate all 7 continents and define at least 2 land/water forms?"}
+        {
+          "type": "title",
+          "heading": "Q1 Geography Review",
+          "subheading": "Our Amazing World",
+          "image_url": "https://images.pexels.com/photos/8828458/pexels-photo-8828458.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Globe",
+            "World puzzle map",
+            "Continent Book",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Have the globe, puzzle map, and the child's Continent Book all available."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Spin the globe! Can you name all seven continents? Point to each one as you say it.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Review land forms: 'What's an island? Show me on the globe.' 'What's a peninsula?' Child explains."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Open the Continent Book: 'Look at all you've learned! Tell me one thing about each continent.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Clue game: 'This continent has kangaroos!' (Australia!) 'This continent is covered in ice!' (Antarctica!)"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw a world map showing all 7 continents. Color each one. Label them if you can! Add this to your Continent Book.",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You know so much about our world! Seven continents, land and water forms, animals, and landmarks. Amazing!'",
+          "mastery_check": "Can the child name and locate all 7 continents and define at least 2 land/water forms?"
+        }
       ]
     },
     "parent_notes": "This review reveals how much geographic knowledge the child has absorbed in just 8 weeks. Most children can name and locate at least 5-6 continents confidently by this point. The Continent Book is a wonderful artifact of learning — flip through it together and admire the child's work. The clue game (describing a continent and having the child guess) is both fun and revealing of what facts have stuck. If the child struggles with a continent, revisit it casually over the coming week rather than drilling. Geographic knowledge builds best through repeated, joyful exposure.",
@@ -122,16 +294,49 @@
     "instructions": "1. Show the cover. 'Mr. and Mrs. Mallard are ducks looking for a safe place to raise their family.'\n2. Read the story. Point out the lovely sepia-toned illustrations.\n3. Name the ducklings together: Jack, Kack, Lack, Mack, Nack, Ouack, Pack, Quack.\n4. The exciting part: the ducklings walk through Boston traffic! 'Michael the policeman stopped all the cars!'\n5. After reading: 'Why did Mrs. Mallard want a safe place? What makes a good home?'\n6. Count the ducklings: 'How many babies did Mr. and Mrs. Mallard have?' (8!)\n7. Connection: 'Just like Mrs. Mallard, YOUR parents want a safe, wonderful place for you.'",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Make Way for Ducklings by Robert McCloskey"],
+    "materials_needed": [
+      "Make Way for Ducklings by Robert McCloskey"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "Make Way for Ducklings by Robert McCloskey"},
-        {"type": "materials", "items": ["Make Way for Ducklings book"], "setup_instructions": "Sit comfortably. This longer book may take 15 minutes to read."},
-        {"type": "instruction", "step": 1, "text": "Cover: 'The Mallards are looking for a home. They need somewhere SAFE for their babies.'"},
-        {"type": "instruction", "step": 2, "text": "Read with expression. When the ducklings hatch: 'Let's learn all their names: Jack, Kack, Lack, Mack...'"},
-        {"type": "instruction", "step": 3, "text": "The traffic scene: 'Mrs. Mallard marched right into the street! Michael the policeman stopped all the cars!'"},
-        {"type": "activity", "prompt": "Can you remember all eight ducklings' names? Count them! Why did the whole city help the ducks cross the road?", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "'The Mallards found the perfect home. Everyone in the city helped because they cared about the little family.'", "mastery_check": "Can the child retell the main events and explain why the Mallards needed a safe home?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "Make Way for Ducklings by Robert McCloskey",
+          "image_url": "https://images.pexels.com/photos/8500306/pexels-photo-8500306.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Make Way for Ducklings book"
+          ],
+          "setup_instructions": "Sit comfortably. This longer book may take 15 minutes to read."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Cover: 'The Mallards are looking for a home. They need somewhere SAFE for their babies.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read with expression. When the ducklings hatch: 'Let's learn all their names: Jack, Kack, Lack, Mack...'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The traffic scene: 'Mrs. Mallard marched right into the street! Michael the policeman stopped all the cars!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Can you remember all eight ducklings' names? Count them! Why did the whole city help the ducks cross the road?",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "'The Mallards found the perfect home. Everyone in the city helped because they cared about the little family.'",
+          "mastery_check": "Can the child retell the main events and explain why the Mallards needed a safe home?"
+        }
       ]
     },
     "parent_notes": "This 1941 Caldecott Medal winner is a longer read-aloud that builds listening stamina. The eight duckling names follow a rhyming pattern (Jack, Kack, Lack...) that delights children and builds phonemic awareness. The story's themes — parents protecting children, community helping families, finding a safe home — resonate deeply. If you live near a park with ducks, a follow-up nature walk to observe real duck families would be wonderful. The book also teaches about maps and navigation in an age-appropriate way. In Boston, there are actual bronze duck statues in the Public Garden!",
@@ -149,17 +354,58 @@
     "instructions": "1. Build the Pink Tower: largest cube at the bottom, smallest at the top. Child works from memory.\n2. Build the Brown Stair: thickest prism on the left, thinnest on the right.\n3. 'Now let's do something NEW — combine them!' Demonstrate: the width of each brown prism matches a pink cube.\n4. Match: place the 10cm brown prism next to the 10cm pink cube. Continue matching.\n5. Creative building: 'Can you make a wall? A city? A pattern using both materials?'\n6. Extensions: build the pink tower on top of the brown stair. Alternate cubes and prisms.\n7. Discuss: 'What's the same about these two materials? What's different?'",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Pink Tower (10 cubes)", "Brown Stair (10 prisms)", "Large floor mat"],
+    "materials_needed": [
+      "Pink Tower (10 cubes)",
+      "Brown Stair (10 prisms)",
+      "Large floor mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Sensorial Review", "subheading": "Pink Tower Meets Brown Stair"},
-        {"type": "materials", "items": ["Pink Tower", "Brown Stair", "Large mat"], "setup_instructions": "Clear a large workspace. Both materials need to be fully available."},
-        {"type": "instruction", "step": 1, "text": "'Build the Pink Tower — you know how! Biggest at the bottom, smallest at the top.'"},
-        {"type": "instruction", "step": 2, "text": "'Now build the Brown Stair — thickest on the left, thinnest on the right.'"},
-        {"type": "instruction", "step": 3, "text": "'Here's something cool: the brown prisms and pink cubes are RELATED! This prism is the same width as this cube!'"},
-        {"type": "instruction", "step": 4, "text": "'Match each brown prism to the pink cube that's the same size. See? They go together!'"},
-        {"type": "activity", "prompt": "Now create! Build something amazing using BOTH the Pink Tower and Brown Stair together. A city? A bridge? A pattern?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'The Pink Tower and Brown Stair are connected — they share the same sizes! You discovered their secret relationship.'", "mastery_check": "Can the child build both materials independently and match corresponding pieces?"}
+        {
+          "type": "title",
+          "heading": "Sensorial Review",
+          "subheading": "Pink Tower Meets Brown Stair",
+          "image_url": "https://images.pexels.com/photos/3933025/pexels-photo-3933025.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pink Tower",
+            "Brown Stair",
+            "Large mat"
+          ],
+          "setup_instructions": "Clear a large workspace. Both materials need to be fully available."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Build the Pink Tower — you know how! Biggest at the bottom, smallest at the top.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Now build the Brown Stair — thickest on the left, thinnest on the right.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Here's something cool: the brown prisms and pink cubes are RELATED! This prism is the same width as this cube!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Match each brown prism to the pink cube that's the same size. See? They go together!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Now create! Build something amazing using BOTH the Pink Tower and Brown Stair together. A city? A bridge? A pattern?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'The Pink Tower and Brown Stair are connected — they share the same sizes! You discovered their secret relationship.'",
+          "mastery_check": "Can the child build both materials independently and match corresponding pieces?"
+        }
       ]
     },
     "parent_notes": "Combining materials is an advanced Montessori extension that reveals deep mathematical relationships. The Pink Tower cubes and Brown Stair prisms share a common dimension: the width of each brown prism matches one face of a corresponding pink cube. This isn't something you need to explain — the child discovers it through matching. Creative building with both materials develops spatial reasoning, balance, and aesthetic sense. If the child's tower or stair is imperfect, resist correcting — they'll notice the error when it doesn't look right and self-correct. This combination work marks the child's growing mastery.",
@@ -177,17 +423,59 @@
     "instructions": "1. 'Today is a special day — you're going to show me everything you can read!'\n2. Word list 1 (known CVC words): cat, dog, sit, hop, pin, rug, map, log. Child reads aloud.\n3. Word list 2 (new CVC words not previously practiced): bun, fig, cob, gap, hid, jot. Can the child decode new words?\n4. Sentence strips: 'A dog sat on a log.' 'Tom got a big hat.' 'The cat hid in a bag.'\n5. Listen for: accurate decoding, self-correction, and blending fluency.\n6. Record which words and sentences were read correctly.\n7. Celebrate: 'Look how much you can read! Let's count all the words you read today!'",
     "duration_minutes": 25,
     "lesson_type": "guided",
-    "materials_needed": ["Prepared word lists (known and new CVC words)", "Sentence strips", "Recording sheet for parent", "Pencil"],
+    "materials_needed": [
+      "Prepared word lists (known and new CVC words)",
+      "Sentence strips",
+      "Recording sheet for parent",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Reading Celebration", "subheading": "Show What You Know!"},
-        {"type": "materials", "items": ["Word lists", "Sentence strips", "Recording sheet"], "setup_instructions": "Prepare word lists and sentences in advance. Make this feel like a celebration, not a test."},
-        {"type": "instruction", "step": 1, "text": "'You've learned so much! Today I want to see all the words you can read. This is going to be fun!'"},
-        {"type": "instruction", "step": 2, "text": "Show word list 1 (familiar words). Child reads each aloud. Celebrate each success."},
-        {"type": "instruction", "step": 3, "text": "Show word list 2 (new words). 'You haven't seen these before. Sound them out!' Note which strategies the child uses."},
-        {"type": "instruction", "step": 4, "text": "Sentence strips: 'Now try these sentences!' Child reads each one. Discuss what each sentence means."},
-        {"type": "activity", "prompt": "Read through both word lists and all the sentences. Take your time — sound out any tricky words. I'll keep count!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You read [X] words and [X] sentences today! That's incredible progress. You are officially a READER!'", "mastery_check": "Can the child read at least 75% of known CVC words and decode at least 3 new CVC words?"}
+        {
+          "type": "title",
+          "heading": "Reading Celebration",
+          "subheading": "Show What You Know!",
+          "image_url": "https://images.pexels.com/photos/8613089/pexels-photo-8613089.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Word lists",
+            "Sentence strips",
+            "Recording sheet"
+          ],
+          "setup_instructions": "Prepare word lists and sentences in advance. Make this feel like a celebration, not a test."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'You've learned so much! Today I want to see all the words you can read. This is going to be fun!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show word list 1 (familiar words). Child reads each aloud. Celebrate each success."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show word list 2 (new words). 'You haven't seen these before. Sound them out!' Note which strategies the child uses."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Sentence strips: 'Now try these sentences!' Child reads each one. Discuss what each sentence means."
+        },
+        {
+          "type": "activity",
+          "prompt": "Read through both word lists and all the sentences. Take your time — sound out any tricky words. I'll keep count!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You read [X] words and [X] sentences today! That's incredible progress. You are officially a READER!'",
+          "mastery_check": "Can the child read at least 75% of known CVC words and decode at least 3 new CVC words?"
+        }
       ]
     },
     "parent_notes": "Frame this as a 'reading celebration,' not a test. The child should feel proud, not anxious. What you're actually assessing: (1) Can the child read previously practiced words? (2) Can the child decode NEW words using known sounds? The second question is crucial — it shows whether the child has internalized the phonetic principle (letters make sounds, sounds blend into words) or has merely memorized specific words. Record the results to compare with the Q2 assessment. Most children at this stage can read 15-25 CVC words and simple sentences. Whatever the number, celebrate it genuinely.",
@@ -205,17 +493,60 @@
     "instructions": "1. Present the Spindle Box. Child fills compartments 0-9 with correct quantities.\n2. Pay attention to zero: 'What goes in the zero compartment?' (Nothing!)\n3. Check: does the child count accurately? Bundle with rubber bands.\n4. Switch to Cards and Counters: child lays out numeral cards 1-10 in order.\n5. Place counters in pairs below each numeral.\n6. 'Which numbers have a leftover counter? Which ones are all paired up?'\n7. Review vocabulary: 'Numbers where every counter has a partner are EVEN. Numbers with one left over are ODD.'\n8. Name all evens: 2, 4, 6, 8, 10. All odds: 1, 3, 5, 7, 9.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Spindle Box with spindles", "Rubber bands", "Cards and Counters (numeral cards 1-10 and 55 counters)", "Mat"],
+    "materials_needed": [
+      "Spindle Box with spindles",
+      "Rubber bands",
+      "Cards and Counters (numeral cards 1-10 and 55 counters)",
+      "Mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Math Review", "subheading": "Spindle Box and Cards and Counters"},
-        {"type": "materials", "items": ["Spindle Box", "Spindles and rubber bands", "Cards and Counters", "Mat"], "setup_instructions": "Set up both materials. Start with the Spindle Box."},
-        {"type": "instruction", "step": 1, "text": "'Fill the Spindle Box! How many spindles go in the 0 compartment? The 1? The 2?' Child works through 0-9."},
-        {"type": "instruction", "step": 2, "text": "Check each compartment together. 'Did you get the right amount in each one? Let's count!'"},
-        {"type": "instruction", "step": 3, "text": "Cards and Counters: 'Lay out the numbers 1 to 10. Now place counters in PAIRS below each card.'"},
-        {"type": "instruction", "step": 4, "text": "'Look! Some numbers have all partners. Some have one left over. Which are which?'"},
-        {"type": "activity", "prompt": "Complete both activities. Then tell me: which numbers are even (all paired)? Which are odd (one left over)?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You know your numbers perfectly — counting, zero, odd, even. Your math brain is growing strong!'", "mastery_check": "Can the child accurately fill the Spindle Box and identify odd and even numbers with Cards and Counters?"}
+        {
+          "type": "title",
+          "heading": "Q1 Math Review",
+          "subheading": "Spindle Box and Cards and Counters",
+          "image_url": "https://images.pexels.com/photos/6692940/pexels-photo-6692940.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Spindle Box",
+            "Spindles and rubber bands",
+            "Cards and Counters",
+            "Mat"
+          ],
+          "setup_instructions": "Set up both materials. Start with the Spindle Box."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Fill the Spindle Box! How many spindles go in the 0 compartment? The 1? The 2?' Child works through 0-9."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Check each compartment together. 'Did you get the right amount in each one? Let's count!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Cards and Counters: 'Lay out the numbers 1 to 10. Now place counters in PAIRS below each card.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Look! Some numbers have all partners. Some have one left over. Which are which?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete both activities. Then tell me: which numbers are even (all paired)? Which are odd (one left over)?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You know your numbers perfectly — counting, zero, odd, even. Your math brain is growing strong!'",
+          "mastery_check": "Can the child accurately fill the Spindle Box and identify odd and even numbers with Cards and Counters?"
+        }
       ]
     },
     "parent_notes": "These two materials assess different but complementary skills. The Spindle Box tests counting and one-to-one correspondence (can the child count out exactly the right number of spindles?). Cards and Counters tests numeral recognition AND the odd/even concept. Watch for counting errors: children who skip numbers or double-count need more practice with smaller quantities first. The zero compartment is important — it should remain empty, and the child should be able to explain why. If odd/even is still unclear, that's fine — it will be revisited throughout Q2.",
@@ -233,17 +564,62 @@
     "instructions": "1. Check the bean plant! 'Look how it's grown since we planted it! Draw today's observation in your journal.'\n2. 'What does our plant need to stay alive?' (Water, sunlight, air) 'That's because it's LIVING!'\n3. Review living vs. non-living: child sorts 6-8 picture cards into living and non-living.\n4. Review sink/float: 'Remember our experiment? What sinks? What floats? Why?'\n5. Review magnets: 'What do magnets attract? What happens when you put two magnets together?'\n6. Review states of matter: 'Name something solid, something liquid, something gas.'\n7. Science journal: draw or write one thing learned from each science topic this quarter.",
     "duration_minutes": 25,
     "lesson_type": "guided",
-    "materials_needed": ["Bean plant (from Week 7)", "Plant journal", "Living/non-living picture cards", "Science journal", "Pencil and crayons"],
+    "materials_needed": [
+      "Bean plant (from Week 7)",
+      "Plant journal",
+      "Living/non-living picture cards",
+      "Science journal",
+      "Pencil and crayons"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Science Review", "subheading": "Everything We Discovered"},
-        {"type": "materials", "items": ["Bean plant", "Plant journal", "Picture cards", "Science journal", "Crayons"], "setup_instructions": "Gather the bean plant and all science journals. Prepare living/non-living picture cards."},
-        {"type": "instruction", "step": 1, "text": "'Let's check our bean plant! How has it changed?' Child draws today's observation in the plant journal."},
-        {"type": "instruction", "step": 2, "text": "Sort picture cards: 'Is a rock living or non-living? A flower? A cloud? A fish?' Child explains reasoning."},
-        {"type": "instruction", "step": 3, "text": "'What did we learn about magnets?' Child explains attract/repel. 'What about sink and float?'"},
-        {"type": "instruction", "step": 4, "text": "'Name the three states of matter.' Child says solid, liquid, gas. 'Give an example of each!'"},
-        {"type": "activity", "prompt": "In your science journal, draw one picture for each topic: living things, magnets, sink/float, states of matter. Label each one!", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'You're a real scientist! You observe, experiment, and explain. Keep asking questions about the world!'", "mastery_check": "Can the child explain at least 3 of the 4 science topics reviewed with reasonable accuracy?"}
+        {
+          "type": "title",
+          "heading": "Q1 Science Review",
+          "subheading": "Everything We Discovered",
+          "image_url": "https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Bean plant",
+            "Plant journal",
+            "Picture cards",
+            "Science journal",
+            "Crayons"
+          ],
+          "setup_instructions": "Gather the bean plant and all science journals. Prepare living/non-living picture cards."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Let's check our bean plant! How has it changed?' Child draws today's observation in the plant journal."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Sort picture cards: 'Is a rock living or non-living? A flower? A cloud? A fish?' Child explains reasoning."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'What did we learn about magnets?' Child explains attract/repel. 'What about sink and float?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Name the three states of matter.' Child says solid, liquid, gas. 'Give an example of each!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your science journal, draw one picture for each topic: living things, magnets, sink/float, states of matter. Label each one!",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You're a real scientist! You observe, experiment, and explain. Keep asking questions about the world!'",
+          "mastery_check": "Can the child explain at least 3 of the 4 science topics reviewed with reasonable accuracy?"
+        }
       ]
     },
     "parent_notes": "This review isn't about perfect recall — it's about seeing which concepts have truly taken root. Children often surprise us by remembering vivid details from experiments (the magnet snapping to the refrigerator, the penny sinking) while forgetting vocabulary. That's normal and good — the experience matters more than the terminology at this age. The bean plant journal is a living document of scientific observation, and seeing the plant's growth over 2+ weeks makes the concept of 'living things' very real. Continue the plant journal into Q2.",
@@ -261,17 +637,70 @@
     "instructions": "1. 'Today you'll make a portrait of YOURSELF using all the art techniques we've learned!'\n2. Start with a pencil drawing of the face and body on large paper.\n3. Paint the background using watercolors (wet-on-wet for a dreamy effect).\n4. Use crayons or pastels for the face and details.\n5. Add collage elements: cut paper for clothing, yarn for hair.\n6. Mix colors to match skin tone and eye color as closely as possible.\n7. Display the finished portrait proudly. 'This shows YOU and your art skills!'",
     "duration_minutes": 30,
     "lesson_type": "independent",
-    "materials_needed": ["Large paper", "Pencil", "Watercolor paints", "Crayons or pastels", "Colored paper for collage", "Scissors", "Glue", "Yarn (optional for hair)", "Brushes and water cup", "Mirror"],
+    "materials_needed": [
+      "Large paper",
+      "Pencil",
+      "Watercolor paints",
+      "Crayons or pastels",
+      "Colored paper for collage",
+      "Scissors",
+      "Glue",
+      "Yarn (optional for hair)",
+      "Brushes and water cup",
+      "Mirror"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Art Celebration", "subheading": "Mixed Media Self-Portrait"},
-        {"type": "materials", "items": ["Large paper", "Pencil", "Watercolors", "Crayons", "Collage paper", "Scissors", "Glue", "Mirror"], "setup_instructions": "Set up all materials. Place a mirror where the child can see themselves. Protect the workspace."},
-        {"type": "instruction", "step": 1, "text": "'Look in the mirror! Today you're going to make a picture of YOU using ALL the art tools we've learned.'"},
-        {"type": "instruction", "step": 2, "text": "'Start with pencil: draw your face shape, eyes, nose, mouth. Look in the mirror to see the details!'"},
-        {"type": "instruction", "step": 3, "text": "'Paint the background with watercolors. Remember wet-on-wet? Make it colorful!'"},
-        {"type": "instruction", "step": 4, "text": "'Add color to your face with crayons. Cut paper for your clothes. Glue on yarn for hair if you'd like!'"},
-        {"type": "activity", "prompt": "Create your self-portrait! Use at least 3 different materials: paint, crayons, AND collage. Take your time and make it beautiful.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "'This portrait shows YOU — made with your own hands using so many techniques. You are a true artist!'", "mastery_check": "Does the portrait demonstrate use of multiple media and attention to self-observation?"}
+        {
+          "type": "title",
+          "heading": "Q1 Art Celebration",
+          "subheading": "Mixed Media Self-Portrait",
+          "image_url": "https://images.pexels.com/photos/164743/pexels-photo-164743.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large paper",
+            "Pencil",
+            "Watercolors",
+            "Crayons",
+            "Collage paper",
+            "Scissors",
+            "Glue",
+            "Mirror"
+          ],
+          "setup_instructions": "Set up all materials. Place a mirror where the child can see themselves. Protect the workspace."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Look in the mirror! Today you're going to make a picture of YOU using ALL the art tools we've learned.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Start with pencil: draw your face shape, eyes, nose, mouth. Look in the mirror to see the details!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Paint the background with watercolors. Remember wet-on-wet? Make it colorful!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Add color to your face with crayons. Cut paper for your clothes. Glue on yarn for hair if you'd like!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your self-portrait! Use at least 3 different materials: paint, crayons, AND collage. Take your time and make it beautiful.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "'This portrait shows YOU — made with your own hands using so many techniques. You are a true artist!'",
+          "mastery_check": "Does the portrait demonstrate use of multiple media and attention to self-observation?"
+        }
       ]
     },
     "parent_notes": "A self-portrait is a classic art assessment because it reveals both technical skill and self-awareness. At this age, expect symbolic rather than realistic drawing — a circle head, stick body, big eyes. That's developmentally perfect. What matters is whether the child can use multiple media (paint, crayon, collage) and make conscious choices about color and detail. The mirror is essential: looking at their own features builds observation skills and self-awareness. Display this portrait somewhere prominent. It becomes a treasured keepsake and a benchmark for comparison later in the year.",
@@ -289,16 +718,54 @@
     "instructions": "1. 'After we eat or do art, the table needs cleaning. I'll show you how!'\n2. Materials: sponge, spray bottle with water (or bucket with soapy water), dry cloth.\n3. Demonstrate: spray the table surface lightly (or wring the sponge and wipe).\n4. Wipe in organized strokes: start at the top left, wipe across to the right, move down, wipe across.\n5. 'We go in rows — just like reading! Top to bottom, left to right.'\n6. After wet wiping, dry with the cloth using the same pattern.\n7. Child practices on their own table or section.\n8. Check by running a hand across: 'Is it dry? Is it clean? Are there any sticky spots?'",
     "duration_minutes": 15,
     "lesson_type": "guided",
-    "materials_needed": ["Sponge", "Spray bottle with water or small bucket with soapy water", "Dry towel or cloth", "Table to clean"],
+    "materials_needed": [
+      "Sponge",
+      "Spray bottle with water or small bucket with soapy water",
+      "Dry towel or cloth",
+      "Table to clean"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Care of Environment", "subheading": "Wiping a Table"},
-        {"type": "materials", "items": ["Sponge", "Spray bottle or bucket", "Dry cloth"], "setup_instructions": "Lightly dirty the table (a few crumbs or drops of water) so there's something visible to clean."},
-        {"type": "instruction", "step": 1, "text": "'A clean table is a happy table! First, spray a little water.' (Or wring the sponge so it's damp, not dripping.)"},
-        {"type": "instruction", "step": 2, "text": "'Wipe in ROWS: start at the top, go across, move down a little, go across again. Like reading!'"},
-        {"type": "instruction", "step": 3, "text": "'Now dry it with the cloth. Same pattern: rows from top to bottom.' Feel with your hand: 'Is it dry?'"},
-        {"type": "activity", "prompt": "Clean the table yourself! Spray, wipe in rows, then dry. Check with your hand — is every part clean and dry?", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "'You can clean your own table now! After every meal and art time, you know exactly what to do.'", "mastery_check": "Can the child wipe a table systematically (in rows) and verify it's clean and dry?"}
+        {
+          "type": "title",
+          "heading": "Care of Environment",
+          "subheading": "Wiping a Table",
+          "image_url": "https://images.pexels.com/photos/4099467/pexels-photo-4099467.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sponge",
+            "Spray bottle or bucket",
+            "Dry cloth"
+          ],
+          "setup_instructions": "Lightly dirty the table (a few crumbs or drops of water) so there's something visible to clean."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'A clean table is a happy table! First, spray a little water.' (Or wring the sponge so it's damp, not dripping.)"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Wipe in ROWS: start at the top, go across, move down a little, go across again. Like reading!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Now dry it with the cloth. Same pattern: rows from top to bottom.' Feel with your hand: 'Is it dry?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Clean the table yourself! Spray, wipe in rows, then dry. Check with your hand — is every part clean and dry?",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You can clean your own table now! After every meal and art time, you know exactly what to do.'",
+          "mastery_check": "Can the child wipe a table systematically (in rows) and verify it's clean and dry?"
+        }
       ]
     },
     "parent_notes": "Table wiping seems simple, but the Montessori approach teaches it with deliberate precision: organized rows, left to right, top to bottom. This pattern mirrors the reading direction and builds the same left-to-right tracking that reading requires. Children who learn to clean systematically also develop thoroughness — a habit that transfers to academic work. The spray bottle itself is good for hand strength. After this lesson, the child should be expected to wipe their own place at the table after every meal. This isn't a chore; it's a contribution and a source of pride.",
@@ -316,17 +783,60 @@
     "instructions": "1. Sand tray: child writes each known letter in sand while saying the sound.\n2. Go through all letters: s, m, a, t, p, r, i, o, n, g, l, h, d, b.\n3. 'Now let's try on paper!' Provide lined paper with dotted midline.\n4. Demonstrate: write each letter slowly, narrating the strokes.\n5. Child traces dotted letters, then writes independently.\n6. Don't correct letter formation harshly — focus on the sounds: 'What sound does that letter make?'\n7. Write their name.\n8. Extension: write 2-3 CVC words on paper.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Sand tray", "Lined paper with dotted midline", "Pencil (triangular grip preferred)", "Sandpaper letters for reference"],
+    "materials_needed": [
+      "Sand tray",
+      "Lined paper with dotted midline",
+      "Pencil (triangular grip preferred)",
+      "Sandpaper letters for reference"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Writing Practice", "subheading": "From Sand to Paper"},
-        {"type": "materials", "items": ["Sand tray", "Lined paper", "Pencil", "Sandpaper letters for reference"], "setup_instructions": "Smooth the sand tray. Have lined paper and a well-sharpened pencil ready."},
-        {"type": "instruction", "step": 1, "text": "'Write each letter in the sand. Say its sound as you write it.' Child goes through all known letters."},
-        {"type": "instruction", "step": 2, "text": "'Now the exciting part — writing on PAPER with a pencil!' Show how to hold the pencil with three fingers."},
-        {"type": "instruction", "step": 3, "text": "Demonstrate: write the letter 's' slowly. 'Start at the top, curve around...' Child tries below."},
-        {"type": "instruction", "step": 4, "text": "'Write as many letters as you can. If you forget how one looks, check the sandpaper letter!'"},
-        {"type": "activity", "prompt": "Write all the letters you know on paper. Then write your name! If you can, write 2 CVC words: cat, dog, sun.", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You can WRITE! First in sand, now on paper. Writing lets you share your thoughts with the world!'", "mastery_check": "Can the child write at least 10 recognizable letters and attempt their name?"}
+        {
+          "type": "title",
+          "heading": "Writing Practice",
+          "subheading": "From Sand to Paper",
+          "image_url": "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sand tray",
+            "Lined paper",
+            "Pencil",
+            "Sandpaper letters for reference"
+          ],
+          "setup_instructions": "Smooth the sand tray. Have lined paper and a well-sharpened pencil ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Write each letter in the sand. Say its sound as you write it.' Child goes through all known letters."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Now the exciting part — writing on PAPER with a pencil!' Show how to hold the pencil with three fingers."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Demonstrate: write the letter 's' slowly. 'Start at the top, curve around...' Child tries below."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Write as many letters as you can. If you forget how one looks, check the sandpaper letter!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write all the letters you know on paper. Then write your name! If you can, write 2 CVC words: cat, dog, sun.",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You can WRITE! First in sand, now on paper. Writing lets you share your thoughts with the world!'",
+          "mastery_check": "Can the child write at least 10 recognizable letters and attempt their name?"
+        }
       ]
     },
     "parent_notes": "In Montessori, reading and writing develop together, but writing actually often comes first because the child has been tracing sandpaper letters (a writing activity) since the beginning. The transition from sand to paper is significant. Use triangular pencils or pencil grips to encourage the proper three-finger (tripod) grip. Lined paper with a dotted midline helps with letter sizing. Do NOT expect perfection — reversed letters, inconsistent sizes, and wobbly lines are all completely normal. What matters is that the child connects the sound to the written symbol. Praise effort and sound knowledge over penmanship.",
@@ -344,17 +854,62 @@
     "instructions": "1. Teen board: 'Make these numbers: 13, 17, 11, 19, 15.' Child forms each.\n2. 'What does 15 mean?' (One ten and five ones.) Build with beads to verify.\n3. Ten board: 'Count by tens: 10, 20, 30...' Child forms each number.\n4. 'What comes between 20 and 40?' (30!) 'Between 50 and 70?' (60!)\n5. Hundred board: fill in just the first row (1-10) and the tens column (10, 20, 30... 100).\n6. 'What number is at row 3, column 5?' (35 — not expected to know this; just exploration.)\n7. Final challenge: 'Count from 1 to 100!' Child counts aloud, using the hundred board if needed.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Teen Board", "Ten Board", "Hundred Board with tiles", "Bead bars and unit beads", "Mat"],
+    "materials_needed": [
+      "Teen Board",
+      "Ten Board",
+      "Hundred Board with tiles",
+      "Bead bars and unit beads",
+      "Mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Math Review", "subheading": "Teens, Tens, and Hundreds"},
-        {"type": "materials", "items": ["Teen Board", "Ten Board", "Hundred Board", "Beads", "Mat"], "setup_instructions": "Set up all three boards. This is a comprehensive review of Q1 number sense."},
-        {"type": "instruction", "step": 1, "text": "Teen board: 'Make 13!' Child slides in the 3. 'What does 13 mean?' One ten and three ones."},
-        {"type": "instruction", "step": 2, "text": "Ten board: 'Count by tens!' Child forms: 10, 20, 30, 40, 50, 60, 70, 80, 90."},
-        {"type": "instruction", "step": 3, "text": "Hundred board: 'Put in the first row: 1 through 10. Now put in the last column: 10, 20, 30...'"},
-        {"type": "instruction", "step": 4, "text": "'Can you count from 1 all the way to 100? Use the board if you need it!'"},
-        {"type": "activity", "prompt": "Count from 1 to 100! You can use the hundred board to help. Then tell me: what's your favorite number and why?", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'You can count to 100! You know teens, tens, and the whole hundred board. What a mathematician you've become!'", "mastery_check": "Can the child count to 100, form teen/ten numbers, and demonstrate understanding of place value?"}
+        {
+          "type": "title",
+          "heading": "Q1 Math Review",
+          "subheading": "Teens, Tens, and Hundreds",
+          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Teen Board",
+            "Ten Board",
+            "Hundred Board",
+            "Beads",
+            "Mat"
+          ],
+          "setup_instructions": "Set up all three boards. This is a comprehensive review of Q1 number sense."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Teen board: 'Make 13!' Child slides in the 3. 'What does 13 mean?' One ten and three ones."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Ten board: 'Count by tens!' Child forms: 10, 20, 30, 40, 50, 60, 70, 80, 90."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Hundred board: 'Put in the first row: 1 through 10. Now put in the last column: 10, 20, 30...'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Can you count from 1 all the way to 100? Use the board if you need it!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Count from 1 to 100! You can use the hundred board to help. Then tell me: what's your favorite number and why?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You can count to 100! You know teens, tens, and the whole hundred board. What a mathematician you've become!'",
+          "mastery_check": "Can the child count to 100, form teen/ten numbers, and demonstrate understanding of place value?"
+        }
       ]
     },
     "parent_notes": "Counting to 100 is a major milestone for the primary child. Some children can rattle off the numbers by rote; the real question is whether they understand what the numbers mean. The teen and ten boards test this understanding: does the child know that 15 means 'one ten and five more'? If the child can count to 100 and understands teen numbers concretely, they're well-prepared for Q2's work with addition and the decimal system. If they struggle with the sequence in the 70s, 80s, or 90s, that's very common — these decades sound different from how they're structured.",
@@ -372,17 +927,60 @@
     "instructions": "1. 'This quarter we learned about celebrations from different countries. Let's remember them all!'\n2. Review Diwali: 'Where? What do people do?' (India — lights, diyas, sweets, new beginnings.)\n3. Review Chinese New Year: 'Where? What traditions?' (China — red decorations, dragons, red envelopes.)\n4. Review Holi: 'Where? What happens?' (India — colored powder, spring celebration, joy.)\n5. Grace and courtesy: 'What table manners have we learned? How do we set the table?'\n6. Create a 'Celebrations Around the World' poster: draw each celebration with its key symbol.\n7. 'Every culture has beautiful traditions. Learning about them helps us understand each other.'",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Large poster paper", "Colored pencils or crayons", "Pictures from previous celebration lessons", "Globe"],
+    "materials_needed": [
+      "Large poster paper",
+      "Colored pencils or crayons",
+      "Pictures from previous celebration lessons",
+      "Globe"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Culture Review", "subheading": "Celebrations Around the World"},
-        {"type": "materials", "items": ["Poster paper", "Colored pencils", "Previous celebration pictures", "Globe"], "setup_instructions": "Gather all materials from previous cultural lessons. Have the globe ready for locating countries."},
-        {"type": "instruction", "step": 1, "text": "'We learned about celebrations from around the world! How many can you remember?'"},
-        {"type": "instruction", "step": 2, "text": "'Diwali — the Festival of Lights! Where is it celebrated?' Find India on the globe. 'What do people light?'"},
-        {"type": "instruction", "step": 3, "text": "'Chinese New Year — what color is everywhere?' (Red!) 'And Holi — what do people throw?' (Colored powder!)"},
-        {"type": "instruction", "step": 4, "text": "'Let's also remember our grace and courtesy: setting the table, being kind, taking turns.'"},
-        {"type": "activity", "prompt": "Create a poster showing all three celebrations. Draw a diya for Diwali, a lantern for Chinese New Year, and colorful handprints for Holi!", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'People all over the world celebrate with light, color, food, and family. Isn't that beautiful?'", "mastery_check": "Can the child name all three celebrations and describe at least one tradition from each?"}
+        {
+          "type": "title",
+          "heading": "Q1 Culture Review",
+          "subheading": "Celebrations Around the World",
+          "image_url": "https://images.pexels.com/photos/14325735/pexels-photo-14325735.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Poster paper",
+            "Colored pencils",
+            "Previous celebration pictures",
+            "Globe"
+          ],
+          "setup_instructions": "Gather all materials from previous cultural lessons. Have the globe ready for locating countries."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'We learned about celebrations from around the world! How many can you remember?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Diwali — the Festival of Lights! Where is it celebrated?' Find India on the globe. 'What do people light?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Chinese New Year — what color is everywhere?' (Red!) 'And Holi — what do people throw?' (Colored powder!)"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Let's also remember our grace and courtesy: setting the table, being kind, taking turns.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a poster showing all three celebrations. Draw a diya for Diwali, a lantern for Chinese New Year, and colorful handprints for Holi!",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'People all over the world celebrate with light, color, food, and family. Isn't that beautiful?'",
+          "mastery_check": "Can the child name all three celebrations and describe at least one tradition from each?"
+        }
       ]
     },
     "parent_notes": "Cultural studies in Montessori are about building respect and curiosity for human diversity. At this age, the child isn't expected to understand the religious or historical contexts deeply — they absorb the sensory experiences (bright colors, special foods, music) and the universal themes (family, joy, new beginnings). The poster becomes a visual reference that reinforces learning. If the child has particularly latched onto one celebration, consider exploring it more deeply in Q2 with books, cooking, or music. Connection to real people from these cultures (friends, neighbors, community members) makes the learning authentic.",
@@ -400,16 +998,49 @@
     "instructions": "1. 'Remember Peter from The Snowy Day? Today he's trying to learn something new — WHISTLING!'\n2. Read the story. Peter tries and tries but can't whistle for his dog Willie.\n3. He tries while walking, while spinning, while wearing his father's hat.\n4. 'Has there ever been something you tried really hard to do but couldn't yet?'\n5. When Peter finally whistles: celebrate! 'He practiced and practiced and he DID IT!'\n6. After reading: try whistling together! (Many kindergartners can't whistle yet — and that's the point.)\n7. 'Some things take lots of practice. That's okay. You'll get there!'",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Whistle for Willie by Ezra Jack Keats"],
+    "materials_needed": [
+      "Whistle for Willie by Ezra Jack Keats"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "Whistle for Willie by Ezra Jack Keats"},
-        {"type": "materials", "items": ["Whistle for Willie book"], "setup_instructions": "Sit comfortably. This connects to The Snowy Day from Week 7 — same character!"},
-        {"type": "instruction", "step": 1, "text": "'Peter is back! But today he has a problem — he wants to whistle for his dog Willie, but he CAN'T!'"},
-        {"type": "instruction", "step": 2, "text": "Read with empathy for Peter's frustration. He tries SO hard. Notice Keats' collage artwork again."},
-        {"type": "instruction", "step": 3, "text": "The moment Peter finally whistles: 'HE DID IT! Willie came running!' Let the joy sink in."},
-        {"type": "activity", "prompt": "Can YOU whistle? Let's try! Pucker your lips and blow gently. If it doesn't work yet, that's just like Peter — keep practicing!", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "'Peter kept trying even when it was hard. That's called PERSISTENCE. What are YOU practicing right now?'", "mastery_check": "Can the child connect Peter's persistence to their own learning experiences?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "Whistle for Willie by Ezra Jack Keats",
+          "image_url": "https://images.pexels.com/photos/5608541/pexels-photo-5608541.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Whistle for Willie book"
+          ],
+          "setup_instructions": "Sit comfortably. This connects to The Snowy Day from Week 7 — same character!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Peter is back! But today he has a problem — he wants to whistle for his dog Willie, but he CAN'T!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read with empathy for Peter's frustration. He tries SO hard. Notice Keats' collage artwork again."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The moment Peter finally whistles: 'HE DID IT! Willie came running!' Let the joy sink in."
+        },
+        {
+          "type": "activity",
+          "prompt": "Can YOU whistle? Let's try! Pucker your lips and blow gently. If it doesn't work yet, that's just like Peter — keep practicing!",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Peter kept trying even when it was hard. That's called PERSISTENCE. What are YOU practicing right now?'",
+          "mastery_check": "Can the child connect Peter's persistence to their own learning experiences?"
+        }
       ]
     },
     "parent_notes": "This book is perfectly placed at the end of Q1 because it mirrors the child's own experience of working hard to master new skills — reading, writing, counting, cutting. Peter's persistence is the same quality that has carried the child through 9 weeks of Montessori work. Most 4-5 year olds can't whistle, which makes the attempted whistling activity both humorous and poignant. Don't pressure the child to actually whistle — the point is that some skills take time, and that's okay. Connect to other 'Peter' books by Keats for a character study.",
@@ -427,17 +1058,56 @@
     "instructions": "1. 'You've mastered each cylinder block alone. Today's challenge: TWO BLOCKS at once!'\n2. Remove all cylinders from Block 1 and Block 2. Mix them on the mat.\n3. Child must sort and replace all cylinders into the correct block and hole.\n4. This requires noticing both diameter AND height simultaneously.\n5. If successful, try Blocks 3 and 4 combined.\n6. Ultimate challenge (if ready): all 4 blocks mixed — 40 cylinders to sort!\n7. Celebrate the child's growing ability to notice subtle differences.",
     "duration_minutes": 25,
     "lesson_type": "independent",
-    "materials_needed": ["Knobbed Cylinder Blocks 1, 2, 3, and 4", "Large mat"],
+    "materials_needed": [
+      "Knobbed Cylinder Blocks 1, 2, 3, and 4",
+      "Large mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Sensorial Challenge", "subheading": "Knobbed Cylinders — Combined Blocks"},
-        {"type": "materials", "items": ["All 4 Knobbed Cylinder Blocks", "Large mat"], "setup_instructions": "Start with just Blocks 1 and 2. Remove all cylinders and mix them on the mat."},
-        {"type": "instruction", "step": 1, "text": "'You've done each block by itself. Today let's mix TWO blocks together! Can you sort them all out?'"},
-        {"type": "instruction", "step": 2, "text": "Remove all cylinders from Blocks 1 and 2. Mix them up. 'Now put every cylinder back in its right hole!'"},
-        {"type": "instruction", "step": 3, "text": "Watch: the child must decide which BLOCK each cylinder belongs to, then which HOLE within that block."},
-        {"type": "instruction", "step": 4, "text": "If the child finishes easily: 'Amazing! Want to try blocks 3 and 4?' Or even all four mixed!"},
-        {"type": "activity", "prompt": "Sort all the mixed cylinders back into their correct blocks and holes. Use your eyes and hands to notice the size differences!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'Your eyes have become so sharp! You can see differences that most people don't even notice.'", "mastery_check": "Can the child correctly sort cylinders from 2 combined blocks into their correct positions?"}
+        {
+          "type": "title",
+          "heading": "Sensorial Challenge",
+          "subheading": "Knobbed Cylinders — Combined Blocks",
+          "image_url": "https://images.pexels.com/photos/1153895/pexels-photo-1153895.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "All 4 Knobbed Cylinder Blocks",
+            "Large mat"
+          ],
+          "setup_instructions": "Start with just Blocks 1 and 2. Remove all cylinders and mix them on the mat."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'You've done each block by itself. Today let's mix TWO blocks together! Can you sort them all out?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Remove all cylinders from Blocks 1 and 2. Mix them up. 'Now put every cylinder back in its right hole!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Watch: the child must decide which BLOCK each cylinder belongs to, then which HOLE within that block."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "If the child finishes easily: 'Amazing! Want to try blocks 3 and 4?' Or even all four mixed!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Sort all the mixed cylinders back into their correct blocks and holes. Use your eyes and hands to notice the size differences!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Your eyes have become so sharp! You can see differences that most people don't even notice.'",
+          "mastery_check": "Can the child correctly sort cylinders from 2 combined blocks into their correct positions?"
+        }
       ]
     },
     "parent_notes": "Combining cylinder blocks is a classic Montessori extension that dramatically increases the difficulty. With one block, the child only considers one dimension (e.g., height varies while diameter stays constant). With two blocks mixed, they must consider two dimensions simultaneously — a cognitive leap. Most children find this challenging and exciting. If the child places a cylinder in the wrong hole, they'll notice because another cylinder won't fit later — this built-in error control is the genius of Montessori materials. Let the child discover and correct errors without your intervention.",
@@ -455,17 +1125,59 @@
     "instructions": "1. Review the Metal Insets: show the child all available shapes.\n2. 'Today you'll create a DESIGN using at least 3 different shapes. Plan before you start!'\n3. Demonstrate: overlay one shape on another to create a complex design.\n4. Child traces shapes, then fills in with colored pencils using parallel lines.\n5. Encourage different fill patterns: horizontal lines in one section, vertical in another, diagonal in another.\n6. The focus is on staying within the lines and using controlled, even strokes.\n7. Display the finished design. Compare to early Q1 work: 'See how much your hand control has improved!'",
     "duration_minutes": 25,
     "lesson_type": "independent",
-    "materials_needed": ["Metal Insets (at least 3 shapes)", "Paper", "Colored pencils (multiple colors)", "Early Q1 metal inset work for comparison (if saved)"],
+    "materials_needed": [
+      "Metal Insets (at least 3 shapes)",
+      "Paper",
+      "Colored pencils (multiple colors)",
+      "Early Q1 metal inset work for comparison (if saved)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Metal Insets", "subheading": "Creative Design Review"},
-        {"type": "materials", "items": ["Metal Insets (3+ shapes)", "Paper", "Colored pencils"], "setup_instructions": "Set out all available insets. Have plenty of colored pencils. Find early Q1 work if saved."},
-        {"type": "instruction", "step": 1, "text": "'Choose at least 3 different shapes. You're going to create a beautiful, complex design!'"},
-        {"type": "instruction", "step": 2, "text": "'Trace the first shape. Now OVERLAP a second shape on top. See the interesting areas where they cross?'"},
-        {"type": "instruction", "step": 3, "text": "'Fill each section with a different color. Use PARALLEL lines — lines that go the same direction and never touch.'"},
-        {"type": "instruction", "step": 4, "text": "'In this section, try horizontal lines. In that section, vertical. In another, diagonal!'"},
-        {"type": "activity", "prompt": "Create your most beautiful design ever! Use at least 3 shapes and 4 colors. Take your time with the fill lines — try to stay inside the shapes!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "'Compare this to your first metal inset work. See how much more controlled your hand is? That's GROWTH!'", "mastery_check": "Has the child's line control visibly improved since early Q1? Can they fill shapes with reasonably parallel lines?"}
+        {
+          "type": "title",
+          "heading": "Metal Insets",
+          "subheading": "Creative Design Review",
+          "image_url": "https://images.pexels.com/photos/278888/pexels-photo-278888.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Metal Insets (3+ shapes)",
+            "Paper",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Set out all available insets. Have plenty of colored pencils. Find early Q1 work if saved."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Choose at least 3 different shapes. You're going to create a beautiful, complex design!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Trace the first shape. Now OVERLAP a second shape on top. See the interesting areas where they cross?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Fill each section with a different color. Use PARALLEL lines — lines that go the same direction and never touch.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'In this section, try horizontal lines. In that section, vertical. In another, diagonal!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your most beautiful design ever! Use at least 3 shapes and 4 colors. Take your time with the fill lines — try to stay inside the shapes!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Compare this to your first metal inset work. See how much more controlled your hand is? That's GROWTH!'",
+          "mastery_check": "Has the child's line control visibly improved since early Q1? Can they fill shapes with reasonably parallel lines?"
+        }
       ]
     },
     "parent_notes": "The Metal Insets are specifically designed to develop the fine motor control needed for writing. By now, the child should show visible improvement in line quality compared to their first attempts in Week 1. The parallel fill lines build the wrist and finger control needed for letter formation. Overlapping shapes creates a design that looks like stained glass — it's beautiful and motivating. If you saved early work, the comparison is powerful and builds the child's growth mindset. These designs make lovely cards or gifts, giving the work purpose beyond practice.",
@@ -483,17 +1195,56 @@
     "instructions": "1. 'Let's review our addition work! Remember, addition means putting numbers TOGETHER.'\n2. Warm-up: 'What's 2 and 1?' Child combines rods. (3!) 'What's 3 and 2?' (5!)\n3. Partners of 5: 'Tell me all the ways to make 5.' 4+1, 3+2, 2+3, 1+4, 5+0.\n4. Partners of 10 staircase: build it again. 9+1, 8+2, 7+3, 6+4, 5+5.\n5. Quick fire: 'If I have 7, how many more to make 10?' Child finds the 3-rod.\n6. 'If I have 4, how many more to make 10?' Child finds the 6-rod.\n7. Oral: 'I have 8, I need ___ more to make 10.' (2!) Repeat with different numbers.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Number Rods 1-10 (complete set)", "Floor mat"],
+    "materials_needed": [
+      "Number Rods 1-10 (complete set)",
+      "Floor mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Math Review", "subheading": "Addition and Partners of 10"},
-        {"type": "materials", "items": ["Number Rods 1-10", "Large floor mat"], "setup_instructions": "Lay out all rods. The child will build the partners of 10 staircase again."},
-        {"type": "instruction", "step": 1, "text": "'Addition means putting together! Quick: 2 and 1 makes?' Child combines rods. '3!'"},
-        {"type": "instruction", "step": 2, "text": "'All the ways to make 5: go!' Child builds: 4+1, 3+2, 2+3, 1+4."},
-        {"type": "instruction", "step": 3, "text": "'Now the big one — partners of TEN!' Build the staircase: 9+1, 8+2, 7+3, 6+4, 5+5."},
-        {"type": "instruction", "step": 4, "text": "'Quick fire: I have 6, how many more to make 10?' Child finds the 4-rod. 'I have 3?' (7!)"},
-        {"type": "activity", "prompt": "Build the partners of 10 staircase. Then play quick fire: I say a number, you tell me its partner to make 10!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You know your partners of 10 like a pro! These will help you with math for years to come.'", "mastery_check": "Can the child state at least 3 partners of 10 without using rods?"}
+        {
+          "type": "title",
+          "heading": "Q1 Math Review",
+          "subheading": "Addition and Partners of 10",
+          "image_url": "https://images.pexels.com/photos/6693302/pexels-photo-6693302.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Number Rods 1-10",
+            "Large floor mat"
+          ],
+          "setup_instructions": "Lay out all rods. The child will build the partners of 10 staircase again."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Addition means putting together! Quick: 2 and 1 makes?' Child combines rods. '3!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'All the ways to make 5: go!' Child builds: 4+1, 3+2, 2+3, 1+4."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Now the big one — partners of TEN!' Build the staircase: 9+1, 8+2, 7+3, 6+4, 5+5."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Quick fire: I have 6, how many more to make 10?' Child finds the 4-rod. 'I have 3?' (7!)"
+        },
+        {
+          "type": "activity",
+          "prompt": "Build the partners of 10 staircase. Then play quick fire: I say a number, you tell me its partner to make 10!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You know your partners of 10 like a pro! These will help you with math for years to come.'",
+          "mastery_check": "Can the child state at least 3 partners of 10 without using rods?"
+        }
       ]
     },
     "parent_notes": "Partners of 10 are worth revisiting again and again because they're the building blocks of mental arithmetic. A child who instantly knows that 7+3=10 can later solve 47+3=50, 70+30=100, and much more. The 'quick fire' game (you say a number, child says the partner) builds automatic recall. Start slowly and speed up as the child gains confidence. Some children will begin answering without the rods — this is the transition from concrete to abstract, and it's a major milestone. But keep the rods available; there's no rush to remove the concrete support.",
@@ -511,17 +1262,62 @@
     "instructions": "1. 'Scientists observe the world carefully. Today we're going on a nature walk to see what's happening outside.'\n2. Bring the science journal, pencil, a bag for collecting specimens.\n3. Walk slowly. 'What do you notice about the trees? The ground? The sky? The animals?'\n4. Collect specimens: interesting leaves, seeds, small stones, feathers.\n5. Stop and listen: 'Close your eyes. What do you hear?' Record sounds.\n6. Back inside: tape or draw specimens in the journal. Label with the date.\n7. 'What season is it? How do you know? What clues did nature give us?'\n8. Compare to Week 1 nature walk observations if available.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Science journal", "Pencil and crayons", "Collecting bag", "Tape for affixing specimens", "Magnifying glass (optional)"],
+    "materials_needed": [
+      "Science journal",
+      "Pencil and crayons",
+      "Collecting bag",
+      "Tape for affixing specimens",
+      "Magnifying glass (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Nature Walk", "subheading": "Seasonal Observation"},
-        {"type": "materials", "items": ["Science journal", "Pencil", "Collecting bag", "Tape", "Magnifying glass"], "setup_instructions": "Dress for the weather. Bring all materials. Choose a route with diverse nature."},
-        {"type": "instruction", "step": 1, "text": "'We're going to observe nature like scientists! Look carefully at EVERYTHING. What do you notice?'"},
-        {"type": "instruction", "step": 2, "text": "'Look at the trees. Are there leaves? Buds? Bare branches? What color are they?'"},
-        {"type": "instruction", "step": 3, "text": "'Listen! Close your eyes for 30 seconds. What sounds does nature make right now?'"},
-        {"type": "instruction", "step": 4, "text": "'Collect things that interest you: a special leaf, a seed, a feather. We'll put them in your journal!'"},
-        {"type": "activity", "prompt": "Back inside: tape your specimens in your journal. Draw anything you couldn't collect. Write the date and the season. What did you discover?", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'Scientists observe carefully and write down what they find — just like you did today! Nature changes with every season.'", "mastery_check": "Can the child make at least 3 specific observations about seasonal characteristics?"}
+        {
+          "type": "title",
+          "heading": "Nature Walk",
+          "subheading": "Seasonal Observation",
+          "image_url": "https://images.pexels.com/photos/11286088/pexels-photo-11286088.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Science journal",
+            "Pencil",
+            "Collecting bag",
+            "Tape",
+            "Magnifying glass"
+          ],
+          "setup_instructions": "Dress for the weather. Bring all materials. Choose a route with diverse nature."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'We're going to observe nature like scientists! Look carefully at EVERYTHING. What do you notice?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Look at the trees. Are there leaves? Buds? Bare branches? What color are they?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Listen! Close your eyes for 30 seconds. What sounds does nature make right now?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Collect things that interest you: a special leaf, a seed, a feather. We'll put them in your journal!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Back inside: tape your specimens in your journal. Draw anything you couldn't collect. Write the date and the season. What did you discover?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Scientists observe carefully and write down what they find — just like you did today! Nature changes with every season.'",
+          "mastery_check": "Can the child make at least 3 specific observations about seasonal characteristics?"
+        }
       ]
     },
     "parent_notes": "Nature walks are a cornerstone of Montessori science education. The key is SLOW observation — resist the urge to rush or cover lots of ground. Ten minutes in one spot, looking closely, yields more learning than a 30-minute walk. The science journal becomes a record of seasonal change; if you do this quarterly, the child can compare entries and see how nature transforms. A magnifying glass transforms any nature walk into an adventure — suddenly bark, leaves, and insects reveal incredible details. This walk also builds vocabulary: 'deciduous,' 'evergreen,' 'dormant,' 'buds.'",
@@ -539,17 +1335,55 @@
     "instructions": "1. 'Let's remember all the music we've learned this quarter!'\n2. Sing together: review 3-4 favorite songs from Q1.\n3. Musical vocabulary: 'Show me LOUD.' (Child claps loudly.) 'Show me soft.' (Gentle clap.)\n4. 'Play me something HIGH.' (Child sings or plays a high note.) 'Now LOW.'\n5. 'Clap something FAST.' 'Now SLOW.'\n6. Rhythm review: echo-clap 4 different patterns. Child echoes each.\n7. Child creates their own 8-beat rhythm piece using body percussion.\n8. Performance! Child performs their rhythm piece for the family.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["No special materials needed", "Optional: bells, drum, or other instruments from Q1"],
+    "materials_needed": [
+      "No special materials needed",
+      "Optional: bells, drum, or other instruments from Q1"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Music Review", "subheading": "Songs, Sounds, and Rhythms"},
-        {"type": "materials", "items": ["Optional instruments from Q1"], "setup_instructions": "Clear a space for movement and performance. Have any instruments used during Q1 available."},
-        {"type": "instruction", "step": 1, "text": "'Let's sing our favorite songs from this quarter!' Sing 2-3 songs the child enjoyed most."},
-        {"type": "instruction", "step": 2, "text": "'Show me: LOUD clap! Soft clap! FAST! Slow! HIGH singing! Low singing!' Child demonstrates each."},
-        {"type": "instruction", "step": 3, "text": "Echo-clapping: 'Copy my rhythm!' Do 4 patterns. Can the child echo them all accurately?"},
-        {"type": "instruction", "step": 4, "text": "'Now YOU create a rhythm! Use claps, knee pats, stomps — 8 beats. Practice it until you've got it.'"},
-        {"type": "activity", "prompt": "Create your own 8-beat rhythm using body percussion. Practice it 3 times, then perform it for your family!", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'You're a musician! You can sing, keep a beat, echo rhythms, and create your own music. Bravo!'", "mastery_check": "Can the child demonstrate loud/soft, high/low, fast/slow, and create a simple rhythm pattern?"}
+        {
+          "type": "title",
+          "heading": "Q1 Music Review",
+          "subheading": "Songs, Sounds, and Rhythms",
+          "image_url": "https://images.pexels.com/photos/8466783/pexels-photo-8466783.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Optional instruments from Q1"
+          ],
+          "setup_instructions": "Clear a space for movement and performance. Have any instruments used during Q1 available."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Let's sing our favorite songs from this quarter!' Sing 2-3 songs the child enjoyed most."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Show me: LOUD clap! Soft clap! FAST! Slow! HIGH singing! Low singing!' Child demonstrates each."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Echo-clapping: 'Copy my rhythm!' Do 4 patterns. Can the child echo them all accurately?"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Now YOU create a rhythm! Use claps, knee pats, stomps — 8 beats. Practice it until you've got it.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own 8-beat rhythm using body percussion. Practice it 3 times, then perform it for your family!",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You're a musician! You can sing, keep a beat, echo rhythms, and create your own music. Bravo!'",
+          "mastery_check": "Can the child demonstrate loud/soft, high/low, fast/slow, and create a simple rhythm pattern?"
+        }
       ]
     },
     "parent_notes": "Music education at this age is about joy, expression, and the foundational concepts of sound. The musical vocabulary (dynamics: loud/soft, pitch: high/low, tempo: fast/slow) will serve the child throughout their musical life. The performance element is important: it builds confidence and gives the child a sense of accomplishment. Be an enthusiastic audience — applaud genuinely. If the child has shown particular interest in music this quarter, consider introducing a simple instrument like a recorder or ukulele in Q2. Singing together as a family is one of the best things you can do for your child's musical development.",
@@ -567,17 +1401,60 @@
     "instructions": "1. 'This quarter you've learned so many things! Let's look at all your skills.'\n2. Set up a 'skill stations' circuit: pouring, cutting, spreading, sewing, table setting, sweeping.\n3. Child rotates through each station, performing the activity independently.\n4. At each station, note: can the child do this without help? With confidence? With precision?\n5. 'Which was your favorite work this quarter? Which was the hardest?'\n6. The child chooses their favorite to demonstrate for a family member.\n7. Celebrate: 'Look at everything you can do now that you couldn't do 9 weeks ago!'",
     "duration_minutes": 30,
     "lesson_type": "independent",
-    "materials_needed": ["Materials for all Q1 practical life activities", "Pouring set", "Cutting supplies", "Spreading supplies", "Sewing supplies", "Table setting items", "Broom and dustpan"],
+    "materials_needed": [
+      "Materials for all Q1 practical life activities",
+      "Pouring set",
+      "Cutting supplies",
+      "Spreading supplies",
+      "Sewing supplies",
+      "Table setting items",
+      "Broom and dustpan"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Practical Life", "subheading": "Celebrate Your Skills!"},
-        {"type": "materials", "items": ["All Q1 practical life materials at stations"], "setup_instructions": "Set up 5-6 stations around the room with Q1 practical life activities."},
-        {"type": "instruction", "step": 1, "text": "'Look at all these things you've learned! Let's visit each station and show what you can do.'"},
-        {"type": "instruction", "step": 2, "text": "Station 1: Pouring. 'Pour water from pitcher to glasses without spilling.' Station 2: Cutting. 'Cut a banana safely.'"},
-        {"type": "instruction", "step": 3, "text": "Station 3: Spreading. 'Spread butter on bread.' Station 4: Sewing. 'Do a running stitch.'"},
-        {"type": "instruction", "step": 4, "text": "Station 5: Table setting. 'Set a place.' Station 6: Sweeping. 'Sweep a small area.'"},
-        {"type": "activity", "prompt": "Visit each station and do the activity. Then choose your FAVORITE and demonstrate it for someone in your family!", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "'You can pour, cut, spread, sew, set the table, and sweep! In 9 weeks you've become so independent and capable!'", "mastery_check": "Can the child perform at least 4 of 6 practical life activities with confidence and minimal adult help?"}
+        {
+          "type": "title",
+          "heading": "Q1 Practical Life",
+          "subheading": "Celebrate Your Skills!",
+          "image_url": "https://images.pexels.com/photos/1684031/pexels-photo-1684031.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "All Q1 practical life materials at stations"
+          ],
+          "setup_instructions": "Set up 5-6 stations around the room with Q1 practical life activities."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Look at all these things you've learned! Let's visit each station and show what you can do.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Station 1: Pouring. 'Pour water from pitcher to glasses without spilling.' Station 2: Cutting. 'Cut a banana safely.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Station 3: Spreading. 'Spread butter on bread.' Station 4: Sewing. 'Do a running stitch.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Station 5: Table setting. 'Set a place.' Station 6: Sweeping. 'Sweep a small area.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Visit each station and do the activity. Then choose your FAVORITE and demonstrate it for someone in your family!",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You can pour, cut, spread, sew, set the table, and sweep! In 9 weeks you've become so independent and capable!'",
+          "mastery_check": "Can the child perform at least 4 of 6 practical life activities with confidence and minimal adult help?"
+        }
       ]
     },
     "parent_notes": "This review is a celebration, not a test. Watching the child rotate through skills they've developed over 9 weeks is emotional and inspiring. You'll likely notice that skills introduced early in the quarter (pouring, for example) are now effortless, while newer skills (cutting, sweeping) still require concentration. That's perfect — it shows the progression from conscious effort to automatic competence. The child choosing a favorite to demonstrate builds their sense of identity: 'I'm a person who can do things.' Take a video of the demonstrations — you'll treasure it later.",
@@ -595,17 +1472,63 @@
     "instructions": "1. Independent reading: child selects and reads 2-3 phonetic readers silently or aloud.\n2. After each, retell: 'What happened in that story?'\n3. 'Now YOU are going to be the AUTHOR! Tell me a story and I'll write it down.'\n4. Child dictates a story (any topic). Parent writes exactly what the child says.\n5. Read the story back to the child. 'YOU wrote this!'\n6. Child illustrates their story.\n7. Staple together as a mini-book: the child's first authored work.\n8. Add to the reading log: 'Today I wrote my own book!'",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Phonetic readers", "Paper for the child's book (3-4 sheets folded and stapled)", "Pencil (parent)", "Crayons (child)", "Reading log", "Stapler"],
+    "materials_needed": [
+      "Phonetic readers",
+      "Paper for the child's book (3-4 sheets folded and stapled)",
+      "Pencil (parent)",
+      "Crayons (child)",
+      "Reading log",
+      "Stapler"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Reading and Writing", "subheading": "You're an Author!"},
-        {"type": "materials", "items": ["Phonetic readers", "Paper for book", "Pencil", "Crayons", "Stapler"], "setup_instructions": "Prepare folded paper for a mini-book. Have phonetic readers available for independent reading."},
-        {"type": "instruction", "step": 1, "text": "'Start by reading! Choose 2 books and read them yourself. I'll be right here if you need help.'"},
-        {"type": "instruction", "step": 2, "text": "'Now the exciting part: you're going to WRITE your own story! Tell me your story and I'll write your words down.'"},
-        {"type": "instruction", "step": 3, "text": "Write the child's words exactly as spoken on each page of the mini-book. Read it back to them."},
-        {"type": "instruction", "step": 4, "text": "'Now draw pictures for each page! Every author needs an illustrator — and you're BOTH!'"},
-        {"type": "activity", "prompt": "Illustrate every page of your book. When it's done, read your book aloud to someone you love!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You read books AND you wrote a book! You are a READER and an AUTHOR. What a way to end Quarter 1!'", "mastery_check": "Can the child read independently, dictate a coherent story, and read back portions of their dictated text?"}
+        {
+          "type": "title",
+          "heading": "Reading and Writing",
+          "subheading": "You're an Author!",
+          "image_url": "https://images.pexels.com/photos/256468/pexels-photo-256468.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Phonetic readers",
+            "Paper for book",
+            "Pencil",
+            "Crayons",
+            "Stapler"
+          ],
+          "setup_instructions": "Prepare folded paper for a mini-book. Have phonetic readers available for independent reading."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Start by reading! Choose 2 books and read them yourself. I'll be right here if you need help.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Now the exciting part: you're going to WRITE your own story! Tell me your story and I'll write your words down.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Write the child's words exactly as spoken on each page of the mini-book. Read it back to them."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Now draw pictures for each page! Every author needs an illustrator — and you're BOTH!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Illustrate every page of your book. When it's done, read your book aloud to someone you love!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You read books AND you wrote a book! You are a READER and an AUTHOR. What a way to end Quarter 1!'",
+          "mastery_check": "Can the child read independently, dictate a coherent story, and read back portions of their dictated text?"
+        }
       ]
     },
     "parent_notes": "This lesson is a powerful culmination of Q1 language work. The child demonstrates reading skill (decoding phonetic readers) AND oral language skill (composing a narrative). Writing down the child's exact words — even grammatical errors — shows the child that their words matter and can be preserved. When you read the story back, the child sees their spoken words transformed into written text — a profound literacy moment. Some children will dictate elaborate fantasies; others will tell about their day. Both are valuable. Keep this first authored book forever — it's a treasure.",
@@ -623,17 +1546,63 @@
     "instructions": "1. 'Today is Math Game Day! We'll play 4 fun games.'\n2. Game 1 — Number Hunt: hide number cards 1-20 around the room. Child finds them and puts in order.\n3. Game 2 — Roll and Count: roll a die, count out that many objects. First to 20 wins.\n4. Game 3 — Partners of 10 Memory: make cards with numbers 1-9. Turn 2 over. If they make 10, keep them!\n5. Game 4 — Hundred Board Puzzle: remove 10 random tiles. Can the child figure out which ones are missing?\n6. 'Which game was your favorite?'\n7. Celebrate: 'You are a mathematician! Look how much math you know!'",
     "duration_minutes": 30,
     "lesson_type": "group",
-    "materials_needed": ["Number cards 1-20", "Die or dice", "Small counting objects (20+)", "Partners of 10 memory cards", "Hundred Board", "Timer (optional)"],
+    "materials_needed": [
+      "Number cards 1-20",
+      "Die or dice",
+      "Small counting objects (20+)",
+      "Partners of 10 memory cards",
+      "Hundred Board",
+      "Timer (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Math Celebration", "subheading": "Math Game Day!"},
-        {"type": "materials", "items": ["Number cards", "Dice", "Counting objects", "Memory cards", "Hundred Board"], "setup_instructions": "Set up each game in a different area. Hide number cards before starting."},
-        {"type": "instruction", "step": 1, "text": "'It's Math Game Day! We're going to play 4 different games that use everything you've learned!'"},
-        {"type": "instruction", "step": 2, "text": "Game 1: 'I hid numbers around the room! Find them all and put them in order from 1 to 20!'"},
-        {"type": "instruction", "step": 3, "text": "Game 2: 'Roll the die, count out that many. Keep adding. First person to reach 20 wins!'"},
-        {"type": "instruction", "step": 4, "text": "Game 3: 'Flip two cards. Do they make 10? If yes, keep them! (7 and 3? Yes! 4 and 2? No.)'"},
-        {"type": "activity", "prompt": "Game 4: Hundred Board Puzzle! I removed 10 tiles. Study the board and figure out which numbers are missing!", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'You played games using counting, ordering, adding, and patterns. Math is fun! You're ready for Quarter 2!'", "mastery_check": "Can the child successfully participate in all 4 games, demonstrating Q1 math skills in a game context?"}
+        {
+          "type": "title",
+          "heading": "Q1 Math Celebration",
+          "subheading": "Math Game Day!",
+          "image_url": "https://images.pexels.com/photos/311269/pexels-photo-311269.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Number cards",
+            "Dice",
+            "Counting objects",
+            "Memory cards",
+            "Hundred Board"
+          ],
+          "setup_instructions": "Set up each game in a different area. Hide number cards before starting."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'It's Math Game Day! We're going to play 4 different games that use everything you've learned!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Game 1: 'I hid numbers around the room! Find them all and put them in order from 1 to 20!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Game 2: 'Roll the die, count out that many. Keep adding. First person to reach 20 wins!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Game 3: 'Flip two cards. Do they make 10? If yes, keep them! (7 and 3? Yes! 4 and 2? No.)'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Game 4: Hundred Board Puzzle! I removed 10 tiles. Study the board and figure out which numbers are missing!",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You played games using counting, ordering, adding, and patterns. Math is fun! You're ready for Quarter 2!'",
+          "mastery_check": "Can the child successfully participate in all 4 games, demonstrating Q1 math skills in a game context?"
+        }
       ]
     },
     "parent_notes": "Ending Q1 with games reinforces the idea that math is enjoyable, not just work. Each game assesses a different skill: number sequencing (hunt), counting and one-to-one correspondence (roll and count), partners of 10 (memory), and number recognition (hundred board puzzle). The game context also reveals how well the child has internalized concepts — can they apply their knowledge when it's embedded in play? If the child struggles with any game, it tells you which area needs continued practice in Q2. But today, prioritize FUN. The child should enter Q2 feeling confident and excited about math.",
@@ -651,17 +1620,60 @@
     "instructions": "1. 'Let's look at everything we did this quarter! I'm so proud of you.'\n2. Flip through the child's work: Continent Book, science journal, metal inset designs, reading log, math work.\n3. 'What did you learn that surprised you? What was your favorite lesson?'\n4. 'What was the hardest thing you did? How did you get through it?'\n5. Create a 'Q1 Accomplishments' page: child draws or writes their proudest achievements.\n6. 'What would you like to learn about next quarter?'\n7. Take a photo of the child with their Q1 work spread out. Frame or save it.\n8. 'Quarter 2 starts next week! You're ready!'",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["All Q1 work (journals, books, art)", "Paper for accomplishments page", "Colored pencils", "Camera for photo"],
+    "materials_needed": [
+      "All Q1 work (journals, books, art)",
+      "Paper for accomplishments page",
+      "Colored pencils",
+      "Camera for photo"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Reflection", "subheading": "Our Learning Journey"},
-        {"type": "materials", "items": ["All Q1 work products", "Paper", "Colored pencils", "Camera"], "setup_instructions": "Gather all the child's work from Q1: journals, books, art, portfolios. Spread them out."},
-        {"type": "instruction", "step": 1, "text": "'Look at ALL of this! YOU did all of this work. Let's remember together.'"},
-        {"type": "instruction", "step": 2, "text": "'What was your FAVORITE thing we learned?' 'What was the HARDEST?' Listen with genuine interest."},
-        {"type": "instruction", "step": 3, "text": "'Draw your proudest accomplishments on this page. What are you most proud of?'"},
-        {"type": "instruction", "step": 4, "text": "'What do you want to learn next? What are you curious about?' Write their answers down."},
-        {"type": "activity", "prompt": "Create your Q1 Accomplishments page. Draw pictures of your 3 proudest moments from this quarter!", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'You've grown so much in 9 weeks! You can read, count, pour, cut, sew, and so much more. I'm SO proud of you!'", "mastery_check": "Can the child identify specific things they've learned and express pride in their accomplishments?"}
+        {
+          "type": "title",
+          "heading": "Q1 Reflection",
+          "subheading": "Our Learning Journey",
+          "image_url": "https://images.pexels.com/photos/7685728/pexels-photo-7685728.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "All Q1 work products",
+            "Paper",
+            "Colored pencils",
+            "Camera"
+          ],
+          "setup_instructions": "Gather all the child's work from Q1: journals, books, art, portfolios. Spread them out."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Look at ALL of this! YOU did all of this work. Let's remember together.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'What was your FAVORITE thing we learned?' 'What was the HARDEST?' Listen with genuine interest."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Draw your proudest accomplishments on this page. What are you most proud of?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'What do you want to learn next? What are you curious about?' Write their answers down."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your Q1 Accomplishments page. Draw pictures of your 3 proudest moments from this quarter!",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You've grown so much in 9 weeks! You can read, count, pour, cut, sew, and so much more. I'm SO proud of you!'",
+          "mastery_check": "Can the child identify specific things they've learned and express pride in their accomplishments?"
+        }
       ]
     },
     "parent_notes": "Reflection is a powerful metacognitive skill that even young children can practice. Looking back at their work helps the child see their own growth — something they often don't notice in the day-to-day. The questions about 'hardest' and 'favorite' develop self-awareness. Writing down the child's hopes for Q2 honors their voice and can guide your planning. The photo of the child with their Q1 work becomes a milestone memory. This ritual — quarterly reflection — teaches the child that learning is a journey with markers of progress. It builds intrinsic motivation and a growth mindset.",
@@ -679,16 +1691,49 @@
     "instructions": "1. Show the cover. 'A spider is building her web. But all the animals want her to come play!'\n2. Read the story. Notice the repetition: each animal asks the spider to do something, but 'the spider didn't answer. She was very busy spinning her web.'\n3. Let the child join in on the repeated refrain.\n4. Feel the raised web on the page (if using the original edition with textured illustrations).\n5. When the web is finished: 'She did it! She built the whole web even though everyone kept interrupting!'\n6. After reading: 'Sometimes when we're doing important work, people want us to stop. What did the spider do? She kept going!'\n7. 'You've been like the spider this quarter — you stayed focused and did amazing work!'",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["The Very Busy Spider by Eric Carle"],
+    "materials_needed": [
+      "The Very Busy Spider by Eric Carle"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "The Very Busy Spider by Eric Carle"},
-        {"type": "materials", "items": ["The Very Busy Spider book"], "setup_instructions": "Sit comfortably. If you have the raised-print edition, let the child feel the web after reading."},
-        {"type": "instruction", "step": 1, "text": "Cover: 'This spider has an important job to do — build her web! But everyone keeps asking her to play.'"},
-        {"type": "instruction", "step": 2, "text": "Read with the repeating pattern. Each animal asks. 'The spider didn't answer. She was very busy spinning her web.'"},
-        {"type": "instruction", "step": 3, "text": "When the web is done: 'Look! She finished her beautiful web! And she caught a fly for her dinner!'"},
-        {"type": "activity", "prompt": "'The spider was FOCUSED. She had a goal and she didn't give up. What's something YOU worked hard on this quarter?'", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "'Just like the spider, you stayed busy and did amazing work this quarter. You should be very proud!'", "mastery_check": "Can the child explain the spider's persistence and connect it to their own learning this quarter?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "The Very Busy Spider by Eric Carle",
+          "image_url": "https://images.pexels.com/photos/10566480/pexels-photo-10566480.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "The Very Busy Spider book"
+          ],
+          "setup_instructions": "Sit comfortably. If you have the raised-print edition, let the child feel the web after reading."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Cover: 'This spider has an important job to do — build her web! But everyone keeps asking her to play.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read with the repeating pattern. Each animal asks. 'The spider didn't answer. She was very busy spinning her web.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "When the web is done: 'Look! She finished her beautiful web! And she caught a fly for her dinner!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "'The spider was FOCUSED. She had a goal and she didn't give up. What's something YOU worked hard on this quarter?'",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Just like the spider, you stayed busy and did amazing work this quarter. You should be very proud!'",
+          "mastery_check": "Can the child explain the spider's persistence and connect it to their own learning this quarter?"
+        }
       ]
     },
     "parent_notes": "This is the perfect Q1 closing book. The spider's persistence mirrors what the child has done all quarter: showing up, doing the work, staying focused even when it was hard. The repetitive structure is comforting and satisfying, and the payoff (a completed web) parallels the child's Q1 portfolio of completed work. Eric Carle's collage illustrations connect to art concepts the child has learned. The raised-print edition (where you can feel the web growing page by page) is a sensorial experience worth seeking out. End Q1 on this note of pride and persistence.",

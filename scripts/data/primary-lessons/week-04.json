@@ -10,16 +10,57 @@
     "instructions": "1. Place a tray with a bowl of rice, a funnel, and a narrow bottle.\n2. Demonstrate placing the funnel in the bottle neck.\n3. Slowly pour rice through the funnel into the bottle.\n4. Remove the funnel and show the rice inside.\n5. Pour it back and let the child practice.\n6. Discuss: 'The funnel helps the rice go into a small opening.'",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Small tray", "Bowl of rice", "Funnel", "Narrow-necked bottle", "Hand broom"],
+    "materials_needed": [
+      "Small tray",
+      "Bowl of rice",
+      "Funnel",
+      "Narrow-necked bottle",
+      "Hand broom"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Pouring with a Funnel", "subheading": "Using Tools to Help Us"},
-        {"type": "materials", "items": ["Bowl of rice", "Funnel", "Narrow-necked bottle", "Tray", "Hand broom"], "setup_instructions": "Place rice in the bowl. Set the funnel and bottle on the tray."},
-        {"type": "instruction", "step": 1, "text": "'Sometimes the opening is too small for pouring. A FUNNEL helps!' Show the funnel."},
-        {"type": "instruction", "step": 2, "text": "Place the funnel in the bottle. Slowly pour rice from the bowl through the funnel."},
-        {"type": "instruction", "step": 3, "text": "'See how the funnel guides the rice into the small bottle? Now you try!'"},
-        {"type": "activity", "prompt": "Pour all the rice into the bottle through the funnel. Then pour it back into the bowl. Repeat!", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Sweep any spilled rice. Return materials. 'A funnel is a very useful tool!'", "mastery_check": "Can the child use the funnel with minimal spilling?"}
+        {
+          "type": "title",
+          "heading": "Pouring with a Funnel",
+          "subheading": "Using Tools to Help Us",
+          "image_url": "https://images.pexels.com/photos/269220/pexels-photo-269220.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Bowl of rice",
+            "Funnel",
+            "Narrow-necked bottle",
+            "Tray",
+            "Hand broom"
+          ],
+          "setup_instructions": "Place rice in the bowl. Set the funnel and bottle on the tray."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Sometimes the opening is too small for pouring. A FUNNEL helps!' Show the funnel."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Place the funnel in the bottle. Slowly pour rice from the bowl through the funnel."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'See how the funnel guides the rice into the small bottle? Now you try!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Pour all the rice into the bottle through the funnel. Then pour it back into the bowl. Repeat!",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Sweep any spilled rice. Return materials. 'A funnel is a very useful tool!'",
+          "mastery_check": "Can the child use the funnel with minimal spilling?"
+        }
       ]
     },
     "parent_notes": "Funnels introduce the concept of simple tools — objects that help us accomplish tasks more easily. This connects to later science lessons on simple machines. Use real kitchen funnels. The narrow bottle adds challenge and precision.",
@@ -37,16 +78,55 @@
     "instructions": "1. Present sandpaper letter 'r'.\n2. Trace while saying /r/. Repeat 3 times.\n3. Three-period lesson.\n4. Review all 7 letters.\n5. Build new words: rat, ram, rap, cram.\n6. I Spy for /r/ objects.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Sandpaper letter 'r'", "All previously learned letters", "Moveable alphabet", "I Spy objects"],
+    "materials_needed": [
+      "Sandpaper letter 'r'",
+      "All previously learned letters",
+      "Moveable alphabet",
+      "I Spy objects"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Sandpaper Letter", "subheading": "The Sound /r/"},
-        {"type": "materials", "items": ["Sandpaper letter 'r'", "Previous letters", "Moveable alphabet", "Objects starting with /r/"], "setup_instructions": "Place 'r' on tray. Keep review letters and moveable alphabet ready."},
-        {"type": "instruction", "step": 1, "text": "Trace 'r': short line down, then bump at the top. Say /r/ — a growling sound."},
-        {"type": "instruction", "step": 2, "text": "Three-period lesson for 'r'. Then full review of all 7 letters."},
-        {"type": "instruction", "step": 3, "text": "New words with /r/: /r/-/a/-/t/ = rat! /r/-/a/-/m/ = ram!"},
-        {"type": "activity", "prompt": "Build with moveable alphabet: rat, ram, rap, cram. Then do I Spy with /r/ objects!", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'Seven sounds now! Your letter collection is growing fast!'", "mastery_check": "Can the child identify /r/ and build new words?"}
+        {
+          "type": "title",
+          "heading": "Sandpaper Letter",
+          "subheading": "The Sound /r/",
+          "image_url": "https://images.pexels.com/photos/1337387/pexels-photo-1337387.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sandpaper letter 'r'",
+            "Previous letters",
+            "Moveable alphabet",
+            "Objects starting with /r/"
+          ],
+          "setup_instructions": "Place 'r' on tray. Keep review letters and moveable alphabet ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Trace 'r': short line down, then bump at the top. Say /r/ — a growling sound."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Three-period lesson for 'r'. Then full review of all 7 letters."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "New words with /r/: /r/-/a/-/t/ = rat! /r/-/a/-/m/ = ram!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Build with moveable alphabet: rat, ram, rap, cram. Then do I Spy with /r/ objects!",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Seven sounds now! Your letter collection is growing fast!'",
+          "mastery_check": "Can the child identify /r/ and build new words?"
+        }
       ]
     },
     "parent_notes": "The /r/ sound can be tricky for some children to produce clearly. This is normal — many children don't produce a clear /r/ until age 6-7. Focus on the child hearing and identifying the sound, not producing it perfectly.",
@@ -64,16 +144,53 @@
     "instructions": "1. Place rod 5 at the top of the mat.\n2. Below it, place rod 4. 'What rod fills the gap?' Try rod 1. '4 and 1 make 5!'\n3. Try rod 3. What pairs with it? Rod 2! '3 and 2 make 5!'\n4. Record all combinations.\n5. 'And 5 by itself makes 5!'\n6. Compare to the combinations of 10 from last week.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Number rods 1-5", "Floor mat", "Paper and pencil for recording"],
+    "materials_needed": [
+      "Number rods 1-5",
+      "Floor mat",
+      "Paper and pencil for recording"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Making 5!", "subheading": "Number Rod Combinations"},
-        {"type": "materials", "items": ["Number rods 1-5", "Floor mat", "Paper for recording"], "setup_instructions": "Have rods 1-5 on the mat with rod 5 at the top."},
-        {"type": "instruction", "step": 1, "text": "Place rod 5 at the top: 'This is our target today — FIVE!'"},
-        {"type": "instruction", "step": 2, "text": "Place rod 4 below. 'What fills the gap?' Try rod 1. '4+1=5!' Try rod 3 below — need rod 2."},
-        {"type": "instruction", "step": 3, "text": "'Let's write them down: 4+1=5, 3+2=5, 2+3=5, 1+4=5, and 5+0=5!'"},
-        {"type": "activity", "prompt": "Find ALL the ways to make 5 with the rods. How many pairs did you find?", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'Many ways to make 5! This is called ADDITION — putting numbers together.'", "mastery_check": "Can the child find at least 3 combinations that make 5?"}
+        {
+          "type": "title",
+          "heading": "Making 5!",
+          "subheading": "Number Rod Combinations",
+          "image_url": "https://images.pexels.com/photos/6692940/pexels-photo-6692940.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Number rods 1-5",
+            "Floor mat",
+            "Paper for recording"
+          ],
+          "setup_instructions": "Have rods 1-5 on the mat with rod 5 at the top."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Place rod 5 at the top: 'This is our target today — FIVE!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Place rod 4 below. 'What fills the gap?' Try rod 1. '4+1=5!' Try rod 3 below — need rod 2."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Let's write them down: 4+1=5, 3+2=5, 2+3=5, 1+4=5, and 5+0=5!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Find ALL the ways to make 5 with the rods. How many pairs did you find?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Many ways to make 5! This is called ADDITION — putting numbers together.'",
+          "mastery_check": "Can the child find at least 3 combinations that make 5?"
+        }
       ]
     },
     "parent_notes": "Combinations of 5 are easier than combinations of 10 and build confidence. These 'number bonds' or 'fact families' are essential for mental math. The concrete rods make the abstract concept visible and tangible. Play '5 fingers' — hold up some fingers, child tells how many are hidden.",
@@ -91,16 +208,55 @@
     "instructions": "1. Walk through a park or yard looking for signs of fall.\n2. Observe: changing leaf colors, fallen leaves, cooler temperatures.\n3. Collect: leaves of different colors, seed pods, acorns.\n4. Listen: are there different bird sounds? Is it quieter?\n5. Return and sort collections by color or type.\n6. Draw a fall scene.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Nature walk basket", "Magnifying glass", "Collection bags", "Drawing paper and crayons"],
+    "materials_needed": [
+      "Nature walk basket",
+      "Magnifying glass",
+      "Collection bags",
+      "Drawing paper and crayons"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Nature Walk", "subheading": "Fall Observations"},
-        {"type": "materials", "items": ["Basket", "Magnifying glass", "Collection bags", "Paper and crayons"], "setup_instructions": "Pack the basket. Dress appropriately for cooler weather."},
-        {"type": "instruction", "step": 1, "text": "'It's fall! Let's look for signs that the season is changing.'"},
-        {"type": "instruction", "step": 2, "text": "Look for: colored leaves, bare branches, seeds and pods, squirrels gathering food."},
-        {"type": "instruction", "step": 3, "text": "Collect interesting items. 'Why do you think the leaves change color?'"},
-        {"type": "activity", "prompt": "Draw a fall scene with all the things you observed. Use red, orange, yellow, and brown!", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "Add finds to the nature shelf. 'Fall is nature's way of getting ready for winter!'", "mastery_check": "Can the child describe at least 3 signs of fall?"}
+        {
+          "type": "title",
+          "heading": "Nature Walk",
+          "subheading": "Fall Observations",
+          "image_url": "https://images.pexels.com/photos/3747542/pexels-photo-3747542.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Basket",
+            "Magnifying glass",
+            "Collection bags",
+            "Paper and crayons"
+          ],
+          "setup_instructions": "Pack the basket. Dress appropriately for cooler weather."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'It's fall! Let's look for signs that the season is changing.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Look for: colored leaves, bare branches, seeds and pods, squirrels gathering food."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Collect interesting items. 'Why do you think the leaves change color?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw a fall scene with all the things you observed. Use red, orange, yellow, and brown!",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "Add finds to the nature shelf. 'Fall is nature's way of getting ready for winter!'",
+          "mastery_check": "Can the child describe at least 3 signs of fall?"
+        }
       ]
     },
     "parent_notes": "Seasonal nature walks help children notice patterns in nature — a key scientific thinking skill. The explanation for leaf color change doesn't need to be technical at this age. 'Trees stop making green food and we see the beautiful colors underneath' is sufficient.",
@@ -118,16 +274,51 @@
     "instructions": "1. Read the title and show the cover. 'Look at all those letters climbing the tree!'\n2. Read with rhythm — this book has a strong beat.\n3. Let the child join in on the 'Chicka chicka boom boom!' refrain.\n4. Point out letters the child knows as they appear.\n5. After reading, find the letters s, m, a, t, p, c, r in the book.\n6. 'Can you say the alphabet? Let's try together!'",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Chicka Chicka Boom Boom by Bill Martin Jr. and John Archambault", "Optional: alphabet letter set"],
+    "materials_needed": [
+      "Chicka Chicka Boom Boom by Bill Martin Jr. and John Archambault",
+      "Optional: alphabet letter set"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "Chicka Chicka Boom Boom"},
-        {"type": "materials", "items": ["Chicka Chicka Boom Boom book", "Optional: letter manipulatives"], "setup_instructions": "Sit comfortably together."},
-        {"type": "instruction", "step": 1, "text": "Show cover: 'The letters of the alphabet are climbing a coconut tree! Will there be enough room?'"},
-        {"type": "instruction", "step": 2, "text": "Read rhythmically. Clap or tap along with the beat."},
-        {"type": "instruction", "step": 3, "text": "Child joins in: 'Chicka chicka boom boom! Will there be enough room?'"},
-        {"type": "activity", "prompt": "After reading: find the letters you know! Point to s, m, a, t, p, c, r. What sounds do they make?", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "'All the letters fell out of the tree! Silly letters. Let's read it again!'", "mastery_check": "Can the child join in on the refrain and identify known letters?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "Chicka Chicka Boom Boom",
+          "image_url": "https://images.pexels.com/photos/5951842/pexels-photo-5951842.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Chicka Chicka Boom Boom book",
+            "Optional: letter manipulatives"
+          ],
+          "setup_instructions": "Sit comfortably together."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show cover: 'The letters of the alphabet are climbing a coconut tree! Will there be enough room?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read rhythmically. Clap or tap along with the beat."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Child joins in: 'Chicka chicka boom boom! Will there be enough room?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "After reading: find the letters you know! Point to s, m, a, t, p, c, r. What sounds do they make?",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "'All the letters fell out of the tree! Silly letters. Let's read it again!'",
+          "mastery_check": "Can the child join in on the refrain and identify known letters?"
+        }
       ]
     },
     "parent_notes": "This book makes the alphabet exciting and rhythmic. The strong beat makes it easy to memorize. Don't worry about the child knowing all 26 letters — celebrate the ones they recognize. This is a wonderful bridge between the sandpaper letters work and the broader alphabet.",
@@ -145,16 +336,50 @@
     "instructions": "1. Present Block 3.\n2. Remove all cylinders and scatter.\n3. Note: all same width but different heights.\n4. Replace each by finding the socket of matching depth.\n5. Compare with Blocks 1 and 2.\n6. Independent practice.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Knobbed Cylinder Block 3", "Blocks 1 and 2 for comparison"],
+    "materials_needed": [
+      "Knobbed Cylinder Block 3",
+      "Blocks 1 and 2 for comparison"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Knobbed Cylinders", "subheading": "Block 3 — Height Only"},
-        {"type": "materials", "items": ["Knobbed Cylinder Block 3"], "setup_instructions": "Place on the table."},
-        {"type": "instruction", "step": 1, "text": "'This block is different again! Same width, but different HEIGHTS — some tall, some short.'"},
-        {"type": "instruction", "step": 2, "text": "Remove and scatter. 'The tricky part: the holes all LOOK the same on top!'"},
-        {"type": "instruction", "step": 3, "text": "Try placing a tall cylinder in a shallow hole — it won't sit flush. Find the right depth!"},
-        {"type": "activity", "prompt": "Complete the block independently. Then compare all three blocks — how are they different?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'Three different blocks — each teaches your eyes something new!'", "mastery_check": "Can the child complete Block 3 and describe how it differs from the others?"}
+        {
+          "type": "title",
+          "heading": "Knobbed Cylinders",
+          "subheading": "Block 3 — Height Only",
+          "image_url": "https://images.pexels.com/photos/3933025/pexels-photo-3933025.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Knobbed Cylinder Block 3"
+          ],
+          "setup_instructions": "Place on the table."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'This block is different again! Same width, but different HEIGHTS — some tall, some short.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Remove and scatter. 'The tricky part: the holes all LOOK the same on top!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Try placing a tall cylinder in a shallow hole — it won't sit flush. Find the right depth!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete the block independently. Then compare all three blocks — how are they different?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Three different blocks — each teaches your eyes something new!'",
+          "mastery_check": "Can the child complete Block 3 and describe how it differs from the others?"
+        }
       ]
     },
     "parent_notes": "Block 3 is the most challenging because the cylinders all have the same diameter — you can't tell which goes where just by looking at the top. The child must use height to determine placement. This is a wonderful exercise in careful observation.",
@@ -172,16 +397,52 @@
     "instructions": "1. 'We've been listening for beginning sounds. Now let's listen to the ENDS of words!'\n2. Say 'cat.' 'What do you hear at the END? /t/!' Exaggerate the final sound.\n3. Say 'bus.' 'What sound at the end? /s/!'\n4. Practice with 8-10 words: map (/p/), drum (/m/), kiss (/s/), bed (/d/).\n5. Play reverse I Spy: 'I spy something that ENDS with /t/.'\n6. Sort objects by ending sounds.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Small objects with clear ending sounds", "Sorting mats", "Tray"],
+    "materials_needed": [
+      "Small objects with clear ending sounds",
+      "Sorting mats",
+      "Tray"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "I Spy", "subheading": "Ending Sounds"},
-        {"type": "materials", "items": ["Objects with clear ending sounds", "Sorting mats"], "setup_instructions": "Select objects with distinct final consonants."},
-        {"type": "instruction", "step": 1, "text": "'You're great at hearing beginning sounds. Now let's listen to the ENDS of words!'"},
-        {"type": "instruction", "step": 2, "text": "Say 'caaat.' 'Listen to the very end: /t/!' Say 'bussss.' 'The end sound is /s/!'"},
-        {"type": "instruction", "step": 3, "text": "'I spy something that ENDS with /p/.' Child finds an object like 'cup' or 'map.'"},
-        {"type": "activity", "prompt": "Sort objects by their ending sounds. Which objects end with /t/? Which end with /m/?", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'You can hear sounds at the beginning AND end of words now!'", "mastery_check": "Can the child identify ending sounds in 6 out of 8 words?"}
+        {
+          "type": "title",
+          "heading": "I Spy",
+          "subheading": "Ending Sounds",
+          "image_url": "https://images.pexels.com/photos/7807854/pexels-photo-7807854.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Objects with clear ending sounds",
+            "Sorting mats"
+          ],
+          "setup_instructions": "Select objects with distinct final consonants."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'You're great at hearing beginning sounds. Now let's listen to the ENDS of words!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Say 'caaat.' 'Listen to the very end: /t/!' Say 'bussss.' 'The end sound is /s/!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'I spy something that ENDS with /p/.' Child finds an object like 'cup' or 'map.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Sort objects by their ending sounds. Which objects end with /t/? Which end with /m/?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You can hear sounds at the beginning AND end of words now!'",
+          "mastery_check": "Can the child identify ending sounds in 6 out of 8 words?"
+        }
       ]
     },
     "parent_notes": "Ending sounds are harder to isolate than beginning sounds. Stretch the final sound: 'caaat-t-t' or 'bussss.' This skill is essential for spelling. Don't rush — some children need many sessions before ending sounds click. If the child confuses ending and beginning sounds, go back to beginning sounds for a while.",
@@ -199,16 +460,52 @@
     "instructions": "1. Set up a shallow tray of fine sand.\n2. Show sandpaper numeral 1. Trace it. Then write it in the sand.\n3. Shake the tray to erase. Try again.\n4. Continue with numerals 2-5.\n5. Child chooses a numeral, traces it, then writes in sand.\n6. Extension: write numerals to dictation ('write 4').",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Sand tray", "Sandpaper numerals 1-10", "Fine sand or salt"],
+    "materials_needed": [
+      "Sand tray",
+      "Sandpaper numerals 1-10",
+      "Fine sand or salt"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Numeral Writing", "subheading": "Sand Tray Practice"},
-        {"type": "materials", "items": ["Sand tray with fine sand", "Sandpaper numerals 1-10"], "setup_instructions": "Fill a shallow tray with fine sand. Smooth it flat."},
-        {"type": "instruction", "step": 1, "text": "Trace sandpaper numeral 1 with two fingers. 'Feel the shape. Now write it in the sand!'"},
-        {"type": "instruction", "step": 2, "text": "Write 1 in the sand. Shake gently to erase. 'Try again! Each time it gets better.'"},
-        {"type": "instruction", "step": 3, "text": "Continue with 2, 3, 4, 5. Trace the sandpaper numeral first, then write in sand."},
-        {"type": "activity", "prompt": "Dictation game: I say a number, you write it in the sand! Ready? 'Write 3!'", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'Your numbers are looking great in the sand! Soon we'll try them on paper.'", "mastery_check": "Can the child write recognizable numerals 1-5 in sand?"}
+        {
+          "type": "title",
+          "heading": "Numeral Writing",
+          "subheading": "Sand Tray Practice",
+          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sand tray with fine sand",
+            "Sandpaper numerals 1-10"
+          ],
+          "setup_instructions": "Fill a shallow tray with fine sand. Smooth it flat."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Trace sandpaper numeral 1 with two fingers. 'Feel the shape. Now write it in the sand!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Write 1 in the sand. Shake gently to erase. 'Try again! Each time it gets better.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Continue with 2, 3, 4, 5. Trace the sandpaper numeral first, then write in sand."
+        },
+        {
+          "type": "activity",
+          "prompt": "Dictation game: I say a number, you write it in the sand! Ready? 'Write 3!'",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Your numbers are looking great in the sand! Soon we'll try them on paper.'",
+          "mastery_check": "Can the child write recognizable numerals 1-5 in sand?"
+        }
       ]
     },
     "parent_notes": "Sand writing is an intermediate step between tracing sandpaper numerals and writing on paper. The sand provides sensory feedback and zero pressure — mistakes are shaken away instantly. Salt works as well as sand. Colored sand in a dark tray creates beautiful contrast. Let the child write freely in the sand too — letters, shapes, anything.",
@@ -226,16 +523,55 @@
     "instructions": "1. Create a simple weather chart (or use a pre-made one).\n2. Introduce weather symbols: sun, clouds, rain, snow, wind.\n3. Look outside: 'What is the weather today?'\n4. Place or draw the correct symbol on today's date.\n5. Discuss: temperature (warm/cool/cold), sky (clear/cloudy), precipitation.\n6. Commit to recording weather daily.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Weather chart (poster or notebook)", "Weather symbol cards", "Thermometer (optional)", "Crayons"],
+    "materials_needed": [
+      "Weather chart (poster or notebook)",
+      "Weather symbol cards",
+      "Thermometer (optional)",
+      "Crayons"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Weather Chart", "subheading": "Observing Our Weather"},
-        {"type": "materials", "items": ["Weather chart", "Weather symbol cards or stickers", "Crayons", "Optional: outdoor thermometer"], "setup_instructions": "Hang the weather chart where the child can reach it. Prepare symbol cards."},
-        {"type": "instruction", "step": 1, "text": "'Scientists observe the weather every day! We're going to be weather scientists.'"},
-        {"type": "instruction", "step": 2, "text": "Show symbols: sunny, cloudy, rainy, snowy, windy. 'Which one matches today?'"},
-        {"type": "instruction", "step": 3, "text": "Look outside together. Place or draw the symbol on today's square."},
-        {"type": "activity", "prompt": "'Is it warm or cool? Is the sky clear or cloudy? What do you think tomorrow's weather will be?'", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "'Every day we'll record the weather. After a while, we'll see PATTERNS!'", "mastery_check": "Can the child identify the current weather and select the correct symbol?"}
+        {
+          "type": "title",
+          "heading": "Weather Chart",
+          "subheading": "Observing Our Weather",
+          "image_url": "https://images.pexels.com/photos/8923701/pexels-photo-8923701.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Weather chart",
+            "Weather symbol cards or stickers",
+            "Crayons",
+            "Optional: outdoor thermometer"
+          ],
+          "setup_instructions": "Hang the weather chart where the child can reach it. Prepare symbol cards."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Scientists observe the weather every day! We're going to be weather scientists.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show symbols: sunny, cloudy, rainy, snowy, windy. 'Which one matches today?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Look outside together. Place or draw the symbol on today's square."
+        },
+        {
+          "type": "activity",
+          "prompt": "'Is it warm or cool? Is the sky clear or cloudy? What do you think tomorrow's weather will be?'",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Every day we'll record the weather. After a while, we'll see PATTERNS!'",
+          "mastery_check": "Can the child identify the current weather and select the correct symbol?"
+        }
       ]
     },
     "parent_notes": "A daily weather chart builds observation habits, data collection skills, and pattern recognition — all key scientific skills. After a month, review the chart: 'Was it mostly sunny or cloudy this month?' This connects to science (weather patterns), math (graphing), and geography (climate). Make it a daily routine.",
@@ -253,16 +589,55 @@
     "instructions": "1. Set up: finger paints (red, yellow, blue), large paper, smock.\n2. Show how to dip fingers into paint and spread on paper.\n3. Let the child explore: lines, dots, swirls, handprints.\n4. 'What happens when red and yellow mix?' (Orange!)\n5. Encourage experimentation with all colors.\n6. Let dry and display.",
     "duration_minutes": 20,
     "lesson_type": "independent",
-    "materials_needed": ["Finger paints (primary colors)", "Large paper", "Smock", "Wet washcloth for cleaning"],
+    "materials_needed": [
+      "Finger paints (primary colors)",
+      "Large paper",
+      "Smock",
+      "Wet washcloth for cleaning"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Finger Painting", "subheading": "Colors and Textures"},
-        {"type": "materials", "items": ["Finger paints: red, yellow, blue", "Large paper", "Smock", "Wet washcloth"], "setup_instructions": "Cover table. Put on smock. Squeeze paint onto paper or into plates."},
-        {"type": "instruction", "step": 1, "text": "'Today we paint with our FINGERS! Dip in and spread, swirl, dot — anything goes!'"},
-        {"type": "instruction", "step": 2, "text": "'Try mixing: put red next to yellow and swirl together. What color do you see?'"},
-        {"type": "instruction", "step": 3, "text": "Let the child explore freely. Make handprints. Draw with one finger. Use palms."},
-        {"type": "activity", "prompt": "Create a finger painting using all three colors. How many new colors can you discover?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Wash hands. Let painting dry flat. 'What colors did you discover?'", "mastery_check": "Did the child explore color mixing and different mark-making techniques?"}
+        {
+          "type": "title",
+          "heading": "Finger Painting",
+          "subheading": "Colors and Textures",
+          "image_url": "https://images.pexels.com/photos/10322846/pexels-photo-10322846.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Finger paints: red, yellow, blue",
+            "Large paper",
+            "Smock",
+            "Wet washcloth"
+          ],
+          "setup_instructions": "Cover table. Put on smock. Squeeze paint onto paper or into plates."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today we paint with our FINGERS! Dip in and spread, swirl, dot — anything goes!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Try mixing: put red next to yellow and swirl together. What color do you see?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Let the child explore freely. Make handprints. Draw with one finger. Use palms."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a finger painting using all three colors. How many new colors can you discover?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Wash hands. Let painting dry flat. 'What colors did you discover?'",
+          "mastery_check": "Did the child explore color mixing and different mark-making techniques?"
+        }
       ]
     },
     "parent_notes": "Finger painting is pure sensory exploration. Some children love the messiness; others are hesitant. Both responses are fine. For tactile-sensitive children, start with just one finger and one color. Color mixing is magical and teaches primary/secondary colors. Save this painting — it's a developmental snapshot.",
@@ -280,16 +655,55 @@
     "instructions": "1. Place two bowls on a tray — one with small beads or pom-poms.\n2. Show the child how to hold tweezers (like a pencil).\n3. Demonstrate: squeeze to open, grab one bead, carry, release.\n4. Child transfers all beads.\n5. This is harder than tongs — celebrate effort!\n6. Transfer back.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Small tray", "Two small bowls", "Child-safe tweezers", "Small beads or pom-poms (15-20)"],
+    "materials_needed": [
+      "Small tray",
+      "Two small bowls",
+      "Child-safe tweezers",
+      "Small beads or pom-poms (15-20)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Transferring", "subheading": "Using Tweezers"},
-        {"type": "materials", "items": ["Tweezers", "Small beads or pom-poms", "Two bowls", "Tray"], "setup_instructions": "Place beads in one bowl. Set both bowls and tweezers on the tray."},
-        {"type": "instruction", "step": 1, "text": "'These are tweezers. They're smaller than tongs and need a special grip — just like holding a pencil!'"},
-        {"type": "instruction", "step": 2, "text": "Demonstrate the pincer grip on the tweezers. Squeeze, grab, carry, release."},
-        {"type": "instruction", "step": 3, "text": "'Your turn! Take your time — tweezers are a challenge for our fingers.'"},
-        {"type": "activity", "prompt": "Transfer all the beads. If tweezers are too hard, use fingers to pinch each bead instead!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'Your fingers are getting stronger and more precise!'", "mastery_check": "Can the child use tweezers to transfer at least half the beads?"}
+        {
+          "type": "title",
+          "heading": "Transferring",
+          "subheading": "Using Tweezers",
+          "image_url": "https://images.pexels.com/photos/4099467/pexels-photo-4099467.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Tweezers",
+            "Small beads or pom-poms",
+            "Two bowls",
+            "Tray"
+          ],
+          "setup_instructions": "Place beads in one bowl. Set both bowls and tweezers on the tray."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'These are tweezers. They're smaller than tongs and need a special grip — just like holding a pencil!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Demonstrate the pincer grip on the tweezers. Squeeze, grab, carry, release."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Your turn! Take your time — tweezers are a challenge for our fingers.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Transfer all the beads. If tweezers are too hard, use fingers to pinch each bead instead!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Your fingers are getting stronger and more precise!'",
+          "mastery_check": "Can the child use tweezers to transfer at least half the beads?"
+        }
       ]
     },
     "parent_notes": "Tweezers require the same three-finger grip used in writing. This exercise directly builds handwriting readiness. If tweezers are too frustrating, offer large tweezers or go back to tongs. Progress naturally: tongs → large tweezers → small tweezers → chopsticks (later). This is excellent independent shelf work.",
@@ -307,16 +721,53 @@
     "instructions": "1. Review all letter sounds.\n2. Build words with /r/: rat, ram, rap, ramp.\n3. For each word, sound it out: /r/-/a/-/t/ = rat.\n4. Match objects to built words when possible.\n5. Let the child choose and build 2 words independently.\n6. Try reading the words back.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Moveable alphabet", "Work mat", "Small objects (toy rat, etc.)"],
+    "materials_needed": [
+      "Moveable alphabet",
+      "Work mat",
+      "Small objects (toy rat, etc.)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Word Building", "subheading": "Words with /r/"},
-        {"type": "materials", "items": ["Moveable alphabet", "Mat", "Objects for matching"], "setup_instructions": "Lay out needed letters. Have objects ready."},
-        {"type": "instruction", "step": 1, "text": "Quick sound review: hold up each letter, child says the sound."},
-        {"type": "instruction", "step": 2, "text": "'Let's build RAT: /r/-/a/-/t/.' Child finds r, a, t. 'You built RAT!'"},
-        {"type": "instruction", "step": 3, "text": "Continue: ram, rap, ramp (4 letters!). 'Ramp is a longer word — listen for all the sounds.'"},
-        {"type": "activity", "prompt": "Build these words: rat, ram, rap, ramp, cram. Can you read them back?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You built so many new words with /r/! You're becoming a word wizard!'", "mastery_check": "Can the child build at least 3 words independently?"}
+        {
+          "type": "title",
+          "heading": "Word Building",
+          "subheading": "Words with /r/",
+          "image_url": "https://images.pexels.com/photos/1887614/pexels-photo-1887614.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Moveable alphabet",
+            "Mat",
+            "Objects for matching"
+          ],
+          "setup_instructions": "Lay out needed letters. Have objects ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Quick sound review: hold up each letter, child says the sound."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Let's build RAT: /r/-/a/-/t/.' Child finds r, a, t. 'You built RAT!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Continue: ram, rap, ramp (4 letters!). 'Ramp is a longer word — listen for all the sounds.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Build these words: rat, ram, rap, ramp, cram. Can you read them back?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You built so many new words with /r/! You're becoming a word wizard!'",
+          "mastery_check": "Can the child build at least 3 words independently?"
+        }
       ]
     },
     "parent_notes": "Four-letter words like 'ramp' and 'cram' introduce consonant clusters at the end. Sound out slowly: /r/-/a/-/m/-/p/. The child may need help hearing all four sounds. Don't worry about spelling rules yet — just phonetic building. If the child builds a non-word that sounds logical (like 'pram'), celebrate the phonetic thinking!",
@@ -334,16 +785,53 @@
     "instructions": "1. Set out 10 small objects in a row.\n2. Demonstrate: touch each object as you count. One touch = one number.\n3. 'Your turn! Touch each one as you count.'\n4. Vary the objects: buttons, shells, blocks, bears.\n5. Ask: 'How many are there?' (cardinality — the last number is the total)\n6. Extension: 'Give me 6 bears.' Child counts out 6.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Small counting objects (bears, buttons, shells, blocks — 10-15 each)", "Counting mat", "Small bowls"],
+    "materials_needed": [
+      "Small counting objects (bears, buttons, shells, blocks — 10-15 each)",
+      "Counting mat",
+      "Small bowls"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Counting Objects", "subheading": "One-to-One Correspondence"},
-        {"type": "materials", "items": ["Various small counting objects", "Counting mat", "Small bowls"], "setup_instructions": "Set out different types of counting objects."},
-        {"type": "instruction", "step": 1, "text": "Line up 8 bears. 'Let's count! Touch each bear ONE time as you say the number.'"},
-        {"type": "instruction", "step": 2, "text": "Demonstrate: point to each bear — '1, 2, 3, 4, 5, 6, 7, 8. There are EIGHT bears!'"},
-        {"type": "instruction", "step": 3, "text": "'The last number you say is how many there are. That's called the TOTAL.'"},
-        {"type": "activity", "prompt": "Count different sets: buttons, shells, blocks. Then: 'Give me exactly 7 shells.'", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'You can count anything! The secret is: one touch, one number.'", "mastery_check": "Can the child count objects to 10 with accurate one-to-one correspondence?"}
+        {
+          "type": "title",
+          "heading": "Counting Objects",
+          "subheading": "One-to-One Correspondence",
+          "image_url": "https://images.pexels.com/photos/6693302/pexels-photo-6693302.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Various small counting objects",
+            "Counting mat",
+            "Small bowls"
+          ],
+          "setup_instructions": "Set out different types of counting objects."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Line up 8 bears. 'Let's count! Touch each bear ONE time as you say the number.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Demonstrate: point to each bear — '1, 2, 3, 4, 5, 6, 7, 8. There are EIGHT bears!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'The last number you say is how many there are. That's called the TOTAL.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Count different sets: buttons, shells, blocks. Then: 'Give me exactly 7 shells.'",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You can count anything! The secret is: one touch, one number.'",
+          "mastery_check": "Can the child count objects to 10 with accurate one-to-one correspondence?"
+        }
       ]
     },
     "parent_notes": "One-to-one correspondence is the most fundamental counting skill. Watch for: skipping objects, double-counting, or saying numbers faster than pointing. If the child struggles, use larger objects with more space between them. The 'give me' game tests both counting AND cardinality (understanding that the last number represents the total amount).",
@@ -361,16 +849,53 @@
     "instructions": "1. Review: 'What makes something living?' (grows, breathes, needs food/water)\n2. Sort 10 items into living and non-living.\n3. Introduce 'once living': a dried leaf, wooden block, leather shoe.\n4. These were PART of a living thing but are no longer alive.\n5. Create three sorting groups: living, non-living, once living.\n6. Discuss tricky examples.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Items for sorting (10-12)", "Three sorting mats", "Labels: Living, Non-Living, Once Living"],
+    "materials_needed": [
+      "Items for sorting (10-12)",
+      "Three sorting mats",
+      "Labels: Living, Non-Living, Once Living"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Living and Non-Living", "subheading": "Review and Once Living"},
-        {"type": "materials", "items": ["10-12 items for sorting", "Three sorting mats", "Labels"], "setup_instructions": "Include 'tricky' items: dried flower, wooden spoon, wool sweater."},
-        {"type": "instruction", "step": 1, "text": "Review: 'Living things grow, eat, breathe, and make more of themselves.'"},
-        {"type": "instruction", "step": 2, "text": "Sort 10 items. Then introduce: 'Some things WERE living but aren't anymore.'"},
-        {"type": "instruction", "step": 3, "text": "Wooden block: 'This came from a tree — the tree was living! But the wood is no longer alive.'"},
-        {"type": "activity", "prompt": "Sort into THREE groups now: Living, Non-Living, and Once Living. Discuss each tricky item!", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'Our world is full of living things, non-living things, and things that were once alive!'", "mastery_check": "Can the child sort with the new 'once living' category?"}
+        {
+          "type": "title",
+          "heading": "Living and Non-Living",
+          "subheading": "Review and Once Living",
+          "image_url": "https://images.pexels.com/photos/30333025/pexels-photo-30333025.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "10-12 items for sorting",
+            "Three sorting mats",
+            "Labels"
+          ],
+          "setup_instructions": "Include 'tricky' items: dried flower, wooden spoon, wool sweater."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'Living things grow, eat, breathe, and make more of themselves.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Sort 10 items. Then introduce: 'Some things WERE living but aren't anymore.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Wooden block: 'This came from a tree — the tree was living! But the wood is no longer alive.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Sort into THREE groups now: Living, Non-Living, and Once Living. Discuss each tricky item!",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Our world is full of living things, non-living things, and things that were once alive!'",
+          "mastery_check": "Can the child sort with the new 'once living' category?"
+        }
       ]
     },
     "parent_notes": "The 'once living' category builds critical thinking. A wooden table is non-living, but it came from a living tree. A leather shoe came from a living cow. These discussions are valuable — there's no rush to get 'right answers.' The thinking process matters more than perfect sorting. This is a great dinner table conversation topic!",
@@ -388,16 +913,50 @@
     "instructions": "1. Teach 'Itsy Bitsy Spider' with finger motions.\n2. Climb fingers up, wiggle rain down, sun comes out, climb again.\n3. Sing together 3 times.\n4. Teach 'Twinkle Twinkle Little Star' — open and close hands for stars.\n5. Sing slowly, then at regular speed.\n6. Review all nursery rhymes learned so far (6 total).",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Optional: nursery rhyme book with pictures", "Optional: star stickers for decoration"],
+    "materials_needed": [
+      "Optional: nursery rhyme book with pictures",
+      "Optional: star stickers for decoration"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Nursery Rhymes", "subheading": "Itsy Bitsy Spider & Twinkle Twinkle"},
-        {"type": "materials", "items": ["Optional: nursery rhyme picture book"], "setup_instructions": "Sit face to face so the child can mirror your hand motions."},
-        {"type": "instruction", "step": 1, "text": "Teach 'Itsy Bitsy Spider' slowly with hand motions. Line by line, child echoes."},
-        {"type": "instruction", "step": 2, "text": "Sing together 3 times. Each time, the child does more of the motions independently."},
-        {"type": "instruction", "step": 3, "text": "'Twinkle Twinkle Little Star' — sing gently. Open and close hands like twinkling stars."},
-        {"type": "activity", "prompt": "Can you sing all 6 nursery rhymes you know? Let's have a nursery rhyme concert!", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "'SIX nursery rhymes! You're building a wonderful collection.'", "mastery_check": "Can the child sing along with most of both new rhymes?"}
+        {
+          "type": "title",
+          "heading": "Nursery Rhymes",
+          "subheading": "Itsy Bitsy Spider & Twinkle Twinkle",
+          "image_url": "https://images.pexels.com/photos/5865565/pexels-photo-5865565.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Optional: nursery rhyme picture book"
+          ],
+          "setup_instructions": "Sit face to face so the child can mirror your hand motions."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Teach 'Itsy Bitsy Spider' slowly with hand motions. Line by line, child echoes."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Sing together 3 times. Each time, the child does more of the motions independently."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Twinkle Twinkle Little Star' — sing gently. Open and close hands like twinkling stars."
+        },
+        {
+          "type": "activity",
+          "prompt": "Can you sing all 6 nursery rhymes you know? Let's have a nursery rhyme concert!",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "'SIX nursery rhymes! You're building a wonderful collection.'",
+          "mastery_check": "Can the child sing along with most of both new rhymes?"
+        }
       ]
     },
     "parent_notes": "These are two of the most well-known rhymes. Hand motions add kinesthetic memory — children who do the motions remember the words better. 'Twinkle Twinkle' has the same melody as 'ABC Song' — you can point this out later when the child knows both. Singing builds phonological awareness, rhythm, and memory.",
@@ -415,16 +974,49 @@
     "instructions": "1. Open Color Box 1. Remove all 6 tablets.\n2. Scatter on the mat.\n3. Pick up a red tablet. 'I need to find the one that matches.' Compare to each tablet.\n4. Find the matching red. Place them side by side.\n5. Continue with yellow and blue.\n6. Three-period lesson: 'This is red. Show me blue. What color is this?'",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Color Tablets Box 1 (3 pairs: red, yellow, blue)"],
+    "materials_needed": [
+      "Color Tablets Box 1 (3 pairs: red, yellow, blue)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Color Tablets", "subheading": "Box 1 — Primary Colors"},
-        {"type": "materials", "items": ["Color Tablets Box 1 — 6 tablets (3 pairs)"], "setup_instructions": "Place the box on the table. Have a clean, neutral-colored mat."},
-        {"type": "instruction", "step": 1, "text": "Open the box. 'Inside are color tablets! Let's spread them out and find the matches.'"},
-        {"type": "instruction", "step": 2, "text": "Hold up a red tablet. 'I need to find the one that looks exactly the same.' Compare to others."},
-        {"type": "instruction", "step": 3, "text": "Place matching pairs side by side. Name the colors: red, yellow, blue."},
-        {"type": "activity", "prompt": "Mix them up and match them again! Can you name each color?", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'Red, yellow, and blue are called PRIMARY COLORS. Every other color is made from these three!'", "mastery_check": "Can the child match all three pairs and name the colors?"}
+        {
+          "type": "title",
+          "heading": "Color Tablets",
+          "subheading": "Box 1 — Primary Colors",
+          "image_url": "https://images.pexels.com/photos/1153895/pexels-photo-1153895.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Color Tablets Box 1 — 6 tablets (3 pairs)"
+          ],
+          "setup_instructions": "Place the box on the table. Have a clean, neutral-colored mat."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Open the box. 'Inside are color tablets! Let's spread them out and find the matches.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Hold up a red tablet. 'I need to find the one that looks exactly the same.' Compare to others."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Place matching pairs side by side. Name the colors: red, yellow, blue."
+        },
+        {
+          "type": "activity",
+          "prompt": "Mix them up and match them again! Can you name each color?",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Red, yellow, and blue are called PRIMARY COLORS. Every other color is made from these three!'",
+          "mastery_check": "Can the child match all three pairs and name the colors?"
+        }
       ]
     },
     "parent_notes": "Most children already know primary color names, so Box 1 is usually quick. The purpose is to establish the WORK — how to handle color tablets carefully (by the edges, not the colored surfaces). The real challenge comes with Box 2 (11 pairs) and Box 3 (grading). Handle tablets by the wooden edges to keep colors clean.",
@@ -442,16 +1034,54 @@
     "instructions": "1. Choose the pentagon metal inset.\n2. Trace the frame with one color.\n3. Trace the inset with a second color.\n4. Fill with parallel lines in a third color.\n5. Notice: the pentagon has 5 sides and 5 corners.\n6. Display the design.",
     "duration_minutes": 30,
     "lesson_type": "independent",
-    "materials_needed": ["Metal inset (pentagon)", "Paper", "Colored pencils (3 colors)", "Tray"],
+    "materials_needed": [
+      "Metal inset (pentagon)",
+      "Paper",
+      "Colored pencils (3 colors)",
+      "Tray"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Metal Insets", "subheading": "Pentagon"},
-        {"type": "materials", "items": ["Pentagon metal inset", "Paper", "3 colored pencils"], "setup_instructions": "Let the child choose their own colors."},
-        {"type": "instruction", "step": 1, "text": "'A pentagon has FIVE sides. Count them with me as you trace!'"},
-        {"type": "instruction", "step": 2, "text": "Trace frame, trace inset, fill with lines. Focus on staying inside the boundary."},
-        {"type": "instruction", "step": 3, "text": "Try varying the direction of filling lines: horizontal one time, vertical the next, diagonal the third."},
-        {"type": "activity", "prompt": "Make two pentagon designs with different color combinations and different line directions.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Display your designs. 'Pentagon means five-sided — you can see the five sides in your drawing!'", "mastery_check": "Is the child's filling becoming more controlled?"}
+        {
+          "type": "title",
+          "heading": "Metal Insets",
+          "subheading": "Pentagon",
+          "image_url": "https://images.pexels.com/photos/1822568/pexels-photo-1822568.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pentagon metal inset",
+            "Paper",
+            "3 colored pencils"
+          ],
+          "setup_instructions": "Let the child choose their own colors."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'A pentagon has FIVE sides. Count them with me as you trace!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Trace frame, trace inset, fill with lines. Focus on staying inside the boundary."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Try varying the direction of filling lines: horizontal one time, vertical the next, diagonal the third."
+        },
+        {
+          "type": "activity",
+          "prompt": "Make two pentagon designs with different color combinations and different line directions.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Display your designs. 'Pentagon means five-sided — you can see the five sides in your drawing!'",
+          "mastery_check": "Is the child's filling becoming more controlled?"
+        }
       ]
     },
     "parent_notes": "Varying the direction of filling lines (horizontal, vertical, diagonal) prepares the child for different letter strokes. The pentagon introduces a more complex shape with acute angles. Naming shapes during metal inset work provides informal geometry vocabulary. The child is simultaneously doing art, geometry, and writing preparation!",
@@ -469,16 +1099,51 @@
     "instructions": "1. Lay out numeral cards 1-10 in order.\n2. 'Close your eyes!' Remove one card.\n3. 'Open your eyes! Which number is missing?'\n4. The child identifies the missing number.\n5. Replace and repeat with different numbers.\n6. Extension: remove TWO numbers at once.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Numeral cards 1-10", "Table or mat"],
+    "materials_needed": [
+      "Numeral cards 1-10",
+      "Table or mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Missing Number!", "subheading": "Which Number Is Gone?"},
-        {"type": "materials", "items": ["Numeral cards 1-10", "Table or mat"], "setup_instructions": "Lay out cards in order. Practice reading the sequence first."},
-        {"type": "instruction", "step": 1, "text": "Read the sequence together: '1, 2, 3, 4, 5, 6, 7, 8, 9, 10!'"},
-        {"type": "instruction", "step": 2, "text": "'Close your eyes...' (remove card 5) 'Open! Which number is missing?'"},
-        {"type": "instruction", "step": 3, "text": "If the child struggles, read the remaining sequence aloud to hear the gap."},
-        {"type": "activity", "prompt": "Take turns: you remove a number, then I remove a number! Can you stump me?", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'You know your numbers so well that you can spot the missing one!'", "mastery_check": "Can the child identify the missing number within 1-10?"}
+        {
+          "type": "title",
+          "heading": "Missing Number!",
+          "subheading": "Which Number Is Gone?",
+          "image_url": "https://images.pexels.com/photos/311269/pexels-photo-311269.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Numeral cards 1-10",
+            "Table or mat"
+          ],
+          "setup_instructions": "Lay out cards in order. Practice reading the sequence first."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read the sequence together: '1, 2, 3, 4, 5, 6, 7, 8, 9, 10!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Close your eyes...' (remove card 5) 'Open! Which number is missing?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "If the child struggles, read the remaining sequence aloud to hear the gap."
+        },
+        {
+          "type": "activity",
+          "prompt": "Take turns: you remove a number, then I remove a number! Can you stump me?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You know your numbers so well that you can spot the missing one!'",
+          "mastery_check": "Can the child identify the missing number within 1-10?"
+        }
       ]
     },
     "parent_notes": "This game tests number sequence knowledge. If the child struggles with numbers in the middle (4, 5, 6, 7), they may need more practice counting. The extension of removing TWO numbers is significantly harder. Taking turns makes it social and fun. This is a great game for car rides or waiting rooms — just use fingers instead of cards.",
@@ -496,16 +1161,53 @@
     "instructions": "1. Sing the continent song together.\n2. As each continent is named, find it on the globe.\n3. Play 'Spin and Name': spin the globe, stop it, name the continent under your finger.\n4. Review facts: 'Which is the biggest? Smallest? Coldest?'\n5. Challenge: name all 7 without looking at the globe.\n6. Draw a simple world map with continents labeled.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Globe", "Continent song lyrics", "Paper and colored pencils for drawing"],
+    "materials_needed": [
+      "Globe",
+      "Continent song lyrics",
+      "Paper and colored pencils for drawing"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Globe Review", "subheading": "Seven Continents Song and Game"},
-        {"type": "materials", "items": ["Globe", "Song lyrics", "Paper and pencils"], "setup_instructions": "Have the globe ready and song lyrics visible."},
-        {"type": "instruction", "step": 1, "text": "Sing the continent song together! Point to each continent on the globe as you sing."},
-        {"type": "instruction", "step": 2, "text": "Spin and Name game: spin, stop, name! Take turns."},
-        {"type": "instruction", "step": 3, "text": "Quick quiz: 'Which is the biggest continent?' (Asia) 'The coldest?' (Antarctica)"},
-        {"type": "activity", "prompt": "Draw a simple picture of the world with all 7 continents. Color them with Montessori colors!", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'You're becoming a geography expert!'", "mastery_check": "Can the child name and locate all 7 continents?"}
+        {
+          "type": "title",
+          "heading": "Globe Review",
+          "subheading": "Seven Continents Song and Game",
+          "image_url": "https://images.pexels.com/photos/672142/pexels-photo-672142.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Globe",
+            "Song lyrics",
+            "Paper and pencils"
+          ],
+          "setup_instructions": "Have the globe ready and song lyrics visible."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Sing the continent song together! Point to each continent on the globe as you sing."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Spin and Name game: spin, stop, name! Take turns."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Quick quiz: 'Which is the biggest continent?' (Asia) 'The coldest?' (Antarctica)"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw a simple picture of the world with all 7 continents. Color them with Montessori colors!",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You're becoming a geography expert!'",
+          "mastery_check": "Can the child name and locate all 7 continents?"
+        }
       ]
     },
     "parent_notes": "Repetition through song and games makes geography stick. By now the child should recognize most continents on the globe. The drawing activity doesn't need to be geographically accurate — a child's representation is perfect. Point out continents whenever you encounter them in books, news, or conversation.",
@@ -523,16 +1225,53 @@
     "instructions": "1. Provide playdough in 3-4 colors.\n2. Demonstrate techniques: rolling (snakes), pinching, flattening, poking.\n3. Show how to make a ball, a snake, and a flat circle.\n4. 'What would you like to make?'\n5. Let the child sculpt freely.\n6. Use simple tools: plastic knife, fork, cookie cutters.",
     "duration_minutes": 20,
     "lesson_type": "independent",
-    "materials_needed": ["Playdough (3-4 colors)", "Playdough tools (rolling pin, plastic knife, cookie cutters)", "Mat or board to work on"],
+    "materials_needed": [
+      "Playdough (3-4 colors)",
+      "Playdough tools (rolling pin, plastic knife, cookie cutters)",
+      "Mat or board to work on"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Playdough", "subheading": "Sculpting and Creating"},
-        {"type": "materials", "items": ["Playdough in several colors", "Tools: rolling pin, plastic knife, cutters", "Work mat"], "setup_instructions": "Set out playdough and tools on a mat. Ensure hands are clean."},
-        {"type": "instruction", "step": 1, "text": "Show techniques: roll a ball between palms. Roll a snake on the table. Flatten with palm or rolling pin."},
-        {"type": "instruction", "step": 2, "text": "'You can pinch, poke, squeeze, cut, and mold the playdough into anything!'"},
-        {"type": "instruction", "step": 3, "text": "'What will you create? An animal? A person? Food? A design?'"},
-        {"type": "activity", "prompt": "Create anything you imagine! Try combining colors. Use the tools to add details.", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Display creations briefly. Then return playdough to containers. 'What did you make? Tell me about it!'", "mastery_check": "Can the child use multiple techniques (rolling, pinching, flattening)?"}
+        {
+          "type": "title",
+          "heading": "Playdough",
+          "subheading": "Sculpting and Creating",
+          "image_url": "https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Playdough in several colors",
+            "Tools: rolling pin, plastic knife, cutters",
+            "Work mat"
+          ],
+          "setup_instructions": "Set out playdough and tools on a mat. Ensure hands are clean."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show techniques: roll a ball between palms. Roll a snake on the table. Flatten with palm or rolling pin."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'You can pinch, poke, squeeze, cut, and mold the playdough into anything!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'What will you create? An animal? A person? Food? A design?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create anything you imagine! Try combining colors. Use the tools to add details.",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Display creations briefly. Then return playdough to containers. 'What did you make? Tell me about it!'",
+          "mastery_check": "Can the child use multiple techniques (rolling, pinching, flattening)?"
+        }
       ]
     },
     "parent_notes": "Playdough is one of the best hand-strengthening activities. Rolling, pinching, and squeezing build the muscles needed for writing. Homemade playdough works great and can be a practical life activity to make together! Don't insist on recognizable products — the sensory exploration and hand exercise are the point.",
@@ -550,16 +1289,50 @@
     "instructions": "1. Place a square cloth flat on the table.\n2. Demonstrate: 'Match this edge to that edge.' Fold in half.\n3. Smooth the fold with hands.\n4. Open it back up. Fold again.\n5. Show horizontal fold, then vertical fold.\n6. Child practices with multiple cloths.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Square cloths or napkins (5-6, various colors)", "Table"],
+    "materials_needed": [
+      "Square cloths or napkins (5-6, various colors)",
+      "Table"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Folding Cloths", "subheading": "Folding in Halves"},
-        {"type": "materials", "items": ["5-6 square cloths or napkins"], "setup_instructions": "Stack cloths neatly. Lay one flat on the table."},
-        {"type": "instruction", "step": 1, "text": "'We're going to learn to fold! Lay the cloth flat and smooth it with your hands.'"},
-        {"type": "instruction", "step": 2, "text": "'Take this edge and bring it to meet the other edge. They should match perfectly.'"},
-        {"type": "instruction", "step": 3, "text": "'Now smooth the fold line with your hand. A nice, crisp fold!' Open and refold."},
-        {"type": "activity", "prompt": "Fold each cloth in half. Try one fold side-to-side, and one fold top-to-bottom. Can you make them match?", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'Beautiful folds! You can help fold laundry at home now.'", "mastery_check": "Can the child match edges and create a neat half fold?"}
+        {
+          "type": "title",
+          "heading": "Folding Cloths",
+          "subheading": "Folding in Halves",
+          "image_url": "https://images.pexels.com/photos/1684031/pexels-photo-1684031.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "5-6 square cloths or napkins"
+          ],
+          "setup_instructions": "Stack cloths neatly. Lay one flat on the table."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'We're going to learn to fold! Lay the cloth flat and smooth it with your hands.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Take this edge and bring it to meet the other edge. They should match perfectly.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Now smooth the fold line with your hand. A nice, crisp fold!' Open and refold."
+        },
+        {
+          "type": "activity",
+          "prompt": "Fold each cloth in half. Try one fold side-to-side, and one fold top-to-bottom. Can you make them match?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Beautiful folds! You can help fold laundry at home now.'",
+          "mastery_check": "Can the child match edges and create a neat half fold?"
+        }
       ]
     },
     "parent_notes": "Folding develops precision, bilateral coordination (using both hands together), and geometric thinking (symmetry). Start with large, stiff cloths — they hold shape better. Progress: halves → quarters → more complex folds. This directly transfers to folding real laundry — a wonderful way for the child to contribute to household work.",
@@ -577,16 +1350,50 @@
     "instructions": "1. Select 3-4 detailed, colorful pictures or photographs.\n2. Show the first picture. 'Tell me everything you see.'\n3. Model rich language: 'I see a red barn with a white fence. There's a brown horse eating green grass.'\n4. Ask prompting questions: 'What colors? How many? What are they doing?'\n5. Child describes each picture using complete sentences.\n6. Extension: child chooses a picture and tells a STORY about it.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["3-4 detailed pictures or photographs", "Optional: picture books with rich illustrations"],
+    "materials_needed": [
+      "3-4 detailed pictures or photographs",
+      "Optional: picture books with rich illustrations"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Oral Language", "subheading": "Describing Pictures"},
-        {"type": "materials", "items": ["3-4 detailed pictures or photos"], "setup_instructions": "Select images with lots of detail: scenes, people, animals, nature."},
-        {"type": "instruction", "step": 1, "text": "'Look at this picture carefully. Tell me EVERYTHING you see. Use big, describing words!'"},
-        {"type": "instruction", "step": 2, "text": "Model: 'I see a tall tree with orange leaves. A squirrel is climbing the tree.' Detailed, complete sentences."},
-        {"type": "instruction", "step": 3, "text": "Prompt: 'What colors do you see? How many animals? What are the people doing? How do they feel?'"},
-        {"type": "activity", "prompt": "Describe each picture using at least 3 complete sentences. Then make up a STORY about one picture!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You used so many describing words! Your stories were wonderful.'", "mastery_check": "Can the child describe a picture using 3+ complete sentences?"}
+        {
+          "type": "title",
+          "heading": "Oral Language",
+          "subheading": "Describing Pictures",
+          "image_url": "https://images.pexels.com/photos/1275235/pexels-photo-1275235.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "3-4 detailed pictures or photos"
+          ],
+          "setup_instructions": "Select images with lots of detail: scenes, people, animals, nature."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Look at this picture carefully. Tell me EVERYTHING you see. Use big, describing words!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Model: 'I see a tall tree with orange leaves. A squirrel is climbing the tree.' Detailed, complete sentences."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Prompt: 'What colors do you see? How many animals? What are the people doing? How do they feel?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Describe each picture using at least 3 complete sentences. Then make up a STORY about one picture!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You used so many describing words! Your stories were wonderful.'",
+          "mastery_check": "Can the child describe a picture using 3+ complete sentences?"
+        }
       ]
     },
     "parent_notes": "Rich oral language is the foundation for writing. Children who can describe verbally in detail will write in detail. Model the kind of language you want to hear: adjectives, prepositions (under, behind, next to), feelings, and actions. Don't correct grammar; instead, naturally model the correct form. 'He goed to the store' → 'Oh, he WENT to the store? That's interesting!'",
@@ -604,16 +1411,55 @@
     "instructions": "1. Number rods: build the stair, match all numerals.\n2. Spindle box: fill all compartments 0-9.\n3. Cards and counters: set up and identify odd/even.\n4. Number rod combinations of 5 and 10.\n5. Count a collection of objects (one-to-one).\n6. Celebrate progress!",
     "duration_minutes": 30,
     "lesson_type": "review",
-    "materials_needed": ["Number rods 1-10", "Sandpaper numerals", "Spindle box and spindles", "Cards and counters"],
+    "materials_needed": [
+      "Number rods 1-10",
+      "Sandpaper numerals",
+      "Spindle box and spindles",
+      "Cards and counters"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Math Review", "subheading": "All Materials!"},
-        {"type": "materials", "items": ["Number rods", "Numerals", "Spindle box", "Cards and counters"], "setup_instructions": "Have all materials accessible. The child will move between stations."},
-        {"type": "instruction", "step": 1, "text": "'Let's review everything you've learned! Start with the number rods — build the stair and match numerals.'"},
-        {"type": "instruction", "step": 2, "text": "'Now the spindle box — can you fill it all by yourself?'"},
-        {"type": "instruction", "step": 3, "text": "'Cards and counters next. Remember: which numbers are odd? Which are even?'"},
-        {"type": "activity", "prompt": "Show me combinations of 5 with the rods. Then combinations of 10!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'You know SO much math! Number rods, numerals, spindles, odd and even, and combinations!'", "mastery_check": "Can the child work independently with all four materials?"}
+        {
+          "type": "title",
+          "heading": "Math Review",
+          "subheading": "All Materials!",
+          "image_url": "https://images.pexels.com/photos/6037812/pexels-photo-6037812.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Number rods",
+            "Numerals",
+            "Spindle box",
+            "Cards and counters"
+          ],
+          "setup_instructions": "Have all materials accessible. The child will move between stations."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Let's review everything you've learned! Start with the number rods — build the stair and match numerals.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Now the spindle box — can you fill it all by yourself?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Cards and counters next. Remember: which numbers are odd? Which are even?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Show me combinations of 5 with the rods. Then combinations of 10!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You know SO much math! Number rods, numerals, spindles, odd and even, and combinations!'",
+          "mastery_check": "Can the child work independently with all four materials?"
+        }
       ]
     },
     "parent_notes": "Review lessons consolidate learning and build confidence. Note which materials the child gravitates toward (strengths) and which they avoid (areas needing more practice). Don't turn this into a test — keep it light and celebratory. If a material is still challenging, plan more practice sessions in the coming week.",
@@ -631,16 +1477,55 @@
     "instructions": "1. Review previous pairs: island/lake, peninsula/gulf, isthmus/strait.\n2. Introduce cape: 'A cape is a point of land extending into water.'\n3. Introduce bay: 'A bay is a body of water partially enclosed by land.'\n4. Pour water to demonstrate both.\n5. Draw and label each.\n6. Real example: Cape Cod, the Bay of Bengal.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Land/water form trays (cape and bay)", "Water", "Paper and pencils", "Globe"],
+    "materials_needed": [
+      "Land/water form trays (cape and bay)",
+      "Water",
+      "Paper and pencils",
+      "Globe"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Land and Water Forms", "subheading": "Cape and Bay"},
-        {"type": "materials", "items": ["Cape and bay form trays", "Water", "Paper and pencils", "Globe"], "setup_instructions": "Set up trays on towels. Have globe nearby."},
-        {"type": "instruction", "step": 1, "text": "Quick review: 'Name all the land forms we know!' Island, peninsula, isthmus..."},
-        {"type": "instruction", "step": 2, "text": "Cape: 'A point of land sticking out into water — like a pointy finger.' Pour water around it."},
-        {"type": "instruction", "step": 3, "text": "Bay: 'Water tucked into the land — like a curved arm.' Pour water in. 'Opposites again!'"},
-        {"type": "activity", "prompt": "Draw a cape and a bay. Label them. Can you find Cape Cod on the globe?", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'Eight land and water forms! Four pairs of opposites. You are a geographer!'", "mastery_check": "Can the child define cape and bay?"}
+        {
+          "type": "title",
+          "heading": "Land and Water Forms",
+          "subheading": "Cape and Bay",
+          "image_url": "https://images.pexels.com/photos/12280145/pexels-photo-12280145.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Cape and bay form trays",
+            "Water",
+            "Paper and pencils",
+            "Globe"
+          ],
+          "setup_instructions": "Set up trays on towels. Have globe nearby."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Quick review: 'Name all the land forms we know!' Island, peninsula, isthmus..."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Cape: 'A point of land sticking out into water — like a pointy finger.' Pour water around it."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Bay: 'Water tucked into the land — like a curved arm.' Pour water in. 'Opposites again!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw a cape and a bay. Label them. Can you find Cape Cod on the globe?",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Eight land and water forms! Four pairs of opposites. You are a geographer!'",
+          "mastery_check": "Can the child define cape and bay?"
+        }
       ]
     },
     "parent_notes": "Cape and bay complete the fourth pair of opposites. With 8 forms learned, the child has a strong geographic vocabulary. Real-world examples make these concrete: look for capes and bays on maps of your local coastline. If you live inland, use the globe to find examples.",
@@ -658,16 +1543,49 @@
     "instructions": "1. Show the cover. 'Who is this? What do you think wild things are?'\n2. Read aloud with expression — be fierce for the wild rumpus!\n3. Let the child look carefully at each illustration.\n4. Discuss: 'Why was Max sent to his room? How did he feel?'\n5. 'Were the wild things scary or friendly? What makes you think that?'\n6. 'What's the best part of the story?'",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Where the Wild Things Are by Maurice Sendak"],
+    "materials_needed": [
+      "Where the Wild Things Are by Maurice Sendak"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "Where the Wild Things Are by Maurice Sendak"},
-        {"type": "materials", "items": ["Where the Wild Things Are book"], "setup_instructions": "Sit comfortably. This book deserves slow reading with long looks at the illustrations."},
-        {"type": "instruction", "step": 1, "text": "Cover prediction: 'What do you think this story will be about?'"},
-        {"type": "instruction", "step": 2, "text": "Read with drama! The wild rumpus pages have no words — roar and dance!"},
-        {"type": "instruction", "step": 3, "text": "After reading: 'Why did Max want to go home? What was waiting for him?'"},
-        {"type": "activity", "prompt": "Draw your own Wild Thing! What would YOUR wild thing look like?", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "'Even after a wild adventure, it's nice to come home to someone who loves you.'", "mastery_check": "Can the child describe Max's feelings at different points in the story?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "Where the Wild Things Are by Maurice Sendak",
+          "image_url": "https://images.pexels.com/photos/8500306/pexels-photo-8500306.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Where the Wild Things Are book"
+          ],
+          "setup_instructions": "Sit comfortably. This book deserves slow reading with long looks at the illustrations."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Cover prediction: 'What do you think this story will be about?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read with drama! The wild rumpus pages have no words — roar and dance!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading: 'Why did Max want to go home? What was waiting for him?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw your own Wild Thing! What would YOUR wild thing look like?",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Even after a wild adventure, it's nice to come home to someone who loves you.'",
+          "mastery_check": "Can the child describe Max's feelings at different points in the story?"
+        }
       ]
     },
     "parent_notes": "This Caldecott-winning book explores big emotions: anger, wildness, loneliness, and the comfort of love. The wordless wild rumpus pages are a wonderful opportunity for the child to narrate. This book validates that feeling angry is okay AND that home is a safe harbor. Don't over-analyze — let the child respond naturally.",

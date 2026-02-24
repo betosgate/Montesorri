@@ -10,18 +10,66 @@
     "instructions": "1. Welcome the child to their new Lower Elementary year. Discuss how they are now researchers and explorers.\n2. Invite the child to select a book from the classroom library at their reading level.\n3. Set a timer for 15 minutes of silent, independent reading.\n4. While reading, observe the child's fluency — note whether they subvocalize, track with fingers, or read smoothly.\n5. After reading, ask the child to tell you about what they read (retelling for comprehension).\n6. Introduce the Reading Journal: a blank notebook where they will record the title, author, date, and a short response for each book.\n7. Have the child make their first entry.\n8. Discuss reading goals for the year.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Selection of chapter books at various reading levels", "Blank notebook for Reading Journal", "Pencil", "Timer", "Colored pencils for decorating journal cover"],
+    "materials_needed": [
+      "Selection of chapter books at various reading levels",
+      "Blank notebook for Reading Journal",
+      "Pencil",
+      "Timer",
+      "Colored pencils for decorating journal cover"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Welcome to Lower Elementary!", "subheading": "Your Reading Journey Begins"},
-        {"type": "materials", "items": ["Chapter books at various levels", "Blank notebook (Reading Journal)", "Pencils and colored pencils", "Timer"], "setup_instructions": "Arrange a selection of 8-10 books on a shelf or table. Have a blank notebook ready for the Reading Journal. Set the timer for 15 minutes."},
-        {"type": "instruction", "step": 1, "text": "Welcome your child to their Lower Elementary year. Say: 'This year, you are a researcher and an explorer. You will discover the story of the universe, of life, and of human beings. And it all starts with reading — the most powerful tool a researcher has.'"},
-        {"type": "instruction", "step": 2, "text": "Invite the child to browse the book selection and choose one that interests them. Give them time — choosing a book is an important skill. If they struggle, offer two options and let them pick."},
-        {"type": "instruction", "step": 3, "text": "Set the timer for 15 minutes. Say: 'Read silently to yourself. If you come to a word you don't know, try to figure it out from the words around it. We'll talk about the book when you're done.'"},
-        {"type": "instruction", "step": 4, "text": "After reading, ask: 'Tell me about what you read. What happened? Who are the characters? What do you think will happen next?' Listen carefully for comprehension, sequencing, and vocabulary."},
-        {"type": "instruction", "step": 5, "text": "Introduce the Reading Journal. Show the child how to set up an entry: Date, Title, Author, Pages Read, and a 2-3 sentence response. Model an entry with a book you have read."},
-        {"type": "activity", "prompt": "Decorate the cover of your Reading Journal with your name and illustrations of things you love to read about. Then make your first entry for the book you just read. Write at least 2 sentences about what you read.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Share your first journal entry aloud. This journal will grow all year — by June, you'll be amazed at how many books you've read and how your writing has grown!", "mastery_check": "Can the child read silently for 15 minutes? Can they retell what they read with some detail? Can they write a 2-3 sentence response?"}
+        {
+          "type": "title",
+          "heading": "Welcome to Lower Elementary!",
+          "subheading": "Your Reading Journey Begins",
+          "image_url": "https://images.pexels.com/photos/1337387/pexels-photo-1337387.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Chapter books at various levels",
+            "Blank notebook (Reading Journal)",
+            "Pencils and colored pencils",
+            "Timer"
+          ],
+          "setup_instructions": "Arrange a selection of 8-10 books on a shelf or table. Have a blank notebook ready for the Reading Journal. Set the timer for 15 minutes."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Welcome your child to their Lower Elementary year. Say: 'This year, you are a researcher and an explorer. You will discover the story of the universe, of life, and of human beings. And it all starts with reading — the most powerful tool a researcher has.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Invite the child to browse the book selection and choose one that interests them. Give them time — choosing a book is an important skill. If they struggle, offer two options and let them pick."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Set the timer for 15 minutes. Say: 'Read silently to yourself. If you come to a word you don't know, try to figure it out from the words around it. We'll talk about the book when you're done.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "After reading, ask: 'Tell me about what you read. What happened? Who are the characters? What do you think will happen next?' Listen carefully for comprehension, sequencing, and vocabulary."
+        },
+        {
+          "type": "instruction",
+          "step": 5,
+          "text": "Introduce the Reading Journal. Show the child how to set up an entry: Date, Title, Author, Pages Read, and a 2-3 sentence response. Model an entry with a book you have read."
+        },
+        {
+          "type": "activity",
+          "prompt": "Decorate the cover of your Reading Journal with your name and illustrations of things you love to read about. Then make your first entry for the book you just read. Write at least 2 sentences about what you read.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Share your first journal entry aloud. This journal will grow all year — by June, you'll be amazed at how many books you've read and how your writing has grown!",
+          "mastery_check": "Can the child read silently for 15 minutes? Can they retell what they read with some detail? Can they write a 2-3 sentence response?"
+        }
       ]
     },
     "parent_notes": "This first language lesson serves a dual purpose: it assesses your child's current reading level while establishing the Reading Journal as a year-long practice. In Montessori elementary, children are expected to read independently for extended periods. If 15 minutes is too long, start with 10 and build up. The key is that the child CHOOSES their book — intrinsic motivation is central to Montessori. Good chapter book series for this age: Magic Tree House, Junie B. Jones, Cam Jansen, Mercy Watson, The Boxcar Children. Don't correct during silent reading; note struggles for later phonics or vocabulary work. The Reading Journal should feel like THEIR book, not a chore — let them decorate it however they wish.",
@@ -39,17 +87,60 @@
     "instructions": "1. Lay out the stamp game on a work mat.\n2. Review the color-coding: green units, blue tens, red hundreds, green thousands.\n3. Build a 4-digit number together (e.g., 3,247) by placing stamps in each column.\n4. Have the child read the number aloud.\n5. Practice exchanging: show that 10 unit stamps = 1 ten stamp, 10 tens = 1 hundred, 10 hundreds = 1 thousand.\n6. Build 5 more numbers of increasing complexity.\n7. Play the 'secret number' game — write a number on paper, child builds it.\n8. Reverse: child builds a number, parent reads it.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Stamp game", "Work mat", "Pencil and paper", "Number cards (1-9 for each place value)"],
+    "materials_needed": [
+      "Stamp game",
+      "Work mat",
+      "Pencil and paper",
+      "Number cards (1-9 for each place value)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Place Value Review", "subheading": "Building Big Numbers with the Stamp Game"},
-        {"type": "materials", "items": ["Stamp game (units, tens, hundreds, thousands stamps)", "Large work mat", "Pencil and paper", "Number cards"], "setup_instructions": "Lay out the stamp game on the mat with stamps sorted by place value. Have paper and pencil ready for recording numbers."},
-        {"type": "instruction", "step": 1, "text": "Review the stamps. Hold up each type: 'Remember these from Primary? Green is units — ones. Blue is tens. Red is hundreds. And now we'll use thousands — green again, but with a different symbol.' Point out the hierarchy: units, tens, hundreds, thousands."},
-        {"type": "instruction", "step": 2, "text": "Say: 'Let's build the number 3,247.' Start from the thousands: place 3 thousand stamps, then 2 hundred stamps, then 4 ten stamps, then 7 unit stamps. Read aloud: 'Three thousand, two hundred, forty-seven.'"},
-        {"type": "instruction", "step": 3, "text": "Demonstrate exchanging: 'What happens if I have 10 unit stamps? Watch — I can trade them for 1 ten stamp.' Count out 10 units, replace with 1 ten. Repeat for tens to hundreds."},
-        {"type": "instruction", "step": 4, "text": "Write a 'secret number' on paper (e.g., 1,586). Fold it and pass it to the child. They unfold, read it, and build it with stamps. Check together."},
-        {"type": "activity", "prompt": "Build these numbers with your stamps, then write each one on paper:\n1. 4,321\n2. 2,058 (notice the zero — no tens!)\n3. 7,600\n4. 1,111\n5. 9,999 (the biggest 4-digit number!)\nThen create 3 secret numbers for your parent to read.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You just built numbers all the way to 9,999! This week we'll use these stamps to do addition with really big numbers.", "mastery_check": "Can the child build any 4-digit number correctly with stamps? Can they read 4-digit numbers including those with zeros (e.g., 3,047)?"}
+        {
+          "type": "title",
+          "heading": "Place Value Review",
+          "subheading": "Building Big Numbers with the Stamp Game",
+          "image_url": "https://images.pexels.com/photos/8612931/pexels-photo-8612931.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Stamp game (units, tens, hundreds, thousands stamps)",
+            "Large work mat",
+            "Pencil and paper",
+            "Number cards"
+          ],
+          "setup_instructions": "Lay out the stamp game on the mat with stamps sorted by place value. Have paper and pencil ready for recording numbers."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the stamps. Hold up each type: 'Remember these from Primary? Green is units — ones. Blue is tens. Red is hundreds. And now we'll use thousands — green again, but with a different symbol.' Point out the hierarchy: units, tens, hundreds, thousands."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Say: 'Let's build the number 3,247.' Start from the thousands: place 3 thousand stamps, then 2 hundred stamps, then 4 ten stamps, then 7 unit stamps. Read aloud: 'Three thousand, two hundred, forty-seven.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Demonstrate exchanging: 'What happens if I have 10 unit stamps? Watch — I can trade them for 1 ten stamp.' Count out 10 units, replace with 1 ten. Repeat for tens to hundreds."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Write a 'secret number' on paper (e.g., 1,586). Fold it and pass it to the child. They unfold, read it, and build it with stamps. Check together."
+        },
+        {
+          "type": "activity",
+          "prompt": "Build these numbers with your stamps, then write each one on paper:\n1. 4,321\n2. 2,058 (notice the zero — no tens!)\n3. 7,600\n4. 1,111\n5. 9,999 (the biggest 4-digit number!)\nThen create 3 secret numbers for your parent to read.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You just built numbers all the way to 9,999! This week we'll use these stamps to do addition with really big numbers.",
+          "mastery_check": "Can the child build any 4-digit number correctly with stamps? Can they read 4-digit numbers including those with zeros (e.g., 3,047)?"
+        }
       ]
     },
     "parent_notes": "The stamp game is the bridge between concrete (golden beads) and abstract (paper math). Your child used it in primary for 2-3 digit operations. Now we extend to 4 digits and will soon use the bead frame, which is even more abstract. The key concept is that each column is 10x the previous one. If your child breezes through this, great — it means primary gave them a solid foundation. If they struggle with 4-digit numbers, spend extra time here before moving to operations. The 'zero placeholder' concept (like 3,047 having no hundreds... wait, it has zero tens) is particularly important and often tricky.",
@@ -67,18 +158,72 @@
     "instructions": "1. Prepare the room: dim lights, light a candle. This lesson should feel SPECIAL.\n2. Gather materials for the demonstrations.\n3. Tell the story dramatically — this is a STORY, not a lecture.\n4. Perform each demonstration at the right moment in the story.\n5. Allow silence and wonder after each demonstration.\n6. End with the formation of Earth.\n7. Allow the child to ask questions and discuss.\n8. Offer follow-up work: drawing, writing, or research.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Black balloon (universe)", "Gold glitter (stars)", "Tray with water", "Food coloring (3 colors)", "Small dish of oil", "Candle and matches", "Ice cube", "Chart or poster of the universe timeline", "Dark cloth to cover table"],
+    "materials_needed": [
+      "Black balloon (universe)",
+      "Gold glitter (stars)",
+      "Tray with water",
+      "Food coloring (3 colors)",
+      "Small dish of oil",
+      "Candle and matches",
+      "Ice cube",
+      "Chart or poster of the universe timeline",
+      "Dark cloth to cover table"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The First Great Lesson", "subheading": "God Who Has No Hands — The Story of the Universe"},
-        {"type": "materials", "items": ["Black balloon and gold glitter", "Tray of water, food coloring, oil", "Candle and matches", "Ice cube", "Universe timeline chart", "Dark cloth for table"], "setup_instructions": "Cover the table with a dark cloth. Have all demonstration materials ready but hidden under the cloth or behind you. Light the candle. Dim the room lights. This lesson should feel ceremonial and awe-inspiring."},
-        {"type": "instruction", "step": 1, "text": "Begin with wonder: 'Today I'm going to tell you the most amazing story ever told. It's the story of how EVERYTHING began — the stars, the Earth, the oceans, and eventually... you. Are you ready?'"},
-        {"type": "instruction", "step": 2, "text": "Tell the story: 'In the beginning, there was nothing. No light, no sound, no air. Just darkness and a tiny, tiny point of energy — smaller than a grain of sand. And then... BANG!' (Pop the balloon with glitter inside — gold glitter scatters like stars.) 'The universe EXPLODED into being! Particles of matter flew in every direction, and they began to follow RULES — laws that no one wrote down, but that every particle obeyed.'"},
-        {"type": "instruction", "step": 3, "text": "Demonstrate the laws of matter: Drop food coloring into water — 'Liquids mix and spread.' Drop oil into the same water — 'But some things DON'T mix. Oil follows its own law — it stays separate.' Show the ice cube — 'And when things get cold enough, they change. Liquid becomes solid. These are the laws the particles followed.'"},
-        {"type": "instruction", "step": 4, "text": "Continue the story: 'Over billions of years, the particles gathered into enormous clouds of gas and dust. Gravity pulled them together — tighter and tighter — until they became so hot they burst into light. STARS were born!' Point to the candle flame. 'Stars are like this flame, but millions of times bigger and hotter.'"},
-        {"type": "instruction", "step": 5, "text": "Conclude Part 1: 'Some stars exploded and their dust made NEW stars, with planets circling around them. One of those stars was our Sun. And one of those planets... was Earth. But Earth was not yet ready for life. It was a ball of fire and rock. Next time, we'll learn what happened to make Earth a home for living things.'"},
-        {"type": "activity", "prompt": "Choose your follow-up work:\n1. Draw the story of the universe from the Big Bang to the formation of Earth\n2. Write about what surprised you most in the story\n3. Begin researching: How big IS the universe? How old is it? Write 3 facts you discover.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "You just heard the story of how the entire universe was created — 13.8 billion years of history! Everything in the universe follows laws. Next time, we'll continue with how Earth became a special place.", "mastery_check": "Can the child retell the basic sequence: Big Bang, particles, laws of matter, stars forming, solar system forming? Are they asking questions and showing wonder?"}
+        {
+          "type": "title",
+          "heading": "The First Great Lesson",
+          "subheading": "God Who Has No Hands — The Story of the Universe",
+          "image_url": "https://images.pexels.com/photos/10131669/pexels-photo-10131669.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Black balloon and gold glitter",
+            "Tray of water, food coloring, oil",
+            "Candle and matches",
+            "Ice cube",
+            "Universe timeline chart",
+            "Dark cloth for table"
+          ],
+          "setup_instructions": "Cover the table with a dark cloth. Have all demonstration materials ready but hidden under the cloth or behind you. Light the candle. Dim the room lights. This lesson should feel ceremonial and awe-inspiring."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Begin with wonder: 'Today I'm going to tell you the most amazing story ever told. It's the story of how EVERYTHING began — the stars, the Earth, the oceans, and eventually... you. Are you ready?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Tell the story: 'In the beginning, there was nothing. No light, no sound, no air. Just darkness and a tiny, tiny point of energy — smaller than a grain of sand. And then... BANG!' (Pop the balloon with glitter inside — gold glitter scatters like stars.) 'The universe EXPLODED into being! Particles of matter flew in every direction, and they began to follow RULES — laws that no one wrote down, but that every particle obeyed.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Demonstrate the laws of matter: Drop food coloring into water — 'Liquids mix and spread.' Drop oil into the same water — 'But some things DON'T mix. Oil follows its own law — it stays separate.' Show the ice cube — 'And when things get cold enough, they change. Liquid becomes solid. These are the laws the particles followed.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Continue the story: 'Over billions of years, the particles gathered into enormous clouds of gas and dust. Gravity pulled them together — tighter and tighter — until they became so hot they burst into light. STARS were born!' Point to the candle flame. 'Stars are like this flame, but millions of times bigger and hotter.'"
+        },
+        {
+          "type": "instruction",
+          "step": 5,
+          "text": "Conclude Part 1: 'Some stars exploded and their dust made NEW stars, with planets circling around them. One of those stars was our Sun. And one of those planets... was Earth. But Earth was not yet ready for life. It was a ball of fire and rock. Next time, we'll learn what happened to make Earth a home for living things.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose your follow-up work:\n1. Draw the story of the universe from the Big Bang to the formation of Earth\n2. Write about what surprised you most in the story\n3. Begin researching: How big IS the universe? How old is it? Write 3 facts you discover.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "You just heard the story of how the entire universe was created — 13.8 billion years of history! Everything in the universe follows laws. Next time, we'll continue with how Earth became a special place.",
+          "mastery_check": "Can the child retell the basic sequence: Big Bang, particles, laws of matter, stars forming, solar system forming? Are they asking questions and showing wonder?"
+        }
       ]
     },
     "parent_notes": "THIS IS THE MOST IMPORTANT LESSON IN MONTESSORI ELEMENTARY. The First Great Lesson sets the tone for the entire year and the entire elementary experience. It must be told dramatically, with awe and reverence. Maria Montessori called it 'God Who Has No Hands' because the laws of nature work without anyone directing them — particles obey laws of attraction, repulsion, and transformation on their own. You don't need to be religious to tell this story; the 'God' in the title refers to the mystery and order of the universe. The demonstrations are key — children this age need to SEE the principles, not just hear about them. Practice the demos beforehand. The balloon-pop is dramatic and memorable. The food coloring and oil demonstrate that matter follows laws. This lesson sparks months of follow-up research in science, geography, and history. Don't rush it. Let the child sit in wonder.",
@@ -96,17 +241,62 @@
     "instructions": "1. Connect to the Great Lesson: 'Remember how the universe formed stars, and stars formed solar systems? Let's zoom in on OUR solar system.'\n2. Present the solar system chart or model.\n3. Name each planet in order, with a key fact about each.\n4. Use the scale model activity to understand relative sizes.\n5. Discuss what makes Earth special (distance from sun, water, atmosphere).\n6. Have the child create a solar system booklet.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Solar system chart or poster", "Fruits/balls of different sizes for scale model", "Blank booklet (8 pages stapled)", "Colored pencils", "Reference book about planets"],
+    "materials_needed": [
+      "Solar system chart or poster",
+      "Fruits/balls of different sizes for scale model",
+      "Blank booklet (8 pages stapled)",
+      "Colored pencils",
+      "Reference book about planets"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Our Solar System", "subheading": "Earth's Cosmic Neighborhood"},
-        {"type": "materials", "items": ["Solar system chart or poster", "Scale model items (watermelon=Jupiter, grapefruit=Saturn, apple=Uranus/Neptune, cherry=Earth, peppercorn=Mercury, grape=Venus/Mars)", "Blank 8-page booklet", "Colored pencils", "Planet reference book"], "setup_instructions": "Hang or lay out the solar system chart. Have scale model fruits/objects ready. Prepare the blank booklet by folding and stapling paper."},
-        {"type": "instruction", "step": 1, "text": "Connect to the Great Lesson: 'Yesterday we learned how the universe began and how our Sun was born from a cloud of gas and dust. But the Sun didn't form alone — leftover dust and gas swirled around it and became PLANETS. Eight planets, all orbiting our Sun. Together, they make up our Solar System.'"},
-        {"type": "instruction", "step": 2, "text": "Present each planet in order, using the chart. Give one memorable fact: Mercury (closest, very hot/cold), Venus (hottest, spins backward), Earth (water!), Mars (red, has a huge volcano), Jupiter (biggest, Great Red Spot), Saturn (beautiful rings), Uranus (tilted on its side), Neptune (farthest, windiest)."},
-        {"type": "instruction", "step": 3, "text": "Scale model: 'Let's see how big the planets really are compared to each other.' Use the fruit/ball comparisons. Place them in a line. 'Look how tiny Earth is compared to Jupiter! And the Sun would be as big as a beach ball!'"},
-        {"type": "instruction", "step": 4, "text": "Ask the child: 'What makes Earth special? Why can WE live here but not on Mercury or Jupiter?' Guide discussion toward: distance from sun (not too hot, not too cold), water in liquid form, atmosphere with oxygen. 'Earth is in the habitable zone — the Goldilocks zone!'"},
-        {"type": "activity", "prompt": "Create your Solar System Booklet: one page for each planet. Draw the planet, write its name, and include 2-3 facts. The cover page is 'Our Solar System by [your name].' Use your reference book and chart for information.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You now know your cosmic address: Universe > Milky Way Galaxy > Solar System > Earth. We live on the third planet from the Sun, in the habitable zone — the perfect place for life!", "mastery_check": "Can the child name the 8 planets in order? Can they explain what makes Earth special for life?"}
+        {
+          "type": "title",
+          "heading": "Our Solar System",
+          "subheading": "Earth's Cosmic Neighborhood",
+          "image_url": "https://images.pexels.com/photos/5428267/pexels-photo-5428267.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Solar system chart or poster",
+            "Scale model items (watermelon=Jupiter, grapefruit=Saturn, apple=Uranus/Neptune, cherry=Earth, peppercorn=Mercury, grape=Venus/Mars)",
+            "Blank 8-page booklet",
+            "Colored pencils",
+            "Planet reference book"
+          ],
+          "setup_instructions": "Hang or lay out the solar system chart. Have scale model fruits/objects ready. Prepare the blank booklet by folding and stapling paper."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect to the Great Lesson: 'Yesterday we learned how the universe began and how our Sun was born from a cloud of gas and dust. But the Sun didn't form alone — leftover dust and gas swirled around it and became PLANETS. Eight planets, all orbiting our Sun. Together, they make up our Solar System.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Present each planet in order, using the chart. Give one memorable fact: Mercury (closest, very hot/cold), Venus (hottest, spins backward), Earth (water!), Mars (red, has a huge volcano), Jupiter (biggest, Great Red Spot), Saturn (beautiful rings), Uranus (tilted on its side), Neptune (farthest, windiest)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Scale model: 'Let's see how big the planets really are compared to each other.' Use the fruit/ball comparisons. Place them in a line. 'Look how tiny Earth is compared to Jupiter! And the Sun would be as big as a beach ball!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Ask the child: 'What makes Earth special? Why can WE live here but not on Mercury or Jupiter?' Guide discussion toward: distance from sun (not too hot, not too cold), water in liquid form, atmosphere with oxygen. 'Earth is in the habitable zone — the Goldilocks zone!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your Solar System Booklet: one page for each planet. Draw the planet, write its name, and include 2-3 facts. The cover page is 'Our Solar System by [your name].' Use your reference book and chart for information.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You now know your cosmic address: Universe > Milky Way Galaxy > Solar System > Earth. We live on the third planet from the Sun, in the habitable zone — the perfect place for life!",
+          "mastery_check": "Can the child name the 8 planets in order? Can they explain what makes Earth special for life?"
+        }
       ]
     },
     "parent_notes": "This geography lesson flows directly from the First Great Lesson, which is exactly how Montessori elementary works — the Great Lessons are the trunk of the tree, and all subjects branch from them. The solar system connects to the story of how Earth formed. The scale model is important because children cannot grasp cosmic distances from pictures alone. If you can, do this outdoors: place the 'Sun' (a beach ball) at one end of a field and walk the planets out to scale — Mercury would be about 10 paces away, but Neptune would be nearly 1,000! This visceral experience of scale is unforgettable. The 'cosmic address' concept helps children feel connected to the universe — a core Montessori elementary goal called 'cosmic education.'",
@@ -124,17 +314,60 @@
     "instructions": "1. Introduce the book and author.\n2. Discuss the cover: 'What do you think this book is about?'\n3. Read Chapter 1 aloud with expression and drama.\n4. Pause at key moments to ask prediction questions.\n5. After reading, discuss connections to the First Great Lesson.\n6. Introduce 3 vocabulary words from the reading.\n7. Have the child respond in their reading journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["'Born With a Bang' by Jennifer Morgan (or similar Big Bang book for children)", "Reading journal", "Pencil", "Dictionary"],
+    "materials_needed": [
+      "'Born With a Bang' by Jennifer Morgan (or similar Big Bang book for children)",
+      "Reading journal",
+      "Pencil",
+      "Dictionary"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud Time", "subheading": "'Born With a Bang' — Chapter 1"},
-        {"type": "materials", "items": ["'Born With a Bang' by Jennifer Morgan (or 'The Story of the Universe' or similar)", "Reading journal", "Pencil", "Dictionary for vocabulary words"], "setup_instructions": "Choose a comfortable reading spot — a couch, reading nook, or blanket on the floor. Have the book ready. If you don't have this specific title, any quality children's book about the Big Bang or universe creation works."},
-        {"type": "instruction", "step": 1, "text": "Show the cover. Ask: 'What do you see? What do you think this book will be about? How does the title connect to what we learned in the First Great Lesson?' Let the child make predictions."},
-        {"type": "instruction", "step": 2, "text": "Read the first chapter (or first 10-15 pages) aloud. Use a dramatic, engaging voice. Pause at exciting moments: 'What do you think happens next?' This builds prediction skills."},
-        {"type": "instruction", "step": 3, "text": "After reading, discuss: 'How is this story similar to the First Great Lesson we heard? How is it different? What new information did you learn from this book that wasn't in our lesson?'"},
-        {"type": "instruction", "step": 4, "text": "Choose 3 vocabulary words from the reading (e.g., 'universe,' 'particles,' 'gravity'). Write each on a card. Discuss the meaning. Look one up in the dictionary together. Use each in a sentence."},
-        {"type": "activity", "prompt": "In your reading journal, write today's entry:\n- Title and Author\n- 3 new vocabulary words and their meanings\n- Draw your favorite scene from the reading\n- Write 2-3 sentences: What was the most interesting part and why?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "We'll continue this book throughout the week. Great readers think about what they read and make connections to what they already know — just like you did today!", "mastery_check": "Can the child retell the main events from the reading? Can they make connections between the book and the First Great Lesson? Can they use at least 2 of the new vocabulary words?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud Time",
+          "subheading": "'Born With a Bang' — Chapter 1",
+          "image_url": "https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "'Born With a Bang' by Jennifer Morgan (or 'The Story of the Universe' or similar)",
+            "Reading journal",
+            "Pencil",
+            "Dictionary for vocabulary words"
+          ],
+          "setup_instructions": "Choose a comfortable reading spot — a couch, reading nook, or blanket on the floor. Have the book ready. If you don't have this specific title, any quality children's book about the Big Bang or universe creation works."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the cover. Ask: 'What do you see? What do you think this book will be about? How does the title connect to what we learned in the First Great Lesson?' Let the child make predictions."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the first chapter (or first 10-15 pages) aloud. Use a dramatic, engaging voice. Pause at exciting moments: 'What do you think happens next?' This builds prediction skills."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading, discuss: 'How is this story similar to the First Great Lesson we heard? How is it different? What new information did you learn from this book that wasn't in our lesson?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Choose 3 vocabulary words from the reading (e.g., 'universe,' 'particles,' 'gravity'). Write each on a card. Discuss the meaning. Look one up in the dictionary together. Use each in a sentence."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal, write today's entry:\n- Title and Author\n- 3 new vocabulary words and their meanings\n- Draw your favorite scene from the reading\n- Write 2-3 sentences: What was the most interesting part and why?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "We'll continue this book throughout the week. Great readers think about what they read and make connections to what they already know — just like you did today!",
+          "mastery_check": "Can the child retell the main events from the reading? Can they make connections between the book and the First Great Lesson? Can they use at least 2 of the new vocabulary words?"
+        }
       ]
     },
     "parent_notes": "Read-aloud time is sacred in Montessori elementary. Even though your child can read independently, being read TO builds listening comprehension, vocabulary, and a shared literary experience. Choose a comfortable spot and make it cozy. The key pedagogical move here is CONNECTING the read-aloud to the Great Lesson — this shows the child that knowledge is interconnected, not isolated in subject silos. 'Born With a Bang' by Jennifer Morgan is specifically written to complement the Montessori First Great Lesson, but any quality science narrative about the universe will work. Alternatives: 'The Story of Everything' by Neal Layton, 'Older Than the Stars' by Karen Fox, or 'On the Day You Begin' for a more personal cosmic connection. The vocabulary work builds word consciousness — the habit of noticing and learning new words.",
@@ -152,17 +385,62 @@
     "instructions": "1. Present the grammar symbols: large black triangle = noun, small light blue triangle = article, medium dark blue triangle = adjective.\n2. Review what each part of speech does.\n3. Write sentences on sentence strips.\n4. Have the child place grammar symbols above each word.\n5. Practice with 8-10 sentences of increasing complexity.\n6. Introduce the grammar box exercise.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Grammar symbol stamps or cutouts (black triangle, light blue triangle, dark blue triangle)", "Sentence strips or paper cut into strips", "Pencil", "Grammar box materials (or printed cards)", "Work mat"],
+    "materials_needed": [
+      "Grammar symbol stamps or cutouts (black triangle, light blue triangle, dark blue triangle)",
+      "Sentence strips or paper cut into strips",
+      "Pencil",
+      "Grammar box materials (or printed cards)",
+      "Work mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Noun Family", "subheading": "Article, Adjective, and Noun"},
-        {"type": "materials", "items": ["Grammar symbols (triangles: large black, small light blue, medium dark blue)", "Sentence strips", "Pencils", "Grammar box cards or printed sentences", "Work mat"], "setup_instructions": "Prepare 10 sentence strips with simple sentences (e.g., 'The tall tree,' 'A red ball,' 'The beautiful, ancient castle'). Have grammar symbols ready."},
-        {"type": "instruction", "step": 1, "text": "Present the three symbols. Hold up the large black triangle: 'This represents the NOUN — a naming word. It names a person, place, thing, or idea. It's the biggest triangle because nouns are the foundation of every sentence.' Examples: dog, school, happiness."},
-        {"type": "instruction", "step": 2, "text": "Hold up the small light blue triangle: 'This is the ARTICLE. Articles are tiny words that come before nouns: a, an, the. They're the smallest triangle because they're small but important — they tell us if we mean a specific thing (THE dog) or any thing (A dog).'"},
-        {"type": "instruction", "step": 3, "text": "Hold up the medium dark blue triangle: 'This is the ADJECTIVE. Adjectives DESCRIBE nouns. They tell us what kind, how many, or which one. Big, red, three, beautiful — all adjectives.' Show how the adjective triangle sits next to the noun triangle: 'The adjective is the noun's helper.'"},
-        {"type": "instruction", "step": 4, "text": "Model with a sentence strip: 'The tall tree.' Place the small light blue triangle over 'The,' the medium dark blue triangle over 'tall,' and the large black triangle over 'tree.' Read it while pointing to each symbol."},
-        {"type": "activity", "prompt": "Parse these sentences by placing grammar symbols above each word:\n1. The big dog\n2. A small, gray kitten\n3. The ancient, mysterious castle\n4. Three beautiful flowers\n5. An enormous, golden sun\nThen write 5 of your own noun phrases with at least one adjective each.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "The noun family works as a team: the article introduces, the adjective describes, and the noun names. Tomorrow we'll add more parts of speech!", "mastery_check": "Can the child correctly identify articles, adjectives, and nouns in a phrase? Can they write their own noun phrases with correct article-adjective-noun structure?"}
+        {
+          "type": "title",
+          "heading": "The Noun Family",
+          "subheading": "Article, Adjective, and Noun",
+          "image_url": "https://images.pexels.com/photos/7807854/pexels-photo-7807854.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Grammar symbols (triangles: large black, small light blue, medium dark blue)",
+            "Sentence strips",
+            "Pencils",
+            "Grammar box cards or printed sentences",
+            "Work mat"
+          ],
+          "setup_instructions": "Prepare 10 sentence strips with simple sentences (e.g., 'The tall tree,' 'A red ball,' 'The beautiful, ancient castle'). Have grammar symbols ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Present the three symbols. Hold up the large black triangle: 'This represents the NOUN — a naming word. It names a person, place, thing, or idea. It's the biggest triangle because nouns are the foundation of every sentence.' Examples: dog, school, happiness."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Hold up the small light blue triangle: 'This is the ARTICLE. Articles are tiny words that come before nouns: a, an, the. They're the smallest triangle because they're small but important — they tell us if we mean a specific thing (THE dog) or any thing (A dog).'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Hold up the medium dark blue triangle: 'This is the ADJECTIVE. Adjectives DESCRIBE nouns. They tell us what kind, how many, or which one. Big, red, three, beautiful — all adjectives.' Show how the adjective triangle sits next to the noun triangle: 'The adjective is the noun's helper.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Model with a sentence strip: 'The tall tree.' Place the small light blue triangle over 'The,' the medium dark blue triangle over 'tall,' and the large black triangle over 'tree.' Read it while pointing to each symbol."
+        },
+        {
+          "type": "activity",
+          "prompt": "Parse these sentences by placing grammar symbols above each word:\n1. The big dog\n2. A small, gray kitten\n3. The ancient, mysterious castle\n4. Three beautiful flowers\n5. An enormous, golden sun\nThen write 5 of your own noun phrases with at least one adjective each.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "The noun family works as a team: the article introduces, the adjective describes, and the noun names. Tomorrow we'll add more parts of speech!",
+          "mastery_check": "Can the child correctly identify articles, adjectives, and nouns in a phrase? Can they write their own noun phrases with correct article-adjective-noun structure?"
+        }
       ]
     },
     "parent_notes": "Montessori grammar uses a brilliant system of geometric symbols to make abstract grammar concepts concrete and visual. The triangle family represents the noun family — all triangles, but different sizes and colors. This is a REVIEW from primary, where children were introduced to the first 3-4 parts of speech. In Lower Elementary, we deepen understanding and work toward all 8 parts of speech. The physical act of placing symbols above words makes grammar tangible. If you don't have official Montessori grammar symbols, you can easily make them from construction paper or cardstock. The colors and sizes matter because they encode relationships: all noun-family words are triangles, all verb-family words are circles. This system helps children see patterns in language structure.",
@@ -180,17 +458,60 @@
     "instructions": "1. Present the large bead frame. Explain that each row is a place value.\n2. Show how to read numbers on the bead frame.\n3. Demonstrate building a number by sliding beads.\n4. Show how to add two numbers without carrying (static addition).\n5. Practice 5 static addition problems.\n6. Record each problem on paper using the bead frame paper.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Large bead frame (4-row Montessori abacus)", "Bead frame paper (hierarchical paper)", "Pencil", "Work mat"],
+    "materials_needed": [
+      "Large bead frame (4-row Montessori abacus)",
+      "Bead frame paper (hierarchical paper)",
+      "Pencil",
+      "Work mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Bead Frame", "subheading": "A New Tool for Big Addition"},
-        {"type": "materials", "items": ["Large bead frame (units, tens, hundreds, thousands rows — 10 beads each)", "Bead frame recording paper", "Pencil", "Work mat"], "setup_instructions": "Place the bead frame flat on the mat. All beads should be pushed to the right (showing zero). Have recording paper ready."},
-        {"type": "instruction", "step": 1, "text": "Present the bead frame: 'This is the bead frame — a powerful calculator that mathematicians have used for thousands of years. Each row has 10 beads.' Point to each row: 'Bottom row = units (green). Next = tens (blue). Next = hundreds (red). Top = thousands (green). Does this color pattern remind you of anything?' (The stamp game!)"},
-        {"type": "instruction", "step": 2, "text": "Show how to build a number: 'Let's build 2,341.' Slide 2 thousand beads left, 3 hundred beads left, 4 ten beads left, 1 unit bead left. 'Read it with me: two thousand, three hundred, forty-one.'"},
-        {"type": "instruction", "step": 3, "text": "Demonstrate static addition: 'Now let's add 2,341 + 1,235.' The first number is already on the frame. 'For the second number, we slide MORE beads: 1 more thousand, 2 more hundreds, 3 more tens, 5 more units.' Count the beads in each row: '3 thousands, 5 hundreds, 7 tens, 6 units = 3,576!'"},
-        {"type": "instruction", "step": 4, "text": "Show how to record on paper: write the problem vertically, work it out on the bead frame, record the answer. 'The bead frame helps us SEE the math, and the paper helps us REMEMBER the math.'"},
-        {"type": "activity", "prompt": "Solve these addition problems on the bead frame. Record each one on paper:\n1. 1,234 + 2,345 = ?\n2. 3,012 + 1,456 = ?\n3. 2,222 + 1,111 = ?\n4. 4,130 + 3,521 = ?\n5. 1,001 + 2,342 = ?\nRemember: build the first number, then slide more beads for the second number.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "The bead frame lets you add numbers in the thousands quickly and accurately. But what happens when a row has MORE than 10 beads? We'll find out next time — that's called 'carrying' or 'dynamic addition.'", "mastery_check": "Can the child build any 4-digit number on the bead frame? Can they add two 4-digit numbers when no carrying is needed? Can they record the problems on paper?"}
+        {
+          "type": "title",
+          "heading": "The Bead Frame",
+          "subheading": "A New Tool for Big Addition",
+          "image_url": "https://images.pexels.com/photos/6692923/pexels-photo-6692923.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large bead frame (units, tens, hundreds, thousands rows — 10 beads each)",
+            "Bead frame recording paper",
+            "Pencil",
+            "Work mat"
+          ],
+          "setup_instructions": "Place the bead frame flat on the mat. All beads should be pushed to the right (showing zero). Have recording paper ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Present the bead frame: 'This is the bead frame — a powerful calculator that mathematicians have used for thousands of years. Each row has 10 beads.' Point to each row: 'Bottom row = units (green). Next = tens (blue). Next = hundreds (red). Top = thousands (green). Does this color pattern remind you of anything?' (The stamp game!)"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show how to build a number: 'Let's build 2,341.' Slide 2 thousand beads left, 3 hundred beads left, 4 ten beads left, 1 unit bead left. 'Read it with me: two thousand, three hundred, forty-one.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Demonstrate static addition: 'Now let's add 2,341 + 1,235.' The first number is already on the frame. 'For the second number, we slide MORE beads: 1 more thousand, 2 more hundreds, 3 more tens, 5 more units.' Count the beads in each row: '3 thousands, 5 hundreds, 7 tens, 6 units = 3,576!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Show how to record on paper: write the problem vertically, work it out on the bead frame, record the answer. 'The bead frame helps us SEE the math, and the paper helps us REMEMBER the math.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these addition problems on the bead frame. Record each one on paper:\n1. 1,234 + 2,345 = ?\n2. 3,012 + 1,456 = ?\n3. 2,222 + 1,111 = ?\n4. 4,130 + 3,521 = ?\n5. 1,001 + 2,342 = ?\nRemember: build the first number, then slide more beads for the second number.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "The bead frame lets you add numbers in the thousands quickly and accurately. But what happens when a row has MORE than 10 beads? We'll find out next time — that's called 'carrying' or 'dynamic addition.'",
+          "mastery_check": "Can the child build any 4-digit number on the bead frame? Can they add two 4-digit numbers when no carrying is needed? Can they record the problems on paper?"
+        }
       ]
     },
     "parent_notes": "The bead frame (also called the Montessori abacus) is a step MORE abstract than the stamp game. With stamps, each unit is a separate tile. On the bead frame, beads represent quantities by position — this is closer to how our number system actually works. Static addition (no carrying) lets the child learn the TOOL before tackling the harder CONCEPT of exchanging/carrying. If you don't have a Montessori bead frame, you can use a standard 4-row abacus or even make one with pipe cleaners and pony beads (10 beads per row: green, blue, red, green). The recording paper has columns for each place value — you can make this by drawing vertical lines on paper and labeling columns Th, H, T, U.",
@@ -208,17 +529,66 @@
     "instructions": "1. Connect to the Great Lesson: 'Remember how particles follow laws? One of those laws is about how particles behave at different temperatures.'\n2. Present the three states of matter with examples.\n3. Demonstrate each state with the particle model (children acting as particles).\n4. Conduct the ice-water-steam experiment.\n5. Have the child sort objects by state of matter.\n6. Introduce the scientific observation journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Ice cubes", "Pot of water", "Hot plate or stove access", "Various solid objects", "Balloon (for gas)", "Science journal/notebook", "Three-column sorting mat", "Pencil and colored pencils"],
+    "materials_needed": [
+      "Ice cubes",
+      "Pot of water",
+      "Hot plate or stove access",
+      "Various solid objects",
+      "Balloon (for gas)",
+      "Science journal/notebook",
+      "Three-column sorting mat",
+      "Pencil and colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "States of Matter", "subheading": "Solid, Liquid, Gas — The Three Forms of Everything"},
-        {"type": "materials", "items": ["Ice cubes in a bowl", "Pot of water and heat source", "Various solid objects (rock, wood block, coin)", "Balloon (inflated = gas inside)", "Three-column sorting mat labeled Solid/Liquid/Gas", "Science journal"], "setup_instructions": "Set up a safe area near the stove or hot plate. Have ice cubes ready. Inflate a balloon. Prepare the three-column sorting mat on a table."},
-        {"type": "instruction", "step": 1, "text": "Connect to the First Great Lesson: 'When the universe was born, all matter was incredibly hot — just energy and particles flying everywhere. As things cooled down, particles began to slow down and clump together. This is the secret of the three states of matter: it's all about how FAST the particles are moving.'"},
-        {"type": "instruction", "step": 2, "text": "Particle dance: 'Let's BE particles! When I say SOLID, stand close together and vibrate in place — barely moving. When I say LIQUID, spread out a little and flow around slowly. When I say GAS, run around the room bouncing off everything!' Practice all three. 'Solids: particles packed tight. Liquids: particles sliding past each other. Gases: particles flying freely.'"},
-        {"type": "instruction", "step": 3, "text": "The transformation experiment: Place ice cubes in a pot. 'This is water as a SOLID. The particles are locked in a crystal pattern.' Heat the pot slowly. 'Watch what happens as we add heat energy...' The ice melts. 'Now it's a LIQUID! The particles are moving faster, sliding around each other.' Continue heating until steam rises. 'Now it's a GAS! The particles have so much energy they're escaping into the air!'"},
-        {"type": "instruction", "step": 4, "text": "Key question: 'Is the water GONE when it becomes steam? No! The same particles are still there — they're just moving so fast we can't see them. Hold a cold plate over the steam...' (Condensation forms.) 'Look — the gas is turning BACK into liquid! Matter can change states, but it doesn't disappear.'"},
-        {"type": "activity", "prompt": "1. Sort 10 items onto your three-column mat: which are solids, liquids, or gases?\n2. In your science journal, draw the particle model for each state (dots close together, dots flowing, dots spread apart).\n3. Write a paragraph explaining how water can be a solid, a liquid, AND a gas. What makes it change?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Everything in the universe is made of matter, and all matter exists as a solid, liquid, or gas depending on temperature. The particles never disappear — they just speed up or slow down. Next science lesson, we'll explore classification — how scientists organize all the different types of matter and living things.", "mastery_check": "Can the child name and describe all three states of matter? Can they explain what causes matter to change states? Can they sort common substances by state?"}
+        {
+          "type": "title",
+          "heading": "States of Matter",
+          "subheading": "Solid, Liquid, Gas — The Three Forms of Everything",
+          "image_url": "https://images.pexels.com/photos/11286088/pexels-photo-11286088.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Ice cubes in a bowl",
+            "Pot of water and heat source",
+            "Various solid objects (rock, wood block, coin)",
+            "Balloon (inflated = gas inside)",
+            "Three-column sorting mat labeled Solid/Liquid/Gas",
+            "Science journal"
+          ],
+          "setup_instructions": "Set up a safe area near the stove or hot plate. Have ice cubes ready. Inflate a balloon. Prepare the three-column sorting mat on a table."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect to the First Great Lesson: 'When the universe was born, all matter was incredibly hot — just energy and particles flying everywhere. As things cooled down, particles began to slow down and clump together. This is the secret of the three states of matter: it's all about how FAST the particles are moving.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Particle dance: 'Let's BE particles! When I say SOLID, stand close together and vibrate in place — barely moving. When I say LIQUID, spread out a little and flow around slowly. When I say GAS, run around the room bouncing off everything!' Practice all three. 'Solids: particles packed tight. Liquids: particles sliding past each other. Gases: particles flying freely.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The transformation experiment: Place ice cubes in a pot. 'This is water as a SOLID. The particles are locked in a crystal pattern.' Heat the pot slowly. 'Watch what happens as we add heat energy...' The ice melts. 'Now it's a LIQUID! The particles are moving faster, sliding around each other.' Continue heating until steam rises. 'Now it's a GAS! The particles have so much energy they're escaping into the air!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Key question: 'Is the water GONE when it becomes steam? No! The same particles are still there — they're just moving so fast we can't see them. Hold a cold plate over the steam...' (Condensation forms.) 'Look — the gas is turning BACK into liquid! Matter can change states, but it doesn't disappear.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "1. Sort 10 items onto your three-column mat: which are solids, liquids, or gases?\n2. In your science journal, draw the particle model for each state (dots close together, dots flowing, dots spread apart).\n3. Write a paragraph explaining how water can be a solid, a liquid, AND a gas. What makes it change?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Everything in the universe is made of matter, and all matter exists as a solid, liquid, or gas depending on temperature. The particles never disappear — they just speed up or slow down. Next science lesson, we'll explore classification — how scientists organize all the different types of matter and living things.",
+          "mastery_check": "Can the child name and describe all three states of matter? Can they explain what causes matter to change states? Can they sort common substances by state?"
+        }
       ]
     },
     "parent_notes": "This lesson directly extends the First Great Lesson — the laws that particles follow include the rules about states of matter. This connection is intentional: in Montessori elementary, EVERYTHING connects back to the Great Lessons. The 'particle dance' is a powerful kinesthetic model that helps children understand an invisible process. The ice-to-steam experiment should be done with real heat and real observation — this is real science, not a worksheet. Safety note: supervise the hot plate/stove carefully, but don't do it FOR the child. They should observe closely (with appropriate distance from steam). The science journal is launched here and will be used all year. Encourage detailed drawings with labels — scientific illustration is a real skill.",
@@ -236,17 +606,68 @@
     "instructions": "1. Discuss: 'What did you imagine when you heard the story of the Big Bang? What colors do you see?'\n2. Introduce warm colors (red, orange, yellow) and cool colors (blue, purple, green).\n3. Demonstrate wet-on-wet watercolor technique.\n4. Guide the child through painting their interpretation of the Big Bang.\n5. Allow free expression — there is no 'wrong' way to paint the universe.\n6. Display and discuss the finished piece.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Watercolor paints", "Watercolor paper (heavy weight)", "Large brushes", "Cup of water", "Paper towels", "Spray bottle", "Newspaper to protect surface", "Optional: salt for texture effects"],
+    "materials_needed": [
+      "Watercolor paints",
+      "Watercolor paper (heavy weight)",
+      "Large brushes",
+      "Cup of water",
+      "Paper towels",
+      "Spray bottle",
+      "Newspaper to protect surface",
+      "Optional: salt for texture effects"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Cosmic Art", "subheading": "Painting the Big Bang"},
-        {"type": "materials", "items": ["Watercolor paints (at least 8 colors)", "Heavy watercolor paper", "Large and medium brushes", "Cup of clean water", "Paper towels", "Spray bottle", "Newspaper for surface protection", "Salt (optional, for starburst texture)"], "setup_instructions": "Cover the workspace with newspaper. Tape watercolor paper to the surface so it doesn't buckle. Have water cups and paints ready. Pre-wet the paper lightly with the spray bottle."},
-        {"type": "instruction", "step": 1, "text": "Begin with discussion: 'Close your eyes. Think about the First Great Lesson. Imagine the Big Bang — that moment when everything in the universe exploded into being. What colors do you see? What shapes?' Let the child describe their mental image."},
-        {"type": "instruction", "step": 2, "text": "Introduce color theory: 'Artists use WARM colors (red, orange, yellow) for energy, fire, and explosions. They use COOL colors (blue, purple, green) for space, darkness, and calm.' Show each group. 'The Big Bang had BOTH — cool, dark space and warm, explosive energy.'"},
-        {"type": "instruction", "step": 3, "text": "Demonstrate wet-on-wet technique: 'First, we wet the entire paper with the spray bottle. Then we drop color onto the wet surface and watch it SPREAD — just like the universe spread out after the Big Bang!' Drop a warm color onto wet paper and show how it blooms. 'The paint follows its own laws, just like the particles in the universe.'"},
-        {"type": "instruction", "step": 4, "text": "Optional texture technique: 'Sprinkle salt on the wet paint — it creates a starburst effect that looks like stars forming.' Demonstrate on a corner of scrap paper."},
-        {"type": "activity", "prompt": "Create your Big Bang painting! Start with dark cool colors for space, then add warm explosive colors for the Bang. Let the colors blend and flow. Try the salt technique for stars. There is no wrong way to paint the universe — your interpretation is unique, just like you are unique in the universe.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Look at your painting. You used warm and cool colors to create a piece of cosmic art. Every artist sees the universe differently, and your painting is your own interpretation of the greatest event in history. Let it dry flat and we'll display it.", "mastery_check": "Can the child identify warm and cool colors? Did they use the wet-on-wet technique? Can they explain what their painting represents?"}
+        {
+          "type": "title",
+          "heading": "Cosmic Art",
+          "subheading": "Painting the Big Bang",
+          "image_url": "https://images.pexels.com/photos/8613054/pexels-photo-8613054.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Watercolor paints (at least 8 colors)",
+            "Heavy watercolor paper",
+            "Large and medium brushes",
+            "Cup of clean water",
+            "Paper towels",
+            "Spray bottle",
+            "Newspaper for surface protection",
+            "Salt (optional, for starburst texture)"
+          ],
+          "setup_instructions": "Cover the workspace with newspaper. Tape watercolor paper to the surface so it doesn't buckle. Have water cups and paints ready. Pre-wet the paper lightly with the spray bottle."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Begin with discussion: 'Close your eyes. Think about the First Great Lesson. Imagine the Big Bang — that moment when everything in the universe exploded into being. What colors do you see? What shapes?' Let the child describe their mental image."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce color theory: 'Artists use WARM colors (red, orange, yellow) for energy, fire, and explosions. They use COOL colors (blue, purple, green) for space, darkness, and calm.' Show each group. 'The Big Bang had BOTH — cool, dark space and warm, explosive energy.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Demonstrate wet-on-wet technique: 'First, we wet the entire paper with the spray bottle. Then we drop color onto the wet surface and watch it SPREAD — just like the universe spread out after the Big Bang!' Drop a warm color onto wet paper and show how it blooms. 'The paint follows its own laws, just like the particles in the universe.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Optional texture technique: 'Sprinkle salt on the wet paint — it creates a starburst effect that looks like stars forming.' Demonstrate on a corner of scrap paper."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your Big Bang painting! Start with dark cool colors for space, then add warm explosive colors for the Bang. Let the colors blend and flow. Try the salt technique for stars. There is no wrong way to paint the universe — your interpretation is unique, just like you are unique in the universe.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Look at your painting. You used warm and cool colors to create a piece of cosmic art. Every artist sees the universe differently, and your painting is your own interpretation of the greatest event in history. Let it dry flat and we'll display it.",
+          "mastery_check": "Can the child identify warm and cool colors? Did they use the wet-on-wet technique? Can they explain what their painting represents?"
+        }
       ]
     },
     "parent_notes": "Art in Montessori elementary is not 'craft time' — it's integrated with academic content. This lesson connects directly to the First Great Lesson, reinforcing the cosmic narrative through a different modality. The wet-on-wet watercolor technique is particularly appropriate because it mirrors the Great Lesson's themes: the paint 'follows laws' as it spreads on wet paper, just as particles follow laws. Don't direct the child's artistic choices — say 'What does YOUR Big Bang look like?' rather than 'Paint it like this.' The color theory instruction (warm/cool) is genuine art education that will be built upon all year. Display the finished painting prominently — it represents the beginning of their cosmic education journey.",
@@ -264,17 +685,64 @@
     "instructions": "1. Tour the learning space together. Discuss what makes a good workspace.\n2. Organize materials by subject area.\n3. Create labels for shelves and containers.\n4. Set up a daily schedule together.\n5. Establish routines: how we start the day, how we transition, how we clean up.\n6. Practice the routines.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Labels or label maker", "Baskets or containers for materials", "Clock or timer", "Blank weekly schedule template", "Markers", "Shelf or storage unit"],
+    "materials_needed": [
+      "Labels or label maker",
+      "Baskets or containers for materials",
+      "Clock or timer",
+      "Blank weekly schedule template",
+      "Markers",
+      "Shelf or storage unit"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Our Learning Environment", "subheading": "Creating a Space That Works for Us"},
-        {"type": "materials", "items": ["Labels or label maker", "Storage baskets and containers", "Clock or timer", "Weekly schedule template (blank)", "Markers and colored pencils", "Shelf or storage unit"], "setup_instructions": "Have all learning materials gathered but NOT yet organized. This lesson is about the child helping to organize their own space. Have the blank schedule ready."},
-        {"type": "instruction", "step": 1, "text": "Begin with a tour: 'This is YOUR learning space. In Montessori, the environment belongs to the children, not the teacher. That means YOU get to help set it up, and YOU are responsible for keeping it organized. Let's walk through and decide where everything should go.'"},
-        {"type": "instruction", "step": 2, "text": "Sort materials by subject: 'Where should the math materials go? Where should the science supplies be? Where will we keep our journals?' Let the child make decisions. Guide gently: 'Heavy materials go on lower shelves. Things you use every day should be easy to reach.'"},
-        {"type": "instruction", "step": 3, "text": "Make labels together. The child writes (or types and prints) labels for each area: Math, Language, Science, Geography, History, Art, Reading Corner. Place labels on shelves and containers. 'Now you always know where to find AND return your materials.'"},
-        {"type": "instruction", "step": 4, "text": "Create the daily schedule together: 'Lower Elementary students have a 3-hour work cycle. That means you work for 3 hours with breaks when YOU decide you need them. Let's plan how each day will flow.' Fill in the weekly schedule template together."},
-        {"type": "activity", "prompt": "1. Finish organizing all materials into their labeled spaces.\n2. Practice the morning routine: enter the space, check the schedule, choose your first work, get materials from the shelf, work at your table, return materials when done.\n3. Practice cleanup: return all materials, wipe down surfaces, push in chairs, check that everything is in its labeled spot.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "You now have a beautiful, organized learning environment that YOU created. When you take care of your space, your space takes care of you — everything is easy to find, easy to use, and easy to put away.", "mastery_check": "Can the child locate any material independently? Do they understand the daily routine? Can they clean up and reset the space without reminders?"}
+        {
+          "type": "title",
+          "heading": "Our Learning Environment",
+          "subheading": "Creating a Space That Works for Us",
+          "image_url": "https://images.pexels.com/photos/15826427/pexels-photo-15826427.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Labels or label maker",
+            "Storage baskets and containers",
+            "Clock or timer",
+            "Weekly schedule template (blank)",
+            "Markers and colored pencils",
+            "Shelf or storage unit"
+          ],
+          "setup_instructions": "Have all learning materials gathered but NOT yet organized. This lesson is about the child helping to organize their own space. Have the blank schedule ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Begin with a tour: 'This is YOUR learning space. In Montessori, the environment belongs to the children, not the teacher. That means YOU get to help set it up, and YOU are responsible for keeping it organized. Let's walk through and decide where everything should go.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Sort materials by subject: 'Where should the math materials go? Where should the science supplies be? Where will we keep our journals?' Let the child make decisions. Guide gently: 'Heavy materials go on lower shelves. Things you use every day should be easy to reach.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Make labels together. The child writes (or types and prints) labels for each area: Math, Language, Science, Geography, History, Art, Reading Corner. Place labels on shelves and containers. 'Now you always know where to find AND return your materials.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Create the daily schedule together: 'Lower Elementary students have a 3-hour work cycle. That means you work for 3 hours with breaks when YOU decide you need them. Let's plan how each day will flow.' Fill in the weekly schedule template together."
+        },
+        {
+          "type": "activity",
+          "prompt": "1. Finish organizing all materials into their labeled spaces.\n2. Practice the morning routine: enter the space, check the schedule, choose your first work, get materials from the shelf, work at your table, return materials when done.\n3. Practice cleanup: return all materials, wipe down surfaces, push in chairs, check that everything is in its labeled spot.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "You now have a beautiful, organized learning environment that YOU created. When you take care of your space, your space takes care of you — everything is easy to find, easy to use, and easy to put away.",
+          "mastery_check": "Can the child locate any material independently? Do they understand the daily routine? Can they clean up and reset the space without reminders?"
+        }
       ]
     },
     "parent_notes": "Practical Life in Lower Elementary looks very different from Primary. Instead of pouring and spooning, children take on real responsibility: organizing their space, managing their time, preparing food for the family, and contributing to the community. This first lesson establishes the child's OWNERSHIP of their learning environment. In a Montessori classroom, children choose their work, get their own materials, and return them — the environment is set up for independence. At home, this means your child's learning area should be organized, accessible, and THEIRS to maintain. Resist the urge to organize FOR them. The 3-hour work cycle is a hallmark of Montessori elementary — children need long, uninterrupted blocks to do deep work. The schedule you create together should reflect this. Trust the process: children who own their environment take better care of it.",
@@ -292,17 +760,63 @@
     "instructions": "1. Review the First Great Lesson briefly — what do you remember?\n2. Teach/review paragraph structure: topic sentence, 3+ detail sentences, closing sentence.\n3. Model writing a paragraph together on chart paper.\n4. Have the child plan their paragraph using a simple graphic organizer.\n5. Child writes independently.\n6. Revise together: check for capitals, periods, and paragraph structure.\n7. Child writes a final draft in their journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Writing journal", "Pencil", "Chart paper or whiteboard", "Graphic organizer (hamburger paragraph)", "Colored pencils for illustration", "Eraser"],
+    "materials_needed": [
+      "Writing journal",
+      "Pencil",
+      "Chart paper or whiteboard",
+      "Graphic organizer (hamburger paragraph)",
+      "Colored pencils for illustration",
+      "Eraser"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Journal Writing", "subheading": "My Universe Story"},
-        {"type": "materials", "items": ["Writing journal (separate from reading journal)", "Pencil and eraser", "Chart paper or whiteboard for modeling", "Graphic organizer worksheet", "Colored pencils"], "setup_instructions": "Prepare a simple graphic organizer: a circle at top (topic sentence), three lines in the middle (details), and a circle at bottom (closing). Have chart paper ready for modeling."},
-        {"type": "instruction", "step": 1, "text": "Warm up: 'Close your eyes. Think back to the First Great Lesson. What do you remember? What was the most amazing part?' Let the child share freely for 2-3 minutes. This activates their thinking before writing."},
-        {"type": "instruction", "step": 2, "text": "Teach paragraph structure: 'A paragraph is like a hamburger. The top bun is your TOPIC SENTENCE — it tells the reader what you're writing about. The meat and toppings are your DETAIL SENTENCES — at least 3 facts or ideas. The bottom bun is your CLOSING SENTENCE — it wraps everything up.'"},
-        {"type": "instruction", "step": 3, "text": "Model together: Write a topic sentence on chart paper. 'The story of the universe begins with a big bang.' Ask the child for detail sentences. Write 3 together. Add a closing sentence. Read the whole paragraph aloud. 'See? That's a complete paragraph!'"},
-        {"type": "instruction", "step": 4, "text": "Guide planning: 'Now it's your turn. Fill in the graphic organizer first — just notes, not full sentences. What's your topic sentence? What 3 details will you include? How will you end it?' Review their plan before they start writing."},
-        {"type": "activity", "prompt": "Write your paragraph about the First Great Lesson in your journal. Remember:\n- Topic sentence (what is this paragraph about?)\n- At least 3 detail sentences (what happened? what did you learn?)\n- Closing sentence (why does this matter?)\n- Use your best handwriting (cursive if you've learned it)\n- When finished, draw an illustration to go with your writing.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Read your paragraph aloud. You just wrote a complete paragraph about the birth of the universe! Every great scientist and historian started by writing down what they observed and learned — that's exactly what you did today.", "mastery_check": "Does the paragraph have a clear topic sentence, at least 3 supporting details, and a closing sentence? Are sentences capitalized and punctuated? Is the content accurate to the Great Lesson?"}
+        {
+          "type": "title",
+          "heading": "Journal Writing",
+          "subheading": "My Universe Story",
+          "image_url": "https://images.pexels.com/photos/1887614/pexels-photo-1887614.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Writing journal (separate from reading journal)",
+            "Pencil and eraser",
+            "Chart paper or whiteboard for modeling",
+            "Graphic organizer worksheet",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Prepare a simple graphic organizer: a circle at top (topic sentence), three lines in the middle (details), and a circle at bottom (closing). Have chart paper ready for modeling."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Warm up: 'Close your eyes. Think back to the First Great Lesson. What do you remember? What was the most amazing part?' Let the child share freely for 2-3 minutes. This activates their thinking before writing."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Teach paragraph structure: 'A paragraph is like a hamburger. The top bun is your TOPIC SENTENCE — it tells the reader what you're writing about. The meat and toppings are your DETAIL SENTENCES — at least 3 facts or ideas. The bottom bun is your CLOSING SENTENCE — it wraps everything up.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Model together: Write a topic sentence on chart paper. 'The story of the universe begins with a big bang.' Ask the child for detail sentences. Write 3 together. Add a closing sentence. Read the whole paragraph aloud. 'See? That's a complete paragraph!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Guide planning: 'Now it's your turn. Fill in the graphic organizer first — just notes, not full sentences. What's your topic sentence? What 3 details will you include? How will you end it?' Review their plan before they start writing."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your paragraph about the First Great Lesson in your journal. Remember:\n- Topic sentence (what is this paragraph about?)\n- At least 3 detail sentences (what happened? what did you learn?)\n- Closing sentence (why does this matter?)\n- Use your best handwriting (cursive if you've learned it)\n- When finished, draw an illustration to go with your writing.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Read your paragraph aloud. You just wrote a complete paragraph about the birth of the universe! Every great scientist and historian started by writing down what they observed and learned — that's exactly what you did today.",
+          "mastery_check": "Does the paragraph have a clear topic sentence, at least 3 supporting details, and a closing sentence? Are sentences capitalized and punctuated? Is the content accurate to the Great Lesson?"
+        }
       ]
     },
     "parent_notes": "Writing in Montessori elementary is always connected to content the child has experienced — never isolated 'writing practice.' By writing about the First Great Lesson, the child processes the story more deeply AND practices paragraph structure. The graphic organizer (hamburger paragraph) is a scaffold that helps children organize their thoughts before writing. Don't skip the planning step — children who plan write better paragraphs. During the writing phase, resist correcting every error. Focus on CONTENT first (Did they say something meaningful?), then STRUCTURE (paragraph format), then MECHANICS (spelling, punctuation). If your child learned cursive in primary, encourage it here. If not, print is fine — cursive can be introduced later. The reading journal and writing journal are SEPARATE — one records reading responses, the other is for original writing.",
@@ -320,17 +834,60 @@
     "instructions": "1. Review static addition briefly.\n2. Present a problem where units exceed 10 (e.g., 1,237 + 2,845).\n3. Show what happens when a row has more than 10 beads.\n4. Demonstrate the exchange: slide 10 beads back, slide 1 bead on the next row forward.\n5. Practice with problems that require carrying in one column, then multiple columns.\n6. Record all work on bead frame paper.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Large bead frame", "Bead frame paper", "Pencil", "Work mat"],
+    "materials_needed": [
+      "Large bead frame",
+      "Bead frame paper",
+      "Pencil",
+      "Work mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Dynamic Addition", "subheading": "When Beads Overflow — Carrying on the Bead Frame"},
-        {"type": "materials", "items": ["Large bead frame", "Bead frame recording paper", "Pencil", "Work mat"], "setup_instructions": "Set up the bead frame with all beads to the right (zero). Have recording paper ready. Write the first problem on paper before beginning."},
-        {"type": "instruction", "step": 1, "text": "Quick review: 'Last time we added numbers where every row stayed under 10 beads. But what if the units add up to MORE than 10? Let's find out.'"},
-        {"type": "instruction", "step": 2, "text": "Build the problem: 1,237 + 2,845. Build 1,237 on the bead frame first. Now add 2,845: 'Start with thousands: slide 2 more. We have 3 thousand beads. Hundreds: slide 8 more. We have 10 hundred beads... wait. We have ALL 10 beads in the hundreds row! We can't go past 10. What do we do?'"},
-        {"type": "instruction", "step": 3, "text": "Demonstrate the exchange: 'When we have 10 beads in ANY row, we slide all 10 BACK to the right, and slide 1 bead forward on the NEXT row up. 10 hundreds = 1 thousand!' Slide 10 hundred beads back, slide 1 more thousand bead left. 'Now we have 4 thousands and 0 hundreds. Continue with tens and units — carry whenever you reach 10.'"},
-        {"type": "instruction", "step": 4, "text": "Complete the problem together: Tens: 3 + 4 = 7 tens (no carrying). Units: 7 + 5 = 12 units. Exchange! 10 units back, 1 ten forward. Now 8 tens, 2 units. Final answer: 4,082. Record on paper."},
-        {"type": "activity", "prompt": "Solve these dynamic addition problems on the bead frame. Record each on paper:\n1. 2,456 + 1,378 = ?\n2. 3,567 + 2,845 = ?\n3. 1,999 + 1,111 = ?\n4. 4,758 + 3,694 = ?\n5. Create your own problem that requires carrying in at least 2 columns.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You can now add ANY two numbers on the bead frame, even when the beads overflow! This exchange — trading 10 of one for 1 of the next — is one of the most important ideas in mathematics. It's how our entire number system works.", "mastery_check": "Can the child perform the exchange correctly (10 beads back, 1 bead forward on next row)? Can they complete multi-column carrying? Do they record accurately on paper?"}
+        {
+          "type": "title",
+          "heading": "Dynamic Addition",
+          "subheading": "When Beads Overflow — Carrying on the Bead Frame",
+          "image_url": "https://images.pexels.com/photos/6692940/pexels-photo-6692940.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large bead frame",
+            "Bead frame recording paper",
+            "Pencil",
+            "Work mat"
+          ],
+          "setup_instructions": "Set up the bead frame with all beads to the right (zero). Have recording paper ready. Write the first problem on paper before beginning."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Quick review: 'Last time we added numbers where every row stayed under 10 beads. But what if the units add up to MORE than 10? Let's find out.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Build the problem: 1,237 + 2,845. Build 1,237 on the bead frame first. Now add 2,845: 'Start with thousands: slide 2 more. We have 3 thousand beads. Hundreds: slide 8 more. We have 10 hundred beads... wait. We have ALL 10 beads in the hundreds row! We can't go past 10. What do we do?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Demonstrate the exchange: 'When we have 10 beads in ANY row, we slide all 10 BACK to the right, and slide 1 bead forward on the NEXT row up. 10 hundreds = 1 thousand!' Slide 10 hundred beads back, slide 1 more thousand bead left. 'Now we have 4 thousands and 0 hundreds. Continue with tens and units — carry whenever you reach 10.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Complete the problem together: Tens: 3 + 4 = 7 tens (no carrying). Units: 7 + 5 = 12 units. Exchange! 10 units back, 1 ten forward. Now 8 tens, 2 units. Final answer: 4,082. Record on paper."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these dynamic addition problems on the bead frame. Record each on paper:\n1. 2,456 + 1,378 = ?\n2. 3,567 + 2,845 = ?\n3. 1,999 + 1,111 = ?\n4. 4,758 + 3,694 = ?\n5. Create your own problem that requires carrying in at least 2 columns.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You can now add ANY two numbers on the bead frame, even when the beads overflow! This exchange — trading 10 of one for 1 of the next — is one of the most important ideas in mathematics. It's how our entire number system works.",
+          "mastery_check": "Can the child perform the exchange correctly (10 beads back, 1 bead forward on next row)? Can they complete multi-column carrying? Do they record accurately on paper?"
+        }
       ]
     },
     "parent_notes": "Dynamic addition (carrying) is the same concept whether done with golden beads, stamp game, bead frame, or pencil and paper. The beauty of Montessori math is that by the time a child writes the algorithm on paper, they have already DONE the carrying with their hands dozens of times. They understand WHY we 'carry the 1' — because 10 units literally becomes 1 ten. The bead frame makes this visible: when you have 10 beads and slide them all back, then slide 1 forward on the next row, the child SEES the exchange happen. This kinesthetic understanding prevents the common confusion of 'just memorize the carrying procedure.' If your child struggles, go back to the stamp game for a few problems — stamps are more concrete because each unit is a separate piece. Then return to the bead frame.",
@@ -348,17 +905,65 @@
     "instructions": "1. Review Part 1: 'Last time, we heard about the Big Bang and the formation of stars. What do you remember?'\n2. Continue the story: the formation of the solar system and Earth.\n3. Use demonstrations: the volcano model and water experiments.\n4. Introduce the Timeline of the Universe (wall chart).\n5. Discuss the scale of time.\n6. Follow-up research work.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Timeline of the Universe chart", "Baking soda and vinegar (volcano demo)", "Small container for volcano", "Tray to catch overflow", "Globe", "Blue and brown modeling clay", "Candle and dark room setup"],
+    "materials_needed": [
+      "Timeline of the Universe chart",
+      "Baking soda and vinegar (volcano demo)",
+      "Small container for volcano",
+      "Tray to catch overflow",
+      "Globe",
+      "Blue and brown modeling clay",
+      "Candle and dark room setup"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The First Great Lesson, Part 2", "subheading": "How Earth Became Our Home"},
-        {"type": "materials", "items": ["Timeline of the Universe (wall chart or scroll)", "Baking soda, vinegar, red food coloring (volcano)", "Small container and tray", "Globe or sphere", "Blue and brown modeling clay", "Candle"], "setup_instructions": "Have the volcano demo prepared (baking soda in container on tray). Hang or unroll the Timeline of the Universe. Have clay ready for the Earth-building activity."},
-        {"type": "instruction", "step": 1, "text": "Review: 'What do you remember from Part 1? Tell me the story so far.' Let the child retell: Big Bang, particles, laws of matter, stars forming, our Sun. 'Excellent. Today we continue the story — the most exciting part, because it's about OUR planet.'"},
-        {"type": "instruction", "step": 2, "text": "Continue the story: 'When our Sun formed, leftover gas and dust swirled around it. Pieces crashed together, getting bigger and bigger. One of these growing balls of rock became Earth. But it was NOT a nice place. Earth was a ball of FIRE — covered in erupting volcanoes.' Demonstrate with the baking soda volcano: add vinegar to the baking soda. 'Volcanoes were everywhere, erupting constantly!'"},
-        {"type": "instruction", "step": 3, "text": "'Slowly, over millions of years, Earth began to cool. The outside hardened into a crust — like the skin on pudding. The volcanoes released gases that became our atmosphere. And then something magical happened: the atmosphere cooled enough for water to exist as a LIQUID. It rained for THOUSANDS of years, filling up the low places. What do we call those filled-up low places?' (Oceans!)"},
-        {"type": "instruction", "step": 4, "text": "Unroll the Timeline of the Universe. Walk along it together: 'This line represents 13.8 BILLION years. Look — the Big Bang is at the very start. Stars and galaxies form here. And Earth forms HERE... but look how far along the timeline that is! Earth is only about 4.5 billion years old. And humans? We're at the VERY END — just a tiny sliver.'"},
-        {"type": "activity", "prompt": "Choose one or more:\n1. Build a model of early Earth with clay — show the layers (inner core, outer core, mantle, crust) using different colors.\n2. Draw and label the Timeline of the Universe with at least 5 major events.\n3. Write in your journal: 'If the universe's history were a 24-hour clock, Earth would form at 4 PM and humans would appear at 11:59 PM.' What does this make you think?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Earth went from a ball of fire to a planet with oceans, land, and an atmosphere. But there was still no life — just rock, water, and air. How did life begin? That is the Second Great Lesson, coming next week!", "mastery_check": "Can the child explain how Earth formed and cooled? Can they identify the major stages: molten ball, volcanoes, atmosphere forms, rain/oceans? Do they understand the immense time scale?"}
+        {
+          "type": "title",
+          "heading": "The First Great Lesson, Part 2",
+          "subheading": "How Earth Became Our Home",
+          "image_url": "https://images.pexels.com/photos/10392293/pexels-photo-10392293.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Timeline of the Universe (wall chart or scroll)",
+            "Baking soda, vinegar, red food coloring (volcano)",
+            "Small container and tray",
+            "Globe or sphere",
+            "Blue and brown modeling clay",
+            "Candle"
+          ],
+          "setup_instructions": "Have the volcano demo prepared (baking soda in container on tray). Hang or unroll the Timeline of the Universe. Have clay ready for the Earth-building activity."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'What do you remember from Part 1? Tell me the story so far.' Let the child retell: Big Bang, particles, laws of matter, stars forming, our Sun. 'Excellent. Today we continue the story — the most exciting part, because it's about OUR planet.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Continue the story: 'When our Sun formed, leftover gas and dust swirled around it. Pieces crashed together, getting bigger and bigger. One of these growing balls of rock became Earth. But it was NOT a nice place. Earth was a ball of FIRE — covered in erupting volcanoes.' Demonstrate with the baking soda volcano: add vinegar to the baking soda. 'Volcanoes were everywhere, erupting constantly!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Slowly, over millions of years, Earth began to cool. The outside hardened into a crust — like the skin on pudding. The volcanoes released gases that became our atmosphere. And then something magical happened: the atmosphere cooled enough for water to exist as a LIQUID. It rained for THOUSANDS of years, filling up the low places. What do we call those filled-up low places?' (Oceans!)"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Unroll the Timeline of the Universe. Walk along it together: 'This line represents 13.8 BILLION years. Look — the Big Bang is at the very start. Stars and galaxies form here. And Earth forms HERE... but look how far along the timeline that is! Earth is only about 4.5 billion years old. And humans? We're at the VERY END — just a tiny sliver.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose one or more:\n1. Build a model of early Earth with clay — show the layers (inner core, outer core, mantle, crust) using different colors.\n2. Draw and label the Timeline of the Universe with at least 5 major events.\n3. Write in your journal: 'If the universe's history were a 24-hour clock, Earth would form at 4 PM and humans would appear at 11:59 PM.' What does this make you think?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Earth went from a ball of fire to a planet with oceans, land, and an atmosphere. But there was still no life — just rock, water, and air. How did life begin? That is the Second Great Lesson, coming next week!",
+          "mastery_check": "Can the child explain how Earth formed and cooled? Can they identify the major stages: molten ball, volcanoes, atmosphere forms, rain/oceans? Do they understand the immense time scale?"
+        }
       ]
     },
     "parent_notes": "Part 2 of the First Great Lesson completes the cosmic creation story by bringing it home to Earth. The volcano demonstration is always a hit with this age group and connects science (chemical reactions) to history (Earth's formation). The Timeline of the Universe is a critical Montessori material — it gives children a visual sense of deep time. If you don't have the official Montessori timeline, you can make one on a long roll of paper (butcher paper works well). The scale exercise (universe as a 24-hour clock, with humans appearing at 11:59:59 PM) is profoundly humbling and is a key element of Montessori's 'cosmic education' — the idea that we are a tiny but significant part of an enormous story. This sense of cosmic perspective is what distinguishes Montessori elementary from conventional education.",
@@ -376,17 +981,61 @@
     "instructions": "1. Connect to the Great Lesson: 'We heard the scientific story of how the universe began. But people have been wondering about this for thousands of years, long before scientists had telescopes.'\n2. Read or tell 3-4 creation stories from different cultures.\n3. Discuss similarities and differences.\n4. Have the child choose one to illustrate and retell.\n5. Discuss: 'Why do you think every culture has a creation story?'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Books or printed stories of creation myths (at least 3-4 from different cultures)", "World map", "Drawing paper", "Colored pencils or markers", "Writing journal"],
+    "materials_needed": [
+      "Books or printed stories of creation myths (at least 3-4 from different cultures)",
+      "World map",
+      "Drawing paper",
+      "Colored pencils or markers",
+      "Writing journal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Creation Stories", "subheading": "How Cultures Around the World Explain the Beginning"},
-        {"type": "materials", "items": ["Creation myth books or printed stories (Hindu, Aboriginal, Norse, Mayan, Chinese, African, Native American)", "World map or globe", "Drawing paper and colored pencils", "Writing journal"], "setup_instructions": "Select 3-4 creation stories from diverse cultures. Mark each culture's location on the world map. Have the stories ready to read aloud or tell."},
-        {"type": "instruction", "step": 1, "text": "Connect: 'We heard the scientific story of the Big Bang. But long before telescopes and laboratories, people everywhere looked at the stars and asked: How did all this begin? Every culture on Earth has created a story to answer that question. Let's hear some of them.'"},
-        {"type": "instruction", "step": 2, "text": "Tell 3-4 creation stories. Suggestions:\n- Hindu: The cosmic egg (Hiranyagarbha) floating on waters, cracking open to create the universe\n- Aboriginal Australian: The Dreamtime — ancestral beings sang the world into existence\n- Norse: Fire and ice meeting in the void (Ginnungagap) creating the first being\n- Mayan: The gods tried 3 times to make humans — from mud, wood, then corn\nPoint to each culture's location on the map as you tell their story."},
-        {"type": "instruction", "step": 3, "text": "Discuss together: 'What do these stories have in common? (Most start with darkness or nothing. Most involve something powerful creating order from chaos.) How are they different? (Different characters, different explanations.) How are they similar to or different from the Big Bang story?'"},
-        {"type": "instruction", "step": 4, "text": "Key insight: 'EVERY culture — on every continent — has a creation story. That tells us something important about human beings: we are creatures who need to understand where we came from. That's what makes us human. Scientists, storytellers, and spiritual leaders all try to answer the same question.'"},
-        {"type": "activity", "prompt": "Choose your favorite creation story from today. Draw a picture showing the most important moment of that story. Below your drawing, write:\n1. Which culture tells this story (and where they are on the map)\n2. A brief retelling in your own words (at least 5 sentences)\n3. One thing this story has in common with the Big Bang story", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "People around the world have always wondered about the beginning of everything. Science gives us one kind of answer. Culture gives us another. Both are part of being human. We'll continue exploring world cultures all year.", "mastery_check": "Can the child retell at least 2 creation stories? Can they identify similarities across cultures? Do they understand that all humans share fundamental questions about origins?"}
+        {
+          "type": "title",
+          "heading": "Creation Stories",
+          "subheading": "How Cultures Around the World Explain the Beginning",
+          "image_url": "https://images.pexels.com/photos/5299821/pexels-photo-5299821.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Creation myth books or printed stories (Hindu, Aboriginal, Norse, Mayan, Chinese, African, Native American)",
+            "World map or globe",
+            "Drawing paper and colored pencils",
+            "Writing journal"
+          ],
+          "setup_instructions": "Select 3-4 creation stories from diverse cultures. Mark each culture's location on the world map. Have the stories ready to read aloud or tell."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect: 'We heard the scientific story of the Big Bang. But long before telescopes and laboratories, people everywhere looked at the stars and asked: How did all this begin? Every culture on Earth has created a story to answer that question. Let's hear some of them.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Tell 3-4 creation stories. Suggestions:\n- Hindu: The cosmic egg (Hiranyagarbha) floating on waters, cracking open to create the universe\n- Aboriginal Australian: The Dreamtime — ancestral beings sang the world into existence\n- Norse: Fire and ice meeting in the void (Ginnungagap) creating the first being\n- Mayan: The gods tried 3 times to make humans — from mud, wood, then corn\nPoint to each culture's location on the map as you tell their story."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Discuss together: 'What do these stories have in common? (Most start with darkness or nothing. Most involve something powerful creating order from chaos.) How are they different? (Different characters, different explanations.) How are they similar to or different from the Big Bang story?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Key insight: 'EVERY culture — on every continent — has a creation story. That tells us something important about human beings: we are creatures who need to understand where we came from. That's what makes us human. Scientists, storytellers, and spiritual leaders all try to answer the same question.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose your favorite creation story from today. Draw a picture showing the most important moment of that story. Below your drawing, write:\n1. Which culture tells this story (and where they are on the map)\n2. A brief retelling in your own words (at least 5 sentences)\n3. One thing this story has in common with the Big Bang story",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "People around the world have always wondered about the beginning of everything. Science gives us one kind of answer. Culture gives us another. Both are part of being human. We'll continue exploring world cultures all year.",
+          "mastery_check": "Can the child retell at least 2 creation stories? Can they identify similarities across cultures? Do they understand that all humans share fundamental questions about origins?"
+        }
       ]
     },
     "parent_notes": "This lesson is a beautiful example of Montessori's approach to cultural education. By presenting creation stories from diverse cultures alongside the scientific Big Bang narrative, we show children that ALL humans share the same fundamental questions. This is NOT about promoting any particular religion or dismissing any tradition — it's about building respect for human diversity while recognizing our shared humanity. Choose stories from cultures that are relevant to your family and community, and also include traditions that are unfamiliar. The map component is important — it grounds abstract stories in real places. If your family has a specific religious tradition, include it naturally alongside the others. Maria Montessori believed that cosmic education should cultivate gratitude and wonder, not competition between worldviews.",
@@ -404,17 +1053,60 @@
     "instructions": "1. Briefly recall where we left off in 'Born With a Bang.'\n2. Read the next section aloud.\n3. Discuss new information and connections.\n4. Read a poem about the cosmos.\n5. Compare prose and poetry: how are they different?\n6. Invite the child to write their own short poem about the universe.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["'Born With a Bang' by Jennifer Morgan", "Poetry book or printed poem about space", "Reading journal", "Pencil"],
+    "materials_needed": [
+      "'Born With a Bang' by Jennifer Morgan",
+      "Poetry book or printed poem about space",
+      "Reading journal",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud & Poetry", "subheading": "Continuing Our Cosmic Reading"},
-        {"type": "materials", "items": ["'Born With a Bang' or cosmic science book", "A poem about space (see suggestions in instructions)", "Reading journal", "Pencil"], "setup_instructions": "Bookmark where you left off in the book. Select a poem: 'The Star' by Jane Taylor, 'Cosmic Poem' from any children's poetry anthology, or find one about the universe online. Set up the comfortable reading spot."},
-        {"type": "instruction", "step": 1, "text": "Recall: 'What do you remember from our last reading? Where did we leave off?' Let the child summarize. Then read the next chapter or section — about 10-15 minutes of reading."},
-        {"type": "instruction", "step": 2, "text": "After reading, discuss: 'What new information did we learn? How does this connect to the First Great Lesson?' Pull out 2-3 new vocabulary words. Add them to the vocabulary section of the reading journal."},
-        {"type": "instruction", "step": 3, "text": "Transition to poetry: 'We've been reading PROSE — writing in sentences and paragraphs. But there's another way to write about the universe: POETRY. Listen to this...' Read a space poem aloud, slowly and with expression. Read it twice."},
-        {"type": "instruction", "step": 4, "text": "Discuss the poem: 'How is this different from the book we're reading? Poetry uses fewer words but each word is carefully chosen. Poetry has rhythm and sometimes rhyme. Poetry creates IMAGES in your mind.' Ask: 'What images did this poem put in your mind?'"},
-        {"type": "activity", "prompt": "Try writing your own short poem about the universe, the Big Bang, or the stars. It doesn't have to rhyme! Just try to create a picture with words. Here's a simple structure:\nLine 1: One word (the topic)\nLine 2: Two describing words\nLine 3: Three action words\nLine 4: A phrase or sentence about how it makes you feel\nLine 5: One word (a synonym or related word)\n\nWrite your poem in your reading journal.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Today you experienced TWO ways of writing about the cosmos: prose tells us facts and stories, poetry captures feelings and images. Both are powerful tools for sharing ideas. Share your poem aloud!", "mastery_check": "Can the child identify basic differences between prose and poetry? Were they able to write a short poem (any structure)? Can they recall key details from the reading?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud & Poetry",
+          "subheading": "Continuing Our Cosmic Reading",
+          "image_url": "https://images.pexels.com/photos/8466915/pexels-photo-8466915.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "'Born With a Bang' or cosmic science book",
+            "A poem about space (see suggestions in instructions)",
+            "Reading journal",
+            "Pencil"
+          ],
+          "setup_instructions": "Bookmark where you left off in the book. Select a poem: 'The Star' by Jane Taylor, 'Cosmic Poem' from any children's poetry anthology, or find one about the universe online. Set up the comfortable reading spot."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Recall: 'What do you remember from our last reading? Where did we leave off?' Let the child summarize. Then read the next chapter or section — about 10-15 minutes of reading."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "After reading, discuss: 'What new information did we learn? How does this connect to the First Great Lesson?' Pull out 2-3 new vocabulary words. Add them to the vocabulary section of the reading journal."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Transition to poetry: 'We've been reading PROSE — writing in sentences and paragraphs. But there's another way to write about the universe: POETRY. Listen to this...' Read a space poem aloud, slowly and with expression. Read it twice."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Discuss the poem: 'How is this different from the book we're reading? Poetry uses fewer words but each word is carefully chosen. Poetry has rhythm and sometimes rhyme. Poetry creates IMAGES in your mind.' Ask: 'What images did this poem put in your mind?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Try writing your own short poem about the universe, the Big Bang, or the stars. It doesn't have to rhyme! Just try to create a picture with words. Here's a simple structure:\nLine 1: One word (the topic)\nLine 2: Two describing words\nLine 3: Three action words\nLine 4: A phrase or sentence about how it makes you feel\nLine 5: One word (a synonym or related word)\n\nWrite your poem in your reading journal.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you experienced TWO ways of writing about the cosmos: prose tells us facts and stories, poetry captures feelings and images. Both are powerful tools for sharing ideas. Share your poem aloud!",
+          "mastery_check": "Can the child identify basic differences between prose and poetry? Were they able to write a short poem (any structure)? Can they recall key details from the reading?"
+        }
       ]
     },
     "parent_notes": "Introducing poetry alongside prose shows children that there are many ways to express ideas. The poem structure suggested (a modified cinquain) gives children a scaffold without being prescriptive. Don't worry if the poem isn't 'good' — the goal is to experience poetry as a form of expression. Reading the poem twice is important: the first time for content, the second time for appreciation of language. If your child is reluctant to write poetry, they can dictate while you write, or they can draw an illustration with just one or two poetic lines. Poetry will appear throughout the year in read-aloud sessions, building comfort and skill over time. Good poetry collections for this age: 'A Child's Introduction to Poetry' by Michael Driscoll, 'Poetry for Young People' series, or Shel Silverstein for lighter fare.",
@@ -432,17 +1124,63 @@
     "instructions": "1. Review: 'What is a noun? What symbol represents it?'\n2. Introduce concrete nouns with objects on a tray.\n3. Introduce abstract nouns through discussion and examples.\n4. Sorting activity: concrete vs. abstract.\n5. Writing exercise using both types.\n6. Grammar symbol work with sentences.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Large black triangle (noun symbol)", "Tray of small objects (concrete nouns)", "Cards with abstract noun words", "Two-column sorting mat", "Pencil and paper", "Grammar box cards"],
+    "materials_needed": [
+      "Large black triangle (noun symbol)",
+      "Tray of small objects (concrete nouns)",
+      "Cards with abstract noun words",
+      "Two-column sorting mat",
+      "Pencil and paper",
+      "Grammar box cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Types of Nouns", "subheading": "Things You Can Touch and Things You Can Think"},
-        {"type": "materials", "items": ["Large black triangle (noun grammar symbol)", "Tray with 8-10 small objects (shell, rock, pencil, flower, coin, etc.)", "Cards with abstract nouns (love, courage, happiness, freedom, knowledge, anger)", "Two-column sorting mat labeled 'Concrete' and 'Abstract'", "Pencil and paper"], "setup_instructions": "Place objects on the tray. Write abstract nouns on individual cards. Prepare the two-column sorting mat."},
-        {"type": "instruction", "step": 1, "text": "Review: Hold up the large black triangle. 'What part of speech does this represent?' (Noun.) 'And what does a noun name?' (A person, place, thing, or idea.) 'Today we're going to explore that last word — IDEA. Because not all nouns are the same kind of thing.'"},
-        {"type": "instruction", "step": 2, "text": "Concrete nouns: Pick up each object from the tray. 'Shell. Rock. Pencil. These are all nouns. And they all have something in common: I can TOUCH them, SEE them, HOLD them. These are called CONCRETE nouns — concrete means solid, real, touchable.'"},
-        {"type": "instruction", "step": 3, "text": "Abstract nouns: 'But can I hold LOVE in my hand? Can I put COURAGE in a box? Can I weigh HAPPINESS on a scale? No! These are real things — we know they exist — but we can't touch them. These are called ABSTRACT nouns. Abstract means they exist in our minds and hearts, not in our hands.'"},
-        {"type": "instruction", "step": 4, "text": "Ask thought-provoking questions: 'Is MUSIC concrete or abstract? You can hear it but can you hold it? What about WIND? You can feel it but can you see it? Some nouns are tricky!' Discuss edge cases — this develops critical thinking."},
-        {"type": "activity", "prompt": "1. Sort the noun cards and objects onto the two-column mat: Concrete vs. Abstract.\n2. Add 5 more nouns of your own to each column.\n3. Write a paragraph that uses at least 3 concrete nouns AND 3 abstract nouns. Underline the concrete nouns and circle the abstract nouns.\n4. Challenge: Can you write a sentence that has BOTH types? Example: 'The soldier showed great courage in the battle.'", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Nouns are more than just things you can touch. The most powerful nouns — love, freedom, justice, curiosity — are abstract. They name the ideas that matter most to human beings. As you read and write, start noticing: is this noun concrete or abstract?", "mastery_check": "Can the child define concrete and abstract nouns? Can they sort nouns into the correct category? Can they use both types in their writing?"}
+        {
+          "type": "title",
+          "heading": "Types of Nouns",
+          "subheading": "Things You Can Touch and Things You Can Think",
+          "image_url": "https://images.pexels.com/photos/1822568/pexels-photo-1822568.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large black triangle (noun grammar symbol)",
+            "Tray with 8-10 small objects (shell, rock, pencil, flower, coin, etc.)",
+            "Cards with abstract nouns (love, courage, happiness, freedom, knowledge, anger)",
+            "Two-column sorting mat labeled 'Concrete' and 'Abstract'",
+            "Pencil and paper"
+          ],
+          "setup_instructions": "Place objects on the tray. Write abstract nouns on individual cards. Prepare the two-column sorting mat."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: Hold up the large black triangle. 'What part of speech does this represent?' (Noun.) 'And what does a noun name?' (A person, place, thing, or idea.) 'Today we're going to explore that last word — IDEA. Because not all nouns are the same kind of thing.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Concrete nouns: Pick up each object from the tray. 'Shell. Rock. Pencil. These are all nouns. And they all have something in common: I can TOUCH them, SEE them, HOLD them. These are called CONCRETE nouns — concrete means solid, real, touchable.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Abstract nouns: 'But can I hold LOVE in my hand? Can I put COURAGE in a box? Can I weigh HAPPINESS on a scale? No! These are real things — we know they exist — but we can't touch them. These are called ABSTRACT nouns. Abstract means they exist in our minds and hearts, not in our hands.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Ask thought-provoking questions: 'Is MUSIC concrete or abstract? You can hear it but can you hold it? What about WIND? You can feel it but can you see it? Some nouns are tricky!' Discuss edge cases — this develops critical thinking."
+        },
+        {
+          "type": "activity",
+          "prompt": "1. Sort the noun cards and objects onto the two-column mat: Concrete vs. Abstract.\n2. Add 5 more nouns of your own to each column.\n3. Write a paragraph that uses at least 3 concrete nouns AND 3 abstract nouns. Underline the concrete nouns and circle the abstract nouns.\n4. Challenge: Can you write a sentence that has BOTH types? Example: 'The soldier showed great courage in the battle.'",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Nouns are more than just things you can touch. The most powerful nouns — love, freedom, justice, curiosity — are abstract. They name the ideas that matter most to human beings. As you read and write, start noticing: is this noun concrete or abstract?",
+          "mastery_check": "Can the child define concrete and abstract nouns? Can they sort nouns into the correct category? Can they use both types in their writing?"
+        }
       ]
     },
     "parent_notes": "This lesson pushes into abstract thinking, which is exactly what 6-9 year olds are developmentally ready for. Maria Montessori observed that the 'second plane' child (ages 6-12) is intensely interested in classification, rules, and abstract concepts. Concrete vs. abstract nouns satisfies this need beautifully. The 'edge cases' (music, wind, time) are intentionally provocative — they spark the kind of philosophical discussion that elementary children love. Don't resolve these debates definitively; let the child wrestle with them. Some linguists actually classify these differently! The connection between abstract nouns and human values (love, courage, justice) previews the moral reasoning that is central to the second plane of development. These children are deeply concerned with fairness and 'what's right' — abstract nouns give them language for these concepts.",
@@ -460,17 +1198,60 @@
     "instructions": "1. Review addition on the bead frame.\n2. Introduce subtraction: 'Addition slides beads forward. Subtraction slides them back.'\n3. Demonstrate static subtraction (no borrowing).\n4. Present a problem requiring borrowing.\n5. Show the exchange in reverse: 1 bead from upper row = 10 beads on lower row.\n6. Practice with 5 problems of increasing difficulty.\n7. Record all work on paper.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Large bead frame", "Bead frame paper", "Pencil", "Work mat"],
+    "materials_needed": [
+      "Large bead frame",
+      "Bead frame paper",
+      "Pencil",
+      "Work mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Subtraction on the Bead Frame", "subheading": "Taking Away — Static and Dynamic"},
-        {"type": "materials", "items": ["Large bead frame", "Bead frame recording paper", "Pencil", "Work mat"], "setup_instructions": "Bead frame on the mat, all beads to the right. Have recording paper and pencil ready."},
-        {"type": "instruction", "step": 1, "text": "Connect to addition: 'When we ADD on the bead frame, we slide beads to the LEFT — we're putting more on. When we SUBTRACT, we slide beads to the RIGHT — we're taking away. Subtraction is addition in reverse.'"},
-        {"type": "instruction", "step": 2, "text": "Static subtraction: Build 4,567 on the bead frame. 'Now let's subtract 2,134.' Start from thousands: slide 2 thousand beads back. Hundreds: slide 1 back. Tens: slide 3 back. Units: slide 4 back. Read the answer: 2,433. Record on paper."},
-        {"type": "instruction", "step": 3, "text": "Present a dynamic problem: Build 4,321 on the bead frame. 'Now subtract 1,567. Start with units: we need to take away 7, but we only have 1. What do we do?' Pause for thinking. 'We BORROW — slide 1 ten bead back, and slide 10 unit beads forward. Now we have 11 units. Take away 7 = 4 units.'"},
-        {"type": "instruction", "step": 4, "text": "Continue: 'Tens: we had 2, we borrowed 1, so we have 1 ten. We need to take away 6 tens. Not enough! Borrow from hundreds: slide 1 hundred back, slide 10 tens forward. Now we have 11 tens. Take away 6 = 5 tens.' Complete the problem: 4,321 - 1,567 = 2,754."},
-        {"type": "activity", "prompt": "Solve on the bead frame and record on paper:\n1. 3,865 - 1,432 = ? (static — no borrowing)\n2. 5,742 - 2,518 = ? (dynamic — borrowing needed)\n3. 7,000 - 3,456 = ? (tricky! borrowing across zeros)\n4. 8,531 - 4,876 = ?\n5. Make up your own subtraction problem and solve it.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Subtraction on the bead frame uses the same exchanging idea as addition, but in reverse: instead of trading 10 for 1 going UP, we trade 1 for 10 coming DOWN. You now have two powerful operations on the bead frame!", "mastery_check": "Can the child perform static subtraction? Can they perform the borrowing exchange correctly (1 bead back on upper row, 10 beads forward on lower row)? Can they handle problems with zeros in the minuend?"}
+        {
+          "type": "title",
+          "heading": "Subtraction on the Bead Frame",
+          "subheading": "Taking Away — Static and Dynamic",
+          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large bead frame",
+            "Bead frame recording paper",
+            "Pencil",
+            "Work mat"
+          ],
+          "setup_instructions": "Bead frame on the mat, all beads to the right. Have recording paper and pencil ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect to addition: 'When we ADD on the bead frame, we slide beads to the LEFT — we're putting more on. When we SUBTRACT, we slide beads to the RIGHT — we're taking away. Subtraction is addition in reverse.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Static subtraction: Build 4,567 on the bead frame. 'Now let's subtract 2,134.' Start from thousands: slide 2 thousand beads back. Hundreds: slide 1 back. Tens: slide 3 back. Units: slide 4 back. Read the answer: 2,433. Record on paper."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Present a dynamic problem: Build 4,321 on the bead frame. 'Now subtract 1,567. Start with units: we need to take away 7, but we only have 1. What do we do?' Pause for thinking. 'We BORROW — slide 1 ten bead back, and slide 10 unit beads forward. Now we have 11 units. Take away 7 = 4 units.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Continue: 'Tens: we had 2, we borrowed 1, so we have 1 ten. We need to take away 6 tens. Not enough! Borrow from hundreds: slide 1 hundred back, slide 10 tens forward. Now we have 11 tens. Take away 6 = 5 tens.' Complete the problem: 4,321 - 1,567 = 2,754."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve on the bead frame and record on paper:\n1. 3,865 - 1,432 = ? (static — no borrowing)\n2. 5,742 - 2,518 = ? (dynamic — borrowing needed)\n3. 7,000 - 3,456 = ? (tricky! borrowing across zeros)\n4. 8,531 - 4,876 = ?\n5. Make up your own subtraction problem and solve it.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Subtraction on the bead frame uses the same exchanging idea as addition, but in reverse: instead of trading 10 for 1 going UP, we trade 1 for 10 coming DOWN. You now have two powerful operations on the bead frame!",
+          "mastery_check": "Can the child perform static subtraction? Can they perform the borrowing exchange correctly (1 bead back on upper row, 10 beads forward on lower row)? Can they handle problems with zeros in the minuend?"
+        }
       ]
     },
     "parent_notes": "Subtraction with borrowing (regrouping) is one of the most commonly misunderstood operations in elementary math. The bead frame makes the 'WHY' behind borrowing crystal clear: when you don't have enough beads in a row, you literally trade 1 bead from the next row for 10 beads in the current row. This is the SAME exchange as carrying in addition, just in reverse. Problem 3 (7,000 - 3,456) is intentionally challenging because borrowing across zeros requires multiple exchanges. If your child finds this overwhelming, break it into steps and do each exchange one at a time. There's no rush — the concrete understanding must be solid before moving to abstract paper algorithms. Some children will want to check their subtraction by adding the answer to the subtrahend — encourage this! It builds number sense and is a real mathematical practice.",
@@ -488,17 +1269,64 @@
     "instructions": "1. Review the three states of matter.\n2. Set up three experiment stations.\n3. At each station, students investigate a specific property.\n4. Record observations in the science journal.\n5. Fill in a comparison chart.\n6. Discuss findings and formulate conclusions.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Wooden block, rock, and ball (solids)", "Water and 3 different-shaped containers", "Balloon, syringe without needle", "Science journal", "Three-column comparison chart", "Pencil"],
+    "materials_needed": [
+      "Wooden block, rock, and ball (solids)",
+      "Water and 3 different-shaped containers",
+      "Balloon, syringe without needle",
+      "Science journal",
+      "Three-column comparison chart",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Properties of Matter", "subheading": "Investigating Solids, Liquids, and Gases"},
-        {"type": "materials", "items": ["Solids: wooden block, rock, ball", "Liquids: water, 3 different-shaped clear containers", "Gases: balloon (inflated), syringe (no needle)", "Science journal", "Comparison chart (3 columns: Solid, Liquid, Gas; rows: Shape, Volume, Compressible?)", "Pencil"], "setup_instructions": "Set up three stations on the table. Station 1: solids (block, rock, ball). Station 2: liquids (water and 3 containers). Station 3: gases (balloon and syringe). Prepare the comparison chart."},
-        {"type": "instruction", "step": 1, "text": "Review: 'Last time we learned the three states of matter and WHY they behave differently (particle speed). Today we're going to be SCIENTISTS: we'll do experiments to discover the PROPERTIES of each state. A property is a characteristic — something that's always true about it.'"},
-        {"type": "instruction", "step": 2, "text": "Station 1 — Solids: 'Pick up the wooden block. Does it change shape when you put it in your hand? On the table? In a bowl? No! Solids have a DEFINITE SHAPE. Now try to squeeze it smaller. Can you? No! Solids have a DEFINITE VOLUME (they take up the same amount of space). Solids are NOT compressible.'"},
-        {"type": "instruction", "step": 3, "text": "Station 2 — Liquids: 'Pour water into the first container. What shape is the water? Now pour it into a different container. What shape now? Liquids take the SHAPE of their container — they have NO definite shape. But look: the AMOUNT of water stays the same. Liquids have definite VOLUME but not definite shape.'"},
-        {"type": "instruction", "step": 4, "text": "Station 3 — Gases: 'Squeeze the balloon gently. Does the air inside change shape? Yes! Now push the syringe plunger with your finger over the hole. Can you COMPRESS (squish) the air? Yes! Gases have NO definite shape AND no definite volume — they can be compressed into smaller spaces.'"},
-        {"type": "activity", "prompt": "1. Complete the comparison chart with what you discovered:\n   - Shape: definite or indefinite?\n   - Volume: definite or indefinite?\n   - Compressible: yes or no?\n2. In your science journal, draw the particle model for each state and write 2-3 sentences explaining the properties.\n3. Challenge: Find 5 things in the room and classify them as solid, liquid, or gas. What about things that seem like two states? (Sand — a solid that pours like a liquid!)", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Today you discovered the three key properties that define each state of matter: shape, volume, and compressibility. Scientists use these properties to classify matter. You'll use this knowledge all year as we study chemistry, geology, and the atmosphere.", "mastery_check": "Can the child state the defining properties of each state of matter? Can they explain WHY liquids take the shape of their container but solids don't? Can they classify everyday substances correctly?"}
+        {
+          "type": "title",
+          "heading": "Properties of Matter",
+          "subheading": "Investigating Solids, Liquids, and Gases",
+          "image_url": "https://images.pexels.com/photos/7457518/pexels-photo-7457518.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Solids: wooden block, rock, ball",
+            "Liquids: water, 3 different-shaped clear containers",
+            "Gases: balloon (inflated), syringe (no needle)",
+            "Science journal",
+            "Comparison chart (3 columns: Solid, Liquid, Gas; rows: Shape, Volume, Compressible?)",
+            "Pencil"
+          ],
+          "setup_instructions": "Set up three stations on the table. Station 1: solids (block, rock, ball). Station 2: liquids (water and 3 containers). Station 3: gases (balloon and syringe). Prepare the comparison chart."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'Last time we learned the three states of matter and WHY they behave differently (particle speed). Today we're going to be SCIENTISTS: we'll do experiments to discover the PROPERTIES of each state. A property is a characteristic — something that's always true about it.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Station 1 — Solids: 'Pick up the wooden block. Does it change shape when you put it in your hand? On the table? In a bowl? No! Solids have a DEFINITE SHAPE. Now try to squeeze it smaller. Can you? No! Solids have a DEFINITE VOLUME (they take up the same amount of space). Solids are NOT compressible.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Station 2 — Liquids: 'Pour water into the first container. What shape is the water? Now pour it into a different container. What shape now? Liquids take the SHAPE of their container — they have NO definite shape. But look: the AMOUNT of water stays the same. Liquids have definite VOLUME but not definite shape.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Station 3 — Gases: 'Squeeze the balloon gently. Does the air inside change shape? Yes! Now push the syringe plunger with your finger over the hole. Can you COMPRESS (squish) the air? Yes! Gases have NO definite shape AND no definite volume — they can be compressed into smaller spaces.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "1. Complete the comparison chart with what you discovered:\n   - Shape: definite or indefinite?\n   - Volume: definite or indefinite?\n   - Compressible: yes or no?\n2. In your science journal, draw the particle model for each state and write 2-3 sentences explaining the properties.\n3. Challenge: Find 5 things in the room and classify them as solid, liquid, or gas. What about things that seem like two states? (Sand — a solid that pours like a liquid!)",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you discovered the three key properties that define each state of matter: shape, volume, and compressibility. Scientists use these properties to classify matter. You'll use this knowledge all year as we study chemistry, geology, and the atmosphere.",
+          "mastery_check": "Can the child state the defining properties of each state of matter? Can they explain WHY liquids take the shape of their container but solids don't? Can they classify everyday substances correctly?"
+        }
       ]
     },
     "parent_notes": "This lesson uses the scientific method in an age-appropriate way: observe, test, record, conclude. The three-station setup gives the child hands-on experience with each state rather than just hearing about properties. The syringe demonstration is particularly powerful — children are often surprised that air can be compressed but water cannot. The 'challenge' question about sand is brilliant for this age group: sand is a solid that FLOWS like a liquid. This edge case (called a 'granular material') sparks exactly the kind of thinking Montessori elementary cultivates — questioning categories, looking for exceptions, and refining understanding. Don't give them the answer; let them debate and research. The comparison chart introduces a key scientific skill: organizing data for comparison. This format will be used throughout the year.",
@@ -516,17 +1344,65 @@
     "instructions": "1. Present the concept of a line: a straight path that goes on forever in both directions.\n2. Introduce horizontal, vertical, and diagonal lines with the geometry sticks.\n3. Use the three-period lesson for each term.\n4. Find examples in the environment.\n5. Drawing exercise with a ruler.\n6. Sort and classify lines in pictures.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Geometry sticks or straight sticks/dowels", "Ruler", "Pencil", "Drawing paper", "Pictures of buildings, landscapes, etc.", "Geometry notebook", "Level tool (optional)"],
+    "materials_needed": [
+      "Geometry sticks or straight sticks/dowels",
+      "Ruler",
+      "Pencil",
+      "Drawing paper",
+      "Pictures of buildings, landscapes, etc.",
+      "Geometry notebook",
+      "Level tool (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Three Positions of a Line", "subheading": "Horizontal, Vertical, and Diagonal"},
-        {"type": "materials", "items": ["Geometry sticks or wooden dowels", "Ruler", "Pencil and drawing paper", "Magazine pictures or printed photos of buildings and landscapes", "Geometry notebook", "Level tool (optional)"], "setup_instructions": "Lay out geometry sticks on the mat. Have ruler, paper, and pictures ready. The geometry notebook is a separate notebook for geometry work."},
-        {"type": "instruction", "step": 1, "text": "Begin with the concept: 'A LINE is a straight path. In geometry, a true line goes on FOREVER in both directions — we can't draw that, so we draw a line segment with two endpoints, and we IMAGINE it continuing. But today we're going to learn about the three POSITIONS a line can be in.'"},
-        {"type": "instruction", "step": 2, "text": "Hold a stick flat, parallel to the ground: 'This is a HORIZONTAL line. Horizontal comes from the word HORIZON — the line where the sky meets the earth. A horizontal line is flat, like the surface of still water, or the horizon at the ocean.' Place it on the mat."},
-        {"type": "instruction", "step": 3, "text": "Hold a stick straight up and down: 'This is a VERTICAL line. Vertical comes from the word VERTEX, meaning the highest point. A vertical line goes straight up and down, like a flagpole, or the edge of a door, or a tree trunk.' Place it on the mat perpendicular to the horizontal."},
-        {"type": "instruction", "step": 4, "text": "Hold a stick at an angle: 'This is a DIAGONAL line. Diagonal comes from Greek words meaning across corners. A diagonal line is neither horizontal nor vertical — it's tilted. Like the side of a mountain, or a ramp, or the hands of a clock at 10:10.' Place it on the mat between the other two."},
-        {"type": "activity", "prompt": "1. Using your ruler, draw 3 horizontal lines, 3 vertical lines, and 3 diagonal lines in your geometry notebook. Label each one.\n2. Look at the pictures of buildings. Find and trace horizontal lines in RED, vertical lines in BLUE, and diagonal lines in GREEN.\n3. Walk around the room and find 5 examples of each type of line. Record them in your notebook.\n4. Challenge: Can you find a place where all THREE types of line meet in one object?", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Lines are everywhere — in buildings, in nature, in art. Architects and engineers use horizontal, vertical, and diagonal lines to design every structure you see. Next geometry lesson, we'll explore what happens when two lines MEET — that's where angles begin!", "mastery_check": "Can the child correctly identify horizontal, vertical, and diagonal lines? Can they draw each type using a ruler? Can they find examples in the real world?"}
+        {
+          "type": "title",
+          "heading": "The Three Positions of a Line",
+          "subheading": "Horizontal, Vertical, and Diagonal",
+          "image_url": "https://images.pexels.com/photos/8612931/pexels-photo-8612931.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Geometry sticks or wooden dowels",
+            "Ruler",
+            "Pencil and drawing paper",
+            "Magazine pictures or printed photos of buildings and landscapes",
+            "Geometry notebook",
+            "Level tool (optional)"
+          ],
+          "setup_instructions": "Lay out geometry sticks on the mat. Have ruler, paper, and pictures ready. The geometry notebook is a separate notebook for geometry work."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Begin with the concept: 'A LINE is a straight path. In geometry, a true line goes on FOREVER in both directions — we can't draw that, so we draw a line segment with two endpoints, and we IMAGINE it continuing. But today we're going to learn about the three POSITIONS a line can be in.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Hold a stick flat, parallel to the ground: 'This is a HORIZONTAL line. Horizontal comes from the word HORIZON — the line where the sky meets the earth. A horizontal line is flat, like the surface of still water, or the horizon at the ocean.' Place it on the mat."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Hold a stick straight up and down: 'This is a VERTICAL line. Vertical comes from the word VERTEX, meaning the highest point. A vertical line goes straight up and down, like a flagpole, or the edge of a door, or a tree trunk.' Place it on the mat perpendicular to the horizontal."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Hold a stick at an angle: 'This is a DIAGONAL line. Diagonal comes from Greek words meaning across corners. A diagonal line is neither horizontal nor vertical — it's tilted. Like the side of a mountain, or a ramp, or the hands of a clock at 10:10.' Place it on the mat between the other two."
+        },
+        {
+          "type": "activity",
+          "prompt": "1. Using your ruler, draw 3 horizontal lines, 3 vertical lines, and 3 diagonal lines in your geometry notebook. Label each one.\n2. Look at the pictures of buildings. Find and trace horizontal lines in RED, vertical lines in BLUE, and diagonal lines in GREEN.\n3. Walk around the room and find 5 examples of each type of line. Record them in your notebook.\n4. Challenge: Can you find a place where all THREE types of line meet in one object?",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Lines are everywhere — in buildings, in nature, in art. Architects and engineers use horizontal, vertical, and diagonal lines to design every structure you see. Next geometry lesson, we'll explore what happens when two lines MEET — that's where angles begin!",
+          "mastery_check": "Can the child correctly identify horizontal, vertical, and diagonal lines? Can they draw each type using a ruler? Can they find examples in the real world?"
+        }
       ]
     },
     "parent_notes": "Montessori geometry begins with the most basic elements and builds systematically. Lines come before angles, angles before shapes. The etymology of each term (horizontal from horizon, vertical from vertex, diagonal from Greek) is intentional — Montessori education always connects vocabulary to its roots, building word consciousness and aiding memory. The 'scavenger hunt' for lines in the environment is a key Montessori technique: it transfers abstract knowledge to the real world. After this lesson, your child will start SEEING lines everywhere — in architecture, in nature, in art. This is exactly the goal. The geometry notebook is separate from other journals because geometry work involves a lot of drawing and construction that benefits from its own dedicated space.",
@@ -544,17 +1420,61 @@
     "instructions": "1. Connect: 'The universe has rhythm — planets orbit, seasons cycle, hearts beat.'\n2. Listen to your heartbeat (place hand on chest).\n3. Introduce basic rhythm: quarter notes, half notes, whole notes.\n4. Clap and count rhythm patterns.\n5. Create a rhythm composition.\n6. Perform it with body percussion.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Rhythm cards or whiteboard", "Drum or percussion instrument", "Body (for body percussion)", "Paper and pencil for composition", "Optional: metronome or steady beat recording"],
+    "materials_needed": [
+      "Rhythm cards or whiteboard",
+      "Drum or percussion instrument",
+      "Body (for body percussion)",
+      "Paper and pencil for composition",
+      "Optional: metronome or steady beat recording"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Rhythm", "subheading": "The Heartbeat of the Universe"},
-        {"type": "materials", "items": ["Rhythm notation cards (quarter note, half note, whole note, quarter rest)", "Drum or hand percussion instrument", "Paper and pencil for composing", "Metronome or steady beat recording (optional)"], "setup_instructions": "Prepare rhythm cards showing: quarter note (1 beat), half note (2 beats), whole note (4 beats), and quarter rest (1 beat of silence). Have a drum or tambourine available."},
-        {"type": "instruction", "step": 1, "text": "Connect to the cosmic theme: 'Everything in the universe has RHYTHM. Earth orbits the Sun once a year — that's a rhythm. The Moon orbits Earth once a month. Your heart beats about 100,000 times a day. Let's feel it.' Place hand on chest. 'Ba-DUM, ba-DUM. That's rhythm — a pattern of sounds over time.'"},
-        {"type": "instruction", "step": 2, "text": "Introduce notation: 'Musicians have a way of writing rhythm down.' Show the quarter note: 'This is a QUARTER NOTE. It gets 1 beat. Clap once.' Show the half note: 'This is a HALF NOTE. It gets 2 beats. Clap and hold.' Show the whole note: 'This is a WHOLE NOTE. It gets 4 beats. Clap and hooooold.'"},
-        {"type": "instruction", "step": 3, "text": "Introduce the rest: 'And this is a QUARTER REST — 1 beat of SILENCE. In music, silence is just as important as sound.' Practice: clap-clap-rest-clap. 'The rest is when you keep counting but don't make a sound.'"},
-        {"type": "instruction", "step": 4, "text": "Practice reading rhythm patterns together. Write a 4-beat pattern on the board using the notation cards. Count: '1-2-3-4.' Clap it together. Try 5 different patterns. Then add body percussion: stomping, patting thighs, snapping (if they can)."},
-        {"type": "activity", "prompt": "Compose your own 16-beat rhythm piece using quarter notes, half notes, whole notes, and rests. Write it using the symbols. Then perform it three ways:\n1. Clapping\n2. On the drum\n3. Using body percussion (mix of clapping, stomping, and patting)\nGive your composition a cosmic title!", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You just composed and performed your own piece of music! Rhythm is the foundation of all music — and it connects us to the rhythms of the universe itself. We'll continue learning music notation and explore melody next time.", "mastery_check": "Can the child read and clap basic rhythm patterns? Do they understand the difference between quarter, half, and whole notes? Can they compose and perform a simple rhythm piece?"}
+        {
+          "type": "title",
+          "heading": "Rhythm",
+          "subheading": "The Heartbeat of the Universe",
+          "image_url": "https://images.pexels.com/photos/8612991/pexels-photo-8612991.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Rhythm notation cards (quarter note, half note, whole note, quarter rest)",
+            "Drum or hand percussion instrument",
+            "Paper and pencil for composing",
+            "Metronome or steady beat recording (optional)"
+          ],
+          "setup_instructions": "Prepare rhythm cards showing: quarter note (1 beat), half note (2 beats), whole note (4 beats), and quarter rest (1 beat of silence). Have a drum or tambourine available."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect to the cosmic theme: 'Everything in the universe has RHYTHM. Earth orbits the Sun once a year — that's a rhythm. The Moon orbits Earth once a month. Your heart beats about 100,000 times a day. Let's feel it.' Place hand on chest. 'Ba-DUM, ba-DUM. That's rhythm — a pattern of sounds over time.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce notation: 'Musicians have a way of writing rhythm down.' Show the quarter note: 'This is a QUARTER NOTE. It gets 1 beat. Clap once.' Show the half note: 'This is a HALF NOTE. It gets 2 beats. Clap and hold.' Show the whole note: 'This is a WHOLE NOTE. It gets 4 beats. Clap and hooooold.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Introduce the rest: 'And this is a QUARTER REST — 1 beat of SILENCE. In music, silence is just as important as sound.' Practice: clap-clap-rest-clap. 'The rest is when you keep counting but don't make a sound.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Practice reading rhythm patterns together. Write a 4-beat pattern on the board using the notation cards. Count: '1-2-3-4.' Clap it together. Try 5 different patterns. Then add body percussion: stomping, patting thighs, snapping (if they can)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Compose your own 16-beat rhythm piece using quarter notes, half notes, whole notes, and rests. Write it using the symbols. Then perform it three ways:\n1. Clapping\n2. On the drum\n3. Using body percussion (mix of clapping, stomping, and patting)\nGive your composition a cosmic title!",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You just composed and performed your own piece of music! Rhythm is the foundation of all music — and it connects us to the rhythms of the universe itself. We'll continue learning music notation and explore melody next time.",
+          "mastery_check": "Can the child read and clap basic rhythm patterns? Do they understand the difference between quarter, half, and whole notes? Can they compose and perform a simple rhythm piece?"
+        }
       ]
     },
     "parent_notes": "Music in Montessori elementary is taught as a serious discipline, not just singing songs. Rhythm notation is introduced because it's a form of mathematical thinking — fractions in disguise! A quarter note is literally 1/4 of a whole note. This connection will become explicit when we study fractions in math. The cosmic connection (rhythm of the universe) ties music into the Great Lessons framework. Body percussion (clapping, stomping, patting thighs, snapping) is used because it requires no instruments and develops coordination. If your child plays an instrument, absolutely incorporate it. If not, drums and percussion are the most accessible entry point. The composition activity is important: creating music is as vital as reading music. Let the child experiment freely with their 16-beat piece — there are no wrong answers in composition.",
@@ -572,17 +1492,62 @@
     "instructions": "1. Review the 5 short vowel sounds with key words.\n2. Build CVC words with the moveable alphabet.\n3. Progress to blends: CCVC and CVCC words.\n4. Word sorting by vowel sound.\n5. Introduce the personal spelling dictionary.\n6. Dictation exercise.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Moveable alphabet", "Word cards sorted by pattern", "Personal spelling dictionary (small notebook)", "Pencil", "Sorting mat with vowel headers"],
+    "materials_needed": [
+      "Moveable alphabet",
+      "Word cards sorted by pattern",
+      "Personal spelling dictionary (small notebook)",
+      "Pencil",
+      "Sorting mat with vowel headers"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Word Building", "subheading": "Short Vowel Patterns and Spelling"},
-        {"type": "materials", "items": ["Moveable alphabet (or letter tiles)", "Word cards: CVC words (cat, dog, pin, bug, pet) and blend words (stop, clap, belt, jump)", "Personal spelling dictionary (small notebook with alphabet tabs)", "Pencil", "Sorting mat with columns: a, e, i, o, u"], "setup_instructions": "Lay out the moveable alphabet. Prepare word cards. Set up the 5-column sorting mat with vowel headers."},
-        {"type": "instruction", "step": 1, "text": "Quick vowel review: 'There are 5 vowels: A, E, I, O, U. Each has a SHORT sound and a LONG sound. Today we're focusing on short sounds.' Make each sound with a key word: a-apple, e-egg, i-igloo, o-octopus, u-umbrella. Have the child repeat."},
-        {"type": "instruction", "step": 2, "text": "Build CVC words: 'Let's start with words that follow the Consonant-Vowel-Consonant pattern.' Build 'cat' with the moveable alphabet. 'C-A-T. Change the first letter: make BAT, FAT, HAT, MAT, RAT, SAT. See? Same pattern, different beginning.' This is word families."},
-        {"type": "instruction", "step": 3, "text": "Progress to blends: 'Now let's make words that start with TWO consonants together — a blend.' Build STOP, CLAP, TRIP, DRUM, FROG. 'The two consonants blend together but you can still hear each one.' Then end blends: BELT, JUMP, DESK, LAMP."},
-        {"type": "instruction", "step": 4, "text": "Introduce the spelling dictionary: 'Every time you learn a new word or find a word you want to remember, you'll write it in your personal spelling dictionary — organized by first letter, just like a real dictionary. This will be YOUR reference book all year.'"},
-        {"type": "activity", "prompt": "1. Sort the word cards onto the vowel mat: which column does each word go in based on its vowel sound?\n2. Build 5 new words with the moveable alphabet (one for each short vowel).\n3. Dictation: your parent will say 10 words. Write each one, sounding it out carefully.\n4. Add any tricky words to your spelling dictionary.\n\nDictation words: flat, step, grin, slot, club, brand, shelf, strip, frost, stump", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You reviewed all 5 short vowel sounds and built words with blends. Your spelling dictionary is started! Add to it whenever you discover a new or interesting word in your reading.", "mastery_check": "Can the child identify and produce all 5 short vowel sounds? Can they spell CVC and blend words correctly in dictation? Are they using the spelling dictionary?"}
+        {
+          "type": "title",
+          "heading": "Word Building",
+          "subheading": "Short Vowel Patterns and Spelling",
+          "image_url": "https://images.pexels.com/photos/1275235/pexels-photo-1275235.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Moveable alphabet (or letter tiles)",
+            "Word cards: CVC words (cat, dog, pin, bug, pet) and blend words (stop, clap, belt, jump)",
+            "Personal spelling dictionary (small notebook with alphabet tabs)",
+            "Pencil",
+            "Sorting mat with columns: a, e, i, o, u"
+          ],
+          "setup_instructions": "Lay out the moveable alphabet. Prepare word cards. Set up the 5-column sorting mat with vowel headers."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Quick vowel review: 'There are 5 vowels: A, E, I, O, U. Each has a SHORT sound and a LONG sound. Today we're focusing on short sounds.' Make each sound with a key word: a-apple, e-egg, i-igloo, o-octopus, u-umbrella. Have the child repeat."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Build CVC words: 'Let's start with words that follow the Consonant-Vowel-Consonant pattern.' Build 'cat' with the moveable alphabet. 'C-A-T. Change the first letter: make BAT, FAT, HAT, MAT, RAT, SAT. See? Same pattern, different beginning.' This is word families."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Progress to blends: 'Now let's make words that start with TWO consonants together — a blend.' Build STOP, CLAP, TRIP, DRUM, FROG. 'The two consonants blend together but you can still hear each one.' Then end blends: BELT, JUMP, DESK, LAMP."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Introduce the spelling dictionary: 'Every time you learn a new word or find a word you want to remember, you'll write it in your personal spelling dictionary — organized by first letter, just like a real dictionary. This will be YOUR reference book all year.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "1. Sort the word cards onto the vowel mat: which column does each word go in based on its vowel sound?\n2. Build 5 new words with the moveable alphabet (one for each short vowel).\n3. Dictation: your parent will say 10 words. Write each one, sounding it out carefully.\n4. Add any tricky words to your spelling dictionary.\n\nDictation words: flat, step, grin, slot, club, brand, shelf, strip, frost, stump",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You reviewed all 5 short vowel sounds and built words with blends. Your spelling dictionary is started! Add to it whenever you discover a new or interesting word in your reading.",
+          "mastery_check": "Can the child identify and produce all 5 short vowel sounds? Can they spell CVC and blend words correctly in dictation? Are they using the spelling dictionary?"
+        }
       ]
     },
     "parent_notes": "This lesson reviews primary phonics skills while extending them. Most children entering Lower Elementary can decode CVC words but may still struggle with blends and digraphs. The moveable alphabet (or letter tiles) keeps the work hands-on — physically building words is more engaging and memorable than worksheets. The personal spelling dictionary is a Montessori tool that gives children ownership of their vocabulary growth. Unlike a class spelling list, the personal dictionary contains words that are relevant to THIS child. When they encounter a tricky word in science (atmosphere), history (civilization), or reading (mysterious), they add it to their dictionary. The dictation exercise tests encoding (spelling from hearing), which is harder than decoding (reading). Read each word clearly, use it in a sentence, and give the child time to write it. Don't mark wrong — let them self-correct by checking the word card afterward.",
@@ -600,17 +1565,60 @@
     "instructions": "1. Discuss: 'Why do we learn math? To solve real problems!'\n2. Present the first word problem. Read it aloud together.\n3. Teach the problem-solving process: What do we know? What do we need to find? Which operation?\n4. Solve on the bead frame.\n5. Write the answer as a complete sentence.\n6. Practice with 5 more problems.\n7. Child writes their own word problem.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Large bead frame", "Word problem cards", "Pencil and paper", "Work mat"],
+    "materials_needed": [
+      "Large bead frame",
+      "Word problem cards",
+      "Pencil and paper",
+      "Work mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Word Problems", "subheading": "Math in the Real World"},
-        {"type": "materials", "items": ["Large bead frame", "Word problem cards (prepared)", "Pencil and paper", "Work mat"], "setup_instructions": "Prepare 6-8 word problem cards. Mix addition and subtraction. Use contexts that connect to the Great Lesson (stars, planets, dinosaurs will come later). Have the bead frame and paper ready."},
-        {"type": "instruction", "step": 1, "text": "Introduce: 'Mathematicians don't just add and subtract for fun — they solve PROBLEMS. Real problems with real numbers. Today you're going to be a mathematician who solves problems using your bead frame.'"},
-        {"type": "instruction", "step": 2, "text": "Present the first problem: 'There are 3,456 stars in one cluster and 2,378 stars in another cluster. How many stars are there in total?' Read it aloud together. Ask: 'What do we KNOW?' (Two star clusters: 3,456 and 2,378.) 'What do we need to FIND?' (Total stars.) 'Should we ADD or SUBTRACT?' (Add — we want the total.)"},
-        {"type": "instruction", "step": 3, "text": "Solve on the bead frame: Build 3,456. Add 2,378. Exchange as needed. Read the answer. Then write the answer as a COMPLETE SENTENCE: 'There are 5,834 stars in total.'"},
-        {"type": "instruction", "step": 4, "text": "Present a subtraction problem: 'A library has 4,512 books. They donate 1,876 books to another library. How many books are left?' Same process: What do we know? What do we need to find? Add or subtract? Solve. Write the answer in a sentence."},
-        {"type": "activity", "prompt": "Solve these word problems on the bead frame. Write each answer as a complete sentence:\n1. A volcano erupted 2,345 years ago. Another erupted 1,567 years before that. How many years ago was the first eruption? (Add)\n2. Mount Everest is 8,849 meters tall. Mount Kilimanjaro is 5,895 meters tall. How much taller is Everest? (Subtract)\n3. A farmer has 3,240 apple trees and plants 1,895 more. How many trees total?\n4. A school has 2,108 students. 1,346 are boys. How many are girls?\n5. Write your OWN word problem for a partner to solve.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You solved real-world problems using math! The key steps: read carefully, find the numbers, decide the operation, solve, and write your answer in a sentence. Mathematicians always explain their answers — the number alone isn't enough!", "mastery_check": "Can the child identify whether a word problem requires addition or subtraction? Can they extract the relevant numbers? Can they solve on the bead frame and write the answer in a complete sentence?"}
+        {
+          "type": "title",
+          "heading": "Word Problems",
+          "subheading": "Math in the Real World",
+          "image_url": "https://images.pexels.com/photos/6693302/pexels-photo-6693302.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large bead frame",
+            "Word problem cards (prepared)",
+            "Pencil and paper",
+            "Work mat"
+          ],
+          "setup_instructions": "Prepare 6-8 word problem cards. Mix addition and subtraction. Use contexts that connect to the Great Lesson (stars, planets, dinosaurs will come later). Have the bead frame and paper ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Introduce: 'Mathematicians don't just add and subtract for fun — they solve PROBLEMS. Real problems with real numbers. Today you're going to be a mathematician who solves problems using your bead frame.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Present the first problem: 'There are 3,456 stars in one cluster and 2,378 stars in another cluster. How many stars are there in total?' Read it aloud together. Ask: 'What do we KNOW?' (Two star clusters: 3,456 and 2,378.) 'What do we need to FIND?' (Total stars.) 'Should we ADD or SUBTRACT?' (Add — we want the total.)"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Solve on the bead frame: Build 3,456. Add 2,378. Exchange as needed. Read the answer. Then write the answer as a COMPLETE SENTENCE: 'There are 5,834 stars in total.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Present a subtraction problem: 'A library has 4,512 books. They donate 1,876 books to another library. How many books are left?' Same process: What do we know? What do we need to find? Add or subtract? Solve. Write the answer in a sentence."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these word problems on the bead frame. Write each answer as a complete sentence:\n1. A volcano erupted 2,345 years ago. Another erupted 1,567 years before that. How many years ago was the first eruption? (Add)\n2. Mount Everest is 8,849 meters tall. Mount Kilimanjaro is 5,895 meters tall. How much taller is Everest? (Subtract)\n3. A farmer has 3,240 apple trees and plants 1,895 more. How many trees total?\n4. A school has 2,108 students. 1,346 are boys. How many are girls?\n5. Write your OWN word problem for a partner to solve.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You solved real-world problems using math! The key steps: read carefully, find the numbers, decide the operation, solve, and write your answer in a sentence. Mathematicians always explain their answers — the number alone isn't enough!",
+          "mastery_check": "Can the child identify whether a word problem requires addition or subtraction? Can they extract the relevant numbers? Can they solve on the bead frame and write the answer in a complete sentence?"
+        }
       ]
     },
     "parent_notes": "Word problems bridge abstract math and real-world application. Many children who can add and subtract fluently on the bead frame struggle with word problems because they require READING COMPREHENSION, REASONING about which operation to use, and COMMUNICATION of the answer. This is why we practice all three skills together. The contexts in these problems are intentionally connected to the Great Lessons (stars, volcanoes, mountains) — in Montessori, everything connects. The complete sentence answer is important because it forces the child to interpret the number: '5,834 stars' means something different from '5,834 books.' When your child writes their own word problem, they must think about all three components (context, numbers, operation), which deepens understanding. If your child struggles to identify the operation, teach the keywords approach: 'total,' 'altogether,' 'sum' = addition; 'left,' 'remaining,' 'difference' = subtraction. But also discuss that keywords aren't always reliable — reasoning about the SITUATION is more important.",
@@ -628,17 +1636,64 @@
     "instructions": "1. Connect to the solar system lesson: 'We know Earth is the third planet. But Earth doesn't just sit still — it MOVES.'\n2. Demonstrate rotation with the globe and flashlight.\n3. Demonstrate revolution by walking the globe around a lamp.\n4. Discuss: rotation = day/night, revolution = year/seasons.\n5. Model and record activity.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Globe", "Flashlight or desk lamp (representing the Sun)", "Small sticker or figure to represent 'us' on the globe", "Dark room", "Geography journal or paper", "Colored pencils"],
+    "materials_needed": [
+      "Globe",
+      "Flashlight or desk lamp (representing the Sun)",
+      "Small sticker or figure to represent 'us' on the globe",
+      "Dark room",
+      "Geography journal or paper",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Earth in Motion", "subheading": "Rotation and Revolution"},
-        {"type": "materials", "items": ["Globe on a stand", "Flashlight or bright desk lamp", "Small sticker for 'our location' on the globe", "Dark room", "Geography journal", "Colored pencils"], "setup_instructions": "Place the lamp in the center of a darkened room to represent the Sun. Have the globe ready with a small sticker on your approximate location. Make the room as dark as possible."},
-        {"type": "instruction", "step": 1, "text": "Connect: 'We learned about the solar system and Earth's special place in it. But Earth is always MOVING — in TWO different ways at the same time! Let's discover them.'"},
-        {"type": "instruction", "step": 2, "text": "Demonstrate ROTATION: Darken the room. Turn on the flashlight (Sun). Hold the globe and slowly spin it. 'See how one side is lit up (daytime) and the other is dark (nighttime)? Earth SPINS like a top — one full spin takes 24 hours. That's one day. Find the sticker that's YOU. Watch as you spin from day to night and back again.'"},
-        {"type": "instruction", "step": 3, "text": "Demonstrate REVOLUTION: Keep spinning the globe slowly while WALKING it in a big circle around the lamp. 'While Earth spins, it also ORBITS the Sun — it travels in a big circle around the Sun. One complete trip takes 365 days — one YEAR. So every birthday, you've made another lap around the Sun!'"},
-        {"type": "instruction", "step": 4, "text": "Key connection: 'ROTATION gives us day and night. REVOLUTION gives us the year. And because Earth is TILTED on its axis (show the tilt on the globe), different parts get more or less direct sunlight at different times — that's what causes the SEASONS.' Demonstrate by showing how the tilt causes the Northern Hemisphere to lean toward the Sun (summer) and away (winter) at different points in the orbit."},
-        {"type": "activity", "prompt": "1. In your geography journal, draw two diagrams:\n   - ROTATION: Earth spinning, with one half labeled 'day' and one half labeled 'night'\n   - REVOLUTION: Earth's orbit around the Sun, showing 4 positions (spring, summer, fall, winter)\n2. Write the definitions: Rotation = ___. Revolution = ___.\n3. Answer: 'How old are you in trips around the Sun?' Calculate the number of days you've been alive (age x 365 + extra days).", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Earth rotates once every 24 hours giving us day and night, and revolves around the Sun once every 365 days giving us a year. You are a passenger on a spinning, orbiting spaceship called Earth — traveling 67,000 miles per hour around the Sun right now!", "mastery_check": "Can the child explain the difference between rotation and revolution? Can they demonstrate day/night using the globe and flashlight? Do they understand that the tilt causes seasons?"}
+        {
+          "type": "title",
+          "heading": "Earth in Motion",
+          "subheading": "Rotation and Revolution",
+          "image_url": "https://images.pexels.com/photos/8926461/pexels-photo-8926461.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Globe on a stand",
+            "Flashlight or bright desk lamp",
+            "Small sticker for 'our location' on the globe",
+            "Dark room",
+            "Geography journal",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Place the lamp in the center of a darkened room to represent the Sun. Have the globe ready with a small sticker on your approximate location. Make the room as dark as possible."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect: 'We learned about the solar system and Earth's special place in it. But Earth is always MOVING — in TWO different ways at the same time! Let's discover them.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Demonstrate ROTATION: Darken the room. Turn on the flashlight (Sun). Hold the globe and slowly spin it. 'See how one side is lit up (daytime) and the other is dark (nighttime)? Earth SPINS like a top — one full spin takes 24 hours. That's one day. Find the sticker that's YOU. Watch as you spin from day to night and back again.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Demonstrate REVOLUTION: Keep spinning the globe slowly while WALKING it in a big circle around the lamp. 'While Earth spins, it also ORBITS the Sun — it travels in a big circle around the Sun. One complete trip takes 365 days — one YEAR. So every birthday, you've made another lap around the Sun!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Key connection: 'ROTATION gives us day and night. REVOLUTION gives us the year. And because Earth is TILTED on its axis (show the tilt on the globe), different parts get more or less direct sunlight at different times — that's what causes the SEASONS.' Demonstrate by showing how the tilt causes the Northern Hemisphere to lean toward the Sun (summer) and away (winter) at different points in the orbit."
+        },
+        {
+          "type": "activity",
+          "prompt": "1. In your geography journal, draw two diagrams:\n   - ROTATION: Earth spinning, with one half labeled 'day' and one half labeled 'night'\n   - REVOLUTION: Earth's orbit around the Sun, showing 4 positions (spring, summer, fall, winter)\n2. Write the definitions: Rotation = ___. Revolution = ___.\n3. Answer: 'How old are you in trips around the Sun?' Calculate the number of days you've been alive (age x 365 + extra days).",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Earth rotates once every 24 hours giving us day and night, and revolves around the Sun once every 365 days giving us a year. You are a passenger on a spinning, orbiting spaceship called Earth — traveling 67,000 miles per hour around the Sun right now!",
+          "mastery_check": "Can the child explain the difference between rotation and revolution? Can they demonstrate day/night using the globe and flashlight? Do they understand that the tilt causes seasons?"
+        }
       ]
     },
     "parent_notes": "The globe and flashlight demonstration is one of the most powerful geography lessons in Montessori elementary. Darkening the room and physically seeing light and shadow on the globe makes the abstract concept of day/night concrete and memorable. The revolution demonstration (walking the globe around the lamp) helps children understand why we have years and seasons. The Earth's tilt (23.5 degrees) is the key to understanding seasons — it's not about distance from the Sun (a common misconception). When the Northern Hemisphere tilts toward the Sun, sunlight hits more directly = summer. When it tilts away, sunlight hits at an angle = winter. This is subtle and may need revisiting. The 'trips around the Sun' birthday calculation is a Montessori classic — it personalizes the astronomical concept and connects to the child's own life. Some classrooms do a 'Sun birthday' walk where the child carries the globe around a candle (Sun) once for each year of their age.",
@@ -656,17 +1711,63 @@
     "instructions": "1. Discuss: 'We're starting a new school year! How does your family celebrate new beginnings?'\n2. Present 4-5 New Year celebrations from different cultures.\n3. Locate each culture on the world map.\n4. Compare and contrast the celebrations.\n5. Create a 'New Year Traditions' chart.\n6. Plan a classroom new year celebration incorporating elements from different traditions.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["World map or globe", "Photos or images of New Year celebrations from various cultures", "Chart paper", "Markers", "Books about world celebrations", "Materials for chosen celebration activity"],
+    "materials_needed": [
+      "World map or globe",
+      "Photos or images of New Year celebrations from various cultures",
+      "Chart paper",
+      "Markers",
+      "Books about world celebrations",
+      "Materials for chosen celebration activity"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "New Beginnings", "subheading": "How the World Celebrates a New Year"},
-        {"type": "materials", "items": ["World map or globe", "Images of celebrations (Chinese New Year, Rosh Hashanah, Nowruz, Diwali, etc.)", "Chart paper and markers", "Books about world holidays", "Optional: materials for a celebration (special food, decorations)"], "setup_instructions": "Print or gather images of 4-5 different New Year celebrations. Prepare the chart paper with columns for: Culture, When, Key Traditions, Meaning. Have the world map accessible."},
-        {"type": "instruction", "step": 1, "text": "Begin personally: 'We're starting a brand new school year today! New beginnings are exciting. Does your family do anything special to mark new beginnings — a special meal, cleaning the house, making resolutions?' Let the child share. 'People ALL over the world celebrate new beginnings, but they do it in different ways and at different times of the year!'"},
-        {"type": "instruction", "step": 2, "text": "Present celebrations:\n- Chinese New Year (Jan/Feb): Red decorations, dragon dances, red envelopes with money, family feasts, fireworks to scare away evil spirits.\n- Rosh Hashanah (Sept/Oct): Jewish New Year, apples dipped in honey for a sweet new year, shofar (ram's horn) blown, time for reflection.\n- Nowruz (March): Persian/Iranian New Year, Haft-sin table with 7 symbolic items, jumping over bonfires, spring cleaning.\n- Diwali (Oct/Nov): Festival of lights, oil lamps and candles everywhere, sweets and gifts, new clothes.\nLocate each on the map."},
-        {"type": "instruction", "step": 3, "text": "Compare: 'What do ALL these celebrations have in common?' Guide to: family gatherings, special food, light or fire, hope for the future, cleaning/renewal. 'Even though the customs look different, the MEANING is the same — hope, gratitude, and togetherness.'"},
-        {"type": "instruction", "step": 4, "text": "Fill in the comparison chart together. For each celebration: What culture? When? What are the main traditions? What does it mean?"},
-        {"type": "activity", "prompt": "1. Choose ONE celebration that interests you most. Research it further using the books and materials available. Write 5 interesting facts you discover.\n2. Design a 'New School Year Celebration' that borrows one tradition from each culture we studied. What would you include? Draw and describe your celebration plan.\n3. Optional: Make a card or decoration inspired by one of the celebrations.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Every culture on Earth celebrates new beginnings, but each does it in its own unique and beautiful way. What matters is the shared human desire for hope, renewal, and connection with the people we love. Welcome to YOUR new year of learning!", "mastery_check": "Can the child name and describe at least 3 different New Year celebrations from around the world? Can they identify commonalities across cultures? Do they show respect and genuine interest in diverse traditions?"}
+        {
+          "type": "title",
+          "heading": "New Beginnings",
+          "subheading": "How the World Celebrates a New Year",
+          "image_url": "https://images.pexels.com/photos/14325735/pexels-photo-14325735.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World map or globe",
+            "Images of celebrations (Chinese New Year, Rosh Hashanah, Nowruz, Diwali, etc.)",
+            "Chart paper and markers",
+            "Books about world holidays",
+            "Optional: materials for a celebration (special food, decorations)"
+          ],
+          "setup_instructions": "Print or gather images of 4-5 different New Year celebrations. Prepare the chart paper with columns for: Culture, When, Key Traditions, Meaning. Have the world map accessible."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Begin personally: 'We're starting a brand new school year today! New beginnings are exciting. Does your family do anything special to mark new beginnings — a special meal, cleaning the house, making resolutions?' Let the child share. 'People ALL over the world celebrate new beginnings, but they do it in different ways and at different times of the year!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Present celebrations:\n- Chinese New Year (Jan/Feb): Red decorations, dragon dances, red envelopes with money, family feasts, fireworks to scare away evil spirits.\n- Rosh Hashanah (Sept/Oct): Jewish New Year, apples dipped in honey for a sweet new year, shofar (ram's horn) blown, time for reflection.\n- Nowruz (March): Persian/Iranian New Year, Haft-sin table with 7 symbolic items, jumping over bonfires, spring cleaning.\n- Diwali (Oct/Nov): Festival of lights, oil lamps and candles everywhere, sweets and gifts, new clothes.\nLocate each on the map."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Compare: 'What do ALL these celebrations have in common?' Guide to: family gatherings, special food, light or fire, hope for the future, cleaning/renewal. 'Even though the customs look different, the MEANING is the same — hope, gratitude, and togetherness.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Fill in the comparison chart together. For each celebration: What culture? When? What are the main traditions? What does it mean?"
+        },
+        {
+          "type": "activity",
+          "prompt": "1. Choose ONE celebration that interests you most. Research it further using the books and materials available. Write 5 interesting facts you discover.\n2. Design a 'New School Year Celebration' that borrows one tradition from each culture we studied. What would you include? Draw and describe your celebration plan.\n3. Optional: Make a card or decoration inspired by one of the celebrations.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Every culture on Earth celebrates new beginnings, but each does it in its own unique and beautiful way. What matters is the shared human desire for hope, renewal, and connection with the people we love. Welcome to YOUR new year of learning!",
+          "mastery_check": "Can the child name and describe at least 3 different New Year celebrations from around the world? Can they identify commonalities across cultures? Do they show respect and genuine interest in diverse traditions?"
+        }
       ]
     },
     "parent_notes": "Cultural studies in Montessori elementary serve a profound purpose: they build respect for human diversity while revealing our shared humanity. By studying how different cultures celebrate new beginnings, children discover that despite surface differences, all human beings share fundamental needs and values — community, hope, gratitude, and renewal. This lesson is intentionally placed in Week 1 to set the tone for the year: we are global citizens who respect and learn from all cultures. Be sensitive to your own family's religious or cultural background — include your traditions alongside others, neither above nor below. If you celebrate any of these holidays, share your personal experience! If not, approach them all with equal curiosity and respect. The comparison chart is a thinking tool that helps children move from 'this is exotic' to 'this is human.' The key insight: different customs, same human heart.",
@@ -684,17 +1785,62 @@
     "instructions": "1. Read the remaining section of 'Born With a Bang.'\n2. Discuss the book as a whole: favorite parts, new learning, questions.\n3. Big picture reflection: 'How did everything we learned this week connect?'\n4. Create a concept web showing connections.\n5. Set goals for next week.\n6. End with the child choosing a poem or passage to read aloud.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["'Born With a Bang' book", "Large paper for concept web", "Markers", "Reading journal", "All journals/notebooks from the week"],
+    "materials_needed": [
+      "'Born With a Bang' book",
+      "Large paper for concept web",
+      "Markers",
+      "Reading journal",
+      "All journals/notebooks from the week"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Week 1 Read-Aloud & Reflection", "subheading": "Finishing 'Born With a Bang' and Looking Back"},
-        {"type": "materials", "items": ["'Born With a Bang' or current read-aloud book", "Large paper (poster size) for concept web", "Markers in different colors", "Reading journal", "Writing journal, science journal, geometry notebook from the week"], "setup_instructions": "Set up the comfortable reading area. Have large paper and markers ready for the concept web activity. Gather all journals and notebooks from the week's lessons."},
-        {"type": "instruction", "step": 1, "text": "Read the final section of 'Born With a Bang' (or this week's portion). Read with expression and pause for the child's reactions. When finished: 'What was your favorite part of this entire book? What was the most surprising thing you learned?'"},
-        {"type": "instruction", "step": 2, "text": "Make the reading journal entry: title, author, pages, vocabulary, response. This time, the response should be about the WHOLE book (or section), not just today's reading. Guide the child to write a longer response — at least 4-5 sentences."},
-        {"type": "instruction", "step": 3, "text": "Week 1 Reflection — the big picture: 'Let's look at everything we did this week.' Pull out all the journals and notebooks. Go through each lesson briefly. Ask: 'How does our reading connect to the First Great Lesson? How does our math connect? Our science? Our art?'"},
-        {"type": "instruction", "step": 4, "text": "Create a concept web: Write 'First Great Lesson: The Universe' in the center of the large paper. Draw lines outward to each subject and topic: states of matter, solar system, place value, nouns, rhythm, creation stories, Big Bang painting. 'See? Everything we learned this week is CONNECTED. That's the power of the Great Lessons — they show us that all knowledge is part of one big story.'"},
-        {"type": "activity", "prompt": "1. Complete the concept web by drawing connections between topics (e.g., states of matter connects to Earth's formation, rhythm connects to orbits).\n2. In your reading journal, write: 'The most important thing I learned in Week 1 was...' and explain in at least 3 sentences.\n3. Set 3 goals for Week 2: one for reading, one for math, and one for anything else.\n4. Choose a favorite passage from this week's reading to read ALOUD — practice it and perform it for your family.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "What an incredible first week! You heard the story of the universe, explored the solar system, did experiments with matter, learned about lines and rhythm, read about how cultures explain creation, and so much more. And it's all connected. Next week: the Second Great Lesson — the Coming of Life!", "mastery_check": "Can the child articulate connections between different subjects and the First Great Lesson? Can they reflect on their learning and set goals? Do they show enthusiasm for the interconnected nature of knowledge?"}
+        {
+          "type": "title",
+          "heading": "Week 1 Read-Aloud & Reflection",
+          "subheading": "Finishing 'Born With a Bang' and Looking Back",
+          "image_url": "https://images.pexels.com/photos/10638213/pexels-photo-10638213.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "'Born With a Bang' or current read-aloud book",
+            "Large paper (poster size) for concept web",
+            "Markers in different colors",
+            "Reading journal",
+            "Writing journal, science journal, geometry notebook from the week"
+          ],
+          "setup_instructions": "Set up the comfortable reading area. Have large paper and markers ready for the concept web activity. Gather all journals and notebooks from the week's lessons."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read the final section of 'Born With a Bang' (or this week's portion). Read with expression and pause for the child's reactions. When finished: 'What was your favorite part of this entire book? What was the most surprising thing you learned?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Make the reading journal entry: title, author, pages, vocabulary, response. This time, the response should be about the WHOLE book (or section), not just today's reading. Guide the child to write a longer response — at least 4-5 sentences."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Week 1 Reflection — the big picture: 'Let's look at everything we did this week.' Pull out all the journals and notebooks. Go through each lesson briefly. Ask: 'How does our reading connect to the First Great Lesson? How does our math connect? Our science? Our art?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Create a concept web: Write 'First Great Lesson: The Universe' in the center of the large paper. Draw lines outward to each subject and topic: states of matter, solar system, place value, nouns, rhythm, creation stories, Big Bang painting. 'See? Everything we learned this week is CONNECTED. That's the power of the Great Lessons — they show us that all knowledge is part of one big story.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "1. Complete the concept web by drawing connections between topics (e.g., states of matter connects to Earth's formation, rhythm connects to orbits).\n2. In your reading journal, write: 'The most important thing I learned in Week 1 was...' and explain in at least 3 sentences.\n3. Set 3 goals for Week 2: one for reading, one for math, and one for anything else.\n4. Choose a favorite passage from this week's reading to read ALOUD — practice it and perform it for your family.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "What an incredible first week! You heard the story of the universe, explored the solar system, did experiments with matter, learned about lines and rhythm, read about how cultures explain creation, and so much more. And it's all connected. Next week: the Second Great Lesson — the Coming of Life!",
+          "mastery_check": "Can the child articulate connections between different subjects and the First Great Lesson? Can they reflect on their learning and set goals? Do they show enthusiasm for the interconnected nature of knowledge?"
+        }
       ]
     },
     "parent_notes": "This reflection lesson is crucial to the Montessori elementary philosophy. The concept web makes VISIBLE what Montessori called 'cosmic education' — the idea that all knowledge is interconnected, and that the Great Lessons provide the unifying narrative. Children who can see connections across subjects develop deeper understanding and greater motivation to learn. The goal-setting activity teaches metacognition — thinking about your own thinking and learning. Don't make the goals too formal; they should be the child's own aspirations. The read-aloud performance at the end celebrates the child's voice and builds public speaking confidence. End the week on a high note — this child has just begun an incredible journey through the story of the universe, life, and human civilization. The Second Great Lesson next week will continue the cosmic narrative with the story of how life began on Earth.",

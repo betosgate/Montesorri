@@ -10,17 +10,61 @@
     "instructions": "1. Invite the child to the work area.\n2. Show the child how to carry the tray with both hands.\n3. Demonstrate pouring slowly from one pitcher to the other.\n4. Allow the child to practice independently.\n5. Show how to use the sponge to clean spills.\n6. Return materials to the shelf when finished.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Small tray", "Two glass pitchers", "Sponge", "Water", "Towel"],
+    "materials_needed": [
+      "Small tray",
+      "Two glass pitchers",
+      "Sponge",
+      "Water",
+      "Towel"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Pouring Water", "subheading": "Pitcher to Pitcher"},
-        {"type": "materials", "items": ["Two small glass pitchers", "Small tray", "Sponge", "Pitcher of water"], "setup_instructions": "Place both pitchers on the tray. Fill one about halfway with water."},
-        {"type": "instruction", "step": 1, "text": "Carry the tray carefully to the table with both hands."},
-        {"type": "instruction", "step": 2, "text": "Pick up the full pitcher with your dominant hand. Place your other hand gently on the table for balance."},
-        {"type": "instruction", "step": 3, "text": "Slowly pour the water into the empty pitcher. Watch the water as it flows."},
-        {"type": "instruction", "step": 4, "text": "Now pour it back! Try to pour slowly and steadily without spilling."},
-        {"type": "activity", "prompt": "Practice pouring back and forth 3 times. Can you do it without spilling?", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Use the sponge to clean up any spills. Dry the tray and return it to the shelf.", "mastery_check": "Can the child pour without spilling?"}
+        {
+          "type": "title",
+          "heading": "Pouring Water",
+          "subheading": "Pitcher to Pitcher",
+          "image_url": "https://images.pexels.com/photos/15826427/pexels-photo-15826427.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Two small glass pitchers",
+            "Small tray",
+            "Sponge",
+            "Pitcher of water"
+          ],
+          "setup_instructions": "Place both pitchers on the tray. Fill one about halfway with water."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Carry the tray carefully to the table with both hands."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Pick up the full pitcher with your dominant hand. Place your other hand gently on the table for balance."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Slowly pour the water into the empty pitcher. Watch the water as it flows."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Now pour it back! Try to pour slowly and steadily without spilling."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice pouring back and forth 3 times. Can you do it without spilling?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Use the sponge to clean up any spills. Dry the tray and return it to the shelf.",
+          "mastery_check": "Can the child pour without spilling?"
+        }
       ]
     },
     "parent_notes": "This is often the first Practical Life exercise introduced. Let the child repeat as many times as they want — repetition builds concentration. Don't correct minor spills; the sponge is part of the self-correcting nature of the work. Use real glass pitchers (small size) rather than plastic, as the weight and breakability teach care and respect for materials.",
@@ -38,17 +82,58 @@
     "instructions": "1. Gather 5-6 small objects that begin with the /s/ sound (sock, star, spoon, snake, stamp, stone).\n2. Place objects on a tray or mat.\n3. Say: 'I spy with my little eye something that begins with /s/.'\n4. Let the child identify the object.\n5. Repeat with each object.\n6. Mix in 1-2 objects that don't start with /s/ as the child gains confidence.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Small tray or mat", "Miniature objects starting with 's'", "Basket for objects"],
+    "materials_needed": [
+      "Small tray or mat",
+      "Miniature objects starting with 's'",
+      "Basket for objects"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "I Spy", "subheading": "Beginning Sounds — /s/"},
-        {"type": "materials", "items": ["5-6 small objects starting with /s/ (sock, star, spoon, snake, stamp, stone)", "Small tray or work mat", "Basket"], "setup_instructions": "Arrange objects neatly on the tray. Keep them visible and spaced apart."},
-        {"type": "instruction", "step": 1, "text": "Sit beside the child. Name each object clearly: 'This is a sock. This is a star. This is a spoon...'"},
-        {"type": "instruction", "step": 2, "text": "Say: 'I spy with my little eye something that begins with sssss.' Emphasize the /s/ sound."},
-        {"type": "instruction", "step": 3, "text": "When the child picks an object, say: 'Yes! Ssssock starts with /s/!' Emphasize the beginning sound."},
-        {"type": "activity", "prompt": "Play I Spy with all the objects. Can you find everything that starts with /s/?", "duration_minutes": 10},
-        {"type": "instruction", "step": 4, "text": "Extension: Ask the child to look around the room for other things that start with /s/."},
-        {"type": "wrap_up", "text": "Return objects to the basket. 'You found so many /s/ sounds today!'", "mastery_check": "Can the child identify 4 out of 6 objects that start with /s/?"}
+        {
+          "type": "title",
+          "heading": "I Spy",
+          "subheading": "Beginning Sounds — /s/",
+          "image_url": "https://images.pexels.com/photos/1337387/pexels-photo-1337387.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "5-6 small objects starting with /s/ (sock, star, spoon, snake, stamp, stone)",
+            "Small tray or work mat",
+            "Basket"
+          ],
+          "setup_instructions": "Arrange objects neatly on the tray. Keep them visible and spaced apart."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Sit beside the child. Name each object clearly: 'This is a sock. This is a star. This is a spoon...'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Say: 'I spy with my little eye something that begins with sssss.' Emphasize the /s/ sound."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "When the child picks an object, say: 'Yes! Ssssock starts with /s/!' Emphasize the beginning sound."
+        },
+        {
+          "type": "activity",
+          "prompt": "Play I Spy with all the objects. Can you find everything that starts with /s/?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Extension: Ask the child to look around the room for other things that start with /s/."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Return objects to the basket. 'You found so many /s/ sounds today!'",
+          "mastery_check": "Can the child identify 4 out of 6 objects that start with /s/?"
+        }
       ]
     },
     "parent_notes": "Always use the SOUND the letter makes, not the letter name. Say /s/ (like a snake hissing), not 'ess.' This is the foundation of Montessori reading instruction. Keep the game playful and pressure-free. If the child struggles, reduce to 3 objects. Collect small objects over time — dollar store miniatures work well.",
@@ -66,17 +151,57 @@
     "instructions": "1. Bring the number rods (1-5) to the mat one at a time, starting with the shortest.\n2. Build a stair pattern with the rods.\n3. Count aloud as you touch each red-and-blue segment: 'One. One-two. One-two-three...'\n4. Invite the child to count along with you.\n5. Use the three-period lesson: 'This is one. This is two. Show me two. What is this?'\n6. Allow the child to explore the rods freely.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Number rods (1-5)", "Floor mat or rug", "Number rod labels (optional)"],
+    "materials_needed": [
+      "Number rods (1-5)",
+      "Floor mat or rug",
+      "Number rod labels (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Number Rods", "subheading": "Introduction — Rods 1 to 5"},
-        {"type": "materials", "items": ["Number rods 1 through 5", "Large floor mat or work rug"], "setup_instructions": "Place rods 1-5 in random order on the mat. Keep number cards nearby for later extension."},
-        {"type": "instruction", "step": 1, "text": "Carry each rod to the mat one at a time, starting with the smallest. Hold with two hands."},
-        {"type": "instruction", "step": 2, "text": "Arrange the rods in a stair pattern from shortest (1) to longest (5), left-aligned."},
-        {"type": "instruction", "step": 3, "text": "Touch the first rod and say 'One.' Touch each segment of the second rod: 'One, two.' Continue through rod 5."},
-        {"type": "instruction", "step": 4, "text": "Three-period lesson: 'This is three' (naming). 'Show me three' (recognition). 'What is this?' (recall)."},
-        {"type": "activity", "prompt": "Build the stair! Can you put the rods in order from 1 to 5?", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Carry each rod back to the shelf one at a time. 'You counted all the way to five!'", "mastery_check": "Can the child build the stair and count to 5 with the rods?"}
+        {
+          "type": "title",
+          "heading": "Number Rods",
+          "subheading": "Introduction — Rods 1 to 5",
+          "image_url": "https://images.pexels.com/photos/8612931/pexels-photo-8612931.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Number rods 1 through 5",
+            "Large floor mat or work rug"
+          ],
+          "setup_instructions": "Place rods 1-5 in random order on the mat. Keep number cards nearby for later extension."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Carry each rod to the mat one at a time, starting with the smallest. Hold with two hands."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Arrange the rods in a stair pattern from shortest (1) to longest (5), left-aligned."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Touch the first rod and say 'One.' Touch each segment of the second rod: 'One, two.' Continue through rod 5."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Three-period lesson: 'This is three' (naming). 'Show me three' (recognition). 'What is this?' (recall)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Build the stair! Can you put the rods in order from 1 to 5?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Carry each rod back to the shelf one at a time. 'You counted all the way to five!'",
+          "mastery_check": "Can the child build the stair and count to 5 with the rods?"
+        }
       ]
     },
     "parent_notes": "Number rods give a concrete, physical experience of quantity. Rod 3 is literally three times longer than rod 1. Always count from left to right, touching each segment. If your child doesn't have official number rods, you can make them with dowels painted in alternating red and blue segments (each segment = 10cm).",
@@ -94,16 +219,56 @@
     "instructions": "1. Show the child the Montessori globe (sandpaper globe or colored globe).\n2. Let the child feel the rough (land) and smooth (water) surfaces.\n3. Explain: 'The blue parts are water. The rough/brown parts are land.'\n4. Pour water into one side of a land/water tray to demonstrate.\n5. Let the child explore pouring water around the land form.\n6. Discuss: 'What do we see more of — land or water?'",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Montessori globe (sandpaper or colored)", "Land and water tray", "Small pitcher of water", "Towel", "Sponge"],
+    "materials_needed": [
+      "Montessori globe (sandpaper or colored)",
+      "Land and water tray",
+      "Small pitcher of water",
+      "Towel",
+      "Sponge"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Land and Water", "subheading": "Our Earth"},
-        {"type": "materials", "items": ["Montessori globe", "Land/water form tray", "Small pitcher of water", "Sponge and towel"], "setup_instructions": "Place the globe on the table. Have the land/water tray nearby with an empty pitcher and a pitcher of water."},
-        {"type": "instruction", "step": 1, "text": "Hold the globe and say: 'This is our Earth. It is where we all live.'"},
-        {"type": "instruction", "step": 2, "text": "Guide the child's hand over the globe: 'Feel the rough parts — that is land. Feel the smooth parts — that is water.'"},
-        {"type": "instruction", "step": 3, "text": "Ask: 'Is there more land or more water on Earth?' (Water!) 'That's right — most of Earth is covered in water.'"},
-        {"type": "activity", "prompt": "Pour water into the land/water tray. Watch how the water fills in around the land. Where does the water go?", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "Use the sponge to clean up. 'Today we learned that Earth has land and water!'", "mastery_check": "Can the child identify land and water on the globe?"}
+        {
+          "type": "title",
+          "heading": "Land and Water",
+          "subheading": "Our Earth",
+          "image_url": "https://images.pexels.com/photos/5428267/pexels-photo-5428267.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Montessori globe",
+            "Land/water form tray",
+            "Small pitcher of water",
+            "Sponge and towel"
+          ],
+          "setup_instructions": "Place the globe on the table. Have the land/water tray nearby with an empty pitcher and a pitcher of water."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Hold the globe and say: 'This is our Earth. It is where we all live.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Guide the child's hand over the globe: 'Feel the rough parts — that is land. Feel the smooth parts — that is water.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Ask: 'Is there more land or more water on Earth?' (Water!) 'That's right — most of Earth is covered in water.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Pour water into the land/water tray. Watch how the water fills in around the land. Where does the water go?",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "Use the sponge to clean up. 'Today we learned that Earth has land and water!'",
+          "mastery_check": "Can the child identify land and water on the globe?"
+        }
       ]
     },
     "parent_notes": "If you don't have a Montessori sandpaper globe, use any globe and have the child notice the blue (water) and green/brown (land) colors. For the land/water tray, you can use a simple baking dish with clay molded into a land form on one side. This lesson plants the seed for all future geography work.",
@@ -121,16 +286,52 @@
     "instructions": "1. Show the cover and read the title. Ask: 'What do you see on the cover?'\n2. Read the story slowly, pointing to the pictures.\n3. Pause to let the child notice details in the illustrations.\n4. After reading, discuss: 'What things did the bunny say goodnight to?'\n5. Ask: 'What do you say goodnight to in your room?'\n6. Re-read, pausing before rhyming words to let the child fill them in.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Goodnight Moon by Margaret Wise Brown", "Comfortable reading area", "Optional: small blanket or stuffed animal"],
+    "materials_needed": [
+      "Goodnight Moon by Margaret Wise Brown",
+      "Comfortable reading area",
+      "Optional: small blanket or stuffed animal"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "Goodnight Moon by Margaret Wise Brown"},
-        {"type": "materials", "items": ["Goodnight Moon picture book", "Cozy reading spot"], "setup_instructions": "Sit together in a comfortable spot. Hold the book so the child can see the pictures clearly."},
-        {"type": "instruction", "step": 1, "text": "Show the cover: 'This book is called Goodnight Moon. What do you see on the cover?'"},
-        {"type": "instruction", "step": 2, "text": "Read slowly. Point to the illustrations. Let the child look at each page before turning."},
-        {"type": "instruction", "step": 3, "text": "Pause on rhyming pages: 'Goodnight kittens, goodnight ___' and let the child guess 'mittens!'"},
-        {"type": "activity", "prompt": "After reading: 'What things in YOUR room would you say goodnight to?' Let the child name items.", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "Re-read the story if the child wants to hear it again. Repetition is wonderful at this age!", "mastery_check": "Can the child recall 3-4 items from the story?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "Goodnight Moon by Margaret Wise Brown",
+          "image_url": "https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Goodnight Moon picture book",
+            "Cozy reading spot"
+          ],
+          "setup_instructions": "Sit together in a comfortable spot. Hold the book so the child can see the pictures clearly."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the cover: 'This book is called Goodnight Moon. What do you see on the cover?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read slowly. Point to the illustrations. Let the child look at each page before turning."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Pause on rhyming pages: 'Goodnight kittens, goodnight ___' and let the child guess 'mittens!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "After reading: 'What things in YOUR room would you say goodnight to?' Let the child name items.",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "Re-read the story if the child wants to hear it again. Repetition is wonderful at this age!",
+          "mastery_check": "Can the child recall 3-4 items from the story?"
+        }
       ]
     },
     "parent_notes": "Read-alouds are the single most important activity for developing literacy. Read with expression and warmth. Don't rush. If your child wants to hear it again, read it again! Repetition builds vocabulary and comprehension. Point out rhyming words naturally — this builds phonological awareness, a key pre-reading skill.",
@@ -148,17 +349,56 @@
     "instructions": "1. Carry each cube individually to the mat, starting with the largest.\n2. Scatter the cubes randomly on the mat.\n3. Find the largest cube and place it in the center.\n4. Find the next largest and center it on top.\n5. Continue stacking from largest to smallest.\n6. Admire the completed tower, then carefully disassemble.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Pink Tower (10 cubes)", "Floor mat or work rug"],
+    "materials_needed": [
+      "Pink Tower (10 cubes)",
+      "Floor mat or work rug"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Pink Tower", "subheading": "Building from Large to Small"},
-        {"type": "materials", "items": ["Pink Tower — 10 graduated cubes", "Large floor mat"], "setup_instructions": "Place the mat on the floor. Carry each cube one at a time from the shelf to the mat."},
-        {"type": "instruction", "step": 1, "text": "Carry the largest cube with two hands. Place it on the mat. Go back for the next cube."},
-        {"type": "instruction", "step": 2, "text": "When all 10 cubes are on the mat, scatter them gently. 'Now let's build the tower!'"},
-        {"type": "instruction", "step": 3, "text": "Pick up the largest cube. Place it in the center of the mat. 'This is our base — the biggest cube.'"},
-        {"type": "instruction", "step": 4, "text": "Find the next biggest. Center it carefully on top. Continue until all 10 cubes are stacked."},
-        {"type": "activity", "prompt": "Now it's your turn! Can you build the Pink Tower from biggest to smallest?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Carefully take the tower apart. Carry each cube back to the shelf one at a time.", "mastery_check": "Can the child build the tower in the correct order without help?"}
+        {
+          "type": "title",
+          "heading": "The Pink Tower",
+          "subheading": "Building from Large to Small",
+          "image_url": "https://images.pexels.com/photos/31864433/pexels-photo-31864433.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pink Tower — 10 graduated cubes",
+            "Large floor mat"
+          ],
+          "setup_instructions": "Place the mat on the floor. Carry each cube one at a time from the shelf to the mat."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Carry the largest cube with two hands. Place it on the mat. Go back for the next cube."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "When all 10 cubes are on the mat, scatter them gently. 'Now let's build the tower!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Pick up the largest cube. Place it in the center of the mat. 'This is our base — the biggest cube.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Find the next biggest. Center it carefully on top. Continue until all 10 cubes are stacked."
+        },
+        {
+          "type": "activity",
+          "prompt": "Now it's your turn! Can you build the Pink Tower from biggest to smallest?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Carefully take the tower apart. Carry each cube back to the shelf one at a time.",
+          "mastery_check": "Can the child build the tower in the correct order without help?"
+        }
       ]
     },
     "parent_notes": "The Pink Tower is one of the most iconic Montessori materials. It isolates the concept of SIZE — each cube differs by exactly 1 cm in each dimension. The child's eyes learn to discriminate differences in three dimensions. Don't correct errors verbally; the tower itself shows the child if a cube is out of place. If you don't have a Pink Tower, you can use graduated nesting blocks.",
@@ -176,17 +416,58 @@
     "instructions": "1. Place the sandpaper letter 's' on the table.\n2. Trace the letter with your index and middle fingers while saying '/s/' (the sound, not the name).\n3. Repeat three times.\n4. Invite the child to trace while you say the sound together.\n5. Three-period lesson: 'This is /s/.' 'Show me /s/.' 'What sound is this?'\n6. Connect to I Spy: 'Remember the objects that start with /s/?'",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Sandpaper letter 's'", "Small tray or mat", "Sand tray (optional)"],
+    "materials_needed": [
+      "Sandpaper letter 's'",
+      "Small tray or mat",
+      "Sand tray (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Sandpaper Letter", "subheading": "The Sound /s/"},
-        {"type": "materials", "items": ["Sandpaper letter 's'", "Small tray", "Sand tray for practice (optional)"], "setup_instructions": "Place the sandpaper letter on the tray. If using a sand tray, have it nearby for extension work."},
-        {"type": "instruction", "step": 1, "text": "Sit beside the child. Place the sandpaper letter between you. 'Today we're going to learn a new sound.'"},
-        {"type": "instruction", "step": 2, "text": "Trace the letter slowly with your index and middle fingers. Say '/s/' as you trace. Repeat 3 times."},
-        {"type": "instruction", "step": 3, "text": "Guide the child's fingers over the letter: 'Now you try. Feel the letter and say /s/.'"},
-        {"type": "instruction", "step": 4, "text": "Three-period lesson: 'This says /s/' → 'Show me /s/' → 'What sound does this make?'"},
-        {"type": "activity", "prompt": "Practice tracing the letter 5 times. Then try writing /s/ in the sand tray!", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Return the sandpaper letter to the shelf. 'You learned the sound /s/ today!'", "mastery_check": "Can the child trace the letter and say the correct sound?"}
+        {
+          "type": "title",
+          "heading": "Sandpaper Letter",
+          "subheading": "The Sound /s/",
+          "image_url": "https://images.pexels.com/photos/7807854/pexels-photo-7807854.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sandpaper letter 's'",
+            "Small tray",
+            "Sand tray for practice (optional)"
+          ],
+          "setup_instructions": "Place the sandpaper letter on the tray. If using a sand tray, have it nearby for extension work."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Sit beside the child. Place the sandpaper letter between you. 'Today we're going to learn a new sound.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Trace the letter slowly with your index and middle fingers. Say '/s/' as you trace. Repeat 3 times."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Guide the child's fingers over the letter: 'Now you try. Feel the letter and say /s/.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Three-period lesson: 'This says /s/' → 'Show me /s/' → 'What sound does this make?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice tracing the letter 5 times. Then try writing /s/ in the sand tray!",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Return the sandpaper letter to the shelf. 'You learned the sound /s/ today!'",
+          "mastery_check": "Can the child trace the letter and say the correct sound?"
+        }
       ]
     },
     "parent_notes": "Sandpaper letters are the cornerstone of Montessori reading instruction. The child learns through THREE senses simultaneously: seeing the shape, feeling the texture, and hearing the sound. Always use lowercase letters first. Always teach the SOUND (/s/ like a snake), never the letter name ('ess'). If you don't have sandpaper letters, make them by cutting letters from fine sandpaper and gluing to cardstock.",
@@ -204,16 +485,51 @@
     "instructions": "1. Invite the child to bring the number rods (1-5) to the mat.\n2. Mix the rods randomly.\n3. Ask the child to find rod 1. Then rod 2. Continue through 5.\n4. Build the stair together.\n5. Count each rod's segments aloud.\n6. Play 'Show me': 'Show me the rod that has 3.' 'Which rod has 5?'",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Number rods (1-5)", "Floor mat"],
+    "materials_needed": [
+      "Number rods (1-5)",
+      "Floor mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Number Rods", "subheading": "Counting Practice 1-5"},
-        {"type": "materials", "items": ["Number rods 1-5", "Floor mat"], "setup_instructions": "Have the child carry rods to the mat. Mix them up randomly."},
-        {"type": "instruction", "step": 1, "text": "'Can you find the rod that shows ONE?' Wait for the child to find it. Place it at the top."},
-        {"type": "instruction", "step": 2, "text": "'Now find TWO.' Continue through five. Build the stair as each rod is found."},
-        {"type": "instruction", "step": 3, "text": "Count each rod together, touching each segment: 'One. One-two. One-two-three...'"},
-        {"type": "activity", "prompt": "Play 'Show Me': 'Show me three!' 'Show me five!' 'Which rod has four?'", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Return rods to the shelf. 'Great counting today!'", "mastery_check": "Can the child identify and count rods 1-5 independently?"}
+        {
+          "type": "title",
+          "heading": "Number Rods",
+          "subheading": "Counting Practice 1-5",
+          "image_url": "https://images.pexels.com/photos/6692923/pexels-photo-6692923.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Number rods 1-5",
+            "Floor mat"
+          ],
+          "setup_instructions": "Have the child carry rods to the mat. Mix them up randomly."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Can you find the rod that shows ONE?' Wait for the child to find it. Place it at the top."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Now find TWO.' Continue through five. Build the stair as each rod is found."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Count each rod together, touching each segment: 'One. One-two. One-two-three...'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Play 'Show Me': 'Show me three!' 'Show me five!' 'Which rod has four?'",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Return rods to the shelf. 'Great counting today!'",
+          "mastery_check": "Can the child identify and count rods 1-5 independently?"
+        }
       ]
     },
     "parent_notes": "Repetition is key. The child may want to build the stair many times — encourage this! You can extend by asking comparison questions: 'Which is longer, 3 or 5?' 'How many more does 5 have than 3?' Don't push the extensions; let the child's interest guide the work.",
@@ -231,16 +547,55 @@
     "instructions": "1. Prepare a nature walk basket (bag, magnifying glass, collection containers).\n2. Walk slowly through a garden, park, or yard.\n3. Stop frequently: 'What do you notice? What do you see, hear, smell?'\n4. Collect 3-5 natural items (leaves, rocks, flowers, sticks).\n5. Return home and examine collections with the magnifying glass.\n6. Sort items: living vs. non-living, or by color/texture.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Nature walk basket or bag", "Magnifying glass", "Small collection containers", "Nature journal (optional)"],
+    "materials_needed": [
+      "Nature walk basket or bag",
+      "Magnifying glass",
+      "Small collection containers",
+      "Nature journal (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Nature Walk", "subheading": "Observing Our World"},
-        {"type": "materials", "items": ["Nature walk basket", "Magnifying glass", "Collection containers or bags", "Optional: nature journal and crayons"], "setup_instructions": "Pack the basket. Dress for the weather. Choose a safe walking area."},
-        {"type": "instruction", "step": 1, "text": "'Today we are going on a nature walk! We are going to use our eyes, ears, and noses to observe the world.'"},
-        {"type": "instruction", "step": 2, "text": "Walk slowly. Stop often: 'Look at this leaf! What color is it? What shape? Feel the edges.'"},
-        {"type": "instruction", "step": 3, "text": "Collect 3-5 items. 'Let's put this interesting rock in our basket to look at later.'"},
-        {"type": "activity", "prompt": "Back inside: examine your finds with the magnifying glass. Sort them into groups. What groups did you make?", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "Display your favorite find on the nature shelf. 'What was the most interesting thing you found?'", "mastery_check": "Can the child describe 2-3 observations about an item they found?"}
+        {
+          "type": "title",
+          "heading": "Nature Walk",
+          "subheading": "Observing Our World",
+          "image_url": "https://images.pexels.com/photos/11286088/pexels-photo-11286088.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Nature walk basket",
+            "Magnifying glass",
+            "Collection containers or bags",
+            "Optional: nature journal and crayons"
+          ],
+          "setup_instructions": "Pack the basket. Dress for the weather. Choose a safe walking area."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today we are going on a nature walk! We are going to use our eyes, ears, and noses to observe the world.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Walk slowly. Stop often: 'Look at this leaf! What color is it? What shape? Feel the edges.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Collect 3-5 items. 'Let's put this interesting rock in our basket to look at later.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Back inside: examine your finds with the magnifying glass. Sort them into groups. What groups did you make?",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "Display your favorite find on the nature shelf. 'What was the most interesting thing you found?'",
+          "mastery_check": "Can the child describe 2-3 observations about an item they found?"
+        }
       ]
     },
     "parent_notes": "Nature walks are a cornerstone of Montessori education. The goal is not to cover distance but to observe deeply. Walk slowly. Let the child lead. A magnifying glass transforms any leaf or rock into a wonder. Start a nature shelf at home where the child can display their finds — this connects to the Montessori love of order and classification.",
@@ -258,16 +613,53 @@
     "instructions": "1. Set up a drawing workspace: large paper, crayons, and a placemat.\n2. Show the child the proper tripod grip for holding a crayon.\n3. Demonstrate making different kinds of lines: straight, curvy, zigzag, circles.\n4. Invite the child to draw freely — no specific product expected.\n5. Talk about what the child is making: 'Tell me about your drawing.'\n6. Display the finished work.",
     "duration_minutes": 20,
     "lesson_type": "independent",
-    "materials_needed": ["Large drawing paper", "Crayons (chunky for younger children)", "Placemat or newspaper to protect table"],
+    "materials_needed": [
+      "Large drawing paper",
+      "Crayons (chunky for younger children)",
+      "Placemat or newspaper to protect table"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Free Drawing", "subheading": "Exploring Crayons"},
-        {"type": "materials", "items": ["Large paper", "Crayons", "Placemat for table protection"], "setup_instructions": "Set out paper and crayons. Keep the workspace uncluttered. Let the child choose colors."},
-        {"type": "instruction", "step": 1, "text": "Show the tripod grip: 'Hold the crayon like this — thumb, pointer finger, and middle finger.'"},
-        {"type": "instruction", "step": 2, "text": "Make different lines: 'Watch — I can make a straight line, a curvy line, a zigzag, and a circle.'"},
-        {"type": "instruction", "step": 3, "text": "'Now it's your turn! Draw whatever you like. There is no right or wrong way.'"},
-        {"type": "activity", "prompt": "Draw freely for 10-15 minutes. Try making different kinds of lines and shapes!", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Ask: 'Tell me about your drawing.' Write their words on the back. Display it proudly!", "mastery_check": "Is the child using a functional grip and exploring different mark types?"}
+        {
+          "type": "title",
+          "heading": "Free Drawing",
+          "subheading": "Exploring Crayons",
+          "image_url": "https://images.pexels.com/photos/8613054/pexels-photo-8613054.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large paper",
+            "Crayons",
+            "Placemat for table protection"
+          ],
+          "setup_instructions": "Set out paper and crayons. Keep the workspace uncluttered. Let the child choose colors."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the tripod grip: 'Hold the crayon like this — thumb, pointer finger, and middle finger.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Make different lines: 'Watch — I can make a straight line, a curvy line, a zigzag, and a circle.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Now it's your turn! Draw whatever you like. There is no right or wrong way.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw freely for 10-15 minutes. Try making different kinds of lines and shapes!",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Ask: 'Tell me about your drawing.' Write their words on the back. Display it proudly!",
+          "mastery_check": "Is the child using a functional grip and exploring different mark types?"
+        }
       ]
     },
     "parent_notes": "Process over product! At this age, the goal is exploration and fine motor development, not recognizable pictures. Never say 'What is it?' Instead say 'Tell me about your drawing.' Chunky crayons are easier for younger children; regular crayons work for older kindergartners with developed grips. Save early drawings to compare with later ones — the growth will amaze you.",
@@ -285,16 +677,55 @@
     "instructions": "1. Place two small bowls and a cup of dry rice on a tray.\n2. Demonstrate slowly pouring rice from one bowl to the other.\n3. Listen to the sound the rice makes.\n4. Let the child practice pouring back and forth.\n5. Show how to pick up any spilled grains.\n6. Return materials to the shelf.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Small tray", "Two small bowls", "Dry rice (about 1 cup)", "Small hand broom and dustpan"],
+    "materials_needed": [
+      "Small tray",
+      "Two small bowls",
+      "Dry rice (about 1 cup)",
+      "Small hand broom and dustpan"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Pouring Dry Goods", "subheading": "Rice Transfer"},
-        {"type": "materials", "items": ["Two small bowls", "Dry rice", "Small tray", "Hand broom and dustpan"], "setup_instructions": "Fill one bowl about halfway with rice. Place both bowls on the tray."},
-        {"type": "instruction", "step": 1, "text": "Carry the tray to the table. 'Today we are going to pour rice!'"},
-        {"type": "instruction", "step": 2, "text": "Pick up the full bowl carefully with both hands. Pour the rice slowly into the empty bowl."},
-        {"type": "instruction", "step": 3, "text": "'Listen to the sound! What does the rice sound like?' Pour it back."},
-        {"type": "activity", "prompt": "Practice pouring the rice back and forth 5 times. Try not to spill any grains!", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Use the hand broom to sweep up any spilled rice. Return the tray to the shelf.", "mastery_check": "Can the child pour dry goods with minimal spilling?"}
+        {
+          "type": "title",
+          "heading": "Pouring Dry Goods",
+          "subheading": "Rice Transfer",
+          "image_url": "https://images.pexels.com/photos/6636605/pexels-photo-6636605.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Two small bowls",
+            "Dry rice",
+            "Small tray",
+            "Hand broom and dustpan"
+          ],
+          "setup_instructions": "Fill one bowl about halfway with rice. Place both bowls on the tray."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Carry the tray to the table. 'Today we are going to pour rice!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Pick up the full bowl carefully with both hands. Pour the rice slowly into the empty bowl."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Listen to the sound! What does the rice sound like?' Pour it back."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice pouring the rice back and forth 5 times. Try not to spill any grains!",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Use the hand broom to sweep up any spilled rice. Return the tray to the shelf.",
+          "mastery_check": "Can the child pour dry goods with minimal spilling?"
+        }
       ]
     },
     "parent_notes": "Dry pouring is typically introduced before or alongside water pouring. Rice provides auditory feedback — the child can hear when grains spill. The clean-up process (sweeping spilled rice) is an integral part of the work, not a punishment. You can vary the dry goods: rice, lentils, beans, or pasta provide different weights and sounds.",
@@ -312,16 +743,54 @@
     "instructions": "1. Gather objects: mitten, marble, mushroom (toy), mouse (toy), mug, map.\n2. Name each object clearly.\n3. Play I Spy: 'I spy something that starts with /m/.'\n4. After mastery, mix /s/ and /m/ objects together.\n5. 'I spy something that starts with /s/.' Then switch to /m/.\n6. Celebrate the child's growing sound awareness.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Small objects starting with 'm'", "Previously used 's' objects", "Tray or mat", "Basket"],
+    "materials_needed": [
+      "Small objects starting with 'm'",
+      "Previously used 's' objects",
+      "Tray or mat",
+      "Basket"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "I Spy", "subheading": "Beginning Sounds — /m/"},
-        {"type": "materials", "items": ["5-6 objects starting with /m/ (mitten, marble, mushroom, mouse, mug, map)", "Objects from /s/ lesson", "Tray"], "setup_instructions": "Arrange the /m/ objects on the tray. Keep /s/ objects in a separate basket for the extension."},
-        {"type": "instruction", "step": 1, "text": "Name each object: 'This is a mitten. This is a marble. This is a mushroom...'"},
-        {"type": "instruction", "step": 2, "text": "'I spy something that starts with mmm.' Emphasize the /m/ sound (humming)."},
-        {"type": "instruction", "step": 3, "text": "When comfortable, add the /s/ objects. Now the child must listen carefully to distinguish /s/ from /m/."},
-        {"type": "activity", "prompt": "Sort the objects into two groups: /s/ objects and /m/ objects!", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Return everything to the baskets. 'You know two sounds now — /s/ and /m/!'", "mastery_check": "Can the child distinguish /s/ and /m/ beginning sounds?"}
+        {
+          "type": "title",
+          "heading": "I Spy",
+          "subheading": "Beginning Sounds — /m/",
+          "image_url": "https://images.pexels.com/photos/1887614/pexels-photo-1887614.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "5-6 objects starting with /m/ (mitten, marble, mushroom, mouse, mug, map)",
+            "Objects from /s/ lesson",
+            "Tray"
+          ],
+          "setup_instructions": "Arrange the /m/ objects on the tray. Keep /s/ objects in a separate basket for the extension."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Name each object: 'This is a mitten. This is a marble. This is a mushroom...'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'I spy something that starts with mmm.' Emphasize the /m/ sound (humming)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "When comfortable, add the /s/ objects. Now the child must listen carefully to distinguish /s/ from /m/."
+        },
+        {
+          "type": "activity",
+          "prompt": "Sort the objects into two groups: /s/ objects and /m/ objects!",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Return everything to the baskets. 'You know two sounds now — /s/ and /m/!'",
+          "mastery_check": "Can the child distinguish /s/ and /m/ beginning sounds?"
+        }
       ]
     },
     "parent_notes": "We introduce /m/ early because it's a continuous sound (you can stretch it: 'mmmm') and it's common in early words (mom, me, my). When mixing two sounds, you're building the child's ability to discriminate — a critical reading skill. Don't rush to add more sounds; mastery of 2-3 is better than exposure to 10.",
@@ -339,17 +808,58 @@
     "instructions": "1. Present sandpaper numeral 1. Trace with two fingers while saying 'one.'\n2. Present numeral 2. Trace while saying 'two.'\n3. Present numeral 3. Trace while saying 'three.'\n4. Three-period lesson for each: naming, recognition, recall.\n5. Match sandpaper numerals to number rods.\n6. Let the child practice tracing independently.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Sandpaper numerals 1, 2, 3", "Number rods 1-3 (for matching)", "Small tray"],
+    "materials_needed": [
+      "Sandpaper numerals 1, 2, 3",
+      "Number rods 1-3 (for matching)",
+      "Small tray"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Sandpaper Numerals", "subheading": "1, 2, and 3"},
-        {"type": "materials", "items": ["Sandpaper numerals 1, 2, 3", "Number rods 1-3", "Tray"], "setup_instructions": "Place sandpaper numerals face-down on the tray. Have number rods nearby."},
-        {"type": "instruction", "step": 1, "text": "Turn over numeral 1. Trace it with two fingers, top to bottom. Say 'one.' Repeat 3 times."},
-        {"type": "instruction", "step": 2, "text": "Turn over numeral 2. Trace while saying 'two.' Then numeral 3: trace and say 'three.'"},
-        {"type": "instruction", "step": 3, "text": "Three-period lesson: 'This is one.' 'Show me two.' 'What number is this?'"},
-        {"type": "instruction", "step": 4, "text": "Match: Place numeral 1 next to rod 1. 'This symbol means one, and this rod shows one.'"},
-        {"type": "activity", "prompt": "Match all three numerals to their rods. Then trace each numeral 3 more times.", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Return materials to the shelf. 'You can write 1, 2, and 3!'", "mastery_check": "Can the child trace and name numerals 1, 2, and 3?"}
+        {
+          "type": "title",
+          "heading": "Sandpaper Numerals",
+          "subheading": "1, 2, and 3",
+          "image_url": "https://images.pexels.com/photos/6692940/pexels-photo-6692940.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sandpaper numerals 1, 2, 3",
+            "Number rods 1-3",
+            "Tray"
+          ],
+          "setup_instructions": "Place sandpaper numerals face-down on the tray. Have number rods nearby."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Turn over numeral 1. Trace it with two fingers, top to bottom. Say 'one.' Repeat 3 times."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Turn over numeral 2. Trace while saying 'two.' Then numeral 3: trace and say 'three.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Three-period lesson: 'This is one.' 'Show me two.' 'What number is this?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Match: Place numeral 1 next to rod 1. 'This symbol means one, and this rod shows one.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Match all three numerals to their rods. Then trace each numeral 3 more times.",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Return materials to the shelf. 'You can write 1, 2, and 3!'",
+          "mastery_check": "Can the child trace and name numerals 1, 2, and 3?"
+        }
       ]
     },
     "parent_notes": "Sandpaper numerals work the same way as sandpaper letters — the child learns through touch, sight, and sound simultaneously. Always trace in the correct formation direction. Match numerals to rods to connect the abstract symbol with the concrete quantity. You can make DIY sandpaper numerals by cutting numbers from sandpaper and gluing to cardboard.",
@@ -367,16 +877,52 @@
     "instructions": "1. Present the colored globe.\n2. Point to each continent and say its name slowly.\n3. Focus on 2-3 continents today: North America, South America, Africa.\n4. Sing a continent song if desired.\n5. Ask: 'We live on this continent — North America!'\n6. Let the child spin the globe and point to continents they remember.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Montessori colored globe", "Continent labels (optional)", "World puzzle map (optional)"],
+    "materials_needed": [
+      "Montessori colored globe",
+      "Continent labels (optional)",
+      "World puzzle map (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Globe", "subheading": "Meet the Continents"},
-        {"type": "materials", "items": ["Colored Montessori globe", "Optional: continent name labels"], "setup_instructions": "Place the globe on the table at the child's eye level."},
-        {"type": "instruction", "step": 1, "text": "Spin the globe gently. 'This is our whole world! There are seven big pieces of land called continents.'"},
-        {"type": "instruction", "step": 2, "text": "Point to North America (orange): 'This is North America. We live here!' Let the child touch it."},
-        {"type": "instruction", "step": 3, "text": "Point to South America (pink): 'This is South America. It's connected to North America.' Point to Africa (green): 'This is Africa. It's very big!'"},
-        {"type": "activity", "prompt": "'Can you find North America? Where is Africa?' Let the child point to the continents on the globe.", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "'Today we learned three continents: North America, South America, and Africa. Next time we'll meet more!'", "mastery_check": "Can the child point to and name at least 2 of the 3 continents introduced?"}
+        {
+          "type": "title",
+          "heading": "The Globe",
+          "subheading": "Meet the Continents",
+          "image_url": "https://images.pexels.com/photos/5299821/pexels-photo-5299821.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Colored Montessori globe",
+            "Optional: continent name labels"
+          ],
+          "setup_instructions": "Place the globe on the table at the child's eye level."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Spin the globe gently. 'This is our whole world! There are seven big pieces of land called continents.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Point to North America (orange): 'This is North America. We live here!' Let the child touch it."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Point to South America (pink): 'This is South America. It's connected to North America.' Point to Africa (green): 'This is Africa. It's very big!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "'Can you find North America? Where is Africa?' Let the child point to the continents on the globe.",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Today we learned three continents: North America, South America, and Africa. Next time we'll meet more!'",
+          "mastery_check": "Can the child point to and name at least 2 of the 3 continents introduced?"
+        }
       ]
     },
     "parent_notes": "Montessori introduces geography early and concretely — children are naturally fascinated by the whole world. Each continent has a traditional Montessori color (North America = orange, South America = pink, Europe = red, Asia = yellow, Africa = green, Australia = brown, Antarctica = white). Don't expect mastery of all seven at once; we'll review throughout the year.",
@@ -394,16 +940,51 @@
     "instructions": "1. Recite 'Jack and Jill' slowly. Use hand motions.\n2. Repeat line by line, having the child echo.\n3. Recite together 2-3 times.\n4. Move to 'Humpty Dumpty.' Recite with dramatic expression.\n5. Let the child act it out: sit on a 'wall' (chair), pretend to fall.\n6. Recite both rhymes together at the end.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Nursery rhyme book (optional)", "Props: small pail for Jack and Jill, egg for Humpty Dumpty (optional)"],
+    "materials_needed": [
+      "Nursery rhyme book (optional)",
+      "Props: small pail for Jack and Jill, egg for Humpty Dumpty (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Nursery Rhymes", "subheading": "Jack and Jill & Humpty Dumpty"},
-        {"type": "materials", "items": ["Optional: nursery rhyme picture book", "Optional: small pail, plastic egg"], "setup_instructions": "Sit together in a comfortable spot. Face the child so they can see your mouth and expressions."},
-        {"type": "instruction", "step": 1, "text": "Recite 'Jack and Jill went up the hill...' slowly. Use hand motions: walking fingers up, tumbling down."},
-        {"type": "instruction", "step": 2, "text": "Repeat line by line. You say a line, the child echoes it. Then say the whole rhyme together."},
-        {"type": "instruction", "step": 3, "text": "Now 'Humpty Dumpty sat on a wall...' Use dramatic expressions — gasp when he falls!"},
-        {"type": "activity", "prompt": "Act out Humpty Dumpty! Sit on a chair (the wall), then slide off gently (the fall). Can you put Humpty together again?", "duration_minutes": 5},
-        {"type": "wrap_up", "text": "Recite both rhymes together one more time. 'You learned two rhymes today!'", "mastery_check": "Can the child recite most of at least one rhyme independently?"}
+        {
+          "type": "title",
+          "heading": "Nursery Rhymes",
+          "subheading": "Jack and Jill & Humpty Dumpty",
+          "image_url": "https://images.pexels.com/photos/8466915/pexels-photo-8466915.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Optional: nursery rhyme picture book",
+            "Optional: small pail, plastic egg"
+          ],
+          "setup_instructions": "Sit together in a comfortable spot. Face the child so they can see your mouth and expressions."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Recite 'Jack and Jill went up the hill...' slowly. Use hand motions: walking fingers up, tumbling down."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Repeat line by line. You say a line, the child echoes it. Then say the whole rhyme together."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Now 'Humpty Dumpty sat on a wall...' Use dramatic expressions — gasp when he falls!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Act out Humpty Dumpty! Sit on a chair (the wall), then slide off gently (the fall). Can you put Humpty together again?",
+          "duration_minutes": 5
+        },
+        {
+          "type": "wrap_up",
+          "text": "Recite both rhymes together one more time. 'You learned two rhymes today!'",
+          "mastery_check": "Can the child recite most of at least one rhyme independently?"
+        }
       ]
     },
     "parent_notes": "Nursery rhymes are language gold. They build phonological awareness (hearing rhyme and rhythm), vocabulary, and memory. Research shows children who know nursery rhymes become better readers. Don't worry about perfect recitation — the rhythm and rhyme are what matter. Add hand motions and acting to make them memorable and fun.",
@@ -421,16 +1002,55 @@
     "instructions": "1. Place two bowls on a tray — one filled with cotton balls (or pom-poms), one empty.\n2. Demonstrate picking up one object with the tongs.\n3. Transfer it to the empty bowl.\n4. Show the child the proper grip on the tongs.\n5. Let the child transfer all objects.\n6. When finished, transfer them back.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Small tray", "Two bowls", "Child-sized tongs", "Cotton balls or pom-poms (10-15)"],
+    "materials_needed": [
+      "Small tray",
+      "Two bowls",
+      "Child-sized tongs",
+      "Cotton balls or pom-poms (10-15)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Transferring", "subheading": "Using Tongs"},
-        {"type": "materials", "items": ["Two small bowls", "Child-sized tongs", "Cotton balls or pom-poms", "Small tray"], "setup_instructions": "Place cotton balls in one bowl. Set both bowls and tongs on the tray."},
-        {"type": "instruction", "step": 1, "text": "'Today we're going to use tongs to move these cotton balls.' Show the tongs."},
-        {"type": "instruction", "step": 2, "text": "Demonstrate: squeeze the tongs to open, grab one cotton ball, carry it over, release into the empty bowl."},
-        {"type": "instruction", "step": 3, "text": "'Your turn! Squeeze, pick up, carry, and release. One at a time.'"},
-        {"type": "activity", "prompt": "Transfer all the cotton balls. Then transfer them back! How fast can you do it carefully?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Return the tray to the shelf. 'Your hands are getting stronger!'", "mastery_check": "Can the child successfully transfer objects using tongs?"}
+        {
+          "type": "title",
+          "heading": "Transferring",
+          "subheading": "Using Tongs",
+          "image_url": "https://images.pexels.com/photos/6857798/pexels-photo-6857798.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Two small bowls",
+            "Child-sized tongs",
+            "Cotton balls or pom-poms",
+            "Small tray"
+          ],
+          "setup_instructions": "Place cotton balls in one bowl. Set both bowls and tongs on the tray."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today we're going to use tongs to move these cotton balls.' Show the tongs."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Demonstrate: squeeze the tongs to open, grab one cotton ball, carry it over, release into the empty bowl."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Your turn! Squeeze, pick up, carry, and release. One at a time.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Transfer all the cotton balls. Then transfer them back! How fast can you do it carefully?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Return the tray to the shelf. 'Your hands are getting stronger!'",
+          "mastery_check": "Can the child successfully transfer objects using tongs?"
+        }
       ]
     },
     "parent_notes": "Tong work is brilliant for developing the pincer grip and hand strength needed for writing. Start with large, light objects (cotton balls) and gradually move to smaller items (beads, beans). Kitchen tongs, strawberry hullers, or tweezers all work. This is a wonderful independent activity once demonstrated — put it on a shelf for the child to choose freely.",
@@ -448,17 +1068,59 @@
     "instructions": "1. Present sandpaper letter 'm'.\n2. Trace with two fingers while saying '/m/' (humming sound).\n3. Repeat 3 times.\n4. Child traces while saying the sound.\n5. Three-period lesson: naming, recognition, recall.\n6. Review: show both 's' and 'm'. 'Which one says /m/? Which says /s/?'",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Sandpaper letter 'm'", "Sandpaper letter 's' (for review)", "Sand tray (optional)", "Small tray"],
+    "materials_needed": [
+      "Sandpaper letter 'm'",
+      "Sandpaper letter 's' (for review)",
+      "Sand tray (optional)",
+      "Small tray"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Sandpaper Letter", "subheading": "The Sound /m/"},
-        {"type": "materials", "items": ["Sandpaper letter 'm'", "Sandpaper letter 's' for review", "Sand tray (optional)"], "setup_instructions": "Place sandpaper letter 'm' on the tray. Keep 's' nearby for the review portion."},
-        {"type": "instruction", "step": 1, "text": "'Today we have a new sound!' Trace 'm' with two fingers: 'mmm.' Repeat 3 times."},
-        {"type": "instruction", "step": 2, "text": "Guide the child's hand: 'Now you trace it. Say mmm as you trace.'"},
-        {"type": "instruction", "step": 3, "text": "Three-period lesson: 'This says /m/.' 'Show me /m/.' 'What sound does this make?'"},
-        {"type": "instruction", "step": 4, "text": "Review: Place 's' and 'm' side by side. 'Which one says /s/?' 'Which one says /m/?' Scramble and repeat."},
-        {"type": "activity", "prompt": "Trace both letters 3 times each. Try writing /m/ in the sand tray!", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'You know two letters now — /s/ and /m/!'", "mastery_check": "Can the child distinguish /s/ and /m/ sandpaper letters?"}
+        {
+          "type": "title",
+          "heading": "Sandpaper Letter",
+          "subheading": "The Sound /m/",
+          "image_url": "https://images.pexels.com/photos/1822568/pexels-photo-1822568.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sandpaper letter 'm'",
+            "Sandpaper letter 's' for review",
+            "Sand tray (optional)"
+          ],
+          "setup_instructions": "Place sandpaper letter 'm' on the tray. Keep 's' nearby for the review portion."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today we have a new sound!' Trace 'm' with two fingers: 'mmm.' Repeat 3 times."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Guide the child's hand: 'Now you trace it. Say mmm as you trace.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Three-period lesson: 'This says /m/.' 'Show me /m/.' 'What sound does this make?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Review: Place 's' and 'm' side by side. 'Which one says /s/?' 'Which one says /m/?' Scramble and repeat."
+        },
+        {
+          "type": "activity",
+          "prompt": "Trace both letters 3 times each. Try writing /m/ in the sand tray!",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You know two letters now — /s/ and /m/!'",
+          "mastery_check": "Can the child distinguish /s/ and /m/ sandpaper letters?"
+        }
       ]
     },
     "parent_notes": "We introduce letters in a specific order based on frequency and ease of writing/sounding. Consonants and vowels are typically on different colored backgrounds (pink for consonants, blue for vowels in many sets). Reviewing previously learned letters each time builds long-term memory. Keep sessions short and joyful — stop before the child loses interest.",
@@ -476,16 +1138,51 @@
     "instructions": "1. Review rods 1-5 briefly.\n2. Introduce rod 6. Count each segment together: 'One, two, three, four, five, six.'\n3. Introduce rod 7. Count together.\n4. Build the full stair (1-7).\n5. Compare: 'Which is longer, 5 or 7? How many more does 7 have?'\n6. Three-period lesson for 6 and 7.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Number rods (1-7)", "Floor mat"],
+    "materials_needed": [
+      "Number rods (1-7)",
+      "Floor mat"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Number Rods", "subheading": "Extending to 6 and 7"},
-        {"type": "materials", "items": ["Number rods 1-7", "Large floor mat"], "setup_instructions": "Have all rods 1-7 available. Begin with a quick review of 1-5."},
-        {"type": "instruction", "step": 1, "text": "Review: Build the stair 1-5 together. Count each rod to refresh."},
-        {"type": "instruction", "step": 2, "text": "Introduce rod 6: 'Here's a new rod! Let's count.' Touch each segment: 'One, two, three, four, five, six!'"},
-        {"type": "instruction", "step": 3, "text": "Introduce rod 7. Count together. Place both new rods in the stair."},
-        {"type": "activity", "prompt": "Build the stair from 1 to 7! Then play: 'Show me six!' 'Which rod has seven?'", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Return rods carefully. 'You can count all the way to seven!'", "mastery_check": "Can the child count and order rods 1-7?"}
+        {
+          "type": "title",
+          "heading": "Number Rods",
+          "subheading": "Extending to 6 and 7",
+          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Number rods 1-7",
+            "Large floor mat"
+          ],
+          "setup_instructions": "Have all rods 1-7 available. Begin with a quick review of 1-5."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: Build the stair 1-5 together. Count each rod to refresh."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce rod 6: 'Here's a new rod! Let's count.' Touch each segment: 'One, two, three, four, five, six!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Introduce rod 7. Count together. Place both new rods in the stair."
+        },
+        {
+          "type": "activity",
+          "prompt": "Build the stair from 1 to 7! Then play: 'Show me six!' 'Which rod has seven?'",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Return rods carefully. 'You can count all the way to seven!'",
+          "mastery_check": "Can the child count and order rods 1-7?"
+        }
       ]
     },
     "parent_notes": "We extend gradually: 1-5 first, then 6-7, then 8-10 next week. This respects the child's working memory. Comparing rods builds the foundation for subtraction. 'How many more does 7 have than 5?' is an early subtraction concept, though we don't name it as such yet.",
@@ -503,16 +1200,54 @@
     "instructions": "1. Show the land/water form trays for island and lake.\n2. Pour water into each. 'An island is land surrounded by water. A lake is water surrounded by land.'\n3. Let the child pour water and observe.\n4. Make an island and a lake with clay in a baking dish.\n5. Draw an island and a lake.\n6. 'They are opposites!'",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Land/water form trays (island and lake)", "Small pitcher of water", "Clay (optional)", "Drawing paper and blue crayon"],
+    "materials_needed": [
+      "Land/water form trays (island and lake)",
+      "Small pitcher of water",
+      "Clay (optional)",
+      "Drawing paper and blue crayon"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Land and Water Forms", "subheading": "Island and Lake"},
-        {"type": "materials", "items": ["Island and lake form trays (or DIY with clay and baking dishes)", "Pitcher of water", "Blue crayon and paper"], "setup_instructions": "Set up the trays on a towel. Have water and drawing materials ready."},
-        {"type": "instruction", "step": 1, "text": "Show the island tray: 'This is an island. An island is land surrounded by water.' Pour water around it."},
-        {"type": "instruction", "step": 2, "text": "Show the lake tray: 'This is a lake. A lake is water surrounded by land.' Pour water into it."},
-        {"type": "instruction", "step": 3, "text": "'Island and lake are opposites! An island has land in the middle. A lake has water in the middle.'"},
-        {"type": "activity", "prompt": "Draw an island: color water (blue) around a piece of land. Draw a lake: color water (blue) in the middle of land.", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'You learned two land and water forms today — island and lake!'", "mastery_check": "Can the child define and distinguish island and lake?"}
+        {
+          "type": "title",
+          "heading": "Land and Water Forms",
+          "subheading": "Island and Lake",
+          "image_url": "https://images.pexels.com/photos/8926461/pexels-photo-8926461.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Island and lake form trays (or DIY with clay and baking dishes)",
+            "Pitcher of water",
+            "Blue crayon and paper"
+          ],
+          "setup_instructions": "Set up the trays on a towel. Have water and drawing materials ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the island tray: 'This is an island. An island is land surrounded by water.' Pour water around it."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the lake tray: 'This is a lake. A lake is water surrounded by land.' Pour water into it."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Island and lake are opposites! An island has land in the middle. A lake has water in the middle.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw an island: color water (blue) around a piece of land. Draw a lake: color water (blue) in the middle of land.",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You learned two land and water forms today — island and lake!'",
+          "mastery_check": "Can the child define and distinguish island and lake?"
+        }
       ]
     },
     "parent_notes": "Montessori always presents land and water forms in pairs of opposites: island/lake, peninsula/gulf, isthmus/strait, etc. This helps the child understand the relationship between land and water. You can make DIY trays using air-dry clay in shallow baking dishes — mold the land form and let it dry, then add water for the lesson.",
@@ -530,16 +1265,54 @@
     "instructions": "1. Gather simple instruments: a bell, a drum or pot, a shaker.\n2. Demonstrate loud sounds and soft sounds.\n3. 'This is LOUD.' (strike drum hard) 'This is soft.' (tap gently)\n4. Let the child experiment with each instrument.\n5. Play 'Loud or Soft': you play, the child identifies.\n6. Take turns: child plays, parent identifies.",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Small bell", "Drum or overturned pot", "Shaker or maraca", "Spoon for striking"],
+    "materials_needed": [
+      "Small bell",
+      "Drum or overturned pot",
+      "Shaker or maraca",
+      "Spoon for striking"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Music Exploration", "subheading": "Loud and Soft"},
-        {"type": "materials", "items": ["Small bell", "Drum or pot with spoon", "Shaker"], "setup_instructions": "Arrange instruments on a table or mat. Ensure a quiet environment so sounds are clear."},
-        {"type": "instruction", "step": 1, "text": "'Today we're going to explore sounds! Listen carefully.' Ring the bell softly, then loudly."},
-        {"type": "instruction", "step": 2, "text": "'That was SOFT.' (whisper) Ring again gently. 'That was LOUD!' (speak normally) Ring hard."},
-        {"type": "instruction", "step": 3, "text": "Let the child try each instrument. 'Can you make a soft sound? Now a loud sound?'"},
-        {"type": "activity", "prompt": "Play 'Loud or Soft': close your eyes and listen. Is the sound loud or soft? Take turns!", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "'We learned about loud and soft today. Music is all about how sounds change!'", "mastery_check": "Can the child produce and identify loud versus soft sounds?"}
+        {
+          "type": "title",
+          "heading": "Music Exploration",
+          "subheading": "Loud and Soft",
+          "image_url": "https://images.pexels.com/photos/8612991/pexels-photo-8612991.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Small bell",
+            "Drum or pot with spoon",
+            "Shaker"
+          ],
+          "setup_instructions": "Arrange instruments on a table or mat. Ensure a quiet environment so sounds are clear."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today we're going to explore sounds! Listen carefully.' Ring the bell softly, then loudly."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'That was SOFT.' (whisper) Ring again gently. 'That was LOUD!' (speak normally) Ring hard."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Let the child try each instrument. 'Can you make a soft sound? Now a loud sound?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Play 'Loud or Soft': close your eyes and listen. Is the sound loud or soft? Take turns!",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "'We learned about loud and soft today. Music is all about how sounds change!'",
+          "mastery_check": "Can the child produce and identify loud versus soft sounds?"
+        }
       ]
     },
     "parent_notes": "In a Montessori classroom, the bells are a specialized material for teaching pitch discrimination. At home, we begin with simpler concepts: loud/soft (dynamics). Household items work perfectly. This lays groundwork for later music appreciation. Keep the atmosphere calm and listening-focused, even when making loud sounds — it's about conscious control of sound.",
@@ -557,17 +1330,56 @@
     "instructions": "1. Carry each prism to the mat one at a time.\n2. Scatter the prisms on the mat.\n3. Find the thickest prism. Place it at the left.\n4. Find the next thickest. Place it next to the first.\n5. Continue until all 10 prisms form a stair.\n6. Run fingers along the stair to feel the graduation.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Brown Stair (10 prisms)", "Floor mat or work rug"],
+    "materials_needed": [
+      "Brown Stair (10 prisms)",
+      "Floor mat or work rug"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Brown Stair", "subheading": "Thick to Thin"},
-        {"type": "materials", "items": ["Brown Stair — 10 graduated prisms", "Large floor mat"], "setup_instructions": "Place the mat on the floor. Carry prisms one at a time."},
-        {"type": "instruction", "step": 1, "text": "Carry the thickest prism first. Wrap both hands around it. 'Feel how thick this one is!'"},
-        {"type": "instruction", "step": 2, "text": "Scatter all prisms on the mat. 'Now let's find the thickest one and build a stair.'"},
-        {"type": "instruction", "step": 3, "text": "Place the thickest at the left. Find the next thickest. Place it beside the first. Continue."},
-        {"type": "instruction", "step": 4, "text": "When complete, run your hand along the top — feel the stair stepping down from thick to thin."},
-        {"type": "activity", "prompt": "Mix them up and build the stair again! Can you do it by yourself this time?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Carry each prism back to the shelf. 'You built the Brown Stair!'", "mastery_check": "Can the child arrange prisms from thickest to thinnest?"}
+        {
+          "type": "title",
+          "heading": "The Brown Stair",
+          "subheading": "Thick to Thin",
+          "image_url": "https://images.pexels.com/photos/4863034/pexels-photo-4863034.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Brown Stair — 10 graduated prisms",
+            "Large floor mat"
+          ],
+          "setup_instructions": "Place the mat on the floor. Carry prisms one at a time."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Carry the thickest prism first. Wrap both hands around it. 'Feel how thick this one is!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Scatter all prisms on the mat. 'Now let's find the thickest one and build a stair.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Place the thickest at the left. Find the next thickest. Place it beside the first. Continue."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "When complete, run your hand along the top — feel the stair stepping down from thick to thin."
+        },
+        {
+          "type": "activity",
+          "prompt": "Mix them up and build the stair again! Can you do it by yourself this time?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Carry each prism back to the shelf. 'You built the Brown Stair!'",
+          "mastery_check": "Can the child arrange prisms from thickest to thinnest?"
+        }
       ]
     },
     "parent_notes": "The Brown Stair isolates the concept of WIDTH (or thickness). While the Pink Tower changes in 3 dimensions, the Brown Stair changes in only 2 (width and height remain equal while length stays constant). This precision teaches the child to discriminate a single attribute. If you don't have the official material, you can use blocks or boxes of graduated widths.",
@@ -585,17 +1397,60 @@
     "instructions": "1. Select the circle metal inset and its frame.\n2. Place the frame on the paper. Hold firmly. Trace the inside of the frame with a colored pencil.\n3. Remove the frame. Place the inset inside the traced shape. Trace around the inset with a different color.\n4. Show the child: the two lines should overlap.\n5. Fill in the shape with parallel lines using a third color.\n6. Let the child practice independently.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Metal inset — circle (frame and inset)", "Paper cut to inset size", "3 colored pencils", "Tray"],
+    "materials_needed": [
+      "Metal inset — circle (frame and inset)",
+      "Paper cut to inset size",
+      "3 colored pencils",
+      "Tray"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Metal Insets", "subheading": "Circle — Pencil Control"},
-        {"type": "materials", "items": ["Circle metal inset (frame + inset piece)", "Paper squares", "3 colored pencils", "Tray"], "setup_instructions": "Place the frame and inset on a tray with paper and pencils. Choose 3 different colors."},
-        {"type": "instruction", "step": 1, "text": "Place the metal frame on the paper. Hold it firmly with one hand. 'We're going to trace inside the frame.'"},
-        {"type": "instruction", "step": 2, "text": "With the first color, trace slowly around the inside of the frame. Lift the frame — you drew a circle!"},
-        {"type": "instruction", "step": 3, "text": "Now place the inset inside the traced circle. With a second color, trace around the inset."},
-        {"type": "instruction", "step": 4, "text": "With a third color, fill the shape with parallel lines — left to right, close together, staying inside the lines."},
-        {"type": "activity", "prompt": "Make your own metal inset design! Trace, outline, and fill with parallel lines.", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "'Beautiful work! Your hand is getting ready for writing.' Display the design.", "mastery_check": "Can the child trace the frame and attempt to fill with parallel lines?"}
+        {
+          "type": "title",
+          "heading": "Metal Insets",
+          "subheading": "Circle — Pencil Control",
+          "image_url": "https://images.pexels.com/photos/1275235/pexels-photo-1275235.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Circle metal inset (frame + inset piece)",
+            "Paper squares",
+            "3 colored pencils",
+            "Tray"
+          ],
+          "setup_instructions": "Place the frame and inset on a tray with paper and pencils. Choose 3 different colors."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Place the metal frame on the paper. Hold it firmly with one hand. 'We're going to trace inside the frame.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "With the first color, trace slowly around the inside of the frame. Lift the frame — you drew a circle!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Now place the inset inside the traced circle. With a second color, trace around the inset."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "With a third color, fill the shape with parallel lines — left to right, close together, staying inside the lines."
+        },
+        {
+          "type": "activity",
+          "prompt": "Make your own metal inset design! Trace, outline, and fill with parallel lines.",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "'Beautiful work! Your hand is getting ready for writing.' Display the design.",
+          "mastery_check": "Can the child trace the frame and attempt to fill with parallel lines?"
+        }
       ]
     },
     "parent_notes": "Metal insets are Montessori's indirect preparation for handwriting. The child practices the precise pencil control needed for letter formation without writing actual letters. The three steps (trace frame, trace inset, fill with lines) develop the skills of grip, pressure, and controlled movement. If you don't have metal insets, use stencils or cookie cutters as templates.",
@@ -613,17 +1468,58 @@
     "instructions": "1. Review sandpaper numerals 1, 2, 3 quickly.\n2. Introduce numeral 4. Trace while saying 'four.' Three-period lesson.\n3. Introduce numeral 5. Trace while saying 'five.' Three-period lesson.\n4. Lay out all 5 numerals. Random recall: 'Show me 3.' 'What is this?'\n5. Match all 5 numerals to number rods.\n6. Let the child trace and match independently.",
     "duration_minutes": 30,
     "lesson_type": "guided",
-    "materials_needed": ["Sandpaper numerals 1-5", "Number rods 1-5", "Small tray"],
+    "materials_needed": [
+      "Sandpaper numerals 1-5",
+      "Number rods 1-5",
+      "Small tray"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Sandpaper Numerals", "subheading": "4 and 5 — Plus Review"},
-        {"type": "materials", "items": ["Sandpaper numerals 1-5", "Number rods 1-5", "Tray"], "setup_instructions": "Have numerals 1-3 ready for quick review. Keep 4 and 5 face-down for introduction."},
-        {"type": "instruction", "step": 1, "text": "Quick review: show 1, 2, 3 one at a time. 'What sound does this make?' (number name)"},
-        {"type": "instruction", "step": 2, "text": "Introduce 4: trace with two fingers, say 'four.' Child traces and repeats. Three-period lesson."},
-        {"type": "instruction", "step": 3, "text": "Introduce 5: trace and say 'five.' Child traces. Three-period lesson."},
-        {"type": "instruction", "step": 4, "text": "All 5 numerals on the table. Shuffle. 'Show me four!' 'What number is this?'"},
-        {"type": "activity", "prompt": "Match each numeral to its number rod. Line them up: numeral card next to its rod.", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "'You know all the numerals from 1 to 5! Great work this week!'", "mastery_check": "Can the child recognize, name, and match numerals 1-5?"}
+        {
+          "type": "title",
+          "heading": "Sandpaper Numerals",
+          "subheading": "4 and 5 — Plus Review",
+          "image_url": "https://images.pexels.com/photos/6693302/pexels-photo-6693302.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sandpaper numerals 1-5",
+            "Number rods 1-5",
+            "Tray"
+          ],
+          "setup_instructions": "Have numerals 1-3 ready for quick review. Keep 4 and 5 face-down for introduction."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Quick review: show 1, 2, 3 one at a time. 'What sound does this make?' (number name)"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce 4: trace with two fingers, say 'four.' Child traces and repeats. Three-period lesson."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Introduce 5: trace and say 'five.' Child traces. Three-period lesson."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "All 5 numerals on the table. Shuffle. 'Show me four!' 'What number is this?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Match each numeral to its number rod. Line them up: numeral card next to its rod.",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "'You know all the numerals from 1 to 5! Great work this week!'",
+          "mastery_check": "Can the child recognize, name, and match numerals 1-5?"
+        }
       ]
     },
     "parent_notes": "By the end of week 1, your child should be comfortable with numerals 1-5 and number rods 1-7. The matching exercise (placing numeral cards next to rods) connects the abstract symbol to the concrete quantity — this is fundamental to mathematical thinking. Review frequently throughout the week, making it feel like a fun game rather than a test.",
@@ -641,16 +1537,55 @@
     "instructions": "1. Gather items from the nature walk and some household objects.\n2. Introduce the concept: 'Some things are alive — they grow, breathe, and need food and water. Some things are not alive.'\n3. Hold up a leaf: 'Is this living or non-living? It came from a living tree!'\n4. Hold up a rock: 'This is non-living. It doesn't grow or eat.'\n5. Sort all items into two groups.\n6. Discuss tricky items (a wooden spoon: non-living, but it came from a living tree).",
     "duration_minutes": 20,
     "lesson_type": "guided",
-    "materials_needed": ["Nature walk items (leaves, rocks, sticks)", "Household items (spoon, coin, fabric)", "Two sorting mats or plates", "Labels: 'Living' and 'Non-Living'"],
+    "materials_needed": [
+      "Nature walk items (leaves, rocks, sticks)",
+      "Household items (spoon, coin, fabric)",
+      "Two sorting mats or plates",
+      "Labels: 'Living' and 'Non-Living'"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Living and Non-Living", "subheading": "Sorting Our World"},
-        {"type": "materials", "items": ["Items from nature walk", "Household objects", "Two sorting mats", "Labels: Living / Non-Living"], "setup_instructions": "Set up two mats with labels. Gather 8-10 items to sort."},
-        {"type": "instruction", "step": 1, "text": "'Everything in our world is either LIVING or NON-LIVING. Living things grow, breathe, eat, and drink water.'"},
-        {"type": "instruction", "step": 2, "text": "Hold up a leaf: 'This came from a tree. Trees are living! They grow and need water.' Place on 'Living' mat."},
-        {"type": "instruction", "step": 3, "text": "Hold up a rock: 'Does a rock grow? Does it eat? No! Rocks are non-living.' Place on 'Non-Living' mat."},
-        {"type": "activity", "prompt": "Sort all the items! Pick up each one and decide: living or non-living? Place it on the right mat.", "duration_minutes": 8},
-        {"type": "wrap_up", "text": "Review: point to each sorted item. 'Why is this living? Why is this non-living?'", "mastery_check": "Can the child correctly sort 6 out of 8 items?"}
+        {
+          "type": "title",
+          "heading": "Living and Non-Living",
+          "subheading": "Sorting Our World",
+          "image_url": "https://images.pexels.com/photos/7457518/pexels-photo-7457518.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Items from nature walk",
+            "Household objects",
+            "Two sorting mats",
+            "Labels: Living / Non-Living"
+          ],
+          "setup_instructions": "Set up two mats with labels. Gather 8-10 items to sort."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Everything in our world is either LIVING or NON-LIVING. Living things grow, breathe, eat, and drink water.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Hold up a leaf: 'This came from a tree. Trees are living! They grow and need water.' Place on 'Living' mat."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Hold up a rock: 'Does a rock grow? Does it eat? No! Rocks are non-living.' Place on 'Non-Living' mat."
+        },
+        {
+          "type": "activity",
+          "prompt": "Sort all the items! Pick up each one and decide: living or non-living? Place it on the right mat.",
+          "duration_minutes": 8
+        },
+        {
+          "type": "wrap_up",
+          "text": "Review: point to each sorted item. 'Why is this living? Why is this non-living?'",
+          "mastery_check": "Can the child correctly sort 6 out of 8 items?"
+        }
       ]
     },
     "parent_notes": "This is the child's first classification in science. Keep it simple: living things grow, eat, breathe, and reproduce. Dead things (like a dried leaf) can be discussed as 'it WAS living.' Some items are intentionally tricky — a wooden table is non-living but came from a living tree. These conversations build critical thinking. Don't expect perfection; the discussion is the learning.",
@@ -668,16 +1603,55 @@
     "instructions": "1. Collect 3-5 different leaves (various shapes and sizes).\n2. Place a leaf vein-side up under a piece of paper.\n3. Hold the paper still with one hand.\n4. Rub the side of a crayon over the paper — the leaf pattern appears!\n5. Try different leaves and colors.\n6. Talk about the vein patterns you see.",
     "duration_minutes": 20,
     "lesson_type": "independent",
-    "materials_needed": ["Assorted leaves (fresh, flat)", "White paper", "Crayons (wrappers removed)", "Tape (optional, to hold leaves in place)"],
+    "materials_needed": [
+      "Assorted leaves (fresh, flat)",
+      "White paper",
+      "Crayons (wrappers removed)",
+      "Tape (optional, to hold leaves in place)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Seasonal Art", "subheading": "Fall Leaf Rubbings"},
-        {"type": "materials", "items": ["Fresh leaves (various shapes)", "White paper", "Crayons with wrappers removed", "Optional: tape"], "setup_instructions": "Collect leaves beforehand. Remove crayon wrappers so the side can be used for rubbing."},
-        {"type": "instruction", "step": 1, "text": "Place a leaf on the table with the vein side UP. Lay paper on top. (Tape corners if needed.)"},
-        {"type": "instruction", "step": 2, "text": "Hold the paper still. Rub the side of the crayon gently back and forth over the leaf area."},
-        {"type": "instruction", "step": 3, "text": "'Look! The leaf is appearing! Can you see the veins?' Try another leaf with a different color."},
-        {"type": "activity", "prompt": "Make rubbings of all your leaves. Try using different colors! Which leaf has the most interesting pattern?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Label each leaf rubbing if the child knows the leaf names. Display your leaf art!", "mastery_check": "Can the child produce a recognizable leaf rubbing?"}
+        {
+          "type": "title",
+          "heading": "Seasonal Art",
+          "subheading": "Fall Leaf Rubbings",
+          "image_url": "https://images.pexels.com/photos/8382222/pexels-photo-8382222.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Fresh leaves (various shapes)",
+            "White paper",
+            "Crayons with wrappers removed",
+            "Optional: tape"
+          ],
+          "setup_instructions": "Collect leaves beforehand. Remove crayon wrappers so the side can be used for rubbing."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Place a leaf on the table with the vein side UP. Lay paper on top. (Tape corners if needed.)"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Hold the paper still. Rub the side of the crayon gently back and forth over the leaf area."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Look! The leaf is appearing! Can you see the veins?' Try another leaf with a different color."
+        },
+        {
+          "type": "activity",
+          "prompt": "Make rubbings of all your leaves. Try using different colors! Which leaf has the most interesting pattern?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Label each leaf rubbing if the child knows the leaf names. Display your leaf art!",
+          "mastery_check": "Can the child produce a recognizable leaf rubbing?"
+        }
       ]
     },
     "parent_notes": "Leaf rubbings combine art with botany — the child sees the structure of the leaf (veins, edges) through the art process. This connects to future botany lessons about leaf parts. Use flat, fresh leaves for the best results. Adjust this for your current season — spring leaves, summer leaves, or fall colored leaves all work beautifully. This is a wonderful independent activity once shown.",

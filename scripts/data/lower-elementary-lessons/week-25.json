@@ -10,17 +10,62 @@
     "instructions": "1. Show the child a printed or digital news article written for children.\n2. Read the article together.\n3. Introduce the five W's chart: Who, What, When, Where, Why.\n4. Work through the article together, identifying each W.\n5. Discuss why these questions matter — they give readers the most important information first.\n6. Have the child fill in a Five W's graphic organizer for a second article independently.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Printed child-friendly news articles (2-3)", "Five W's graphic organizer worksheet", "Pencil", "Highlighters in 5 colors", "Notebook"],
+    "materials_needed": [
+      "Printed child-friendly news articles (2-3)",
+      "Five W's graphic organizer worksheet",
+      "Pencil",
+      "Highlighters in 5 colors",
+      "Notebook"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Journalism", "subheading": "The Five W's of News Reporting"},
-        {"type": "materials", "items": ["Printed child-friendly news articles (2-3)", "Five W's graphic organizer", "Pencil", "Highlighters in 5 colors", "Notebook"], "setup_instructions": "Print 2-3 short news articles from a children's news source (e.g., Newsela, Time for Kids). Prepare a Five W's chart with columns: Who, What, When, Where, Why."},
-        {"type": "instruction", "step": 1, "text": "Ask the child: 'Have you ever read a newspaper or watched the news? What do reporters do?' Discuss how journalists share true stories about events happening in the world."},
-        {"type": "instruction", "step": 2, "text": "Read the first article aloud together. Then introduce the Five W's: 'Every good news story answers five important questions. We call them the Five W's.' Write them on the board: Who? What? When? Where? Why?"},
-        {"type": "instruction", "step": 3, "text": "Go back through the article. Assign each W a highlight color. Highlight the WHO (people involved), WHAT (what happened), WHEN (time), WHERE (place), and WHY (reason or cause)."},
-        {"type": "instruction", "step": 4, "text": "Show that most news articles put the most important information in the very first paragraph — this is called the 'lead.' The lead usually answers most of the Five W's right away."},
-        {"type": "activity", "prompt": "Read the second article independently. Use your graphic organizer to identify all Five W's. Can you find them all? Which W's appear in the first paragraph?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Share your Five W's findings. Compare how different articles organize information. Tomorrow you'll start writing your own news articles!", "mastery_check": "Can the child identify all five W's in a news article and explain why the lead paragraph is important?"}
+        {
+          "type": "title",
+          "heading": "Journalism",
+          "subheading": "The Five W's of News Reporting",
+          "image_url": "https://images.pexels.com/photos/1337387/pexels-photo-1337387.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed child-friendly news articles (2-3)",
+            "Five W's graphic organizer",
+            "Pencil",
+            "Highlighters in 5 colors",
+            "Notebook"
+          ],
+          "setup_instructions": "Print 2-3 short news articles from a children's news source (e.g., Newsela, Time for Kids). Prepare a Five W's chart with columns: Who, What, When, Where, Why."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Ask the child: 'Have you ever read a newspaper or watched the news? What do reporters do?' Discuss how journalists share true stories about events happening in the world."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the first article aloud together. Then introduce the Five W's: 'Every good news story answers five important questions. We call them the Five W's.' Write them on the board: Who? What? When? Where? Why?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Go back through the article. Assign each W a highlight color. Highlight the WHO (people involved), WHAT (what happened), WHEN (time), WHERE (place), and WHY (reason or cause)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Show that most news articles put the most important information in the very first paragraph — this is called the 'lead.' The lead usually answers most of the Five W's right away."
+        },
+        {
+          "type": "activity",
+          "prompt": "Read the second article independently. Use your graphic organizer to identify all Five W's. Can you find them all? Which W's appear in the first paragraph?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Share your Five W's findings. Compare how different articles organize information. Tomorrow you'll start writing your own news articles!",
+          "mastery_check": "Can the child identify all five W's in a news article and explain why the lead paragraph is important?"
+        }
       ]
     },
     "parent_notes": "Children's news sources like Time for Kids, Newsela, or DOGOnews provide age-appropriate articles. Choose stories about animals, science discoveries, or community events rather than distressing topics. The Five W's framework is a powerful tool not just for journalism but for all informational writing. Encourage the child to notice news articles in everyday life — even sports reporting uses the Five W's.",
@@ -38,17 +83,64 @@
     "instructions": "1. Show the child a simple bar graph (e.g., 'Favorite Fruits in Our Class').\n2. Identify the parts: title, x-axis (categories), y-axis (numbers), bars.\n3. Model how to read values by tracing from bar top to the y-axis.\n4. Ask comparison questions: 'Which has the most? The least? How many more?'\n5. Provide 2-3 additional bar graphs for independent practice.\n6. Introduce horizontal bar graphs and compare to vertical.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Printed bar graph examples (4-5)", "Ruler", "Pencil", "Graph paper", "Colored pencils", "Question worksheet for each graph"],
+    "materials_needed": [
+      "Printed bar graph examples (4-5)",
+      "Ruler",
+      "Pencil",
+      "Graph paper",
+      "Colored pencils",
+      "Question worksheet for each graph"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Data and Graphing", "subheading": "Reading Bar Graphs"},
-        {"type": "materials", "items": ["Printed bar graph examples (4-5)", "Ruler", "Pencil", "Graph paper", "Colored pencils", "Question worksheet for each graph"], "setup_instructions": "Prepare 4-5 bar graphs at varying difficulty levels. Create a set of 3-4 questions per graph (e.g., 'Which category has the highest value? What is the difference between X and Y?')."},
-        {"type": "instruction", "step": 1, "text": "Show the first bar graph. Say: 'A bar graph is a way to show information using bars. Each bar represents a category, and the height tells us how much or how many.' Point to the title: 'The title tells us what the graph is about.'"},
-        {"type": "instruction", "step": 2, "text": "Identify each part together: the title, the labels on the bottom (categories), the numbers on the side (scale), and the bars themselves. Use a ruler to trace from the top of each bar across to read the exact value."},
-        {"type": "instruction", "step": 3, "text": "Ask questions: 'Which category has the tallest bar? What value does it show? Which has the shortest? What is the difference between the tallest and shortest?' Write out the subtraction to find differences."},
-        {"type": "instruction", "step": 4, "text": "Show a horizontal bar graph. Discuss: 'This shows the same kind of information, but the bars go sideways. Now the categories are on the side and the numbers are on the bottom.' Practice reading it."},
-        {"type": "activity", "prompt": "Read each bar graph and answer the questions on your worksheet. For each graph: identify the highest and lowest categories, calculate differences between bars, and write one observation in a complete sentence.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Review answers together. Discuss: 'Why are bar graphs useful? When would someone use a bar graph instead of just listing numbers?' Tomorrow we'll create our own bar graphs!", "mastery_check": "Can the child accurately read values from both vertical and horizontal bar graphs and calculate differences between categories?"}
+        {
+          "type": "title",
+          "heading": "Data and Graphing",
+          "subheading": "Reading Bar Graphs",
+          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed bar graph examples (4-5)",
+            "Ruler",
+            "Pencil",
+            "Graph paper",
+            "Colored pencils",
+            "Question worksheet for each graph"
+          ],
+          "setup_instructions": "Prepare 4-5 bar graphs at varying difficulty levels. Create a set of 3-4 questions per graph (e.g., 'Which category has the highest value? What is the difference between X and Y?')."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the first bar graph. Say: 'A bar graph is a way to show information using bars. Each bar represents a category, and the height tells us how much or how many.' Point to the title: 'The title tells us what the graph is about.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Identify each part together: the title, the labels on the bottom (categories), the numbers on the side (scale), and the bars themselves. Use a ruler to trace from the top of each bar across to read the exact value."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Ask questions: 'Which category has the tallest bar? What value does it show? Which has the shortest? What is the difference between the tallest and shortest?' Write out the subtraction to find differences."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Show a horizontal bar graph. Discuss: 'This shows the same kind of information, but the bars go sideways. Now the categories are on the side and the numbers are on the bottom.' Practice reading it."
+        },
+        {
+          "type": "activity",
+          "prompt": "Read each bar graph and answer the questions on your worksheet. For each graph: identify the highest and lowest categories, calculate differences between bars, and write one observation in a complete sentence.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Review answers together. Discuss: 'Why are bar graphs useful? When would someone use a bar graph instead of just listing numbers?' Tomorrow we'll create our own bar graphs!",
+          "mastery_check": "Can the child accurately read values from both vertical and horizontal bar graphs and calculate differences between categories?"
+        }
       ]
     },
     "parent_notes": "Bar graphs are a foundational data literacy skill. Start with graphs that use round numbers (increments of 1, 2, 5, or 10) before moving to more complex scales. Real-world examples are everywhere — cereal boxes, magazines, websites. Encourage the child to find bar graphs in daily life. The key skills here are reading exact values and making comparisons (more than, less than, difference).",
@@ -66,17 +158,64 @@
     "instructions": "1. Review the timeline: place the Industrial Revolution (late 1700s-1800s) after the Enlightenment.\n2. Discuss life before factories: most people farmed, made goods by hand, lived in small villages.\n3. Introduce the concept of a factory: many workers making products with machines.\n4. Discuss key inventions: spinning jenny, water frame, power loom.\n5. Compare before-and-after: how long it took to make cloth by hand vs. by machine.\n6. Create a timeline entry and illustrate the transformation.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Timeline of history (wall or notebook)", "Pictures of pre-industrial life and early factories", "Cotton or wool samples", "Drawing paper", "Colored pencils", "Index cards for timeline"],
+    "materials_needed": [
+      "Timeline of history (wall or notebook)",
+      "Pictures of pre-industrial life and early factories",
+      "Cotton or wool samples",
+      "Drawing paper",
+      "Colored pencils",
+      "Index cards for timeline"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Industrial Revolution", "subheading": "From Farm to Factory"},
-        {"type": "materials", "items": ["History timeline", "Pictures of pre-industrial and industrial life", "Cotton or wool samples", "Drawing paper", "Colored pencils", "Index cards"], "setup_instructions": "Prepare pictures showing village life vs. factory life. Have cotton balls or wool samples to touch. Set up the timeline to show where the Industrial Revolution falls."},
-        {"type": "instruction", "step": 1, "text": "Review the timeline together: 'We've studied the Renaissance, the Age of Exploration, the Scientific Revolution, and the Enlightenment. Now we come to one of the biggest changes in human history — the Industrial Revolution. It started in England around 1760.'"},
-        {"type": "instruction", "step": 2, "text": "Describe life before: 'Imagine you live in 1700. Your family farms. Your mother spins thread and weaves cloth by hand. It takes days to make enough fabric for one shirt. Almost everything you use is made by hand in your village.'"},
-        {"type": "instruction", "step": 3, "text": "Now introduce the change: 'People invented machines that could spin thread and weave cloth much faster than human hands. These machines were too big for homes, so they built factories — large buildings full of machines.' Show factory images."},
-        {"type": "instruction", "step": 4, "text": "Pass around cotton. 'Feel this cotton. Before machines, turning this into thread took hours of hand-spinning. The spinning jenny could do the work of 8 spinners at once! The power loom could weave cloth 40 times faster than a person.'"},
-        {"type": "activity", "prompt": "Create a before-and-after illustration: On one side draw a family making cloth at home (spinning wheel, hand loom). On the other side draw a factory with machines and workers. Add a timeline entry for 'Industrial Revolution begins — 1760.'", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Discuss: 'How do you think people felt about these changes? What might be good about factories? What might be bad?' Save your thoughts — we'll explore more this week.", "mastery_check": "Can the child explain what the Industrial Revolution was and how factory production differed from hand production?"}
+        {
+          "type": "title",
+          "heading": "The Industrial Revolution",
+          "subheading": "From Farm to Factory",
+          "image_url": "https://images.pexels.com/photos/4553618/pexels-photo-4553618.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "History timeline",
+            "Pictures of pre-industrial and industrial life",
+            "Cotton or wool samples",
+            "Drawing paper",
+            "Colored pencils",
+            "Index cards"
+          ],
+          "setup_instructions": "Prepare pictures showing village life vs. factory life. Have cotton balls or wool samples to touch. Set up the timeline to show where the Industrial Revolution falls."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the timeline together: 'We've studied the Renaissance, the Age of Exploration, the Scientific Revolution, and the Enlightenment. Now we come to one of the biggest changes in human history — the Industrial Revolution. It started in England around 1760.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Describe life before: 'Imagine you live in 1700. Your family farms. Your mother spins thread and weaves cloth by hand. It takes days to make enough fabric for one shirt. Almost everything you use is made by hand in your village.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Now introduce the change: 'People invented machines that could spin thread and weave cloth much faster than human hands. These machines were too big for homes, so they built factories — large buildings full of machines.' Show factory images."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Pass around cotton. 'Feel this cotton. Before machines, turning this into thread took hours of hand-spinning. The spinning jenny could do the work of 8 spinners at once! The power loom could weave cloth 40 times faster than a person.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a before-and-after illustration: On one side draw a family making cloth at home (spinning wheel, hand loom). On the other side draw a factory with machines and workers. Add a timeline entry for 'Industrial Revolution begins — 1760.'",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Discuss: 'How do you think people felt about these changes? What might be good about factories? What might be bad?' Save your thoughts — we'll explore more this week.",
+          "mastery_check": "Can the child explain what the Industrial Revolution was and how factory production differed from hand production?"
+        }
       ]
     },
     "parent_notes": "The Industrial Revolution is one of the most important turning points in history. At this age, focus on the concrete: what changed in daily life, how things were made differently, how fast things happened. Touch real cotton or wool to make it tangible. Over this week we'll also cover the harder aspects (child labor, pollution), but start with the wonder of innovation. The Montessori approach emphasizes helping children see connections — the Enlightenment's ideas about progress led directly to industrial innovation.",
@@ -94,17 +233,63 @@
     "instructions": "1. Show a map of England and Wales.\n2. Locate the major coalfields: South Wales, Midlands, Yorkshire, Lancashire, Newcastle.\n3. Discuss why coal was important: fuel for steam engines and iron smelting.\n4. Locate iron ore deposits and show how they often overlap with coal regions.\n5. Trace the rivers and canals that transported raw materials.\n6. Have the child create a resource map of industrial England.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Map of England and Wales (blank and labeled)", "Colored pencils (black for coal, red for iron, blue for waterways)", "Atlas or reference map", "Piece of charcoal or coal (if available)", "Tracing paper"],
+    "materials_needed": [
+      "Map of England and Wales (blank and labeled)",
+      "Colored pencils (black for coal, red for iron, blue for waterways)",
+      "Atlas or reference map",
+      "Piece of charcoal or coal (if available)",
+      "Tracing paper"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Geography of Industry", "subheading": "England's Coal and Iron"},
-        {"type": "materials", "items": ["Blank map of England and Wales", "Labeled reference map", "Colored pencils (black, red, blue, green)", "Atlas", "Piece of charcoal or coal (optional)", "Tracing paper"], "setup_instructions": "Print a blank outline map of England and Wales. Have a reference map showing coalfields and iron deposits. If you have a piece of charcoal or coal, set it out for the child to examine."},
-        {"type": "instruction", "step": 1, "text": "Ask: 'Why did the Industrial Revolution start in England and not somewhere else?' Show the map. 'The answer is partly in the ground beneath their feet. England had huge amounts of two things factories needed: coal and iron.'"},
-        {"type": "instruction", "step": 2, "text": "If you have coal or charcoal, let the child hold it. 'Coal is a black rock that burns very hot. It formed from ancient forests millions of years ago. England had enormous deposits of coal — some very close to the surface.' Color coalfields in black on the map: South Wales, the Midlands (Birmingham), Yorkshire, Lancashire (Manchester), and Newcastle."},
-        {"type": "instruction", "step": 3, "text": "Add iron ore deposits in red. 'Iron ore is the rock that contains iron metal. When you heat iron ore with coal, you can melt out the iron to make machines, tools, bridges, and railways.' Show how coal and iron deposits often overlap."},
-        {"type": "instruction", "step": 4, "text": "Trace rivers and canals in blue. 'How did they move all this heavy coal and iron? By water! England's rivers and a new system of canals carried materials from mines to factories to ports.' Add key cities: London, Manchester, Birmingham, Liverpool, Newcastle."},
-        {"type": "activity", "prompt": "Complete your resource map of industrial England. Include a color key (black = coal, red = iron, blue = waterways). Label at least 5 cities. Draw arrows showing how materials moved from mines to factories to ports.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Look at your finished map. 'England's natural resources — coal, iron, and waterways — gave it a huge advantage. Geography helped shape history!' Next time we'll see how railways changed everything.", "mastery_check": "Can the child explain why England's geography (coal, iron, waterways) helped start the Industrial Revolution?"}
+        {
+          "type": "title",
+          "heading": "Geography of Industry",
+          "subheading": "England's Coal and Iron",
+          "image_url": "https://images.pexels.com/photos/8923259/pexels-photo-8923259.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank map of England and Wales",
+            "Labeled reference map",
+            "Colored pencils (black, red, blue, green)",
+            "Atlas",
+            "Piece of charcoal or coal (optional)",
+            "Tracing paper"
+          ],
+          "setup_instructions": "Print a blank outline map of England and Wales. Have a reference map showing coalfields and iron deposits. If you have a piece of charcoal or coal, set it out for the child to examine."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Ask: 'Why did the Industrial Revolution start in England and not somewhere else?' Show the map. 'The answer is partly in the ground beneath their feet. England had huge amounts of two things factories needed: coal and iron.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "If you have coal or charcoal, let the child hold it. 'Coal is a black rock that burns very hot. It formed from ancient forests millions of years ago. England had enormous deposits of coal — some very close to the surface.' Color coalfields in black on the map: South Wales, the Midlands (Birmingham), Yorkshire, Lancashire (Manchester), and Newcastle."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Add iron ore deposits in red. 'Iron ore is the rock that contains iron metal. When you heat iron ore with coal, you can melt out the iron to make machines, tools, bridges, and railways.' Show how coal and iron deposits often overlap."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Trace rivers and canals in blue. 'How did they move all this heavy coal and iron? By water! England's rivers and a new system of canals carried materials from mines to factories to ports.' Add key cities: London, Manchester, Birmingham, Liverpool, Newcastle."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete your resource map of industrial England. Include a color key (black = coal, red = iron, blue = waterways). Label at least 5 cities. Draw arrows showing how materials moved from mines to factories to ports.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Look at your finished map. 'England's natural resources — coal, iron, and waterways — gave it a huge advantage. Geography helped shape history!' Next time we'll see how railways changed everything.",
+          "mastery_check": "Can the child explain why England's geography (coal, iron, waterways) helped start the Industrial Revolution?"
+        }
       ]
     },
     "parent_notes": "This lesson connects geography and history beautifully — a core Montessori principle. The key idea is that geography shapes human events. If you have actual coal or charcoal, letting the child handle it makes this concrete. Emphasize that these resources took millions of years to form (connecting to the first Great Lesson about Earth's formation). Maps at this age should be child-created, not just studied — the act of drawing encodes learning.",
@@ -122,16 +307,55 @@
     "instructions": "1. Introduce the book and author.\n2. Read the story aloud with expression.\n3. Pause at key moments to discuss: What is the Once-ler doing? Why does the Lorax speak for the trees?\n4. After reading, discuss parallels to the Industrial Revolution.\n5. Talk about the ending: 'Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.'\n6. Have the child respond in their reading journal.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["The Lorax by Dr. Seuss", "Reading journal", "Pencil", "Colored pencils for illustration"],
+    "materials_needed": [
+      "The Lorax by Dr. Seuss",
+      "Reading journal",
+      "Pencil",
+      "Colored pencils for illustration"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "The Lorax by Dr. Seuss"},
-        {"type": "materials", "items": ["The Lorax by Dr. Seuss", "Reading journal", "Pencil", "Colored pencils"], "setup_instructions": "Have the book ready. Set up a cozy reading area. Have the reading journal open to a fresh page."},
-        {"type": "instruction", "step": 1, "text": "Before reading: 'This week we're learning about the Industrial Revolution — when people built factories and made lots of products with machines. This story by Dr. Seuss is about what can happen when someone builds a factory without thinking about the consequences.'"},
-        {"type": "instruction", "step": 2, "text": "Read the story aloud. Use different voices for the Once-ler and the Lorax. Pause when the Once-ler builds his first factory: 'Does this remind you of what we learned about the Industrial Revolution?'"},
-        {"type": "instruction", "step": 3, "text": "After reading, discuss: 'What did the Once-ler want? What did the Lorax want? Were both of their wants reasonable? How could the Once-ler have made Thneeds without destroying the Truffula trees?'"},
-        {"type": "activity", "prompt": "In your reading journal, write a letter to the Once-ler. Give him advice about how he could run his factory while still protecting the environment. Use at least 3 complete sentences. Draw a picture of what a responsible Thneed factory might look like.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Share your letters. Discuss the final message: 'Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.' What can we do to care for our environment?", "mastery_check": "Can the child identify the conflict between industry and environment in the story and propose solutions?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "The Lorax by Dr. Seuss",
+          "image_url": "https://images.pexels.com/photos/5951842/pexels-photo-5951842.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "The Lorax by Dr. Seuss",
+            "Reading journal",
+            "Pencil",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Have the book ready. Set up a cozy reading area. Have the reading journal open to a fresh page."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Before reading: 'This week we're learning about the Industrial Revolution — when people built factories and made lots of products with machines. This story by Dr. Seuss is about what can happen when someone builds a factory without thinking about the consequences.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the story aloud. Use different voices for the Once-ler and the Lorax. Pause when the Once-ler builds his first factory: 'Does this remind you of what we learned about the Industrial Revolution?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading, discuss: 'What did the Once-ler want? What did the Lorax want? Were both of their wants reasonable? How could the Once-ler have made Thneeds without destroying the Truffula trees?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal, write a letter to the Once-ler. Give him advice about how he could run his factory while still protecting the environment. Use at least 3 complete sentences. Draw a picture of what a responsible Thneed factory might look like.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Share your letters. Discuss the final message: 'Unless someone like you cares a whole awful lot, nothing is going to get better. It's not.' What can we do to care for our environment?",
+          "mastery_check": "Can the child identify the conflict between industry and environment in the story and propose solutions?"
+        }
       ]
     },
     "parent_notes": "The Lorax is a perfect companion text for the Industrial Revolution unit. It presents complex themes (industrialization vs. environment, progress vs. conservation) in an accessible way. Avoid making it preachy — let the child form their own opinions. The letter-writing activity builds persuasive writing skills (previewing next week) while processing the story's themes. If your child is passionate about this topic, consider exploring what happened to England's forests during industrialization.",
@@ -149,17 +373,62 @@
     "instructions": "1. Review the Five W's from yesterday.\n2. Explain the 'inverted pyramid' structure: most important info first.\n3. Read 3-4 lead paragraphs from real articles and identify the W's in each.\n4. Model writing a lead paragraph from a set of facts.\n5. Give the child a set of facts and have them write their own lead.\n6. Edit and revise together.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Sample news leads (3-4 printed)", "Fact sheets for writing practice", "Pencil and eraser", "Inverted pyramid diagram", "Notebook"],
+    "materials_needed": [
+      "Sample news leads (3-4 printed)",
+      "Fact sheets for writing practice",
+      "Pencil and eraser",
+      "Inverted pyramid diagram",
+      "Notebook"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Journalism", "subheading": "Writing a News Lead"},
-        {"type": "materials", "items": ["Sample news leads (3-4)", "Fact sheets for writing practice", "Pencil and eraser", "Inverted pyramid diagram", "Notebook"], "setup_instructions": "Print 3-4 lead paragraphs from children's news sources. Create 2-3 'fact sheets' listing Who/What/When/Where/Why for fictional events. Draw an inverted pyramid showing 'Most Important' at top, 'Details' in middle, 'Background' at bottom."},
-        {"type": "instruction", "step": 1, "text": "Review: 'Yesterday we learned the Five W's. Today we'll use them to write the lead — the very first paragraph of a news article. The lead is the most important part because many people only read the first paragraph!'"},
-        {"type": "instruction", "step": 2, "text": "Show the inverted pyramid diagram. 'News articles are shaped like an upside-down triangle. The most important information goes at the very top. Details come next. Background information goes last. This is the opposite of a story, which saves the best for the end!'"},
-        {"type": "instruction", "step": 3, "text": "Read sample leads together. For each one, underline the W's. Notice: 'A good lead answers at least 3-4 of the Five W's in just 1-2 sentences.' Point out how professional writers pack information tightly."},
-        {"type": "instruction", "step": 4, "text": "Model writing a lead from facts: 'WHO: Students at Oak Elementary. WHAT: Raised $500 for animal shelter. WHEN: Last Friday. WHERE: School gymnasium. WHY: Wanted to help homeless pets.' Write together: 'Students at Oak Elementary raised $500 for the local animal shelter during a fundraiser in the school gymnasium last Friday.'"},
-        {"type": "activity", "prompt": "Use the fact sheet to write your own lead paragraph. Remember: answer at least 3 of the Five W's in 1-2 sentences. Put the most important information first. Write two different leads for the same facts — which one sounds better?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Read your leads aloud. Check: Did you answer the Five W's? Is the most important info first? Is it clear and concise? Save your best leads — you'll use this skill for your class newspaper!", "mastery_check": "Can the child write a clear lead paragraph that answers at least 3 of the 5 W's?"}
+        {
+          "type": "title",
+          "heading": "Journalism",
+          "subheading": "Writing a News Lead",
+          "image_url": "https://images.pexels.com/photos/7807854/pexels-photo-7807854.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sample news leads (3-4)",
+            "Fact sheets for writing practice",
+            "Pencil and eraser",
+            "Inverted pyramid diagram",
+            "Notebook"
+          ],
+          "setup_instructions": "Print 3-4 lead paragraphs from children's news sources. Create 2-3 'fact sheets' listing Who/What/When/Where/Why for fictional events. Draw an inverted pyramid showing 'Most Important' at top, 'Details' in middle, 'Background' at bottom."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'Yesterday we learned the Five W's. Today we'll use them to write the lead — the very first paragraph of a news article. The lead is the most important part because many people only read the first paragraph!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the inverted pyramid diagram. 'News articles are shaped like an upside-down triangle. The most important information goes at the very top. Details come next. Background information goes last. This is the opposite of a story, which saves the best for the end!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Read sample leads together. For each one, underline the W's. Notice: 'A good lead answers at least 3-4 of the Five W's in just 1-2 sentences.' Point out how professional writers pack information tightly."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Model writing a lead from facts: 'WHO: Students at Oak Elementary. WHAT: Raised $500 for animal shelter. WHEN: Last Friday. WHERE: School gymnasium. WHY: Wanted to help homeless pets.' Write together: 'Students at Oak Elementary raised $500 for the local animal shelter during a fundraiser in the school gymnasium last Friday.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Use the fact sheet to write your own lead paragraph. Remember: answer at least 3 of the Five W's in 1-2 sentences. Put the most important information first. Write two different leads for the same facts — which one sounds better?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Read your leads aloud. Check: Did you answer the Five W's? Is the most important info first? Is it clear and concise? Save your best leads — you'll use this skill for your class newspaper!",
+          "mastery_check": "Can the child write a clear lead paragraph that answers at least 3 of the 5 W's?"
+        }
       ]
     },
     "parent_notes": "The lead paragraph is the hardest part of news writing because it requires the child to prioritize information — a higher-order thinking skill. Don't worry about perfection; focus on getting the W's in and making it clear. Having the child write two versions of the same lead is a powerful revision technique. You can create fact sheets from events in your own life: a family trip, a pet's birthday, a neighborhood event.",
@@ -177,17 +446,64 @@
     "instructions": "1. Review bar graph components from yesterday.\n2. Present a data table (e.g., favorite animals survey).\n3. Model how to choose a scale, draw axes, label categories.\n4. Demonstrate drawing bars to the correct height.\n5. Add a title.\n6. Have the child create a bar graph from a new data set independently.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Graph paper", "Ruler", "Pencil", "Colored pencils", "Data tables (2-3 prepared)", "Eraser"],
+    "materials_needed": [
+      "Graph paper",
+      "Ruler",
+      "Pencil",
+      "Colored pencils",
+      "Data tables (2-3 prepared)",
+      "Eraser"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Data and Graphing", "subheading": "Creating Bar Graphs"},
-        {"type": "materials", "items": ["Graph paper", "Ruler", "Pencil", "Colored pencils", "Data tables (2-3 prepared)", "Eraser"], "setup_instructions": "Prepare 2-3 simple data tables with 4-6 categories and values under 20. Example: 'Books Read This Month: Fiction-8, Science-5, History-3, Biography-6, Poetry-4.'"},
-        {"type": "instruction", "step": 1, "text": "Review: 'Yesterday we read bar graphs. Today we'll make our own! A bar graph turns a boring table of numbers into a picture that makes data easy to understand.'"},
-        {"type": "instruction", "step": 2, "text": "Show the first data table. 'Step 1: Look at the largest number. That tells us how high our graph needs to go. Step 2: Choose a scale — counting by 1s, 2s, or 5s. Step 3: Draw the y-axis (vertical line with numbers) and x-axis (horizontal line with categories).'"},
-        {"type": "instruction", "step": 3, "text": "Model drawing the graph together. Use the ruler to draw straight lines. 'Each bar should be the same width with equal spaces between them. Use the scale on the y-axis to make each bar the correct height. Color each bar.'"},
-        {"type": "instruction", "step": 4, "text": "Add the title and labels. 'A graph without a title is like a book without a cover — no one knows what it's about! The title should tell the reader exactly what data is shown.'"},
-        {"type": "activity", "prompt": "Create your own bar graph from the second data table. Follow the steps: 1) Find the highest value, 2) Choose a scale, 3) Draw and label axes, 4) Draw bars, 5) Color and add a title. Then write 3 sentences describing what your graph shows.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Check your graph: Are bars the correct height? Are labels clear? Is there a title? Trade graphs with a partner (or parent) — can they read your graph correctly?", "mastery_check": "Can the child create an accurate, labeled bar graph from a data table with an appropriate scale?"}
+        {
+          "type": "title",
+          "heading": "Data and Graphing",
+          "subheading": "Creating Bar Graphs",
+          "image_url": "https://images.pexels.com/photos/6693302/pexels-photo-6693302.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Colored pencils",
+            "Data tables (2-3 prepared)",
+            "Eraser"
+          ],
+          "setup_instructions": "Prepare 2-3 simple data tables with 4-6 categories and values under 20. Example: 'Books Read This Month: Fiction-8, Science-5, History-3, Biography-6, Poetry-4.'"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'Yesterday we read bar graphs. Today we'll make our own! A bar graph turns a boring table of numbers into a picture that makes data easy to understand.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the first data table. 'Step 1: Look at the largest number. That tells us how high our graph needs to go. Step 2: Choose a scale — counting by 1s, 2s, or 5s. Step 3: Draw the y-axis (vertical line with numbers) and x-axis (horizontal line with categories).'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Model drawing the graph together. Use the ruler to draw straight lines. 'Each bar should be the same width with equal spaces between them. Use the scale on the y-axis to make each bar the correct height. Color each bar.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Add the title and labels. 'A graph without a title is like a book without a cover — no one knows what it's about! The title should tell the reader exactly what data is shown.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own bar graph from the second data table. Follow the steps: 1) Find the highest value, 2) Choose a scale, 3) Draw and label axes, 4) Draw bars, 5) Color and add a title. Then write 3 sentences describing what your graph shows.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Check your graph: Are bars the correct height? Are labels clear? Is there a title? Trade graphs with a partner (or parent) — can they read your graph correctly?",
+          "mastery_check": "Can the child create an accurate, labeled bar graph from a data table with an appropriate scale?"
+        }
       ]
     },
     "parent_notes": "Creating graphs is harder than reading them — it requires the child to make decisions about scale, spacing, and design. Graph paper is essential for keeping bars even. Common mistakes: choosing a scale that's too large (bars too short to read) or too small (bars go off the page), uneven bar widths, and forgetting labels. Let the child discover these problems rather than preventing them. Surveys of family members or friends make engaging data sources.",
@@ -205,17 +521,64 @@
     "instructions": "1. Review ecosystems and habitats from previous ecology lessons.\n2. Introduce the concept of a biome: a large area with similar climate, plants, and animals.\n3. Present the six major biomes: tropical rainforest, desert, grassland, temperate forest, taiga, tundra.\n4. Show images of each biome and discuss temperature, rainfall, plants, and animals.\n5. Begin a biome comparison chart.\n6. Start a biome booklet that will be completed over the week.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["World biome map", "Photos of each biome (printed or digital)", "Biome comparison chart template", "Construction paper for booklet", "Colored pencils", "Stapler"],
+    "materials_needed": [
+      "World biome map",
+      "Photos of each biome (printed or digital)",
+      "Biome comparison chart template",
+      "Construction paper for booklet",
+      "Colored pencils",
+      "Stapler"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Habitats and Biomes", "subheading": "What Is a Biome?"},
-        {"type": "materials", "items": ["World biome map", "Photos of each biome", "Biome comparison chart template", "Construction paper for booklet", "Colored pencils", "Stapler"], "setup_instructions": "Print a world map colored by biome. Gather clear photos of each biome showing landscape, plants, and animals. Create a chart template with columns: Biome, Climate, Temperature, Rainfall, Key Plants, Key Animals."},
-        {"type": "instruction", "step": 1, "text": "Review: 'We've studied habitats — places where animals live. A habitat can be as small as a pond. Today we're going bigger — much bigger. A biome is a huge region of Earth with similar weather, plants, and animals. Think of it as a super-habitat.'"},
-        {"type": "instruction", "step": 2, "text": "Show the world biome map. 'Earth has six major biomes. Notice how they form bands across the globe — that's because biomes depend on climate, and climate depends on where you are relative to the equator.' Point out the equator and poles."},
-        {"type": "instruction", "step": 3, "text": "Introduce each biome with photos: Tropical Rainforest (hot, wet, most species), Desert (hot or cold, very dry), Grassland (moderate, grasses dominate), Temperate Forest (four seasons, deciduous trees), Taiga (cold, coniferous forests), Tundra (coldest, no trees)."},
-        {"type": "instruction", "step": 4, "text": "Begin filling in the comparison chart together for 2-3 biomes. 'Let's compare the tropical rainforest and the tundra — they're opposites! The rainforest gets over 80 inches of rain per year; the tundra gets less than 10.'"},
-        {"type": "activity", "prompt": "Start your biome booklet: fold construction paper to make a 6-page booklet (one page per biome). On the first page, write 'My Biome Booklet' with your name. On page 2, draw and label the tropical rainforest with at least 3 plants and 3 animals. Complete the comparison chart for all 6 biomes.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Look at the biome map one more time. 'Which biome do we live in? How do you know?' We'll explore more biomes in detail throughout the week.", "mastery_check": "Can the child name the six major biomes and describe at least two key characteristics of each?"}
+        {
+          "type": "title",
+          "heading": "Habitats and Biomes",
+          "subheading": "What Is a Biome?",
+          "image_url": "https://images.pexels.com/photos/8924160/pexels-photo-8924160.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World biome map",
+            "Photos of each biome",
+            "Biome comparison chart template",
+            "Construction paper for booklet",
+            "Colored pencils",
+            "Stapler"
+          ],
+          "setup_instructions": "Print a world map colored by biome. Gather clear photos of each biome showing landscape, plants, and animals. Create a chart template with columns: Biome, Climate, Temperature, Rainfall, Key Plants, Key Animals."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'We've studied habitats — places where animals live. A habitat can be as small as a pond. Today we're going bigger — much bigger. A biome is a huge region of Earth with similar weather, plants, and animals. Think of it as a super-habitat.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the world biome map. 'Earth has six major biomes. Notice how they form bands across the globe — that's because biomes depend on climate, and climate depends on where you are relative to the equator.' Point out the equator and poles."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Introduce each biome with photos: Tropical Rainforest (hot, wet, most species), Desert (hot or cold, very dry), Grassland (moderate, grasses dominate), Temperate Forest (four seasons, deciduous trees), Taiga (cold, coniferous forests), Tundra (coldest, no trees)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Begin filling in the comparison chart together for 2-3 biomes. 'Let's compare the tropical rainforest and the tundra — they're opposites! The rainforest gets over 80 inches of rain per year; the tundra gets less than 10.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Start your biome booklet: fold construction paper to make a 6-page booklet (one page per biome). On the first page, write 'My Biome Booklet' with your name. On page 2, draw and label the tropical rainforest with at least 3 plants and 3 animals. Complete the comparison chart for all 6 biomes.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Look at the biome map one more time. 'Which biome do we live in? How do you know?' We'll explore more biomes in detail throughout the week.",
+          "mastery_check": "Can the child name the six major biomes and describe at least two key characteristics of each?"
+        }
       ]
     },
     "parent_notes": "Biomes connect geography and science beautifully. The key concept is that climate (temperature and rainfall) determines what can live in an area. Don't require memorization of all details — the comparison chart and booklet are reference tools. If possible, watch short video clips of each biome to make it vivid. A simple biome can be created in a jar (terrarium) if the child is inspired. Connect to your local biome: 'Which biome do we live in? What evidence do you see?'",
@@ -233,17 +596,66 @@
     "instructions": "1. Show reproductions of L.S. Lowry's industrial paintings.\n2. Discuss what they see: smokestacks, factories, crowds of small figures, grey skies.\n3. Connect to the Industrial Revolution history lesson.\n4. Analyze Lowry's style: simple stick-like figures, muted colors, towering buildings.\n5. Demonstrate painting a simple factory scene using Lowry's techniques.\n6. Have the child create their own industrial landscape.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Prints of L.S. Lowry paintings (3-4)", "Watercolor paints", "Thick white paper", "Paintbrushes (thin and medium)", "Cup of water", "Paper towels", "Black marker for details"],
+    "materials_needed": [
+      "Prints of L.S. Lowry paintings (3-4)",
+      "Watercolor paints",
+      "Thick white paper",
+      "Paintbrushes (thin and medium)",
+      "Cup of water",
+      "Paper towels",
+      "Black marker for details"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Art of Industry", "subheading": "Factory Landscapes and L.S. Lowry"},
-        {"type": "materials", "items": ["Prints of L.S. Lowry paintings (3-4)", "Watercolor paints", "Thick white paper", "Paintbrushes (thin and medium)", "Cup of water", "Paper towels", "Black marker for details"], "setup_instructions": "Print 3-4 Lowry paintings: 'Coming from the Mill,' 'Industrial Landscape,' and 'Going to the Match.' Set up a painting station with watercolors, water cup, and thick paper."},
-        {"type": "instruction", "step": 1, "text": "Show Lowry's paintings. 'This artist, L.S. Lowry, lived in Manchester, England — one of the biggest factory cities during the Industrial Revolution. He painted what he saw every day: factories, smokestacks, and crowds of workers.'"},
-        {"type": "instruction", "step": 2, "text": "Study the paintings closely. 'What colors do you see? (Greys, browns, muted tones — the smoky air!) What are the people doing? (Walking to work, leaving factories.) How big are the people compared to the buildings? (Tiny! The factories dominate.)'"},
-        {"type": "instruction", "step": 3, "text": "Point out Lowry's techniques: 'His people look like matchstick figures — simple lines for bodies, arms, and legs. He painted hundreds of them to show the crowds. His buildings are simple rectangles with smokestacks. The sky is always grey or pale.'"},
-        {"type": "instruction", "step": 4, "text": "Demonstrate: Wash the paper with a grey/blue sky. While wet, add darker grey at the bottom for ground. Once dry, paint simple rectangular factory buildings with smokestacks. Add tiny matchstick people walking along the street."},
-        {"type": "activity", "prompt": "Create your own Lowry-inspired factory town painting. Include: grey/blue sky, at least 3 factory buildings with smokestacks (add smoke!), a street, and at least 10 matchstick people. Use muted colors. Add details with black marker when dry.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Display your painting. 'How does your factory town feel? Is it a cheerful place or a gloomy one? Lowry said he painted the sadness and beauty he saw in industrial life. Art can show us what life was really like in the past.'", "mastery_check": "Can the child describe Lowry's artistic style and create a factory landscape using his techniques?"}
+        {
+          "type": "title",
+          "heading": "Art of Industry",
+          "subheading": "Factory Landscapes and L.S. Lowry",
+          "image_url": "https://images.pexels.com/photos/7887172/pexels-photo-7887172.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Prints of L.S. Lowry paintings (3-4)",
+            "Watercolor paints",
+            "Thick white paper",
+            "Paintbrushes (thin and medium)",
+            "Cup of water",
+            "Paper towels",
+            "Black marker for details"
+          ],
+          "setup_instructions": "Print 3-4 Lowry paintings: 'Coming from the Mill,' 'Industrial Landscape,' and 'Going to the Match.' Set up a painting station with watercolors, water cup, and thick paper."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show Lowry's paintings. 'This artist, L.S. Lowry, lived in Manchester, England — one of the biggest factory cities during the Industrial Revolution. He painted what he saw every day: factories, smokestacks, and crowds of workers.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Study the paintings closely. 'What colors do you see? (Greys, browns, muted tones — the smoky air!) What are the people doing? (Walking to work, leaving factories.) How big are the people compared to the buildings? (Tiny! The factories dominate.)'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Point out Lowry's techniques: 'His people look like matchstick figures — simple lines for bodies, arms, and legs. He painted hundreds of them to show the crowds. His buildings are simple rectangles with smokestacks. The sky is always grey or pale.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Demonstrate: Wash the paper with a grey/blue sky. While wet, add darker grey at the bottom for ground. Once dry, paint simple rectangular factory buildings with smokestacks. Add tiny matchstick people walking along the street."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own Lowry-inspired factory town painting. Include: grey/blue sky, at least 3 factory buildings with smokestacks (add smoke!), a street, and at least 10 matchstick people. Use muted colors. Add details with black marker when dry.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Display your painting. 'How does your factory town feel? Is it a cheerful place or a gloomy one? Lowry said he painted the sadness and beauty he saw in industrial life. Art can show us what life was really like in the past.'",
+          "mastery_check": "Can the child describe Lowry's artistic style and create a factory landscape using his techniques?"
+        }
       ]
     },
     "parent_notes": "Lowry is an accessible artist for children because his matchstick-figure style is approachable — children don't feel intimidated by it. The real learning is in observing and discussing: What story does the painting tell? How does the art make you feel? This connects art to history and develops visual literacy. If you can't print Lowry's work, search online and view on screen. Emphasize that art is a primary source — it tells us about the past just like a history book.",
@@ -261,17 +673,70 @@
     "instructions": "1. Show heavy cream in a jar. Ask: 'What is butter made from? How do you think people made butter before factories?'\n2. Explain that for thousands of years, butter was made by hand — churning cream.\n3. Pour heavy cream into a jar, seal tightly.\n4. Shake vigorously! Take turns. It will take 10-15 minutes.\n5. Observe the stages: cream → whipped cream → butter + buttermilk.\n6. Strain, rinse with cold water, add salt.\n7. Taste on bread. Discuss: handmade vs. factory-made.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Heavy cream (1 pint, room temperature)", "Clean glass jar with tight lid", "Small strainer", "Cold water", "Pinch of salt", "Bread or crackers", "Butter knife", "Bowl", "Timer"],
+    "materials_needed": [
+      "Heavy cream (1 pint, room temperature)",
+      "Clean glass jar with tight lid",
+      "Small strainer",
+      "Cold water",
+      "Pinch of salt",
+      "Bread or crackers",
+      "Butter knife",
+      "Bowl",
+      "Timer"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "From Raw Materials to Products", "subheading": "Making Butter by Hand"},
-        {"type": "materials", "items": ["Heavy cream (1 pint, room temperature)", "Glass jar with tight lid", "Small strainer", "Cold water", "Pinch of salt", "Bread or crackers", "Butter knife", "Bowl", "Timer"], "setup_instructions": "Take heavy cream out of the fridge 30 minutes before the lesson. Fill the jar only halfway with cream (it needs room to slosh). Have bread ready for tasting at the end."},
-        {"type": "instruction", "step": 1, "text": "Show the cream. 'This is heavy cream — it comes from cow's milk. For thousands of years, people turned cream into butter using only their hands and a churn. Before the Industrial Revolution, every family had to make their own butter. Today, machines in factories make millions of pounds of butter a day.'"},
-        {"type": "instruction", "step": 2, "text": "Pour cream into the jar (halfway full). Seal tightly. 'We're going to make butter the old-fashioned way — by shaking! This is basically what a butter churn does. We'll time how long it takes.'"},
-        {"type": "instruction", "step": 3, "text": "Start shaking! Set the timer. 'Shake it hard and steady. Listen — can you hear the cream sloshing? After a few minutes, it will get quiet — that means it turned into whipped cream. Keep shaking! Eventually you'll hear a THUNK — that's butter!'"},
-        {"type": "instruction", "step": 4, "text": "When butter forms (10-15 minutes of shaking): 'Open the jar carefully. See the solid lump? That's butter! The liquid left over is buttermilk.' Strain out the buttermilk. Rinse the butter with cold water and add a pinch of salt."},
-        {"type": "activity", "prompt": "Spread your homemade butter on bread and taste it. In your notebook, answer: How long did it take to make butter by hand? How would your arms feel if you had to make butter every day? Why was the invention of factory machines so important to families?", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Compare: 'A factory can make in one minute what took us 15 minutes. Imagine making butter for a whole village! Now you understand why the Industrial Revolution changed everything.' Clean up all materials together.", "mastery_check": "Can the child describe the process of making butter and explain why factory manufacturing was a significant change?"}
+        {
+          "type": "title",
+          "heading": "From Raw Materials to Products",
+          "subheading": "Making Butter by Hand",
+          "image_url": "https://images.pexels.com/photos/6641321/pexels-photo-6641321.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Heavy cream (1 pint, room temperature)",
+            "Glass jar with tight lid",
+            "Small strainer",
+            "Cold water",
+            "Pinch of salt",
+            "Bread or crackers",
+            "Butter knife",
+            "Bowl",
+            "Timer"
+          ],
+          "setup_instructions": "Take heavy cream out of the fridge 30 minutes before the lesson. Fill the jar only halfway with cream (it needs room to slosh). Have bread ready for tasting at the end."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the cream. 'This is heavy cream — it comes from cow's milk. For thousands of years, people turned cream into butter using only their hands and a churn. Before the Industrial Revolution, every family had to make their own butter. Today, machines in factories make millions of pounds of butter a day.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Pour cream into the jar (halfway full). Seal tightly. 'We're going to make butter the old-fashioned way — by shaking! This is basically what a butter churn does. We'll time how long it takes.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Start shaking! Set the timer. 'Shake it hard and steady. Listen — can you hear the cream sloshing? After a few minutes, it will get quiet — that means it turned into whipped cream. Keep shaking! Eventually you'll hear a THUNK — that's butter!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "When butter forms (10-15 minutes of shaking): 'Open the jar carefully. See the solid lump? That's butter! The liquid left over is buttermilk.' Strain out the buttermilk. Rinse the butter with cold water and add a pinch of salt."
+        },
+        {
+          "type": "activity",
+          "prompt": "Spread your homemade butter on bread and taste it. In your notebook, answer: How long did it take to make butter by hand? How would your arms feel if you had to make butter every day? Why was the invention of factory machines so important to families?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Compare: 'A factory can make in one minute what took us 15 minutes. Imagine making butter for a whole village! Now you understand why the Industrial Revolution changed everything.' Clean up all materials together.",
+          "mastery_check": "Can the child describe the process of making butter and explain why factory manufacturing was a significant change?"
+        }
       ]
     },
     "parent_notes": "This is a powerful experiential lesson. The child literally feels the effort of pre-industrial manufacturing. The key insight comes after shaking for 10+ minutes: 'My arms are tired!' That's the point — before machines, every product required enormous human effort. Use this as a springboard: 'What other things do you eat that used to be made entirely by hand?' Cream at room temperature works faster. The jar should be only half full. If cream is too cold, it may take 20+ minutes.",
@@ -289,17 +754,62 @@
     "instructions": "1. Discuss: 'How do reporters know what happened? They ask people!'\n2. Introduce the concept of a source — someone who has firsthand knowledge.\n3. Teach the difference between direct quotes and paraphrasing.\n4. Model writing good interview questions (open-ended, not yes/no).\n5. Have the child write 5 interview questions.\n6. Conduct a mock interview with a family member.\n7. Practice writing sentences with direct quotes and correct punctuation.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Notebook", "Pencil", "Sample news article with quotes highlighted", "List of question starters", "Clipboard for interviewing"],
+    "materials_needed": [
+      "Notebook",
+      "Pencil",
+      "Sample news article with quotes highlighted",
+      "List of question starters",
+      "Clipboard for interviewing"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Journalism", "subheading": "Interviewing and Quoting Sources"},
-        {"type": "materials", "items": ["Notebook", "Pencil", "Sample news article with quotes highlighted", "List of question starters (Who, What, When, Where, Why, How, Can you describe, Tell me about)", "Clipboard"], "setup_instructions": "Highlight direct quotes in a sample article before the lesson. Prepare a list of open-ended question starters. Arrange for a family member to be available for a practice interview."},
-        {"type": "instruction", "step": 1, "text": "Read a news article with quotes highlighted. 'See these sentences in quotation marks? These are the exact words someone said. They're called direct quotes. Reporters include quotes to let readers hear from real people — it makes the story believable and interesting.'"},
-        {"type": "instruction", "step": 2, "text": "Explain sources: 'A source is someone who knows about the event. If there was a school fundraiser, the sources might be the teacher who organized it, a student who participated, and a parent who donated.' Good reporters talk to multiple sources."},
-        {"type": "instruction", "step": 3, "text": "Teach interview questions. 'Bad question: Did you like the event? (Yes/No — boring!) Good question: What was the best part of the event? (This gets a detailed, quotable answer!)' Practice turning closed questions into open ones."},
-        {"type": "instruction", "step": 4, "text": "Review quotation mark rules: 'Quotation marks go around the person's exact words. A comma separates the quote from who said it. Example: \"The fundraiser was amazing,\" said Mrs. Johnson. Or: Mrs. Johnson said, \"The fundraiser was amazing.\"'"},
-        {"type": "activity", "prompt": "Write 5 open-ended interview questions about a topic (a family member's favorite hobby, their job, or a family tradition). Then conduct a real interview! Write down the answers. Select the two best quotes and write them correctly with quotation marks.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Read your quotes aloud. Check: Are quotation marks in the right place? Did you identify who said it? You now have real reporting skills! These quotes could go into a news article.", "mastery_check": "Can the child write open-ended interview questions, conduct a brief interview, and correctly punctuate direct quotes?"}
+        {
+          "type": "title",
+          "heading": "Journalism",
+          "subheading": "Interviewing and Quoting Sources",
+          "image_url": "https://images.pexels.com/photos/1887614/pexels-photo-1887614.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Notebook",
+            "Pencil",
+            "Sample news article with quotes highlighted",
+            "List of question starters (Who, What, When, Where, Why, How, Can you describe, Tell me about)",
+            "Clipboard"
+          ],
+          "setup_instructions": "Highlight direct quotes in a sample article before the lesson. Prepare a list of open-ended question starters. Arrange for a family member to be available for a practice interview."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read a news article with quotes highlighted. 'See these sentences in quotation marks? These are the exact words someone said. They're called direct quotes. Reporters include quotes to let readers hear from real people — it makes the story believable and interesting.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Explain sources: 'A source is someone who knows about the event. If there was a school fundraiser, the sources might be the teacher who organized it, a student who participated, and a parent who donated.' Good reporters talk to multiple sources."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Teach interview questions. 'Bad question: Did you like the event? (Yes/No — boring!) Good question: What was the best part of the event? (This gets a detailed, quotable answer!)' Practice turning closed questions into open ones."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Review quotation mark rules: 'Quotation marks go around the person's exact words. A comma separates the quote from who said it. Example: \"The fundraiser was amazing,\" said Mrs. Johnson. Or: Mrs. Johnson said, \"The fundraiser was amazing.\"'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write 5 open-ended interview questions about a topic (a family member's favorite hobby, their job, or a family tradition). Then conduct a real interview! Write down the answers. Select the two best quotes and write them correctly with quotation marks.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Read your quotes aloud. Check: Are quotation marks in the right place? Did you identify who said it? You now have real reporting skills! These quotes could go into a news article.",
+          "mastery_check": "Can the child write open-ended interview questions, conduct a brief interview, and correctly punctuate direct quotes?"
+        }
       ]
     },
     "parent_notes": "Being interviewed is a wonderful opportunity for family connection. The child gets to practice active listening, note-taking, and writing skills simultaneously. When being interviewed, give detailed answers that are quotable — not just one-word responses. Modeling enthusiasm for the interview process teaches the child that everyone's story matters. Quotation punctuation is genuinely tricky — expect mistakes and correct gently over time.",
@@ -317,17 +827,64 @@
     "instructions": "1. Show a line graph (e.g., temperature over a week).\n2. Explain: line graphs show how something changes over time.\n3. Identify parts: title, x-axis (time), y-axis (values), data points, lines connecting them.\n4. Practice reading values and identifying trends (going up, going down, staying the same).\n5. Compare: When do you use a bar graph vs. a line graph?\n6. Have the child create a line graph from data.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Sample line graphs (3-4)", "Graph paper", "Ruler", "Pencil", "Data table for temperature or plant growth", "Colored pencils"],
+    "materials_needed": [
+      "Sample line graphs (3-4)",
+      "Graph paper",
+      "Ruler",
+      "Pencil",
+      "Data table for temperature or plant growth",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Data and Graphing", "subheading": "Line Graphs"},
-        {"type": "materials", "items": ["Sample line graphs (3-4)", "Graph paper", "Ruler", "Pencil", "Data table (temperature or plant growth over time)", "Colored pencils"], "setup_instructions": "Prepare sample line graphs at different difficulty levels. Create a data table showing daily temperatures for a week or plant growth measured daily for 10 days."},
-        {"type": "instruction", "step": 1, "text": "Show the first line graph. 'This graph looks different from bar graphs. Instead of bars, we have dots connected by lines. A line graph is special — it shows how something changes over time. The x-axis shows time (days, weeks, months) and the y-axis shows the value being measured.'"},
-        {"type": "instruction", "step": 2, "text": "Read the graph together. 'Find Monday — put your finger on it. Now go straight up to the line. Now go straight left to the y-axis. What was the temperature on Monday?' Practice with each day. 'Which day was warmest? Coldest?'"},
-        {"type": "instruction", "step": 3, "text": "Introduce trends: 'When the line goes up, the value is increasing. When it goes down, it's decreasing. When it's flat, it's staying the same. We can see patterns — like it got warmer from Monday to Wednesday, then cooler again.'"},
-        {"type": "instruction", "step": 4, "text": "Compare graph types: 'Bar graphs compare different categories (favorite flavors, number of pets). Line graphs show change over TIME. Ask yourself: Does my data show change over time? If yes → line graph. If it compares categories → bar graph.'"},
-        {"type": "activity", "prompt": "Create a line graph from the data table. Steps: 1) Draw and label axes (time on x-axis, values on y-axis). 2) Choose an appropriate scale. 3) Plot each data point as a dot. 4) Connect the dots with straight lines. 5) Add a title. Then describe the trend in 2-3 sentences.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Look at your line graph. 'What trend do you see? Is the line generally going up, going down, or staying about the same?' Discuss why being able to see trends is useful in real life (weather, stock markets, sports statistics).", "mastery_check": "Can the child read a line graph, identify trends, create one from data, and explain when to use a line graph vs. a bar graph?"}
+        {
+          "type": "title",
+          "heading": "Data and Graphing",
+          "subheading": "Line Graphs",
+          "image_url": "https://images.pexels.com/photos/311269/pexels-photo-311269.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sample line graphs (3-4)",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Data table (temperature or plant growth over time)",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Prepare sample line graphs at different difficulty levels. Create a data table showing daily temperatures for a week or plant growth measured daily for 10 days."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the first line graph. 'This graph looks different from bar graphs. Instead of bars, we have dots connected by lines. A line graph is special — it shows how something changes over time. The x-axis shows time (days, weeks, months) and the y-axis shows the value being measured.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the graph together. 'Find Monday — put your finger on it. Now go straight up to the line. Now go straight left to the y-axis. What was the temperature on Monday?' Practice with each day. 'Which day was warmest? Coldest?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Introduce trends: 'When the line goes up, the value is increasing. When it goes down, it's decreasing. When it's flat, it's staying the same. We can see patterns — like it got warmer from Monday to Wednesday, then cooler again.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Compare graph types: 'Bar graphs compare different categories (favorite flavors, number of pets). Line graphs show change over TIME. Ask yourself: Does my data show change over time? If yes → line graph. If it compares categories → bar graph.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a line graph from the data table. Steps: 1) Draw and label axes (time on x-axis, values on y-axis). 2) Choose an appropriate scale. 3) Plot each data point as a dot. 4) Connect the dots with straight lines. 5) Add a title. Then describe the trend in 2-3 sentences.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Look at your line graph. 'What trend do you see? Is the line generally going up, going down, or staying about the same?' Discuss why being able to see trends is useful in real life (weather, stock markets, sports statistics).",
+          "mastery_check": "Can the child read a line graph, identify trends, create one from data, and explain when to use a line graph vs. a bar graph?"
+        }
       ]
     },
     "parent_notes": "Line graphs are conceptually harder than bar graphs because they require understanding continuous change. The connection between dots implies that change happened gradually between data points. Start with relatable data — weather is ideal because children can verify it themselves. A fun extension: have the child record the daily temperature for a week and graph it. Real data collection makes graphing meaningful rather than abstract.",
@@ -345,17 +902,66 @@
     "instructions": "1. Review: factories needed power to run machines. Before steam, they used water wheels.\n2. Introduce James Watt and his improved steam engine (1769).\n3. Explain how a steam engine works in simple terms: heat water → steam → pushes a piston → drives machines.\n4. Discuss what steam engines powered: factory machines, trains, ships.\n5. Do a simple steam demonstration (kettle or pot with lid).\n6. Add to the Industrial Revolution timeline.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Pictures of James Watt and steam engines", "Simple diagram of a steam engine", "Kettle or pot for demonstration", "Timeline", "Index cards", "Drawing paper", "Colored pencils"],
+    "materials_needed": [
+      "Pictures of James Watt and steam engines",
+      "Simple diagram of a steam engine",
+      "Kettle or pot for demonstration",
+      "Timeline",
+      "Index cards",
+      "Drawing paper",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Steam Engine", "subheading": "Power That Changed the World"},
-        {"type": "materials", "items": ["Pictures of James Watt and steam engines", "Simple steam engine diagram", "Kettle or pot for demonstration", "Timeline materials", "Index cards", "Drawing paper", "Colored pencils"], "setup_instructions": "Print a diagram showing how a steam engine works (boiler, piston, cylinder). Have a kettle ready to boil water for a safe steam demonstration. Set up the timeline from Monday."},
-        {"type": "instruction", "step": 1, "text": "Review: 'We learned that factories had big machines. But what made those machines move? At first, factories had to be built next to rivers because they used water wheels for power. That limited where you could build a factory.'"},
-        {"type": "instruction", "step": 2, "text": "Introduce Watt: 'A Scottish inventor named James Watt didn't invent the steam engine, but he made it much better in 1769. His improved engine was powerful, efficient, and reliable. It changed everything.' Show his portrait."},
-        {"type": "instruction", "step": 3, "text": "Explain how it works with the diagram: 'You heat water in a boiler until it becomes steam. Steam takes up much more space than water — it expands with force! That force pushes a piston back and forth. The piston turns a wheel. The wheel powers the machines.'"},
-        {"type": "instruction", "step": 4, "text": "Demonstrate with a kettle (adult supervision). Boil water and watch the steam push the lid. 'See how the steam lifts the lid? Now imagine that force pushing a metal piston inside a cylinder — that's a steam engine! This tiny amount of steam moved the lid. Imagine a giant boiler!'"},
-        {"type": "activity", "prompt": "Draw a diagram of how a steam engine works with labels: boiler, water, fire, steam, piston, wheel. Then write 3 things the steam engine made possible that weren't possible before (factories anywhere, trains, steamships). Add James Watt and the steam engine to your timeline.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The steam engine is one of the most important inventions in history. Before steam, everything depended on muscle power, water power, or wind. 'Can you imagine a world without engines? What would be different in your daily life?'", "mastery_check": "Can the child explain how a steam engine works in basic terms and describe at least 3 ways it changed the world?"}
+        {
+          "type": "title",
+          "heading": "The Steam Engine",
+          "subheading": "Power That Changed the World",
+          "image_url": "https://images.pexels.com/photos/3355788/pexels-photo-3355788.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pictures of James Watt and steam engines",
+            "Simple steam engine diagram",
+            "Kettle or pot for demonstration",
+            "Timeline materials",
+            "Index cards",
+            "Drawing paper",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Print a diagram showing how a steam engine works (boiler, piston, cylinder). Have a kettle ready to boil water for a safe steam demonstration. Set up the timeline from Monday."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'We learned that factories had big machines. But what made those machines move? At first, factories had to be built next to rivers because they used water wheels for power. That limited where you could build a factory.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce Watt: 'A Scottish inventor named James Watt didn't invent the steam engine, but he made it much better in 1769. His improved engine was powerful, efficient, and reliable. It changed everything.' Show his portrait."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Explain how it works with the diagram: 'You heat water in a boiler until it becomes steam. Steam takes up much more space than water — it expands with force! That force pushes a piston back and forth. The piston turns a wheel. The wheel powers the machines.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Demonstrate with a kettle (adult supervision). Boil water and watch the steam push the lid. 'See how the steam lifts the lid? Now imagine that force pushing a metal piston inside a cylinder — that's a steam engine! This tiny amount of steam moved the lid. Imagine a giant boiler!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw a diagram of how a steam engine works with labels: boiler, water, fire, steam, piston, wheel. Then write 3 things the steam engine made possible that weren't possible before (factories anywhere, trains, steamships). Add James Watt and the steam engine to your timeline.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The steam engine is one of the most important inventions in history. Before steam, everything depended on muscle power, water power, or wind. 'Can you imagine a world without engines? What would be different in your daily life?'",
+          "mastery_check": "Can the child explain how a steam engine works in basic terms and describe at least 3 ways it changed the world?"
+        }
       ]
     },
     "parent_notes": "The steam demonstration with a kettle is safe and powerful — always supervise closely. The key concept is energy transformation: chemical energy (burning coal) → heat energy (boiling water) → kinetic energy (steam pushing piston) → mechanical energy (turning wheels). You don't need to use these terms, but the concept of one form of energy becoming another is foundational. James Watt's name gives us the 'watt' — the unit of power. Older children may enjoy learning this connection.",
@@ -373,17 +979,64 @@
     "instructions": "1. Describe what industrial cities looked like: crowded, smoky, noisy.\n2. Compare village life vs. city life for workers.\n3. Discuss working conditions: 12-16 hour days, dangerous machines, low pay.\n4. Introduce child labor — children as young as 5 worked in factories and mines.\n5. Read primary source excerpts (adapted) about child workers.\n6. Discuss feelings and fairness.\n7. Introduce reformers who fought to change these conditions.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Pictures of industrial cities (1800s)", "Adapted primary source excerpts about child labor", "Comparison chart template (village life vs. city life)", "Drawing paper", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "Pictures of industrial cities (1800s)",
+      "Adapted primary source excerpts about child labor",
+      "Comparison chart template (village life vs. city life)",
+      "Drawing paper",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Life in an Industrial City", "subheading": "Workers and Their Families"},
-        {"type": "materials", "items": ["Pictures of industrial cities (1800s)", "Adapted primary source excerpts", "Comparison chart (village life vs. city life)", "Drawing paper", "Pencil", "Colored pencils"], "setup_instructions": "Print images of 19th-century industrial cities (factories, tenements, child workers). Prepare adapted excerpts from parliamentary reports on child labor. Create a comparison chart template."},
-        {"type": "instruction", "step": 1, "text": "Show pictures of industrial cities. 'When factories opened, people moved from villages to cities for work. Thousands of families crowded into tiny apartments near the factories. The air was thick with smoke. The streets were dirty. The rivers were polluted.'"},
-        {"type": "instruction", "step": 2, "text": "Fill in the comparison chart together. Village Life: fresh air, grew own food, knew neighbors, worked sunrise to sunset outdoors. City Life: smoky air, bought food (often poor quality), crowded tenements, worked 12-16 hours indoors."},
-        {"type": "instruction", "step": 3, "text": "Discuss child labor sensitively: 'Many families were so poor that even children had to work. Children as young as 5 or 6 worked in factories and coal mines. They did dangerous jobs because they were small enough to crawl under machines or into narrow mine tunnels.'"},
-        {"type": "instruction", "step": 4, "text": "Read an adapted excerpt. Example: 'I go to work at 5 in the morning. I don't stop until 8 at night. I get one break for lunch. My job is to crawl under the spinning machines and sweep the cotton dust. Sometimes I'm so tired I can't stay awake.' Discuss: How does this make you feel? Is this fair?"},
-        {"type": "activity", "prompt": "Write a diary entry from the perspective of a child factory worker in the 1800s. Describe your day: When do you wake up? What is your job? What do you eat? How do you feel? Then write 2-3 sentences about what you think should change.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "People called reformers fought to change these terrible conditions. Laws were eventually passed to protect children. Today, child labor is against the law in most countries, but it still exists in some places. 'What can we learn from this period of history?'", "mastery_check": "Can the child describe the living and working conditions of industrial workers and explain why reform was needed?"}
+        {
+          "type": "title",
+          "heading": "Life in an Industrial City",
+          "subheading": "Workers and Their Families",
+          "image_url": "https://images.pexels.com/photos/12280145/pexels-photo-12280145.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pictures of industrial cities (1800s)",
+            "Adapted primary source excerpts",
+            "Comparison chart (village life vs. city life)",
+            "Drawing paper",
+            "Pencil",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Print images of 19th-century industrial cities (factories, tenements, child workers). Prepare adapted excerpts from parliamentary reports on child labor. Create a comparison chart template."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show pictures of industrial cities. 'When factories opened, people moved from villages to cities for work. Thousands of families crowded into tiny apartments near the factories. The air was thick with smoke. The streets were dirty. The rivers were polluted.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Fill in the comparison chart together. Village Life: fresh air, grew own food, knew neighbors, worked sunrise to sunset outdoors. City Life: smoky air, bought food (often poor quality), crowded tenements, worked 12-16 hours indoors."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Discuss child labor sensitively: 'Many families were so poor that even children had to work. Children as young as 5 or 6 worked in factories and coal mines. They did dangerous jobs because they were small enough to crawl under machines or into narrow mine tunnels.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Read an adapted excerpt. Example: 'I go to work at 5 in the morning. I don't stop until 8 at night. I get one break for lunch. My job is to crawl under the spinning machines and sweep the cotton dust. Sometimes I'm so tired I can't stay awake.' Discuss: How does this make you feel? Is this fair?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write a diary entry from the perspective of a child factory worker in the 1800s. Describe your day: When do you wake up? What is your job? What do you eat? How do you feel? Then write 2-3 sentences about what you think should change.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "People called reformers fought to change these terrible conditions. Laws were eventually passed to protect children. Today, child labor is against the law in most countries, but it still exists in some places. 'What can we learn from this period of history?'",
+          "mastery_check": "Can the child describe the living and working conditions of industrial workers and explain why reform was needed?"
+        }
       ]
     },
     "parent_notes": "This is a heavy topic. Approach it with sensitivity but honesty — children at this age have a strong sense of fairness and will respond with genuine empathy. Avoid graphic details but don't whitewash reality. The diary entry is a powerful empathy-building exercise. If your child becomes upset, validate their feelings: 'It IS sad and unfair. That's why people fought to change it, and that's why we have laws protecting children today.' This lesson naturally leads to discussions about gratitude, justice, and civic responsibility.",
@@ -401,16 +1054,57 @@
     "instructions": "1. Review what was learned about child labor in the Industrial Revolution.\n2. Introduce Iqbal Masih — a real boy from Pakistan who was forced to work in a carpet factory at age 4.\n3. Read an age-appropriate adapted excerpt about Iqbal's story.\n4. Discuss: Iqbal escaped and spoke out against child labor around the world.\n5. Connect to the reformers mentioned in the culture lesson.\n6. Journal response about courage and standing up for what is right.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Iqbal by Francesco D'Adamo (or adapted excerpt)", "World map", "Reading journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "Iqbal by Francesco D'Adamo (or adapted excerpt)",
+      "World map",
+      "Reading journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "The Story of Iqbal Masih"},
-        {"type": "materials", "items": ["Iqbal by Francesco D'Adamo (or adapted excerpt)", "World map", "Reading journal", "Pencil", "Colored pencils"], "setup_instructions": "Prepare an age-appropriate version of Iqbal's story. If you don't have the book, find a children's summary online. Locate Pakistan on the world map."},
-        {"type": "instruction", "step": 1, "text": "Connect to earlier learning: 'We learned that during the Industrial Revolution, children worked in factories. Laws were passed to stop this. But in some parts of the world, child labor still exists today. This is the true story of a brave boy who fought against it.'"},
-        {"type": "instruction", "step": 2, "text": "Show Pakistan on the map. 'Iqbal Masih was born in Pakistan in 1983. When he was only 4 years old, his family was so poor that he was sent to work in a carpet factory. He worked 12 hours a day, 6 days a week, tying tiny knots to make carpets.'"},
-        {"type": "instruction", "step": 3, "text": "Read the adapted excerpt. Focus on Iqbal's courage: at age 10, he escaped the factory and began speaking out. He traveled the world telling people about child labor. He helped free over 3,000 children from forced labor."},
-        {"type": "activity", "prompt": "In your reading journal, write about courage. Answer these questions: What made Iqbal brave? How is he similar to the reformers during the Industrial Revolution? What would you do if you saw something unfair happening? Draw a picture of Iqbal speaking to a crowd.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Iqbal said: 'Children should have pens in their hands, not tools.' Discuss what this means. How does education change lives? How is your life different because of people who fought for children's rights?", "mastery_check": "Can the child retell Iqbal's story and explain the connection between historical and modern child labor?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "The Story of Iqbal Masih",
+          "image_url": "https://images.pexels.com/photos/5865565/pexels-photo-5865565.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Iqbal by Francesco D'Adamo (or adapted excerpt)",
+            "World map",
+            "Reading journal",
+            "Pencil",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Prepare an age-appropriate version of Iqbal's story. If you don't have the book, find a children's summary online. Locate Pakistan on the world map."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect to earlier learning: 'We learned that during the Industrial Revolution, children worked in factories. Laws were passed to stop this. But in some parts of the world, child labor still exists today. This is the true story of a brave boy who fought against it.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show Pakistan on the map. 'Iqbal Masih was born in Pakistan in 1983. When he was only 4 years old, his family was so poor that he was sent to work in a carpet factory. He worked 12 hours a day, 6 days a week, tying tiny knots to make carpets.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Read the adapted excerpt. Focus on Iqbal's courage: at age 10, he escaped the factory and began speaking out. He traveled the world telling people about child labor. He helped free over 3,000 children from forced labor."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal, write about courage. Answer these questions: What made Iqbal brave? How is he similar to the reformers during the Industrial Revolution? What would you do if you saw something unfair happening? Draw a picture of Iqbal speaking to a crowd.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Iqbal said: 'Children should have pens in their hands, not tools.' Discuss what this means. How does education change lives? How is your life different because of people who fought for children's rights?",
+          "mastery_check": "Can the child retell Iqbal's story and explain the connection between historical and modern child labor?"
+        }
       ]
     },
     "parent_notes": "Iqbal's story is inspiring but also tragic — he was killed at age 12 in 1995. You may choose to share or omit this detail depending on your child's maturity. The focus should be on his courage and the positive change he created. This connects the Industrial Revolution's child labor to present-day issues, showing children that history isn't just about the past. If your child is moved by this story, the organization 'Free the Children' (now WE) was founded by a 12-year-old inspired by Iqbal's story.",
@@ -428,17 +1122,62 @@
     "instructions": "1. Review the elements: headline, lead paragraph, body with quotes, closing.\n2. Show the structure of a complete article using a model.\n3. Brainstorm an event to write about (a family outing, a project, a pet's trick).\n4. Outline using the Five W's.\n5. Write the article: headline, lead, body paragraphs with at least one quote, closing.\n6. Edit and revise for clarity and completeness.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Model news article (annotated)", "News article template/outline", "Notebook", "Pencil and eraser", "Thesaurus (optional)"],
+    "materials_needed": [
+      "Model news article (annotated)",
+      "News article template/outline",
+      "Notebook",
+      "Pencil and eraser",
+      "Thesaurus (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Journalism", "subheading": "Writing a Complete News Article"},
-        {"type": "materials", "items": ["Model news article (annotated)", "News article template/outline", "Notebook", "Pencil and eraser", "Thesaurus (optional)"], "setup_instructions": "Prepare an annotated model article showing each part labeled (headline, lead, body, quote, closing). Create an outline template the child can fill in."},
-        {"type": "instruction", "step": 1, "text": "Review the pieces: 'This week we've learned the Five W's, how to write a lead, and how to use quotes. Today we put it all together to write a real news article!' Show the annotated model article."},
-        {"type": "instruction", "step": 2, "text": "Walk through the model: 'The HEADLINE is short and catchy — it grabs attention. The LEAD answers the most important W's. The BODY gives details and includes quotes from sources. The CLOSING wraps up with what might happen next or why it matters.'"},
-        {"type": "instruction", "step": 3, "text": "Brainstorm together: 'What event can you report on? It could be something real that happened in your family, neighborhood, or homeschool. Or you could write about something you wish would happen.' Choose an event and fill in the Five W's outline."},
-        {"type": "instruction", "step": 4, "text": "Write the article step by step. Start with the lead (1-2 sentences answering the key W's). Then write 2-3 body paragraphs with details. Include at least one direct quote. End with a closing sentence about what happens next."},
-        {"type": "activity", "prompt": "Write your complete news article (6-10 sentences minimum). Include: a catchy headline, a strong lead paragraph, at least 2 body paragraphs with details, at least 1 direct quote with correct punctuation, and a closing sentence. Then read it aloud — does it sound like real news?", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Peer edit (or parent edit): Check for the Five W's, a clear lead, at least one quote, and correct punctuation. These articles will go into our class newspaper on Friday!", "mastery_check": "Can the child write a complete news article with headline, lead, body paragraphs with a quote, and a closing?"}
+        {
+          "type": "title",
+          "heading": "Journalism",
+          "subheading": "Writing a Complete News Article",
+          "image_url": "https://images.pexels.com/photos/1822568/pexels-photo-1822568.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Model news article (annotated)",
+            "News article template/outline",
+            "Notebook",
+            "Pencil and eraser",
+            "Thesaurus (optional)"
+          ],
+          "setup_instructions": "Prepare an annotated model article showing each part labeled (headline, lead, body, quote, closing). Create an outline template the child can fill in."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the pieces: 'This week we've learned the Five W's, how to write a lead, and how to use quotes. Today we put it all together to write a real news article!' Show the annotated model article."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Walk through the model: 'The HEADLINE is short and catchy — it grabs attention. The LEAD answers the most important W's. The BODY gives details and includes quotes from sources. The CLOSING wraps up with what might happen next or why it matters.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Brainstorm together: 'What event can you report on? It could be something real that happened in your family, neighborhood, or homeschool. Or you could write about something you wish would happen.' Choose an event and fill in the Five W's outline."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Write the article step by step. Start with the lead (1-2 sentences answering the key W's). Then write 2-3 body paragraphs with details. Include at least one direct quote. End with a closing sentence about what happens next."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your complete news article (6-10 sentences minimum). Include: a catchy headline, a strong lead paragraph, at least 2 body paragraphs with details, at least 1 direct quote with correct punctuation, and a closing sentence. Then read it aloud — does it sound like real news?",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Peer edit (or parent edit): Check for the Five W's, a clear lead, at least one quote, and correct punctuation. These articles will go into our class newspaper on Friday!",
+          "mastery_check": "Can the child write a complete news article with headline, lead, body paragraphs with a quote, and a closing?"
+        }
       ]
     },
     "parent_notes": "This is the culmination of the journalism unit — all skills come together. The article doesn't need to be long; 6-10 well-crafted sentences are plenty. The editing process is important: teach the child to re-read their work asking 'Does this make sense? Did I answer the W's? Would a reader understand this without already knowing the story?' Writing about real events makes it meaningful. Save these articles for Friday's newspaper project.",
@@ -456,17 +1195,66 @@
     "instructions": "1. Show a pictograph (e.g., apples sold at a farm stand, where each apple picture = 2 apples).\n2. Identify the key/legend and explain that one picture can represent multiple items.\n3. Practice reading the pictograph by counting symbols and multiplying.\n4. Discuss half-symbols for odd numbers.\n5. Have the child create a pictograph from data.\n6. Compare pictographs to bar graphs — when would you use each?",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Sample pictographs (3-4)", "Drawing paper or graph paper", "Pencil", "Colored pencils", "Ruler", "Data table for pictograph creation", "Stickers or stamps (optional)"],
+    "materials_needed": [
+      "Sample pictographs (3-4)",
+      "Drawing paper or graph paper",
+      "Pencil",
+      "Colored pencils",
+      "Ruler",
+      "Data table for pictograph creation",
+      "Stickers or stamps (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Data and Graphing", "subheading": "Pictographs"},
-        {"type": "materials", "items": ["Sample pictographs (3-4)", "Drawing paper or graph paper", "Pencil", "Colored pencils", "Ruler", "Data table", "Stickers or stamps (optional)"], "setup_instructions": "Prepare pictographs with different keys (1 symbol = 1, 1 symbol = 2, 1 symbol = 5). Include at least one with half-symbols. Create a data table for the child to convert into a pictograph."},
-        {"type": "instruction", "step": 1, "text": "Show the first pictograph. 'This is called a pictograph — it uses pictures to represent data. But there's a trick: look at the key at the bottom. It says each apple picture equals 2 real apples. So if you see 3 apple pictures, that means 3 x 2 = 6 apples!'"},
-        {"type": "instruction", "step": 2, "text": "Practice reading together. 'How many apples were sold on Monday? Count the pictures: 1, 2, 3, 4. Each picture equals 2, so 4 x 2 = 8 apples. What about this half-picture? Half of 2 is 1, so that row shows 5 apples total.'"},
-        {"type": "instruction", "step": 3, "text": "Show different pictographs with different keys: 1 symbol = 1, 1 symbol = 2, 1 symbol = 5, 1 symbol = 10. 'The key changes the value of every picture! Always check the key first before reading the graph.'"},
-        {"type": "instruction", "step": 4, "text": "Compare: 'Pictographs and bar graphs both show data. Pictographs are fun and visual — great for newsletters and posters. Bar graphs are more precise — better when you need exact numbers. A pictograph can be harder to read when numbers are very large.'"},
-        {"type": "activity", "prompt": "Create a pictograph from the data table. Decide: What picture will you use? What will the key be (each picture = 2 or 5)? Draw your symbols neatly in rows. Add a title and key. Then write 3 comparison sentences about your data (e.g., 'X had the most because...').", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Exchange pictographs. Can your parent/partner read your pictograph correctly? If they can, your key and layout are clear! This week you've learned 3 types of graphs — bar, line, and pictograph. Tomorrow we'll choose the right graph for different situations.", "mastery_check": "Can the child read a pictograph using a key, handle half-symbols, and create their own pictograph with an appropriate key?"}
+        {
+          "type": "title",
+          "heading": "Data and Graphing",
+          "subheading": "Pictographs",
+          "image_url": "https://images.pexels.com/photos/6037812/pexels-photo-6037812.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sample pictographs (3-4)",
+            "Drawing paper or graph paper",
+            "Pencil",
+            "Colored pencils",
+            "Ruler",
+            "Data table",
+            "Stickers or stamps (optional)"
+          ],
+          "setup_instructions": "Prepare pictographs with different keys (1 symbol = 1, 1 symbol = 2, 1 symbol = 5). Include at least one with half-symbols. Create a data table for the child to convert into a pictograph."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the first pictograph. 'This is called a pictograph — it uses pictures to represent data. But there's a trick: look at the key at the bottom. It says each apple picture equals 2 real apples. So if you see 3 apple pictures, that means 3 x 2 = 6 apples!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Practice reading together. 'How many apples were sold on Monday? Count the pictures: 1, 2, 3, 4. Each picture equals 2, so 4 x 2 = 8 apples. What about this half-picture? Half of 2 is 1, so that row shows 5 apples total.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show different pictographs with different keys: 1 symbol = 1, 1 symbol = 2, 1 symbol = 5, 1 symbol = 10. 'The key changes the value of every picture! Always check the key first before reading the graph.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Compare: 'Pictographs and bar graphs both show data. Pictographs are fun and visual — great for newsletters and posters. Bar graphs are more precise — better when you need exact numbers. A pictograph can be harder to read when numbers are very large.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a pictograph from the data table. Decide: What picture will you use? What will the key be (each picture = 2 or 5)? Draw your symbols neatly in rows. Add a title and key. Then write 3 comparison sentences about your data (e.g., 'X had the most because...').",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Exchange pictographs. Can your parent/partner read your pictograph correctly? If they can, your key and layout are clear! This week you've learned 3 types of graphs — bar, line, and pictograph. Tomorrow we'll choose the right graph for different situations.",
+          "mastery_check": "Can the child read a pictograph using a key, handle half-symbols, and create their own pictograph with an appropriate key?"
+        }
       ]
     },
     "parent_notes": "Pictographs look simple but the key/legend concept (one symbol = multiple items) is a form of proportional reasoning — a sophisticated math skill. The most common error is forgetting to use the key and just counting pictures. Practice asking: 'How much is each picture worth?' before reading any pictograph. Half-symbols are tricky for some children; use concrete objects if needed. Stickers make pictograph creation more fun and faster than drawing each symbol.",
@@ -484,17 +1272,64 @@
     "instructions": "1. Review biomes from Tuesday's lesson.\n2. Define adaptation: a feature or behavior that helps an organism survive.\n3. Introduce structural adaptations: thick fur, long roots, webbed feet, camouflage.\n4. Introduce behavioral adaptations: migration, hibernation, nocturnal activity.\n5. Match adaptations to biomes: Why does the arctic fox have white fur? Why do desert animals hunt at night?\n6. Research and present one animal's adaptations.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Pictures of adapted animals (10-12)", "Biome map from Tuesday", "Adaptation sorting cards", "Notebook", "Pencil", "Reference books or approved websites"],
+    "materials_needed": [
+      "Pictures of adapted animals (10-12)",
+      "Biome map from Tuesday",
+      "Adaptation sorting cards",
+      "Notebook",
+      "Pencil",
+      "Reference books or approved websites"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Adaptations", "subheading": "Structural and Behavioral"},
-        {"type": "materials", "items": ["Pictures of adapted animals (10-12)", "Biome map", "Adaptation sorting cards", "Notebook", "Pencil", "Reference books or approved websites"], "setup_instructions": "Print pictures of animals with obvious adaptations: arctic fox, camel, cactus, polar bear, tree frog, hummingbird, penguin, sidewinder snake. Create sorting cards labeled 'Structural' and 'Behavioral.'"},
-        {"type": "instruction", "step": 1, "text": "Ask: 'How can a polar bear survive in the freezing Arctic while a camel survives in the scorching desert? They have special features and behaviors that help them survive in their biome. These are called adaptations.'"},
-        {"type": "instruction", "step": 2, "text": "Define two types: 'STRUCTURAL adaptations are body features you can see or touch: thick fur, sharp claws, long beaks, camouflage coloring, large ears for cooling. BEHAVIORAL adaptations are things animals DO: migrate south for winter, hibernate, hunt at night, build dams.'"},
-        {"type": "instruction", "step": 3, "text": "Sort examples together. Show each animal picture: 'Polar bear — thick fur and fat layer (structural), hunts seals at breathing holes (behavioral). Camel — stores fat in hump, has wide feet for sand (structural), can go days without water (behavioral). Arctic fox — white fur in winter, brown in summer (structural).'"},
-        {"type": "instruction", "step": 4, "text": "Connect to biomes: 'Each biome has challenges. Tundra: extreme cold. Desert: extreme heat and no water. Rainforest: intense competition for light. Adaptations are the solutions organisms have developed over millions of years.' Reference the biome comparison chart."},
-        {"type": "activity", "prompt": "Choose one animal and research it. Create an 'Adaptation Profile' in your notebook: draw the animal, label at least 2 structural adaptations, describe at least 1 behavioral adaptation, and explain which biome it lives in and why these adaptations help it survive there.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Present your Adaptation Profile. Can you explain how each adaptation connects to the animal's biome? Remember: adaptations develop over many generations — animals don't choose their adaptations; they evolve over time.", "mastery_check": "Can the child distinguish between structural and behavioral adaptations and explain how specific adaptations help organisms survive in their biomes?"}
+        {
+          "type": "title",
+          "heading": "Adaptations",
+          "subheading": "Structural and Behavioral",
+          "image_url": "https://images.pexels.com/photos/5063470/pexels-photo-5063470.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pictures of adapted animals (10-12)",
+            "Biome map",
+            "Adaptation sorting cards",
+            "Notebook",
+            "Pencil",
+            "Reference books or approved websites"
+          ],
+          "setup_instructions": "Print pictures of animals with obvious adaptations: arctic fox, camel, cactus, polar bear, tree frog, hummingbird, penguin, sidewinder snake. Create sorting cards labeled 'Structural' and 'Behavioral.'"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Ask: 'How can a polar bear survive in the freezing Arctic while a camel survives in the scorching desert? They have special features and behaviors that help them survive in their biome. These are called adaptations.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Define two types: 'STRUCTURAL adaptations are body features you can see or touch: thick fur, sharp claws, long beaks, camouflage coloring, large ears for cooling. BEHAVIORAL adaptations are things animals DO: migrate south for winter, hibernate, hunt at night, build dams.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Sort examples together. Show each animal picture: 'Polar bear — thick fur and fat layer (structural), hunts seals at breathing holes (behavioral). Camel — stores fat in hump, has wide feet for sand (structural), can go days without water (behavioral). Arctic fox — white fur in winter, brown in summer (structural).'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Connect to biomes: 'Each biome has challenges. Tundra: extreme cold. Desert: extreme heat and no water. Rainforest: intense competition for light. Adaptations are the solutions organisms have developed over millions of years.' Reference the biome comparison chart."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose one animal and research it. Create an 'Adaptation Profile' in your notebook: draw the animal, label at least 2 structural adaptations, describe at least 1 behavioral adaptation, and explain which biome it lives in and why these adaptations help it survive there.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Present your Adaptation Profile. Can you explain how each adaptation connects to the animal's biome? Remember: adaptations develop over many generations — animals don't choose their adaptations; they evolve over time.",
+          "mastery_check": "Can the child distinguish between structural and behavioral adaptations and explain how specific adaptations help organisms survive in their biomes?"
+        }
       ]
     },
     "parent_notes": "Adaptations are one of the most engaging science topics for this age. Children naturally notice differences between animals and love learning WHY those differences exist. Avoid the misconception that animals 'decided' to adapt — adaptations develop through natural selection over many generations. You don't need to explain evolution in detail, but say something like: 'Over thousands and thousands of years, the animals that were best suited to their environment had the most babies, and those babies inherited the helpful features.' Real specimens (feathers, shells, pinecones) make this concrete.",
@@ -512,17 +1347,64 @@
     "instructions": "1. Review area: length x width = square units on a flat surface.\n2. Ask: 'What if we stack squares up? Now we have a 3D shape!'\n3. Introduce volume: the amount of space a 3D shape takes up.\n4. Use unit cubes to build rectangular prisms.\n5. Count cubes to find volume. Introduce cubic units.\n6. Build several shapes and compare their volumes.\n7. Discover the formula: length x width x height.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Unit cubes (at least 60)", "Rulers", "Graph paper", "Pencil", "Small boxes or containers to fill with cubes", "Recording sheet"],
+    "materials_needed": [
+      "Unit cubes (at least 60)",
+      "Rulers",
+      "Graph paper",
+      "Pencil",
+      "Small boxes or containers to fill with cubes",
+      "Recording sheet"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Volume", "subheading": "Introduction to Cubic Units"},
-        {"type": "materials", "items": ["Unit cubes (at least 60)", "Rulers", "Graph paper", "Pencil", "Small boxes or containers", "Recording sheet"], "setup_instructions": "Gather unit cubes (1-inch or 1-cm cubes). If you don't have math cubes, use sugar cubes or small blocks. Have a few small boxes (tissue box, jewelry box) available."},
-        {"type": "instruction", "step": 1, "text": "Review area: 'When we covered a flat surface with square tiles, we measured AREA — that was 2D, length times width. But the world isn't flat! What about the space INSIDE a box? Today we measure in 3D. This is called VOLUME.'"},
-        {"type": "instruction", "step": 2, "text": "Hold up a unit cube. 'This is 1 cubic unit. It's our building block for measuring volume, just like square units measured area. When we fill a 3D shape with these cubes, the number of cubes is the volume.'"},
-        {"type": "instruction", "step": 3, "text": "Build a rectangular prism together: 3 cubes long, 2 cubes wide, 1 cube tall. Count: 6 cubes. 'The volume is 6 cubic units.' Now add another layer on top (3 x 2 x 2). Count: 12 cubes. 'What happened when we doubled the height?'"},
-        {"type": "instruction", "step": 4, "text": "Build several more shapes: 4x2x2, 3x3x2, 5x2x1. Count cubes each time. Then ask: 'Is there a shortcut instead of counting every cube?' Guide to the discovery: length x width x height = volume. Test it: 3 x 2 x 2 = 12. Check by counting — it works!"},
-        {"type": "activity", "prompt": "Build 5 different rectangular prisms with your cubes. For each one, record the length, width, height, and volume. Verify by counting cubes AND by multiplying L x W x H. Challenge: Can you build two different shapes that have the same volume?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Discuss the challenge: 'Did anyone find two different shapes with the same volume? (Example: 2x3x2 = 12 and 1x4x3 = 12.) Just like rectangles with the same area can look different, boxes with the same volume can have different shapes!' Volume is measured in CUBIC units.", "mastery_check": "Can the child build rectangular prisms, find volume by counting cubes and by using L x W x H, and explain what volume measures?"}
+        {
+          "type": "title",
+          "heading": "Volume",
+          "subheading": "Introduction to Cubic Units",
+          "image_url": "https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Unit cubes (at least 60)",
+            "Rulers",
+            "Graph paper",
+            "Pencil",
+            "Small boxes or containers",
+            "Recording sheet"
+          ],
+          "setup_instructions": "Gather unit cubes (1-inch or 1-cm cubes). If you don't have math cubes, use sugar cubes or small blocks. Have a few small boxes (tissue box, jewelry box) available."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review area: 'When we covered a flat surface with square tiles, we measured AREA — that was 2D, length times width. But the world isn't flat! What about the space INSIDE a box? Today we measure in 3D. This is called VOLUME.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Hold up a unit cube. 'This is 1 cubic unit. It's our building block for measuring volume, just like square units measured area. When we fill a 3D shape with these cubes, the number of cubes is the volume.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Build a rectangular prism together: 3 cubes long, 2 cubes wide, 1 cube tall. Count: 6 cubes. 'The volume is 6 cubic units.' Now add another layer on top (3 x 2 x 2). Count: 12 cubes. 'What happened when we doubled the height?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Build several more shapes: 4x2x2, 3x3x2, 5x2x1. Count cubes each time. Then ask: 'Is there a shortcut instead of counting every cube?' Guide to the discovery: length x width x height = volume. Test it: 3 x 2 x 2 = 12. Check by counting — it works!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Build 5 different rectangular prisms with your cubes. For each one, record the length, width, height, and volume. Verify by counting cubes AND by multiplying L x W x H. Challenge: Can you build two different shapes that have the same volume?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Discuss the challenge: 'Did anyone find two different shapes with the same volume? (Example: 2x3x2 = 12 and 1x4x3 = 12.) Just like rectangles with the same area can look different, boxes with the same volume can have different shapes!' Volume is measured in CUBIC units.",
+          "mastery_check": "Can the child build rectangular prisms, find volume by counting cubes and by using L x W x H, and explain what volume measures?"
+        }
       ]
     },
     "parent_notes": "Volume is a natural extension of area. The progression is: length (1D) → area (2D) → volume (3D). Unit cubes make this concrete — the child literally fills the space and counts. If you don't have math manipulative cubes, sugar cubes or LEGO bricks work well. The key insight is the formula discovery: instead of counting all cubes, multiply length x width x height. Let the child discover this pattern through building and counting first, then verify with multiplication. The challenge of finding equal volumes in different shapes is a powerful mathematical idea.",
@@ -540,17 +1422,62 @@
     "instructions": "1. Discuss: 'When work was hard and long, people sang to pass the time and express their feelings.'\n2. Listen to 2-3 work songs or folk songs from the Industrial era.\n3. Read the lyrics together and discuss the themes: hard work, hope, solidarity.\n4. Analyze the song structure: verse, chorus, repetition.\n5. Write a verse of a work song together.\n6. Perform or sing the song.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Audio recordings of work songs or folk songs", "Printed lyrics", "Pencil", "Notebook", "Simple percussion instruments (optional)"],
+    "materials_needed": [
+      "Audio recordings of work songs or folk songs",
+      "Printed lyrics",
+      "Pencil",
+      "Notebook",
+      "Simple percussion instruments (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Music of the Industrial Age", "subheading": "Work Songs and Folk Music"},
-        {"type": "materials", "items": ["Audio recordings of work songs", "Printed lyrics", "Pencil", "Notebook", "Simple percussion instruments (optional)"], "setup_instructions": "Find recordings of folk/work songs such as 'Drill Ye Tarriers Drill,' 'Sixteen Tons,' or English folk songs about mills and mining. Print lyrics for the songs you select."},
-        {"type": "instruction", "step": 1, "text": "Set the scene: 'Imagine working in a factory for 14 hours. The machines are loud and the work is boring and repetitive. What would help pass the time? Singing! Workers sang together to keep rhythm, stay awake, and express their feelings about hard work.'"},
-        {"type": "instruction", "step": 2, "text": "Listen to the first song. Follow along with the lyrics. 'What is this song about? How does the singer feel? What words tell you about their life?' Discuss the themes: hard work, low pay, hope for something better, unity with fellow workers."},
-        {"type": "instruction", "step": 3, "text": "Analyze the structure: 'Notice the verses and chorus. The chorus repeats — everyone can join in even if they don't know the verses. The rhythm is steady — often matching the rhythm of the work (swinging a hammer, pulling a rope).'"},
-        {"type": "instruction", "step": 4, "text": "Write a work song together. Choose a rhythm and a repeating chorus. Example chorus: 'We work all day, we work all night, but someday things will be all right.' Write 2 verses describing a worker's day."},
-        {"type": "activity", "prompt": "Write your own verse for the work song. Think about: What job are you doing? What do you see, hear, and feel? What do you wish for? Use rhythm and rhyme if you can. Then perform the complete song — sing or chant it with clapping or percussion.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Music tells us about people's lives and feelings. Work songs are a primary source — they tell us what ordinary workers thought and felt during the Industrial Revolution. 'How did singing together help workers?'", "mastery_check": "Can the child identify themes in work songs, explain why workers sang, and create a verse that reflects the experience of industrial work?"}
+        {
+          "type": "title",
+          "heading": "Music of the Industrial Age",
+          "subheading": "Work Songs and Folk Music",
+          "image_url": "https://images.pexels.com/photos/8132953/pexels-photo-8132953.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Audio recordings of work songs",
+            "Printed lyrics",
+            "Pencil",
+            "Notebook",
+            "Simple percussion instruments (optional)"
+          ],
+          "setup_instructions": "Find recordings of folk/work songs such as 'Drill Ye Tarriers Drill,' 'Sixteen Tons,' or English folk songs about mills and mining. Print lyrics for the songs you select."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the scene: 'Imagine working in a factory for 14 hours. The machines are loud and the work is boring and repetitive. What would help pass the time? Singing! Workers sang together to keep rhythm, stay awake, and express their feelings about hard work.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Listen to the first song. Follow along with the lyrics. 'What is this song about? How does the singer feel? What words tell you about their life?' Discuss the themes: hard work, low pay, hope for something better, unity with fellow workers."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Analyze the structure: 'Notice the verses and chorus. The chorus repeats — everyone can join in even if they don't know the verses. The rhythm is steady — often matching the rhythm of the work (swinging a hammer, pulling a rope).'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Write a work song together. Choose a rhythm and a repeating chorus. Example chorus: 'We work all day, we work all night, but someday things will be all right.' Write 2 verses describing a worker's day."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your own verse for the work song. Think about: What job are you doing? What do you see, hear, and feel? What do you wish for? Use rhythm and rhyme if you can. Then perform the complete song — sing or chant it with clapping or percussion.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Music tells us about people's lives and feelings. Work songs are a primary source — they tell us what ordinary workers thought and felt during the Industrial Revolution. 'How did singing together help workers?'",
+          "mastery_check": "Can the child identify themes in work songs, explain why workers sang, and create a verse that reflects the experience of industrial work?"
+        }
       ]
     },
     "parent_notes": "Work songs are a wonderful entry point for understanding history through the arts. 'Drill Ye Tarriers Drill' is about railroad workers, 'Sixteen Tons' about coal miners. These songs are available on YouTube and Spotify. The rhythmic, repetitive nature of work songs connects to the rhythmic, repetitive nature of factory work. Don't worry about musical quality — the goal is creative expression and historical empathy. If your child plays an instrument, they could accompany the song.",
@@ -568,17 +1495,66 @@
     "instructions": "1. Review all articles written this week.\n2. Discuss newspaper layout: front page, headlines, columns, photos/illustrations.\n3. Assign roles: editor-in-chief reviews all articles, reporter writes, illustrator draws.\n4. Edit articles for clarity and grammar.\n5. Lay out the newspaper on large paper or using a template.\n6. Add illustrations, a newspaper name, and a date.\n7. Share the newspaper with family members.",
     "duration_minutes": 45,
     "lesson_type": "project",
-    "materials_needed": ["All articles written this week", "Large poster paper or newspaper template", "Glue stick", "Scissors", "Pencils and colored pencils", "Ruler", "Markers for headlines"],
+    "materials_needed": [
+      "All articles written this week",
+      "Large poster paper or newspaper template",
+      "Glue stick",
+      "Scissors",
+      "Pencils and colored pencils",
+      "Ruler",
+      "Markers for headlines"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Journalism", "subheading": "Publishing Our Class Newspaper"},
-        {"type": "materials", "items": ["All articles from this week", "Large poster paper or newspaper template", "Glue stick", "Scissors", "Pencils and colored pencils", "Ruler", "Markers for headlines"], "setup_instructions": "Gather all articles written during the week. Prepare large paper for the newspaper layout. If multiple children, assign sections. Have markers ready for large headlines."},
-        {"type": "instruction", "step": 1, "text": "Introduce the publishing process: 'Real newspapers have editors who review every article before it's published. Today you are both the reporter AND the editor. First, re-read each article. Fix any spelling, grammar, or unclear sentences.'"},
-        {"type": "instruction", "step": 2, "text": "Choose a newspaper name together. It should sound official: 'The Family Times,' 'The Homeschool Herald,' 'The Weekly World.' Write the name in large letters across the top of the poster paper. Add the date below."},
-        {"type": "instruction", "step": 3, "text": "Layout the newspaper: 'The most important story goes on the front page with the biggest headline. Other stories go below or on the back. Leave space for illustrations between articles. Use columns like a real newspaper — text in narrow columns is easier to read.'"},
-        {"type": "instruction", "step": 4, "text": "Write final copies of each article neatly (or print them). Cut and glue onto the newspaper layout. Add illustrations: draw pictures that relate to each story, like photographs would in a real newspaper. Add captions under each illustration."},
-        {"type": "activity", "prompt": "Complete your newspaper. Make sure every article has: a headline, the reporter's name (your name!), and at least one illustration. Add one more feature: a weather report, a joke, a fun fact, or a 'letter to the editor.' Present your finished newspaper to your family.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Read the newspaper aloud to your family. Ask: 'What was the most interesting article? What would you want to read more about?' You've completed the full journalism cycle: researching, interviewing, writing, editing, and publishing!", "mastery_check": "Can the child compile edited articles into a newspaper layout with headlines, illustrations, and a clear organization?"}
+        {
+          "type": "title",
+          "heading": "Journalism",
+          "subheading": "Publishing Our Class Newspaper",
+          "image_url": "https://images.pexels.com/photos/1275235/pexels-photo-1275235.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "All articles from this week",
+            "Large poster paper or newspaper template",
+            "Glue stick",
+            "Scissors",
+            "Pencils and colored pencils",
+            "Ruler",
+            "Markers for headlines"
+          ],
+          "setup_instructions": "Gather all articles written during the week. Prepare large paper for the newspaper layout. If multiple children, assign sections. Have markers ready for large headlines."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Introduce the publishing process: 'Real newspapers have editors who review every article before it's published. Today you are both the reporter AND the editor. First, re-read each article. Fix any spelling, grammar, or unclear sentences.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Choose a newspaper name together. It should sound official: 'The Family Times,' 'The Homeschool Herald,' 'The Weekly World.' Write the name in large letters across the top of the poster paper. Add the date below."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Layout the newspaper: 'The most important story goes on the front page with the biggest headline. Other stories go below or on the back. Leave space for illustrations between articles. Use columns like a real newspaper — text in narrow columns is easier to read.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Write final copies of each article neatly (or print them). Cut and glue onto the newspaper layout. Add illustrations: draw pictures that relate to each story, like photographs would in a real newspaper. Add captions under each illustration."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete your newspaper. Make sure every article has: a headline, the reporter's name (your name!), and at least one illustration. Add one more feature: a weather report, a joke, a fun fact, or a 'letter to the editor.' Present your finished newspaper to your family.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Read the newspaper aloud to your family. Ask: 'What was the most interesting article? What would you want to read more about?' You've completed the full journalism cycle: researching, interviewing, writing, editing, and publishing!",
+          "mastery_check": "Can the child compile edited articles into a newspaper layout with headlines, illustrations, and a clear organization?"
+        }
       ]
     },
     "parent_notes": "This project-based lesson is the grand finale of the journalism unit. The product — a real newspaper — gives the child a concrete artifact of their learning. Display it prominently! The editing process is as important as the creation. Consider photocopying the newspaper to send to grandparents or friends. If your child enjoys this, it could become a regular feature — a monthly family newspaper is a fantastic ongoing writing project. Some children may want to type their articles on a computer for a more professional look.",
@@ -596,17 +1572,64 @@
     "instructions": "1. Review all three graph types: bar graph, line graph, pictograph.\n2. Present scenarios and discuss which graph is most appropriate.\n3. Have the child design a survey question.\n4. Collect data from family members or use provided data.\n5. Create the appropriate graph type.\n6. Write a summary paragraph describing the results.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Graph type comparison chart", "Graph paper", "Colored pencils", "Pencil and ruler", "Survey form template", "Previous graphs from the week for reference"],
+    "materials_needed": [
+      "Graph type comparison chart",
+      "Graph paper",
+      "Colored pencils",
+      "Pencil and ruler",
+      "Survey form template",
+      "Previous graphs from the week for reference"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Data and Graphing", "subheading": "Choosing the Right Graph"},
-        {"type": "materials", "items": ["Graph type comparison chart", "Graph paper", "Colored pencils", "Pencil and ruler", "Survey form template", "Previous graphs for reference"], "setup_instructions": "Create a comparison chart: Bar Graph (compares categories), Line Graph (shows change over time), Pictograph (compares categories with pictures). Prepare 4-5 scenarios for graph selection practice."},
-        {"type": "instruction", "step": 1, "text": "Review: 'This week we've learned 3 types of graphs. Each one is best for a different kind of data. Let's figure out when to use each one.' Display the comparison chart."},
-        {"type": "instruction", "step": 2, "text": "Practice with scenarios. 'You want to show how your plant grew taller each day for 2 weeks. Which graph? (Line graph — change over time.) You surveyed 20 people about their favorite season. Which graph? (Bar graph or pictograph — comparing categories.) You want to show how many books each student read this month. (Pictograph or bar graph.)'"},
-        {"type": "instruction", "step": 3, "text": "Design your own survey: 'Choose a question that interests you. It should have 4-6 possible answers. For example: What's your favorite breakfast food? (cereal, eggs, pancakes, toast, fruit, yogurt).' Write the question and answer choices on a survey form."},
-        {"type": "instruction", "step": 4, "text": "Collect data: Survey at least 5-10 people (family members, friends, neighbors by phone). Record responses with tally marks. Count totals."},
-        {"type": "activity", "prompt": "Choose the best graph type for your survey data (bar graph or pictograph work well for surveys). Create the graph. Then write a summary paragraph: What did you investigate? How many people responded? What was the most popular choice? What surprised you? Include at least one comparison.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Present your survey results using your graph. 'Data is powerful — it helps us see patterns and make decisions. This week you've learned to read, create, and choose the right graph for any situation. You're now a data scientist!'", "mastery_check": "Can the child select the appropriate graph type for a given data set, design a survey, collect data, and create a clear graph with a written summary?"}
+        {
+          "type": "title",
+          "heading": "Data and Graphing",
+          "subheading": "Choosing the Right Graph",
+          "image_url": "https://images.pexels.com/photos/1019470/pexels-photo-1019470.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Graph type comparison chart",
+            "Graph paper",
+            "Colored pencils",
+            "Pencil and ruler",
+            "Survey form template",
+            "Previous graphs for reference"
+          ],
+          "setup_instructions": "Create a comparison chart: Bar Graph (compares categories), Line Graph (shows change over time), Pictograph (compares categories with pictures). Prepare 4-5 scenarios for graph selection practice."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'This week we've learned 3 types of graphs. Each one is best for a different kind of data. Let's figure out when to use each one.' Display the comparison chart."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Practice with scenarios. 'You want to show how your plant grew taller each day for 2 weeks. Which graph? (Line graph — change over time.) You surveyed 20 people about their favorite season. Which graph? (Bar graph or pictograph — comparing categories.) You want to show how many books each student read this month. (Pictograph or bar graph.)'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Design your own survey: 'Choose a question that interests you. It should have 4-6 possible answers. For example: What's your favorite breakfast food? (cereal, eggs, pancakes, toast, fruit, yogurt).' Write the question and answer choices on a survey form."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Collect data: Survey at least 5-10 people (family members, friends, neighbors by phone). Record responses with tally marks. Count totals."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose the best graph type for your survey data (bar graph or pictograph work well for surveys). Create the graph. Then write a summary paragraph: What did you investigate? How many people responded? What was the most popular choice? What surprised you? Include at least one comparison.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Present your survey results using your graph. 'Data is powerful — it helps us see patterns and make decisions. This week you've learned to read, create, and choose the right graph for any situation. You're now a data scientist!'",
+          "mastery_check": "Can the child select the appropriate graph type for a given data set, design a survey, collect data, and create a clear graph with a written summary?"
+        }
       ]
     },
     "parent_notes": "The survey project is the most meaningful part of this week's data unit because it involves real-world data collection. Help your child survey family members, friends, or even neighbors (a phone call works too). The key learning is choosing the RIGHT type of graph, not just creating one. If your child is unsure, ask: 'Does your data show change over time? Or does it compare different categories?' This decision-making skill transfers to interpreting graphs they'll see in news, science, and everyday life.",
@@ -624,17 +1647,65 @@
     "instructions": "1. Review the steam engine from Wednesday.\n2. Explain how George Stephenson applied steam power to transportation — the steam locomotive.\n3. Show the first public railway: Liverpool to Manchester (1830).\n4. Discuss how railways changed everything: speed of travel, transport of goods, growth of cities.\n5. Trace the expansion of the railway network on a map of Britain.\n6. Calculate travel time comparisons: horse vs. train.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Map of Britain (blank and labeled)", "Pictures of early trains and railway construction", "Ruler", "Colored pencils", "Timeline materials", "Calculator (optional)"],
+    "materials_needed": [
+      "Map of Britain (blank and labeled)",
+      "Pictures of early trains and railway construction",
+      "Ruler",
+      "Colored pencils",
+      "Timeline materials",
+      "Calculator (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Railway Revolution", "subheading": "Mapping Britain's Rail Network"},
-        {"type": "materials", "items": ["Blank map of Britain", "Labeled reference map with railways", "Pictures of early trains", "Ruler", "Colored pencils", "Timeline materials", "Calculator (optional)"], "setup_instructions": "Print a blank map of Britain with major cities marked. Have a reference map showing early railway routes. Prepare distance and speed data for calculations."},
-        {"type": "instruction", "step": 1, "text": "Connect to the steam engine: 'We learned how James Watt's steam engine powered factory machines. But another inventor had a brilliant idea: what if we put a steam engine on wheels and ran it on iron tracks? George Stephenson built the first practical steam locomotive.'"},
-        {"type": "instruction", "step": 2, "text": "Show the Liverpool-Manchester Railway (1830): 'This was the first public railway. People came from all over to watch. The train traveled 30 miles in about an hour — faster than any horse! Before railways, that same trip took half a day by horse and carriage.'"},
-        {"type": "instruction", "step": 3, "text": "Discuss the impact: 'Railways changed EVERYTHING. Factories could ship products across the country in hours instead of days. People could travel to cities for work. Fresh food could reach markets before spoiling. Towns along railways grew; towns without railways shrank.'"},
-        {"type": "instruction", "step": 4, "text": "On the map, draw the first railway in red (Liverpool to Manchester). Then add major routes as the network expanded: London to Birmingham, London to Bristol, routes to Edinburgh and Glasgow. By 1850, the entire country was connected by rail."},
-        {"type": "activity", "prompt": "Complete the railway map: draw at least 5 major railway routes connecting industrial cities. Calculate: If a horse travels at 8 miles per hour and a train at 30 miles per hour, how long does each take to travel 120 miles? (Horse: 120 ÷ 8 = ? hours. Train: 120 ÷ 30 = ? hours.) Write about why this speed difference mattered.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Add the railway to your Industrial Revolution timeline. 'The steam engine in factories changed how we MAKE things. The steam locomotive changed how we MOVE things and people. Together, they created the modern world.' Next week we'll cross the Atlantic to the American colonies!", "mastery_check": "Can the child explain how railways transformed transportation and trade, map major routes, and calculate travel time comparisons?"}
+        {
+          "type": "title",
+          "heading": "The Railway Revolution",
+          "subheading": "Mapping Britain's Rail Network",
+          "image_url": "https://images.pexels.com/photos/3747542/pexels-photo-3747542.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank map of Britain",
+            "Labeled reference map with railways",
+            "Pictures of early trains",
+            "Ruler",
+            "Colored pencils",
+            "Timeline materials",
+            "Calculator (optional)"
+          ],
+          "setup_instructions": "Print a blank map of Britain with major cities marked. Have a reference map showing early railway routes. Prepare distance and speed data for calculations."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect to the steam engine: 'We learned how James Watt's steam engine powered factory machines. But another inventor had a brilliant idea: what if we put a steam engine on wheels and ran it on iron tracks? George Stephenson built the first practical steam locomotive.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the Liverpool-Manchester Railway (1830): 'This was the first public railway. People came from all over to watch. The train traveled 30 miles in about an hour — faster than any horse! Before railways, that same trip took half a day by horse and carriage.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Discuss the impact: 'Railways changed EVERYTHING. Factories could ship products across the country in hours instead of days. People could travel to cities for work. Fresh food could reach markets before spoiling. Towns along railways grew; towns without railways shrank.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "On the map, draw the first railway in red (Liverpool to Manchester). Then add major routes as the network expanded: London to Birmingham, London to Bristol, routes to Edinburgh and Glasgow. By 1850, the entire country was connected by rail."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete the railway map: draw at least 5 major railway routes connecting industrial cities. Calculate: If a horse travels at 8 miles per hour and a train at 30 miles per hour, how long does each take to travel 120 miles? (Horse: 120 ÷ 8 = ? hours. Train: 120 ÷ 30 = ? hours.) Write about why this speed difference mattered.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Add the railway to your Industrial Revolution timeline. 'The steam engine in factories changed how we MAKE things. The steam locomotive changed how we MOVE things and people. Together, they created the modern world.' Next week we'll cross the Atlantic to the American colonies!",
+          "mastery_check": "Can the child explain how railways transformed transportation and trade, map major routes, and calculate travel time comparisons?"
+        }
       ]
     },
     "parent_notes": "The math integration (speed/time/distance) makes this an excellent cross-curricular lesson. Keep the calculations simple: distance divided by speed equals time. The key historical insight is that railways didn't just make travel faster — they changed what was possible. Before railways, most people never traveled more than 20 miles from home in their entire lives. Model trains, if you have them, make a wonderful hands-on extension. The Montessori approach emphasizes how transportation innovations connect people and ideas across distances.",
@@ -652,17 +1723,66 @@
     "instructions": "1. Brainstorm: 'What do you use every day that had to be invented?'\n2. Present a timeline of key inventions: gas lighting, telegraph, photography, sewing machine.\n3. For each invention, discuss what life was like BEFORE and AFTER.\n4. Play an 'invention match' game: match the inventor to their invention.\n5. Discuss: what modern inventions will people in the future consider revolutionary?\n6. Design your own invention to solve a problem.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Invention timeline cards", "Before/after comparison charts", "Inventor matching game cards", "Drawing paper", "Pencil", "Colored pencils", "Notebook"],
+    "materials_needed": [
+      "Invention timeline cards",
+      "Before/after comparison charts",
+      "Inventor matching game cards",
+      "Drawing paper",
+      "Pencil",
+      "Colored pencils",
+      "Notebook"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Inventions That Changed Daily Life", "subheading": "The Industrial Revolution and Beyond"},
-        {"type": "materials", "items": ["Invention timeline cards", "Before/after comparison chart", "Inventor matching game cards", "Drawing paper", "Pencil", "Colored pencils", "Notebook"], "setup_instructions": "Create timeline cards for 8-10 inventions with dates and images. Make matching cards pairing inventors with inventions. Prepare before/after comparison templates."},
-        {"type": "instruction", "step": 1, "text": "Start with a thought experiment: 'Imagine no electric lights, no phones, no cameras, no sewing machines, no trains. Everything made by hand. Letters take weeks to arrive. It's dark when the sun goes down. That was life before the Industrial Revolution.'"},
-        {"type": "instruction", "step": 2, "text": "Present key inventions on the timeline: Gas lighting (1790s) — streets lit at night for the first time. Telegraph (1837) — messages sent instantly over wires. Photography (1839) — capturing real images. Sewing machine (1846) — making clothes 10x faster."},
-        {"type": "instruction", "step": 3, "text": "For each invention, discuss before and after. 'Before gas lighting, people used candles and went to bed when it got dark. After gas lighting, cities were illuminated — people could work, shop, and socialize at night. Streetlights made cities safer.'"},
-        {"type": "instruction", "step": 4, "text": "Play the matching game: Spread out inventor cards and invention cards. Match them. Discuss: 'Most inventors solved a specific problem. The sewing machine solved the problem of slow clothing production. What problem did each invention solve?'"},
-        {"type": "activity", "prompt": "Design your own invention! Identify a problem in your daily life. Draw your invention and label its parts. Write: What problem does it solve? How does it work? Who would use it? Give it a name. Remember — every real invention started as someone's idea to solve a problem!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Share your invention designs. 'The Industrial Revolution showed us that human creativity and ingenuity can transform the world. The inventors we studied faced the same challenge you did today — seeing a problem and imagining a solution.'", "mastery_check": "Can the child describe how specific inventions changed daily life and design a creative solution to a real-world problem?"}
+        {
+          "type": "title",
+          "heading": "Inventions That Changed Daily Life",
+          "subheading": "The Industrial Revolution and Beyond",
+          "image_url": "https://images.pexels.com/photos/28928758/pexels-photo-28928758.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Invention timeline cards",
+            "Before/after comparison chart",
+            "Inventor matching game cards",
+            "Drawing paper",
+            "Pencil",
+            "Colored pencils",
+            "Notebook"
+          ],
+          "setup_instructions": "Create timeline cards for 8-10 inventions with dates and images. Make matching cards pairing inventors with inventions. Prepare before/after comparison templates."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Start with a thought experiment: 'Imagine no electric lights, no phones, no cameras, no sewing machines, no trains. Everything made by hand. Letters take weeks to arrive. It's dark when the sun goes down. That was life before the Industrial Revolution.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Present key inventions on the timeline: Gas lighting (1790s) — streets lit at night for the first time. Telegraph (1837) — messages sent instantly over wires. Photography (1839) — capturing real images. Sewing machine (1846) — making clothes 10x faster."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "For each invention, discuss before and after. 'Before gas lighting, people used candles and went to bed when it got dark. After gas lighting, cities were illuminated — people could work, shop, and socialize at night. Streetlights made cities safer.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Play the matching game: Spread out inventor cards and invention cards. Match them. Discuss: 'Most inventors solved a specific problem. The sewing machine solved the problem of slow clothing production. What problem did each invention solve?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Design your own invention! Identify a problem in your daily life. Draw your invention and label its parts. Write: What problem does it solve? How does it work? Who would use it? Give it a name. Remember — every real invention started as someone's idea to solve a problem!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Share your invention designs. 'The Industrial Revolution showed us that human creativity and ingenuity can transform the world. The inventors we studied faced the same challenge you did today — seeing a problem and imagining a solution.'",
+          "mastery_check": "Can the child describe how specific inventions changed daily life and design a creative solution to a real-world problem?"
+        }
       ]
     },
     "parent_notes": "This lesson wraps up the Industrial Revolution week by connecting historical innovation to the child's own creative thinking. The 'design your own invention' activity taps into the Montessori emphasis on children as creative, capable beings. Take all ideas seriously — even fantastical ones demonstrate problem-solving thinking. You might be surprised by their creativity! Display the invention designs alongside the newspaper from today's language lesson. This week has been rich — take the weekend to process and discuss.",
@@ -680,16 +1800,55 @@
     "instructions": "1. Introduce the book: a story about a steam shovel named Mary Anne and her operator Mike Mulligan.\n2. Read the story aloud with expression.\n3. Pause to discuss: Why are people replacing steam shovels with newer machines?\n4. Connect to the Industrial Revolution: new inventions always replace old ones.\n5. Discuss the bittersweet ending and themes of change and adaptation.\n6. Journal reflection on how it feels when things change.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Mike Mulligan and His Steam Shovel by Virginia Lee Burton", "Reading journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "Mike Mulligan and His Steam Shovel by Virginia Lee Burton",
+      "Reading journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "Mike Mulligan and His Steam Shovel"},
-        {"type": "materials", "items": ["Mike Mulligan and His Steam Shovel by Virginia Lee Burton", "Reading journal", "Pencil", "Colored pencils"], "setup_instructions": "Have the book ready. Set up a comfortable reading space. Open the reading journal to a fresh page."},
-        {"type": "instruction", "step": 1, "text": "Before reading: 'This week we learned about the Industrial Revolution — how steam engines and new machines changed the world. This story is about what happens when even those new machines become old and get replaced by even NEWER machines. It's a story about change.'"},
-        {"type": "instruction", "step": 2, "text": "Read the story aloud. Pause when the new machines appear: 'Why are gasoline, electric, and diesel shovels replacing Mary Anne? Is it because she's bad at her job? (No — technology just keeps changing!) How do you think Mike and Mary Anne feel?'"},
-        {"type": "instruction", "step": 3, "text": "After reading, discuss the ending: Mike and Mary Anne find a new purpose as the furnace of the town hall. 'Is this a happy ending? Why or why not? What does it mean to find a new purpose when things change?'"},
-        {"type": "activity", "prompt": "In your reading journal, write about a time when something changed in your life (a move, a new sibling, starting homeschool). How did you feel at first? How did you adapt? Draw a picture of Mike Mulligan and Mary Anne in their new role.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Connect to the whole week: 'The Industrial Revolution was all about change — new inventions replacing old ways of doing things. Change can be exciting and scary at the same time. The important thing is to adapt and find new ways to contribute, just like Mike and Mary Anne.'", "mastery_check": "Can the child identify the themes of technological change and adaptation in the story and connect them to the Industrial Revolution?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "Mike Mulligan and His Steam Shovel",
+          "image_url": "https://images.pexels.com/photos/8500306/pexels-photo-8500306.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Mike Mulligan and His Steam Shovel by Virginia Lee Burton",
+            "Reading journal",
+            "Pencil",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Have the book ready. Set up a comfortable reading space. Open the reading journal to a fresh page."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Before reading: 'This week we learned about the Industrial Revolution — how steam engines and new machines changed the world. This story is about what happens when even those new machines become old and get replaced by even NEWER machines. It's a story about change.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the story aloud. Pause when the new machines appear: 'Why are gasoline, electric, and diesel shovels replacing Mary Anne? Is it because she's bad at her job? (No — technology just keeps changing!) How do you think Mike and Mary Anne feel?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading, discuss the ending: Mike and Mary Anne find a new purpose as the furnace of the town hall. 'Is this a happy ending? Why or why not? What does it mean to find a new purpose when things change?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal, write about a time when something changed in your life (a move, a new sibling, starting homeschool). How did you feel at first? How did you adapt? Draw a picture of Mike Mulligan and Mary Anne in their new role.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Connect to the whole week: 'The Industrial Revolution was all about change — new inventions replacing old ways of doing things. Change can be exciting and scary at the same time. The important thing is to adapt and find new ways to contribute, just like Mike and Mary Anne.'",
+          "mastery_check": "Can the child identify the themes of technological change and adaptation in the story and connect them to the Industrial Revolution?"
+        }
       ]
     },
     "parent_notes": "This picture book, though aimed at a younger audience, resonates deeply with older elementary students when framed in the context of the Industrial Revolution. The themes of obsolescence, adaptation, and finding purpose are sophisticated. Mike Mulligan was published in 1939 — itself a historical document! The personal reflection about change is important; children this age are experiencing many changes and benefit from processing their feelings through writing. This closes out a wonderful thematic week connecting history, science, art, and literature.",

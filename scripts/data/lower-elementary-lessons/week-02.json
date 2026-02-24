@@ -10,17 +10,62 @@
     "instructions": "1. Show the child the cursive alphabet chart, pointing out that cursive letters are connected and flowing.\n2. Demonstrate the counter-clockwise circle motion in the air — this is the starting stroke for a, c, d, and o.\n3. On lined paper, model writing the letter 'o' slowly, narrating each movement.\n4. Have the child trace the letter in a sand tray first, then on paper.\n5. Repeat with 'a' — show how it starts like 'o' but adds a tail stroke.\n6. Repeat with 'c' — an open 'o'.\n7. Repeat with 'd' — like 'a' but with a tall stroke.\n8. Practice each letter 5 times on lined paper.\n9. Write simple words using these letters: 'dad', 'add', 'cad'.\n10. Decorate the practice page border with illustrations.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Cursive alphabet chart", "Sand tray or salt tray", "Lined handwriting paper (wide-ruled)", "Pencil with good grip", "Colored pencils for decoration"],
+    "materials_needed": [
+      "Cursive alphabet chart",
+      "Sand tray or salt tray",
+      "Lined handwriting paper (wide-ruled)",
+      "Pencil with good grip",
+      "Colored pencils for decoration"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Cursive Writing Begins!", "subheading": "Learning Letters: a, c, d, o"},
-        {"type": "materials", "items": ["Cursive alphabet chart", "Sand tray", "Wide-ruled lined paper", "Sharpened pencil", "Colored pencils"], "setup_instructions": "Set up the sand tray on a flat surface. Have the cursive chart visible at eye level. Place lined paper and pencil at the child's workspace."},
-        {"type": "instruction", "step": 1, "text": "Show the cursive alphabet chart. Say: 'In Lower Elementary, we learn to write in cursive — beautiful, flowing letters that connect together. Today we start with four letters that all begin with the same curving motion.'"},
-        {"type": "instruction", "step": 2, "text": "Demonstrate the counter-clockwise circle in the air. Say: 'Watch my hand — it goes up, curves left, comes down, and curves right. Like drawing a circle starting at 2 o'clock.' Have the child practice this motion in the air 5 times."},
-        {"type": "instruction", "step": 3, "text": "Move to the sand tray. Write 'o' in cursive slowly. Say: 'The letter o is just that circle we practiced, plus a little connecting stroke at the end.' Have the child trace it in sand 5 times, smoothing the sand between each attempt."},
-        {"type": "instruction", "step": 4, "text": "Now model each remaining letter on paper: 'a' starts like 'o' but adds a down-stroke and connecting tail. 'c' is an open 'o' — the circle doesn't close. 'd' starts like 'a' but the up-stroke goes tall. Show each one slowly, narrating the pencil path."},
-        {"type": "activity", "prompt": "Practice time! On your lined paper:\n1. Write one full line of 'o' in cursive\n2. Write one full line of 'a' in cursive\n3. Write one full line of 'c' in cursive\n4. Write one full line of 'd' in cursive\n5. Try writing these words in cursive: dad, add, cad, cod\nRemember: start each letter with that counter-clockwise curve!", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You just wrote your first cursive letters! Notice how they all share that same starting curve — that is what makes cursive beautiful and efficient. Tomorrow we will learn more letters and start connecting them together.", "mastery_check": "Can the child form each letter (a, c, d, o) with the correct starting stroke? Are the letters sitting on the baseline? Is the child using a comfortable pencil grip?"}
+        {
+          "type": "title",
+          "heading": "Cursive Writing Begins!",
+          "subheading": "Learning Letters: a, c, d, o",
+          "image_url": "https://images.pexels.com/photos/6157276/pexels-photo-6157276.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Cursive alphabet chart",
+            "Sand tray",
+            "Wide-ruled lined paper",
+            "Sharpened pencil",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Set up the sand tray on a flat surface. Have the cursive chart visible at eye level. Place lined paper and pencil at the child's workspace."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the cursive alphabet chart. Say: 'In Lower Elementary, we learn to write in cursive — beautiful, flowing letters that connect together. Today we start with four letters that all begin with the same curving motion.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Demonstrate the counter-clockwise circle in the air. Say: 'Watch my hand — it goes up, curves left, comes down, and curves right. Like drawing a circle starting at 2 o'clock.' Have the child practice this motion in the air 5 times."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Move to the sand tray. Write 'o' in cursive slowly. Say: 'The letter o is just that circle we practiced, plus a little connecting stroke at the end.' Have the child trace it in sand 5 times, smoothing the sand between each attempt."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Now model each remaining letter on paper: 'a' starts like 'o' but adds a down-stroke and connecting tail. 'c' is an open 'o' — the circle doesn't close. 'd' starts like 'a' but the up-stroke goes tall. Show each one slowly, narrating the pencil path."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice time! On your lined paper:\n1. Write one full line of 'o' in cursive\n2. Write one full line of 'a' in cursive\n3. Write one full line of 'c' in cursive\n4. Write one full line of 'd' in cursive\n5. Try writing these words in cursive: dad, add, cad, cod\nRemember: start each letter with that counter-clockwise curve!",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You just wrote your first cursive letters! Notice how they all share that same starting curve — that is what makes cursive beautiful and efficient. Tomorrow we will learn more letters and start connecting them together.",
+          "mastery_check": "Can the child form each letter (a, c, d, o) with the correct starting stroke? Are the letters sitting on the baseline? Is the child using a comfortable pencil grip?"
+        }
       ]
     },
     "parent_notes": "Cursive is introduced in Montessori before or alongside print because the flowing motions are actually more natural for young hands. The key is grouping letters by similar strokes. Today's group all use the counter-clockwise circle. Do not stress perfection — focus on the correct starting motion and direction. The sand tray provides sensory feedback before committing to paper. If your child struggles with pencil grip, consider a pencil grip aid. Practice should feel calm and meditative, not stressful. Five minutes of cursive practice daily is better than one long session. Let the child decorate their practice pages to build positive associations with handwriting.",
@@ -38,17 +83,60 @@
     "instructions": "1. Review the stamp game layout and place value columns.\n2. Write a 3-digit addition problem on paper: 345 + 278.\n3. Build the first number (345) with stamps in the correct columns.\n4. Build the second number (278) below or beside the first.\n5. Combine all stamps in each column, starting with units.\n6. Count units: 5 + 8 = 13. Demonstrate exchanging 10 units for 1 ten stamp.\n7. Count tens: 4 + 7 + 1 (carried) = 12. Exchange 10 tens for 1 hundred stamp.\n8. Count hundreds: 3 + 2 + 1 = 6. Record the answer: 623.\n9. Practice 3 more problems with the child doing more of the work each time.\n10. Record all problems and answers in the math notebook.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Stamp game", "Work mat", "Pencil and math notebook", "Problem cards with 3-digit addition"],
+    "materials_needed": [
+      "Stamp game",
+      "Work mat",
+      "Pencil and math notebook",
+      "Problem cards with 3-digit addition"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Addition with Stamps", "subheading": "Adding 3-Digit Numbers"},
-        {"type": "materials", "items": ["Stamp game with all denominations", "Large work mat", "Math notebook and pencil", "Prepared problem cards"], "setup_instructions": "Lay out the stamp game on the work mat. Sort stamps by denomination. Write 4 addition problems on index cards: 345+278, 156+237, 481+319, 222+389."},
-        {"type": "instruction", "step": 1, "text": "Say: 'Last week we built numbers with stamps. This week we are going to ADD numbers together — combine them to find the total. Let us start with 345 plus 278.' Write the problem vertically on paper."},
-        {"type": "instruction", "step": 2, "text": "Build 345: place 3 hundred stamps, 4 ten stamps, 5 unit stamps in the correct columns. Say: 'This is our first number.' Then build 278 in a second row: 2 hundreds, 7 tens, 8 units. 'This is our second number. Now we combine them.'"},
-        {"type": "instruction", "step": 3, "text": "Start with units: push all unit stamps together. Count: 5 + 8 = 13. Say: 'We have 13 units. But we can only have 9 in one column! When we get 10, we EXCHANGE.' Count out 10 unit stamps, set aside, place 1 ten stamp in the tens column. '3 units remain.'"},
-        {"type": "instruction", "step": 4, "text": "Move to tens: combine all ten stamps including the exchanged one. Count: 4 + 7 + 1 = 12 tens. Exchange 10 tens for 1 hundred stamp. 2 tens remain. Finally, hundreds: 3 + 2 + 1 = 6 hundreds. Read the answer: 623. Record it on paper."},
-        {"type": "activity", "prompt": "Solve these addition problems using your stamp game. Build each number, combine, exchange when needed, and record your answer:\n1. 156 + 237\n2. 481 + 319\n3. 222 + 389\nFor each problem, write the full equation in your math notebook.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You can now add 3-digit numbers! The secret is to always start with the units column and exchange whenever you reach 10. Next time, we will try even bigger numbers — 4 digits!", "mastery_check": "Can the child set up the problem correctly on the stamp game? Do they remember to start with units? Can they perform the exchange (10 units = 1 ten, 10 tens = 1 hundred)?"}
+        {
+          "type": "title",
+          "heading": "Addition with Stamps",
+          "subheading": "Adding 3-Digit Numbers",
+          "image_url": "https://images.pexels.com/photos/311269/pexels-photo-311269.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Stamp game with all denominations",
+            "Large work mat",
+            "Math notebook and pencil",
+            "Prepared problem cards"
+          ],
+          "setup_instructions": "Lay out the stamp game on the work mat. Sort stamps by denomination. Write 4 addition problems on index cards: 345+278, 156+237, 481+319, 222+389."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Say: 'Last week we built numbers with stamps. This week we are going to ADD numbers together — combine them to find the total. Let us start with 345 plus 278.' Write the problem vertically on paper."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Build 345: place 3 hundred stamps, 4 ten stamps, 5 unit stamps in the correct columns. Say: 'This is our first number.' Then build 278 in a second row: 2 hundreds, 7 tens, 8 units. 'This is our second number. Now we combine them.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Start with units: push all unit stamps together. Count: 5 + 8 = 13. Say: 'We have 13 units. But we can only have 9 in one column! When we get 10, we EXCHANGE.' Count out 10 unit stamps, set aside, place 1 ten stamp in the tens column. '3 units remain.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Move to tens: combine all ten stamps including the exchanged one. Count: 4 + 7 + 1 = 12 tens. Exchange 10 tens for 1 hundred stamp. 2 tens remain. Finally, hundreds: 3 + 2 + 1 = 6 hundreds. Read the answer: 623. Record it on paper."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these addition problems using your stamp game. Build each number, combine, exchange when needed, and record your answer:\n1. 156 + 237\n2. 481 + 319\n3. 222 + 389\nFor each problem, write the full equation in your math notebook.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You can now add 3-digit numbers! The secret is to always start with the units column and exchange whenever you reach 10. Next time, we will try even bigger numbers — 4 digits!",
+          "mastery_check": "Can the child set up the problem correctly on the stamp game? Do they remember to start with units? Can they perform the exchange (10 units = 1 ten, 10 tens = 1 hundred)?"
+        }
       ]
     },
     "parent_notes": "The stamp game makes the abstract process of carrying visible and concrete. When your child exchanges 10 units for 1 ten, they are SEEING regrouping happen physically. This is far more meaningful than just writing a small '1' above the tens column. Let them do the physical manipulation — resist the urge to do it for them. Common errors: forgetting to add the exchanged stamp, exchanging at the wrong time, or miscounting. If they make an error, ask them to count again rather than correcting. The goal is for the child to eventually internalize this process and do it on paper, but that transition should not be rushed. Most children need weeks or months with the stamp game before they are ready for purely written addition.",
@@ -66,17 +154,61 @@
     "instructions": "1. Unroll the Timeline of Life and anchor it on the floor or a long table.\n2. Review the story so far: after Earth cooled, oceans formed, and life began.\n3. Point to the first era: single-celled organisms in the ocean.\n4. Describe how cells learned to work together — forming multi-celled organisms.\n5. Show the Cambrian explosion section: sudden burst of different life forms.\n6. Focus on trilobites, jellyfish, and early sea creatures.\n7. Show the emergence of the first fish — vertebrates with backbones.\n8. Have the child draw and label 4 organisms from the timeline.\n9. Discuss: why did life start in the water?\n10. Place the child's drawings alongside the corresponding timeline sections.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Timeline of Life (Montessori material)", "Drawing paper", "Colored pencils or markers", "Reference books on prehistoric life", "Index cards for labels"],
+    "materials_needed": [
+      "Timeline of Life (Montessori material)",
+      "Drawing paper",
+      "Colored pencils or markers",
+      "Reference books on prehistoric life",
+      "Index cards for labels"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Timeline of Life", "subheading": "From Tiny Cells to the First Fish"},
-        {"type": "materials", "items": ["Timeline of Life chart", "Drawing paper and colored pencils", "Prehistoric life reference books", "Index cards for labels"], "setup_instructions": "Unroll the Timeline of Life along the floor or a long table. Mark the sections you will focus on today: Precambrian through early Paleozoic. Have reference books open to relevant pages."},
-        {"type": "instruction", "step": 1, "text": "Say: 'Remember the story of the universe and how Earth formed? For billions of years, Earth was too hot for life. But slowly, the oceans formed and something incredible happened — the first living thing appeared.' Point to the beginning of the Timeline of Life."},
-        {"type": "instruction", "step": 2, "text": "Trace the earliest life: 'These first organisms were so tiny you could not see them without a microscope. They were single cells — the simplest form of life. They floated in the warm oceans for millions and millions of years.' Show this on the timeline — how LONG this period lasted compared to everything after."},
-        {"type": "instruction", "step": 3, "text": "Move to the Cambrian period: 'Then something amazing happened — an EXPLOSION of life! Not a real explosion, but suddenly there were hundreds of different kinds of creatures: trilobites with their armored shells, jellyfish floating like ghosts, worms burrowing in the sand.' Show pictures and point to the timeline."},
-        {"type": "instruction", "step": 4, "text": "Arrive at the first fish: 'And then came the first animals with BACKBONES — fish! Feel your backbone. You have one because those ancient fish had one. Fish were the first vertebrates, and every animal with a backbone — frogs, dinosaurs, birds, and humans — descended from those first fish.'"},
-        {"type": "activity", "prompt": "Create your own mini Timeline of Life panel:\n1. Draw a single-celled organism (a tiny circle with details inside)\n2. Draw a trilobite (look at the reference book for its shape)\n3. Draw a jellyfish from the ancient ocean\n4. Draw an early fish\nLabel each drawing with its name and when it lived. Use bright colors!", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Life started incredibly small and simple, then became more and more complex over billions of years. Next time, we will follow the Timeline of Life as creatures leave the ocean and move onto land!", "mastery_check": "Can the child sequence the progression: single cells, multi-celled organisms, Cambrian explosion, first fish? Can they explain why life started in the ocean?"}
+        {
+          "type": "title",
+          "heading": "The Timeline of Life",
+          "subheading": "From Tiny Cells to the First Fish",
+          "image_url": "https://images.pexels.com/photos/161858/pexels-photo-161858.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Timeline of Life chart",
+            "Drawing paper and colored pencils",
+            "Prehistoric life reference books",
+            "Index cards for labels"
+          ],
+          "setup_instructions": "Unroll the Timeline of Life along the floor or a long table. Mark the sections you will focus on today: Precambrian through early Paleozoic. Have reference books open to relevant pages."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Say: 'Remember the story of the universe and how Earth formed? For billions of years, Earth was too hot for life. But slowly, the oceans formed and something incredible happened — the first living thing appeared.' Point to the beginning of the Timeline of Life."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Trace the earliest life: 'These first organisms were so tiny you could not see them without a microscope. They were single cells — the simplest form of life. They floated in the warm oceans for millions and millions of years.' Show this on the timeline — how LONG this period lasted compared to everything after."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Move to the Cambrian period: 'Then something amazing happened — an EXPLOSION of life! Not a real explosion, but suddenly there were hundreds of different kinds of creatures: trilobites with their armored shells, jellyfish floating like ghosts, worms burrowing in the sand.' Show pictures and point to the timeline."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Arrive at the first fish: 'And then came the first animals with BACKBONES — fish! Feel your backbone. You have one because those ancient fish had one. Fish were the first vertebrates, and every animal with a backbone — frogs, dinosaurs, birds, and humans — descended from those first fish.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own mini Timeline of Life panel:\n1. Draw a single-celled organism (a tiny circle with details inside)\n2. Draw a trilobite (look at the reference book for its shape)\n3. Draw a jellyfish from the ancient ocean\n4. Draw an early fish\nLabel each drawing with its name and when it lived. Use bright colors!",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Life started incredibly small and simple, then became more and more complex over billions of years. Next time, we will follow the Timeline of Life as creatures leave the ocean and move onto land!",
+          "mastery_check": "Can the child sequence the progression: single cells, multi-celled organisms, Cambrian explosion, first fish? Can they explain why life started in the ocean?"
+        }
       ]
     },
     "parent_notes": "The Timeline of Life is a core Montessori material that gives children a visual, proportional sense of the history of life on Earth. The Precambrian period takes up most of the timeline, which dramatically shows children that complex life is relatively recent. Do not worry about your child memorizing dates — the goal is to understand the SEQUENCE and the PROGRESSION from simple to complex. Trilobites are a great entry point because children find them fascinating (they look like alien bugs). If you can obtain a trilobite fossil, let the child hold it. Real objects create deeper learning than pictures alone. The connection between ancient fish and human backbones is a powerful moment of cosmic education.",
@@ -94,17 +226,65 @@
     "instructions": "1. Present the land and water form cards for island and lake.\n2. Discuss: 'What is an island? What is a lake?'\n3. Show real-world examples on a globe or map (Hawaii as an island, Lake Michigan).\n4. Prepare the modeling trays — one for island, one for lake.\n5. Child builds an island model: mound of clay in center of tray, pour water around it.\n6. Child builds a lake model: ring of clay around edges of tray, pour water in center.\n7. Compare the two: 'See how they are opposites?'\n8. Label each model with a card.\n9. Draw and label both forms in the geography notebook.\n10. Find 3 islands and 3 lakes on the globe.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Two shallow trays or baking dishes", "Modeling clay (blue and brown/green)", "Small pitcher of water", "Globe or world map", "Land and water form cards", "Geography notebook", "Colored pencils"],
+    "materials_needed": [
+      "Two shallow trays or baking dishes",
+      "Modeling clay (blue and brown/green)",
+      "Small pitcher of water",
+      "Globe or world map",
+      "Land and water form cards",
+      "Geography notebook",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Land and Water Forms", "subheading": "Island and Lake — A Perfect Pair"},
-        {"type": "materials", "items": ["Two shallow trays", "Modeling clay", "Small pitcher of water", "Globe or world map", "Land/water form cards", "Geography notebook and pencils"], "setup_instructions": "Place two trays side by side on a protected surface (use a towel underneath). Have clay and water pitcher ready. Display the island and lake definition cards."},
-        {"type": "instruction", "step": 1, "text": "Show the island card. Say: 'An island is a body of LAND completely surrounded by WATER. Can you think of any islands?' Show Hawaii, Madagascar, or Great Britain on the globe. Let the child find and point to them."},
-        {"type": "instruction", "step": 2, "text": "Show the lake card. Say: 'A lake is a body of WATER completely surrounded by LAND. That is the exact opposite of an island!' Show the Great Lakes, Lake Victoria, or Lake Baikal on the globe. Ask: 'Do you see how island and lake are mirror images?'"},
-        {"type": "instruction", "step": 3, "text": "Build the island model: have the child place a mound of clay in the center of the first tray. Shape it into a rounded land mass. Slowly pour water around the clay until the island is surrounded. Label it 'ISLAND.'"},
-        {"type": "instruction", "step": 4, "text": "Build the lake model: have the child press clay around the inside edges of the second tray, forming a basin. Pour water into the center hollow. Label it 'LAKE.' Set both models side by side. Ask: 'What do you notice? How are they the same? How are they different?'"},
-        {"type": "activity", "prompt": "In your geography notebook:\n1. Draw and color an island — show the land in green/brown and the water in blue. Label it.\n2. Draw and color a lake — show the water in the center and land around the edges. Label it.\n3. Write a definition for each in your own words.\n4. Find and list 3 real islands and 3 real lakes from the globe.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Island and lake are the first pair of land and water forms. They are complementary — exact opposites. Next time, we will explore another pair: peninsula and gulf!", "mastery_check": "Can the child define island and lake? Can they explain how they are complementary (opposites)? Can they identify examples on a map?"}
+        {
+          "type": "title",
+          "heading": "Land and Water Forms",
+          "subheading": "Island and Lake — A Perfect Pair",
+          "image_url": "https://images.pexels.com/photos/6990592/pexels-photo-6990592.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Two shallow trays",
+            "Modeling clay",
+            "Small pitcher of water",
+            "Globe or world map",
+            "Land/water form cards",
+            "Geography notebook and pencils"
+          ],
+          "setup_instructions": "Place two trays side by side on a protected surface (use a towel underneath). Have clay and water pitcher ready. Display the island and lake definition cards."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the island card. Say: 'An island is a body of LAND completely surrounded by WATER. Can you think of any islands?' Show Hawaii, Madagascar, or Great Britain on the globe. Let the child find and point to them."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the lake card. Say: 'A lake is a body of WATER completely surrounded by LAND. That is the exact opposite of an island!' Show the Great Lakes, Lake Victoria, or Lake Baikal on the globe. Ask: 'Do you see how island and lake are mirror images?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Build the island model: have the child place a mound of clay in the center of the first tray. Shape it into a rounded land mass. Slowly pour water around the clay until the island is surrounded. Label it 'ISLAND.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Build the lake model: have the child press clay around the inside edges of the second tray, forming a basin. Pour water into the center hollow. Label it 'LAKE.' Set both models side by side. Ask: 'What do you notice? How are they the same? How are they different?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your geography notebook:\n1. Draw and color an island — show the land in green/brown and the water in blue. Label it.\n2. Draw and color a lake — show the water in the center and land around the edges. Label it.\n3. Write a definition for each in your own words.\n4. Find and list 3 real islands and 3 real lakes from the globe.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Island and lake are the first pair of land and water forms. They are complementary — exact opposites. Next time, we will explore another pair: peninsula and gulf!",
+          "mastery_check": "Can the child define island and lake? Can they explain how they are complementary (opposites)? Can they identify examples on a map?"
+        }
       ]
     },
     "parent_notes": "Montessori teaches land and water forms in complementary pairs because this highlights the relationship between land and water on Earth. The hands-on model building is essential — the child physically creates the landform and sees how water interacts with it. These models can be kept for several days if you use waterproof trays. The concept of complementary pairs (island/lake, peninsula/gulf, isthmus/strait, cape/bay) teaches children to think in terms of relationships and opposites, which is a broader cognitive skill. If you have photos from family trips to islands or lakes, bring them into the lesson for personal connection.",
@@ -122,17 +302,59 @@
     "instructions": "1. Show the book cover and discuss: What do you see? What might this story be about?\n2. Read Chapter 1 aloud with expression and appropriate pacing.\n3. Pause at key moments for predictions: What will Fern do? Will her father listen?\n4. After reading, discuss: Why did Fern think it was unfair to kill the runt?\n5. Ask: What would you have done in Fern's place?\n6. Discuss the word 'injustice' — when something is deeply unfair.\n7. Have the child make a Reading Journal entry: title, chapter, and response.\n8. Introduce a vocabulary word from the chapter.\n9. Make a prediction about what will happen in Chapter 2.\n10. Place a bookmark for next time.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Charlotte's Web by E.B. White", "Reading journal", "Pencil", "Bookmark"],
+    "materials_needed": [
+      "Charlotte's Web by E.B. White",
+      "Reading journal",
+      "Pencil",
+      "Bookmark"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Charlotte's Web", "subheading": "Chapter 1: Before Breakfast"},
-        {"type": "materials", "items": ["Charlotte's Web by E.B. White", "Reading journal and pencil", "Bookmark"], "setup_instructions": "Find a comfortable reading spot — a couch, reading nook, or under a tree. Have the book and journal ready. This should feel cozy and special."},
-        {"type": "instruction", "step": 1, "text": "Show the book cover. Say: 'This is one of the most beloved books ever written for children. It is called Charlotte's Web by E.B. White. Look at the cover — what do you see? A girl, a pig, and a spider. Let us find out how they are all connected.'"},
-        {"type": "instruction", "step": 2, "text": "Read Chapter 1 aloud. Use a gentle voice for Fern, a gruff voice for Mr. Arable. When Fern cries 'The pig couldn't help being born small, could it? If I had been very small at birth, would you have killed me?' — pause and let the words land."},
-        {"type": "instruction", "step": 3, "text": "After reading, ask: 'Why was Fern so upset? What did she think was unfair?' Guide the discussion toward the idea that the runt piglet did not choose to be small, so it is not fair to punish it for something it cannot control."},
-        {"type": "instruction", "step": 4, "text": "Introduce the word 'injustice.' Say: 'When something is deeply, terribly unfair — especially when someone strong does something to someone weak who cannot fight back — we call that an injustice. Fern recognized an injustice and spoke up. That takes courage.'"},
-        {"type": "activity", "prompt": "In your Reading Journal, write today's entry:\n- Title: Charlotte's Web\n- Chapter: 1 — Before Breakfast\n- Response: Write 3-4 sentences about what happened and how Fern showed courage.\n- Prediction: What do you think Fern will name the pig? What do you think will happen next?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Fern saved a tiny pig's life by speaking up against what she believed was wrong. This is just the beginning of an incredible story about friendship, loyalty, and the power of words. We will read more on Wednesday!", "mastery_check": "Can the child retell the main events of Chapter 1? Can they explain why Fern believed killing the runt was unfair? Did they write a journal response with at least 3 sentences?"}
+        {
+          "type": "title",
+          "heading": "Charlotte's Web",
+          "subheading": "Chapter 1: Before Breakfast",
+          "image_url": "https://images.pexels.com/photos/6437505/pexels-photo-6437505.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Charlotte's Web by E.B. White",
+            "Reading journal and pencil",
+            "Bookmark"
+          ],
+          "setup_instructions": "Find a comfortable reading spot — a couch, reading nook, or under a tree. Have the book and journal ready. This should feel cozy and special."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show the book cover. Say: 'This is one of the most beloved books ever written for children. It is called Charlotte's Web by E.B. White. Look at the cover — what do you see? A girl, a pig, and a spider. Let us find out how they are all connected.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read Chapter 1 aloud. Use a gentle voice for Fern, a gruff voice for Mr. Arable. When Fern cries 'The pig couldn't help being born small, could it? If I had been very small at birth, would you have killed me?' — pause and let the words land."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading, ask: 'Why was Fern so upset? What did she think was unfair?' Guide the discussion toward the idea that the runt piglet did not choose to be small, so it is not fair to punish it for something it cannot control."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Introduce the word 'injustice.' Say: 'When something is deeply, terribly unfair — especially when someone strong does something to someone weak who cannot fight back — we call that an injustice. Fern recognized an injustice and spoke up. That takes courage.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your Reading Journal, write today's entry:\n- Title: Charlotte's Web\n- Chapter: 1 — Before Breakfast\n- Response: Write 3-4 sentences about what happened and how Fern showed courage.\n- Prediction: What do you think Fern will name the pig? What do you think will happen next?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Fern saved a tiny pig's life by speaking up against what she believed was wrong. This is just the beginning of an incredible story about friendship, loyalty, and the power of words. We will read more on Wednesday!",
+          "mastery_check": "Can the child retell the main events of Chapter 1? Can they explain why Fern believed killing the runt was unfair? Did they write a journal response with at least 3 sentences?"
+        }
       ]
     },
     "parent_notes": "Charlotte's Web is one of the finest read-alouds for this age group. E.B. White's language is precise and beautiful, and the themes — friendship, mortality, the cycle of life — are profound without being heavy-handed. Chapter 1 is a perfect hook because it immediately presents a moral dilemma that children feel strongly about. Let your child react emotionally — if they are upset about the pig nearly being killed, that empathy is exactly what literature cultivates. The reading journal entry should be their own words, not dictated by you. Spelling and grammar do not matter in journal entries; expression and thinking do. Read one chapter per session (2 per week), and the book will take about 11 weeks.",
@@ -150,17 +372,61 @@
     "instructions": "1. Review yesterday's letters (a, c, d, o) with a quick warm-up.\n2. Introduce the new stroke: the upward curve from the baseline.\n3. Demonstrate 'l' — a single upward stroke looping at the top.\n4. Have the child practice 'l' in the sand tray, then on paper.\n5. Demonstrate 'e' — short upward stroke with a loop.\n6. Demonstrate 'i' — upward stroke like 'l' but shorter, with a dot.\n7. Demonstrate 't' — like 'l' but with a cross.\n8. Practice each letter one line on paper.\n9. Write words combining old and new letters: 'tide', 'late', 'dial', 'coat'.\n10. Practice connecting letters together.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Cursive alphabet chart", "Sand tray", "Lined handwriting paper", "Pencil", "Yesterday's practice page for review"],
+    "materials_needed": [
+      "Cursive alphabet chart",
+      "Sand tray",
+      "Lined handwriting paper",
+      "Pencil",
+      "Yesterday's practice page for review"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "More Cursive Letters", "subheading": "Learning: e, l, i, t"},
-        {"type": "materials", "items": ["Cursive alphabet chart", "Sand tray", "Lined handwriting paper", "Sharpened pencil"], "setup_instructions": "Have yesterday's practice page available for warm-up review. Set up the sand tray and new lined paper."},
-        {"type": "instruction", "step": 1, "text": "Warm up by writing each of yesterday's letters (a, c, d, o) twice. Then say: 'Today we learn four new letters. These all start with a stroke going UP from the baseline — the opposite direction from yesterday's group.'"},
-        {"type": "instruction", "step": 2, "text": "Start with 'l': demonstrate the upward stroke from the baseline, looping at the top line, and coming back down. Say: 'The letter l is like a tall, elegant loop. Start at the bottom, sweep up, loop at the top, come back down.' Have the child practice in the sand tray."},
-        {"type": "instruction", "step": 3, "text": "Show 'e': 'This tiny letter starts with a small upward stroke and makes a little loop — like a miniature l that stays in the middle zone.' Then 'i': 'Like a short l with a dot on top.' Then 't': 'Like l but we cross it with a horizontal line.'"},
-        {"type": "instruction", "step": 4, "text": "Now the exciting part — connecting letters! Show how the ending stroke of one letter becomes the starting stroke of the next. Write 'it' in cursive, showing how the letters flow together. Then write 'at', 'to', 'old'."},
-        {"type": "activity", "prompt": "Practice your new letters and then try these cursive words:\n1. Write one line each of: e, l, i, t\n2. Write these words in cursive (connect the letters!): tide, late, coat, dial, tail, lied, toil, dolce\n3. Write one sentence in cursive: 'I did it all.'", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You now know eight cursive letters and can write real words! Notice how cursive flows — your pencil barely leaves the paper. Each new letter you learn opens up more words you can write.", "mastery_check": "Can the child form e, l, i, and t with correct starting strokes? Can they connect at least two letters together in a word? Is the pencil flowing smoothly?"}
+        {
+          "type": "title",
+          "heading": "More Cursive Letters",
+          "subheading": "Learning: e, l, i, t",
+          "image_url": "https://images.pexels.com/photos/8363159/pexels-photo-8363159.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Cursive alphabet chart",
+            "Sand tray",
+            "Lined handwriting paper",
+            "Sharpened pencil"
+          ],
+          "setup_instructions": "Have yesterday's practice page available for warm-up review. Set up the sand tray and new lined paper."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Warm up by writing each of yesterday's letters (a, c, d, o) twice. Then say: 'Today we learn four new letters. These all start with a stroke going UP from the baseline — the opposite direction from yesterday's group.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Start with 'l': demonstrate the upward stroke from the baseline, looping at the top line, and coming back down. Say: 'The letter l is like a tall, elegant loop. Start at the bottom, sweep up, loop at the top, come back down.' Have the child practice in the sand tray."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show 'e': 'This tiny letter starts with a small upward stroke and makes a little loop — like a miniature l that stays in the middle zone.' Then 'i': 'Like a short l with a dot on top.' Then 't': 'Like l but we cross it with a horizontal line.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Now the exciting part — connecting letters! Show how the ending stroke of one letter becomes the starting stroke of the next. Write 'it' in cursive, showing how the letters flow together. Then write 'at', 'to', 'old'."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice your new letters and then try these cursive words:\n1. Write one line each of: e, l, i, t\n2. Write these words in cursive (connect the letters!): tide, late, coat, dial, tail, lied, toil, dolce\n3. Write one sentence in cursive: 'I did it all.'",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You now know eight cursive letters and can write real words! Notice how cursive flows — your pencil barely leaves the paper. Each new letter you learn opens up more words you can write.",
+          "mastery_check": "Can the child form e, l, i, and t with correct starting strokes? Can they connect at least two letters together in a word? Is the pencil flowing smoothly?"
+        }
       ]
     },
     "parent_notes": "Today's letters are high-frequency consonants and vowels, so combining them with yesterday's group opens up many words. The real milestone today is CONNECTING letters — this is what makes cursive different from print. If your child finds connections difficult, practice just two-letter combinations first (it, at, to) before attempting full words. Speed is not the goal; smooth, correct formation is. Some children find cursive easier than print because the hand stays in motion. Others need more time. Both are normal. Keep sessions positive — if frustration builds, stop and return to it tomorrow.",
@@ -178,17 +444,60 @@
     "instructions": "1. Warm up with a quick 3-digit addition problem from yesterday.\n2. Present a 4-digit addition problem: 2,456 + 1,387.\n3. Build both numbers on the stamp game.\n4. Combine units: 6 + 7 = 13, exchange 10 for 1 ten, record 3 units.\n5. Combine tens: 5 + 8 + 1 = 14, exchange 10 for 1 hundred, record 4 tens.\n6. Combine hundreds: 4 + 3 + 1 = 8, record 8 hundreds.\n7. Combine thousands: 2 + 1 = 3, record 3 thousands. Answer: 3,843.\n8. Child solves 3 more 4-digit problems with increasing independence.\n9. Record all work in math notebook.\n10. Challenge: create a problem where every column requires an exchange.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Stamp game", "Work mat", "Math notebook and pencil", "Problem cards with 4-digit addition"],
+    "materials_needed": [
+      "Stamp game",
+      "Work mat",
+      "Math notebook and pencil",
+      "Problem cards with 4-digit addition"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Bigger Addition!", "subheading": "4-Digit Numbers with the Stamp Game"},
-        {"type": "materials", "items": ["Stamp game", "Work mat", "Math notebook and pencil", "4-digit problem cards"], "setup_instructions": "Prepare the stamp game with extra stamps — 4-digit problems use more stamps. Write problem cards: 2456+1387, 3215+4678, 5092+2948, 1776+3456."},
-        {"type": "instruction", "step": 1, "text": "Quick warm-up: 'Solve 467 + 285 on the stamp game.' Let the child work through it with minimal help. Check the answer together (752). Then say: 'Now we are going even bigger — FOUR-digit numbers!'"},
-        {"type": "instruction", "step": 2, "text": "Write 2,456 + 1,387 on paper. Say: 'Build 2,456 first.' Watch as the child places stamps. Then: 'Now build 1,387 in a second row.' Verify both numbers are built correctly before combining."},
-        {"type": "instruction", "step": 3, "text": "Guide the combination process: 'Start with units, just like before. Count all the unit stamps... 6 plus 7 is 13. Can we keep 13 units? No — exchange 10 for 1 ten stamp. That leaves 3 units.' Continue through each column, letting the child do the counting."},
-        {"type": "instruction", "step": 4, "text": "After completing the problem together (answer: 3,843), say: 'You just added numbers in the thousands! The process is exactly the same — combine, count, exchange if needed, move to the next column. Now you try one on your own.'"},
-        {"type": "activity", "prompt": "Solve these 4-digit addition problems with the stamp game:\n1. 3,215 + 4,678\n2. 5,092 + 2,948\n3. 1,776 + 3,456\nRecord each problem and answer in your math notebook.\nBONUS: Create your own 4-digit addition problem where every column needs an exchange!", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "You are now adding numbers in the thousands — that is powerful math! Remember: it does not matter how big the numbers get, the process is always the same. Start with units, combine, exchange at 10, move left.", "mastery_check": "Can the child independently set up and solve a 4-digit addition problem? Are they consistently starting with units and exchanging correctly?"}
+        {
+          "type": "title",
+          "heading": "Bigger Addition!",
+          "subheading": "4-Digit Numbers with the Stamp Game",
+          "image_url": "https://images.pexels.com/photos/6037812/pexels-photo-6037812.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Stamp game",
+            "Work mat",
+            "Math notebook and pencil",
+            "4-digit problem cards"
+          ],
+          "setup_instructions": "Prepare the stamp game with extra stamps — 4-digit problems use more stamps. Write problem cards: 2456+1387, 3215+4678, 5092+2948, 1776+3456."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Quick warm-up: 'Solve 467 + 285 on the stamp game.' Let the child work through it with minimal help. Check the answer together (752). Then say: 'Now we are going even bigger — FOUR-digit numbers!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Write 2,456 + 1,387 on paper. Say: 'Build 2,456 first.' Watch as the child places stamps. Then: 'Now build 1,387 in a second row.' Verify both numbers are built correctly before combining."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Guide the combination process: 'Start with units, just like before. Count all the unit stamps... 6 plus 7 is 13. Can we keep 13 units? No — exchange 10 for 1 ten stamp. That leaves 3 units.' Continue through each column, letting the child do the counting."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "After completing the problem together (answer: 3,843), say: 'You just added numbers in the thousands! The process is exactly the same — combine, count, exchange if needed, move to the next column. Now you try one on your own.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these 4-digit addition problems with the stamp game:\n1. 3,215 + 4,678\n2. 5,092 + 2,948\n3. 1,776 + 3,456\nRecord each problem and answer in your math notebook.\nBONUS: Create your own 4-digit addition problem where every column needs an exchange!",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "You are now adding numbers in the thousands — that is powerful math! Remember: it does not matter how big the numbers get, the process is always the same. Start with units, combine, exchange at 10, move left.",
+          "mastery_check": "Can the child independently set up and solve a 4-digit addition problem? Are they consistently starting with units and exchanging correctly?"
+        }
       ]
     },
     "parent_notes": "The jump from 3-digit to 4-digit addition is less about difficulty and more about stamina and organization. The process is identical; there are just more stamps to manage. Watch for organizational issues — stamps getting mixed between columns, losing track of exchanged stamps. If this happens, use small cups or bowls to separate columns. The challenge problem (every column requiring exchange) is great for advanced thinkers. Example: 5,678 + 4,567 requires exchanges in units, tens, hundreds, AND thousands. If your child is breezing through, they may be ready for the small bead frame, which is the next level of abstraction.",
@@ -206,17 +515,62 @@
     "instructions": "1. Introduce the concept of a nature journal — scientists' most important tool.\n2. Show examples of famous nature journals (Leonardo da Vinci, John Muir).\n3. Set up the journal: write the child's name, date, and location on the first page.\n4. Teach the observation protocol: look, listen, smell, touch (when safe).\n5. Go outside to a nearby natural area (yard, park, trail).\n6. Sit quietly for 2 minutes and just observe.\n7. Choose one item to draw in detail — a leaf, flower, insect, or rock.\n8. Draw it carefully, noting colors, textures, and sizes.\n9. Write observations next to the drawing.\n10. Return inside and discuss what was discovered.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Blank hardcover sketchbook for nature journal", "Pencils (regular and colored)", "Magnifying glass", "Ruler for measuring", "Ziplock bag for collecting specimens"],
+    "materials_needed": [
+      "Blank hardcover sketchbook for nature journal",
+      "Pencils (regular and colored)",
+      "Magnifying glass",
+      "Ruler for measuring",
+      "Ziplock bag for collecting specimens"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Your Nature Journal", "subheading": "Becoming a Scientist-Observer"},
-        {"type": "materials", "items": ["Blank sketchbook", "Pencils and colored pencils", "Magnifying glass", "Ruler", "Ziplock bag for specimens"], "setup_instructions": "Choose a sketchbook with unlined pages (or a mix). Gather outdoor supplies in a small bag or basket. Identify your outdoor observation location ahead of time."},
-        {"type": "instruction", "step": 1, "text": "Say: 'Scientists carry a special tool everywhere they go — a journal. They draw what they see, write what they notice, and record their questions. Today we start YOUR nature journal. Every great scientist began by learning to observe carefully.'"},
-        {"type": "instruction", "step": 2, "text": "Show the child images of famous nature journals — Leonardo da Vinci's detailed drawings, John Muir's wilderness notes, or Beatrix Potter's mushroom studies. Say: 'Notice how carefully they drew. They didn't rush. They looked closely and drew exactly what they saw.'"},
-        {"type": "instruction", "step": 3, "text": "Set up the journal's first page: date, location, weather, and temperature. Teach the observation protocol: 'First, we LOOK — really look, not just glance. Then we LISTEN. Then we SMELL. Then, if it is safe, we TOUCH. We use all our senses.'"},
-        {"type": "instruction", "step": 4, "text": "Go outside. Find a comfortable spot and sit quietly for two full minutes. Then say: 'Now choose ONE thing to study closely. It could be a leaf, a stone, a flower, an insect, a patch of bark. Pick it up if you can, or get close. Use your magnifying glass.'"},
-        {"type": "activity", "prompt": "Make your first nature journal entry:\n1. Draw your chosen object as carefully as you can. Look at it while you draw — spend more time looking than drawing.\n2. Label the parts you notice.\n3. Write 3 observations (things you notice with your senses).\n4. Write 1 question you have about the object.\n5. If possible, press a leaf or tape a specimen near your drawing.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You made your first entry as a nature scientist! This journal will grow all year long. Every week, we will go outside and observe. By June, you will have a whole book full of discoveries.", "mastery_check": "Did the child slow down and observe carefully? Does their drawing show detail (not just a quick sketch)? Did they write at least 3 observations using their senses?"}
+        {
+          "type": "title",
+          "heading": "Your Nature Journal",
+          "subheading": "Becoming a Scientist-Observer",
+          "image_url": "https://images.pexels.com/photos/8924160/pexels-photo-8924160.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank sketchbook",
+            "Pencils and colored pencils",
+            "Magnifying glass",
+            "Ruler",
+            "Ziplock bag for specimens"
+          ],
+          "setup_instructions": "Choose a sketchbook with unlined pages (or a mix). Gather outdoor supplies in a small bag or basket. Identify your outdoor observation location ahead of time."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Say: 'Scientists carry a special tool everywhere they go — a journal. They draw what they see, write what they notice, and record their questions. Today we start YOUR nature journal. Every great scientist began by learning to observe carefully.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the child images of famous nature journals — Leonardo da Vinci's detailed drawings, John Muir's wilderness notes, or Beatrix Potter's mushroom studies. Say: 'Notice how carefully they drew. They didn't rush. They looked closely and drew exactly what they saw.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Set up the journal's first page: date, location, weather, and temperature. Teach the observation protocol: 'First, we LOOK — really look, not just glance. Then we LISTEN. Then we SMELL. Then, if it is safe, we TOUCH. We use all our senses.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Go outside. Find a comfortable spot and sit quietly for two full minutes. Then say: 'Now choose ONE thing to study closely. It could be a leaf, a stone, a flower, an insect, a patch of bark. Pick it up if you can, or get close. Use your magnifying glass.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Make your first nature journal entry:\n1. Draw your chosen object as carefully as you can. Look at it while you draw — spend more time looking than drawing.\n2. Label the parts you notice.\n3. Write 3 observations (things you notice with your senses).\n4. Write 1 question you have about the object.\n5. If possible, press a leaf or tape a specimen near your drawing.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You made your first entry as a nature scientist! This journal will grow all year long. Every week, we will go outside and observe. By June, you will have a whole book full of discoveries.",
+          "mastery_check": "Did the child slow down and observe carefully? Does their drawing show detail (not just a quick sketch)? Did they write at least 3 observations using their senses?"
+        }
       ]
     },
     "parent_notes": "The nature journal is one of the most powerful tools in Montessori science education. It teaches observation, patience, scientific drawing, and writing simultaneously. The key is to model slowness — children want to rush and draw something quickly. Sit with them and make your own journal entry. The quality of observation matters more than the quality of the drawing. If your child says 'I can't draw,' say 'You are not making art, you are recording what you see. Just draw what is there.' Over time, their observational drawing will improve dramatically. Aim for one journal entry per week minimum. The best nature journals include: date, weather, location, a careful drawing, labeled parts, sensory observations, and questions.",
@@ -234,17 +588,60 @@
     "instructions": "1. Discuss what a folk song is — a song passed down by ordinary people, telling stories of their lives.\n2. Introduce Woody Guthrie — a traveling musician who wrote songs about America.\n3. Listen to the song once all the way through.\n4. Read the lyrics together, discussing unfamiliar words.\n5. Learn the chorus first — sing it together several times.\n6. Add verses one at a time, practicing each.\n7. Discuss the geography in the song: 'From California to the New York island.'\n8. Find these places on a map.\n9. Sing the whole song together.\n10. Discuss: What does this song say about who the land belongs to?",
     "duration_minutes": 45,
     "lesson_type": "collaborative",
-    "materials_needed": ["Lyrics sheet for 'This Land Is Your Land'", "Audio recording of the song", "Map of the United States", "Music player or device"],
+    "materials_needed": [
+      "Lyrics sheet for 'This Land Is Your Land'",
+      "Audio recording of the song",
+      "Map of the United States",
+      "Music player or device"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Folk Songs of America", "subheading": "This Land Is Your Land"},
-        {"type": "materials", "items": ["Printed lyrics sheet", "Audio recording of the song", "Map of the United States", "Audio player"], "setup_instructions": "Print or write out the lyrics in large, readable text. Have the audio recording ready. Display a map of the United States."},
-        {"type": "instruction", "step": 1, "text": "Say: 'Today we learn about folk songs. Folk means ordinary people. Folk songs are songs that regular people made up and sang — while working, while traveling, while celebrating. They tell stories about real life.' Ask: 'Do you know any songs that tell a story?'"},
-        {"type": "instruction", "step": 2, "text": "Introduce Woody Guthrie: 'A man named Woody Guthrie traveled all across America during hard times. He saw mountains, deserts, forests, and cities. He met people who were struggling but also people who were kind and generous. He wrote songs about what he saw. His most famous song is the one we will learn today.'"},
-        {"type": "instruction", "step": 3, "text": "Play the recording once through. Then say: 'Let us look at the words together.' Read the lyrics aloud. Point out geographic references: 'California, New York island, redwood forests, Gulf Stream waters, wheat fields.' Find each on the map. 'This song paints a picture of the whole country.'"},
-        {"type": "instruction", "step": 4, "text": "Teach the chorus: 'This land is your land, this land is my land...' Sing it slowly, line by line, having the child repeat each line. Then sing the whole chorus together 3 times until it feels comfortable."},
-        {"type": "activity", "prompt": "Now let us sing the whole song together:\n1. Sing all the verses you have learned with the chorus between each one.\n2. On the map, trace Woody Guthrie's journey from California to New York.\n3. In your journal, draw a picture of one scene from the song (redwood forests, golden valley, ribbon of highway).\n4. Write your own verse about a place you love!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Folk songs are like musical stories. Woody Guthrie used this song to say that the beauty of this land belongs to everyone. We will learn more folk songs throughout the year — songs from different countries and cultures too!", "mastery_check": "Can the child sing the chorus from memory? Can they identify at least 3 geographic features mentioned in the song? Do they understand what a folk song is?"}
+        {
+          "type": "title",
+          "heading": "Folk Songs of America",
+          "subheading": "This Land Is Your Land",
+          "image_url": "https://images.pexels.com/photos/8382222/pexels-photo-8382222.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed lyrics sheet",
+            "Audio recording of the song",
+            "Map of the United States",
+            "Audio player"
+          ],
+          "setup_instructions": "Print or write out the lyrics in large, readable text. Have the audio recording ready. Display a map of the United States."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Say: 'Today we learn about folk songs. Folk means ordinary people. Folk songs are songs that regular people made up and sang — while working, while traveling, while celebrating. They tell stories about real life.' Ask: 'Do you know any songs that tell a story?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce Woody Guthrie: 'A man named Woody Guthrie traveled all across America during hard times. He saw mountains, deserts, forests, and cities. He met people who were struggling but also people who were kind and generous. He wrote songs about what he saw. His most famous song is the one we will learn today.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Play the recording once through. Then say: 'Let us look at the words together.' Read the lyrics aloud. Point out geographic references: 'California, New York island, redwood forests, Gulf Stream waters, wheat fields.' Find each on the map. 'This song paints a picture of the whole country.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Teach the chorus: 'This land is your land, this land is my land...' Sing it slowly, line by line, having the child repeat each line. Then sing the whole chorus together 3 times until it feels comfortable."
+        },
+        {
+          "type": "activity",
+          "prompt": "Now let us sing the whole song together:\n1. Sing all the verses you have learned with the chorus between each one.\n2. On the map, trace Woody Guthrie's journey from California to New York.\n3. In your journal, draw a picture of one scene from the song (redwood forests, golden valley, ribbon of highway).\n4. Write your own verse about a place you love!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Folk songs are like musical stories. Woody Guthrie used this song to say that the beauty of this land belongs to everyone. We will learn more folk songs throughout the year — songs from different countries and cultures too!",
+          "mastery_check": "Can the child sing the chorus from memory? Can they identify at least 3 geographic features mentioned in the song? Do they understand what a folk song is?"
+        }
       ]
     },
     "parent_notes": "Folk music connects beautifully to Montessori geography and cultural studies. 'This Land Is Your Land' is accessible, catchy, and contains real geographic vocabulary. Woody Guthrie wrote it in 1940, and it has become an unofficial anthem. Some versions include verses about poverty and inequality — share these if you wish, as Montessori encourages honest discussion of social justice. If your child plays an instrument, the song uses just 3 chords (G, C, D) and is perfect for beginning guitar or ukulele. Throughout the year, we will learn folk songs from each continent we study, building a repertoire that connects music to cultural geography.",
@@ -262,17 +659,69 @@
     "instructions": "1. Show the difference between dry and liquid measuring cups.\n2. Demonstrate the scoop-and-level technique: scoop flour, level with a straight edge.\n3. Practice measuring 1 cup of flour using the correct technique.\n4. Demonstrate measuring spoons: 1 tablespoon, 1 teaspoon, 1/2 teaspoon.\n5. Discuss fractions informally: 'This is one HALF of a teaspoon — half means divided into two equal parts.'\n6. Make cinnamon sugar together: 1/2 cup sugar + 2 teaspoons cinnamon.\n7. Child measures each ingredient independently.\n8. Mix together and transfer to a small jar.\n9. Clean up all tools — washing and drying measuring cups.\n10. Use the cinnamon sugar on toast for snack time.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Dry measuring cups (1 cup, 1/2 cup, 1/3 cup, 1/4 cup)", "Measuring spoons set", "Flour", "Sugar", "Ground cinnamon", "Butter knife for leveling", "Small jar with lid", "Mixing bowl", "Bread for toast"],
+    "materials_needed": [
+      "Dry measuring cups (1 cup, 1/2 cup, 1/3 cup, 1/4 cup)",
+      "Measuring spoons set",
+      "Flour",
+      "Sugar",
+      "Ground cinnamon",
+      "Butter knife for leveling",
+      "Small jar with lid",
+      "Mixing bowl",
+      "Bread for toast"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Kitchen Skills", "subheading": "Measuring Dry Ingredients Like a Chef"},
-        {"type": "materials", "items": ["Dry measuring cups set", "Measuring spoons set", "Flour and sugar", "Ground cinnamon", "Butter knife", "Small jar", "Mixing bowl", "Bread for toast"], "setup_instructions": "Set up a clean kitchen workspace. Lay out all measuring tools. Have ingredients accessible in their containers. Place a clean towel underneath for easy cleanup."},
-        {"type": "instruction", "step": 1, "text": "Show both types of measuring cups. Say: 'Dry measuring cups are flat on top so you can level them off. Liquid measuring cups have a spout and lines on the side. Today we use DRY measuring cups because we are measuring flour, sugar, and cinnamon — all dry ingredients.'"},
-        {"type": "instruction", "step": 2, "text": "Demonstrate scoop-and-level: dip the 1-cup measure into the flour, scoop a heaping amount, then use the butter knife to scrape across the top, leveling it flat. Say: 'This gives us EXACTLY one cup — not a heaping mound and not a half-empty cup. Precision matters in cooking.'"},
-        {"type": "instruction", "step": 3, "text": "Now show measuring spoons. Line them up: 1 tablespoon, 1 teaspoon, 1/2 teaspoon, 1/4 teaspoon. Say: 'A tablespoon is the biggest. A teaspoon is smaller. And look — 1/2 teaspoon is HALF of a teaspoon. How many half teaspoons make a whole teaspoon? Two!'"},
-        {"type": "instruction", "step": 4, "text": "Announce the recipe: 'We are making cinnamon sugar to use on toast! Here is the recipe: one-half cup of sugar plus two teaspoons of cinnamon. You will measure everything yourself.' Guide the child through each step, letting them do the work."},
-        {"type": "activity", "prompt": "Follow the recipe:\n1. Measure 1/2 cup sugar into the mixing bowl (scoop and level!)\n2. Measure 2 teaspoons of cinnamon into the bowl\n3. Stir together until evenly mixed\n4. Pour into the jar and seal it\n5. Make cinnamon sugar toast: toast bread, spread butter, sprinkle your cinnamon sugar\n6. Clean all measuring tools by washing and drying them", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You just measured like a real chef! Accurate measuring is what makes recipes work. The cinnamon sugar you made is a spice blend — chefs create their own blends all the time. Next cooking lesson, we will use even more measurements!", "mastery_check": "Can the child scoop and level a dry ingredient? Can they identify which measuring spoon is 1 teaspoon vs. 1 tablespoon? Did they measure independently with accuracy?"}
+        {
+          "type": "title",
+          "heading": "Kitchen Skills",
+          "subheading": "Measuring Dry Ingredients Like a Chef",
+          "image_url": "https://images.pexels.com/photos/6636605/pexels-photo-6636605.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Dry measuring cups set",
+            "Measuring spoons set",
+            "Flour and sugar",
+            "Ground cinnamon",
+            "Butter knife",
+            "Small jar",
+            "Mixing bowl",
+            "Bread for toast"
+          ],
+          "setup_instructions": "Set up a clean kitchen workspace. Lay out all measuring tools. Have ingredients accessible in their containers. Place a clean towel underneath for easy cleanup."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show both types of measuring cups. Say: 'Dry measuring cups are flat on top so you can level them off. Liquid measuring cups have a spout and lines on the side. Today we use DRY measuring cups because we are measuring flour, sugar, and cinnamon — all dry ingredients.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Demonstrate scoop-and-level: dip the 1-cup measure into the flour, scoop a heaping amount, then use the butter knife to scrape across the top, leveling it flat. Say: 'This gives us EXACTLY one cup — not a heaping mound and not a half-empty cup. Precision matters in cooking.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Now show measuring spoons. Line them up: 1 tablespoon, 1 teaspoon, 1/2 teaspoon, 1/4 teaspoon. Say: 'A tablespoon is the biggest. A teaspoon is smaller. And look — 1/2 teaspoon is HALF of a teaspoon. How many half teaspoons make a whole teaspoon? Two!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Announce the recipe: 'We are making cinnamon sugar to use on toast! Here is the recipe: one-half cup of sugar plus two teaspoons of cinnamon. You will measure everything yourself.' Guide the child through each step, letting them do the work."
+        },
+        {
+          "type": "activity",
+          "prompt": "Follow the recipe:\n1. Measure 1/2 cup sugar into the mixing bowl (scoop and level!)\n2. Measure 2 teaspoons of cinnamon into the bowl\n3. Stir together until evenly mixed\n4. Pour into the jar and seal it\n5. Make cinnamon sugar toast: toast bread, spread butter, sprinkle your cinnamon sugar\n6. Clean all measuring tools by washing and drying them",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You just measured like a real chef! Accurate measuring is what makes recipes work. The cinnamon sugar you made is a spice blend — chefs create their own blends all the time. Next cooking lesson, we will use even more measurements!",
+          "mastery_check": "Can the child scoop and level a dry ingredient? Can they identify which measuring spoon is 1 teaspoon vs. 1 tablespoon? Did they measure independently with accuracy?"
+        }
       ]
     },
     "parent_notes": "Practical life in Lower Elementary shifts from the pouring and spooning of Primary to real-world kitchen skills. Measuring ingredients teaches fractions naturally — 1/2 cup, 1/4 teaspoon — and children internalize these concepts long before they encounter them in formal math. Let the child do ALL the measuring, even if it is messy. Cleanup is part of the lesson. The cinnamon sugar recipe is intentionally simple (only 2 ingredients) so the focus stays on measuring technique. In future weeks, recipes will grow in complexity. Always supervise near the stove or toaster, but let the child do as much as is safely possible. The pride of making something real that they can eat is a powerful motivator.",
@@ -290,17 +739,61 @@
     "instructions": "1. Warm up with previously learned letters — write 'ticket' and 'locate' in cursive.\n2. Introduce the new stroke: the over-and-down hump.\n3. Demonstrate 'n' — one hump up and over.\n4. Practice 'n' in sand tray, then on paper.\n5. Demonstrate 'm' — two humps (like a double 'n').\n6. Demonstrate 'h' — tall stroke then one hump.\n7. Demonstrate 'k' — tall stroke with a kick.\n8. Practice each letter on lined paper.\n9. Write words: 'think', 'home', 'kind', 'moon', 'knee'.\n10. Write a short sentence using as many learned letters as possible.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Cursive alphabet chart", "Sand tray", "Lined handwriting paper", "Pencil", "Previously learned letter reference sheet"],
+    "materials_needed": [
+      "Cursive alphabet chart",
+      "Sand tray",
+      "Lined handwriting paper",
+      "Pencil",
+      "Previously learned letter reference sheet"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Humps and Bumps", "subheading": "Cursive Letters: n, m, h, k"},
-        {"type": "materials", "items": ["Cursive alphabet chart", "Sand tray", "Lined handwriting paper", "Pencil"], "setup_instructions": "Display the cursive chart with today's letters highlighted. Have the sand tray and paper ready."},
-        {"type": "instruction", "step": 1, "text": "Warm up: 'Before we learn new letters, let us practice. Write the word ticket in cursive, then locate.' Check letter formation and connections. Praise progress and gently correct any reversed strokes."},
-        {"type": "instruction", "step": 2, "text": "Introduce the hump stroke: 'Today's letters all have HUMPS — the pencil goes up, over, and back down like a hill.' Draw the basic hump motion in the air. Have the child practice the hump motion in the sand tray several times."},
-        {"type": "instruction", "step": 3, "text": "Demonstrate 'n': up-stroke, one hump, down-stroke with connecting tail. Then 'm': up-stroke, two humps, down-stroke. Say: 'M is just like two n's glued together! If you can write n, you can write m.' Have the child practice both in sand, then on paper."},
-        {"type": "instruction", "step": 4, "text": "Demonstrate 'h': tall up-stroke (like l), come down, then one hump. 'H starts tall, comes down, and bumps up once.' Then 'k': tall up-stroke, come down, then a kick out and back. 'K is trickier — practice it extra.'"},
-        {"type": "activity", "prompt": "Letter practice and word building:\n1. Write one line each of n, m, h, k\n2. Write these words in cursive: think, home, kind, moon, knit, monk, hike, mink\n3. Write this sentence in cursive: 'I think I can make it home.'\n4. Challenge: write your name in cursive (use the chart for letters you haven't learned yet)", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You now know twelve cursive letters: a, c, d, e, h, i, k, l, m, n, o, t. That is nearly half the alphabet! You can already write many words and even sentences.", "mastery_check": "Can the child form n, m, h, and k with correct hump strokes? Can they differentiate between n (one hump) and m (two humps)? Can they connect these new letters to previously learned ones?"}
+        {
+          "type": "title",
+          "heading": "Humps and Bumps",
+          "subheading": "Cursive Letters: n, m, h, k",
+          "image_url": "https://images.pexels.com/photos/3855553/pexels-photo-3855553.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Cursive alphabet chart",
+            "Sand tray",
+            "Lined handwriting paper",
+            "Pencil"
+          ],
+          "setup_instructions": "Display the cursive chart with today's letters highlighted. Have the sand tray and paper ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Warm up: 'Before we learn new letters, let us practice. Write the word ticket in cursive, then locate.' Check letter formation and connections. Praise progress and gently correct any reversed strokes."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce the hump stroke: 'Today's letters all have HUMPS — the pencil goes up, over, and back down like a hill.' Draw the basic hump motion in the air. Have the child practice the hump motion in the sand tray several times."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Demonstrate 'n': up-stroke, one hump, down-stroke with connecting tail. Then 'm': up-stroke, two humps, down-stroke. Say: 'M is just like two n's glued together! If you can write n, you can write m.' Have the child practice both in sand, then on paper."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Demonstrate 'h': tall up-stroke (like l), come down, then one hump. 'H starts tall, comes down, and bumps up once.' Then 'k': tall up-stroke, come down, then a kick out and back. 'K is trickier — practice it extra.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Letter practice and word building:\n1. Write one line each of n, m, h, k\n2. Write these words in cursive: think, home, kind, moon, knit, monk, hike, mink\n3. Write this sentence in cursive: 'I think I can make it home.'\n4. Challenge: write your name in cursive (use the chart for letters you haven't learned yet)",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You now know twelve cursive letters: a, c, d, e, h, i, k, l, m, n, o, t. That is nearly half the alphabet! You can already write many words and even sentences.",
+          "mastery_check": "Can the child form n, m, h, and k with correct hump strokes? Can they differentiate between n (one hump) and m (two humps)? Can they connect these new letters to previously learned ones?"
+        }
       ]
     },
     "parent_notes": "The hump-stroke letters are a natural group because they share the same fundamental motion. Children often confuse 'n' and 'm' at first — remind them that m has TWO humps (like the two mountains in M). The letter 'k' is one of the trickier cursive letters; if your child struggles, defer it to a later session and focus on n, m, and h. By now your child knows enough letters to write many common words, which is motivating. Encourage them to sign their artwork and other work in cursive for real-world practice. The sentence-writing activity is important because it practices sustained cursive writing, not just isolated letters.",
@@ -318,17 +811,60 @@
     "instructions": "1. Review: 'We know how to add big numbers with stamps. Today we use addition to solve real problems.'\n2. Read the first word problem aloud together.\n3. Identify the key question: 'What are we trying to find out?'\n4. Identify the numbers and the operation needed.\n5. Set up the problem with the stamp game.\n6. Solve and check the answer against the story.\n7. Record the problem, equation, and answer in the math notebook.\n8. Repeat with 3 more word problems of increasing complexity.\n9. Child creates their own word problem for the parent to solve.\n10. Discuss strategies for identifying when to add.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Stamp game", "Work mat", "Math notebook and pencil", "Word problem cards (prepared by parent)"],
+    "materials_needed": [
+      "Stamp game",
+      "Work mat",
+      "Math notebook and pencil",
+      "Word problem cards (prepared by parent)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Addition Stories", "subheading": "Using Math to Solve Real Problems"},
-        {"type": "materials", "items": ["Stamp game", "Work mat", "Math notebook and pencil", "Word problem cards"], "setup_instructions": "Write these problems on cards: 1) A library has 1,245 fiction books and 2,368 nonfiction books. How many books total? 2) A farmer harvested 3,456 apples on Monday and 2,789 on Tuesday. How many total? 3) A town has 4,567 adults and 3,876 children. What is the total population? 4) A school collected 2,345 cans in October and 1,987 in November. How many cans altogether?"},
-        {"type": "instruction", "step": 1, "text": "Say: 'Math is not just about numbers on a page — we use it to solve real problems every day. Today, I am going to read you some stories, and you will figure out the math hidden inside them.'"},
-        {"type": "instruction", "step": 2, "text": "Read Problem 1: 'A library has 1,245 fiction books and 2,368 nonfiction books. How many books does the library have in total?' Ask: 'What are we trying to find? How many books altogether. What operation do we use when we combine things? Addition!'"},
-        {"type": "instruction", "step": 3, "text": "Have the child set up 1,245 + 2,368 on the stamp game. Let them work through the addition independently, only helping if they get stuck. When finished, check: 'Does our answer (3,613) make sense? It should be bigger than both numbers since we are combining them.'"},
-        {"type": "instruction", "step": 4, "text": "Read the remaining problems one at a time. For each, have the child: identify the question, determine the operation, set up the stamps, solve, and check. As problems progress, step back and let the child take the lead."},
-        {"type": "activity", "prompt": "Solve problems 2-4 with the stamp game, recording each in your notebook:\n- Write the word problem\n- Write the equation\n- Solve with stamps and write the answer\n- Check: does the answer make sense?\n\nThen CREATE your own word problem for your parent to solve! Make it a good story with big numbers.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Word problems show us that addition is not just a math exercise — it is a tool for answering real questions. Whenever you hear words like 'total,' 'altogether,' 'combined,' or 'how many in all,' that is a clue to add.", "mastery_check": "Can the child identify when a word problem requires addition? Can they extract the correct numbers from the story? Can they set up and solve the stamp game problem independently?"}
+        {
+          "type": "title",
+          "heading": "Addition Stories",
+          "subheading": "Using Math to Solve Real Problems",
+          "image_url": "https://images.pexels.com/photos/1019470/pexels-photo-1019470.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Stamp game",
+            "Work mat",
+            "Math notebook and pencil",
+            "Word problem cards"
+          ],
+          "setup_instructions": "Write these problems on cards: 1) A library has 1,245 fiction books and 2,368 nonfiction books. How many books total? 2) A farmer harvested 3,456 apples on Monday and 2,789 on Tuesday. How many total? 3) A town has 4,567 adults and 3,876 children. What is the total population? 4) A school collected 2,345 cans in October and 1,987 in November. How many cans altogether?"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Say: 'Math is not just about numbers on a page — we use it to solve real problems every day. Today, I am going to read you some stories, and you will figure out the math hidden inside them.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read Problem 1: 'A library has 1,245 fiction books and 2,368 nonfiction books. How many books does the library have in total?' Ask: 'What are we trying to find? How many books altogether. What operation do we use when we combine things? Addition!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Have the child set up 1,245 + 2,368 on the stamp game. Let them work through the addition independently, only helping if they get stuck. When finished, check: 'Does our answer (3,613) make sense? It should be bigger than both numbers since we are combining them.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Read the remaining problems one at a time. For each, have the child: identify the question, determine the operation, set up the stamps, solve, and check. As problems progress, step back and let the child take the lead."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve problems 2-4 with the stamp game, recording each in your notebook:\n- Write the word problem\n- Write the equation\n- Solve with stamps and write the answer\n- Check: does the answer make sense?\n\nThen CREATE your own word problem for your parent to solve! Make it a good story with big numbers.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Word problems show us that addition is not just a math exercise — it is a tool for answering real questions. Whenever you hear words like 'total,' 'altogether,' 'combined,' or 'how many in all,' that is a clue to add.",
+          "mastery_check": "Can the child identify when a word problem requires addition? Can they extract the correct numbers from the story? Can they set up and solve the stamp game problem independently?"
+        }
       ]
     },
     "parent_notes": "Word problems are where mathematics becomes meaningful. Many children can compute but struggle to translate stories into equations. The key skills are: identifying the question, finding the relevant numbers, and choosing the correct operation. Today focuses only on addition, so all problems are 'combining' situations. Teach your child to look for clue words: total, altogether, combined, in all, how many. When your child creates their own word problem, this reverses the thinking process and deepens understanding. If the word problems are too challenging to read, read them aloud — the goal is mathematical thinking, not reading comprehension.",
@@ -346,17 +882,61 @@
     "instructions": "1. Return to the Timeline of Life. Review: last time we ended with fish in the oceans.\n2. Pose the question: 'How did life get from the ocean onto land?'\n3. Explain that plants were the pioneers — they went first.\n4. Show the progression: algae at the water's edge, mosses on rocks, ferns growing taller.\n5. Discuss what plants needed to survive on land: roots, stems, ways to keep from drying out.\n6. Show how the first forests formed — giant ferns and early trees.\n7. Explain how plants changed the air: they produced oxygen, making it possible for animals to breathe on land.\n8. Examine real moss and fern samples if available.\n9. Add to the child's Timeline of Life drawings.\n10. Connect to today's plants: 'Ferns and mosses are still alive today!'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Timeline of Life", "Drawing paper", "Colored pencils", "Moss and fern samples (real or photographs)", "Reference books on prehistoric plants"],
+    "materials_needed": [
+      "Timeline of Life",
+      "Drawing paper",
+      "Colored pencils",
+      "Moss and fern samples (real or photographs)",
+      "Reference books on prehistoric plants"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Life Moves to Land", "subheading": "The First Plants Transform Earth"},
-        {"type": "materials", "items": ["Timeline of Life", "Drawing paper and colored pencils", "Real moss and fern samples or clear photographs", "Prehistoric plant reference books"], "setup_instructions": "Unroll the Timeline of Life to the Paleozoic era. If possible, collect real moss and a fern frond from outdoors. Have reference materials ready."},
-        {"type": "instruction", "step": 1, "text": "Review: 'Last time, we followed life from single cells to the first fish. But life was still only in the OCEAN. Today we discover how life made the greatest journey of all — from water to dry land. And it was not the animals who went first. It was the PLANTS.'"},
-        {"type": "instruction", "step": 2, "text": "Start at the water's edge: 'First, algae — which had been living in the ocean — started growing along shorelines and riverbanks. Then mosses appeared on wet rocks. They were tiny but tough. They were the very first plants to survive on dry land.' Show moss if available."},
-        {"type": "instruction", "step": 3, "text": "Show ferns: 'Then came ferns — bigger, with real roots to drink water from the soil and real stems to stand tall. And then, millions of years later, the first TREES grew. Imagine a world with no trees, and then suddenly, forests! These early forests were made of giant ferns, some 30 feet tall!'"},
-        {"type": "instruction", "step": 4, "text": "Explain the oxygen connection: 'Plants do something miraculous — they take in carbon dioxide and release OXYGEN. As forests spread across the land, the air filled with oxygen. And oxygen is what animals need to breathe! Plants prepared the land for animals. Without plants, no animal could have survived on land.'"},
-        {"type": "activity", "prompt": "Create a 'Plants Colonize the Land' panel for your timeline:\n1. Draw the progression: algae at the water's edge, mosses on rocks, ferns growing tall, the first forest\n2. Label each stage\n3. Draw an arrow showing how plants made oxygen, which allowed animals to move to land later\n4. If you have real moss or ferns, examine them with your magnifying glass and sketch what you see", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Plants were the brave pioneers that made dry land livable. Without them changing the atmosphere, no animal — including us — could survive on land. Next time, we will follow the first animals as they crawled out of the water!", "mastery_check": "Can the child explain why plants came before animals on land? Can they describe the progression from algae to mosses to ferns to trees? Do they understand the connection between plants producing oxygen and animals needing it?"}
+        {
+          "type": "title",
+          "heading": "Life Moves to Land",
+          "subheading": "The First Plants Transform Earth",
+          "image_url": "https://images.pexels.com/photos/1701595/pexels-photo-1701595.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Timeline of Life",
+            "Drawing paper and colored pencils",
+            "Real moss and fern samples or clear photographs",
+            "Prehistoric plant reference books"
+          ],
+          "setup_instructions": "Unroll the Timeline of Life to the Paleozoic era. If possible, collect real moss and a fern frond from outdoors. Have reference materials ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'Last time, we followed life from single cells to the first fish. But life was still only in the OCEAN. Today we discover how life made the greatest journey of all — from water to dry land. And it was not the animals who went first. It was the PLANTS.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Start at the water's edge: 'First, algae — which had been living in the ocean — started growing along shorelines and riverbanks. Then mosses appeared on wet rocks. They were tiny but tough. They were the very first plants to survive on dry land.' Show moss if available."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show ferns: 'Then came ferns — bigger, with real roots to drink water from the soil and real stems to stand tall. And then, millions of years later, the first TREES grew. Imagine a world with no trees, and then suddenly, forests! These early forests were made of giant ferns, some 30 feet tall!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Explain the oxygen connection: 'Plants do something miraculous — they take in carbon dioxide and release OXYGEN. As forests spread across the land, the air filled with oxygen. And oxygen is what animals need to breathe! Plants prepared the land for animals. Without plants, no animal could have survived on land.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a 'Plants Colonize the Land' panel for your timeline:\n1. Draw the progression: algae at the water's edge, mosses on rocks, ferns growing tall, the first forest\n2. Label each stage\n3. Draw an arrow showing how plants made oxygen, which allowed animals to move to land later\n4. If you have real moss or ferns, examine them with your magnifying glass and sketch what you see",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Plants were the brave pioneers that made dry land livable. Without them changing the atmosphere, no animal — including us — could survive on land. Next time, we will follow the first animals as they crawled out of the water!",
+          "mastery_check": "Can the child explain why plants came before animals on land? Can they describe the progression from algae to mosses to ferns to trees? Do they understand the connection between plants producing oxygen and animals needing it?"
+        }
       ]
     },
     "parent_notes": "This lesson connects biology, ecology, and history in a way that is quintessentially Montessori. The idea that plants PREPARED the land for animals is a powerful concept — it shows interdependence and sequence. If you can take this lesson outdoors, find real moss growing on rocks or damp surfaces, and real ferns in shady areas. Let your child touch them and compare them to the timeline illustrations. The fact that mosses and ferns are still alive today — virtually unchanged for hundreds of millions of years — is amazing to children. This is a living connection to deep time. If your child is fascinated, follow up with research on carboniferous forests or how coal formed from ancient plants.",
@@ -374,17 +954,65 @@
     "instructions": "1. Review island and lake from Day 1 — can the child define each?\n2. Present the land and water form cards for peninsula and gulf.\n3. Explain: 'A peninsula is land surrounded by water on three sides. A gulf is water surrounded by land on three sides.'\n4. Show real-world examples: Florida (peninsula), Gulf of Mexico.\n5. Build a peninsula model with clay and water.\n6. Build a gulf model with clay and water.\n7. Compare all four models: island, lake, peninsula, gulf.\n8. Draw and label in the geography notebook.\n9. Find 3 peninsulas and 3 gulfs on the globe.\n10. Play a review game: show a form, child names it.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Two shallow trays", "Modeling clay", "Pitcher of water", "Globe or world map", "Land and water form cards", "Geography notebook", "Colored pencils"],
+    "materials_needed": [
+      "Two shallow trays",
+      "Modeling clay",
+      "Pitcher of water",
+      "Globe or world map",
+      "Land and water form cards",
+      "Geography notebook",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Land and Water Forms", "subheading": "Peninsula and Gulf — Another Perfect Pair"},
-        {"type": "materials", "items": ["Two shallow trays", "Modeling clay", "Pitcher of water", "Globe or map", "Form definition cards", "Geography notebook and pencils"], "setup_instructions": "Set up two trays on a protected surface. If you kept the island and lake models, have them available for comparison. Display the peninsula and gulf cards."},
-        {"type": "instruction", "step": 1, "text": "Review: 'On Monday, we learned two land and water forms. Who can tell me — what is an island? What is a lake?' Let the child define each. Then: 'Today we learn another pair of forms that are also perfect opposites.'"},
-        {"type": "instruction", "step": 2, "text": "Show the peninsula card: 'A peninsula is a piece of land that sticks out into the water. It is surrounded by water on THREE sides, but connected to the mainland on one side.' Show Florida on the map: 'Florida is a peninsula — water on the east, west, and south, but connected to the rest of the country on the north.'"},
-        {"type": "instruction", "step": 3, "text": "Show the gulf card: 'A gulf is the exact opposite — it is water that pushes into the land, surrounded by land on three sides.' Show the Gulf of Mexico: 'See how the water pushes into the land between the United States and Mexico? That is a gulf.' Point out how Florida's peninsula and the Gulf of Mexico sit right next to each other."},
-        {"type": "instruction", "step": 4, "text": "Build the models: for the peninsula, create a strip of clay extending from one edge of the tray into the center, with water around three sides. For the gulf, create clay around three edges of the tray with water filling the opening. Set them side by side: 'See how they are mirror images?'"},
-        {"type": "activity", "prompt": "In your geography notebook:\n1. Draw and label a peninsula (show water on 3 sides, land connection on 1 side)\n2. Draw and label a gulf (show land on 3 sides, open water on 1 side)\n3. Write definitions in your own words\n4. Find and list: 3 peninsulas (try Italy, Korea, Baja California) and 3 gulfs (Gulf of Mexico, Persian Gulf, Gulf of Alaska)\n5. Can you see any peninsulas and gulfs that are right next to each other on the map?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Peninsula and gulf are the second pair of complementary land and water forms. They are opposites, just like island and lake. You now know four forms! Next time, we will learn two more.", "mastery_check": "Can the child define peninsula and gulf? Can they explain how they are complementary (opposites)? Can they identify examples on a map, including Florida and the Gulf of Mexico?"}
+        {
+          "type": "title",
+          "heading": "Land and Water Forms",
+          "subheading": "Peninsula and Gulf — Another Perfect Pair",
+          "image_url": "https://images.pexels.com/photos/8923259/pexels-photo-8923259.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Two shallow trays",
+            "Modeling clay",
+            "Pitcher of water",
+            "Globe or map",
+            "Form definition cards",
+            "Geography notebook and pencils"
+          ],
+          "setup_instructions": "Set up two trays on a protected surface. If you kept the island and lake models, have them available for comparison. Display the peninsula and gulf cards."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'On Monday, we learned two land and water forms. Who can tell me — what is an island? What is a lake?' Let the child define each. Then: 'Today we learn another pair of forms that are also perfect opposites.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the peninsula card: 'A peninsula is a piece of land that sticks out into the water. It is surrounded by water on THREE sides, but connected to the mainland on one side.' Show Florida on the map: 'Florida is a peninsula — water on the east, west, and south, but connected to the rest of the country on the north.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show the gulf card: 'A gulf is the exact opposite — it is water that pushes into the land, surrounded by land on three sides.' Show the Gulf of Mexico: 'See how the water pushes into the land between the United States and Mexico? That is a gulf.' Point out how Florida's peninsula and the Gulf of Mexico sit right next to each other."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Build the models: for the peninsula, create a strip of clay extending from one edge of the tray into the center, with water around three sides. For the gulf, create clay around three edges of the tray with water filling the opening. Set them side by side: 'See how they are mirror images?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your geography notebook:\n1. Draw and label a peninsula (show water on 3 sides, land connection on 1 side)\n2. Draw and label a gulf (show land on 3 sides, open water on 1 side)\n3. Write definitions in your own words\n4. Find and list: 3 peninsulas (try Italy, Korea, Baja California) and 3 gulfs (Gulf of Mexico, Persian Gulf, Gulf of Alaska)\n5. Can you see any peninsulas and gulfs that are right next to each other on the map?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Peninsula and gulf are the second pair of complementary land and water forms. They are opposites, just like island and lake. You now know four forms! Next time, we will learn two more.",
+          "mastery_check": "Can the child define peninsula and gulf? Can they explain how they are complementary (opposites)? Can they identify examples on a map, including Florida and the Gulf of Mexico?"
+        }
       ]
     },
     "parent_notes": "Peninsula and gulf are slightly more complex than island and lake because they involve the concept of partial enclosure (three sides vs. all sides). The Florida/Gulf of Mexico pairing is ideal because children can see both forms right next to each other on a map. Italy is another great peninsula — its boot shape is memorable. If you still have the island and lake models from Monday, line all four models up for comparison. The pattern of complementary pairs is important: Montessori teaches children to think in terms of relationships and opposites, which develops abstract thinking. Ask your child: 'If I have a peninsula, what must be nearby?' (A body of water, possibly a gulf.)",
@@ -402,17 +1030,59 @@
     "instructions": "1. Review Chapter 1: What happened? Who are the characters so far?\n2. Read Chapter 2 aloud with warmth and expression.\n3. Pause to discuss Fern feeding Wilbur from a bottle — how is she like a mother?\n4. Note how Wilbur grows and changes quickly.\n5. Discuss the sad moment: Fern must let Wilbur go to the barn.\n6. Ask: How does Fern feel? How does Wilbur feel?\n7. Introduce vocabulary: 'runt,' 'enchanted,' 'appetite.'\n8. Make a Reading Journal entry.\n9. Discuss: Have you ever had to let go of something you loved?\n10. Predict: What will happen to Wilbur at the Zuckerman farm?",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Charlotte's Web by E.B. White", "Reading journal", "Pencil", "Bookmark"],
+    "materials_needed": [
+      "Charlotte's Web by E.B. White",
+      "Reading journal",
+      "Pencil",
+      "Bookmark"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Charlotte's Web", "subheading": "Chapter 2: Wilbur"},
-        {"type": "materials", "items": ["Charlotte's Web", "Reading journal and pencil", "Bookmark"], "setup_instructions": "Return to your cozy reading spot. Have the book open to Chapter 2 and the journal ready."},
-        {"type": "instruction", "step": 1, "text": "Review: 'Last time, Fern saved a tiny runt piglet from being killed. What happened? Who are the characters we have met so far?' Let the child retell the key events of Chapter 1."},
-        {"type": "instruction", "step": 2, "text": "Read Chapter 2 aloud. Emphasize the tenderness — Fern feeding Wilbur with a baby bottle, carrying him to school in a box, playing with him in the yard. This chapter is warm and gentle. When you reach the part where Wilbur must be sold to the Zuckermans, slow down. Let the emotion come through."},
-        {"type": "instruction", "step": 3, "text": "After reading, discuss: 'How did Fern take care of Wilbur? She was like a mother to him. But Wilbur grew, and he could not stay in the house forever. How do you think Fern felt when she had to let him go to the barn?' Connect to the theme of growing up and change."},
-        {"type": "instruction", "step": 4, "text": "Vocabulary moment: 'The word runt means the smallest, weakest one. But Wilbur is not staying a runt — he is growing! E.B. White wrote that Fern was enchanted with Wilbur. Enchanted means so delighted it feels almost magical. And Wilbur had a good appetite — that means he loved to eat!'"},
-        {"type": "activity", "prompt": "Reading Journal entry:\n- Chapter 2: Wilbur\n- Draw a small picture of Fern and baby Wilbur\n- Write 3-4 sentences: What happened in this chapter? How did Fern feel about Wilbur? Why did he have to go to the barn?\n- Vocabulary: Write the word 'enchanted' and use it in your own sentence.", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Wilbur is growing up, and with growing up comes change. He is heading to a new home at the Zuckerman barn. Will he be happy there? Will Fern still visit? We will find out next week!", "mastery_check": "Can the child describe Fern's care for Wilbur? Can they explain why Wilbur had to leave? Can they use the vocabulary word 'enchanted' correctly?"}
+        {
+          "type": "title",
+          "heading": "Charlotte's Web",
+          "subheading": "Chapter 2: Wilbur",
+          "image_url": "https://images.pexels.com/photos/5604251/pexels-photo-5604251.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Charlotte's Web",
+            "Reading journal and pencil",
+            "Bookmark"
+          ],
+          "setup_instructions": "Return to your cozy reading spot. Have the book open to Chapter 2 and the journal ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'Last time, Fern saved a tiny runt piglet from being killed. What happened? Who are the characters we have met so far?' Let the child retell the key events of Chapter 1."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read Chapter 2 aloud. Emphasize the tenderness — Fern feeding Wilbur with a baby bottle, carrying him to school in a box, playing with him in the yard. This chapter is warm and gentle. When you reach the part where Wilbur must be sold to the Zuckermans, slow down. Let the emotion come through."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading, discuss: 'How did Fern take care of Wilbur? She was like a mother to him. But Wilbur grew, and he could not stay in the house forever. How do you think Fern felt when she had to let him go to the barn?' Connect to the theme of growing up and change."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Vocabulary moment: 'The word runt means the smallest, weakest one. But Wilbur is not staying a runt — he is growing! E.B. White wrote that Fern was enchanted with Wilbur. Enchanted means so delighted it feels almost magical. And Wilbur had a good appetite — that means he loved to eat!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Reading Journal entry:\n- Chapter 2: Wilbur\n- Draw a small picture of Fern and baby Wilbur\n- Write 3-4 sentences: What happened in this chapter? How did Fern feel about Wilbur? Why did he have to go to the barn?\n- Vocabulary: Write the word 'enchanted' and use it in your own sentence.",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Wilbur is growing up, and with growing up comes change. He is heading to a new home at the Zuckerman barn. Will he be happy there? Will Fern still visit? We will find out next week!",
+          "mastery_check": "Can the child describe Fern's care for Wilbur? Can they explain why Wilbur had to leave? Can they use the vocabulary word 'enchanted' correctly?"
+        }
       ]
     },
     "parent_notes": "Chapter 2 is a gentle, emotional chapter that resonates with children's own experiences of change and growth. Many children have experienced having to give up or move on from something they love. This connection makes the literature personal. E.B. White's writing is deceptively simple — every word is chosen carefully. Point out beautiful sentences when you notice them: 'She loved him more than anything.' The vocabulary work should feel natural, not like a drill. When you encounter a rich word (enchanted, appetite, specimen), pause briefly to discuss it, then move on. Two chapters per week gives time for the story to settle in the child's mind between readings.",
@@ -430,17 +1100,62 @@
     "instructions": "1. Warm up by writing 'mother' and 'chicken' in cursive.\n2. Demonstrate 'u' — similar to 'n' but upside down.\n3. Practice 'u' in sand tray and on paper.\n4. Demonstrate 'w' — like two 'u's connected.\n5. Demonstrate 'r' — short upstroke with a shoulder.\n6. Demonstrate 's' — the trickiest letter yet; practice extra.\n7. Practice each letter on lined paper.\n8. Write words: 'star', 'summer', 'sister', 'water', 'write'.\n9. Write a 2-sentence passage in cursive.\n10. Self-assess: circle your best-formed letter on the page.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Cursive alphabet chart", "Sand tray", "Lined handwriting paper", "Pencil", "Colored pencil for self-assessment"],
+    "materials_needed": [
+      "Cursive alphabet chart",
+      "Sand tray",
+      "Lined handwriting paper",
+      "Pencil",
+      "Colored pencil for self-assessment"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Expanding Our Cursive", "subheading": "Letters: u, w, r, s"},
-        {"type": "materials", "items": ["Cursive alphabet chart", "Sand tray", "Lined handwriting paper", "Pencil", "Colored pencil"], "setup_instructions": "Display the chart with today's letters highlighted. Prepare the sand tray and clean paper."},
-        {"type": "instruction", "step": 1, "text": "Warm up: 'Write the words mother and chicken in cursive. Remember to connect all the letters.' Check their work, praising improvement. Then: 'Today we learn four more letters. After today, you will know sixteen cursive letters!'"},
-        {"type": "instruction", "step": 2, "text": "Demonstrate 'u': 'Remember n, with its hump going UP? The letter u is the opposite — it goes DOWN into a valley.' Show how u starts with a downstroke, curves at the bottom, comes back up. Have the child practice in sand, then on paper."},
-        {"type": "instruction", "step": 3, "text": "Show 'w': 'If u is one valley, w is two valleys in a row.' Demonstrate the double-valley motion. Then 'r': 'R has a little shoulder — an upstroke that bumps up and comes back.' This is a small, quick letter. Practice each."},
-        {"type": "instruction", "step": 4, "text": "Save 's' for special attention: 'Cursive s is different from print s. Watch carefully.' Demonstrate the undulating stroke. 'It looks a bit like a tiny roller coaster.' This letter often needs extra practice. Let the child try it many times in the sand tray before moving to paper."},
-        {"type": "activity", "prompt": "Practice time:\n1. Write one line each of u, w, r, s\n2. Write these words: star, summer, sister, water, write, nurse, stork, wrist\n3. Write two sentences in cursive: 'The sun was warm on the water. I heard a distant church bell.'\n4. Self-assessment: look at your page and circle your three BEST letters with a colored pencil. Put a star next to one letter you want to improve.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Sixteen letters learned! You can now write most common English words in cursive. Notice how your writing is getting smoother — your hand is learning the movements. Self-assessment is what real writers do: they look at their work and decide what to improve.", "mastery_check": "Can the child form u, w, r, and s correctly? Can they write multi-syllable words in connected cursive? Is the overall flow of their writing becoming smoother?"}
+        {
+          "type": "title",
+          "heading": "Expanding Our Cursive",
+          "subheading": "Letters: u, w, r, s",
+          "image_url": "https://images.pexels.com/photos/5212350/pexels-photo-5212350.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Cursive alphabet chart",
+            "Sand tray",
+            "Lined handwriting paper",
+            "Pencil",
+            "Colored pencil"
+          ],
+          "setup_instructions": "Display the chart with today's letters highlighted. Prepare the sand tray and clean paper."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Warm up: 'Write the words mother and chicken in cursive. Remember to connect all the letters.' Check their work, praising improvement. Then: 'Today we learn four more letters. After today, you will know sixteen cursive letters!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Demonstrate 'u': 'Remember n, with its hump going UP? The letter u is the opposite — it goes DOWN into a valley.' Show how u starts with a downstroke, curves at the bottom, comes back up. Have the child practice in sand, then on paper."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show 'w': 'If u is one valley, w is two valleys in a row.' Demonstrate the double-valley motion. Then 'r': 'R has a little shoulder — an upstroke that bumps up and comes back.' This is a small, quick letter. Practice each."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Save 's' for special attention: 'Cursive s is different from print s. Watch carefully.' Demonstrate the undulating stroke. 'It looks a bit like a tiny roller coaster.' This letter often needs extra practice. Let the child try it many times in the sand tray before moving to paper."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice time:\n1. Write one line each of u, w, r, s\n2. Write these words: star, summer, sister, water, write, nurse, stork, wrist\n3. Write two sentences in cursive: 'The sun was warm on the water. I heard a distant church bell.'\n4. Self-assessment: look at your page and circle your three BEST letters with a colored pencil. Put a star next to one letter you want to improve.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Sixteen letters learned! You can now write most common English words in cursive. Notice how your writing is getting smoother — your hand is learning the movements. Self-assessment is what real writers do: they look at their work and decide what to improve.",
+          "mastery_check": "Can the child form u, w, r, and s correctly? Can they write multi-syllable words in connected cursive? Is the overall flow of their writing becoming smoother?"
+        }
       ]
     },
     "parent_notes": "Cursive 's' is notoriously difficult — it does not resemble print 's' at all. Be patient with this letter and allow extra practice time. If your child gets frustrated, set 's' aside and focus on the other three. The self-assessment component is new and important: it teaches metacognition (thinking about your own learning). Children who can identify their own strengths and weaknesses become better learners. When your child circles their best letters, celebrate those. When they star a letter to improve, say 'Great — you know exactly what to work on. That is how experts think.' With 16 letters mastered, your child can write most of the words they encounter. Encourage cursive writing in all subjects, not just during handwriting time.",
@@ -458,17 +1173,60 @@
     "instructions": "1. Present the small bead frame: 4 rows of 10 beads each (units, tens, hundreds, thousands).\n2. Explain the color coding and how each row represents a place value.\n3. Demonstrate reading a number on the frame: slide beads to show 3,456.\n4. Have the child read the number.\n5. Clear the frame and build a new number: 2,708.\n6. Discuss the zero: 'No tens beads are slid over — that represents zero tens.'\n7. Practice building 5 different 4-digit numbers.\n8. Play 'I show, you read' and then reverse.\n9. Compare to the stamp game: 'Same idea, different tool.'\n10. Record number practice in math notebook.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Small bead frame (Montessori)", "Work mat", "Math notebook and pencil", "Number cards"],
+    "materials_needed": [
+      "Small bead frame (Montessori)",
+      "Work mat",
+      "Math notebook and pencil",
+      "Number cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Small Bead Frame", "subheading": "A New Tool for Big Numbers"},
-        {"type": "materials", "items": ["Small bead frame", "Work mat", "Math notebook and pencil", "Number cards (prepared)"], "setup_instructions": "Place the bead frame on the work mat. All beads should start on the right side (showing zero). Have number cards ready: 3456, 2708, 5090, 1111, 8765, 4003, 6200, 9999."},
-        {"type": "instruction", "step": 1, "text": "Present the bead frame: 'You have been doing wonderful work with the stamp game. Now I want to show you a new tool that mathematicians use — it is called a bead frame, and it is a type of abacus. People have used abacuses for thousands of years!'"},
-        {"type": "instruction", "step": 2, "text": "Explain the rows: 'The bottom row is UNITS — just like unit stamps. The next row up is TENS. Then HUNDREDS. Then THOUSANDS. Each row has 10 beads.' Slide one unit bead to the left: 'This shows the number 1.' Slide all 10: 'This shows 10 units, which equals 1 ten.' Reset."},
-        {"type": "instruction", "step": 3, "text": "Build 3,456: slide 3 thousand beads, 4 hundred beads, 5 ten beads, 6 unit beads. Say: 'Read this number.' Help as needed: 'Three thousand, four hundred, fifty-six.' Then build 2,708 — emphasize: 'See the tens row? No beads are slid over. That is ZERO tens. We read it as two thousand, seven hundred, eight.'"},
-        {"type": "instruction", "step": 4, "text": "Let the child practice. Show a number card. The child builds it on the bead frame. Then reverse: you build a number, the child reads it. Focus on numbers with zeros (5,090 and 4,003) because these require understanding that an empty row means zero."},
-        {"type": "activity", "prompt": "Practice with the bead frame:\n1. Build each number and read it aloud: 5,090 — 1,111 — 8,765 — 4,003 — 6,200 — 9,999\n2. In your math notebook, write each number you build\n3. Write which numbers had zeros, and which place the zero was in\n4. Build 3 secret numbers for your parent to read", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "The bead frame is a powerful tool. It does the same thing as the stamp game but takes up less space and is faster. Soon we will use it for addition, subtraction, and even multiplication!", "mastery_check": "Can the child build any 4-digit number on the bead frame? Can they read numbers built by someone else? Can they handle numbers with zeros (like 3,007 or 4,090)?"}
+        {
+          "type": "title",
+          "heading": "The Small Bead Frame",
+          "subheading": "A New Tool for Big Numbers",
+          "image_url": "https://images.pexels.com/photos/6693304/pexels-photo-6693304.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Small bead frame",
+            "Work mat",
+            "Math notebook and pencil",
+            "Number cards (prepared)"
+          ],
+          "setup_instructions": "Place the bead frame on the work mat. All beads should start on the right side (showing zero). Have number cards ready: 3456, 2708, 5090, 1111, 8765, 4003, 6200, 9999."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Present the bead frame: 'You have been doing wonderful work with the stamp game. Now I want to show you a new tool that mathematicians use — it is called a bead frame, and it is a type of abacus. People have used abacuses for thousands of years!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Explain the rows: 'The bottom row is UNITS — just like unit stamps. The next row up is TENS. Then HUNDREDS. Then THOUSANDS. Each row has 10 beads.' Slide one unit bead to the left: 'This shows the number 1.' Slide all 10: 'This shows 10 units, which equals 1 ten.' Reset."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Build 3,456: slide 3 thousand beads, 4 hundred beads, 5 ten beads, 6 unit beads. Say: 'Read this number.' Help as needed: 'Three thousand, four hundred, fifty-six.' Then build 2,708 — emphasize: 'See the tens row? No beads are slid over. That is ZERO tens. We read it as two thousand, seven hundred, eight.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Let the child practice. Show a number card. The child builds it on the bead frame. Then reverse: you build a number, the child reads it. Focus on numbers with zeros (5,090 and 4,003) because these require understanding that an empty row means zero."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice with the bead frame:\n1. Build each number and read it aloud: 5,090 — 1,111 — 8,765 — 4,003 — 6,200 — 9,999\n2. In your math notebook, write each number you build\n3. Write which numbers had zeros, and which place the zero was in\n4. Build 3 secret numbers for your parent to read",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "The bead frame is a powerful tool. It does the same thing as the stamp game but takes up less space and is faster. Soon we will use it for addition, subtraction, and even multiplication!",
+          "mastery_check": "Can the child build any 4-digit number on the bead frame? Can they read numbers built by someone else? Can they handle numbers with zeros (like 3,007 or 4,090)?"
+        }
       ]
     },
     "parent_notes": "The small bead frame is a key transitional material in Montessori math. It is more abstract than the stamp game because each bead represents a unit of its row's value (one bead in the hundreds row = 100), whereas in the stamp game, each stamp is individually labeled. This abstraction is intentional — it prepares the child for purely mental or written math. If your child needs to touch and count each bead, that is fine. Over time, they will begin to see '4 beads in the hundreds row' as '400' without counting. Numbers with zeros are the biggest challenge — make sure to practice these. If you do not have a Montessori bead frame, you can substitute with an abacus or even create one using pipe cleaners and beads.",
@@ -486,17 +1244,62 @@
     "instructions": "1. Review last session's nature journal entry.\n2. Introduce the concept of systematic observation — recording the same things regularly.\n3. Set up a weather recording page in the journal: date, temperature, sky conditions, wind.\n4. Teach how to read an outdoor thermometer.\n5. Go outside and record today's weather data.\n6. Observe and list 5 signs of the current season.\n7. Draw one seasonal observation in detail.\n8. Discuss: 'How will this place look different in three months?'\n9. Establish a daily weather check routine.\n10. Compare today's entry to the first journal entry — what is the same? Different?",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Nature journal", "Pencils and colored pencils", "Outdoor thermometer", "Ruler", "Magnifying glass"],
+    "materials_needed": [
+      "Nature journal",
+      "Pencils and colored pencils",
+      "Outdoor thermometer",
+      "Ruler",
+      "Magnifying glass"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Weather Watchers", "subheading": "Recording Seasons in Your Nature Journal"},
-        {"type": "materials", "items": ["Nature journal", "Pencils and colored pencils", "Outdoor thermometer", "Ruler", "Magnifying glass"], "setup_instructions": "Mount an outdoor thermometer where the child can read it safely. Prepare a weather recording template to paste or draw into the journal."},
-        {"type": "instruction", "step": 1, "text": "Say: 'Last time, you made your first nature journal entry — you observed one thing very carefully. Today we add a new practice: WEATHER RECORDING. Real scientists record weather every single day because it helps them understand patterns and seasons.'"},
-        {"type": "instruction", "step": 2, "text": "Show the thermometer: 'This measures temperature — how warm or cold the air is. The red line shows the temperature. Can you read it? Each mark is 2 degrees.' Help the child read the current temperature. Record it in the journal."},
-        {"type": "instruction", "step": 3, "text": "Set up the weather page: draw a simple chart with columns for Date, Temperature, Sky (sunny/cloudy/partly cloudy/rainy), Wind (calm/breezy/windy), and Notes. Fill in today's data together. Say: 'We will fill this in every school day.'"},
-        {"type": "instruction", "step": 4, "text": "Go outside for seasonal observation. Say: 'Look around with your scientist eyes. What tells you what season we are in right now?' Guide them to notice: tree conditions (bare/budding/leafy), temperature feel, what animals are doing, daylight length, flowers or lack thereof."},
-        {"type": "activity", "prompt": "Seasonal Observation Entry:\n1. Record today's weather data in your chart\n2. List 5 signs of the current season you can observe right now\n3. Choose the most interesting sign and draw it in detail\n4. Write a prediction: 'In three months, I think this place will look different because...'\n5. Optional: collect a small specimen (leaf, seed, pebble) and tape it in your journal", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "You are now a weather scientist AND a nature observer! By recording weather and seasonal changes every day, you will start to see PATTERNS — and patterns are what science is all about. In a few months, you can look back and see how the world changed.", "mastery_check": "Can the child read a thermometer within 2 degrees? Can they identify at least 5 seasonal indicators? Are they recording weather data neatly and accurately?"}
+        {
+          "type": "title",
+          "heading": "Weather Watchers",
+          "subheading": "Recording Seasons in Your Nature Journal",
+          "image_url": "https://images.pexels.com/photos/5063470/pexels-photo-5063470.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Nature journal",
+            "Pencils and colored pencils",
+            "Outdoor thermometer",
+            "Ruler",
+            "Magnifying glass"
+          ],
+          "setup_instructions": "Mount an outdoor thermometer where the child can read it safely. Prepare a weather recording template to paste or draw into the journal."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Say: 'Last time, you made your first nature journal entry — you observed one thing very carefully. Today we add a new practice: WEATHER RECORDING. Real scientists record weather every single day because it helps them understand patterns and seasons.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the thermometer: 'This measures temperature — how warm or cold the air is. The red line shows the temperature. Can you read it? Each mark is 2 degrees.' Help the child read the current temperature. Record it in the journal."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Set up the weather page: draw a simple chart with columns for Date, Temperature, Sky (sunny/cloudy/partly cloudy/rainy), Wind (calm/breezy/windy), and Notes. Fill in today's data together. Say: 'We will fill this in every school day.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Go outside for seasonal observation. Say: 'Look around with your scientist eyes. What tells you what season we are in right now?' Guide them to notice: tree conditions (bare/budding/leafy), temperature feel, what animals are doing, daylight length, flowers or lack thereof."
+        },
+        {
+          "type": "activity",
+          "prompt": "Seasonal Observation Entry:\n1. Record today's weather data in your chart\n2. List 5 signs of the current season you can observe right now\n3. Choose the most interesting sign and draw it in detail\n4. Write a prediction: 'In three months, I think this place will look different because...'\n5. Optional: collect a small specimen (leaf, seed, pebble) and tape it in your journal",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "You are now a weather scientist AND a nature observer! By recording weather and seasonal changes every day, you will start to see PATTERNS — and patterns are what science is all about. In a few months, you can look back and see how the world changed.",
+          "mastery_check": "Can the child read a thermometer within 2 degrees? Can they identify at least 5 seasonal indicators? Are they recording weather data neatly and accurately?"
+        }
       ]
     },
     "parent_notes": "Daily weather recording is a cornerstone of elementary science because it teaches systematic data collection, introduces measurement (temperature), and provides months of data for pattern recognition. By winter, your child will be able to look back at fall entries and discuss trends. The thermometer is their first real scientific instrument — teach them to read it at eye level for accuracy and to wait 5 minutes after placing it outdoors for it to adjust. Seasonal observation connects to the Timeline of Life (cycles in nature), geography (climate), and math (graphing temperature later). Make the daily weather check a brief routine — 2 minutes each morning — separate from the longer weekly journal entries.",
@@ -514,17 +1317,68 @@
     "instructions": "1. Introduce watercolor painting as an art form — show examples of watercolor art.\n2. Present the materials and demonstrate proper care of brushes.\n3. Demonstrate the wet-on-wet technique: wet the entire paper first.\n4. Show how to load the brush with paint — not too much, not too little.\n5. Apply a single color to the wet paper — watch it flow and spread.\n6. Add a second color and observe what happens where they meet.\n7. Experiment with all primary colors: red, yellow, blue.\n8. Discover color mixing on the wet paper: red + yellow = orange, etc.\n9. Create a free-form painting using the technique.\n10. Clean up properly: wash brushes, pour out water, lay paintings flat to dry.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Watercolor paper (thick, 140lb)", "Watercolor paint set", "Large soft brushes (size 10-12)", "Two jars of clean water", "Sponge for wetting paper", "Newspaper to protect surface", "Paper towels", "Painting smock or old shirt"],
+    "materials_needed": [
+      "Watercolor paper (thick, 140lb)",
+      "Watercolor paint set",
+      "Large soft brushes (size 10-12)",
+      "Two jars of clean water",
+      "Sponge for wetting paper",
+      "Newspaper to protect surface",
+      "Paper towels",
+      "Painting smock or old shirt"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Watercolor Painting", "subheading": "The Magic of Wet-on-Wet"},
-        {"type": "materials", "items": ["Watercolor paper", "Watercolor paints", "Large soft brushes", "Two jars of water (one for rinsing, one for clean water)", "Sponge", "Newspaper", "Paper towels", "Painting smock"], "setup_instructions": "Cover the work surface with newspaper. Set out paints, brushes, and water jars. Cut watercolor paper to a manageable size. Have the child put on a smock."},
-        {"type": "instruction", "step": 1, "text": "Say: 'Today we learn a special painting technique called wet-on-wet. We start by making the whole paper WET, and then we paint on the wet surface. The colors will flow and blend in magical ways that you cannot control completely — and that is the beauty of it.'"},
-        {"type": "instruction", "step": 2, "text": "Demonstrate brush care: 'A brush is a painter's most important tool. Never push it down hard — let it dance on the paper. Rinse in the dirty water jar, then dip in clean water. Never leave it standing in water.' Show how to load paint: dip in water, then swirl gently in the paint."},
-        {"type": "instruction", "step": 3, "text": "Wet the paper: use the sponge to evenly wet the entire surface. 'See how the paper glistens? Now watch what happens when I add color...' Touch the loaded brush to the wet paper. The color will bloom and spread. 'See how it moves on its own? That is the water carrying the pigment.'"},
-        {"type": "instruction", "step": 4, "text": "Add a second color near the first: 'Watch where they meet...' The colors will blend at the edges, creating a new color. 'Red and yellow met and made ORANGE. You did not mix them — the water did it!' Demonstrate with all three primary colors."},
-        {"type": "activity", "prompt": "Create your own wet-on-wet painting:\n1. Wet a fresh sheet of paper with the sponge\n2. Choose 2-3 colors and let them flow across the paper\n3. Watch where colors meet and blend\n4. Tilt the paper gently to see how water moves the paint\n5. Try making a second painting — perhaps inspired by your nature journal (a sunset, a leaf, an ocean)\n6. Clean up: wash brushes thoroughly, lay paintings flat to dry", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Wet-on-wet painting teaches us that we do not have to control everything. Sometimes the most beautiful results come when we work WITH the water, not against it. Your paintings will look different when they dry — the colors will be lighter and softer.", "mastery_check": "Can the child properly wet the paper before painting? Do they understand brush care (rinse, load, gentle strokes)? Did they discover at least one color-mixing result on the wet paper?"}
+        {
+          "type": "title",
+          "heading": "Watercolor Painting",
+          "subheading": "The Magic of Wet-on-Wet",
+          "image_url": "https://images.pexels.com/photos/10474187/pexels-photo-10474187.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Watercolor paper",
+            "Watercolor paints",
+            "Large soft brushes",
+            "Two jars of water (one for rinsing, one for clean water)",
+            "Sponge",
+            "Newspaper",
+            "Paper towels",
+            "Painting smock"
+          ],
+          "setup_instructions": "Cover the work surface with newspaper. Set out paints, brushes, and water jars. Cut watercolor paper to a manageable size. Have the child put on a smock."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Say: 'Today we learn a special painting technique called wet-on-wet. We start by making the whole paper WET, and then we paint on the wet surface. The colors will flow and blend in magical ways that you cannot control completely — and that is the beauty of it.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Demonstrate brush care: 'A brush is a painter's most important tool. Never push it down hard — let it dance on the paper. Rinse in the dirty water jar, then dip in clean water. Never leave it standing in water.' Show how to load paint: dip in water, then swirl gently in the paint."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Wet the paper: use the sponge to evenly wet the entire surface. 'See how the paper glistens? Now watch what happens when I add color...' Touch the loaded brush to the wet paper. The color will bloom and spread. 'See how it moves on its own? That is the water carrying the pigment.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Add a second color near the first: 'Watch where they meet...' The colors will blend at the edges, creating a new color. 'Red and yellow met and made ORANGE. You did not mix them — the water did it!' Demonstrate with all three primary colors."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own wet-on-wet painting:\n1. Wet a fresh sheet of paper with the sponge\n2. Choose 2-3 colors and let them flow across the paper\n3. Watch where colors meet and blend\n4. Tilt the paper gently to see how water moves the paint\n5. Try making a second painting — perhaps inspired by your nature journal (a sunset, a leaf, an ocean)\n6. Clean up: wash brushes thoroughly, lay paintings flat to dry",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Wet-on-wet painting teaches us that we do not have to control everything. Sometimes the most beautiful results come when we work WITH the water, not against it. Your paintings will look different when they dry — the colors will be lighter and softer.",
+          "mastery_check": "Can the child properly wet the paper before painting? Do they understand brush care (rinse, load, gentle strokes)? Did they discover at least one color-mixing result on the wet paper?"
+        }
       ]
     },
     "parent_notes": "Wet-on-wet painting is a deeply calming activity that develops color sense, fine motor control, and comfort with uncertainty (since you cannot fully control how wet paint moves). The technique is simple but the results can be stunning. Thick watercolor paper is essential — thin paper will buckle and tear when wet. Two water jars are important: one for rinsing dirty brushes, one for clean water to load fresh paint. Expect mess — this is part of the process. Do not direct the child's painting or suggest what to paint unless they ask. The experience of watching colors flow and blend is the primary learning. When dry, these paintings make beautiful backgrounds for poetry, labels, or cards. Save them!",
@@ -542,17 +1396,64 @@
     "instructions": "1. Introduce sewing as a practical life skill used throughout human history.\n2. Present the materials: needle, thread, fabric.\n3. Demonstrate threading a needle: cut thread, lick end to point it, push through eye.\n4. Demonstrate tying a knot at the end of the thread.\n5. Show how to hold the fabric and needle safely.\n6. Demonstrate the running stitch: up through fabric, forward, down through fabric, repeat.\n7. Let the child practice on burlap or felt (large weave is easier).\n8. Aim for a straight line of stitches.\n9. Demonstrate finishing: tie off the thread.\n10. Practice until comfortable, then try a simple project.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Large-eye blunt tapestry needles", "Embroidery thread or yarn", "Burlap or felt squares", "Scissors", "Thimble (optional)", "Embroidery hoop (optional)", "Pencil to draw stitch line"],
+    "materials_needed": [
+      "Large-eye blunt tapestry needles",
+      "Embroidery thread or yarn",
+      "Burlap or felt squares",
+      "Scissors",
+      "Thimble (optional)",
+      "Embroidery hoop (optional)",
+      "Pencil to draw stitch line"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Learning to Sew", "subheading": "Threading, Knotting, and the Running Stitch"},
-        {"type": "materials", "items": ["Large-eye tapestry needles", "Embroidery thread or yarn", "Burlap or felt squares", "Scissors", "Optional: thimble, embroidery hoop"], "setup_instructions": "Cut felt or burlap into 6-inch squares. Draw a straight line on one piece with pencil for the child to follow. Pre-cut thread to about 18 inches (arm's length). Use blunt needles for safety."},
-        {"type": "instruction", "step": 1, "text": "Say: 'Humans have been sewing for thousands of years — long before sewing machines existed! People sewed clothing, blankets, and bags by hand. Today you will learn to sew by hand, just like people did for most of human history.'"},
-        {"type": "instruction", "step": 2, "text": "Demonstrate threading the needle: 'Cut a piece of thread as long as your arm. Lick one end to make a point. Hold the needle steady and push the thread through the eye. Pull it through until both sides are about equal.' Let the child try. This takes patience — if needed, use a needle threader."},
-        {"type": "instruction", "step": 3, "text": "Tie the knot: 'Wrap the end of the thread around your finger, roll it off, and pull tight. This knot stops the thread from pulling through the fabric.' Demonstrate slowly. It may take several attempts — that is normal."},
-        {"type": "instruction", "step": 4, "text": "Demonstrate the running stitch on the pencil line: 'Push the needle UP through the fabric from underneath. Pull the thread all the way through. Now move forward a little bit and push the needle DOWN through the top. Up, down, up, down — that is the running stitch!'"},
-        {"type": "activity", "prompt": "Practice your running stitch:\n1. Thread your needle and tie a knot\n2. Follow the pencil line on your fabric, making even stitches\n3. Try to keep the stitches the same size (about the width of your fingertip)\n4. When you reach the end of the line, make 2-3 small stitches in the same spot to tie off\n5. If you finish, try a second line — this time without a pencil guide!\n6. Advanced: try stitching a simple shape like a square or triangle", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "You just learned one of humanity's oldest skills! The running stitch is the foundation of all sewing. Next time, we will use this stitch to make something useful. Keep your practice fabric to see how much you improve over the year.", "mastery_check": "Can the child thread a needle (with or without a threader)? Can they tie a knot? Can they make a running stitch in a roughly straight line with somewhat even spacing?"}
+        {
+          "type": "title",
+          "heading": "Learning to Sew",
+          "subheading": "Threading, Knotting, and the Running Stitch",
+          "image_url": "https://images.pexels.com/photos/6857798/pexels-photo-6857798.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large-eye tapestry needles",
+            "Embroidery thread or yarn",
+            "Burlap or felt squares",
+            "Scissors",
+            "Optional: thimble, embroidery hoop"
+          ],
+          "setup_instructions": "Cut felt or burlap into 6-inch squares. Draw a straight line on one piece with pencil for the child to follow. Pre-cut thread to about 18 inches (arm's length). Use blunt needles for safety."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Say: 'Humans have been sewing for thousands of years — long before sewing machines existed! People sewed clothing, blankets, and bags by hand. Today you will learn to sew by hand, just like people did for most of human history.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Demonstrate threading the needle: 'Cut a piece of thread as long as your arm. Lick one end to make a point. Hold the needle steady and push the thread through the eye. Pull it through until both sides are about equal.' Let the child try. This takes patience — if needed, use a needle threader."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Tie the knot: 'Wrap the end of the thread around your finger, roll it off, and pull tight. This knot stops the thread from pulling through the fabric.' Demonstrate slowly. It may take several attempts — that is normal."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Demonstrate the running stitch on the pencil line: 'Push the needle UP through the fabric from underneath. Pull the thread all the way through. Now move forward a little bit and push the needle DOWN through the top. Up, down, up, down — that is the running stitch!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice your running stitch:\n1. Thread your needle and tie a knot\n2. Follow the pencil line on your fabric, making even stitches\n3. Try to keep the stitches the same size (about the width of your fingertip)\n4. When you reach the end of the line, make 2-3 small stitches in the same spot to tie off\n5. If you finish, try a second line — this time without a pencil guide!\n6. Advanced: try stitching a simple shape like a square or triangle",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "You just learned one of humanity's oldest skills! The running stitch is the foundation of all sewing. Next time, we will use this stitch to make something useful. Keep your practice fabric to see how much you improve over the year.",
+          "mastery_check": "Can the child thread a needle (with or without a threader)? Can they tie a knot? Can they make a running stitch in a roughly straight line with somewhat even spacing?"
+        }
       ]
     },
     "parent_notes": "Sewing is an excellent Montessori practical life activity because it requires concentration, patience, and precise hand movements. Blunt tapestry needles are safe for this age — the worst that can happen is a poke. Burlap's loose weave makes it easy to push the needle through; felt is also forgiving. Do not expect even stitches right away — this takes practice over many sessions. The key is that the child learns the PROCESS: thread, knot, stitch, tie off. If your child is left-handed, demonstrate as a mirror image or find left-handed sewing tutorials. Threading the needle is often the hardest part; a needle threader is a worthwhile investment. Over the year, sewing skills will progress to cross-stitch, embroidery, and making small useful objects like pouches and bookmarks.",
@@ -570,17 +1471,62 @@
     "instructions": "1. Review all 16 letters learned: a, c, d, e, h, i, k, l, m, n, o, r, s, t, u, w.\n2. Demonstrate connecting strokes between different letter combinations.\n3. Practice common two-letter connections: th, sh, ch, in, an, at.\n4. Write words with smooth connections: 'the', 'this', 'that', 'where', 'when'.\n5. Discuss rhythm in cursive — a steady, flowing pace.\n6. Copy a short passage in cursive.\n7. Write original sentences about something studied this week.\n8. Self-assess connections: are letters flowing into each other?\n9. Celebrate progress — compare Day 1 writing to today.\n10. Preview next week: 'We will learn even more letters!'",
     "duration_minutes": 45,
     "lesson_type": "independent",
-    "materials_needed": ["Cursive alphabet chart", "Lined handwriting paper", "Pencil", "This week's practice pages for comparison", "Short passage to copy (3-4 sentences)"],
+    "materials_needed": [
+      "Cursive alphabet chart",
+      "Lined handwriting paper",
+      "Pencil",
+      "This week's practice pages for comparison",
+      "Short passage to copy (3-4 sentences)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Flowing Cursive", "subheading": "Connecting Letters Smoothly"},
-        {"type": "materials", "items": ["Cursive alphabet chart", "Lined handwriting paper", "Pencil", "Week's practice pages", "Prepared copy passage"], "setup_instructions": "Prepare a short passage in clear cursive for the child to copy. Gather all practice pages from the week. Have fresh paper ready."},
-        {"type": "instruction", "step": 1, "text": "Say: 'This week you learned 16 cursive letters! Today we are not learning new letters — instead, we are going to practice making them flow together. The beauty of cursive is that the pencil barely lifts from the paper.'"},
-        {"type": "instruction", "step": 2, "text": "Practice common connections: write 'th' slowly, showing how t connects to h. Then 'sh,' 'ch,' 'in,' 'an,' 'at,' 'ou,' 'er.' For each pair, show where the connecting stroke goes. Let the child write each pair 5 times."},
-        {"type": "instruction", "step": 3, "text": "Move to high-frequency words: 'the, this, that, what, when, where, which, with.' These words appear in almost every sentence, so writing them fluently is important. Have the child write each word 3 times."},
-        {"type": "instruction", "step": 4, "text": "Present the copy passage: a short paragraph about something relevant to this week's studies. Say: 'Copy this passage in your best cursive. Take your time. Focus on connecting each letter smoothly to the next one.'"},
-        {"type": "activity", "prompt": "Writing activities:\n1. Copy the passage in your best cursive handwriting\n2. Write 3 original sentences about something you learned this week (animals on the timeline, peninsulas, Charlotte's Web, or painting)\n3. Look at your writing from Monday and compare it to today — what has improved?\n4. Circle your smoothest word on today's page", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Look at how far you have come in just one week! Your cursive is getting smoother and more confident. Next week we will learn more letters and soon you will know the entire cursive alphabet.", "mastery_check": "Are the child's letter connections becoming smoother? Can they write common words without stopping to think about each letter? Is there visible improvement from the beginning of the week?"}
+        {
+          "type": "title",
+          "heading": "Flowing Cursive",
+          "subheading": "Connecting Letters Smoothly",
+          "image_url": "https://images.pexels.com/photos/3876339/pexels-photo-3876339.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Cursive alphabet chart",
+            "Lined handwriting paper",
+            "Pencil",
+            "Week's practice pages",
+            "Prepared copy passage"
+          ],
+          "setup_instructions": "Prepare a short passage in clear cursive for the child to copy. Gather all practice pages from the week. Have fresh paper ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Say: 'This week you learned 16 cursive letters! Today we are not learning new letters — instead, we are going to practice making them flow together. The beauty of cursive is that the pencil barely lifts from the paper.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Practice common connections: write 'th' slowly, showing how t connects to h. Then 'sh,' 'ch,' 'in,' 'an,' 'at,' 'ou,' 'er.' For each pair, show where the connecting stroke goes. Let the child write each pair 5 times."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Move to high-frequency words: 'the, this, that, what, when, where, which, with.' These words appear in almost every sentence, so writing them fluently is important. Have the child write each word 3 times."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Present the copy passage: a short paragraph about something relevant to this week's studies. Say: 'Copy this passage in your best cursive. Take your time. Focus on connecting each letter smoothly to the next one.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Writing activities:\n1. Copy the passage in your best cursive handwriting\n2. Write 3 original sentences about something you learned this week (animals on the timeline, peninsulas, Charlotte's Web, or painting)\n3. Look at your writing from Monday and compare it to today — what has improved?\n4. Circle your smoothest word on today's page",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Look at how far you have come in just one week! Your cursive is getting smoother and more confident. Next week we will learn more letters and soon you will know the entire cursive alphabet.",
+          "mastery_check": "Are the child's letter connections becoming smoother? Can they write common words without stopping to think about each letter? Is there visible improvement from the beginning of the week?"
+        }
       ]
     },
     "parent_notes": "Today is a consolidation day — no new letters, just practice and fluency building. This is important because learning new letters without practicing old ones leads to forgetting. The comparison between Monday's work and today's work is motivating for children — they can SEE their improvement. If your child is still struggling with certain letters (especially s, k, or r), use today for extra practice on those rather than pushing forward. Cursive fluency develops over months, not days. The copy passage should be written in clear cursive for the child to model — you can find free cursive passages online or write one yourself. The goal is not perfection but steady improvement.",
@@ -598,17 +1544,60 @@
     "instructions": "1. Set up both the stamp game and the bead frame side by side.\n2. Present a problem: 2,345 + 1,432.\n3. Solve it first on the stamp game — the familiar tool.\n4. Then solve the same problem on the bead frame.\n5. Compare: 'Did we get the same answer? Yes! Two different tools, same math.'\n6. Do a second problem: 3,567 + 2,876 (with exchanging).\n7. Show how exchanging works on the bead frame: slide 10 beads back, slide 1 bead in the next row.\n8. Child chooses which tool to use for the third problem.\n9. Discuss: which tool do you prefer? Why?\n10. Record all problems in math notebook.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Stamp game", "Small bead frame", "Work mat", "Math notebook and pencil"],
+    "materials_needed": [
+      "Stamp game",
+      "Small bead frame",
+      "Work mat",
+      "Math notebook and pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Two Tools, One Math", "subheading": "Stamp Game vs. Bead Frame"},
-        {"type": "materials", "items": ["Stamp game", "Small bead frame", "Large work mat", "Math notebook and pencil"], "setup_instructions": "Set up both the stamp game and bead frame side by side on the work mat. Have the math notebook open to a fresh page."},
-        {"type": "instruction", "step": 1, "text": "Say: 'This week you learned addition on the stamp game AND you met the bead frame. Today we use BOTH tools to solve the same problem, and we will see that math works the same way no matter which tool you use.'"},
-        {"type": "instruction", "step": 2, "text": "Write 2,345 + 1,432. Solve on the stamp game first: build both numbers, combine by columns. No exchanges needed! Answer: 3,777. Then solve the same problem on the bead frame: set the first number, then add the second by sliding more beads in each row. Answer: 3,777. 'Same answer! The math does not change.'"},
-        {"type": "instruction", "step": 3, "text": "Now a problem WITH exchanging: 3,567 + 2,876. Solve on the stamp game — familiar process. Then show how exchanging works on the bead frame: 'When a row reaches 10, slide all 10 beads BACK and slide 1 bead in the NEXT row over.' This is the same as trading stamps."},
-        {"type": "instruction", "step": 4, "text": "For the third problem, let the child choose: 'Pick whichever tool you like for this one: 4,158 + 3,694.' Observe which they choose and how confidently they use it. After solving, have them check with the other tool."},
-        {"type": "activity", "prompt": "Problem set — choose the stamp game OR the bead frame for each:\n1. 1,234 + 5,678\n2. 4,444 + 3,333\n3. 2,999 + 1,001 (What is special about this one?)\nRecord each problem and answer in your notebook.\nWrite 1 sentence about which tool you prefer and why.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Both tools give the same answer because the MATH is the same. The stamp game uses individual stamps, the bead frame uses beads on wires. Eventually, you will do all of this with just a pencil and paper! But for now, use whichever tool helps you think best.", "mastery_check": "Can the child use both tools to solve the same problem and get the same answer? Can they perform exchanges on both the stamp game and bead frame? Do they show a preference and can they articulate why?"}
+        {
+          "type": "title",
+          "heading": "Two Tools, One Math",
+          "subheading": "Stamp Game vs. Bead Frame",
+          "image_url": "https://images.pexels.com/photos/6256065/pexels-photo-6256065.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Stamp game",
+            "Small bead frame",
+            "Large work mat",
+            "Math notebook and pencil"
+          ],
+          "setup_instructions": "Set up both the stamp game and bead frame side by side on the work mat. Have the math notebook open to a fresh page."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Say: 'This week you learned addition on the stamp game AND you met the bead frame. Today we use BOTH tools to solve the same problem, and we will see that math works the same way no matter which tool you use.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Write 2,345 + 1,432. Solve on the stamp game first: build both numbers, combine by columns. No exchanges needed! Answer: 3,777. Then solve the same problem on the bead frame: set the first number, then add the second by sliding more beads in each row. Answer: 3,777. 'Same answer! The math does not change.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Now a problem WITH exchanging: 3,567 + 2,876. Solve on the stamp game — familiar process. Then show how exchanging works on the bead frame: 'When a row reaches 10, slide all 10 beads BACK and slide 1 bead in the NEXT row over.' This is the same as trading stamps."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "For the third problem, let the child choose: 'Pick whichever tool you like for this one: 4,158 + 3,694.' Observe which they choose and how confidently they use it. After solving, have them check with the other tool."
+        },
+        {
+          "type": "activity",
+          "prompt": "Problem set — choose the stamp game OR the bead frame for each:\n1. 1,234 + 5,678\n2. 4,444 + 3,333\n3. 2,999 + 1,001 (What is special about this one?)\nRecord each problem and answer in your notebook.\nWrite 1 sentence about which tool you prefer and why.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Both tools give the same answer because the MATH is the same. The stamp game uses individual stamps, the bead frame uses beads on wires. Eventually, you will do all of this with just a pencil and paper! But for now, use whichever tool helps you think best.",
+          "mastery_check": "Can the child use both tools to solve the same problem and get the same answer? Can they perform exchanges on both the stamp game and bead frame? Do they show a preference and can they articulate why?"
+        }
       ]
     },
     "parent_notes": "This comparison lesson is pedagogically powerful. By solving the same problem two different ways, the child sees that mathematical truth is independent of the tool used to find it. This builds mathematical understanding rather than procedural dependence on a single method. Most children will gravitate toward one tool — the stamp game (more concrete, each piece labeled) or the bead frame (faster, more compact). Neither preference is better; both tools are scaffolds toward mental math. The problem 2,999 + 1,001 is interesting because it produces 4,000 — a round number — and demonstrates how exchanging can cascade through multiple columns. If your child notices this pattern, celebrate their mathematical thinking!",
@@ -626,17 +1615,61 @@
     "instructions": "1. Review the timeline so far: single cells, Cambrian explosion, fish, plants on land.\n2. Pose the question: 'Plants went first. Which animals followed?'\n3. Introduce insects — among the first animals on land.\n4. Describe early amphibians: fish that could breathe air and walk on fins.\n5. Explain the word 'amphibian': 'amphi' = both, 'bios' = life — life in both water and land.\n6. Show how some fish evolved leg-like fins (Tiktaalik).\n7. Discuss why land was attractive: food (plants and insects), fewer predators.\n8. Compare ancient and modern amphibians (frogs, salamanders).\n9. Add amphibians and insects to the child's timeline drawings.\n10. Discuss: 'What challenges did animals face moving from water to land?'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Timeline of Life", "Drawing paper", "Colored pencils", "Reference books on amphibians and prehistoric life", "Pictures of Tiktaalik and early amphibians"],
+    "materials_needed": [
+      "Timeline of Life",
+      "Drawing paper",
+      "Colored pencils",
+      "Reference books on amphibians and prehistoric life",
+      "Pictures of Tiktaalik and early amphibians"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Animals on Land!", "subheading": "The First Steps Out of the Ocean"},
-        {"type": "materials", "items": ["Timeline of Life", "Drawing paper and colored pencils", "Amphibian and prehistoric life reference materials", "Pictures of Tiktaalik"], "setup_instructions": "Unroll the timeline to the Devonian and Carboniferous periods. Have reference images of Tiktaalik, early amphibians, and giant insects ready."},
-        {"type": "instruction", "step": 1, "text": "Review: 'So far on our timeline, we have seen life go from tiny cells to fish in the ocean, and plants moving onto land. The plants created forests and filled the air with oxygen. Now — who was brave enough to follow the plants onto land?'"},
-        {"type": "instruction", "step": 2, "text": "Insects came first: 'Tiny insects were among the first animals on land. They ate the plants and thrived. And because there was so much oxygen, some grew HUGE — dragonflies with wingspans as wide as your arms!' Spread your arms to demonstrate. Show reference images."},
-        {"type": "instruction", "step": 3, "text": "Then amphibians: 'Some fish started living in shallow water near the shore. Over millions of years, their fins became stronger, almost like legs. One famous creature called Tiktaalik could prop itself up on its fins and breathe air! It was not quite a fish and not quite a land animal — it was the in-between.'"},
-        {"type": "instruction", "step": 4, "text": "Explain the word: 'Amphibian comes from Greek: amphi means both, and bios means life. Amphibians live BOTH in water and on land. Frogs, toads, and salamanders are today's amphibians. They still go back to water to lay their eggs, just like their ancient ancestors.'"},
-        {"type": "activity", "prompt": "Add to your Timeline of Life panels:\n1. Draw a giant dragonfly (insects came first!)\n2. Draw Tiktaalik — the fish that could almost walk (look at reference pictures)\n3. Draw an early amphibian on a prehistoric shore\n4. Label each drawing and write one sentence about why animals moved to land\n5. Challenge: list 3 problems animals faced moving from water to land (breathing, drying out, gravity)", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Life made the incredible journey from ocean to land! Plants went first, then insects, then amphibians. Each step took millions of years. But there is more to come — next time, we will meet the reptiles, who found a way to live on land FULL-TIME.", "mastery_check": "Can the child explain the sequence: plants, then insects, then amphibians moved to land? Can they define 'amphibian'? Can they name at least one challenge of living on land vs. in water?"}
+        {
+          "type": "title",
+          "heading": "Animals on Land!",
+          "subheading": "The First Steps Out of the Ocean",
+          "image_url": "https://images.pexels.com/photos/1178684/pexels-photo-1178684.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Timeline of Life",
+            "Drawing paper and colored pencils",
+            "Amphibian and prehistoric life reference materials",
+            "Pictures of Tiktaalik"
+          ],
+          "setup_instructions": "Unroll the timeline to the Devonian and Carboniferous periods. Have reference images of Tiktaalik, early amphibians, and giant insects ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'So far on our timeline, we have seen life go from tiny cells to fish in the ocean, and plants moving onto land. The plants created forests and filled the air with oxygen. Now — who was brave enough to follow the plants onto land?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Insects came first: 'Tiny insects were among the first animals on land. They ate the plants and thrived. And because there was so much oxygen, some grew HUGE — dragonflies with wingspans as wide as your arms!' Spread your arms to demonstrate. Show reference images."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Then amphibians: 'Some fish started living in shallow water near the shore. Over millions of years, their fins became stronger, almost like legs. One famous creature called Tiktaalik could prop itself up on its fins and breathe air! It was not quite a fish and not quite a land animal — it was the in-between.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Explain the word: 'Amphibian comes from Greek: amphi means both, and bios means life. Amphibians live BOTH in water and on land. Frogs, toads, and salamanders are today's amphibians. They still go back to water to lay their eggs, just like their ancient ancestors.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Add to your Timeline of Life panels:\n1. Draw a giant dragonfly (insects came first!)\n2. Draw Tiktaalik — the fish that could almost walk (look at reference pictures)\n3. Draw an early amphibian on a prehistoric shore\n4. Label each drawing and write one sentence about why animals moved to land\n5. Challenge: list 3 problems animals faced moving from water to land (breathing, drying out, gravity)",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Life made the incredible journey from ocean to land! Plants went first, then insects, then amphibians. Each step took millions of years. But there is more to come — next time, we will meet the reptiles, who found a way to live on land FULL-TIME.",
+          "mastery_check": "Can the child explain the sequence: plants, then insects, then amphibians moved to land? Can they define 'amphibian'? Can they name at least one challenge of living on land vs. in water?"
+        }
       ]
     },
     "parent_notes": "This lesson continues the story of life in a way that builds on the Great Lesson framework. The key concept is SEQUENCE — plants had to come first (oxygen), then small animals (insects feeding on plants), then larger animals (amphibians). This sequential thinking is important for understanding cause and effect in history and science. Tiktaalik is a wonderful transitional fossil to discuss — it was discovered in 2004 and shows features of both fish and amphibians. If your child is fascinated, Neil Shubin's 'Your Inner Fish' is an excellent adult-level resource you can adapt for storytelling. The giant insect fact (dragonflies with 2.5-foot wingspans) never fails to amaze children and is scientifically accurate — the high oxygen content of the Carboniferous period allowed insects to grow much larger than today.",
@@ -654,17 +1687,67 @@
     "instructions": "1. Ask: 'What do plants need to survive?' (water, sunlight, air, nutrients)\n2. Present a whole plant with intact roots (pulled from garden or purchased).\n3. Identify the three main parts: roots, stem, leaves.\n4. Examine the roots: 'These drink water and nutrients from the soil, like a straw.'\n5. Examine the stem: 'This carries water UP from roots to leaves, like a highway.'\n6. Examine the leaves: 'These catch sunlight and make food for the plant — photosynthesis!'\n7. Cut the stem crosswise to see water channels inside.\n8. Compare 3 different plants: how are their roots, stems, and leaves different?\n9. Create a detailed, labeled diagram of a plant.\n10. Set up the celery-and-food-coloring experiment.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["A whole plant with roots (small herb or weed)", "3 different plant specimens for comparison", "Magnifying glass", "Scissors or knife (adult use)", "Drawing paper", "Colored pencils", "Celery stalk", "Food coloring", "Glass of water"],
+    "materials_needed": [
+      "A whole plant with roots (small herb or weed)",
+      "3 different plant specimens for comparison",
+      "Magnifying glass",
+      "Scissors or knife (adult use)",
+      "Drawing paper",
+      "Colored pencils",
+      "Celery stalk",
+      "Food coloring",
+      "Glass of water"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Parts of a Plant", "subheading": "Roots, Stems, and Leaves"},
-        {"type": "materials", "items": ["Whole plant with roots", "3 plant specimens for comparison", "Magnifying glass", "Scissors", "Drawing paper and colored pencils", "Celery, food coloring, glass of water"], "setup_instructions": "Pull a small plant (weed or herb) from the garden with roots intact, or buy a small potted plant and gently remove it from the pot. Collect 2-3 different plants for comparison. Set up the celery experiment materials."},
-        {"type": "instruction", "step": 1, "text": "Hold up the whole plant. Say: 'This is a complete, living plant. It has everything it needs to survive. Today we are going to become plant scientists and study each part — what it looks like, what it does, and why the plant cannot live without it.'"},
-        {"type": "instruction", "step": 2, "text": "Start with roots: gently brush off soil. Let the child examine with a magnifying glass. 'Roots grow DOWN into the soil. They have two jobs: they ANCHOR the plant so it does not blow away, and they ABSORB water and minerals from the soil. See these tiny hair-like roots? Those are where the drinking happens.'"},
-        {"type": "instruction", "step": 3, "text": "Move to the stem: 'The stem is the plant's highway. It carries water UP from the roots to the leaves. It also carries food DOWN from the leaves to the roots.' Cut the stem crosswise. 'See those tiny circles? Those are the tubes that carry water. They are called xylem.'"},
-        {"type": "instruction", "step": 4, "text": "Finally, leaves: 'Leaves are the plant's food factories. They catch sunlight and use it to turn water and carbon dioxide into sugar — food for the plant! This process is called photosynthesis. Photo means light, synthesis means putting together. Leaves PUT TOGETHER food using LIGHT.'"},
-        {"type": "activity", "prompt": "Plant scientist activities:\n1. Draw a large, detailed diagram of a plant showing roots, stem, and leaves. Label each part and write its job.\n2. Set up the celery experiment: put a celery stalk in a glass of water mixed with food coloring. We will check it tomorrow to see the colored water travel up the stem!\n3. Compare your 3 plant specimens: draw a chart showing how their roots, stems, and leaves look different.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Every plant, from a tiny weed to a giant tree, has roots, stems, and leaves doing the same jobs. Check your celery experiment tomorrow — you will SEE the water traveling up through the stem!", "mastery_check": "Can the child name and point to roots, stems, and leaves on a real plant? Can they state the function of each part? Did they create an accurate, labeled diagram?"}
+        {
+          "type": "title",
+          "heading": "Parts of a Plant",
+          "subheading": "Roots, Stems, and Leaves",
+          "image_url": "https://images.pexels.com/photos/8471944/pexels-photo-8471944.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Whole plant with roots",
+            "3 plant specimens for comparison",
+            "Magnifying glass",
+            "Scissors",
+            "Drawing paper and colored pencils",
+            "Celery, food coloring, glass of water"
+          ],
+          "setup_instructions": "Pull a small plant (weed or herb) from the garden with roots intact, or buy a small potted plant and gently remove it from the pot. Collect 2-3 different plants for comparison. Set up the celery experiment materials."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Hold up the whole plant. Say: 'This is a complete, living plant. It has everything it needs to survive. Today we are going to become plant scientists and study each part — what it looks like, what it does, and why the plant cannot live without it.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Start with roots: gently brush off soil. Let the child examine with a magnifying glass. 'Roots grow DOWN into the soil. They have two jobs: they ANCHOR the plant so it does not blow away, and they ABSORB water and minerals from the soil. See these tiny hair-like roots? Those are where the drinking happens.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Move to the stem: 'The stem is the plant's highway. It carries water UP from the roots to the leaves. It also carries food DOWN from the leaves to the roots.' Cut the stem crosswise. 'See those tiny circles? Those are the tubes that carry water. They are called xylem.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Finally, leaves: 'Leaves are the plant's food factories. They catch sunlight and use it to turn water and carbon dioxide into sugar — food for the plant! This process is called photosynthesis. Photo means light, synthesis means putting together. Leaves PUT TOGETHER food using LIGHT.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Plant scientist activities:\n1. Draw a large, detailed diagram of a plant showing roots, stem, and leaves. Label each part and write its job.\n2. Set up the celery experiment: put a celery stalk in a glass of water mixed with food coloring. We will check it tomorrow to see the colored water travel up the stem!\n3. Compare your 3 plant specimens: draw a chart showing how their roots, stems, and leaves look different.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Every plant, from a tiny weed to a giant tree, has roots, stems, and leaves doing the same jobs. Check your celery experiment tomorrow — you will SEE the water traveling up through the stem!",
+          "mastery_check": "Can the child name and point to roots, stems, and leaves on a real plant? Can they state the function of each part? Did they create an accurate, labeled diagram?"
+        }
       ]
     },
     "parent_notes": "This lesson uses real plants, which is essential — diagrams in books are not enough for this age. The hands-on examination of roots (feeling the root hairs), the cross-section of the stem (seeing the xylem tubes), and the close look at leaves (veins visible with magnifying glass) all provide sensory learning. The celery experiment is a classic demonstration: within 24 hours, you should see colored water travel up the stalk, and if you use a leafy celery stalk, the leaves may show color too. This makes the abstract concept of water transport visible and memorable. If your child asks about flowers and seeds (which are also plant parts), acknowledge them but save detailed study for later — today focuses on the three vegetative parts.",
@@ -682,17 +1765,62 @@
     "instructions": "1. Introduce the recorder: a woodwind instrument with ancient origins.\n2. Demonstrate proper holding: left hand on top, right hand on bottom.\n3. Teach the thumb hole: left thumb covers the back hole.\n4. Practice blowing gently — 'like whispering too' not 'like blowing out candles.'\n5. Teach the note B: left thumb + first finger.\n6. Practice B with steady, gentle blowing.\n7. Teach A: left thumb + first two fingers.\n8. Teach G: left thumb + first three fingers.\n9. Play a simple B-A-G pattern together.\n10. Learn a simple tune using only B, A, G: 'Hot Cross Buns.'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Soprano recorder", "Recorder fingering chart", "Music stand or propped-up book", "Simple sheet music for 'Hot Cross Buns'", "Cleaning swab"],
+    "materials_needed": [
+      "Soprano recorder",
+      "Recorder fingering chart",
+      "Music stand or propped-up book",
+      "Simple sheet music for 'Hot Cross Buns'",
+      "Cleaning swab"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Recorder Time!", "subheading": "Your First Three Notes: B, A, G"},
-        {"type": "materials", "items": ["Soprano recorder", "Fingering chart", "Music stand", "Sheet music for Hot Cross Buns", "Cleaning swab"], "setup_instructions": "Set up a music area with the fingering chart visible. Clean the recorder. Have the sheet music ready but do not introduce it until the child can play individual notes."},
-        {"type": "instruction", "step": 1, "text": "Present the recorder: 'This is a recorder — one of the oldest instruments in the world. People in the Middle Ages played recorders, and it is the perfect first instrument because you can learn real music on it very quickly.' Let the child hold it and examine it."},
-        {"type": "instruction", "step": 2, "text": "Teach holding: 'Left hand goes on TOP, near the mouthpiece. Right hand goes on the BOTTOM. Your left thumb covers the hole on the BACK.' Position the child's hands correctly. 'Keep the recorder pointing slightly downward, not straight out.'"},
-        {"type": "instruction", "step": 3, "text": "Breathing: 'The most important thing about playing the recorder is HOW you blow. Do NOT blow hard. Instead, whisper the word too into the recorder. Gentle, steady air. Too, too, too.' Practice just blowing with the right pressure — no squeaking!"},
-        {"type": "instruction", "step": 4, "text": "First note — B: 'Cover the back hole with your left thumb and the first hole with your left index finger. Now gently blow: too. That is the note B!' Practice until the sound is clear. Then A: add the second finger. Then G: add the third finger. 'Notice — each note sounds LOWER as you cover more holes.'"},
-        {"type": "activity", "prompt": "Music practice:\n1. Play B four times slowly and steadily (too, too, too, too)\n2. Play A four times\n3. Play G four times\n4. Play the pattern: B-A-G, B-A-G\n5. Learn 'Hot Cross Buns': B-A-G, B-A-G, G-G-G-G, A-A-A-A, B-A-G\n6. Play it three times — the third time should sound the best!\n7. Clean your recorder with the swab when finished", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "You just played a real song on a real instrument! 'Hot Cross Buns' is the first song millions of recorder players learn. Practice a little bit every day — even five minutes — and next week we will learn new notes and a new song.", "mastery_check": "Can the child hold the recorder correctly (left hand on top, right on bottom)? Can they play B, A, and G with a clear, steady tone? Can they play Hot Cross Buns recognizably?"}
+        {
+          "type": "title",
+          "heading": "Recorder Time!",
+          "subheading": "Your First Three Notes: B, A, G",
+          "image_url": "https://images.pexels.com/photos/532231/pexels-photo-532231.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Soprano recorder",
+            "Fingering chart",
+            "Music stand",
+            "Sheet music for Hot Cross Buns",
+            "Cleaning swab"
+          ],
+          "setup_instructions": "Set up a music area with the fingering chart visible. Clean the recorder. Have the sheet music ready but do not introduce it until the child can play individual notes."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Present the recorder: 'This is a recorder — one of the oldest instruments in the world. People in the Middle Ages played recorders, and it is the perfect first instrument because you can learn real music on it very quickly.' Let the child hold it and examine it."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Teach holding: 'Left hand goes on TOP, near the mouthpiece. Right hand goes on the BOTTOM. Your left thumb covers the hole on the BACK.' Position the child's hands correctly. 'Keep the recorder pointing slightly downward, not straight out.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Breathing: 'The most important thing about playing the recorder is HOW you blow. Do NOT blow hard. Instead, whisper the word too into the recorder. Gentle, steady air. Too, too, too.' Practice just blowing with the right pressure — no squeaking!"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "First note — B: 'Cover the back hole with your left thumb and the first hole with your left index finger. Now gently blow: too. That is the note B!' Practice until the sound is clear. Then A: add the second finger. Then G: add the third finger. 'Notice — each note sounds LOWER as you cover more holes.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Music practice:\n1. Play B four times slowly and steadily (too, too, too, too)\n2. Play A four times\n3. Play G four times\n4. Play the pattern: B-A-G, B-A-G\n5. Learn 'Hot Cross Buns': B-A-G, B-A-G, G-G-G-G, A-A-A-A, B-A-G\n6. Play it three times — the third time should sound the best!\n7. Clean your recorder with the swab when finished",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "You just played a real song on a real instrument! 'Hot Cross Buns' is the first song millions of recorder players learn. Practice a little bit every day — even five minutes — and next week we will learn new notes and a new song.",
+          "mastery_check": "Can the child hold the recorder correctly (left hand on top, right on bottom)? Can they play B, A, and G with a clear, steady tone? Can they play Hot Cross Buns recognizably?"
+        }
       ]
     },
     "parent_notes": "The recorder is an excellent first instrument because it teaches breath control, finger coordination, and music reading fundamentals. The soprano (descant) recorder in C is standard. Common beginner mistakes: blowing too hard (causes squeaking), not covering holes completely (causes squeaking), and right hand on top (must be left). Be patient with the initial sound quality — it improves quickly with practice. Hot Cross Buns uses only three notes and is very satisfying to play. Encourage 5 minutes of daily practice but do not push — music should remain joyful. If your child finds recorder frustrating, ensure the instrument is of reasonable quality; very cheap recorders can be genuinely difficult to play in tune. Yamaha and Aulos make good, affordable student recorders.",

@@ -10,17 +10,62 @@
     "instructions": "1. Ask: 'Have you ever tried to convince someone of something? That's persuasion!'\n2. Define persuasive writing: writing that tries to make the reader agree with your opinion.\n3. Introduce three key elements: claim (your opinion), reasons (why you think so), evidence (proof).\n4. Read 2-3 short persuasive passages. Identify the claim, reasons, and evidence in each.\n5. Discuss: What makes an argument convincing? What makes it weak?\n6. Brainstorm potential persuasive topics.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Sample persuasive paragraphs (3-4)", "Claim/Reasons/Evidence graphic organizer", "Pencil", "Highlighters (3 colors)", "Notebook"],
+    "materials_needed": [
+      "Sample persuasive paragraphs (3-4)",
+      "Claim/Reasons/Evidence graphic organizer",
+      "Pencil",
+      "Highlighters (3 colors)",
+      "Notebook"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Persuasive Writing", "subheading": "What Is an Argument?"},
-        {"type": "materials", "items": ["Sample persuasive paragraphs (3-4)", "Claim/Reasons/Evidence graphic organizer", "Pencil", "Highlighters (3 colors)", "Notebook"], "setup_instructions": "Prepare 3-4 short persuasive paragraphs on kid-friendly topics (school lunch, recess time, pets, bedtime). Print a graphic organizer with sections: CLAIM, REASON 1, REASON 2, REASON 3, EVIDENCE."},
-        {"type": "instruction", "step": 1, "text": "Start with a fun scenario: 'Imagine you want to convince your parent to get a pet dog. Would you just say \"I want a dog\"? That's not very convincing. You need REASONS and PROOF. That's what persuasive writing is all about — making a strong argument.'"},
-        {"type": "instruction", "step": 2, "text": "Introduce the three parts: 'A CLAIM is your opinion — what you believe. REASONS explain WHY you believe it. EVIDENCE is PROOF that your reasons are true. Think of it like a sandwich: the claim is the top bun, reasons and evidence are the filling, and a strong conclusion is the bottom bun.'"},
-        {"type": "instruction", "step": 3, "text": "Read the first sample paragraph together. Highlight the claim in yellow, reasons in green, and evidence in blue. Example: Claim: 'Students should have longer recess.' Reason: 'Physical activity helps the brain.' Evidence: 'Studies show students who exercise learn better.'"},
-        {"type": "instruction", "step": 4, "text": "Analyze a weaker argument. 'Dogs are the best pets because I like them and they are cute.' Ask: 'Is this convincing? What's missing?' (No evidence, reasons are only opinions.) Compare to: 'Dogs are excellent companions because they reduce stress, encourage exercise, and teach responsibility.' Which is stronger? Why?"},
-        {"type": "activity", "prompt": "Choose a topic you feel strongly about (a rule you want changed, something your school/homeschool should do differently, a food everyone should try). Fill in the graphic organizer: Write your CLAIM, list 3 REASONS, and add at least 1 piece of EVIDENCE for each reason.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Share your claim and strongest reason. Does the class/family find it convincing? What would make it even stronger? This week you'll build a full persuasive essay with a thesis statement, body paragraphs, and a call to action!", "mastery_check": "Can the child identify claims, reasons, and evidence in a persuasive text and begin organizing their own argument?"}
+        {
+          "type": "title",
+          "heading": "Persuasive Writing",
+          "subheading": "What Is an Argument?",
+          "image_url": "https://images.pexels.com/photos/6157276/pexels-photo-6157276.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sample persuasive paragraphs (3-4)",
+            "Claim/Reasons/Evidence graphic organizer",
+            "Pencil",
+            "Highlighters (3 colors)",
+            "Notebook"
+          ],
+          "setup_instructions": "Prepare 3-4 short persuasive paragraphs on kid-friendly topics (school lunch, recess time, pets, bedtime). Print a graphic organizer with sections: CLAIM, REASON 1, REASON 2, REASON 3, EVIDENCE."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Start with a fun scenario: 'Imagine you want to convince your parent to get a pet dog. Would you just say \"I want a dog\"? That's not very convincing. You need REASONS and PROOF. That's what persuasive writing is all about — making a strong argument.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce the three parts: 'A CLAIM is your opinion — what you believe. REASONS explain WHY you believe it. EVIDENCE is PROOF that your reasons are true. Think of it like a sandwich: the claim is the top bun, reasons and evidence are the filling, and a strong conclusion is the bottom bun.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Read the first sample paragraph together. Highlight the claim in yellow, reasons in green, and evidence in blue. Example: Claim: 'Students should have longer recess.' Reason: 'Physical activity helps the brain.' Evidence: 'Studies show students who exercise learn better.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Analyze a weaker argument. 'Dogs are the best pets because I like them and they are cute.' Ask: 'Is this convincing? What's missing?' (No evidence, reasons are only opinions.) Compare to: 'Dogs are excellent companions because they reduce stress, encourage exercise, and teach responsibility.' Which is stronger? Why?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose a topic you feel strongly about (a rule you want changed, something your school/homeschool should do differently, a food everyone should try). Fill in the graphic organizer: Write your CLAIM, list 3 REASONS, and add at least 1 piece of EVIDENCE for each reason.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Share your claim and strongest reason. Does the class/family find it convincing? What would make it even stronger? This week you'll build a full persuasive essay with a thesis statement, body paragraphs, and a call to action!",
+          "mastery_check": "Can the child identify claims, reasons, and evidence in a persuasive text and begin organizing their own argument?"
+        }
       ]
     },
     "parent_notes": "Persuasive writing is one of the most practical skills children learn — they'll use it throughout their lives (college essays, job applications, civic engagement). At this age, keep topics fun and relevant: bedtime, screen time, food choices, field trip destinations. The goal is to learn the STRUCTURE of argumentation, not to write perfectly. Encourage the child to argue for things they genuinely care about — passion makes writing better. Play devil's advocate gently to strengthen their reasoning.",
@@ -38,17 +83,64 @@
     "instructions": "1. Present a scenario: 3 friends collected shells — one has 8, one has 4, one has 6.\n2. Use cubes to represent each collection.\n3. Redistribute cubes equally: 'If we share fairly, each person gets 6. That's the mean!'\n4. Connect to the algorithm: add all values, divide by the number of values.\n5. Practice with 3-4 more data sets.\n6. Discuss when knowing the mean is useful.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Linking cubes or counters (at least 50)", "Paper cups or bowls (for grouping)", "Pencil", "Notebook", "Data sets on cards", "Calculator (for checking)"],
+    "materials_needed": [
+      "Linking cubes or counters (at least 50)",
+      "Paper cups or bowls (for grouping)",
+      "Pencil",
+      "Notebook",
+      "Data sets on cards",
+      "Calculator (for checking)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Data Analysis", "subheading": "Mean (Average)"},
-        {"type": "materials", "items": ["Linking cubes or counters (at least 50)", "Paper cups or bowls", "Pencil", "Notebook", "Data set cards", "Calculator (for checking)"], "setup_instructions": "Prepare 5-6 data sets on index cards with 3-5 values each (keep numbers manageable: sums under 50). Have cubes ready for the concrete demonstration."},
-        {"type": "instruction", "step": 1, "text": "Tell a story: 'Three friends went to the beach. Mia found 8 shells, Leo found 4, and Sam found 6. Mia says \"Let's share our shells equally!\" How many would each person get if they shared fairly?'"},
-        {"type": "instruction", "step": 2, "text": "Use cubes to demonstrate. Build 3 towers: 8, 4, 6. 'Now let's make them equal. Take cubes from the tall tower and move them to the short tower until all towers are the same height.' Redistribute: each tower is now 6 cubes. 'That number — 6 — is called the MEAN or AVERAGE.'"},
-        {"type": "instruction", "step": 3, "text": "Show the shortcut: 'Instead of moving cubes around, there's a faster way. Add all the numbers: 8 + 4 + 6 = 18. Then divide by how many groups there are: 18 ÷ 3 = 6. Same answer!' Practice: the mean is the total shared equally."},
-        {"type": "instruction", "step": 4, "text": "Work through more examples. Data: test scores of 90, 80, 70, 100. Add: 340. Divide by 4: 340 ÷ 4 = 85. 'The average test score is 85. Notice: nobody actually scored 85! The mean is a number that represents the whole group.'"},
-        {"type": "activity", "prompt": "Calculate the mean for each data set card. First use cubes to verify (build towers, redistribute equally). Then use the algorithm (add all values, divide by the number of values). For each, write: 'The mean of ___ is ___.' Challenge: Find the mean of your family's ages!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Discuss: 'When is knowing the average useful? (Average temperature helps you pack for a trip. Average score tells you how a team is doing overall.) The mean gives us one number to represent a whole group of numbers.'", "mastery_check": "Can the child calculate the mean of a data set using both the concrete (cube redistribution) method and the algorithm (sum ÷ count)?"}
+        {
+          "type": "title",
+          "heading": "Data Analysis",
+          "subheading": "Mean (Average)",
+          "image_url": "https://images.pexels.com/photos/6693304/pexels-photo-6693304.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Linking cubes or counters (at least 50)",
+            "Paper cups or bowls",
+            "Pencil",
+            "Notebook",
+            "Data set cards",
+            "Calculator (for checking)"
+          ],
+          "setup_instructions": "Prepare 5-6 data sets on index cards with 3-5 values each (keep numbers manageable: sums under 50). Have cubes ready for the concrete demonstration."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Tell a story: 'Three friends went to the beach. Mia found 8 shells, Leo found 4, and Sam found 6. Mia says \"Let's share our shells equally!\" How many would each person get if they shared fairly?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Use cubes to demonstrate. Build 3 towers: 8, 4, 6. 'Now let's make them equal. Take cubes from the tall tower and move them to the short tower until all towers are the same height.' Redistribute: each tower is now 6 cubes. 'That number — 6 — is called the MEAN or AVERAGE.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show the shortcut: 'Instead of moving cubes around, there's a faster way. Add all the numbers: 8 + 4 + 6 = 18. Then divide by how many groups there are: 18 ÷ 3 = 6. Same answer!' Practice: the mean is the total shared equally."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Work through more examples. Data: test scores of 90, 80, 70, 100. Add: 340. Divide by 4: 340 ÷ 4 = 85. 'The average test score is 85. Notice: nobody actually scored 85! The mean is a number that represents the whole group.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Calculate the mean for each data set card. First use cubes to verify (build towers, redistribute equally). Then use the algorithm (add all values, divide by the number of values). For each, write: 'The mean of ___ is ___.' Challenge: Find the mean of your family's ages!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Discuss: 'When is knowing the average useful? (Average temperature helps you pack for a trip. Average score tells you how a team is doing overall.) The mean gives us one number to represent a whole group of numbers.'",
+          "mastery_check": "Can the child calculate the mean of a data set using both the concrete (cube redistribution) method and the algorithm (sum ÷ count)?"
+        }
       ]
     },
     "parent_notes": "The 'fair share' model of the mean is the most intuitive for children. Physically redistributing cubes makes the abstract concept concrete. Common misconception: the mean must be one of the numbers in the data set. It often isn't! Use the cube method to show why. Keep data sets small (3-5 values) and use numbers that divide evenly at first, then gradually introduce remainders. The family age activity is engaging and produces a non-integer result, which is a good discussion point.",
@@ -66,17 +158,65 @@
     "instructions": "1. Place the American Revolution on the timeline (1760s-1783).\n2. Show a map of the 13 colonies. Organize into 3 regions: New England, Middle, Southern.\n3. Discuss each region's geography, climate, and economy.\n4. Explain the relationship between colonies and Britain: colonies provided raw materials, Britain provided manufactured goods.\n5. Discuss colonial life: farming, trade, religion, self-governance.\n6. Create a labeled map of the 13 colonies.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Map of 13 colonies (blank and labeled)", "Timeline", "Pictures of colonial life", "Colored pencils (3 colors for 3 regions)", "Pencil", "Notebook"],
+    "materials_needed": [
+      "Map of 13 colonies (blank and labeled)",
+      "Timeline",
+      "Pictures of colonial life",
+      "Colored pencils (3 colors for 3 regions)",
+      "Pencil",
+      "Notebook"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The American Revolution", "subheading": "The Thirteen Colonies"},
-        {"type": "materials", "items": ["Blank map of 13 colonies", "Labeled reference map", "Timeline materials", "Pictures of colonial life", "Colored pencils (3 colors)", "Pencil", "Notebook"], "setup_instructions": "Print a blank map of the eastern seaboard with colony borders. Have a labeled reference map. Prepare pictures of colonial life in each region. Set up the timeline."},
-        {"type": "instruction", "step": 1, "text": "Set the stage: 'Remember the Age of Exploration? European countries sent colonists to the Americas. By the 1700s, Britain controlled 13 colonies along the east coast of North America. These colonies are where the United States began.' Place on the timeline: 1607 (Jamestown) through 1776."},
-        {"type": "instruction", "step": 2, "text": "Show the map. 'The colonies are organized into 3 regions. NEW ENGLAND (north): Massachusetts, Connecticut, Rhode Island, New Hampshire — rocky soil, cold winters, fishing and shipbuilding. MIDDLE: New York, New Jersey, Pennsylvania, Delaware — rich farmland, diverse population, trade. SOUTHERN: Maryland, Virginia, North Carolina, South Carolina, Georgia — warm climate, large plantations, tobacco and rice.'"},
-        {"type": "instruction", "step": 3, "text": "Explain the British-colonial relationship: 'The colonies belonged to Britain. Colonists were British subjects who followed British law. The colonies sent raw materials to Britain — lumber, tobacco, cotton, fish. Britain sent back manufactured goods — tools, cloth, furniture. The king and Parliament in London made the rules.'"},
-        {"type": "instruction", "step": 4, "text": "Describe daily colonial life: 'Most colonists were farmers. Children helped on the farm and had limited schooling. Towns had churches, general stores, and meetinghouses where citizens discussed community matters. Colonists were proud to be British — at first.'"},
-        {"type": "activity", "prompt": "Color-code your map of the 13 colonies: blue for New England, green for Middle, yellow for Southern. Label each colony. Add symbols for each region's economy (fish for New England, wheat for Middle, tobacco for Southern). Create a key. On the back, write 3 facts about colonial life.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Look at your map. 'These 13 small colonies would eventually become a powerful new nation. But first, something had to happen to make the colonists unhappy with British rule. Tomorrow we'll find out what went wrong.'", "mastery_check": "Can the child name and locate the 13 colonies, organize them by region, and describe the colonial-British relationship?"}
+        {
+          "type": "title",
+          "heading": "The American Revolution",
+          "subheading": "The Thirteen Colonies",
+          "image_url": "https://images.pexels.com/photos/1631665/pexels-photo-1631665.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank map of 13 colonies",
+            "Labeled reference map",
+            "Timeline materials",
+            "Pictures of colonial life",
+            "Colored pencils (3 colors)",
+            "Pencil",
+            "Notebook"
+          ],
+          "setup_instructions": "Print a blank map of the eastern seaboard with colony borders. Have a labeled reference map. Prepare pictures of colonial life in each region. Set up the timeline."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the stage: 'Remember the Age of Exploration? European countries sent colonists to the Americas. By the 1700s, Britain controlled 13 colonies along the east coast of North America. These colonies are where the United States began.' Place on the timeline: 1607 (Jamestown) through 1776."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the map. 'The colonies are organized into 3 regions. NEW ENGLAND (north): Massachusetts, Connecticut, Rhode Island, New Hampshire — rocky soil, cold winters, fishing and shipbuilding. MIDDLE: New York, New Jersey, Pennsylvania, Delaware — rich farmland, diverse population, trade. SOUTHERN: Maryland, Virginia, North Carolina, South Carolina, Georgia — warm climate, large plantations, tobacco and rice.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Explain the British-colonial relationship: 'The colonies belonged to Britain. Colonists were British subjects who followed British law. The colonies sent raw materials to Britain — lumber, tobacco, cotton, fish. Britain sent back manufactured goods — tools, cloth, furniture. The king and Parliament in London made the rules.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Describe daily colonial life: 'Most colonists were farmers. Children helped on the farm and had limited schooling. Towns had churches, general stores, and meetinghouses where citizens discussed community matters. Colonists were proud to be British — at first.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Color-code your map of the 13 colonies: blue for New England, green for Middle, yellow for Southern. Label each colony. Add symbols for each region's economy (fish for New England, wheat for Middle, tobacco for Southern). Create a key. On the back, write 3 facts about colonial life.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Look at your map. 'These 13 small colonies would eventually become a powerful new nation. But first, something had to happen to make the colonists unhappy with British rule. Tomorrow we'll find out what went wrong.'",
+          "mastery_check": "Can the child name and locate the 13 colonies, organize them by region, and describe the colonial-British relationship?"
+        }
       ]
     },
     "parent_notes": "The 13 colonies are foundational American history. The three-region model (New England, Middle, Southern) helps children organize a lot of information. Geography drives economy: rocky New England turned to the sea, fertile Middle colonies farmed, warm Southern colonies grew cash crops. This is also an opportunity to discuss the reality that colonial prosperity was built partly on enslaved labor, particularly in the Southern colonies. Address this truthfully but age-appropriately. The Montessori timeline makes it clear this is simultaneous with the Industrial Revolution in England.",
@@ -94,17 +234,66 @@
     "instructions": "1. Review the colony map from history.\n2. Now add physical geography: Appalachian Mountains, major rivers (Hudson, Delaware, Potomac, James), harbors (Boston, New York, Charleston).\n3. Discuss how geography influenced settlement: harbors for trade, rivers for transportation, mountains as a western barrier.\n4. Add a physical features key to the map.\n5. Trace how waterways connected colonies.\n6. Discuss why the coast was settled first.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Blank map of eastern North America", "Physical geography reference map", "Blue colored pencil (rivers)", "Brown colored pencil (mountains)", "Atlas", "Pencil", "Notebook"],
+    "materials_needed": [
+      "Blank map of eastern North America",
+      "Physical geography reference map",
+      "Blue colored pencil (rivers)",
+      "Brown colored pencil (mountains)",
+      "Atlas",
+      "Pencil",
+      "Notebook"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Mapping the 13 Colonies", "subheading": "Physical Geography"},
-        {"type": "materials", "items": ["Blank map of eastern North America", "Physical geography reference map", "Blue colored pencil (rivers)", "Brown colored pencil (mountains)", "Atlas", "Pencil", "Notebook"], "setup_instructions": "Print a larger blank map of the eastern seaboard extending west to the Appalachians. Have a physical geography reference map or atlas available."},
-        {"type": "instruction", "step": 1, "text": "Start from the history map: 'We know WHERE the colonies were. Now let's understand WHY they were there. Geography determined where people settled, what they grew, and how they traded. The land itself shaped colonial America.'"},
-        {"type": "instruction", "step": 2, "text": "Add the Appalachian Mountains in brown. 'This mountain range runs from Maine to Georgia. It was the western boundary of colonial settlement — very few colonists crossed the Appalachians. Why? The mountains were difficult to cross, and Native American nations lived on the other side.'"},
-        {"type": "instruction", "step": 3, "text": "Add major rivers in blue: the Connecticut, Hudson, Delaware, Susquehanna, Potomac, and James Rivers. 'Rivers were the highways of colonial America. They provided fresh water, transportation, and power for mills. Every major colonial city was built on a river or harbor.'"},
-        {"type": "instruction", "step": 4, "text": "Mark major harbors with anchor symbols: Boston, New York, Philadelphia, Charleston. 'Harbors were where ships loaded and unloaded goods. A good harbor meant a prosperous town. Boston's harbor was deep enough for the largest ships — it became one of the busiest ports.'"},
-        {"type": "activity", "prompt": "Complete your physical geography map: mountains (brown), rivers (blue), harbors (anchor symbols), and the Atlantic Ocean (label it). Add a map key. Then answer: Why were all 13 colonies on the coast and not inland? How did rivers help colonists travel and trade? Write your answers in complete sentences.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Compare your political map (colonies by name) with your physical map (geographic features). 'See how the two maps work together? Geography explains history. The colonies grew where the land and water made life possible.'", "mastery_check": "Can the child identify major physical features of colonial America and explain how geography influenced where and how colonists lived?"}
+        {
+          "type": "title",
+          "heading": "Mapping the 13 Colonies",
+          "subheading": "Physical Geography",
+          "image_url": "https://images.pexels.com/photos/4611591/pexels-photo-4611591.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank map of eastern North America",
+            "Physical geography reference map",
+            "Blue colored pencil (rivers)",
+            "Brown colored pencil (mountains)",
+            "Atlas",
+            "Pencil",
+            "Notebook"
+          ],
+          "setup_instructions": "Print a larger blank map of the eastern seaboard extending west to the Appalachians. Have a physical geography reference map or atlas available."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Start from the history map: 'We know WHERE the colonies were. Now let's understand WHY they were there. Geography determined where people settled, what they grew, and how they traded. The land itself shaped colonial America.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Add the Appalachian Mountains in brown. 'This mountain range runs from Maine to Georgia. It was the western boundary of colonial settlement — very few colonists crossed the Appalachians. Why? The mountains were difficult to cross, and Native American nations lived on the other side.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Add major rivers in blue: the Connecticut, Hudson, Delaware, Susquehanna, Potomac, and James Rivers. 'Rivers were the highways of colonial America. They provided fresh water, transportation, and power for mills. Every major colonial city was built on a river or harbor.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Mark major harbors with anchor symbols: Boston, New York, Philadelphia, Charleston. 'Harbors were where ships loaded and unloaded goods. A good harbor meant a prosperous town. Boston's harbor was deep enough for the largest ships — it became one of the busiest ports.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete your physical geography map: mountains (brown), rivers (blue), harbors (anchor symbols), and the Atlantic Ocean (label it). Add a map key. Then answer: Why were all 13 colonies on the coast and not inland? How did rivers help colonists travel and trade? Write your answers in complete sentences.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Compare your political map (colonies by name) with your physical map (geographic features). 'See how the two maps work together? Geography explains history. The colonies grew where the land and water made life possible.'",
+          "mastery_check": "Can the child identify major physical features of colonial America and explain how geography influenced where and how colonists lived?"
+        }
       ]
     },
     "parent_notes": "This lesson reinforces the Montessori principle that geography and history are inseparable. The key insight is that humans don't settle randomly — geography determines settlement patterns. Every colonial city was founded for a geographic reason: harbors for trade, rivers for water and transportation, fertile land for farming. When your child asks 'Why is New York City so big?' the answer starts with its exceptional natural harbor. If you have access to a raised-relief map, it helps children understand terrain differences viscerally.",
@@ -122,16 +311,55 @@
     "instructions": "1. Introduce the book: a biography of the British king during the American Revolution.\n2. Read the book aloud, pausing to discuss King George's perspective.\n3. Ask: 'Do you think King George thought he was being unfair? Why or why not?'\n4. Discuss how the same events look different from different perspectives.\n5. Journal entry comparing the colonist and British viewpoints.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Can't You Make Them Behave, King George? by Jean Fritz", "Reading journal", "Pencil", "World map showing Britain and the colonies"],
+    "materials_needed": [
+      "Can't You Make Them Behave, King George? by Jean Fritz",
+      "Reading journal",
+      "Pencil",
+      "World map showing Britain and the colonies"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "Can't You Make Them Behave, King George?"},
-        {"type": "materials", "items": ["Can't You Make Them Behave, King George? by Jean Fritz", "Reading journal", "Pencil", "World map"], "setup_instructions": "Have the book ready. Show Britain and the American colonies on a world map to establish the geographic distance. Have the reading journal open to a fresh page."},
-        {"type": "instruction", "step": 1, "text": "Before reading: 'We're learning about the American Revolution — when the colonies broke away from Britain. But today we're going to hear from the OTHER side. This is the story of King George III — the British king. Let's try to understand how HE saw things.'"},
-        {"type": "instruction", "step": 2, "text": "Read the book aloud. Jean Fritz writes with humor and humanity. Pause at key moments: 'King George thought the colonists were being ungrateful. Britain had spent money defending the colonies in the French and Indian War. He thought it was fair to ask them to help pay.'"},
-        {"type": "instruction", "step": 3, "text": "After reading, discuss perspective: 'Was King George a villain? Or was he a king doing what he thought was right? Can two sides of a conflict both think they're right?' This is a sophisticated idea — let the child wrestle with it."},
-        {"type": "activity", "prompt": "In your reading journal, create a T-chart. On one side write 'Colonist View' and on the other 'King George's View.' For the same event (taxes on the colonies), write what each side thought and felt. Then write: 'I think the conflict could have been solved by...' in 2-3 sentences.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Understanding both perspectives is what historians do. 'In every conflict, both sides have a story. Good historians — and good thinkers — try to understand all perspectives before forming opinions.'", "mastery_check": "Can the child articulate both the colonial and British perspectives on the conflict and explain why perspective matters in history?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "Can't You Make Them Behave, King George?",
+          "image_url": "https://images.pexels.com/photos/5608541/pexels-photo-5608541.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Can't You Make Them Behave, King George? by Jean Fritz",
+            "Reading journal",
+            "Pencil",
+            "World map"
+          ],
+          "setup_instructions": "Have the book ready. Show Britain and the American colonies on a world map to establish the geographic distance. Have the reading journal open to a fresh page."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Before reading: 'We're learning about the American Revolution — when the colonies broke away from Britain. But today we're going to hear from the OTHER side. This is the story of King George III — the British king. Let's try to understand how HE saw things.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the book aloud. Jean Fritz writes with humor and humanity. Pause at key moments: 'King George thought the colonists were being ungrateful. Britain had spent money defending the colonies in the French and Indian War. He thought it was fair to ask them to help pay.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading, discuss perspective: 'Was King George a villain? Or was he a king doing what he thought was right? Can two sides of a conflict both think they're right?' This is a sophisticated idea — let the child wrestle with it."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal, create a T-chart. On one side write 'Colonist View' and on the other 'King George's View.' For the same event (taxes on the colonies), write what each side thought and felt. Then write: 'I think the conflict could have been solved by...' in 2-3 sentences.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Understanding both perspectives is what historians do. 'In every conflict, both sides have a story. Good historians — and good thinkers — try to understand all perspectives before forming opinions.'",
+          "mastery_check": "Can the child articulate both the colonial and British perspectives on the conflict and explain why perspective matters in history?"
+        }
       ]
     },
     "parent_notes": "Jean Fritz's historical biographies are perfect for lower elementary — they're accurate, engaging, and often humorous. This book is important because it challenges the simplistic 'good guys vs. bad guys' narrative. Understanding that King George had legitimate concerns (the colonies benefited from British military protection) develops nuanced historical thinking. The T-chart activity builds critical thinking skills that transfer to all areas of life. If you can't find this specific book, read about King George III from any balanced source.",
@@ -149,17 +377,62 @@
     "instructions": "1. Review claim, reasons, evidence from Monday.\n2. Introduce the thesis statement: a 1-sentence summary of your entire argument.\n3. Practice writing thesis statements from sample claims.\n4. Organize 3 supporting arguments, each with a reason and evidence.\n5. Use an outline template to structure the essay.\n6. Write a draft thesis and outline for their chosen topic.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Persuasive essay outline template", "Sample thesis statements (good and weak)", "Notebook", "Pencil", "Graphic organizer from Monday"],
+    "materials_needed": [
+      "Persuasive essay outline template",
+      "Sample thesis statements (good and weak)",
+      "Notebook",
+      "Pencil",
+      "Graphic organizer from Monday"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Persuasive Writing", "subheading": "Thesis Statements and Supporting Arguments"},
-        {"type": "materials", "items": ["Persuasive essay outline template", "Sample thesis statements", "Notebook", "Pencil", "Monday's graphic organizer"], "setup_instructions": "Prepare an essay outline template with sections: Thesis Statement, Argument 1 (Reason + Evidence), Argument 2 (Reason + Evidence), Argument 3 (Reason + Evidence), Conclusion. Print 4-5 sample thesis statements of varying quality."},
-        {"type": "instruction", "step": 1, "text": "Review Monday's work. 'You have a claim and reasons. Now we need to sharpen your claim into a thesis statement — the single most important sentence in your essay. It tells the reader exactly what you're going to argue and why.'"},
-        {"type": "instruction", "step": 2, "text": "Show examples. Weak thesis: 'I think dogs are good.' Strong thesis: 'Every family should consider adopting a dog because dogs provide companionship, encourage daily exercise, and teach children responsibility.' Ask: 'What makes the strong one better?' (It's specific, gives 3 reasons, and is clear.)"},
-        {"type": "instruction", "step": 3, "text": "Practice the formula: '[Topic] should [your opinion] because [reason 1], [reason 2], and [reason 3].' Try it with different topics. 'Schools should have recess every day because exercise improves focus, reduces stress, and builds social skills.'"},
-        {"type": "instruction", "step": 4, "text": "Fill in the essay outline: 'Your thesis previews your 3 arguments. Each argument gets its own paragraph with: a topic sentence (the reason), supporting details (evidence), and a closing sentence. Think of each paragraph as a mini-essay proving one point.'"},
-        {"type": "activity", "prompt": "Write your thesis statement using the formula. Then complete the outline: for each of your 3 arguments, write the reason as a topic sentence and list 2-3 pieces of evidence or examples that support it. Read your thesis aloud — does it clearly state your position?", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Read thesis statements aloud. Give feedback: 'Is it clear? Does it preview 3 arguments? Is it specific enough?' A strong thesis makes the rest of the essay easier to write. Tomorrow we'll add something special: addressing the other side's argument!", "mastery_check": "Can the child write a clear thesis statement that states a position and previews 3 supporting arguments?"}
+        {
+          "type": "title",
+          "heading": "Persuasive Writing",
+          "subheading": "Thesis Statements and Supporting Arguments",
+          "image_url": "https://images.pexels.com/photos/8363159/pexels-photo-8363159.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Persuasive essay outline template",
+            "Sample thesis statements",
+            "Notebook",
+            "Pencil",
+            "Monday's graphic organizer"
+          ],
+          "setup_instructions": "Prepare an essay outline template with sections: Thesis Statement, Argument 1 (Reason + Evidence), Argument 2 (Reason + Evidence), Argument 3 (Reason + Evidence), Conclusion. Print 4-5 sample thesis statements of varying quality."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review Monday's work. 'You have a claim and reasons. Now we need to sharpen your claim into a thesis statement — the single most important sentence in your essay. It tells the reader exactly what you're going to argue and why.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show examples. Weak thesis: 'I think dogs are good.' Strong thesis: 'Every family should consider adopting a dog because dogs provide companionship, encourage daily exercise, and teach children responsibility.' Ask: 'What makes the strong one better?' (It's specific, gives 3 reasons, and is clear.)"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Practice the formula: '[Topic] should [your opinion] because [reason 1], [reason 2], and [reason 3].' Try it with different topics. 'Schools should have recess every day because exercise improves focus, reduces stress, and builds social skills.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Fill in the essay outline: 'Your thesis previews your 3 arguments. Each argument gets its own paragraph with: a topic sentence (the reason), supporting details (evidence), and a closing sentence. Think of each paragraph as a mini-essay proving one point.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your thesis statement using the formula. Then complete the outline: for each of your 3 arguments, write the reason as a topic sentence and list 2-3 pieces of evidence or examples that support it. Read your thesis aloud — does it clearly state your position?",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Read thesis statements aloud. Give feedback: 'Is it clear? Does it preview 3 arguments? Is it specific enough?' A strong thesis makes the rest of the essay easier to write. Tomorrow we'll add something special: addressing the other side's argument!",
+          "mastery_check": "Can the child write a clear thesis statement that states a position and previews 3 supporting arguments?"
+        }
       ]
     },
     "parent_notes": "The thesis statement formula ([Topic] should [opinion] because [reason 1], [reason 2], and [reason 3]) is a scaffold — as the child matures, they'll move beyond it. For now, it provides essential structure. The most common mistake is a thesis that's too vague. Help by asking: 'Can you be more specific? Instead of \"better,\" what exactly do you mean?' Thesis writing is hard even for adults, so be patient. The outline serves as the blueprint for the full essay, which they'll write on Thursday.",
@@ -177,17 +450,64 @@
     "instructions": "1. Review mean from yesterday.\n2. Introduce median: arrange numbers in order, find the middle. Use cubes in a line.\n3. Practice with odd and even numbers of values.\n4. Introduce mode: the value that appears most often. Use cubes of different colors.\n5. Find mean, median, and mode for the same data sets.\n6. Discuss when each measure is most useful.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Number cards", "Linking cubes in multiple colors", "Number line (optional)", "Pencil", "Notebook", "Data set cards"],
+    "materials_needed": [
+      "Number cards",
+      "Linking cubes in multiple colors",
+      "Number line (optional)",
+      "Pencil",
+      "Notebook",
+      "Data set cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Data Analysis", "subheading": "Median and Mode"},
-        {"type": "materials", "items": ["Number cards", "Linking cubes in multiple colors", "Number line (optional)", "Pencil", "Notebook", "Data set cards"], "setup_instructions": "Prepare 5-6 data sets on cards. Include some with clear modes and some with no mode. Include sets with both odd and even numbers of values. Have cubes of different colors ready."},
-        {"type": "instruction", "step": 1, "text": "Review: 'Yesterday we learned the mean — the average. Today we'll learn two more ways to describe data: the median and the mode. Each tells us something different about the data.'"},
-        {"type": "instruction", "step": 2, "text": "Introduce MEDIAN. Write numbers on cards: 3, 7, 5, 9, 1. 'To find the median, first put the numbers in order: 1, 3, 5, 7, 9. The median is the MIDDLE number. Count from both ends... the middle is 5!' For even sets (4 numbers): find the two middle numbers and average them."},
-        {"type": "instruction", "step": 3, "text": "Use cubes physically: line up 5 cubes of different heights. Remove one from each end simultaneously until one remains. 'That's the median — literally the one in the middle!' For 4 or 6 cubes, show that you end up with two middle cubes and average their values."},
-        {"type": "instruction", "step": 4, "text": "Introduce MODE. Data: 4, 7, 2, 7, 5, 7, 3. 'Which number appears most often? 7 appears 3 times! 7 is the MODE. The mode is the most popular or frequent value.' Use colored cubes: stack same values together. The tallest stack is the mode. Some data sets have no mode (all different) or two modes (bimodal)."},
-        {"type": "activity", "prompt": "For each data set card, find ALL THREE: mean, median, and mode. Show your work: 1) Mean: add all, divide by count. 2) Median: put in order, find middle. 3) Mode: find the most frequent. Are they the same number? Different? When might each be more useful?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Compare: 'Mean, median, and mode each describe data differently. The mean uses all values. The median finds the center. The mode finds the most common. Sometimes they're the same, sometimes very different!' Next we'll learn about probability.", "mastery_check": "Can the child calculate mean, median, and mode for a data set and explain what each measure represents?"}
+        {
+          "type": "title",
+          "heading": "Data Analysis",
+          "subheading": "Median and Mode",
+          "image_url": "https://images.pexels.com/photos/6256065/pexels-photo-6256065.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Number cards",
+            "Linking cubes in multiple colors",
+            "Number line (optional)",
+            "Pencil",
+            "Notebook",
+            "Data set cards"
+          ],
+          "setup_instructions": "Prepare 5-6 data sets on cards. Include some with clear modes and some with no mode. Include sets with both odd and even numbers of values. Have cubes of different colors ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'Yesterday we learned the mean — the average. Today we'll learn two more ways to describe data: the median and the mode. Each tells us something different about the data.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce MEDIAN. Write numbers on cards: 3, 7, 5, 9, 1. 'To find the median, first put the numbers in order: 1, 3, 5, 7, 9. The median is the MIDDLE number. Count from both ends... the middle is 5!' For even sets (4 numbers): find the two middle numbers and average them."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Use cubes physically: line up 5 cubes of different heights. Remove one from each end simultaneously until one remains. 'That's the median — literally the one in the middle!' For 4 or 6 cubes, show that you end up with two middle cubes and average their values."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Introduce MODE. Data: 4, 7, 2, 7, 5, 7, 3. 'Which number appears most often? 7 appears 3 times! 7 is the MODE. The mode is the most popular or frequent value.' Use colored cubes: stack same values together. The tallest stack is the mode. Some data sets have no mode (all different) or two modes (bimodal)."
+        },
+        {
+          "type": "activity",
+          "prompt": "For each data set card, find ALL THREE: mean, median, and mode. Show your work: 1) Mean: add all, divide by count. 2) Median: put in order, find middle. 3) Mode: find the most frequent. Are they the same number? Different? When might each be more useful?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Compare: 'Mean, median, and mode each describe data differently. The mean uses all values. The median finds the center. The mode finds the most common. Sometimes they're the same, sometimes very different!' Next we'll learn about probability.",
+          "mastery_check": "Can the child calculate mean, median, and mode for a data set and explain what each measure represents?"
+        }
       ]
     },
     "parent_notes": "Three measures of center can feel overwhelming. A helpful analogy: if you asked 'What's a typical height in this class?' the mean is the mathematical average, the median is the height of the kid in the middle when lined up by height, and the mode is the most common height. Each answers the question differently. The median is especially useful when there are outliers (extreme values). For example, if one child has 100 stickers and four others have 5, the mean is misleading — the median better represents the 'typical' child.",
@@ -205,17 +525,64 @@
     "instructions": "1. Review food chains and webs: organisms depend on each other.\n2. Introduce symbiosis: a close, long-term relationship between two different species.\n3. Define and give examples of mutualism (clownfish and sea anemone).\n4. Define and give examples of commensalism (remora fish and sharks).\n5. Define and give examples of parasitism (ticks on deer).\n6. Sort examples into the three categories.\n7. Research and present one symbiotic relationship.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Pictures of symbiotic relationships (10-12 examples)", "Three-column sorting mat (mutualism, commensalism, parasitism)", "Notebook", "Pencil", "Colored pencils", "Reference books or approved websites"],
+    "materials_needed": [
+      "Pictures of symbiotic relationships (10-12 examples)",
+      "Three-column sorting mat (mutualism, commensalism, parasitism)",
+      "Notebook",
+      "Pencil",
+      "Colored pencils",
+      "Reference books or approved websites"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Symbiosis", "subheading": "Living Together"},
-        {"type": "materials", "items": ["Pictures of symbiotic relationships (10-12)", "Three-column sorting mat", "Notebook", "Pencil", "Colored pencils", "Reference materials"], "setup_instructions": "Print pictures of symbiotic pairs: clownfish/anemone, bee/flower, oxpecker/zebra, remora/shark, barnacles/whale, tick/deer, tapeworm/host, lichen (fungus/algae), cattle egret/cattle. Create a sorting mat with three columns."},
-        {"type": "instruction", "step": 1, "text": "Review: 'We've studied how organisms interact through food chains. But not all relationships are about eating! Sometimes two different species live closely together in a special partnership. This is called SYMBIOSIS, which means \"living together.\"'"},
-        {"type": "instruction", "step": 2, "text": "Type 1 — MUTUALISM: Both organisms benefit. 'The clownfish lives among the sea anemone's stinging tentacles. The anemone protects the clownfish from predators, and the clownfish brings food to the anemone. Both win!' Other examples: bees and flowers, oxpeckers and zebras."},
-        {"type": "instruction", "step": 3, "text": "Type 2 — COMMENSALISM: One benefits, the other is unaffected. 'The remora fish attaches to a shark and eats leftover scraps. The shark isn't helped or harmed — it doesn't even notice! The remora gets free food and transportation.' Other examples: barnacles on whales, birds nesting in trees."},
-        {"type": "instruction", "step": 4, "text": "Type 3 — PARASITISM: One benefits, the other is HARMED. 'A tick attaches to a deer and drinks its blood. The tick benefits (food!), but the deer is harmed (loses blood, may get sick). Parasites take without giving back.' Other examples: tapeworms, lice, mistletoe on trees."},
-        {"type": "activity", "prompt": "Sort the picture cards into three columns: mutualism, commensalism, parasitism. For each card, explain: Which organism benefits? Which is harmed or unaffected? Then choose one symbiotic relationship and create a detailed drawing with labels explaining how the two organisms interact.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Discuss: 'Symbiosis shows us that organisms are deeply connected. Even species that seem very different can depend on each other. Which type of symbiosis do you think is most common? Which is most surprising?' Tomorrow we'll explore endangered species.", "mastery_check": "Can the child define symbiosis, distinguish between mutualism, commensalism, and parasitism, and classify examples correctly?"}
+        {
+          "type": "title",
+          "heading": "Symbiosis",
+          "subheading": "Living Together",
+          "image_url": "https://images.pexels.com/photos/8471944/pexels-photo-8471944.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pictures of symbiotic relationships (10-12)",
+            "Three-column sorting mat",
+            "Notebook",
+            "Pencil",
+            "Colored pencils",
+            "Reference materials"
+          ],
+          "setup_instructions": "Print pictures of symbiotic pairs: clownfish/anemone, bee/flower, oxpecker/zebra, remora/shark, barnacles/whale, tick/deer, tapeworm/host, lichen (fungus/algae), cattle egret/cattle. Create a sorting mat with three columns."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'We've studied how organisms interact through food chains. But not all relationships are about eating! Sometimes two different species live closely together in a special partnership. This is called SYMBIOSIS, which means \"living together.\"'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Type 1 — MUTUALISM: Both organisms benefit. 'The clownfish lives among the sea anemone's stinging tentacles. The anemone protects the clownfish from predators, and the clownfish brings food to the anemone. Both win!' Other examples: bees and flowers, oxpeckers and zebras."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Type 2 — COMMENSALISM: One benefits, the other is unaffected. 'The remora fish attaches to a shark and eats leftover scraps. The shark isn't helped or harmed — it doesn't even notice! The remora gets free food and transportation.' Other examples: barnacles on whales, birds nesting in trees."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Type 3 — PARASITISM: One benefits, the other is HARMED. 'A tick attaches to a deer and drinks its blood. The tick benefits (food!), but the deer is harmed (loses blood, may get sick). Parasites take without giving back.' Other examples: tapeworms, lice, mistletoe on trees."
+        },
+        {
+          "type": "activity",
+          "prompt": "Sort the picture cards into three columns: mutualism, commensalism, parasitism. For each card, explain: Which organism benefits? Which is harmed or unaffected? Then choose one symbiotic relationship and create a detailed drawing with labels explaining how the two organisms interact.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Discuss: 'Symbiosis shows us that organisms are deeply connected. Even species that seem very different can depend on each other. Which type of symbiosis do you think is most common? Which is most surprising?' Tomorrow we'll explore endangered species.",
+          "mastery_check": "Can the child define symbiosis, distinguish between mutualism, commensalism, and parasitism, and classify examples correctly?"
+        }
       ]
     },
     "parent_notes": "Symbiosis is inherently fascinating for children — the idea that different species form partnerships is wonderful. The hardest concept is commensalism because 'unaffected' is subjective (does carrying barnacles really not bother the whale?). In reality, the lines between types can blur. Don't worry about edge cases — focus on the three clear categories. The clownfish/anemone relationship is often the most memorable. If you have a pet, discuss whether any of its relationships with other organisms are symbiotic (fleas = parasitism, for example).",
@@ -233,17 +600,64 @@
     "instructions": "1. Introduce political cartoons: pictures that express an opinion about a political topic.\n2. Show Benjamin Franklin's 'Join or Die' cartoon (1754).\n3. Analyze: What does the snake represent? Why is it cut into pieces? What message is Franklin sending?\n4. Show 1-2 more revolutionary-era cartoons.\n5. Discuss persuasion through images vs. words.\n6. Create an original political cartoon about a current issue.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Prints of revolutionary political cartoons (3-4)", "Drawing paper", "Pencil", "Black marker", "Colored pencils", "Magnifying glass (optional)"],
+    "materials_needed": [
+      "Prints of revolutionary political cartoons (3-4)",
+      "Drawing paper",
+      "Pencil",
+      "Black marker",
+      "Colored pencils",
+      "Magnifying glass (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Revolutionary Art", "subheading": "The Power of Political Cartoons"},
-        {"type": "materials", "items": ["Prints of revolutionary political cartoons (3-4)", "Drawing paper", "Pencil", "Black marker", "Colored pencils", "Magnifying glass"], "setup_instructions": "Print Benjamin Franklin's 'Join or Die' cartoon and 2-3 other Revolution-era cartoons. Have analysis questions ready: What do you see? What symbols are used? What message is the artist sending?"},
-        {"type": "instruction", "step": 1, "text": "Introduce the concept: 'You know how we're learning about persuasive writing? Well, artists can persuade with pictures too! A political cartoon uses humor, symbols, and exaggeration to make a point about government or society.'"},
-        {"type": "instruction", "step": 2, "text": "Show 'Join or Die.' 'Benjamin Franklin drew this in 1754. It shows a snake cut into 8 pieces, each labeled with the name of a colony or region. The message: if the colonies don't unite (join together), they will all fail (die). It's simple but powerful!'"},
-        {"type": "instruction", "step": 3, "text": "Analyze the techniques. 'Symbols: the snake represents the colonies. Exaggeration: a snake divided into pieces is dramatic and memorable. Short text: just 3 words — \"Join or Die\" — simple and urgent. The best political cartoons make a complex idea instantly understandable.'"},
-        {"type": "instruction", "step": 4, "text": "Show 1-2 more cartoons. Discuss: 'What symbols do you see? What's the message? Is the cartoonist for or against something? How does the cartoon make you feel?' Connect to persuasive writing: both use arguments to change minds."},
-        {"type": "activity", "prompt": "Create your own political cartoon about something you feel strongly about (it can be local: homework, recess, bedtime; or global: environment, animals, fairness). Use at least one symbol, keep the text short and punchy, and make your message clear. Draw in pencil, then outline in marker.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Share your cartoons. Can others guess the message without you explaining? If yes, your cartoon is effective! 'Political cartoons are a form of free speech — they let people express opinions through art. This tradition started before the American Revolution and continues today.'", "mastery_check": "Can the child analyze a political cartoon's message and symbols and create their own effective cartoon?"}
+        {
+          "type": "title",
+          "heading": "Revolutionary Art",
+          "subheading": "The Power of Political Cartoons",
+          "image_url": "https://images.pexels.com/photos/1047540/pexels-photo-1047540.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Prints of revolutionary political cartoons (3-4)",
+            "Drawing paper",
+            "Pencil",
+            "Black marker",
+            "Colored pencils",
+            "Magnifying glass"
+          ],
+          "setup_instructions": "Print Benjamin Franklin's 'Join or Die' cartoon and 2-3 other Revolution-era cartoons. Have analysis questions ready: What do you see? What symbols are used? What message is the artist sending?"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Introduce the concept: 'You know how we're learning about persuasive writing? Well, artists can persuade with pictures too! A political cartoon uses humor, symbols, and exaggeration to make a point about government or society.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show 'Join or Die.' 'Benjamin Franklin drew this in 1754. It shows a snake cut into 8 pieces, each labeled with the name of a colony or region. The message: if the colonies don't unite (join together), they will all fail (die). It's simple but powerful!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Analyze the techniques. 'Symbols: the snake represents the colonies. Exaggeration: a snake divided into pieces is dramatic and memorable. Short text: just 3 words — \"Join or Die\" — simple and urgent. The best political cartoons make a complex idea instantly understandable.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Show 1-2 more cartoons. Discuss: 'What symbols do you see? What's the message? Is the cartoonist for or against something? How does the cartoon make you feel?' Connect to persuasive writing: both use arguments to change minds."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own political cartoon about something you feel strongly about (it can be local: homework, recess, bedtime; or global: environment, animals, fairness). Use at least one symbol, keep the text short and punchy, and make your message clear. Draw in pencil, then outline in marker.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Share your cartoons. Can others guess the message without you explaining? If yes, your cartoon is effective! 'Political cartoons are a form of free speech — they let people express opinions through art. This tradition started before the American Revolution and continues today.'",
+          "mastery_check": "Can the child analyze a political cartoon's message and symbols and create their own effective cartoon?"
+        }
       ]
     },
     "parent_notes": "Political cartoons are an excellent bridge between art, history, and persuasive writing. Franklin's 'Join or Die' is one of the most famous images in American history. Children love the idea that a simple drawing can contain a powerful message. When creating their own cartoon, encourage them to pick something they genuinely care about — even 'I think we should have dessert every night' is valid practice in visual persuasion. The modern newspaper editorial section contains political cartoons your child could analyze for extension.",
@@ -261,17 +675,68 @@
     "instructions": "1. Discuss colonial self-sufficiency: families made their own candles, soap, cloth, and food.\n2. Explain how candles were the primary light source before gas and electric lighting.\n3. Demonstrate candle dipping or container candle making.\n4. Make a simple candle together (wax melting requires adult supervision).\n5. Discuss: How many candles would a family need in a year?\n6. Compare to modern convenience: flipping a light switch.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Wax (soy or beeswax flakes)", "Candle wicks", "Small containers or jars", "Double boiler or microwave-safe bowl", "Wooden stick for stirring", "Newspaper for covering work area", "Crayons for color (optional)", "Essential oil for scent (optional)"],
+    "materials_needed": [
+      "Wax (soy or beeswax flakes)",
+      "Candle wicks",
+      "Small containers or jars",
+      "Double boiler or microwave-safe bowl",
+      "Wooden stick for stirring",
+      "Newspaper for covering work area",
+      "Crayons for color (optional)",
+      "Essential oil for scent (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Colonial Skills", "subheading": "Candle Making"},
-        {"type": "materials", "items": ["Wax (soy or beeswax flakes)", "Candle wicks", "Small containers or jars", "Double boiler or microwave-safe bowl", "Wooden stick for stirring", "Newspaper", "Crayons for color (optional)", "Essential oil (optional)"], "setup_instructions": "Cover the work area with newspaper. Pre-cut wicks slightly longer than the container height. Set up the double boiler or microwave. This lesson requires close adult supervision when melting wax."},
-        {"type": "instruction", "step": 1, "text": "Set the scene: 'Imagine it's 1760 in colonial America. The sun goes down at 5 PM in winter. There's no electricity, no flashlights, no lamps that plug in. The only light comes from candles and the fireplace. Every family had to make hundreds of candles each year!'"},
-        {"type": "instruction", "step": 2, "text": "Explain the process: 'Colonial families made candles from tallow (animal fat) or beeswax. They dipped wicks into melted wax over and over — each dip added a thin layer. It could take 20-30 dips to make one candle. Imagine making 200 candles for the year!'"},
-        {"type": "instruction", "step": 3, "text": "Make container candles together (easier than dipping). Adult melts the wax in a double boiler. While waiting: attach the wick to the bottom of the container. Use a pencil across the top to hold the wick straight. When wax is melted, the child can add a crayon for color or a drop of essential oil."},
-        {"type": "instruction", "step": 4, "text": "Carefully pour melted wax into the container. 'Now we wait for it to harden — that takes about an hour. Colonial families made candles in big batches, often once or twice a year, because it was so much work.'"},
-        {"type": "activity", "prompt": "While the candle hardens, calculate: If a colonial family burned 3 candles per night for 6 months of dark evenings (180 days), how many candles did they need? (3 x 180 = ?) If each candle took 10 minutes to make, how many HOURS of candle-making was that? Write about what you appreciate about modern lighting.", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Check your candle (it may still need time to harden fully). 'We made ONE candle in 45 minutes. Colonial families needed hundreds! This is another example of how life before the Industrial Revolution required so much daily labor for basic needs.'", "mastery_check": "Can the child describe the role of candles in colonial life and explain the process of candle making?"}
+        {
+          "type": "title",
+          "heading": "Colonial Skills",
+          "subheading": "Candle Making",
+          "image_url": "https://images.pexels.com/photos/269220/pexels-photo-269220.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Wax (soy or beeswax flakes)",
+            "Candle wicks",
+            "Small containers or jars",
+            "Double boiler or microwave-safe bowl",
+            "Wooden stick for stirring",
+            "Newspaper",
+            "Crayons for color (optional)",
+            "Essential oil (optional)"
+          ],
+          "setup_instructions": "Cover the work area with newspaper. Pre-cut wicks slightly longer than the container height. Set up the double boiler or microwave. This lesson requires close adult supervision when melting wax."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the scene: 'Imagine it's 1760 in colonial America. The sun goes down at 5 PM in winter. There's no electricity, no flashlights, no lamps that plug in. The only light comes from candles and the fireplace. Every family had to make hundreds of candles each year!'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Explain the process: 'Colonial families made candles from tallow (animal fat) or beeswax. They dipped wicks into melted wax over and over — each dip added a thin layer. It could take 20-30 dips to make one candle. Imagine making 200 candles for the year!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Make container candles together (easier than dipping). Adult melts the wax in a double boiler. While waiting: attach the wick to the bottom of the container. Use a pencil across the top to hold the wick straight. When wax is melted, the child can add a crayon for color or a drop of essential oil."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Carefully pour melted wax into the container. 'Now we wait for it to harden — that takes about an hour. Colonial families made candles in big batches, often once or twice a year, because it was so much work.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "While the candle hardens, calculate: If a colonial family burned 3 candles per night for 6 months of dark evenings (180 days), how many candles did they need? (3 x 180 = ?) If each candle took 10 minutes to make, how many HOURS of candle-making was that? Write about what you appreciate about modern lighting.",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Check your candle (it may still need time to harden fully). 'We made ONE candle in 45 minutes. Colonial families needed hundreds! This is another example of how life before the Industrial Revolution required so much daily labor for basic needs.'",
+          "mastery_check": "Can the child describe the role of candles in colonial life and explain the process of candle making?"
+        }
       ]
     },
     "parent_notes": "This is a wonderful hands-on lesson but requires careful adult supervision around melted wax. Soy wax flakes are the safest option — they melt at a lower temperature than paraffin. Beeswax smells wonderful but is more expensive. Container candles are easier and safer than dipping. The key learning isn't the craft itself but the CONNECTION to colonial life: understanding that every modern convenience required enormous human effort before industrialization. The math calculation (540 candles per year!) makes the scope tangible.",
@@ -289,17 +754,62 @@
     "instructions": "1. Review thesis statements from Tuesday.\n2. Introduce the concept: 'Strong arguments consider what the other side thinks.'\n3. Model identifying a counterargument to a thesis.\n4. Teach the 'Yes, but...' technique: acknowledge the concern, then explain why your argument is still stronger.\n5. Practice with several examples.\n6. Add a counterargument/rebuttal section to their persuasive outline.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Tuesday's persuasive outlines", "Counterargument examples", "Notebook", "Pencil", "Eraser"],
+    "materials_needed": [
+      "Tuesday's persuasive outlines",
+      "Counterargument examples",
+      "Notebook",
+      "Pencil",
+      "Eraser"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Persuasive Writing", "subheading": "Counterarguments and Rebuttals"},
-        {"type": "materials", "items": ["Tuesday's persuasive outlines", "Counterargument examples", "Notebook", "Pencil", "Eraser"], "setup_instructions": "Have the child's outline from Tuesday ready. Prepare 3-4 sample arguments with counterarguments and rebuttals to model."},
-        {"type": "instruction", "step": 1, "text": "Start with a scenario: 'You've written an amazing argument for getting a pet dog. Then your parent says: \"But who will walk the dog every day?\" Uh oh! That's a COUNTERARGUMENT — the other side's reason for disagreeing. If you ignore it, your argument has a hole.'"},
-        {"type": "instruction", "step": 2, "text": "Introduce the strategy: 'Strong writers don't ignore the other side — they ADDRESS it. It's called a REBUTTAL. You say: \"Some people might argue that dogs require too much daily exercise. However, this is actually a benefit because it gives the whole family a reason to get outside and stay healthy.\"'"},
-        {"type": "instruction", "step": 3, "text": "Teach the formula: 'Some people might say [counterargument]. However, [your rebuttal].' Or: 'While it is true that [counterargument], [your rebuttal].' This shows you've thought about both sides, which makes your argument MORE convincing, not less."},
-        {"type": "instruction", "step": 4, "text": "Practice together. Thesis: 'Recess should be longer.' Counterargument: 'Less classroom time means less learning.' Rebuttal: 'Research shows that students who have more physical activity actually concentrate better and learn more in the classroom time they do have.'"},
-        {"type": "activity", "prompt": "Think about YOUR persuasive topic. What would someone who DISAGREES with you say? Write the strongest counterargument you can think of. Then write your rebuttal using the formula. Add this to your essay outline as a paragraph before the conclusion.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Read your counterargument and rebuttal aloud. 'Does your rebuttal address the concern? Is it respectful and logical?' This is an advanced skill — many adults struggle with it. Tomorrow you'll write the full essay!", "mastery_check": "Can the child identify a counterargument to their thesis and write a respectful, logical rebuttal?"}
+        {
+          "type": "title",
+          "heading": "Persuasive Writing",
+          "subheading": "Counterarguments and Rebuttals",
+          "image_url": "https://images.pexels.com/photos/3855553/pexels-photo-3855553.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Tuesday's persuasive outlines",
+            "Counterargument examples",
+            "Notebook",
+            "Pencil",
+            "Eraser"
+          ],
+          "setup_instructions": "Have the child's outline from Tuesday ready. Prepare 3-4 sample arguments with counterarguments and rebuttals to model."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Start with a scenario: 'You've written an amazing argument for getting a pet dog. Then your parent says: \"But who will walk the dog every day?\" Uh oh! That's a COUNTERARGUMENT — the other side's reason for disagreeing. If you ignore it, your argument has a hole.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce the strategy: 'Strong writers don't ignore the other side — they ADDRESS it. It's called a REBUTTAL. You say: \"Some people might argue that dogs require too much daily exercise. However, this is actually a benefit because it gives the whole family a reason to get outside and stay healthy.\"'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Teach the formula: 'Some people might say [counterargument]. However, [your rebuttal].' Or: 'While it is true that [counterargument], [your rebuttal].' This shows you've thought about both sides, which makes your argument MORE convincing, not less."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Practice together. Thesis: 'Recess should be longer.' Counterargument: 'Less classroom time means less learning.' Rebuttal: 'Research shows that students who have more physical activity actually concentrate better and learn more in the classroom time they do have.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Think about YOUR persuasive topic. What would someone who DISAGREES with you say? Write the strongest counterargument you can think of. Then write your rebuttal using the formula. Add this to your essay outline as a paragraph before the conclusion.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Read your counterargument and rebuttal aloud. 'Does your rebuttal address the concern? Is it respectful and logical?' This is an advanced skill — many adults struggle with it. Tomorrow you'll write the full essay!",
+          "mastery_check": "Can the child identify a counterargument to their thesis and write a respectful, logical rebuttal?"
+        }
       ]
     },
     "parent_notes": "Counterarguments and rebuttals represent some of the highest-level thinking in writing. If your child struggles, help them by playing the opposing side: argue AGAINST their thesis and let them respond verbally first, then in writing. The key principle is intellectual honesty — pretending the other side has no point is weak arguing. This skill transfers to real life: resolving conflicts, negotiating, and civil discourse. Don't expect perfection; even a simple 'Some people think X, but I think Y because Z' is a great start.",
@@ -317,17 +827,64 @@
     "instructions": "1. Introduce probability: 'How likely is it that something will happen?'\n2. Present the probability scale: impossible → unlikely → equally likely → likely → certain.\n3. Give examples and have the child place them on the scale.\n4. Conduct a coin flip experiment: predict, test, record.\n5. Conduct a spinner experiment with unequal sections.\n6. Discuss: probability helps us make predictions, but it doesn't guarantee results.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Coins for flipping", "Spinner with sections (make from cardboard and paperclip)", "Bag with colored cubes or marbles", "Recording sheets", "Pencil", "Probability scale poster"],
+    "materials_needed": [
+      "Coins for flipping",
+      "Spinner with sections (make from cardboard and paperclip)",
+      "Bag with colored cubes or marbles",
+      "Recording sheets",
+      "Pencil",
+      "Probability scale poster"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Introduction to Probability", "subheading": "Likely, Unlikely, Certain, Impossible"},
-        {"type": "materials", "items": ["Coins for flipping", "Spinner (cardboard, pencil, paperclip)", "Bag with colored cubes/marbles (e.g., 5 red, 3 blue, 2 green)", "Recording sheets", "Pencil", "Probability scale poster"], "setup_instructions": "Create a probability scale from 'Impossible' to 'Certain' on a large paper. Make a spinner with unequal sections (half red, quarter blue, quarter green). Put colored items in an opaque bag."},
-        {"type": "instruction", "step": 1, "text": "Start with real-life questions: 'Will the sun rise tomorrow? (Certain!) Will it snow in July? (Very unlikely!) Will you grow wings and fly? (Impossible!) Will you roll a 6 on a die? (Possible, but not certain!)' Probability tells us HOW LIKELY something is."},
-        {"type": "instruction", "step": 2, "text": "Show the probability scale. Place the examples: Impossible (no chance) → Unlikely (probably won't) → Equally likely (50-50) → Likely (probably will) → Certain (definitely will). 'A coin flip is equally likely — 50% heads, 50% tails. Drawing from a bag of mostly red cubes — red is LIKELY.'"},
-        {"type": "instruction", "step": 3, "text": "Coin flip experiment: 'If I flip a coin 20 times, predict: how many heads? How many tails?' Record predictions. Flip 20 times and tally results. 'Did you get exactly 10 and 10? Probably not — but it should be close. With more flips, it gets closer to 50-50.'"},
-        {"type": "instruction", "step": 4, "text": "Bag experiment: Show 5 red, 3 blue, 2 green cubes. 'If you close your eyes and pull one out, which color are you MOST likely to get? Least likely?' Pull 10 times (replacing each time). Record results. 'Does the data match our predictions?'"},
-        {"type": "activity", "prompt": "Design your own probability experiment using the spinner. Predict: Which color will the spinner land on most? Spin 20 times and record results in a tally chart. Was your prediction correct? Write 3 statements using probability words: 'It is [certain/likely/unlikely/impossible] that...'", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Key idea: 'Probability helps us predict what's LIKELY to happen, but it doesn't tell us what WILL happen in any single event. That's what makes experiments exciting — there's always an element of chance!'", "mastery_check": "Can the child use probability vocabulary correctly, predict outcomes, and conduct a simple probability experiment?"}
+        {
+          "type": "title",
+          "heading": "Introduction to Probability",
+          "subheading": "Likely, Unlikely, Certain, Impossible",
+          "image_url": "https://images.pexels.com/photos/3729557/pexels-photo-3729557.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Coins for flipping",
+            "Spinner (cardboard, pencil, paperclip)",
+            "Bag with colored cubes/marbles (e.g., 5 red, 3 blue, 2 green)",
+            "Recording sheets",
+            "Pencil",
+            "Probability scale poster"
+          ],
+          "setup_instructions": "Create a probability scale from 'Impossible' to 'Certain' on a large paper. Make a spinner with unequal sections (half red, quarter blue, quarter green). Put colored items in an opaque bag."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Start with real-life questions: 'Will the sun rise tomorrow? (Certain!) Will it snow in July? (Very unlikely!) Will you grow wings and fly? (Impossible!) Will you roll a 6 on a die? (Possible, but not certain!)' Probability tells us HOW LIKELY something is."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the probability scale. Place the examples: Impossible (no chance) → Unlikely (probably won't) → Equally likely (50-50) → Likely (probably will) → Certain (definitely will). 'A coin flip is equally likely — 50% heads, 50% tails. Drawing from a bag of mostly red cubes — red is LIKELY.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Coin flip experiment: 'If I flip a coin 20 times, predict: how many heads? How many tails?' Record predictions. Flip 20 times and tally results. 'Did you get exactly 10 and 10? Probably not — but it should be close. With more flips, it gets closer to 50-50.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Bag experiment: Show 5 red, 3 blue, 2 green cubes. 'If you close your eyes and pull one out, which color are you MOST likely to get? Least likely?' Pull 10 times (replacing each time). Record results. 'Does the data match our predictions?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Design your own probability experiment using the spinner. Predict: Which color will the spinner land on most? Spin 20 times and record results in a tally chart. Was your prediction correct? Write 3 statements using probability words: 'It is [certain/likely/unlikely/impossible] that...'",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Key idea: 'Probability helps us predict what's LIKELY to happen, but it doesn't tell us what WILL happen in any single event. That's what makes experiments exciting — there's always an element of chance!'",
+          "mastery_check": "Can the child use probability vocabulary correctly, predict outcomes, and conduct a simple probability experiment?"
+        }
       ]
     },
     "parent_notes": "Probability is new and exciting for most children. The key vocabulary — impossible, unlikely, equally likely, likely, certain — should be used naturally in daily life: 'Is it likely to rain today? Is it certain we'll eat dinner?' The experiments are essential: children need to see that probability describes patterns over many trials, not individual events. A common misconception: 'I flipped 3 heads in a row, so the next MUST be tails.' Each flip is independent! You'll revisit this concept, but plant the seed now.",
@@ -345,17 +902,64 @@
     "instructions": "1. Review the colony-Britain relationship.\n2. Explain: after the French and Indian War, Britain needed money and taxed the colonies.\n3. Introduce 'taxation without representation': colonists had no voice in Parliament.\n4. Present key events: Stamp Act (1765), Townshend Acts (1767), Boston Tea Party (1773).\n5. Act out a taxation scenario to make it real.\n6. Add events to the timeline.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Timeline", "Pictures of Stamp Act protests and Boston Tea Party", "Play money or paper coins", "Tea bags (for demonstration)", "Index cards for timeline events", "Notebook"],
+    "materials_needed": [
+      "Timeline",
+      "Pictures of Stamp Act protests and Boston Tea Party",
+      "Play money or paper coins",
+      "Tea bags (for demonstration)",
+      "Index cards for timeline events",
+      "Notebook"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Taxation Without Representation", "subheading": "Seeds of Revolution"},
-        {"type": "materials", "items": ["Timeline", "Pictures of protests and Boston Tea Party", "Play money or paper coins", "Tea bags", "Index cards", "Notebook"], "setup_instructions": "Set up play money for the taxation role-play. Print images of colonial protests and the Boston Tea Party. Have tea bags for the dramatic conclusion. Prepare timeline cards for key dates."},
-        {"type": "instruction", "step": 1, "text": "Connect: 'Britain and France fought an expensive war in North America — the French and Indian War (1754-1763). Britain won, but spent a fortune. King George thought: \"The colonists benefited from this war. They should help pay for it.\" So he started taxing the colonies.'"},
-        {"type": "instruction", "step": 2, "text": "Role-play! Give the child some play money for 'doing chores' (representing colonial work). Then announce: 'The king says you must pay a tax on every piece of paper you use — newspapers, legal documents, even playing cards. Hand over some money.' Ask: 'Did anyone ask if you agreed to this tax?'"},
-        {"type": "instruction", "step": 3, "text": "Explain the key phrase: 'TAXATION WITHOUT REPRESENTATION. The colonists said: \"We have no representatives in Parliament! You can't tax us if we have no voice in the government!\" They weren't against all taxes — they were against being taxed by a government where they had no say.'"},
-        {"type": "instruction", "step": 4, "text": "Present key events: Stamp Act (1765) — tax on all paper goods, colonists protested and it was repealed. Townshend Acts (1767) — tax on tea, glass, paper. Boston Tea Party (1773) — colonists dressed as Native Americans dumped 342 chests of tea into Boston Harbor. Show the tea bags: 'Imagine dumping THIS much tea — times a million!'"},
-        {"type": "activity", "prompt": "Add these events to your timeline: Stamp Act (1765), Townshend Acts (1767), Boston Massacre (1770), Boston Tea Party (1773). For each event, write one sentence explaining what happened and why colonists were angry. Then write a protest sign a colonist might have carried.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The colonists tried protests, petitions, and boycotts. When none of that worked, they took a drastic step. 'What do you think they did next?' Tomorrow we'll learn about the Declaration of Independence!", "mastery_check": "Can the child explain what 'taxation without representation' means and describe at least 3 key events leading to the Revolution?"}
+        {
+          "type": "title",
+          "heading": "Taxation Without Representation",
+          "subheading": "Seeds of Revolution",
+          "image_url": "https://images.pexels.com/photos/10131669/pexels-photo-10131669.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Timeline",
+            "Pictures of protests and Boston Tea Party",
+            "Play money or paper coins",
+            "Tea bags",
+            "Index cards",
+            "Notebook"
+          ],
+          "setup_instructions": "Set up play money for the taxation role-play. Print images of colonial protests and the Boston Tea Party. Have tea bags for the dramatic conclusion. Prepare timeline cards for key dates."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect: 'Britain and France fought an expensive war in North America — the French and Indian War (1754-1763). Britain won, but spent a fortune. King George thought: \"The colonists benefited from this war. They should help pay for it.\" So he started taxing the colonies.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Role-play! Give the child some play money for 'doing chores' (representing colonial work). Then announce: 'The king says you must pay a tax on every piece of paper you use — newspapers, legal documents, even playing cards. Hand over some money.' Ask: 'Did anyone ask if you agreed to this tax?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Explain the key phrase: 'TAXATION WITHOUT REPRESENTATION. The colonists said: \"We have no representatives in Parliament! You can't tax us if we have no voice in the government!\" They weren't against all taxes — they were against being taxed by a government where they had no say.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Present key events: Stamp Act (1765) — tax on all paper goods, colonists protested and it was repealed. Townshend Acts (1767) — tax on tea, glass, paper. Boston Tea Party (1773) — colonists dressed as Native Americans dumped 342 chests of tea into Boston Harbor. Show the tea bags: 'Imagine dumping THIS much tea — times a million!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Add these events to your timeline: Stamp Act (1765), Townshend Acts (1767), Boston Massacre (1770), Boston Tea Party (1773). For each event, write one sentence explaining what happened and why colonists were angry. Then write a protest sign a colonist might have carried.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The colonists tried protests, petitions, and boycotts. When none of that worked, they took a drastic step. 'What do you think they did next?' Tomorrow we'll learn about the Declaration of Independence!",
+          "mastery_check": "Can the child explain what 'taxation without representation' means and describe at least 3 key events leading to the Revolution?"
+        }
       ]
     },
     "parent_notes": "The taxation role-play is powerful — children viscerally understand unfairness when they experience it personally. Use it to discuss the difference between fair and unfair rules, and how citizens should be able to participate in decisions that affect them. The Boston Tea Party is dramatic and memorable — if your child wants to recreate it, let them! (Tea bags in a bowl of water.) Be balanced: acknowledge that Britain had reasons for the taxes (war debt, colonial defense) while validating why colonists were upset. This nuanced understanding reflects real historical thinking.",
@@ -373,17 +977,65 @@
     "instructions": "1. Describe a typical day for a colonial child: chores before dawn, limited school, work until dark.\n2. Explore colonial food: cornbread, stews, dried meats, seasonal vegetables.\n3. Discuss clothing: handmade, few outfits, practical not fashionable.\n4. Games and entertainment: no electronics — singing, storytelling, simple toys.\n5. Compare colonial and modern childhood in a Venn diagram.\n6. Try a colonial recipe or game.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Pictures of colonial daily life", "Venn diagram template", "Ingredients for cornbread (optional)", "Colonial game instructions (nine men's morris, marbles)", "Notebook", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "Pictures of colonial daily life",
+      "Venn diagram template",
+      "Ingredients for cornbread (optional)",
+      "Colonial game instructions (nine men's morris, marbles)",
+      "Notebook",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Colonial Culture", "subheading": "Daily Life, Food, and Traditions"},
-        {"type": "materials", "items": ["Pictures of colonial daily life", "Venn diagram template", "Colonial game supplies (marbles, or printed game board)", "Notebook", "Pencil", "Colored pencils"], "setup_instructions": "Gather images of colonial homes, food, clothing, and children. Print a Venn diagram template. If making cornbread, gather ingredients. For games, print a Nine Men's Morris board or gather marbles."},
-        {"type": "instruction", "step": 1, "text": "A colonial child's day: 'Wake before sunrise. Fetch water from the well. Feed the chickens. Eat breakfast: cornmeal mush with milk. Help with farm chores until midday. Afternoon: some children went to school (one-room schoolhouse); others worked. Evening: dinner by candlelight, prayers, bed.'"},
-        {"type": "instruction", "step": 2, "text": "Colonial food: 'Most families grew their own food. Corn was the staple — cornbread, corn pudding, corn chowder. Meat was often dried or salted to preserve it. No refrigerators! Seasonal fruits and vegetables. Very little sugar — it was expensive and had to be imported.'"},
-        {"type": "instruction", "step": 3, "text": "Colonial clothing: 'Most clothes were handmade from homespun cloth. A child might own 2-3 outfits. No zippers — buttons and ties. Boys and girls both wore gowns until age 5-6, then boys got breeches (pants). Everything was practical and durable.'"},
-        {"type": "instruction", "step": 4, "text": "Fun and games: 'Children played with homemade toys — corn husk dolls, wooden tops, marbles, hoops. Board games like Nine Men's Morris. Singing, riddles, and storytelling around the fire. No screens, no sports equipment stores — just creativity and imagination!'"},
-        {"type": "activity", "prompt": "Create a Venn diagram comparing YOUR daily life to a colonial child's life. What's different? What's the same? (You might be surprised by the similarities!) Then play a colonial game: Nine Men's Morris or marbles. Write 3 things that surprised you about colonial childhood.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Despite the differences, colonial children had many of the same joys and challenges you do — friends, family, learning, play, and responsibilities. 'What would you miss most about modern life if you lived in colonial times? What might you enjoy?'", "mastery_check": "Can the child describe at least 5 aspects of colonial daily life and compare colonial and modern childhood?"}
+        {
+          "type": "title",
+          "heading": "Colonial Culture",
+          "subheading": "Daily Life, Food, and Traditions",
+          "image_url": "https://images.pexels.com/photos/5728162/pexels-photo-5728162.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pictures of colonial daily life",
+            "Venn diagram template",
+            "Colonial game supplies (marbles, or printed game board)",
+            "Notebook",
+            "Pencil",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Gather images of colonial homes, food, clothing, and children. Print a Venn diagram template. If making cornbread, gather ingredients. For games, print a Nine Men's Morris board or gather marbles."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A colonial child's day: 'Wake before sunrise. Fetch water from the well. Feed the chickens. Eat breakfast: cornmeal mush with milk. Help with farm chores until midday. Afternoon: some children went to school (one-room schoolhouse); others worked. Evening: dinner by candlelight, prayers, bed.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Colonial food: 'Most families grew their own food. Corn was the staple — cornbread, corn pudding, corn chowder. Meat was often dried or salted to preserve it. No refrigerators! Seasonal fruits and vegetables. Very little sugar — it was expensive and had to be imported.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Colonial clothing: 'Most clothes were handmade from homespun cloth. A child might own 2-3 outfits. No zippers — buttons and ties. Boys and girls both wore gowns until age 5-6, then boys got breeches (pants). Everything was practical and durable.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Fun and games: 'Children played with homemade toys — corn husk dolls, wooden tops, marbles, hoops. Board games like Nine Men's Morris. Singing, riddles, and storytelling around the fire. No screens, no sports equipment stores — just creativity and imagination!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a Venn diagram comparing YOUR daily life to a colonial child's life. What's different? What's the same? (You might be surprised by the similarities!) Then play a colonial game: Nine Men's Morris or marbles. Write 3 things that surprised you about colonial childhood.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Despite the differences, colonial children had many of the same joys and challenges you do — friends, family, learning, play, and responsibilities. 'What would you miss most about modern life if you lived in colonial times? What might you enjoy?'",
+          "mastery_check": "Can the child describe at least 5 aspects of colonial daily life and compare colonial and modern childhood?"
+        }
       ]
     },
     "parent_notes": "Children are fascinated by how other children lived. The Venn diagram often reveals surprising similarities: both colonial and modern children help with chores, play with friends, learn new things, and argue with siblings! Making cornbread is a wonderful hands-on extension — the recipe is essentially the same as in colonial times. If your child is interested, Williamsburg has excellent online resources about colonial daily life. The key Montessori principle here is that culture is an adaptation to environment and circumstances.",
@@ -401,16 +1053,55 @@
     "instructions": "1. Introduce the book: it tells the same story from two different Georges' perspectives.\n2. Read selected chapters aloud, noting how the same events are described differently.\n3. Create a comparison chart: George Washington vs. King George III.\n4. Discuss: How can the same event have two different interpretations?\n5. Journal response about perspective.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["George vs. George by Rosalyn Schanzer (or selected excerpts)", "Reading journal", "Pencil", "T-chart template"],
+    "materials_needed": [
+      "George vs. George by Rosalyn Schanzer (or selected excerpts)",
+      "Reading journal",
+      "Pencil",
+      "T-chart template"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "George vs. George by Rosalyn Schanzer"},
-        {"type": "materials", "items": ["George vs. George by Rosalyn Schanzer", "Reading journal", "Pencil", "T-chart template"], "setup_instructions": "Have the book ready. If you don't have it, prepare a comparison of Washington and King George from other sources. Create a T-chart template for comparing the two Georges."},
-        {"type": "instruction", "step": 1, "text": "Before reading: 'We've met King George III. Now we'll meet the OTHER George — George Washington, who led the colonial army. This book puts them side by side. Let's see how the same events look from different angles.'"},
-        {"type": "instruction", "step": 2, "text": "Read selected sections, pausing to compare. 'When the colonists protested the Stamp Act, George Washington thought it was tyranny. King George thought the colonists were being disrespectful. Same event, two very different reactions!'"},
-        {"type": "instruction", "step": 3, "text": "Fill in the comparison chart: Leadership style, personality, beliefs about the colonies, strengths, weaknesses. 'Washington was calm, determined, and a skilled military leader. George III was stubborn but believed he was doing his duty as king.'"},
-        {"type": "activity", "prompt": "In your reading journal, write a dialogue (a conversation) between the two Georges. Have them discuss ONE topic: taxes, freedom, or the colonies' future. Each George should express his real viewpoint. Write at least 6 lines of dialogue (3 per George). Use correct quotation marks!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Share your dialogues. 'Both Georges believed they were right. History is rarely as simple as good vs. evil. Understanding multiple perspectives makes you a stronger thinker — in history AND in life.'", "mastery_check": "Can the child compare Washington and King George III and write a dialogue reflecting both perspectives?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "George vs. George by Rosalyn Schanzer",
+          "image_url": "https://images.pexels.com/photos/10566480/pexels-photo-10566480.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "George vs. George by Rosalyn Schanzer",
+            "Reading journal",
+            "Pencil",
+            "T-chart template"
+          ],
+          "setup_instructions": "Have the book ready. If you don't have it, prepare a comparison of Washington and King George from other sources. Create a T-chart template for comparing the two Georges."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Before reading: 'We've met King George III. Now we'll meet the OTHER George — George Washington, who led the colonial army. This book puts them side by side. Let's see how the same events look from different angles.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read selected sections, pausing to compare. 'When the colonists protested the Stamp Act, George Washington thought it was tyranny. King George thought the colonists were being disrespectful. Same event, two very different reactions!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Fill in the comparison chart: Leadership style, personality, beliefs about the colonies, strengths, weaknesses. 'Washington was calm, determined, and a skilled military leader. George III was stubborn but believed he was doing his duty as king.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal, write a dialogue (a conversation) between the two Georges. Have them discuss ONE topic: taxes, freedom, or the colonies' future. Each George should express his real viewpoint. Write at least 6 lines of dialogue (3 per George). Use correct quotation marks!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Share your dialogues. 'Both Georges believed they were right. History is rarely as simple as good vs. evil. Understanding multiple perspectives makes you a stronger thinker — in history AND in life.'",
+          "mastery_check": "Can the child compare Washington and King George III and write a dialogue reflecting both perspectives?"
+        }
       ]
     },
     "parent_notes": "George vs. George is an exceptional book because it treats both sides with fairness and respect. If you don't have the book, you can create a similar comparison from biographical sources. The dialogue-writing activity is challenging but valuable — it requires the child to think FROM another person's perspective and express it in their words. This develops both empathy and writing skills. Connect to the persuasive writing unit: each George is essentially writing a persuasive argument for his position.",
@@ -428,17 +1119,62 @@
     "instructions": "1. Review the essay outline (thesis, 3 arguments, counterargument/rebuttal, conclusion).\n2. Model writing an introduction paragraph that hooks the reader and states the thesis.\n3. Write body paragraphs: each argument gets one paragraph with reason + evidence.\n4. Add the counterargument/rebuttal paragraph.\n5. Write a conclusion with a call to action.\n6. Read the entire essay aloud for flow.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Completed persuasive essay outline", "Notebook or lined paper", "Pencil and eraser", "Model essay for reference", "Transition word list"],
+    "materials_needed": [
+      "Completed persuasive essay outline",
+      "Notebook or lined paper",
+      "Pencil and eraser",
+      "Model essay for reference",
+      "Transition word list"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Persuasive Writing", "subheading": "Drafting the Full Essay"},
-        {"type": "materials", "items": ["Completed essay outline", "Notebook or lined paper", "Pencil and eraser", "Model essay for reference", "Transition word list"], "setup_instructions": "Have the child's outline from this week ready. Prepare a transition word list (First, Additionally, Furthermore, However, In conclusion, Therefore). Have a model persuasive essay for reference."},
-        {"type": "instruction", "step": 1, "text": "Review the outline. 'You have all the pieces. Now we assemble them into a complete essay. A persuasive essay has 5 parts: Introduction (with hook and thesis), Body Paragraph 1, Body Paragraph 2, Body Paragraph 3 (or counterargument/rebuttal), and Conclusion.'"},
-        {"type": "instruction", "step": 2, "text": "Write the introduction: 'Start with a HOOK — a question, a surprising fact, or a bold statement that grabs attention. Example: \"Did you know that students who have recess every day score 20% higher on tests?\" Then state your thesis.'"},
-        {"type": "instruction", "step": 3, "text": "Write body paragraphs using the outline. 'Each paragraph starts with a topic sentence (your reason). Then add evidence and examples. End with a sentence that connects back to your thesis. Use transitions between paragraphs: Furthermore, Additionally, Another reason...'"},
-        {"type": "instruction", "step": 4, "text": "Write the conclusion: 'Restate your thesis in different words. Summarize your strongest arguments. End with a CALL TO ACTION — tell the reader what they should DO. Example: \"Contact your school principal today and ask for longer recess. Your brain will thank you!\"'"},
-        {"type": "activity", "prompt": "Write your complete persuasive essay: introduction with hook and thesis, 2-3 body paragraphs, counterargument/rebuttal, and conclusion with call to action. Aim for at least 5 paragraphs. Use transition words. When finished, read it aloud — mark any parts that sound awkward.", "duration_minutes": 22},
-        {"type": "wrap_up", "text": "Read your essay aloud to someone. Ask: 'Were you convinced? Which argument was strongest? What could be improved?' Tomorrow you'll revise, edit, and publish your final draft!", "mastery_check": "Can the child write a complete multi-paragraph persuasive essay with introduction, body, counterargument, and conclusion?"}
+        {
+          "type": "title",
+          "heading": "Persuasive Writing",
+          "subheading": "Drafting the Full Essay",
+          "image_url": "https://images.pexels.com/photos/5212350/pexels-photo-5212350.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Completed essay outline",
+            "Notebook or lined paper",
+            "Pencil and eraser",
+            "Model essay for reference",
+            "Transition word list"
+          ],
+          "setup_instructions": "Have the child's outline from this week ready. Prepare a transition word list (First, Additionally, Furthermore, However, In conclusion, Therefore). Have a model persuasive essay for reference."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the outline. 'You have all the pieces. Now we assemble them into a complete essay. A persuasive essay has 5 parts: Introduction (with hook and thesis), Body Paragraph 1, Body Paragraph 2, Body Paragraph 3 (or counterargument/rebuttal), and Conclusion.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Write the introduction: 'Start with a HOOK — a question, a surprising fact, or a bold statement that grabs attention. Example: \"Did you know that students who have recess every day score 20% higher on tests?\" Then state your thesis.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Write body paragraphs using the outline. 'Each paragraph starts with a topic sentence (your reason). Then add evidence and examples. End with a sentence that connects back to your thesis. Use transitions between paragraphs: Furthermore, Additionally, Another reason...'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Write the conclusion: 'Restate your thesis in different words. Summarize your strongest arguments. End with a CALL TO ACTION — tell the reader what they should DO. Example: \"Contact your school principal today and ask for longer recess. Your brain will thank you!\"'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your complete persuasive essay: introduction with hook and thesis, 2-3 body paragraphs, counterargument/rebuttal, and conclusion with call to action. Aim for at least 5 paragraphs. Use transition words. When finished, read it aloud — mark any parts that sound awkward.",
+          "duration_minutes": 22
+        },
+        {
+          "type": "wrap_up",
+          "text": "Read your essay aloud to someone. Ask: 'Were you convinced? Which argument was strongest? What could be improved?' Tomorrow you'll revise, edit, and publish your final draft!",
+          "mastery_check": "Can the child write a complete multi-paragraph persuasive essay with introduction, body, counterargument, and conclusion?"
+        }
       ]
     },
     "parent_notes": "This is the big writing day! The child is synthesizing everything learned this week. Don't expect perfection in the first draft — the revision process tomorrow is equally important. Encourage the child to write freely without stopping to correct every error; editing comes later. The call to action is important because it shows the purpose of persuasive writing: to move someone to action. If the child finishes quickly, their essay probably needs more development. If they're struggling, help them expand one argument at a time.",
@@ -456,17 +1192,66 @@
     "instructions": "1. Review probability vocabulary from Wednesday.\n2. Connect to fractions: 'A coin has 2 sides, 1 is heads. The probability of heads is 1/2.'\n3. Practice with dice: probability of rolling a 4 is 1/6.\n4. Practice with spinners: if half is red, probability of red is 1/2.\n5. Practice with bags of colored items.\n6. Conduct experiments to compare predictions (theoretical probability) with results (experimental probability).",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Dice", "Coins", "Spinners with labeled sections", "Bags with colored cubes", "Fraction strips or circles for reference", "Recording sheets", "Pencil"],
+    "materials_needed": [
+      "Dice",
+      "Coins",
+      "Spinners with labeled sections",
+      "Bags with colored cubes",
+      "Fraction strips or circles for reference",
+      "Recording sheets",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Probability", "subheading": "Predicting Outcomes with Fractions"},
-        {"type": "materials", "items": ["Dice", "Coins", "Spinners with labeled sections", "Bags with colored cubes", "Fraction strips or circles", "Recording sheets", "Pencil"], "setup_instructions": "Prepare spinners with clear fractional sections (halves, quarters, thirds). Fill bags with known quantities of colored cubes. Have fraction visual aids available."},
-        {"type": "instruction", "step": 1, "text": "Connect probability to fractions: 'Remember fractions? They describe parts of a whole. Probability uses fractions too! The probability of an event = the number of favorable outcomes OVER the total number of outcomes.' Write the formula simply."},
-        {"type": "instruction", "step": 2, "text": "Coin: '2 possible outcomes: heads or tails. 1 is heads. Probability of heads = 1/2.' Die: '6 possible outcomes: 1, 2, 3, 4, 5, 6. Only 1 is a \"4.\" Probability of rolling a 4 = 1/6. What's the probability of rolling an even number? 3 even numbers out of 6 = 3/6 = 1/2.'"},
-        {"type": "instruction", "step": 3, "text": "Spinner: Show a spinner that's half red, quarter blue, quarter green. 'What fraction of the spinner is red? 1/2. So the probability of landing on red is 1/2. Blue? 1/4. Green? 1/4. All the fractions should add up to 1 whole: 1/2 + 1/4 + 1/4 = 1.'"},
-        {"type": "instruction", "step": 4, "text": "Bag of cubes: 3 red, 2 blue, 1 yellow (6 total). 'Probability of drawing red = 3/6 = 1/2. Blue = 2/6 = 1/3. Yellow = 1/6.' Experiment: draw 18 times (replacing each). 'If probability of red is 1/2, we predict about 9 reds. Let's see!'"},
-        {"type": "activity", "prompt": "For each probability station (coin, die, spinner, bag), write the probability as a fraction. Then experiment: do 20 trials at each station and record results. Compare your predictions (fractions) to your actual results. Were they close? Make a chart showing predicted vs. actual.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Compare predictions to results. 'The more trials you do, the closer your results get to the predicted probability. This is called the Law of Large Numbers — with enough tries, reality matches the math!' Probability connects to data, fractions, and real-world decision making.", "mastery_check": "Can the child express probability as a fraction, make predictions, and compare theoretical and experimental probability?"}
+        {
+          "type": "title",
+          "heading": "Probability",
+          "subheading": "Predicting Outcomes with Fractions",
+          "image_url": "https://images.pexels.com/photos/6238050/pexels-photo-6238050.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Dice",
+            "Coins",
+            "Spinners with labeled sections",
+            "Bags with colored cubes",
+            "Fraction strips or circles",
+            "Recording sheets",
+            "Pencil"
+          ],
+          "setup_instructions": "Prepare spinners with clear fractional sections (halves, quarters, thirds). Fill bags with known quantities of colored cubes. Have fraction visual aids available."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Connect probability to fractions: 'Remember fractions? They describe parts of a whole. Probability uses fractions too! The probability of an event = the number of favorable outcomes OVER the total number of outcomes.' Write the formula simply."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Coin: '2 possible outcomes: heads or tails. 1 is heads. Probability of heads = 1/2.' Die: '6 possible outcomes: 1, 2, 3, 4, 5, 6. Only 1 is a \"4.\" Probability of rolling a 4 = 1/6. What's the probability of rolling an even number? 3 even numbers out of 6 = 3/6 = 1/2.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Spinner: Show a spinner that's half red, quarter blue, quarter green. 'What fraction of the spinner is red? 1/2. So the probability of landing on red is 1/2. Blue? 1/4. Green? 1/4. All the fractions should add up to 1 whole: 1/2 + 1/4 + 1/4 = 1.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Bag of cubes: 3 red, 2 blue, 1 yellow (6 total). 'Probability of drawing red = 3/6 = 1/2. Blue = 2/6 = 1/3. Yellow = 1/6.' Experiment: draw 18 times (replacing each). 'If probability of red is 1/2, we predict about 9 reds. Let's see!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "For each probability station (coin, die, spinner, bag), write the probability as a fraction. Then experiment: do 20 trials at each station and record results. Compare your predictions (fractions) to your actual results. Were they close? Make a chart showing predicted vs. actual.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Compare predictions to results. 'The more trials you do, the closer your results get to the predicted probability. This is called the Law of Large Numbers — with enough tries, reality matches the math!' Probability connects to data, fractions, and real-world decision making.",
+          "mastery_check": "Can the child express probability as a fraction, make predictions, and compare theoretical and experimental probability?"
+        }
       ]
     },
     "parent_notes": "This lesson beautifully connects two major math topics: fractions and probability. If your child has been comfortable with fractions, probability fractions should feel natural. The key concept is that theoretical probability (what should happen mathematically) and experimental probability (what actually happened) may differ in small samples but converge in large samples. This is why casinos always win in the long run! Keep the fraction work simple — focus on unit fractions and simple equivalents.",
@@ -484,17 +1269,64 @@
     "instructions": "1. Define endangered (at risk of extinction) and extinct (no longer exists).\n2. Show examples: dodo (extinct), giant panda (endangered), bald eagle (recovered!).\n3. Discuss causes: habitat destruction, pollution, overhunting, invasive species, climate change.\n4. Introduce conservation: national parks, wildlife refuges, breeding programs, laws.\n5. Research one endangered species and create a profile.\n6. Discuss what individuals can do to help.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Pictures of endangered and extinct species", "World map", "Endangered species fact cards", "Notebook", "Colored pencils", "Reference books or approved websites"],
+    "materials_needed": [
+      "Pictures of endangered and extinct species",
+      "World map",
+      "Endangered species fact cards",
+      "Notebook",
+      "Colored pencils",
+      "Reference books or approved websites"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Endangered Species", "subheading": "Why Species Disappear"},
-        {"type": "materials", "items": ["Pictures of endangered and extinct species", "World map", "Endangered species fact cards", "Notebook", "Colored pencils", "Reference materials"], "setup_instructions": "Prepare fact cards for 8-10 species with their status, habitat, and threats. Print pictures. Have a world map ready to mark where endangered species live."},
-        {"type": "instruction", "step": 1, "text": "Define key terms: 'ENDANGERED means a species is in danger of becoming extinct — disappearing forever. EXTINCT means the species no longer exists anywhere on Earth. The dodo bird, the passenger pigeon, and the woolly mammoth are all extinct. We can never get them back.'"},
-        {"type": "instruction", "step": 2, "text": "Show the success story: 'The bald eagle was endangered in the 1960s — only about 400 pairs left in the lower United States. People banned the pesticide DDT, protected eagle habitats, and now there are over 300,000 bald eagles! This shows that conservation WORKS.'"},
-        {"type": "instruction", "step": 3, "text": "Discuss the five main threats: 1) HABITAT LOSS: forests cut down, wetlands drained. 2) POLLUTION: chemicals in water and air. 3) OVERHUNTING: killing too many animals. 4) INVASIVE SPECIES: new species outcompete native ones. 5) CLIMATE CHANGE: temperatures and weather patterns shift faster than species can adapt."},
-        {"type": "instruction", "step": 4, "text": "Introduce conservation solutions: national parks and refuges (protected land), laws like the Endangered Species Act, captive breeding programs (like for California condors), community education, and individual actions (reduce, reuse, recycle, protect habitats)."},
-        {"type": "activity", "prompt": "Choose one endangered species to research. Create an 'Endangered Species Profile': draw the animal, write its name and habitat, explain why it's endangered (which threats?), describe what's being done to help, and suggest one thing people could do. Mark its habitat on the world map.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Share your species profiles. 'Every species plays a role in its ecosystem. When one disappears, it affects everything connected to it. What's one thing YOU could do this week to help protect wildlife or habitats?'", "mastery_check": "Can the child explain why species become endangered, name the main threats, and describe conservation strategies?"}
+        {
+          "type": "title",
+          "heading": "Endangered Species",
+          "subheading": "Why Species Disappear",
+          "image_url": "https://images.pexels.com/photos/8471892/pexels-photo-8471892.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Pictures of endangered and extinct species",
+            "World map",
+            "Endangered species fact cards",
+            "Notebook",
+            "Colored pencils",
+            "Reference materials"
+          ],
+          "setup_instructions": "Prepare fact cards for 8-10 species with their status, habitat, and threats. Print pictures. Have a world map ready to mark where endangered species live."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Define key terms: 'ENDANGERED means a species is in danger of becoming extinct — disappearing forever. EXTINCT means the species no longer exists anywhere on Earth. The dodo bird, the passenger pigeon, and the woolly mammoth are all extinct. We can never get them back.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the success story: 'The bald eagle was endangered in the 1960s — only about 400 pairs left in the lower United States. People banned the pesticide DDT, protected eagle habitats, and now there are over 300,000 bald eagles! This shows that conservation WORKS.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Discuss the five main threats: 1) HABITAT LOSS: forests cut down, wetlands drained. 2) POLLUTION: chemicals in water and air. 3) OVERHUNTING: killing too many animals. 4) INVASIVE SPECIES: new species outcompete native ones. 5) CLIMATE CHANGE: temperatures and weather patterns shift faster than species can adapt."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Introduce conservation solutions: national parks and refuges (protected land), laws like the Endangered Species Act, captive breeding programs (like for California condors), community education, and individual actions (reduce, reuse, recycle, protect habitats)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose one endangered species to research. Create an 'Endangered Species Profile': draw the animal, write its name and habitat, explain why it's endangered (which threats?), describe what's being done to help, and suggest one thing people could do. Mark its habitat on the world map.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Share your species profiles. 'Every species plays a role in its ecosystem. When one disappears, it affects everything connected to it. What's one thing YOU could do this week to help protect wildlife or habitats?'",
+          "mastery_check": "Can the child explain why species become endangered, name the main threats, and describe conservation strategies?"
+        }
       ]
     },
     "parent_notes": "This can be an emotional topic for sensitive children. Balance the bad news (extinctions, habitat loss) with hope (bald eagle recovery, conservation success stories). The key message is that human actions caused most endangerment, and human actions can also fix it. Empower the child by brainstorming concrete actions: planting native plants, reducing plastic use, supporting wildlife organizations. If your child becomes passionate, consider 'adopting' an endangered animal through a conservation organization. This connects beautifully to the symbiosis lesson — species depend on each other.",
@@ -512,17 +1344,66 @@
     "instructions": "1. Review volume = length x width x height from last week.\n2. Introduce standard units: cubic centimeters (cm³) and cubic inches (in³).\n3. Show a 1 cm cube — 'This is exactly 1 cubic centimeter.'\n4. Measure real boxes with rulers and calculate volume.\n5. Estimate, then measure and calculate.\n6. Introduce the relationship between cm³ and mL (1 cm³ = 1 mL).",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["1 cm cubes (centimeter cubes)", "Ruler (with cm and inches)", "Small boxes of various sizes", "Pencil", "Notebook", "Calculator (for checking)", "Measuring cup"],
+    "materials_needed": [
+      "1 cm cubes (centimeter cubes)",
+      "Ruler (with cm and inches)",
+      "Small boxes of various sizes",
+      "Pencil",
+      "Notebook",
+      "Calculator (for checking)",
+      "Measuring cup"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Volume", "subheading": "Measuring with Standard Units"},
-        {"type": "materials", "items": ["1 cm cubes", "Ruler with cm and inches", "Small boxes (tissue, jewelry, cereal)", "Pencil", "Notebook", "Calculator", "Measuring cup"], "setup_instructions": "Gather 3-5 small rectangular boxes. Have 1 cm cubes available. Set up a measurement station with rulers and the boxes."},
-        {"type": "instruction", "step": 1, "text": "Review: 'Last time we measured volume by counting cubes. But in the real world, we need standard units so everyone measures the same way. Just like we use centimeters for length and square centimeters for area, we use CUBIC centimeters for volume.'"},
-        {"type": "instruction", "step": 2, "text": "Show a centimeter cube. 'This tiny cube is 1 cm long, 1 cm wide, and 1 cm tall. Its volume is 1 cm x 1 cm x 1 cm = 1 cubic centimeter, written as 1 cm³. The little 3 means we're measuring in 3 dimensions!'"},
-        {"type": "instruction", "step": 3, "text": "Measure a real box. 'Let's find the volume of this box. Measure the length: 12 cm. Width: 8 cm. Height: 5 cm. Volume = 12 x 8 x 5 = 480 cm³. That means 480 tiny cubes would fit inside this box!'"},
-        {"type": "instruction", "step": 4, "text": "Fun fact: '1 cubic centimeter holds exactly 1 milliliter of water. So if this box could hold water, it would hold 480 mL — about 2 cups!' Show with a measuring cup. 'Volume connects measurement, multiplication, and the real world.'"},
-        {"type": "activity", "prompt": "Measure 4 different boxes. For each: 1) Estimate the volume first (guess!). 2) Measure length, width, and height in centimeters. 3) Calculate volume (L x W x H). 4) Record in a table. How close were your estimates? Which box has the greatest volume? The least?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Compare your estimates to actual measurements. 'Estimation gets better with practice. Now you can look at any rectangular box and estimate its volume! Volume is everywhere: shipping boxes, swimming pools, fish tanks, storage containers.'", "mastery_check": "Can the child measure real boxes and calculate volume in cubic centimeters using the L x W x H formula?"}
+        {
+          "type": "title",
+          "heading": "Volume",
+          "subheading": "Measuring with Standard Units",
+          "image_url": "https://images.pexels.com/photos/6238050/pexels-photo-6238050.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "1 cm cubes",
+            "Ruler with cm and inches",
+            "Small boxes (tissue, jewelry, cereal)",
+            "Pencil",
+            "Notebook",
+            "Calculator",
+            "Measuring cup"
+          ],
+          "setup_instructions": "Gather 3-5 small rectangular boxes. Have 1 cm cubes available. Set up a measurement station with rulers and the boxes."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'Last time we measured volume by counting cubes. But in the real world, we need standard units so everyone measures the same way. Just like we use centimeters for length and square centimeters for area, we use CUBIC centimeters for volume.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show a centimeter cube. 'This tiny cube is 1 cm long, 1 cm wide, and 1 cm tall. Its volume is 1 cm x 1 cm x 1 cm = 1 cubic centimeter, written as 1 cm³. The little 3 means we're measuring in 3 dimensions!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Measure a real box. 'Let's find the volume of this box. Measure the length: 12 cm. Width: 8 cm. Height: 5 cm. Volume = 12 x 8 x 5 = 480 cm³. That means 480 tiny cubes would fit inside this box!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Fun fact: '1 cubic centimeter holds exactly 1 milliliter of water. So if this box could hold water, it would hold 480 mL — about 2 cups!' Show with a measuring cup. 'Volume connects measurement, multiplication, and the real world.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Measure 4 different boxes. For each: 1) Estimate the volume first (guess!). 2) Measure length, width, and height in centimeters. 3) Calculate volume (L x W x H). 4) Record in a table. How close were your estimates? Which box has the greatest volume? The least?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Compare your estimates to actual measurements. 'Estimation gets better with practice. Now you can look at any rectangular box and estimate its volume! Volume is everywhere: shipping boxes, swimming pools, fish tanks, storage containers.'",
+          "mastery_check": "Can the child measure real boxes and calculate volume in cubic centimeters using the L x W x H formula?"
+        }
       ]
     },
     "parent_notes": "The transition from counting cubes to using the formula with real measurements is important — it moves from concrete to abstract. Having the child estimate before measuring builds number sense. The cm³ to mL connection is fascinating and practical: a 1-liter milk carton has a volume of 1,000 cm³ (10 x 10 x 10). If you have centimeter cubes, fill one of the boxes with them to verify the calculation. Inches and cubic inches can be introduced too, but stick to metric for consistency with international science standards.",
@@ -540,17 +1421,64 @@
     "instructions": "1. Introduce 'Yankee Doodle': originally a British song mocking the colonists.\n2. Explain the lyrics: what does 'macaroni' mean in context? (Fashionable, not pasta!)\n3. Discuss how the Americans embraced the song as their own — a form of cultural reclaiming.\n4. Listen to 'Yankee Doodle' and other Revolution-era songs.\n5. Discuss how music united and motivated people during the Revolution.\n6. Write an original verse.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Lyrics to 'Yankee Doodle'", "Audio recording", "Lyrics to other Revolution-era songs", "Notebook", "Pencil", "Simple instruments (optional)"],
+    "materials_needed": [
+      "Lyrics to 'Yankee Doodle'",
+      "Audio recording",
+      "Lyrics to other Revolution-era songs",
+      "Notebook",
+      "Pencil",
+      "Simple instruments (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Revolutionary Music", "subheading": "Yankee Doodle and Songs of Freedom"},
-        {"type": "materials", "items": ["Lyrics to 'Yankee Doodle'", "Audio recording", "Revolution-era song lyrics", "Notebook", "Pencil", "Simple instruments (optional)"], "setup_instructions": "Print lyrics to 'Yankee Doodle' (multiple verses). Have an audio recording ready. Print lyrics to 1-2 other Revolution-era songs. Gather any available instruments."},
-        {"type": "instruction", "step": 1, "text": "Tell the backstory: 'Before the Revolution, British soldiers made up a song to mock the colonial troops. They called them \"Yankee Doodles\" — meaning they were foolish country bumpkins who thought sticking a feather in their cap made them fancy (\"macaroni\" meant fashionable in 1770s slang).'"},
-        {"type": "instruction", "step": 2, "text": "Read the lyrics together. Explain the old-fashioned words. 'But here's the amazing part: the Americans LOVED the song! They took it as their own and sang it proudly. They added new verses celebrating their victories. A song meant to insult them became their battle anthem!'"},
-        {"type": "instruction", "step": 3, "text": "Discuss the power of music in war and movements: 'Soldiers sang while marching. Songs boosted morale — they made people feel brave and united. Music spread messages to people who couldn't read. Even today, protest movements have songs.'"},
-        {"type": "instruction", "step": 4, "text": "Listen to 'Yankee Doodle' and sing along. Notice the rhythm: it's catchy and easy to march to. Compare with last week's work songs — both use simple, repetitive melodies that everyone can learn quickly."},
-        {"type": "activity", "prompt": "Write a new verse for 'Yankee Doodle' that tells part of the American Revolution story. Use the same rhythm and rhyme pattern. For example, your verse could describe the Boston Tea Party, a famous figure, or the Declaration of Independence. Sing your verse to the tune!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Perform your new verse! 'Music has the power to unite people, spread ideas, and make people feel brave. From work songs in factories to battle songs in the Revolution, music tells the story of the people who lived through these events.'", "mastery_check": "Can the child explain the history of 'Yankee Doodle,' discuss how music functioned during the Revolution, and create an original verse?"}
+        {
+          "type": "title",
+          "heading": "Revolutionary Music",
+          "subheading": "Yankee Doodle and Songs of Freedom",
+          "image_url": "https://images.pexels.com/photos/164743/pexels-photo-164743.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Lyrics to 'Yankee Doodle'",
+            "Audio recording",
+            "Revolution-era song lyrics",
+            "Notebook",
+            "Pencil",
+            "Simple instruments (optional)"
+          ],
+          "setup_instructions": "Print lyrics to 'Yankee Doodle' (multiple verses). Have an audio recording ready. Print lyrics to 1-2 other Revolution-era songs. Gather any available instruments."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Tell the backstory: 'Before the Revolution, British soldiers made up a song to mock the colonial troops. They called them \"Yankee Doodles\" — meaning they were foolish country bumpkins who thought sticking a feather in their cap made them fancy (\"macaroni\" meant fashionable in 1770s slang).'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the lyrics together. Explain the old-fashioned words. 'But here's the amazing part: the Americans LOVED the song! They took it as their own and sang it proudly. They added new verses celebrating their victories. A song meant to insult them became their battle anthem!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Discuss the power of music in war and movements: 'Soldiers sang while marching. Songs boosted morale — they made people feel brave and united. Music spread messages to people who couldn't read. Even today, protest movements have songs.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Listen to 'Yankee Doodle' and sing along. Notice the rhythm: it's catchy and easy to march to. Compare with last week's work songs — both use simple, repetitive melodies that everyone can learn quickly."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write a new verse for 'Yankee Doodle' that tells part of the American Revolution story. Use the same rhythm and rhyme pattern. For example, your verse could describe the Boston Tea Party, a famous figure, or the Declaration of Independence. Sing your verse to the tune!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Perform your new verse! 'Music has the power to unite people, spread ideas, and make people feel brave. From work songs in factories to battle songs in the Revolution, music tells the story of the people who lived through these events.'",
+          "mastery_check": "Can the child explain the history of 'Yankee Doodle,' discuss how music functioned during the Revolution, and create an original verse?"
+        }
       ]
     },
     "parent_notes": "The 'Yankee Doodle' backstory is a wonderful example of cultural reclaiming — taking something meant as an insult and wearing it with pride. Children love learning that 'macaroni' had nothing to do with pasta! The verse-writing activity combines creative writing, history, and music. Don't worry about the verse being perfect — the goal is to engage with the rhythm and rhyme pattern while thinking about historical content. If your child plays an instrument, accompanying the song adds another dimension.",
@@ -568,17 +1496,64 @@
     "instructions": "1. Re-read the essay from Thursday with fresh eyes.\n2. Revision checklist: Is the thesis clear? Are arguments supported with evidence? Is the counterargument addressed? Is the call to action compelling?\n3. Edit for spelling, grammar, punctuation, and paragraph structure.\n4. Write a clean final draft.\n5. Practice delivering the essay as a speech.\n6. Deliver the persuasive speech to family members.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Thursday's essay draft", "Revision checklist", "Editing checklist", "Clean lined paper", "Pencil and eraser", "Red pen for editing marks"],
+    "materials_needed": [
+      "Thursday's essay draft",
+      "Revision checklist",
+      "Editing checklist",
+      "Clean lined paper",
+      "Pencil and eraser",
+      "Red pen for editing marks"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Persuasive Writing", "subheading": "Revision, Editing, and Call to Action"},
-        {"type": "materials", "items": ["Thursday's essay draft", "Revision checklist", "Editing checklist", "Clean lined paper", "Pencil and eraser", "Red pen"], "setup_instructions": "Prepare a revision checklist (content-focused) and an editing checklist (mechanics-focused). Have clean paper ready for the final draft."},
-        {"type": "instruction", "step": 1, "text": "Explain the difference: 'REVISION is about making your IDEAS better: adding detail, reorganizing, strengthening arguments. EDITING is about making your WRITING correct: spelling, grammar, punctuation. Always revise first, then edit.'"},
-        {"type": "instruction", "step": 2, "text": "Revision checklist: Read each item and check your essay. 'Does my introduction grab attention? Is my thesis clear? Does each body paragraph have a reason AND evidence? Did I address a counterargument? Does my conclusion have a strong call to action? Do I use transition words?'"},
-        {"type": "instruction", "step": 3, "text": "Editing checklist: 'Are all sentences complete (subject + verb)? Are proper nouns capitalized? Do sentences end with correct punctuation? Are words spelled correctly? Are quotation marks used correctly? Are paragraphs indented?'"},
-        {"type": "instruction", "step": 4, "text": "Prepare for oral delivery: 'A persuasive essay can also be a persuasive SPEECH. When you speak: make eye contact, speak clearly and slowly, emphasize key words, use hand gestures, and end strongly with your call to action.'"},
-        {"type": "activity", "prompt": "Write your final draft incorporating all revisions and edits. Then practice reading it aloud 2-3 times. Circle the words you want to emphasize. Add notes for where to pause. Finally, deliver your speech to your family. Ask: Were you convinced?", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Celebrate! You've learned to build an argument from the ground up: claim, reasons, evidence, counterargument, rebuttal, and call to action. This is one of the most powerful skills in all of language arts. Save your essay in your portfolio!", "mastery_check": "Can the child revise and edit their essay effectively and deliver it as a persuasive speech with confidence?"}
+        {
+          "type": "title",
+          "heading": "Persuasive Writing",
+          "subheading": "Revision, Editing, and Call to Action",
+          "image_url": "https://images.pexels.com/photos/3876339/pexels-photo-3876339.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Thursday's essay draft",
+            "Revision checklist",
+            "Editing checklist",
+            "Clean lined paper",
+            "Pencil and eraser",
+            "Red pen"
+          ],
+          "setup_instructions": "Prepare a revision checklist (content-focused) and an editing checklist (mechanics-focused). Have clean paper ready for the final draft."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Explain the difference: 'REVISION is about making your IDEAS better: adding detail, reorganizing, strengthening arguments. EDITING is about making your WRITING correct: spelling, grammar, punctuation. Always revise first, then edit.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Revision checklist: Read each item and check your essay. 'Does my introduction grab attention? Is my thesis clear? Does each body paragraph have a reason AND evidence? Did I address a counterargument? Does my conclusion have a strong call to action? Do I use transition words?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Editing checklist: 'Are all sentences complete (subject + verb)? Are proper nouns capitalized? Do sentences end with correct punctuation? Are words spelled correctly? Are quotation marks used correctly? Are paragraphs indented?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Prepare for oral delivery: 'A persuasive essay can also be a persuasive SPEECH. When you speak: make eye contact, speak clearly and slowly, emphasize key words, use hand gestures, and end strongly with your call to action.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your final draft incorporating all revisions and edits. Then practice reading it aloud 2-3 times. Circle the words you want to emphasize. Add notes for where to pause. Finally, deliver your speech to your family. Ask: Were you convinced?",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Celebrate! You've learned to build an argument from the ground up: claim, reasons, evidence, counterargument, rebuttal, and call to action. This is one of the most powerful skills in all of language arts. Save your essay in your portfolio!",
+          "mastery_check": "Can the child revise and edit their essay effectively and deliver it as a persuasive speech with confidence?"
+        }
       ]
     },
     "parent_notes": "The revision process is where real writing happens. If the child resists revision ('But I already wrote it!'), explain that all professional writers revise — it's not about fixing mistakes but about making good writing great. The speech delivery adds a public-speaking component that builds confidence. Be a supportive audience: react positively, ask follow-up questions, and give specific praise ('Your counterargument was really smart' rather than generic 'Good job'). Consider sending the essay to the person who can act on it — a letter to a grandparent, teacher, or local official makes it real.",
@@ -596,17 +1571,66 @@
     "instructions": "1. Review all concepts: mean, median, mode, probability as fractions.\n2. Present a real-world scenario: a school store selling items.\n3. Calculate mean, median, and mode for sales data.\n4. Use probability to predict future sales.\n5. Create a comprehensive data display (graph + statistics + predictions).\n6. Present findings as a 'data report.'",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Data scenario printout", "Graph paper", "Ruler", "Colored pencils", "Calculator", "Pencil", "Notebook"],
+    "materials_needed": [
+      "Data scenario printout",
+      "Graph paper",
+      "Ruler",
+      "Colored pencils",
+      "Calculator",
+      "Pencil",
+      "Notebook"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Data and Probability", "subheading": "Review and Real-World Application"},
-        {"type": "materials", "items": ["Data scenario printout", "Graph paper", "Ruler", "Colored pencils", "Calculator", "Pencil", "Notebook"], "setup_instructions": "Create a data scenario with a table: 'School Store Sales This Week' showing items sold each day. Include enough data for meaningful calculations. Make it engaging with items kids would buy."},
-        {"type": "instruction", "step": 1, "text": "Review quickly: 'MEAN = add all values and divide by the count. MEDIAN = middle value when sorted. MODE = most frequent value. PROBABILITY = favorable outcomes over total outcomes, expressed as a fraction.'"},
-        {"type": "instruction", "step": 2, "text": "Present the scenario: 'You're the manager of the school store. Here are your sales for the past 2 weeks. The principal wants a report: How are sales going? What should you order more of? What will probably happen next week?'"},
-        {"type": "instruction", "step": 3, "text": "Work through the data together. 'Let's find the mean daily sales (total items ÷ 10 days). The median tells us a typical day. The mode tells us the most common sales amount. A graph will show the trend: are sales going up, down, or staying steady?'"},
-        {"type": "instruction", "step": 4, "text": "Use probability for predictions: 'If 7 out of 10 days had sales above 15 items, what's the probability that tomorrow will too? 7/10. If pencils were 40% of sales, how many pencils should you order for next week?'"},
-        {"type": "activity", "prompt": "Create a complete data report. Include: 1) A bar graph or line graph of sales data. 2) Calculated mean, median, and mode. 3) At least 2 probability predictions for next week. 4) A written recommendation: 'Based on the data, the school store should...' Present your report as if you're presenting to the principal.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Present your data reports. 'You've just done what businesses, scientists, and governments do every day — use data to understand the present and predict the future. Data literacy is one of the most important skills in the modern world!'", "mastery_check": "Can the child apply mean, median, mode, and probability concepts to analyze a real-world data set and make data-driven recommendations?"}
+        {
+          "type": "title",
+          "heading": "Data and Probability",
+          "subheading": "Review and Real-World Application",
+          "image_url": "https://images.pexels.com/photos/3693101/pexels-photo-3693101.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Data scenario printout",
+            "Graph paper",
+            "Ruler",
+            "Colored pencils",
+            "Calculator",
+            "Pencil",
+            "Notebook"
+          ],
+          "setup_instructions": "Create a data scenario with a table: 'School Store Sales This Week' showing items sold each day. Include enough data for meaningful calculations. Make it engaging with items kids would buy."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review quickly: 'MEAN = add all values and divide by the count. MEDIAN = middle value when sorted. MODE = most frequent value. PROBABILITY = favorable outcomes over total outcomes, expressed as a fraction.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Present the scenario: 'You're the manager of the school store. Here are your sales for the past 2 weeks. The principal wants a report: How are sales going? What should you order more of? What will probably happen next week?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Work through the data together. 'Let's find the mean daily sales (total items ÷ 10 days). The median tells us a typical day. The mode tells us the most common sales amount. A graph will show the trend: are sales going up, down, or staying steady?'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Use probability for predictions: 'If 7 out of 10 days had sales above 15 items, what's the probability that tomorrow will too? 7/10. If pencils were 40% of sales, how many pencils should you order for next week?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a complete data report. Include: 1) A bar graph or line graph of sales data. 2) Calculated mean, median, and mode. 3) At least 2 probability predictions for next week. 4) A written recommendation: 'Based on the data, the school store should...' Present your report as if you're presenting to the principal.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Present your data reports. 'You've just done what businesses, scientists, and governments do every day — use data to understand the present and predict the future. Data literacy is one of the most important skills in the modern world!'",
+          "mastery_check": "Can the child apply mean, median, mode, and probability concepts to analyze a real-world data set and make data-driven recommendations?"
+        }
       ]
     },
     "parent_notes": "This culminating lesson shows that data skills have real-world applications. The school store scenario is engaging, but you could substitute any scenario your child cares about: sports statistics, weather patterns, pet behavior tracking. The key is applying ALL the skills together — not in isolation but as a toolkit for understanding information. If your child enjoyed this, encourage them to collect and analyze their own data: track something for a week, create a graph, find the mean/median/mode, and make predictions.",
@@ -624,17 +1648,64 @@
     "instructions": "1. Review the conflict: colonists vs. Britain.\n2. Present key battles chronologically: Lexington/Concord (1775), Bunker Hill (1775), Trenton (1776), Saratoga (1777), Yorktown (1781).\n3. Locate each battle on the map.\n4. Discuss how geography affected each battle: rivers for crossing, hills for defense, harbors for supplies.\n5. Trace the war's geographic progression.\n6. Create a battle map with dates, locations, and outcomes.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Blank map of eastern United States", "Battle reference cards with dates and outcomes", "Colored pencils", "Star stickers or markers for battle sites", "Timeline", "Atlas"],
+    "materials_needed": [
+      "Blank map of eastern United States",
+      "Battle reference cards with dates and outcomes",
+      "Colored pencils",
+      "Star stickers or markers for battle sites",
+      "Timeline",
+      "Atlas"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Key Battle Sites", "subheading": "American Revolution"},
-        {"type": "materials", "items": ["Blank map of eastern United States", "Battle reference cards", "Colored pencils", "Star stickers or markers", "Timeline", "Atlas"], "setup_instructions": "Print a blank map of the eastern US with state borders. Prepare cards for each major battle with: name, date, location, outcome, and significance. Have colored star stickers (blue for American victories, red for British)."},
-        {"type": "instruction", "step": 1, "text": "Set the stage: 'The American Revolution lasted 8 years, from 1775 to 1783. Battles were fought from Massachusetts to South Carolina. Let's trace the war across the map and see how geography played a role in every battle.'"},
-        {"type": "instruction", "step": 2, "text": "Start with Lexington and Concord (April 1775). 'The \"Shot Heard Round the World.\" British soldiers marched from Boston to seize colonial weapons. Colonial minutemen fought back. The war had begun!' Place a star in Massachusetts."},
-        {"type": "instruction", "step": 3, "text": "Continue chronologically: Bunker Hill (Boston, 1775) — colonists fought from a hilltop, showing they could stand against the British army. Trenton (New Jersey, 1776) — Washington crossed the icy Delaware River on Christmas night to surprise the enemy. Saratoga (New York, 1777) — the turning point, convincing France to help America."},
-        {"type": "instruction", "step": 4, "text": "End with Yorktown (Virginia, 1781): 'Washington trapped the British against the Chesapeake Bay. The French navy blocked the harbor. The British had nowhere to go — they surrendered! Geography won the war: the bay, the river, and the French fleet.'"},
-        {"type": "activity", "prompt": "Complete your battle map: mark all major battles with stars (blue for American victories, red for British). Add the date and name of each battle. Draw arrows showing the progression of the war. Include a map key. On the back, write: Which battle do you think was most important? Why?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Look at your completed battle map. 'The war started in the north and ended in the south. Geography mattered at every turn — rivers to cross, hills to defend, harbors to block. The American Revolution created a new nation. Next week we'll review everything we've learned in Q3!'", "mastery_check": "Can the child locate major Revolution battles on a map, explain their significance, and describe how geography influenced military strategy?"}
+        {
+          "type": "title",
+          "heading": "Key Battle Sites",
+          "subheading": "American Revolution",
+          "image_url": "https://images.pexels.com/photos/4468974/pexels-photo-4468974.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank map of eastern United States",
+            "Battle reference cards",
+            "Colored pencils",
+            "Star stickers or markers",
+            "Timeline",
+            "Atlas"
+          ],
+          "setup_instructions": "Print a blank map of the eastern US with state borders. Prepare cards for each major battle with: name, date, location, outcome, and significance. Have colored star stickers (blue for American victories, red for British)."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the stage: 'The American Revolution lasted 8 years, from 1775 to 1783. Battles were fought from Massachusetts to South Carolina. Let's trace the war across the map and see how geography played a role in every battle.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Start with Lexington and Concord (April 1775). 'The \"Shot Heard Round the World.\" British soldiers marched from Boston to seize colonial weapons. Colonial minutemen fought back. The war had begun!' Place a star in Massachusetts."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Continue chronologically: Bunker Hill (Boston, 1775) — colonists fought from a hilltop, showing they could stand against the British army. Trenton (New Jersey, 1776) — Washington crossed the icy Delaware River on Christmas night to surprise the enemy. Saratoga (New York, 1777) — the turning point, convincing France to help America."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "End with Yorktown (Virginia, 1781): 'Washington trapped the British against the Chesapeake Bay. The French navy blocked the harbor. The British had nowhere to go — they surrendered! Geography won the war: the bay, the river, and the French fleet.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete your battle map: mark all major battles with stars (blue for American victories, red for British). Add the date and name of each battle. Draw arrows showing the progression of the war. Include a map key. On the back, write: Which battle do you think was most important? Why?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Look at your completed battle map. 'The war started in the north and ended in the south. Geography mattered at every turn — rivers to cross, hills to defend, harbors to block. The American Revolution created a new nation. Next week we'll review everything we've learned in Q3!'",
+          "mastery_check": "Can the child locate major Revolution battles on a map, explain their significance, and describe how geography influenced military strategy?"
+        }
       ]
     },
     "parent_notes": "Battle mapping is an engaging way to combine history and geography. Color-coding victories by side helps children see the back-and-forth nature of the war — it wasn't a straightforward American march to victory. The geographic analysis is key: Washington's crossing of the Delaware only works if you understand rivers in winter; Yorktown only works if you understand the Chesapeake Bay. If your child enjoys this, many communities have Revolution-era historical sites that make wonderful field trips. Battlefields are particularly powerful — standing where history happened transforms understanding.",
@@ -652,17 +1723,64 @@
     "instructions": "1. Set the context: by 1776, the colonists had decided to break from Britain.\n2. Introduce Thomas Jefferson and the Continental Congress.\n3. Read adapted excerpts of the Declaration, especially: 'We hold these truths to be self-evident...'\n4. Discuss key ideas: equality, life, liberty, pursuit of happiness, consent of the governed.\n5. Discuss: Were these ideals applied equally to everyone? (Address enslaved people, women, Native Americans.)\n6. Create an illustrated version of the key phrases.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Adapted text of the Declaration of Independence", "Pictures of Thomas Jefferson and the signing", "Large paper for illustrated version", "Colored pencils and markers", "Notebook", "Pencil"],
+    "materials_needed": [
+      "Adapted text of the Declaration of Independence",
+      "Pictures of Thomas Jefferson and the signing",
+      "Large paper for illustrated version",
+      "Colored pencils and markers",
+      "Notebook",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Declaration of Independence", "subheading": "Ideas That Changed the World"},
-        {"type": "materials", "items": ["Adapted Declaration text", "Pictures of Jefferson and the signing", "Large paper", "Colored pencils and markers", "Notebook", "Pencil"], "setup_instructions": "Prepare an age-appropriate adaptation of the Declaration's key passages. Print images of Thomas Jefferson, the Continental Congress, and the signing scene. Have large paper ready for the illustrated version."},
-        {"type": "instruction", "step": 1, "text": "Set the scene: 'In the summer of 1776, representatives from all 13 colonies gathered in Philadelphia. They made the bravest — and most dangerous — decision of their lives: to declare independence from the most powerful country in the world. Thomas Jefferson, just 33 years old, was chosen to write the document.'"},
-        {"type": "instruction", "step": 2, "text": "Read the key passage slowly: 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.' Translate: 'These obvious truths: everyone is born equal, with rights that can't be taken away — the right to live, to be free, and to seek happiness.'"},
-        {"type": "instruction", "step": 3, "text": "Discuss each idea: 'ALL people are CREATED EQUAL — no one is born better than anyone else. UNALIENABLE RIGHTS — rights that no government can take away. CONSENT OF THE GOVERNED — government only works if the people agree to it. These ideas were RADICAL in 1776!'"},
-        {"type": "instruction", "step": 4, "text": "Address the contradiction honestly: 'These words said \"all men are created equal,\" but at the time, enslaved people were not free, women couldn't vote, and Native Americans were being pushed off their land. The ideals were powerful, but they weren't applied to everyone. The struggle to make these words true for ALL people continues to this day.'"},
-        {"type": "activity", "prompt": "Create an illustrated version of the Declaration's key phrases. For each big idea (equality, life, liberty, pursuit of happiness), draw a picture that represents what it means to YOU. Write the phrase above each illustration. Add your own 'declaration' — what rights do you think every child should have?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Display your illustrated Declaration. 'These words changed the world. They inspired the French Revolution, anti-slavery movements, women's suffrage, and civil rights movements around the globe. Words have power — especially when they express ideas about fairness and freedom.'", "mastery_check": "Can the child explain the key ideas of the Declaration of Independence and discuss both its ideals and its limitations?"}
+        {
+          "type": "title",
+          "heading": "The Declaration of Independence",
+          "subheading": "Ideas That Changed the World",
+          "image_url": "https://images.pexels.com/photos/12737917/pexels-photo-12737917.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Adapted Declaration text",
+            "Pictures of Jefferson and the signing",
+            "Large paper",
+            "Colored pencils and markers",
+            "Notebook",
+            "Pencil"
+          ],
+          "setup_instructions": "Prepare an age-appropriate adaptation of the Declaration's key passages. Print images of Thomas Jefferson, the Continental Congress, and the signing scene. Have large paper ready for the illustrated version."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Set the scene: 'In the summer of 1776, representatives from all 13 colonies gathered in Philadelphia. They made the bravest — and most dangerous — decision of their lives: to declare independence from the most powerful country in the world. Thomas Jefferson, just 33 years old, was chosen to write the document.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the key passage slowly: 'We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.' Translate: 'These obvious truths: everyone is born equal, with rights that can't be taken away — the right to live, to be free, and to seek happiness.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Discuss each idea: 'ALL people are CREATED EQUAL — no one is born better than anyone else. UNALIENABLE RIGHTS — rights that no government can take away. CONSENT OF THE GOVERNED — government only works if the people agree to it. These ideas were RADICAL in 1776!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Address the contradiction honestly: 'These words said \"all men are created equal,\" but at the time, enslaved people were not free, women couldn't vote, and Native Americans were being pushed off their land. The ideals were powerful, but they weren't applied to everyone. The struggle to make these words true for ALL people continues to this day.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create an illustrated version of the Declaration's key phrases. For each big idea (equality, life, liberty, pursuit of happiness), draw a picture that represents what it means to YOU. Write the phrase above each illustration. Add your own 'declaration' — what rights do you think every child should have?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Display your illustrated Declaration. 'These words changed the world. They inspired the French Revolution, anti-slavery movements, women's suffrage, and civil rights movements around the globe. Words have power — especially when they express ideas about fairness and freedom.'",
+          "mastery_check": "Can the child explain the key ideas of the Declaration of Independence and discuss both its ideals and its limitations?"
+        }
       ]
     },
     "parent_notes": "The Declaration is one of the most important documents in history. The adapted text makes it accessible while preserving the power of the original language. It's important to address the contradiction between 'all men are created equal' and the reality of slavery, women's exclusion, and Native American displacement. This teaches critical thinking, not cynicism — the ideals are worth aspiring to even when they haven't been fully realized. The 'children's rights' extension personalizes abstract concepts. This lesson connects to the persuasive writing unit: the Declaration IS a persuasive essay!",
@@ -680,16 +1798,57 @@
     "instructions": "1. Introduce Paul Revere and the midnight ride (April 18, 1775).\n2. Read the book aloud, enjoying Fritz's humorous style.\n3. Discuss: How is the real story different from the legend?\n4. Compare what we think happened to what really happened.\n5. Discuss how stories change over time and why accuracy matters.\n6. Journal entry about fact vs. legend.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["And Then What Happened, Paul Revere? by Jean Fritz", "Map showing Revere's ride route", "Reading journal", "Pencil", "Colored pencils"],
+    "materials_needed": [
+      "And Then What Happened, Paul Revere? by Jean Fritz",
+      "Map showing Revere's ride route",
+      "Reading journal",
+      "Pencil",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "And Then What Happened, Paul Revere?"},
-        {"type": "materials", "items": ["And Then What Happened, Paul Revere? by Jean Fritz", "Map showing the ride route", "Reading journal", "Pencil", "Colored pencils"], "setup_instructions": "Have the book ready. Print a map showing Paul Revere's actual route from Boston to Lexington. Have the reading journal open."},
-        {"type": "instruction", "step": 1, "text": "Before reading: 'Paul Revere is one of the most famous people in American history. You may have heard that he rode through the night shouting \"The British are coming!\" But the real story is even more interesting — and quite different from the legend. Let's find out what really happened.'"},
-        {"type": "instruction", "step": 2, "text": "Read the book. Jean Fritz reveals that Revere was a silversmith, a dentist, a bell ringer, and a terrible secret keeper! Pause at funny moments. When describing the ride, show the route on the map: Boston to Lexington (not all the way to Concord — he was captured!)."},
-        {"type": "instruction", "step": 3, "text": "After reading, discuss facts vs. legends: 'Revere didn't yell \"The British are coming\" — he whispered warnings because British patrols were everywhere. He wasn't alone — William Dawes and Samuel Prescott also rode. He didn't make it to Concord. But his bravery was absolutely real!'"},
-        {"type": "activity", "prompt": "In your reading journal, create a 'Fact vs. Legend' chart for Paul Revere. Write at least 3 things people commonly believe about the ride and what actually happened. Then write: Why do you think the legend is so different from the facts? Does it matter?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Jean Fritz shows us that real people are more interesting than legends. 'Historians look for evidence to find the truth. Poets and storytellers sometimes change details to make a better story. Both are valuable, but it's important to know which is which.'", "mastery_check": "Can the child distinguish between the legend and historical facts about Paul Revere and explain why this distinction matters?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "And Then What Happened, Paul Revere?",
+          "image_url": "https://images.pexels.com/photos/30611604/pexels-photo-30611604.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "And Then What Happened, Paul Revere? by Jean Fritz",
+            "Map showing the ride route",
+            "Reading journal",
+            "Pencil",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Have the book ready. Print a map showing Paul Revere's actual route from Boston to Lexington. Have the reading journal open."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Before reading: 'Paul Revere is one of the most famous people in American history. You may have heard that he rode through the night shouting \"The British are coming!\" But the real story is even more interesting — and quite different from the legend. Let's find out what really happened.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the book. Jean Fritz reveals that Revere was a silversmith, a dentist, a bell ringer, and a terrible secret keeper! Pause at funny moments. When describing the ride, show the route on the map: Boston to Lexington (not all the way to Concord — he was captured!)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading, discuss facts vs. legends: 'Revere didn't yell \"The British are coming\" — he whispered warnings because British patrols were everywhere. He wasn't alone — William Dawes and Samuel Prescott also rode. He didn't make it to Concord. But his bravery was absolutely real!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal, create a 'Fact vs. Legend' chart for Paul Revere. Write at least 3 things people commonly believe about the ride and what actually happened. Then write: Why do you think the legend is so different from the facts? Does it matter?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Jean Fritz shows us that real people are more interesting than legends. 'Historians look for evidence to find the truth. Poets and storytellers sometimes change details to make a better story. Both are valuable, but it's important to know which is which.'",
+          "mastery_check": "Can the child distinguish between the legend and historical facts about Paul Revere and explain why this distinction matters?"
+        }
       ]
     },
     "parent_notes": "Jean Fritz's biographies are treasures — she makes history personal, funny, and accurate. This book naturally raises important questions about how we know what happened in the past and how stories change over time. The fact vs. legend analysis is a critical thinking skill that applies far beyond history. If you don't have this specific book, the Paul Revere ride story is well-documented online. The key lesson: real history is often more interesting than simplified legends, and historical figures were complex, imperfect people.",

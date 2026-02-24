@@ -10,18 +10,67 @@
     "instructions": "1. Review the research paper rubric together: thesis clarity, evidence quality, organization, transitions, conventions.\n2. Read through the revised draft aloud — listening catches errors the eye misses.\n3. Check each paragraph: Does it have a topic sentence? Does evidence connect to the thesis?\n4. Verify all source citations are present and formatted correctly.\n5. Write the final draft in best handwriting or type it.\n6. Create a title page and bibliography.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Revised research paper draft", "Research paper rubric", "Lined paper or computer", "Colored pens for final edits", "Construction paper for title page"],
+    "materials_needed": [
+      "Revised research paper draft",
+      "Research paper rubric",
+      "Lined paper or computer",
+      "Colored pens for final edits",
+      "Construction paper for title page"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Research Paper", "subheading": "Final Draft Workshop"},
-        {"type": "materials", "items": ["Your revised research paper draft", "Research paper rubric", "Lined paper or computer for final copy", "Colored pens", "Construction paper for title page"], "setup_instructions": "Gather all research materials: notes, outline, revised draft, and rubric. Set up a clean, quiet workspace."},
-        {"type": "instruction", "step": 1, "text": "Read your entire paper aloud slowly. Mark any sentences that sound awkward, unclear, or choppy. Listening to your own words is one of the best editing strategies."},
-        {"type": "instruction", "step": 2, "text": "Check your introduction: Does it hook the reader? Does your thesis statement clearly state your argument? Revise if needed."},
-        {"type": "instruction", "step": 3, "text": "Examine each body paragraph. Underline the topic sentence. Circle the evidence. Draw an arrow from evidence to the thesis — does each piece of evidence actually support your main argument?"},
-        {"type": "instruction", "step": 4, "text": "Check transitions between paragraphs. Use words like 'Furthermore,' 'In contrast,' 'As a result,' and 'Similarly' to connect your ideas smoothly."},
-        {"type": "instruction", "step": 5, "text": "Review your conclusion. It should restate the thesis in new words, summarize key points, and leave the reader with a final thought or question."},
-        {"type": "activity", "prompt": "Write or type your polished final draft. Create a title page with your name, date, and title. Add a bibliography listing all your sources.", "duration_minutes": 30},
-        {"type": "wrap_up", "text": "Congratulations — you have completed a full research paper! This is a significant accomplishment. Read through your final draft one last time with pride.", "mastery_check": "Does the paper have a clear thesis, at least 3 supporting paragraphs with evidence, transitions, and a bibliography?"}
+        {
+          "type": "title",
+          "heading": "Research Paper",
+          "subheading": "Final Draft Workshop",
+          "image_url": "https://images.pexels.com/photos/247819/pexels-photo-247819.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Your revised research paper draft",
+            "Research paper rubric",
+            "Lined paper or computer for final copy",
+            "Colored pens",
+            "Construction paper for title page"
+          ],
+          "setup_instructions": "Gather all research materials: notes, outline, revised draft, and rubric. Set up a clean, quiet workspace."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read your entire paper aloud slowly. Mark any sentences that sound awkward, unclear, or choppy. Listening to your own words is one of the best editing strategies."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Check your introduction: Does it hook the reader? Does your thesis statement clearly state your argument? Revise if needed."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Examine each body paragraph. Underline the topic sentence. Circle the evidence. Draw an arrow from evidence to the thesis — does each piece of evidence actually support your main argument?"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Check transitions between paragraphs. Use words like 'Furthermore,' 'In contrast,' 'As a result,' and 'Similarly' to connect your ideas smoothly."
+        },
+        {
+          "type": "instruction",
+          "step": 5,
+          "text": "Review your conclusion. It should restate the thesis in new words, summarize key points, and leave the reader with a final thought or question."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write or type your polished final draft. Create a title page with your name, date, and title. Add a bibliography listing all your sources.",
+          "duration_minutes": 30
+        },
+        {
+          "type": "wrap_up",
+          "text": "Congratulations — you have completed a full research paper! This is a significant accomplishment. Read through your final draft one last time with pride.",
+          "mastery_check": "Does the paper have a clear thesis, at least 3 supporting paragraphs with evidence, transitions, and a bibliography?"
+        }
       ]
     },
     "parent_notes": "This is a major milestone — completing a multi-week research paper is a significant accomplishment for a 9-12 year old. Celebrate the process, not just the product. If the child typed it, help them format it nicely. If handwritten, consider having them create an illustrated cover. Keep this paper as a portfolio piece. The research paper process (topic → sources → notes → outline → draft → revision → final) is a skill they will use throughout their academic career.",
@@ -39,17 +88,62 @@
     "instructions": "1. Warm-up: Write 10^1 through 10^9 and their values. Notice the pattern.\n2. Review exponent rules: any base — 3^4 = 81, 2^5 = 32. Compute several.\n3. Practice scientific notation: convert 4,500,000 to 4.5 × 10^6 and back.\n4. Real-world problems: distances in space, sizes of cells, population numbers.\n5. Mixed practice worksheet covering all exponent concepts from Q1.\n6. Self-check answers and correct any errors.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Math notebook", "Pencil", "Exponent reference chart", "Place value chart to billions", "Calculator for checking"],
+    "materials_needed": [
+      "Math notebook",
+      "Pencil",
+      "Exponent reference chart",
+      "Place value chart to billions",
+      "Calculator for checking"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Math Review", "subheading": "Exponents and Scientific Notation"},
-        {"type": "materials", "items": ["Math notebook", "Pencil", "Exponent reference chart", "Place value chart", "Calculator for self-checking"], "setup_instructions": "Open notebook to a clean page. Write the date and 'Q1 Review: Exponents' at the top."},
-        {"type": "instruction", "step": 1, "text": "Warm-up: Build a Powers of Ten tower. Write 10^0 = 1, 10^1 = 10, 10^2 = 100, all the way to 10^9 = 1,000,000,000. What pattern do you see with the zeros?"},
-        {"type": "instruction", "step": 2, "text": "Compute these exponents without a calculator: 2^6, 3^4, 5^3, 7^2, 4^4, 8^2, 12^2, 11^3. Show your work by writing out the repeated multiplication."},
-        {"type": "instruction", "step": 3, "text": "Scientific notation review: Write each in scientific notation — 93,000,000 (distance to Sun in miles), 7,900,000,000 (world population), 0.000001 (size of a bacterium in meters)."},
-        {"type": "instruction", "step": 4, "text": "Convert from scientific notation back to standard form: 6.371 × 10^6, 1.989 × 10^30, 3.0 × 10^8."},
-        {"type": "activity", "prompt": "Challenge round: Create 5 real-world scientific notation problems for a family member to solve. Include the answer key. Topics: astronomy, biology, geography, or anything that uses very large or very small numbers.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Check all your work with a calculator. Note any types of problems that were tricky — we will review those areas again.", "mastery_check": "Can the student compute exponents and fluently convert between standard and scientific notation?"}
+        {
+          "type": "title",
+          "heading": "Q1 Math Review",
+          "subheading": "Exponents and Scientific Notation",
+          "image_url": "https://images.pexels.com/photos/6692923/pexels-photo-6692923.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math notebook",
+            "Pencil",
+            "Exponent reference chart",
+            "Place value chart",
+            "Calculator for self-checking"
+          ],
+          "setup_instructions": "Open notebook to a clean page. Write the date and 'Q1 Review: Exponents' at the top."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Warm-up: Build a Powers of Ten tower. Write 10^0 = 1, 10^1 = 10, 10^2 = 100, all the way to 10^9 = 1,000,000,000. What pattern do you see with the zeros?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Compute these exponents without a calculator: 2^6, 3^4, 5^3, 7^2, 4^4, 8^2, 12^2, 11^3. Show your work by writing out the repeated multiplication."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Scientific notation review: Write each in scientific notation — 93,000,000 (distance to Sun in miles), 7,900,000,000 (world population), 0.000001 (size of a bacterium in meters)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Convert from scientific notation back to standard form: 6.371 × 10^6, 1.989 × 10^30, 3.0 × 10^8."
+        },
+        {
+          "type": "activity",
+          "prompt": "Challenge round: Create 5 real-world scientific notation problems for a family member to solve. Include the answer key. Topics: astronomy, biology, geography, or anything that uses very large or very small numbers.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Check all your work with a calculator. Note any types of problems that were tricky — we will review those areas again.",
+          "mastery_check": "Can the student compute exponents and fluently convert between standard and scientific notation?"
+        }
       ]
     },
     "parent_notes": "This review lesson consolidates Q1 exponent work. If your child breezes through, great — confidence is the goal. If they struggle with certain concepts, note those areas and plan extra practice. Scientific notation is a bridge between math and science that will serve them throughout middle and high school. The 'create problems for a family member' activity builds deeper understanding — teaching is the best way to learn.",
@@ -67,17 +161,62 @@
     "instructions": "1. Unroll a long strip of paper (at least 6 feet) for the timeline.\n2. Begin with the Big Bang and mark geological eras: Precambrian, Paleozoic, Mesozoic, Cenozoic.\n3. Add human evolution milestones: early hominids, Homo sapiens, migration out of Africa.\n4. Mark the development of writing and number systems.\n5. Place Mesopotamia and Egypt with key events, rulers, and achievements.\n6. Add illustrations and labels. This is a reference document for Q2.",
     "duration_minutes": 60,
     "lesson_type": "project",
-    "materials_needed": ["Long roll of paper (butcher paper or taped printer paper)", "Colored pencils and markers", "Ruler", "History notebook for reference", "Timeline cards from previous lessons"],
+    "materials_needed": [
+      "Long roll of paper (butcher paper or taped printer paper)",
+      "Colored pencils and markers",
+      "Ruler",
+      "History notebook for reference",
+      "Timeline cards from previous lessons"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 History Timeline", "subheading": "From the Cosmos to Egypt"},
-        {"type": "materials", "items": ["Long paper roll (6+ feet)", "Colored pencils and markers", "Ruler for measuring", "History notebook", "All timeline cards from Q1"], "setup_instructions": "Roll out paper on the floor or a long table. Gather all history notes and materials from weeks 1-8."},
-        {"type": "instruction", "step": 1, "text": "Divide your timeline into sections. The cosmic and geological section will be compressed (billions of years) while human history expands. Mark these divisions: Formation of Earth (4.5 BYA), First Life (3.8 BYA), First Animals (540 MYA), Dinosaurs (230 MYA), Humans (300,000 YA), Civilizations (6,000 YA)."},
-        {"type": "instruction", "step": 2, "text": "In the geological section, illustrate each era with its defining life forms: Paleozoic (trilobites, fish, amphibians), Mesozoic (dinosaurs), Cenozoic (mammals, humans)."},
-        {"type": "instruction", "step": 3, "text": "In the human history section, place: invention of farming (~10,000 BCE), first cities (~4000 BCE), writing (~3200 BCE), Mesopotamian empires, Egyptian Old/Middle/New Kingdoms."},
-        {"type": "instruction", "step": 4, "text": "Add at least 3 details for each civilization: key leaders, inventions, architectural achievements, and writing systems. Use your notes from previous weeks."},
-        {"type": "activity", "prompt": "Add color-coded illustrations to your timeline. Use one color for scientific discoveries, another for political events, and a third for cultural achievements. Add a legend/key to your timeline.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Step back and look at your complete Q1 timeline. Notice how much of Earth's history passed before humans arrived. This 'cosmic perspective' is the heart of Montessori history.", "mastery_check": "Does the timeline include at least 20 events spanning cosmic history through ancient Egypt with accurate dates and descriptions?"}
+        {
+          "type": "title",
+          "heading": "Q1 History Timeline",
+          "subheading": "From the Cosmos to Egypt",
+          "image_url": "https://images.pexels.com/photos/4553618/pexels-photo-4553618.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Long paper roll (6+ feet)",
+            "Colored pencils and markers",
+            "Ruler for measuring",
+            "History notebook",
+            "All timeline cards from Q1"
+          ],
+          "setup_instructions": "Roll out paper on the floor or a long table. Gather all history notes and materials from weeks 1-8."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Divide your timeline into sections. The cosmic and geological section will be compressed (billions of years) while human history expands. Mark these divisions: Formation of Earth (4.5 BYA), First Life (3.8 BYA), First Animals (540 MYA), Dinosaurs (230 MYA), Humans (300,000 YA), Civilizations (6,000 YA)."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "In the geological section, illustrate each era with its defining life forms: Paleozoic (trilobites, fish, amphibians), Mesozoic (dinosaurs), Cenozoic (mammals, humans)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "In the human history section, place: invention of farming (~10,000 BCE), first cities (~4000 BCE), writing (~3200 BCE), Mesopotamian empires, Egyptian Old/Middle/New Kingdoms."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Add at least 3 details for each civilization: key leaders, inventions, architectural achievements, and writing systems. Use your notes from previous weeks."
+        },
+        {
+          "type": "activity",
+          "prompt": "Add color-coded illustrations to your timeline. Use one color for scientific discoveries, another for political events, and a third for cultural achievements. Add a legend/key to your timeline.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Step back and look at your complete Q1 timeline. Notice how much of Earth's history passed before humans arrived. This 'cosmic perspective' is the heart of Montessori history.",
+          "mastery_check": "Does the timeline include at least 20 events spanning cosmic history through ancient Egypt with accurate dates and descriptions?"
+        }
       ]
     },
     "parent_notes": "This timeline is a cornerstone Montessori material. Display it prominently — it will grow throughout the year as new civilizations are added. The act of constructing it reinforces chronological thinking and helps children see connections between civilizations. If your child has been keeping a timeline in their notebook, this large-format version synthesizes everything. Take a photo of the completed timeline for the portfolio.",
@@ -95,17 +234,62 @@
     "instructions": "1. Start with a blank world map outline.\n2. Layer 1: Draw major tectonic plate boundaries (review from earlier weeks).\n3. Layer 2: Shade biomes — desert, grassland, forest — in the regions studied.\n4. Layer 3: Mark the Fertile Crescent, Nile River system, and Mesopotamian rivers.\n5. Layer 4: Draw human migration routes out of Africa.\n6. Layer 5: Label key geographic features that influenced civilization placement.\n7. Create a detailed map legend.",
     "duration_minutes": 60,
     "lesson_type": "project",
-    "materials_needed": ["Blank world map outline (printed)", "Colored pencils (at least 12 colors)", "Atlas or reference maps", "Tracing paper for overlays", "Geography notebook"],
+    "materials_needed": [
+      "Blank world map outline (printed)",
+      "Colored pencils (at least 12 colors)",
+      "Atlas or reference maps",
+      "Tracing paper for overlays",
+      "Geography notebook"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Geography Review", "subheading": "Mapping the Ancient World"},
-        {"type": "materials", "items": ["Blank world map outline", "Colored pencils (12+ colors)", "Atlas or reference maps", "Tracing paper", "Geography notebook"], "setup_instructions": "Print 2-3 copies of a blank world map in case of mistakes. Gather all geography notes from Q1."},
-        {"type": "instruction", "step": 1, "text": "On your first map, lightly sketch the major tectonic plate boundaries. Label at least 6 plates: Pacific, North American, Eurasian, African, Indo-Australian, Antarctic. Mark where plates are diverging, converging, or sliding past each other."},
-        {"type": "instruction", "step": 2, "text": "On your main map, shade the biomes of the ancient world: the Sahara Desert (tan), Mediterranean forests (green), Mesopotamian grasslands (light green), Nile Valley (dark green strip through tan)."},
-        {"type": "instruction", "step": 3, "text": "Draw and label rivers: Tigris, Euphrates, Nile (including Blue Nile, White Nile, and the Delta). Mark the Fertile Crescent with a dotted line. Label key cities: Ur, Babylon, Memphis, Thebes."},
-        {"type": "instruction", "step": 4, "text": "Using arrows, trace human migration routes from East Africa outward. Label approximate dates. Show how geography (mountains, deserts, coastlines, rivers) channeled migration."},
-        {"type": "activity", "prompt": "Write a paragraph explaining why the first civilizations arose where they did. Use geographic evidence: rivers for irrigation and transport, fertile soil for farming, natural barriers for defense. Include at least 3 specific geographic features.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Compare your map to a modern political map. Many of today's borders follow the same rivers, mountain ranges, and coastlines that shaped ancient civilizations.", "mastery_check": "Can the student explain how geography influenced the rise of Mesopotamian and Egyptian civilizations using specific features?"}
+        {
+          "type": "title",
+          "heading": "Q1 Geography Review",
+          "subheading": "Mapping the Ancient World",
+          "image_url": "https://images.pexels.com/photos/8926461/pexels-photo-8926461.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank world map outline",
+            "Colored pencils (12+ colors)",
+            "Atlas or reference maps",
+            "Tracing paper",
+            "Geography notebook"
+          ],
+          "setup_instructions": "Print 2-3 copies of a blank world map in case of mistakes. Gather all geography notes from Q1."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "On your first map, lightly sketch the major tectonic plate boundaries. Label at least 6 plates: Pacific, North American, Eurasian, African, Indo-Australian, Antarctic. Mark where plates are diverging, converging, or sliding past each other."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "On your main map, shade the biomes of the ancient world: the Sahara Desert (tan), Mediterranean forests (green), Mesopotamian grasslands (light green), Nile Valley (dark green strip through tan)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Draw and label rivers: Tigris, Euphrates, Nile (including Blue Nile, White Nile, and the Delta). Mark the Fertile Crescent with a dotted line. Label key cities: Ur, Babylon, Memphis, Thebes."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Using arrows, trace human migration routes from East Africa outward. Label approximate dates. Show how geography (mountains, deserts, coastlines, rivers) channeled migration."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write a paragraph explaining why the first civilizations arose where they did. Use geographic evidence: rivers for irrigation and transport, fertile soil for farming, natural barriers for defense. Include at least 3 specific geographic features.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Compare your map to a modern political map. Many of today's borders follow the same rivers, mountain ranges, and coastlines that shaped ancient civilizations.",
+          "mastery_check": "Can the student explain how geography influenced the rise of Mesopotamian and Egyptian civilizations using specific features?"
+        }
       ]
     },
     "parent_notes": "This multi-layered map project synthesizes physical geography, human geography, and ancient history. If your child finds it overwhelming to put everything on one map, use tracing paper overlays — one for each layer. The key insight is that geography determined where civilizations could arise. Rivers provided water, fertile soil, and transportation. Mountains and deserts provided natural defenses. This geographic determinism will be a recurring theme throughout the year.",
@@ -123,17 +307,60 @@
     "instructions": "1. Read chapters 15-16 aloud together or independently.\n2. Discuss the resolution: How was the mystery solved? Was justice served?\n3. Character analysis: How did Ranofer change from beginning to end? What drove his transformation?\n4. Historical accuracy discussion: What did this novel teach about daily life in ancient Egypt?\n5. Personal response: Would you recommend this book? Write a brief book review.\n6. Connect to Q1 history studies — how does fiction deepen understanding of history?",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["The Golden Goblet by Eloise Jarvis McGraw", "Reading journal", "Pencil", "Character tracking chart from previous weeks"],
+    "materials_needed": [
+      "The Golden Goblet by Eloise Jarvis McGraw",
+      "Reading journal",
+      "Pencil",
+      "Character tracking chart from previous weeks"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Golden Goblet", "subheading": "Finishing Our Novel — Reflection"},
-        {"type": "materials", "items": ["The Golden Goblet", "Reading journal", "Pencil", "Character tracking notes"], "setup_instructions": "Find a comfortable reading spot. Have your reading journal and character notes from previous weeks ready."},
-        {"type": "instruction", "step": 1, "text": "Read chapters 15-16, the conclusion of the novel. Pay attention to how all the story threads come together. Notice what happens to each character."},
-        {"type": "instruction", "step": 2, "text": "After reading, discuss: How did the conflict resolve? Was the resolution satisfying? Were there any surprises? What clues did the author plant earlier that you now recognize?"},
-        {"type": "instruction", "step": 3, "text": "Character arc analysis: Draw a line graph showing Ranofer's emotional journey from chapter 1 to the end. Plot key moments where things got better or worse. What was the lowest point? The turning point?"},
-        {"type": "instruction", "step": 4, "text": "Historical fiction connection: List 5 things you learned about ancient Egypt from this novel that match what you studied in history. How does reading a story set in the past differ from reading a textbook?"},
-        {"type": "activity", "prompt": "Write a book review of The Golden Goblet. Include: a brief summary (no spoilers!), what you liked and disliked, who you would recommend it to, and a rating out of 5 stars with your reasoning.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Completing a full novel is an achievement. Think about how this story brought ancient Egypt to life in ways that facts alone could not. Next quarter, we will begin a new novel set in a different civilization.", "mastery_check": "Can the student articulate the character arc, connect historical details to Q1 studies, and write a thoughtful book review?"}
+        {
+          "type": "title",
+          "heading": "The Golden Goblet",
+          "subheading": "Finishing Our Novel — Reflection",
+          "image_url": "https://images.pexels.com/photos/5604251/pexels-photo-5604251.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "The Golden Goblet",
+            "Reading journal",
+            "Pencil",
+            "Character tracking notes"
+          ],
+          "setup_instructions": "Find a comfortable reading spot. Have your reading journal and character notes from previous weeks ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read chapters 15-16, the conclusion of the novel. Pay attention to how all the story threads come together. Notice what happens to each character."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "After reading, discuss: How did the conflict resolve? Was the resolution satisfying? Were there any surprises? What clues did the author plant earlier that you now recognize?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Character arc analysis: Draw a line graph showing Ranofer's emotional journey from chapter 1 to the end. Plot key moments where things got better or worse. What was the lowest point? The turning point?"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Historical fiction connection: List 5 things you learned about ancient Egypt from this novel that match what you studied in history. How does reading a story set in the past differ from reading a textbook?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write a book review of The Golden Goblet. Include: a brief summary (no spoilers!), what you liked and disliked, who you would recommend it to, and a rating out of 5 stars with your reasoning.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Completing a full novel is an achievement. Think about how this story brought ancient Egypt to life in ways that facts alone could not. Next quarter, we will begin a new novel set in a different civilization.",
+          "mastery_check": "Can the student articulate the character arc, connect historical details to Q1 studies, and write a thoughtful book review?"
+        }
       ]
     },
     "parent_notes": "Completing a novel study is a significant reading milestone. The book review is an authentic writing task — consider having your child share it with family, post it on a reading log, or even write it as an online review. The character arc graph (emotional journey) is a sophisticated literary analysis tool. The connection between historical fiction and history studies is a hallmark of Montessori integrated curriculum. If your child loved this book, other Eloise Jarvis McGraw titles include 'Mara, Daughter of the Nile.'",
@@ -151,17 +378,61 @@
     "instructions": "1. Review the research paper and select key points to present (not reading word-for-word).\n2. Create 3-5 note cards with main ideas, key evidence, and conclusion.\n3. Practice the presentation: stand, make eye contact, speak clearly and at a good pace.\n4. Time the presentation (aim for 5-8 minutes).\n5. Deliver the presentation to family.\n6. Take questions from the audience and respond thoughtfully.",
     "duration_minutes": 60,
     "lesson_type": "project",
-    "materials_needed": ["Completed research paper", "Index cards for notes", "Visual aid (poster, map, or diagram)", "Timer", "Presentation rubric"],
+    "materials_needed": [
+      "Completed research paper",
+      "Index cards for notes",
+      "Visual aid (poster, map, or diagram)",
+      "Timer",
+      "Presentation rubric"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Research Paper Presentation", "subheading": "Sharing Your Expertise"},
-        {"type": "materials", "items": ["Completed research paper", "Index cards", "Materials for a visual aid", "Timer"], "setup_instructions": "Set up a 'presentation area' — a spot where the speaker can stand and the audience can sit. This makes it feel special and real."},
-        {"type": "instruction", "step": 1, "text": "A presentation is NOT reading your paper aloud. Instead, you are teaching your audience about your topic. Think of yourself as the expert. What are the 3-5 most important things they need to know?"},
-        {"type": "instruction", "step": 2, "text": "Create note cards — one per main point. Write only keywords and phrases, not full sentences. Number the cards so they stay in order. On the first card, write your opening hook."},
-        {"type": "instruction", "step": 3, "text": "Create one visual aid: a poster with key images, a map, a timeline, or a diagram. Visual aids help your audience understand and remember your information."},
-        {"type": "instruction", "step": 4, "text": "Practice your presentation at least twice. Stand up straight, look at your audience (not your cards), and speak slowly and clearly. Time yourself — aim for 5-8 minutes."},
-        {"type": "activity", "prompt": "Deliver your presentation to your family! Remember: stand tall, make eye contact, speak clearly, and use your visual aid. After presenting, invite questions and answer them using what you learned from your research.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Reflect on your presentation: What went well? What would you do differently next time? Public speaking is a skill that improves with practice. You should be proud of sharing your knowledge.", "mastery_check": "Did the student deliver a 5-8 minute presentation with organized content, a visual aid, and the ability to answer at least 2 audience questions?"}
+        {
+          "type": "title",
+          "heading": "Research Paper Presentation",
+          "subheading": "Sharing Your Expertise",
+          "image_url": "https://images.pexels.com/photos/8613089/pexels-photo-8613089.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Completed research paper",
+            "Index cards",
+            "Materials for a visual aid",
+            "Timer"
+          ],
+          "setup_instructions": "Set up a 'presentation area' — a spot where the speaker can stand and the audience can sit. This makes it feel special and real."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A presentation is NOT reading your paper aloud. Instead, you are teaching your audience about your topic. Think of yourself as the expert. What are the 3-5 most important things they need to know?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Create note cards — one per main point. Write only keywords and phrases, not full sentences. Number the cards so they stay in order. On the first card, write your opening hook."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Create one visual aid: a poster with key images, a map, a timeline, or a diagram. Visual aids help your audience understand and remember your information."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Practice your presentation at least twice. Stand up straight, look at your audience (not your cards), and speak slowly and clearly. Time yourself — aim for 5-8 minutes."
+        },
+        {
+          "type": "activity",
+          "prompt": "Deliver your presentation to your family! Remember: stand tall, make eye contact, speak clearly, and use your visual aid. After presenting, invite questions and answer them using what you learned from your research.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect on your presentation: What went well? What would you do differently next time? Public speaking is a skill that improves with practice. You should be proud of sharing your knowledge.",
+          "mastery_check": "Did the student deliver a 5-8 minute presentation with organized content, a visual aid, and the ability to answer at least 2 audience questions?"
+        }
       ]
     },
     "parent_notes": "Be an enthusiastic audience! Ask genuine questions about the topic. If siblings are present, have them ask questions too. Offer specific praise: 'I loved how you explained...' or 'Your visual aid really helped me understand...' This presentation skill is invaluable and rarely practiced enough. Consider recording the presentation for the portfolio. If your child is nervous, normalize it — even adults get nervous presenting. The note cards are a professional technique that prevents reading word-for-word.",
@@ -179,18 +450,67 @@
     "instructions": "1. Fraction review stations: Set up 4 areas — add/subtract, multiply, divide, and word problems.\n2. Station 1: Add and subtract fractions with unlike denominators (find LCD).\n3. Station 2: Multiply fractions (numerator × numerator, denominator × denominator, simplify).\n4. Station 3: Divide fractions (keep-change-flip method).\n5. Station 4: Real-world word problems requiring choosing the correct operation.\n6. Decimal review: Four operations with decimals, converting between fractions and decimals.",
     "duration_minutes": 60,
     "lesson_type": "practice",
-    "materials_needed": ["Math notebook", "Fraction circles or strips (manipulatives)", "Pencil", "Index cards for station problems", "Calculator for self-checking"],
+    "materials_needed": [
+      "Math notebook",
+      "Fraction circles or strips (manipulatives)",
+      "Pencil",
+      "Index cards for station problems",
+      "Calculator for self-checking"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Math Review", "subheading": "Fractions and Decimals Mastery"},
-        {"type": "materials", "items": ["Math notebook", "Fraction manipulatives", "Pencil", "Calculator for checking", "Index cards"], "setup_instructions": "Write 3-4 problems on index cards for each station. Set up stations at different spots around the room for movement."},
-        {"type": "instruction", "step": 1, "text": "Station 1 — Addition and Subtraction: Solve these using LCD. 3/4 + 2/3 = ? | 5/6 - 1/4 = ? | 2 1/3 + 3 2/5 = ? | 7/8 - 3/10 = ?"},
-        {"type": "instruction", "step": 2, "text": "Station 2 — Multiplication: Remember to simplify! 2/3 × 4/5 = ? | 3/7 × 14/15 = ? | 1 1/2 × 2/3 = ? | 5/8 × 4 = ?"},
-        {"type": "instruction", "step": 3, "text": "Station 3 — Division: Keep-Change-Flip! 3/4 ÷ 1/2 = ? | 5/6 ÷ 2/3 = ? | 2 1/4 ÷ 3/8 = ? | 7 ÷ 1/3 = ?"},
-        {"type": "instruction", "step": 4, "text": "Station 4 — Word Problems: 'A recipe calls for 2/3 cup of flour. You want to make 1 1/2 times the recipe. How much flour do you need?' Solve 3 word problems choosing the correct operation."},
-        {"type": "instruction", "step": 5, "text": "Decimal review: 3.45 + 12.8 = ? | 15.03 - 7.658 = ? | 4.5 × 3.2 = ? | 18.6 ÷ 0.3 = ? Then convert: 3/8 = ? (decimal) | 0.625 = ? (fraction)"},
-        {"type": "activity", "prompt": "Create a 'Fraction and Decimal Challenge Test' with 10 problems covering all operations. Include an answer key. This will become a study resource for future review.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Check all work with a calculator. Star any problem types that gave you trouble — those are your growth areas for Q2.", "mastery_check": "Can the student accurately perform all four operations with fractions and decimals, and convert between the two forms?"}
+        {
+          "type": "title",
+          "heading": "Q1 Math Review",
+          "subheading": "Fractions and Decimals Mastery",
+          "image_url": "https://images.pexels.com/photos/6692940/pexels-photo-6692940.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math notebook",
+            "Fraction manipulatives",
+            "Pencil",
+            "Calculator for checking",
+            "Index cards"
+          ],
+          "setup_instructions": "Write 3-4 problems on index cards for each station. Set up stations at different spots around the room for movement."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Station 1 — Addition and Subtraction: Solve these using LCD. 3/4 + 2/3 = ? | 5/6 - 1/4 = ? | 2 1/3 + 3 2/5 = ? | 7/8 - 3/10 = ?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Station 2 — Multiplication: Remember to simplify! 2/3 × 4/5 = ? | 3/7 × 14/15 = ? | 1 1/2 × 2/3 = ? | 5/8 × 4 = ?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Station 3 — Division: Keep-Change-Flip! 3/4 ÷ 1/2 = ? | 5/6 ÷ 2/3 = ? | 2 1/4 ÷ 3/8 = ? | 7 ÷ 1/3 = ?"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Station 4 — Word Problems: 'A recipe calls for 2/3 cup of flour. You want to make 1 1/2 times the recipe. How much flour do you need?' Solve 3 word problems choosing the correct operation."
+        },
+        {
+          "type": "instruction",
+          "step": 5,
+          "text": "Decimal review: 3.45 + 12.8 = ? | 15.03 - 7.658 = ? | 4.5 × 3.2 = ? | 18.6 ÷ 0.3 = ? Then convert: 3/8 = ? (decimal) | 0.625 = ? (fraction)"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a 'Fraction and Decimal Challenge Test' with 10 problems covering all operations. Include an answer key. This will become a study resource for future review.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Check all work with a calculator. Star any problem types that gave you trouble — those are your growth areas for Q2.",
+          "mastery_check": "Can the student accurately perform all four operations with fractions and decimals, and convert between the two forms?"
+        }
       ]
     },
     "parent_notes": "Moving between stations adds physical movement to math practice, which helps many children focus. If your child is solid on fractions, spend more time on decimals and vice versa. The word problems are the most important station because they require determining which operation to use — this is where real-world math lives. If any operation is still shaky, note it for targeted review in Q2. Creating a 'challenge test' with answer key deepens understanding through the act of problem creation.",
@@ -208,17 +528,60 @@
     "instructions": "1. Draw and label a detailed animal cell from memory, then check against reference.\n2. Draw and label a plant cell, noting differences (cell wall, chloroplasts, large central vacuole).\n3. Create a function chart: organelle → function → analogy (e.g., mitochondria → energy → power plant).\n4. Sequence the stages of mitosis with descriptions and diagrams.\n5. Answer assessment questions covering all cell biology topics.\n6. Review and self-correct.",
     "duration_minutes": 60,
     "lesson_type": "assessment",
-    "materials_needed": ["Blank paper for diagrams", "Colored pencils", "Science notebook for reference (close it during assessment)", "Cell biology reference materials for self-checking"],
+    "materials_needed": [
+      "Blank paper for diagrams",
+      "Colored pencils",
+      "Science notebook for reference (close it during assessment)",
+      "Cell biology reference materials for self-checking"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Science Assessment", "subheading": "Cell Biology Mastery Check"},
-        {"type": "materials", "items": ["Blank paper (3 sheets)", "Colored pencils", "Science notebook (closed during assessment)", "Reference materials for self-checking after"], "setup_instructions": "Close all notebooks and references. This is an assessment — use only what you remember. You will self-check afterward."},
-        {"type": "instruction", "step": 1, "text": "Part 1 — Diagram: Draw a large, detailed animal cell from memory. Label at least 8 organelles: nucleus, cell membrane, mitochondria, ribosomes, endoplasmic reticulum (rough and smooth), Golgi apparatus, lysosomes, cytoplasm."},
-        {"type": "instruction", "step": 2, "text": "Part 2 — Comparison: Draw a plant cell next to your animal cell. Label the 3 structures that plant cells have but animal cells do not: cell wall, chloroplasts, and large central vacuole. Explain why plants need each of these."},
-        {"type": "instruction", "step": 3, "text": "Part 3 — Functions: Without looking at notes, write the function of each organelle. Then create an analogy for each one (e.g., 'The nucleus is like a brain because it controls the cell')."},
-        {"type": "instruction", "step": 4, "text": "Part 4 — Mitosis: Draw and describe the 4 stages of mitosis in order: prophase, metaphase, anaphase, telophase. What happens to the chromosomes at each stage? Why do cells divide?"},
-        {"type": "activity", "prompt": "Self-assessment: Open your science notebook and reference materials. Check every answer and diagram. Use a different colored pen to add corrections. Be honest — what did you remember well? What needs more review?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Grade yourself: How many organelles did you correctly label and define? Did you get the mitosis stages in order? Celebrate what you know and note what to review.", "mastery_check": "Can the student label at least 8 organelles with functions and correctly sequence the stages of mitosis?"}
+        {
+          "type": "title",
+          "heading": "Q1 Science Assessment",
+          "subheading": "Cell Biology Mastery Check",
+          "image_url": "https://images.pexels.com/photos/248339/pexels-photo-248339.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank paper (3 sheets)",
+            "Colored pencils",
+            "Science notebook (closed during assessment)",
+            "Reference materials for self-checking after"
+          ],
+          "setup_instructions": "Close all notebooks and references. This is an assessment — use only what you remember. You will self-check afterward."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Part 1 — Diagram: Draw a large, detailed animal cell from memory. Label at least 8 organelles: nucleus, cell membrane, mitochondria, ribosomes, endoplasmic reticulum (rough and smooth), Golgi apparatus, lysosomes, cytoplasm."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Part 2 — Comparison: Draw a plant cell next to your animal cell. Label the 3 structures that plant cells have but animal cells do not: cell wall, chloroplasts, and large central vacuole. Explain why plants need each of these."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Part 3 — Functions: Without looking at notes, write the function of each organelle. Then create an analogy for each one (e.g., 'The nucleus is like a brain because it controls the cell')."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Part 4 — Mitosis: Draw and describe the 4 stages of mitosis in order: prophase, metaphase, anaphase, telophase. What happens to the chromosomes at each stage? Why do cells divide?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Self-assessment: Open your science notebook and reference materials. Check every answer and diagram. Use a different colored pen to add corrections. Be honest — what did you remember well? What needs more review?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Grade yourself: How many organelles did you correctly label and define? Did you get the mitosis stages in order? Celebrate what you know and note what to review.",
+          "mastery_check": "Can the student label at least 8 organelles with functions and correctly sequence the stages of mitosis?"
+        }
       ]
     },
     "parent_notes": "This is a self-assessment, not a high-stakes test. The value is in the self-checking process — when students identify their own gaps, they take ownership of their learning. The Montessori approach treats assessment as information-gathering, not judgment. If your child gets frustrated, remind them that the goal is to find out what they know well and what needs more practice. The colored-pen correction method is powerful because they can see exactly what they knew vs. what they needed to review. Save these assessments in the portfolio to show growth over time.",
@@ -236,17 +599,62 @@
     "instructions": "1. Study examples of Egyptian art: tomb paintings, papyrus scrolls, hieroglyphic panels.\n2. Discuss Egyptian art conventions: profile view of face, frontal view of body, flat color, symbolic meaning.\n3. Plan a composition: Choose a scene (daily life, pharaoh, gods, nature along the Nile).\n4. Sketch the composition following Egyptian art conventions.\n5. Add color using warm earth tones typical of Egyptian art: ochre, red, turquoise, gold, black.\n6. Add hieroglyphic border or cartouche with the student's name.",
     "duration_minutes": 60,
     "lesson_type": "project",
-    "materials_needed": ["Heavy drawing paper or cardstock", "Colored pencils, markers, or paint", "Examples of Egyptian art (printed or in books)", "Ruler for borders", "Gold paint or metallic markers (optional)"],
+    "materials_needed": [
+      "Heavy drawing paper or cardstock",
+      "Colored pencils, markers, or paint",
+      "Examples of Egyptian art (printed or in books)",
+      "Ruler for borders",
+      "Gold paint or metallic markers (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Egyptian Art Project", "subheading": "Q1 Capstone Creation"},
-        {"type": "materials", "items": ["Heavy paper or cardstock", "Colored pencils, markers, or paint", "Printed examples of Egyptian art", "Ruler", "Gold paint or metallic markers (optional)"], "setup_instructions": "Set up art area with all materials. Display Egyptian art examples where they can be easily referenced."},
-        {"type": "instruction", "step": 1, "text": "Study Egyptian art: Notice how figures are shown with the head in profile (side view) but the eye and shoulders facing forward. Legs are in profile. Colors are flat (no shading). Size shows importance — the pharaoh is the biggest figure."},
-        {"type": "instruction", "step": 2, "text": "Choose your subject: A pharaoh and court scene? Daily life along the Nile (farming, fishing, crafts)? A scene with Egyptian gods (Anubis, Horus, Ra)? Sketch your idea in pencil first."},
-        {"type": "instruction", "step": 3, "text": "Draw your figures using Egyptian conventions: profile head, frontal shoulders, profile legs. Use a ruler to create horizontal register lines (Egyptians organized scenes in horizontal bands, like comic strip panels)."},
-        {"type": "instruction", "step": 4, "text": "Color your artwork using the Egyptian palette: red-brown for skin, white for clothing, turquoise for jewelry, gold for important objects, black for hair and outlines. Keep colors flat — no shading or blending."},
-        {"type": "activity", "prompt": "Add a hieroglyphic border around your artwork. Use a hieroglyph chart to write your name in a cartouche (an oval enclosure used for royal names). Add decorative symbols in the border: ankhs, lotus flowers, scarabs.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Sign and date your artwork. Compare your piece to the Egyptian examples — how did you capture their style? This is a portfolio-worthy piece that connects your art and history studies.", "mastery_check": "Does the artwork demonstrate Egyptian art conventions (profile view, flat color, size hierarchy, register lines) and include a hieroglyphic element?"}
+        {
+          "type": "title",
+          "heading": "Egyptian Art Project",
+          "subheading": "Q1 Capstone Creation",
+          "image_url": "https://images.pexels.com/photos/8613054/pexels-photo-8613054.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Heavy paper or cardstock",
+            "Colored pencils, markers, or paint",
+            "Printed examples of Egyptian art",
+            "Ruler",
+            "Gold paint or metallic markers (optional)"
+          ],
+          "setup_instructions": "Set up art area with all materials. Display Egyptian art examples where they can be easily referenced."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Study Egyptian art: Notice how figures are shown with the head in profile (side view) but the eye and shoulders facing forward. Legs are in profile. Colors are flat (no shading). Size shows importance — the pharaoh is the biggest figure."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Choose your subject: A pharaoh and court scene? Daily life along the Nile (farming, fishing, crafts)? A scene with Egyptian gods (Anubis, Horus, Ra)? Sketch your idea in pencil first."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Draw your figures using Egyptian conventions: profile head, frontal shoulders, profile legs. Use a ruler to create horizontal register lines (Egyptians organized scenes in horizontal bands, like comic strip panels)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Color your artwork using the Egyptian palette: red-brown for skin, white for clothing, turquoise for jewelry, gold for important objects, black for hair and outlines. Keep colors flat — no shading or blending."
+        },
+        {
+          "type": "activity",
+          "prompt": "Add a hieroglyphic border around your artwork. Use a hieroglyph chart to write your name in a cartouche (an oval enclosure used for royal names). Add decorative symbols in the border: ankhs, lotus flowers, scarabs.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Sign and date your artwork. Compare your piece to the Egyptian examples — how did you capture their style? This is a portfolio-worthy piece that connects your art and history studies.",
+          "mastery_check": "Does the artwork demonstrate Egyptian art conventions (profile view, flat color, size hierarchy, register lines) and include a hieroglyphic element?"
+        }
       ]
     },
     "parent_notes": "This project beautifully integrates art and history — a hallmark of Montessori education. Egyptian art has very specific conventions that are different from Western art, so this is not about 'drawing well' in the traditional sense. Every child can succeed with Egyptian-style art because it follows clear rules (profile views, flat color, no perspective). If you have gold paint or metallic markers, they add a wonderful touch. Brown paper bags torn and crumpled slightly can mimic papyrus. Display this prominently — it represents the culmination of Q1 art and history work.",
@@ -264,17 +672,63 @@
     "instructions": "1. Review all Q1 work and select 5-8 pieces for display (research paper, timeline, maps, art, science diagrams).\n2. Write invitations for family members.\n3. Plan and prepare a simple refreshment (connection to a culture studied — Egyptian honey cakes or flatbread).\n4. Set up a display area with work samples, labels, and explanations.\n5. Practice 'tour guide' narration for each displayed piece.\n6. Host the celebration!",
     "duration_minutes": 60,
     "lesson_type": "project",
-    "materials_needed": ["All Q1 portfolio work", "Card stock for invitations", "Ingredients for refreshments", "Table or display surface", "Labels and index cards", "Tape or clothespins for hanging work"],
+    "materials_needed": [
+      "All Q1 portfolio work",
+      "Card stock for invitations",
+      "Ingredients for refreshments",
+      "Table or display surface",
+      "Labels and index cards",
+      "Tape or clothespins for hanging work"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Celebration", "subheading": "Planning a Family Showcase"},
-        {"type": "materials", "items": ["All Q1 portfolio pieces", "Card stock for invitations", "Refreshment ingredients", "Display materials (table, tape, labels)", "Index cards for descriptions"], "setup_instructions": "Gather all Q1 work from every subject. You will curate the best pieces for display."},
-        {"type": "instruction", "step": 1, "text": "Curator's task: Review ALL your Q1 work across every subject. Select 5-8 pieces you are most proud of. These should showcase different skills: writing, math, art, science, history. Write a brief description card for each piece explaining what it is and what you learned."},
-        {"type": "instruction", "step": 2, "text": "Create invitations for family members. Include: the event name (your choice!), date, time, location, and a brief description. Make them attractive — this is a real event!"},
-        {"type": "instruction", "step": 3, "text": "Plan refreshments connected to your studies. Ideas: Egyptian-style honey cakes (mix flour, honey, and cinnamon, bake), flatbread with hummus, or grape juice (grapes grew along the Nile and Euphrates). Prepare with adult supervision."},
-        {"type": "instruction", "step": 4, "text": "Set up your display: Arrange work samples on a table or hang them on a wall. Place description cards next to each piece. Create a clear path for visitors to follow. Add a 'Welcome' sign."},
-        {"type": "activity", "prompt": "Practice being a tour guide! Walk through your display and explain each piece to an imaginary visitor. Time yourself — aim for 10-15 minutes. Be ready to answer questions about your work.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Host your celebration! Guide your family through your display, share refreshments, and enjoy celebrating a quarter of hard work and learning. This is YOUR accomplishment.", "mastery_check": "Did the student plan and execute an event including: work selection, invitations, refreshments, display setup, and oral presentation?"}
+        {
+          "type": "title",
+          "heading": "Q1 Celebration",
+          "subheading": "Planning a Family Showcase",
+          "image_url": "https://images.pexels.com/photos/15826427/pexels-photo-15826427.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "All Q1 portfolio pieces",
+            "Card stock for invitations",
+            "Refreshment ingredients",
+            "Display materials (table, tape, labels)",
+            "Index cards for descriptions"
+          ],
+          "setup_instructions": "Gather all Q1 work from every subject. You will curate the best pieces for display."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Curator's task: Review ALL your Q1 work across every subject. Select 5-8 pieces you are most proud of. These should showcase different skills: writing, math, art, science, history. Write a brief description card for each piece explaining what it is and what you learned."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Create invitations for family members. Include: the event name (your choice!), date, time, location, and a brief description. Make them attractive — this is a real event!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Plan refreshments connected to your studies. Ideas: Egyptian-style honey cakes (mix flour, honey, and cinnamon, bake), flatbread with hummus, or grape juice (grapes grew along the Nile and Euphrates). Prepare with adult supervision."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Set up your display: Arrange work samples on a table or hang them on a wall. Place description cards next to each piece. Create a clear path for visitors to follow. Add a 'Welcome' sign."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice being a tour guide! Walk through your display and explain each piece to an imaginary visitor. Time yourself — aim for 10-15 minutes. Be ready to answer questions about your work.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Host your celebration! Guide your family through your display, share refreshments, and enjoy celebrating a quarter of hard work and learning. This is YOUR accomplishment.",
+          "mastery_check": "Did the student plan and execute an event including: work selection, invitations, refreshments, display setup, and oral presentation?"
+        }
       ]
     },
     "parent_notes": "This celebration is meaningful Practical Life work — it involves planning, organizing, time management, hosting, and public speaking. In Montessori schools, student-led exhibitions are a regular practice. Even if your 'audience' is just parents and siblings, treat it as a real event. Be an engaged, appreciative audience. Ask thoughtful questions. Take photos for the portfolio. This kind of celebration builds confidence and gives purpose to the quarter's work. The refreshment preparation adds cooking skills and a cultural connection. If hosting feels overwhelming for your child, scale down — even a simple display with one family member is valuable.",
@@ -292,17 +746,62 @@
     "instructions": "1. Collect all Q1 writing samples: journal entries, essays, research paper drafts, creative pieces.\n2. Arrange chronologically and read through them in order.\n3. Use a self-assessment rubric covering: ideas/content, organization, voice, word choice, sentence fluency, and conventions.\n4. Identify growth: What improved from week 1 to week 9?\n5. Identify areas for improvement: What skills need more practice?\n6. Set 3 specific, measurable writing goals for Q2.",
     "duration_minutes": 60,
     "lesson_type": "assessment",
-    "materials_needed": ["All Q1 writing samples", "Writing self-assessment rubric", "Notebook for reflection", "Highlighters (3 colors)", "Goal-setting worksheet"],
+    "materials_needed": [
+      "All Q1 writing samples",
+      "Writing self-assessment rubric",
+      "Notebook for reflection",
+      "Highlighters (3 colors)",
+      "Goal-setting worksheet"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Writing Portfolio", "subheading": "Self-Assessment and Goals"},
-        {"type": "materials", "items": ["All Q1 writing samples (chronological order)", "Self-assessment rubric", "Notebook", "3 colored highlighters", "Goal-setting page"], "setup_instructions": "Spread out all writing samples in chronological order. You need a quiet, reflective space for this work."},
-        {"type": "instruction", "step": 1, "text": "Gather every piece of writing from Q1: journal entries, paragraph assignments, the five-paragraph essay, all research paper stages (notes, outline, drafts, final). Arrange them by date from earliest to most recent."},
-        {"type": "instruction", "step": 2, "text": "Read through your earliest writing first, then your most recent. Use three highlighters: GREEN for strengths you notice, YELLOW for areas that improved over the quarter, PINK for areas that still need work."},
-        {"type": "instruction", "step": 3, "text": "Self-assess using the rubric. Rate yourself 1-4 in each category: Ideas (Do I have interesting, specific ideas?), Organization (Are my ideas in logical order?), Voice (Does my writing sound like ME?), Word Choice (Do I use precise, varied vocabulary?), Sentences (Do I vary my sentence length and structure?), Conventions (Are spelling, grammar, and punctuation correct?)."},
-        {"type": "instruction", "step": 4, "text": "Write a reflection paragraph: 'As a writer, I have grown this quarter by...' Include specific examples from your work. What are you most proud of? What was the hardest part of the research paper process?"},
-        {"type": "activity", "prompt": "Set 3 specific Q2 writing goals. Bad goal: 'Write better.' Good goal: 'Use at least 3 transition words in every paragraph.' Write your goals, explain why you chose each one, and describe how you will practice.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Place your best Q1 writing samples in your portfolio folder. Your writing goals will guide your work in Q2. Remember: every published author was once a student learning to write, just like you.", "mastery_check": "Did the student complete the self-assessment rubric, write a reflection, and set 3 specific, measurable Q2 writing goals?"}
+        {
+          "type": "title",
+          "heading": "Q1 Writing Portfolio",
+          "subheading": "Self-Assessment and Goals",
+          "image_url": "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "All Q1 writing samples (chronological order)",
+            "Self-assessment rubric",
+            "Notebook",
+            "3 colored highlighters",
+            "Goal-setting page"
+          ],
+          "setup_instructions": "Spread out all writing samples in chronological order. You need a quiet, reflective space for this work."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Gather every piece of writing from Q1: journal entries, paragraph assignments, the five-paragraph essay, all research paper stages (notes, outline, drafts, final). Arrange them by date from earliest to most recent."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read through your earliest writing first, then your most recent. Use three highlighters: GREEN for strengths you notice, YELLOW for areas that improved over the quarter, PINK for areas that still need work."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Self-assess using the rubric. Rate yourself 1-4 in each category: Ideas (Do I have interesting, specific ideas?), Organization (Are my ideas in logical order?), Voice (Does my writing sound like ME?), Word Choice (Do I use precise, varied vocabulary?), Sentences (Do I vary my sentence length and structure?), Conventions (Are spelling, grammar, and punctuation correct?)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Write a reflection paragraph: 'As a writer, I have grown this quarter by...' Include specific examples from your work. What are you most proud of? What was the hardest part of the research paper process?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Set 3 specific Q2 writing goals. Bad goal: 'Write better.' Good goal: 'Use at least 3 transition words in every paragraph.' Write your goals, explain why you chose each one, and describe how you will practice.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Place your best Q1 writing samples in your portfolio folder. Your writing goals will guide your work in Q2. Remember: every published author was once a student learning to write, just like you.",
+          "mastery_check": "Did the student complete the self-assessment rubric, write a reflection, and set 3 specific, measurable Q2 writing goals?"
+        }
       ]
     },
     "parent_notes": "Self-assessment is one of the most powerful learning tools and a core Montessori practice. Resist the urge to 'grade' your child's work — the goal is for THEM to evaluate their own growth. You might be surprised by how perceptive they are about their strengths and weaknesses. If the rubric categories are unfamiliar, go through them together. The reflection paragraph and goal-setting are more valuable than any grade. Save the highlighted writing samples and the reflection — these are powerful portfolio pieces that demonstrate metacognitive growth.",
@@ -320,17 +819,64 @@
     "instructions": "1. Review ratio notation: 3:5, 3/5, '3 to 5.' Practice writing ratios from word problems.\n2. Solve proportions using cross-multiplication: if 2/3 = x/12, then 2 × 12 = 3x, so x = 8.\n3. Apply proportions: recipe scaling, map distances, model building.\n4. Scale drawing review: Given a scale of 1 cm = 5 m, calculate real-world and scale dimensions.\n5. Capstone problem: Design a scale drawing of your learning space.",
     "duration_minutes": 60,
     "lesson_type": "practice",
-    "materials_needed": ["Math notebook", "Graph paper", "Ruler (cm and inches)", "Pencil", "Measuring tape", "Calculator for checking"],
+    "materials_needed": [
+      "Math notebook",
+      "Graph paper",
+      "Ruler (cm and inches)",
+      "Pencil",
+      "Measuring tape",
+      "Calculator for checking"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Math Review", "subheading": "Ratios, Proportions, and Scale"},
-        {"type": "materials", "items": ["Math notebook", "Graph paper", "Ruler", "Pencil", "Measuring tape", "Calculator"], "setup_instructions": "Set up notebook with graph paper. Have measuring tape ready for the scale drawing activity."},
-        {"type": "instruction", "step": 1, "text": "Ratio warm-up: A class has 12 boys and 18 girls. Write the ratio of boys to girls in three ways. Simplify it. What is the ratio of boys to total students? Write 3 more ratios from real-life situations."},
-        {"type": "instruction", "step": 2, "text": "Proportion practice using cross-multiplication: Solve for x. 3/4 = x/20 | 5/8 = 15/x | 7/x = 21/36 | x/9 = 12/27. Show all work."},
-        {"type": "instruction", "step": 3, "text": "Applied proportions: 'A recipe for 4 people uses 3 cups of rice. How much rice for 10 people?' 'On a map, 2 cm = 50 km. Two cities are 7 cm apart. What is the real distance?' Solve 4 applied problems."},
-        {"type": "instruction", "step": 4, "text": "Scale drawing review: Using the scale 1 cm = 2 feet, draw a rectangle representing a 12 ft × 8 ft room on graph paper. How big is the drawing? If a table is 6 ft × 3 ft, draw it inside the room to scale."},
-        {"type": "activity", "prompt": "Measure your learning space (room dimensions, desk, bookshelf, etc.) with the measuring tape. Choose an appropriate scale and create a to-scale floor plan on graph paper. Include a scale key, compass rose, and labels for all furniture.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Scale drawings connect math to architecture, engineering, and design. Professionals use these same skills every day. Check your calculations with a calculator.", "mastery_check": "Can the student solve proportions, apply ratios to word problems, and create an accurate scale drawing?"}
+        {
+          "type": "title",
+          "heading": "Q1 Math Review",
+          "subheading": "Ratios, Proportions, and Scale",
+          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math notebook",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Measuring tape",
+            "Calculator"
+          ],
+          "setup_instructions": "Set up notebook with graph paper. Have measuring tape ready for the scale drawing activity."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Ratio warm-up: A class has 12 boys and 18 girls. Write the ratio of boys to girls in three ways. Simplify it. What is the ratio of boys to total students? Write 3 more ratios from real-life situations."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Proportion practice using cross-multiplication: Solve for x. 3/4 = x/20 | 5/8 = 15/x | 7/x = 21/36 | x/9 = 12/27. Show all work."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Applied proportions: 'A recipe for 4 people uses 3 cups of rice. How much rice for 10 people?' 'On a map, 2 cm = 50 km. Two cities are 7 cm apart. What is the real distance?' Solve 4 applied problems."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Scale drawing review: Using the scale 1 cm = 2 feet, draw a rectangle representing a 12 ft × 8 ft room on graph paper. How big is the drawing? If a table is 6 ft × 3 ft, draw it inside the room to scale."
+        },
+        {
+          "type": "activity",
+          "prompt": "Measure your learning space (room dimensions, desk, bookshelf, etc.) with the measuring tape. Choose an appropriate scale and create a to-scale floor plan on graph paper. Include a scale key, compass rose, and labels for all furniture.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Scale drawings connect math to architecture, engineering, and design. Professionals use these same skills every day. Check your calculations with a calculator.",
+          "mastery_check": "Can the student solve proportions, apply ratios to word problems, and create an accurate scale drawing?"
+        }
       ]
     },
     "parent_notes": "The scale drawing of the learning space is the highlight of this lesson — it connects abstract math to the real world. Help your child measure accurately with the tape measure if needed, but let them do all the calculations. If they choose an impractical scale (the drawing would be too big or too small), guide them to reconsider rather than telling them the answer. The measuring tape work is authentic Practical Life integrated with mathematics. This floor plan could even be used to reorganize the learning space — a real-world application!",
@@ -348,17 +894,61 @@
     "instructions": "1. Create a comparison chart with categories: geography, government, religion, writing system, architecture, key achievements.\n2. Fill in details for both Mesopotamia and Egypt in each category.\n3. Identify similarities and differences — which are more significant?\n4. Write a thesis statement arguing which civilization had a greater lasting impact (or that both were equally important).\n5. Draft the essay: introduction with thesis, 3 body paragraphs (each comparing one aspect), conclusion.\n6. Peer review with parent or sibling.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["History notebook", "Lined paper", "Comparison chart template", "Notes from Mesopotamia and Egypt units", "Pencil and colored pens"],
+    "materials_needed": [
+      "History notebook",
+      "Lined paper",
+      "Comparison chart template",
+      "Notes from Mesopotamia and Egypt units",
+      "Pencil and colored pens"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Comparative Essay", "subheading": "Mesopotamia vs. Egypt"},
-        {"type": "materials", "items": ["History notebook with Q1 notes", "Lined paper for essay", "Comparison chart template", "Pencil and colored pens"], "setup_instructions": "Open your history notebook to both the Mesopotamia and Egypt sections. You will need to reference both throughout this lesson."},
-        {"type": "instruction", "step": 1, "text": "Create a T-chart or Venn diagram comparing Mesopotamia and Egypt. Categories to compare: Geographic setting (rivers, climate), Government structure, Religious beliefs, Writing system (cuneiform vs. hieroglyphics), Architecture (ziggurats vs. pyramids), Key inventions and achievements."},
-        {"type": "instruction", "step": 2, "text": "Study your comparison chart. Which differences are most significant? Which similarities surprised you? A strong essay focuses on the most interesting comparisons, not every possible one. Choose 3 categories for your body paragraphs."},
-        {"type": "instruction", "step": 3, "text": "Write a thesis statement. Examples: 'While Mesopotamia and Egypt both arose along rivers, their different geographic settings led to very different civilizations.' Or: 'Egypt's lasting contributions in architecture and mathematics surpassed those of Mesopotamia because...' Your thesis must take a position."},
-        {"type": "instruction", "step": 4, "text": "Draft your essay: Introduction (hook + thesis), Body Paragraph 1 (compare category 1 with specific evidence), Body Paragraph 2 (compare category 2), Body Paragraph 3 (compare category 3), Conclusion (restate thesis, bigger picture)."},
-        {"type": "activity", "prompt": "Write your complete essay draft. Aim for 5 paragraphs with specific evidence (names, dates, places) in each body paragraph. Use comparison transition words: 'similarly,' 'in contrast,' 'while,' 'on the other hand,' 'both... and.'", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Read your essay to a family member and ask: 'Can you tell what my argument is? Is the evidence convincing?' A good comparative essay teaches the reader something new about both subjects.", "mastery_check": "Does the essay have a clear thesis, 3 body paragraphs with specific evidence from both civilizations, comparison transitions, and a conclusion?"}
+        {
+          "type": "title",
+          "heading": "Comparative Essay",
+          "subheading": "Mesopotamia vs. Egypt",
+          "image_url": "https://images.pexels.com/photos/3355788/pexels-photo-3355788.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "History notebook with Q1 notes",
+            "Lined paper for essay",
+            "Comparison chart template",
+            "Pencil and colored pens"
+          ],
+          "setup_instructions": "Open your history notebook to both the Mesopotamia and Egypt sections. You will need to reference both throughout this lesson."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Create a T-chart or Venn diagram comparing Mesopotamia and Egypt. Categories to compare: Geographic setting (rivers, climate), Government structure, Religious beliefs, Writing system (cuneiform vs. hieroglyphics), Architecture (ziggurats vs. pyramids), Key inventions and achievements."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Study your comparison chart. Which differences are most significant? Which similarities surprised you? A strong essay focuses on the most interesting comparisons, not every possible one. Choose 3 categories for your body paragraphs."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Write a thesis statement. Examples: 'While Mesopotamia and Egypt both arose along rivers, their different geographic settings led to very different civilizations.' Or: 'Egypt's lasting contributions in architecture and mathematics surpassed those of Mesopotamia because...' Your thesis must take a position."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Draft your essay: Introduction (hook + thesis), Body Paragraph 1 (compare category 1 with specific evidence), Body Paragraph 2 (compare category 2), Body Paragraph 3 (compare category 3), Conclusion (restate thesis, bigger picture)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your complete essay draft. Aim for 5 paragraphs with specific evidence (names, dates, places) in each body paragraph. Use comparison transition words: 'similarly,' 'in contrast,' 'while,' 'on the other hand,' 'both... and.'",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Read your essay to a family member and ask: 'Can you tell what my argument is? Is the evidence convincing?' A good comparative essay teaches the reader something new about both subjects.",
+          "mastery_check": "Does the essay have a clear thesis, 3 body paragraphs with specific evidence from both civilizations, comparison transitions, and a conclusion?"
+        }
       ]
     },
     "parent_notes": "This is a sophisticated analytical task — comparing two civilizations requires both knowledge and critical thinking. The thesis statement is the hardest part; help your child understand that they need to make an argument, not just list facts. If the full 5-paragraph essay feels overwhelming, allow a strong 3-paragraph version (intro, one comparison paragraph, conclusion). The Venn diagram or T-chart is essential pre-writing — don't skip it. This essay is a culmination of weeks of history study and should be saved as a key portfolio piece.",
@@ -376,17 +966,62 @@
     "instructions": "1. Brainstorm: What things do we use every day that came from ancient civilizations?\n2. Research connections: Mesopotamian base-60 system → our clocks and circles.\n3. Egyptian innovations: Calendar, papyrus → paper, architectural engineering, medicine.\n4. Discuss Hammurabi's Code → modern legal systems.\n5. Create a visual poster or booklet: 'Ancient Gifts to the Modern World.'\n6. Present findings to family.",
     "duration_minutes": 60,
     "lesson_type": "project",
-    "materials_needed": ["Large poster paper or booklet materials", "Colored pencils and markers", "Reference materials on ancient innovations", "Ruler for neat presentation", "Glue stick and scissors (for images)"],
+    "materials_needed": [
+      "Large poster paper or booklet materials",
+      "Colored pencils and markers",
+      "Reference materials on ancient innovations",
+      "Ruler for neat presentation",
+      "Glue stick and scissors (for images)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Ancient Legacies", "subheading": "How the Past Lives in Our Present"},
-        {"type": "materials", "items": ["Poster paper or booklet materials", "Colored pencils and markers", "Reference materials", "Ruler", "Glue and scissors"], "setup_instructions": "Set up a project workspace. Decide if you want to make a poster or a booklet."},
-        {"type": "instruction", "step": 1, "text": "Think about your daily life. You wake up and check the time — a 60-minute hour from Mesopotamia. You look at the calendar — a system begun in Egypt. You read and write — using systems descended from cuneiform and hieroglyphics. Ancient civilizations are all around us!"},
-        {"type": "instruction", "step": 2, "text": "Mesopotamian legacies to research: The wheel, base-60 number system (60 seconds, 60 minutes, 360 degrees), written law (Hammurabi's Code), irrigation techniques, the plow, astronomy (constellations, zodiac), libraries (Library of Ashurbanipal)."},
-        {"type": "instruction", "step": 3, "text": "Egyptian legacies to research: The 365-day calendar, paper (from papyrus), surgical techniques and medical knowledge, architectural/engineering principles (still used today), cosmetics, toothpaste, geometry for land surveying."},
-        {"type": "instruction", "step": 4, "text": "Create your 'Ancient Gifts to the Modern World' visual. For each legacy, include: the ancient origin, how it evolved over time, and how we use it today. Use illustrations and clear labels."},
-        {"type": "activity", "prompt": "Choose one ancient innovation and write a detailed paragraph exploring: What would modern life be like WITHOUT this invention? How would your daily routine change? Would we have eventually invented it ourselves?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The past is never really past — it lives on in our daily routines, our language, our tools, and our ideas. As we move into Q2 and study new civilizations, look for more connections to modern life.", "mastery_check": "Can the student identify at least 8 ancient innovations and explain their connection to modern life?"}
+        {
+          "type": "title",
+          "heading": "Ancient Legacies",
+          "subheading": "How the Past Lives in Our Present",
+          "image_url": "https://images.pexels.com/photos/7685728/pexels-photo-7685728.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Poster paper or booklet materials",
+            "Colored pencils and markers",
+            "Reference materials",
+            "Ruler",
+            "Glue and scissors"
+          ],
+          "setup_instructions": "Set up a project workspace. Decide if you want to make a poster or a booklet."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Think about your daily life. You wake up and check the time — a 60-minute hour from Mesopotamia. You look at the calendar — a system begun in Egypt. You read and write — using systems descended from cuneiform and hieroglyphics. Ancient civilizations are all around us!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Mesopotamian legacies to research: The wheel, base-60 number system (60 seconds, 60 minutes, 360 degrees), written law (Hammurabi's Code), irrigation techniques, the plow, astronomy (constellations, zodiac), libraries (Library of Ashurbanipal)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Egyptian legacies to research: The 365-day calendar, paper (from papyrus), surgical techniques and medical knowledge, architectural/engineering principles (still used today), cosmetics, toothpaste, geometry for land surveying."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Create your 'Ancient Gifts to the Modern World' visual. For each legacy, include: the ancient origin, how it evolved over time, and how we use it today. Use illustrations and clear labels."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose one ancient innovation and write a detailed paragraph exploring: What would modern life be like WITHOUT this invention? How would your daily routine change? Would we have eventually invented it ourselves?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The past is never really past — it lives on in our daily routines, our language, our tools, and our ideas. As we move into Q2 and study new civilizations, look for more connections to modern life.",
+          "mastery_check": "Can the student identify at least 8 ancient innovations and explain their connection to modern life?"
+        }
       ]
     },
     "parent_notes": "This lesson makes history personally relevant — children realize that ancient civilizations are not dusty relics but living influences in their daily lives. The 'What if this invention never existed?' thought experiment is powerful for developing analytical thinking. You might extend this by going through a typical morning routine and tracing each element back to its ancient origins. This poster or booklet makes an excellent display piece for the Q1 celebration.",
@@ -404,17 +1039,60 @@
     "instructions": "1. Read 4-5 poems about time and change (suggestions: 'Ozymandias' by Shelley, excerpts from 'Song of Myself' by Whitman, 'Nothing Gold Can Stay' by Frost, haiku about seasons).\n2. Discuss poetic devices: metaphor, imagery, rhyme scheme, tone.\n3. Connect themes to Q1 studies: civilizations rise and fall, the cosmos changes, time is vast.\n4. Write an original poem inspired by Q1 learning.\n5. Share poems aloud — poetry is meant to be heard.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Poetry collection or printed poems", "Reading journal", "Pencil", "Lined paper for original poem"],
+    "materials_needed": [
+      "Poetry collection or printed poems",
+      "Reading journal",
+      "Pencil",
+      "Lined paper for original poem"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Poetry of Time and Change", "subheading": "A Q1 Poetry Exploration"},
-        {"type": "materials", "items": ["Printed poems (Ozymandias, Nothing Gold Can Stay, selected haiku)", "Reading journal", "Pencil", "Paper for writing"], "setup_instructions": "Print or have ready the selected poems. Find a comfortable reading spot — poetry deserves a calm, focused atmosphere."},
-        {"type": "instruction", "step": 1, "text": "Read 'Ozymandias' by Percy Bysshe Shelley aloud: 'I met a traveller from an antique land / Who said: Two vast and trunkless legs of stone / Stand in the desert...' This poem is about a ruined statue of an Egyptian pharaoh. What is Shelley saying about power and time?"},
-        {"type": "instruction", "step": 2, "text": "Read 'Nothing Gold Can Stay' by Robert Frost: 'Nature's first green is gold, / Her hardest hue to hold...' This short poem is about how beautiful things are often fleeting. How does this connect to the civilizations we studied? They were golden once, too."},
-        {"type": "instruction", "step": 3, "text": "Discuss poetic devices you notice: Metaphor (comparing two unlike things), Imagery (words that create pictures in your mind), Rhyme scheme (pattern of end rhymes), Tone (the feeling or mood of the poem). Find examples of each in the poems."},
-        {"type": "instruction", "step": 4, "text": "Connect poetry to Q1 history: The cosmos began, stars formed and died, species evolved and went extinct, civilizations rose and fell. Time is the great theme of our studies this quarter. Poetry captures feelings that textbooks cannot."},
-        {"type": "activity", "prompt": "Write your own poem about time, change, or the ancient world. It can be any form: free verse, rhyming, haiku series, or a style you invent. Use at least 2 poetic devices (metaphor, imagery, personification, etc.). Read it aloud when finished.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Poetry gives voice to the deepest human experiences. For thousands of years, people have written poems about time and change. Your poem joins that ancient tradition. Add it to your Q1 portfolio.", "mastery_check": "Can the student identify poetic devices in published poems and write an original poem using at least 2 devices?"}
+        {
+          "type": "title",
+          "heading": "Poetry of Time and Change",
+          "subheading": "A Q1 Poetry Exploration",
+          "image_url": "https://images.pexels.com/photos/3890481/pexels-photo-3890481.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed poems (Ozymandias, Nothing Gold Can Stay, selected haiku)",
+            "Reading journal",
+            "Pencil",
+            "Paper for writing"
+          ],
+          "setup_instructions": "Print or have ready the selected poems. Find a comfortable reading spot — poetry deserves a calm, focused atmosphere."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read 'Ozymandias' by Percy Bysshe Shelley aloud: 'I met a traveller from an antique land / Who said: Two vast and trunkless legs of stone / Stand in the desert...' This poem is about a ruined statue of an Egyptian pharaoh. What is Shelley saying about power and time?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read 'Nothing Gold Can Stay' by Robert Frost: 'Nature's first green is gold, / Her hardest hue to hold...' This short poem is about how beautiful things are often fleeting. How does this connect to the civilizations we studied? They were golden once, too."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Discuss poetic devices you notice: Metaphor (comparing two unlike things), Imagery (words that create pictures in your mind), Rhyme scheme (pattern of end rhymes), Tone (the feeling or mood of the poem). Find examples of each in the poems."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Connect poetry to Q1 history: The cosmos began, stars formed and died, species evolved and went extinct, civilizations rose and fell. Time is the great theme of our studies this quarter. Poetry captures feelings that textbooks cannot."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your own poem about time, change, or the ancient world. It can be any form: free verse, rhyming, haiku series, or a style you invent. Use at least 2 poetic devices (metaphor, imagery, personification, etc.). Read it aloud when finished.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Poetry gives voice to the deepest human experiences. For thousands of years, people have written poems about time and change. Your poem joins that ancient tradition. Add it to your Q1 portfolio.",
+          "mastery_check": "Can the student identify poetic devices in published poems and write an original poem using at least 2 devices?"
+        }
       ]
     },
     "parent_notes": "Poetry can feel intimidating to some children (and parents!). The key is reading aloud — poetry is musical, and hearing it brings it to life. 'Ozymandias' connects perfectly to Egyptian studies and gives children a visceral sense of how civilizations fade. Don't worry about 'getting the right answer' in poetry analysis — any thoughtful observation counts. For the original poem, encourage risk-taking. A sincere, imperfect poem is better than a polished but safe one. Read poems to each other, creating a family poetry circle.",
@@ -432,17 +1110,62 @@
     "instructions": "1. Root word review: Create flashcards for all Q1 roots (bio-, geo-, graph-, tele-, -ology, -scope, etc.).\n2. Root word challenge: Given unfamiliar words, use roots to determine meaning.\n3. Grammar review: Identify parts of speech, sentence types, and paragraph structure.\n4. Editing exercise: Find and correct errors in a sample paragraph.\n5. Vocabulary in context: Use Q1 vocabulary in original sentences.\n6. Self-assessment: Rate confidence in each grammar and vocabulary area.",
     "duration_minutes": 60,
     "lesson_type": "practice",
-    "materials_needed": ["Index cards for flashcards", "Grammar reference sheet", "Editing exercise worksheet", "Vocabulary list from Q1", "Colored pens for corrections"],
+    "materials_needed": [
+      "Index cards for flashcards",
+      "Grammar reference sheet",
+      "Editing exercise worksheet",
+      "Vocabulary list from Q1",
+      "Colored pens for corrections"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Language Review", "subheading": "Greek & Latin Roots and Grammar"},
-        {"type": "materials", "items": ["Index cards", "Grammar reference sheet", "Q1 vocabulary list", "Colored pens", "Pencil"], "setup_instructions": "Gather all Q1 vocabulary lists and grammar notes. Have index cards ready for flashcard creation."},
-        {"type": "instruction", "step": 1, "text": "Root word flashcards: Make a card for each root studied in Q1. Front: the root and its meaning. Back: 3 words that use this root. Roots to include: bio- (life), geo- (earth), graph/gram (write), tele- (far), -ology (study of), -scope (see), astro- (star), chron- (time), -cracy (rule), demo- (people)."},
-        {"type": "instruction", "step": 2, "text": "Root detective challenge: Without a dictionary, use your root knowledge to guess the meaning of: 'chronograph,' 'demographic,' 'astrobiology,' 'geoscope,' 'telegraph,' 'biography.' Then check a dictionary — how close were you?"},
-        {"type": "instruction", "step": 3, "text": "Grammar stations: (1) Identify all 8 parts of speech in a paragraph. (2) Classify 10 sentences as simple, compound, complex, or compound-complex. (3) Find the topic sentence, supporting details, and concluding sentence in a paragraph."},
-        {"type": "instruction", "step": 4, "text": "Editing exercise: Copy this paragraph and correct all errors (there are 10): 'the mesapotamians invented writing called cuneform around 3200 bce they writed on clay tablets. the egyptions invented there own system called heiroglyphics which was diferent but equally importent.'"},
-        {"type": "activity", "prompt": "Write a paragraph about Q1 learning that includes at least 5 Greek/Latin root words you have studied. Underline each root word and note its root in parentheses after it. Example: 'The biography (bio = life, graph = write) of the pharaoh...'", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Greek and Latin roots are your secret weapon for vocabulary — knowing roots lets you decode thousands of words you have never seen before. Keep your flashcards for ongoing review.", "mastery_check": "Can the student use root knowledge to decode unfamiliar words, identify grammar structures, and edit for conventions?"}
+        {
+          "type": "title",
+          "heading": "Q1 Language Review",
+          "subheading": "Greek & Latin Roots and Grammar",
+          "image_url": "https://images.pexels.com/photos/278888/pexels-photo-278888.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Index cards",
+            "Grammar reference sheet",
+            "Q1 vocabulary list",
+            "Colored pens",
+            "Pencil"
+          ],
+          "setup_instructions": "Gather all Q1 vocabulary lists and grammar notes. Have index cards ready for flashcard creation."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Root word flashcards: Make a card for each root studied in Q1. Front: the root and its meaning. Back: 3 words that use this root. Roots to include: bio- (life), geo- (earth), graph/gram (write), tele- (far), -ology (study of), -scope (see), astro- (star), chron- (time), -cracy (rule), demo- (people)."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Root detective challenge: Without a dictionary, use your root knowledge to guess the meaning of: 'chronograph,' 'demographic,' 'astrobiology,' 'geoscope,' 'telegraph,' 'biography.' Then check a dictionary — how close were you?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Grammar stations: (1) Identify all 8 parts of speech in a paragraph. (2) Classify 10 sentences as simple, compound, complex, or compound-complex. (3) Find the topic sentence, supporting details, and concluding sentence in a paragraph."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Editing exercise: Copy this paragraph and correct all errors (there are 10): 'the mesapotamians invented writing called cuneform around 3200 bce they writed on clay tablets. the egyptions invented there own system called heiroglyphics which was diferent but equally importent.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write a paragraph about Q1 learning that includes at least 5 Greek/Latin root words you have studied. Underline each root word and note its root in parentheses after it. Example: 'The biography (bio = life, graph = write) of the pharaoh...'",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Greek and Latin roots are your secret weapon for vocabulary — knowing roots lets you decode thousands of words you have never seen before. Keep your flashcards for ongoing review.",
+          "mastery_check": "Can the student use root knowledge to decode unfamiliar words, identify grammar structures, and edit for conventions?"
+        }
       ]
     },
     "parent_notes": "Root word knowledge is one of the highest-value vocabulary strategies. Students who know 20-30 roots can decode thousands of words. The flashcards created today should be kept and reviewed periodically — consider adding them to a growing root word collection. The editing exercise connects grammar to real content (Mesopotamia and Egypt), reinforcing both skills simultaneously. If your child finds grammar review dry, the 'root detective' game adds engagement. The paragraph writing activity integrates everything into meaningful production.",
@@ -460,17 +1183,62 @@
     "instructions": "1. Provide the assessment in a quiet, low-stress environment.\n2. Section A: Exponents and scientific notation (6 problems).\n3. Section B: Fraction operations (8 problems — 2 each of add, subtract, multiply, divide).\n4. Section C: Decimal operations (6 problems).\n5. Section D: Ratios and proportions (5 problems including word problems).\n6. Section E: Scale drawing problem.\n7. Self-check with calculator and note areas for Q2 review.",
     "duration_minutes": 60,
     "lesson_type": "assessment",
-    "materials_needed": ["Assessment paper (clean lined paper)", "Pencil and eraser", "Ruler", "Graph paper for scale drawing", "Calculator for self-checking after"],
+    "materials_needed": [
+      "Assessment paper (clean lined paper)",
+      "Pencil and eraser",
+      "Ruler",
+      "Graph paper for scale drawing",
+      "Calculator for self-checking after"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Math Assessment", "subheading": "Show What You Know"},
-        {"type": "materials", "items": ["Clean lined paper", "Pencil and eraser", "Ruler", "Graph paper", "Calculator (for checking AFTER)"], "setup_instructions": "Set up a quiet workspace. Number your paper 1-25. No calculator during the assessment — only for checking afterward."},
-        {"type": "instruction", "step": 1, "text": "Section A — Exponents and Scientific Notation (1-6): (1) 4^3 = ? (2) 10^7 = ? (3) Write 6,200,000 in scientific notation. (4) Write 3.08 × 10^5 in standard form. (5) 2^8 = ? (6) Which is larger: 4.5 × 10^6 or 8.2 × 10^5? Explain."},
-        {"type": "instruction", "step": 2, "text": "Section B — Fractions (7-14): (7) 2/5 + 3/4 (8) 5/6 + 2/9 (9) 7/8 - 1/3 (10) 3 1/4 - 1 2/3 (11) 3/5 × 2/7 (12) 2 1/3 × 1 1/2 (13) 4/9 ÷ 2/3 (14) 5 ÷ 3/4"},
-        {"type": "instruction", "step": 3, "text": "Section C — Decimals (15-20): (15) 14.56 + 8.7 (16) 20.03 - 12.456 (17) 3.4 × 2.6 (18) 15.6 ÷ 0.4 (19) Convert 5/8 to a decimal (20) Convert 0.35 to a fraction in simplest form"},
-        {"type": "instruction", "step": 4, "text": "Section D — Ratios and Proportions (21-25): (21) Write the ratio 15:25 in simplest form. (22) Solve: 4/7 = x/28 (23) A map has a scale of 1 cm = 25 km. Two cities are 6.5 cm apart on the map. What is the actual distance? (24) A recipe for 6 servings uses 4 cups of flour. How much flour for 15 servings? (25) On graph paper, draw a 16 ft × 10 ft room at a scale of 1 square = 2 ft."},
-        {"type": "activity", "prompt": "Self-check: Use a calculator to verify every answer. Use a different colored pen to mark and correct any errors. For each error, write a brief note about what you did wrong so you know what to review in Q2.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Count your score: How many did you get right out of 25? 20+ = Excellent mastery, 15-19 = Good foundation with some areas to review, Below 15 = Need targeted practice in Q2. Every error is a learning opportunity.", "mastery_check": "Can the student score at least 20/25 on the comprehensive Q1 assessment?"}
+        {
+          "type": "title",
+          "heading": "Q1 Math Assessment",
+          "subheading": "Show What You Know",
+          "image_url": "https://images.pexels.com/photos/6693302/pexels-photo-6693302.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Clean lined paper",
+            "Pencil and eraser",
+            "Ruler",
+            "Graph paper",
+            "Calculator (for checking AFTER)"
+          ],
+          "setup_instructions": "Set up a quiet workspace. Number your paper 1-25. No calculator during the assessment — only for checking afterward."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Section A — Exponents and Scientific Notation (1-6): (1) 4^3 = ? (2) 10^7 = ? (3) Write 6,200,000 in scientific notation. (4) Write 3.08 × 10^5 in standard form. (5) 2^8 = ? (6) Which is larger: 4.5 × 10^6 or 8.2 × 10^5? Explain."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Section B — Fractions (7-14): (7) 2/5 + 3/4 (8) 5/6 + 2/9 (9) 7/8 - 1/3 (10) 3 1/4 - 1 2/3 (11) 3/5 × 2/7 (12) 2 1/3 × 1 1/2 (13) 4/9 ÷ 2/3 (14) 5 ÷ 3/4"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Section C — Decimals (15-20): (15) 14.56 + 8.7 (16) 20.03 - 12.456 (17) 3.4 × 2.6 (18) 15.6 ÷ 0.4 (19) Convert 5/8 to a decimal (20) Convert 0.35 to a fraction in simplest form"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Section D — Ratios and Proportions (21-25): (21) Write the ratio 15:25 in simplest form. (22) Solve: 4/7 = x/28 (23) A map has a scale of 1 cm = 25 km. Two cities are 6.5 cm apart on the map. What is the actual distance? (24) A recipe for 6 servings uses 4 cups of flour. How much flour for 15 servings? (25) On graph paper, draw a 16 ft × 10 ft room at a scale of 1 square = 2 ft."
+        },
+        {
+          "type": "activity",
+          "prompt": "Self-check: Use a calculator to verify every answer. Use a different colored pen to mark and correct any errors. For each error, write a brief note about what you did wrong so you know what to review in Q2.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Count your score: How many did you get right out of 25? 20+ = Excellent mastery, 15-19 = Good foundation with some areas to review, Below 15 = Need targeted practice in Q2. Every error is a learning opportunity.",
+          "mastery_check": "Can the student score at least 20/25 on the comprehensive Q1 assessment?"
+        }
       ]
     },
     "parent_notes": "Frame this as 'Show What You Know' rather than a test — the goal is information gathering, not stress. Let your child work independently without help during the assessment. The self-checking phase is the most valuable part — when students identify their own errors and analyze them, the learning is deeper than any correction you could make. Save this assessment in the portfolio. If your child scores below 15, don't panic — identify the specific operations causing trouble and plan targeted review during Q2. Mastery develops over time.",
@@ -488,17 +1256,64 @@
     "instructions": "1. Genetics review: DNA structure, genes, dominant/recessive traits.\n2. Punnett square practice: Solve 4-5 problems predicting offspring traits.\n3. Classification review: Kingdom → Phylum → Class → Order → Family → Genus → Species.\n4. Practice classifying organisms using a dichotomous key.\n5. Create a 'Classification Tree' for 10 organisms studied this quarter.\n6. Connect genetics to classification: Why do organisms in the same family share traits?",
     "duration_minutes": 60,
     "lesson_type": "practice",
-    "materials_needed": ["Science notebook", "Colored pencils", "Punnett square templates", "Dichotomous key (printed)", "Classification chart", "Blank paper for tree diagram"],
+    "materials_needed": [
+      "Science notebook",
+      "Colored pencils",
+      "Punnett square templates",
+      "Dichotomous key (printed)",
+      "Classification chart",
+      "Blank paper for tree diagram"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Science Review", "subheading": "Genetics and Classification"},
-        {"type": "materials", "items": ["Science notebook", "Colored pencils", "Punnett square templates", "Dichotomous key", "Classification chart", "Large blank paper"], "setup_instructions": "Open science notebook to genetics and classification sections. Set up Punnett square templates."},
-        {"type": "instruction", "step": 1, "text": "Quick review: DNA is the molecule that carries genetic instructions. Genes are sections of DNA that code for specific traits. Alleles are different versions of a gene. Dominant alleles (B) mask recessive alleles (b). Draw a quick sketch of the DNA double helix from memory."},
-        {"type": "instruction", "step": 2, "text": "Punnett square problems: (1) Cross Bb × Bb. What percentage of offspring will show the dominant trait? (2) Cross BB × bb. What are all the offspring? (3) A brown-eyed parent (Bb) crosses with a blue-eyed parent (bb). What is the probability of a blue-eyed child? (4) Two heterozygous tall plants (Tt × Tt) are crossed. What fraction will be short?"},
-        {"type": "instruction", "step": 3, "text": "Classification review: Write the mnemonic for taxonomy levels (King Philip Came Over For Good Spaghetti). Classify the house cat: Kingdom Animalia, Phylum Chordata, Class Mammalia, Order Carnivora, Family Felidae, Genus Felis, Species catus."},
-        {"type": "instruction", "step": 4, "text": "Using a dichotomous key, classify these: an organism with feathers (bird), an organism with scales and gills (fish), an organism with fur that feeds milk to young (mammal), an organism with six legs (insect). Follow the key step by step."},
-        {"type": "activity", "prompt": "Create a 'Tree of Life' diagram for 10 organisms. Start with 'All Living Things' at the base, branch into kingdoms, then continue branching until you place each organism. Use color coding: green for plants, red for animals, blue for fungi, etc.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Genetics explains WHY organisms have certain traits. Classification organizes organisms by shared traits. Together, they reveal the connected web of life on Earth — a key Montessori cosmic education concept.", "mastery_check": "Can the student solve Punnett square problems and correctly classify organisms using taxonomic levels?"}
+        {
+          "type": "title",
+          "heading": "Q1 Science Review",
+          "subheading": "Genetics and Classification",
+          "image_url": "https://images.pexels.com/photos/55827/pexels-photo-55827.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Science notebook",
+            "Colored pencils",
+            "Punnett square templates",
+            "Dichotomous key",
+            "Classification chart",
+            "Large blank paper"
+          ],
+          "setup_instructions": "Open science notebook to genetics and classification sections. Set up Punnett square templates."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Quick review: DNA is the molecule that carries genetic instructions. Genes are sections of DNA that code for specific traits. Alleles are different versions of a gene. Dominant alleles (B) mask recessive alleles (b). Draw a quick sketch of the DNA double helix from memory."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Punnett square problems: (1) Cross Bb × Bb. What percentage of offspring will show the dominant trait? (2) Cross BB × bb. What are all the offspring? (3) A brown-eyed parent (Bb) crosses with a blue-eyed parent (bb). What is the probability of a blue-eyed child? (4) Two heterozygous tall plants (Tt × Tt) are crossed. What fraction will be short?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Classification review: Write the mnemonic for taxonomy levels (King Philip Came Over For Good Spaghetti). Classify the house cat: Kingdom Animalia, Phylum Chordata, Class Mammalia, Order Carnivora, Family Felidae, Genus Felis, Species catus."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Using a dichotomous key, classify these: an organism with feathers (bird), an organism with scales and gills (fish), an organism with fur that feeds milk to young (mammal), an organism with six legs (insect). Follow the key step by step."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a 'Tree of Life' diagram for 10 organisms. Start with 'All Living Things' at the base, branch into kingdoms, then continue branching until you place each organism. Use color coding: green for plants, red for animals, blue for fungi, etc.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Genetics explains WHY organisms have certain traits. Classification organizes organisms by shared traits. Together, they reveal the connected web of life on Earth — a key Montessori cosmic education concept.",
+          "mastery_check": "Can the student solve Punnett square problems and correctly classify organisms using taxonomic levels?"
+        }
       ]
     },
     "parent_notes": "Genetics and classification are intellectually challenging topics. If Punnett squares are still confusing, use coins or colored beads to physically model the crossing. For classification, the mnemonic is essential — make sure your child has it memorized. The Tree of Life activity is a beautiful visual that shows relationships between living things. If your child is interested, this is a great time to explore the actual 'Tree of Life' interactive website (tolweb.org). The connection between genetics and classification is a deep insight: organisms share traits because they share genes inherited from common ancestors.",
@@ -516,17 +1331,65 @@
     "instructions": "1. Angle review: Measure and classify angles (acute, right, obtuse, straight, reflex) using a protractor.\n2. Polygon properties: Name and classify polygons by sides and angles. Identify regular vs. irregular.\n3. Area formulas: Rectangle (l × w), triangle (1/2 × b × h), parallelogram (b × h).\n4. Solve area and perimeter problems with real-world contexts.\n5. Composite shapes: Find the area of L-shapes and other compound figures.\n6. Geometry design project: Create a geometric design and calculate its total area.",
     "duration_minutes": 60,
     "lesson_type": "practice",
-    "materials_needed": ["Math notebook", "Protractor", "Ruler", "Compass (optional)", "Graph paper", "Colored pencils", "Calculator for checking"],
+    "materials_needed": [
+      "Math notebook",
+      "Protractor",
+      "Ruler",
+      "Compass (optional)",
+      "Graph paper",
+      "Colored pencils",
+      "Calculator for checking"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Geometry Review", "subheading": "Angles, Polygons, and Area"},
-        {"type": "materials", "items": ["Math notebook", "Protractor", "Ruler", "Graph paper", "Colored pencils", "Calculator"], "setup_instructions": "Set up with graph paper and all geometry tools. You will need plenty of space for drawing."},
-        {"type": "instruction", "step": 1, "text": "Angle practice: Draw and measure 6 angles — one of each type: acute (less than 90°), right (exactly 90°), obtuse (between 90° and 180°), straight (exactly 180°). For each, measure with the protractor and label the degree."},
-        {"type": "instruction", "step": 2, "text": "Polygon review: Draw and label each polygon — triangle, quadrilateral, pentagon, hexagon, heptagon, octagon. For each, write: number of sides, number of angles, sum of interior angles (formula: (n-2) × 180°). Check: Does a triangle's angles sum to 180°? A quadrilateral to 360°?"},
-        {"type": "instruction", "step": 3, "text": "Area problems: (1) A rectangle is 12 cm × 7 cm. Find the area and perimeter. (2) A triangle has a base of 10 cm and height of 6 cm. Find the area. (3) A parallelogram has a base of 8 cm and height of 5 cm. Find the area. (4) A room is 14 ft × 11 ft. How many square feet of carpet is needed?"},
-        {"type": "instruction", "step": 4, "text": "Composite shapes: An L-shaped room is made of two rectangles: 10 ft × 8 ft and 6 ft × 4 ft. Find the total area. Draw it on graph paper first, then calculate by splitting into rectangles."},
-        {"type": "activity", "prompt": "Create a geometric design on graph paper using at least 3 different polygon types. Color each shape differently. Then calculate the area of every shape in your design and find the total area covered. Label your work clearly.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Geometry connects math to the visual and physical world. Architects, engineers, artists, and builders all use these exact skills daily. Keep your geometry tools handy — we will build on these foundations in Q2.", "mastery_check": "Can the student measure angles, classify polygons, calculate area using appropriate formulas, and find area of composite shapes?"}
+        {
+          "type": "title",
+          "heading": "Q1 Geometry Review",
+          "subheading": "Angles, Polygons, and Area",
+          "image_url": "https://images.pexels.com/photos/6692923/pexels-photo-6692923.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math notebook",
+            "Protractor",
+            "Ruler",
+            "Graph paper",
+            "Colored pencils",
+            "Calculator"
+          ],
+          "setup_instructions": "Set up with graph paper and all geometry tools. You will need plenty of space for drawing."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Angle practice: Draw and measure 6 angles — one of each type: acute (less than 90°), right (exactly 90°), obtuse (between 90° and 180°), straight (exactly 180°). For each, measure with the protractor and label the degree."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Polygon review: Draw and label each polygon — triangle, quadrilateral, pentagon, hexagon, heptagon, octagon. For each, write: number of sides, number of angles, sum of interior angles (formula: (n-2) × 180°). Check: Does a triangle's angles sum to 180°? A quadrilateral to 360°?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Area problems: (1) A rectangle is 12 cm × 7 cm. Find the area and perimeter. (2) A triangle has a base of 10 cm and height of 6 cm. Find the area. (3) A parallelogram has a base of 8 cm and height of 5 cm. Find the area. (4) A room is 14 ft × 11 ft. How many square feet of carpet is needed?"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Composite shapes: An L-shaped room is made of two rectangles: 10 ft × 8 ft and 6 ft × 4 ft. Find the total area. Draw it on graph paper first, then calculate by splitting into rectangles."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a geometric design on graph paper using at least 3 different polygon types. Color each shape differently. Then calculate the area of every shape in your design and find the total area covered. Label your work clearly.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Geometry connects math to the visual and physical world. Architects, engineers, artists, and builders all use these exact skills daily. Keep your geometry tools handy — we will build on these foundations in Q2.",
+          "mastery_check": "Can the student measure angles, classify polygons, calculate area using appropriate formulas, and find area of composite shapes?"
+        }
       ]
     },
     "parent_notes": "Geometry is one of the most hands-on math topics — the drawing, measuring, and calculating are all concrete and visual. If your child struggles with area formulas, have them physically count grid squares on graph paper to verify formulas work. The composite shape problems are particularly useful for real-world application (calculating paint, carpet, tile). The geometric design project lets creativity merge with mathematical precision. Make sure the protractor use is accurate — this is a skill that requires practice.",
@@ -544,17 +1407,62 @@
     "instructions": "1. Rhythm review: Clap and count rhythms using whole, half, quarter, and eighth notes.\n2. Ancient music connections: Discuss instruments found in Mesopotamia (lyres, harps, drums) and Egypt (sistrums, flutes, harps).\n3. Melody review: Read and play (or sing) a simple melody on the staff.\n4. Musical vocabulary: tempo, dynamics, rhythm, melody, harmony, scale.\n5. Compose a short rhythmic piece (4-8 measures) and perform it.\n6. Reflect on the universal human need for music across all civilizations.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Rhythm instruments (drums, shakers, or homemade)", "Staff paper or printed music sheets", "Pencil", "Reference images of ancient instruments", "Any melodic instrument available (recorder, piano, xylophone)"],
+    "materials_needed": [
+      "Rhythm instruments (drums, shakers, or homemade)",
+      "Staff paper or printed music sheets",
+      "Pencil",
+      "Reference images of ancient instruments",
+      "Any melodic instrument available (recorder, piano, xylophone)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Music Review", "subheading": "Rhythm, Melody, and Ancient Music"},
-        {"type": "materials", "items": ["Rhythm instruments", "Staff paper", "Pencil", "Ancient instrument images", "Available melodic instrument"], "setup_instructions": "Set up music area with instruments and staff paper. Display images of ancient Mesopotamian and Egyptian instruments."},
-        {"type": "instruction", "step": 1, "text": "Rhythm warm-up: Clap these rhythms while counting aloud. (1) Four quarter notes: 1-2-3-4. (2) Two half notes: 1-2, 3-4. (3) One whole note: 1-2-3-4. (4) Eight eighth notes: 1-and-2-and-3-and-4-and. Mix them up and clap the combinations."},
-        {"type": "instruction", "step": 2, "text": "Ancient music connections: Music is one of the oldest human activities. The Sumerians had professional musicians and wrote songs on clay tablets. Egyptians played music at festivals, funerals, and worship. The Royal Tombs of Ur contained beautifully crafted lyres over 4,500 years old."},
-        {"type": "instruction", "step": 3, "text": "Melody review: Using a melodic instrument (or singing), play the C major scale: C-D-E-F-G-A-B-C. Now play the first line of a simple folk song. Notice how melodies move by step (next note) and by skip (jumping over notes)."},
-        {"type": "instruction", "step": 4, "text": "Musical vocabulary check: Define each term and give an example. Tempo (speed of music), Dynamics (loud and soft), Rhythm (pattern of beats), Melody (the tune), Scale (a set of notes in order), Rest (silence in music)."},
-        {"type": "activity", "prompt": "Compose a short rhythmic piece (4-8 measures). Write it on staff paper using quarter notes, half notes, whole notes, and rests. Give it a title connected to Q1 studies (e.g., 'March of the Pharaohs' or 'Cosmic Drumbeat'). Perform it!", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Every civilization we study created music. Music is a universal human language. As we study new civilizations in Q2, listen for how their music reflects their culture, geography, and beliefs.", "mastery_check": "Can the student read and perform rhythms, identify musical vocabulary, and compose a short rhythmic piece?"}
+        {
+          "type": "title",
+          "heading": "Q1 Music Review",
+          "subheading": "Rhythm, Melody, and Ancient Music",
+          "image_url": "https://images.pexels.com/photos/8612991/pexels-photo-8612991.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Rhythm instruments",
+            "Staff paper",
+            "Pencil",
+            "Ancient instrument images",
+            "Available melodic instrument"
+          ],
+          "setup_instructions": "Set up music area with instruments and staff paper. Display images of ancient Mesopotamian and Egyptian instruments."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Rhythm warm-up: Clap these rhythms while counting aloud. (1) Four quarter notes: 1-2-3-4. (2) Two half notes: 1-2, 3-4. (3) One whole note: 1-2-3-4. (4) Eight eighth notes: 1-and-2-and-3-and-4-and. Mix them up and clap the combinations."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Ancient music connections: Music is one of the oldest human activities. The Sumerians had professional musicians and wrote songs on clay tablets. Egyptians played music at festivals, funerals, and worship. The Royal Tombs of Ur contained beautifully crafted lyres over 4,500 years old."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Melody review: Using a melodic instrument (or singing), play the C major scale: C-D-E-F-G-A-B-C. Now play the first line of a simple folk song. Notice how melodies move by step (next note) and by skip (jumping over notes)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Musical vocabulary check: Define each term and give an example. Tempo (speed of music), Dynamics (loud and soft), Rhythm (pattern of beats), Melody (the tune), Scale (a set of notes in order), Rest (silence in music)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Compose a short rhythmic piece (4-8 measures). Write it on staff paper using quarter notes, half notes, whole notes, and rests. Give it a title connected to Q1 studies (e.g., 'March of the Pharaohs' or 'Cosmic Drumbeat'). Perform it!",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Every civilization we study created music. Music is a universal human language. As we study new civilizations in Q2, listen for how their music reflects their culture, geography, and beliefs.",
+          "mastery_check": "Can the student read and perform rhythms, identify musical vocabulary, and compose a short rhythmic piece?"
+        }
       ]
     },
     "parent_notes": "Music education does not require expensive instruments — body percussion (clapping, stomping, patting knees) works perfectly for rhythm. If you have a recorder, piano, or xylophone, use it for the melody section. If not, singing is the most natural instrument. The connection between ancient civilizations and music is fascinating — YouTube has reconstructions of ancient Sumerian and Egyptian music that are worth listening to. The composition activity should be fun, not stressful. Even 4 measures of quarter notes with an interesting rhythm pattern is a valid composition.",
@@ -572,17 +1480,62 @@
     "instructions": "1. Brainstorm Q1 highlights across all subjects: favorite lessons, biggest challenges, proudest moments.\n2. Discuss the letter format: date, greeting, body paragraphs, closing.\n3. Write the letter covering: What I learned, What challenged me, What I am proud of, What I look forward to in Q2.\n4. Include specific examples from at least 4 different subjects.\n5. Seal the letter in an envelope to be opened at the end of Q2.\n6. Preview Q2 themes briefly to build excitement.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Lined stationery or nice paper", "Pencil or pen", "Envelope", "Q1 portfolio for reference", "Decorating supplies for envelope"],
+    "materials_needed": [
+      "Lined stationery or nice paper",
+      "Pencil or pen",
+      "Envelope",
+      "Q1 portfolio for reference",
+      "Decorating supplies for envelope"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Letter to My Future Self", "subheading": "Q1 Reflection and Time Capsule"},
-        {"type": "materials", "items": ["Nice stationery or lined paper", "Pen (this is a final copy — use pen!)", "Envelope", "Q1 portfolio for reference", "Stickers or stamps for envelope"], "setup_instructions": "Set up a quiet writing space. Have your Q1 portfolio and work samples available for reference. This is a thoughtful, reflective activity."},
-        {"type": "instruction", "step": 1, "text": "Before writing, brainstorm: Flip through your Q1 work. What stands out? Make a quick list: My favorite lesson was... The hardest thing I did was... I am most proud of... I was surprised to learn... Something I want to get better at..."},
-        {"type": "instruction", "step": 2, "text": "Letter format: Date at the top, 'Dear Future Me,' as the greeting. Write at least 4 paragraphs covering different aspects of your Q1 experience. Use specific details — future you will want to remember exactly what this felt like."},
-        {"type": "instruction", "step": 3, "text": "Paragraph ideas: (1) What you learned in history and science — specific facts or ideas that amazed you. (2) Your growth as a writer — compare your early writing to your research paper. (3) Math skills you have gained — what can you do now that you could not do before? (4) Goals and hopes for Q2."},
-        {"type": "instruction", "step": 4, "text": "Write your letter in your best handwriting. This is a final copy — take your time. Make it something you would be proud to read months from now. Sign it with your full name and the date."},
-        {"type": "activity", "prompt": "Seal your letter in the envelope. Write on the front: 'Do Not Open Until [end of Q2 date].' Decorate the envelope. Then, on a separate piece of paper, write 3 predictions: Where will I be in my studies by the end of Q2?", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Congratulations on completing Quarter 1! You have studied the cosmos, ancient civilizations, cell biology, advanced math, and written a full research paper. In Q2, we travel to ancient India, China, and Greece — some of the most fascinating civilizations in history. The adventure continues!", "mastery_check": "Did the student write a reflective letter with specific examples from at least 4 subjects, demonstrating metacognitive awareness of their learning?"}
+        {
+          "type": "title",
+          "heading": "Letter to My Future Self",
+          "subheading": "Q1 Reflection and Time Capsule",
+          "image_url": "https://images.pexels.com/photos/256468/pexels-photo-256468.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Nice stationery or lined paper",
+            "Pen (this is a final copy — use pen!)",
+            "Envelope",
+            "Q1 portfolio for reference",
+            "Stickers or stamps for envelope"
+          ],
+          "setup_instructions": "Set up a quiet writing space. Have your Q1 portfolio and work samples available for reference. This is a thoughtful, reflective activity."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Before writing, brainstorm: Flip through your Q1 work. What stands out? Make a quick list: My favorite lesson was... The hardest thing I did was... I am most proud of... I was surprised to learn... Something I want to get better at..."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Letter format: Date at the top, 'Dear Future Me,' as the greeting. Write at least 4 paragraphs covering different aspects of your Q1 experience. Use specific details — future you will want to remember exactly what this felt like."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Paragraph ideas: (1) What you learned in history and science — specific facts or ideas that amazed you. (2) Your growth as a writer — compare your early writing to your research paper. (3) Math skills you have gained — what can you do now that you could not do before? (4) Goals and hopes for Q2."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Write your letter in your best handwriting. This is a final copy — take your time. Make it something you would be proud to read months from now. Sign it with your full name and the date."
+        },
+        {
+          "type": "activity",
+          "prompt": "Seal your letter in the envelope. Write on the front: 'Do Not Open Until [end of Q2 date].' Decorate the envelope. Then, on a separate piece of paper, write 3 predictions: Where will I be in my studies by the end of Q2?",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Congratulations on completing Quarter 1! You have studied the cosmos, ancient civilizations, cell biology, advanced math, and written a full research paper. In Q2, we travel to ancient India, China, and Greece — some of the most fascinating civilizations in history. The adventure continues!",
+          "mastery_check": "Did the student write a reflective letter with specific examples from at least 4 subjects, demonstrating metacognitive awareness of their learning?"
+        }
       ]
     },
     "parent_notes": "This letter is a powerful metacognitive tool. When your child opens it at the end of Q2, they will be amazed at how much they have grown. Make the sealing ceremony special — use a sticker 'seal,' store it somewhere meaningful. The letter also serves as a written reflection that demonstrates self-awareness about learning. If your child struggles with the reflection, prompt them with questions: 'What was hard at first but got easier?' 'What surprised you?' 'What do you wish you had spent more time on?' The Q2 preview builds anticipation — mention ancient India, China, and Greece to spark curiosity.",
@@ -600,17 +1553,62 @@
     "instructions": "1. Fraction War card game: Deal cards to players, form fractions, compare. Highest fraction wins the round.\n2. Exponent Bingo: Call out exponent expressions, players calculate and cover the answer.\n3. Ratio Scavenger Hunt: Find real-world ratios around the house.\n4. Math Puzzle Challenge: Logic puzzles and brain teasers using Q1 skills.\n5. Create a math game for a younger student.\n6. Reflect: What math concept are you most confident in now?",
     "duration_minutes": 60,
     "lesson_type": "enrichment",
-    "materials_needed": ["Deck of playing cards", "Bingo cards (homemade)", "Scavenger hunt checklist", "Math puzzle sheets", "Blank paper for game creation", "Small prizes or treats (optional)"],
+    "materials_needed": [
+      "Deck of playing cards",
+      "Bingo cards (homemade)",
+      "Scavenger hunt checklist",
+      "Math puzzle sheets",
+      "Blank paper for game creation",
+      "Small prizes or treats (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Math Celebration", "subheading": "Games, Puzzles, and Challenges"},
-        {"type": "materials", "items": ["Deck of playing cards", "Homemade Bingo cards", "Pencil and paper", "Small treats for prizes (optional)"], "setup_instructions": "Set up game stations around the room. Prepare Bingo cards with answers to exponent problems. This is a celebration — make it fun!"},
-        {"type": "instruction", "step": 1, "text": "Game 1 — Fraction War: Remove face cards. Each player draws 2 cards — top card is the numerator, bottom is the denominator. Compare fractions. Highest fraction wins both sets. If fractions are equal, it is WAR (draw again). Play for 5 minutes."},
-        {"type": "instruction", "step": 2, "text": "Game 2 — Exponent Bingo: Make a 4×4 grid. Fill it with these numbers in random order: 1, 4, 8, 9, 16, 25, 27, 32, 36, 49, 64, 81, 100, 125, 256, 1000. A caller says expressions like '5 squared' — if 25 is on your card, cover it. Four in a row wins!"},
-        {"type": "instruction", "step": 3, "text": "Game 3 — Ratio Scavenger Hunt: Find 10 ratios in your house. Examples: windows to doors, books to shelves, forks to spoons, red items to blue items. Write each ratio in all three forms. Simplify each one."},
-        {"type": "instruction", "step": 4, "text": "Challenge puzzles: (1) I am a fraction. My numerator is 3 less than my denominator. I simplify to 2/5. What fraction am I? (2) Use the digits 1-9 exactly once to make three 3-digit numbers that add up to 999. (3) What is the smallest number divisible by 1, 2, 3, 4, 5, and 6?"},
-        {"type": "activity", "prompt": "Design your own math game that uses at least one Q1 concept (fractions, decimals, exponents, ratios, or scale). Write clear rules, make the game materials, and play it with a family member. Could a younger student play your game?", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Math is not just worksheets — it is patterns, puzzles, games, and real-world problem solving. You have built a strong mathematical foundation in Q1. Q2 will bring percentages, pre-algebra, and more exciting challenges!", "mastery_check": "Did the student engage enthusiastically in math games and create a playable original math game?"}
+        {
+          "type": "title",
+          "heading": "Q1 Math Celebration",
+          "subheading": "Games, Puzzles, and Challenges",
+          "image_url": "https://images.pexels.com/photos/311269/pexels-photo-311269.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Deck of playing cards",
+            "Homemade Bingo cards",
+            "Pencil and paper",
+            "Small treats for prizes (optional)"
+          ],
+          "setup_instructions": "Set up game stations around the room. Prepare Bingo cards with answers to exponent problems. This is a celebration — make it fun!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Game 1 — Fraction War: Remove face cards. Each player draws 2 cards — top card is the numerator, bottom is the denominator. Compare fractions. Highest fraction wins both sets. If fractions are equal, it is WAR (draw again). Play for 5 minutes."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Game 2 — Exponent Bingo: Make a 4×4 grid. Fill it with these numbers in random order: 1, 4, 8, 9, 16, 25, 27, 32, 36, 49, 64, 81, 100, 125, 256, 1000. A caller says expressions like '5 squared' — if 25 is on your card, cover it. Four in a row wins!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Game 3 — Ratio Scavenger Hunt: Find 10 ratios in your house. Examples: windows to doors, books to shelves, forks to spoons, red items to blue items. Write each ratio in all three forms. Simplify each one."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Challenge puzzles: (1) I am a fraction. My numerator is 3 less than my denominator. I simplify to 2/5. What fraction am I? (2) Use the digits 1-9 exactly once to make three 3-digit numbers that add up to 999. (3) What is the smallest number divisible by 1, 2, 3, 4, 5, and 6?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Design your own math game that uses at least one Q1 concept (fractions, decimals, exponents, ratios, or scale). Write clear rules, make the game materials, and play it with a family member. Could a younger student play your game?",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Math is not just worksheets — it is patterns, puzzles, games, and real-world problem solving. You have built a strong mathematical foundation in Q1. Q2 will bring percentages, pre-algebra, and more exciting challenges!",
+          "mastery_check": "Did the student engage enthusiastically in math games and create a playable original math game?"
+        }
       ]
     },
     "parent_notes": "End the quarter with joy! These games review concepts without the pressure of assessment. Play the games WITH your child — your participation makes it special. Fraction War is addictive and builds fraction comparison fluency. The Ratio Scavenger Hunt gets kids moving and noticing math in everyday life. The challenge puzzles are meant to be hard — celebrate effort and creative thinking, not just correct answers. If your child creates a game for a younger sibling, that is teaching — the highest form of learning. Consider making this a regular tradition to end each quarter.",
@@ -628,17 +1626,63 @@
     "instructions": "1. Prepare 30+ geography questions across all Q1 topics.\n2. Organize into rounds: Solar System, Physical Earth, Biomes, Human Geography, Ancient Geography.\n3. Use a mix of question types: identification, map skills, explanation, comparison.\n4. Include visual rounds: identify features on a blank map.\n5. Keep score and celebrate all participants.\n6. Discuss any questions that stumped everyone — these become Q2 review targets.",
     "duration_minutes": 60,
     "lesson_type": "enrichment",
-    "materials_needed": ["Question cards (prepared in advance)", "Blank world map for visual rounds", "Score sheet", "Atlas for verification", "Small prizes (optional)", "Timer for bonus rounds"],
+    "materials_needed": [
+      "Question cards (prepared in advance)",
+      "Blank world map for visual rounds",
+      "Score sheet",
+      "Atlas for verification",
+      "Small prizes (optional)",
+      "Timer for bonus rounds"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Q1 Geography Bee", "subheading": "Test Your World Knowledge!"},
-        {"type": "materials", "items": ["Prepared question cards", "Blank world maps (2-3 copies)", "Score sheet", "Atlas for checking", "Timer"], "setup_instructions": "A parent or sibling should prepare or read the questions. Set up a 'competition area' with a podium (or designated answering spot) for fun."},
-        {"type": "instruction", "step": 1, "text": "Round 1 — Solar System (5 questions): Name the planets in order. What is the difference between rotation and revolution? Why does Earth have seasons? What is the asteroid belt? Name 3 moons besides Earth's."},
-        {"type": "instruction", "step": 2, "text": "Round 2 — Physical Earth (5 questions): What causes earthquakes? Name 3 types of plate boundaries. What is the Ring of Fire? How are mountains formed? What are the 3 types of rocks?"},
-        {"type": "instruction", "step": 3, "text": "Round 3 — Biomes and Migration (5 questions): Name 5 major biomes. What biome has permafrost? Where did Homo sapiens first appear? Name 2 factors that drove human migration. What is the Bering Land Bridge theory?"},
-        {"type": "instruction", "step": 4, "text": "Round 4 — Map Skills (visual round): On a blank map, label: Tigris River, Euphrates River, Nile River, Mediterranean Sea, Red Sea, Persian Gulf, Fertile Crescent, Sahara Desert, Sinai Peninsula. Score 1 point per correct label."},
-        {"type": "activity", "prompt": "Lightning Round! Answer as many as possible in 2 minutes: What continent is Egypt on? What body of water is east of Mesopotamia? What does 'Mesopotamia' mean? What grows in the Nile Delta? What direction does the Nile flow? Continue rapid-fire with Q1 geography facts.", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "Tally the scores! Whether you won or not, every question you answered correctly represents knowledge you have built this quarter. Note any topics you want to review — they will come back throughout the year.", "mastery_check": "Can the student answer at least 70% of Q1 geography questions correctly?"}
+        {
+          "type": "title",
+          "heading": "Q1 Geography Bee",
+          "subheading": "Test Your World Knowledge!",
+          "image_url": "https://images.pexels.com/photos/6990592/pexels-photo-6990592.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Prepared question cards",
+            "Blank world maps (2-3 copies)",
+            "Score sheet",
+            "Atlas for checking",
+            "Timer"
+          ],
+          "setup_instructions": "A parent or sibling should prepare or read the questions. Set up a 'competition area' with a podium (or designated answering spot) for fun."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Round 1 — Solar System (5 questions): Name the planets in order. What is the difference between rotation and revolution? Why does Earth have seasons? What is the asteroid belt? Name 3 moons besides Earth's."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Round 2 — Physical Earth (5 questions): What causes earthquakes? Name 3 types of plate boundaries. What is the Ring of Fire? How are mountains formed? What are the 3 types of rocks?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Round 3 — Biomes and Migration (5 questions): Name 5 major biomes. What biome has permafrost? Where did Homo sapiens first appear? Name 2 factors that drove human migration. What is the Bering Land Bridge theory?"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Round 4 — Map Skills (visual round): On a blank map, label: Tigris River, Euphrates River, Nile River, Mediterranean Sea, Red Sea, Persian Gulf, Fertile Crescent, Sahara Desert, Sinai Peninsula. Score 1 point per correct label."
+        },
+        {
+          "type": "activity",
+          "prompt": "Lightning Round! Answer as many as possible in 2 minutes: What continent is Egypt on? What body of water is east of Mesopotamia? What does 'Mesopotamia' mean? What grows in the Nile Delta? What direction does the Nile flow? Continue rapid-fire with Q1 geography facts.",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "Tally the scores! Whether you won or not, every question you answered correctly represents knowledge you have built this quarter. Note any topics you want to review — they will come back throughout the year.",
+          "mastery_check": "Can the student answer at least 70% of Q1 geography questions correctly?"
+        }
       ]
     },
     "parent_notes": "Geography bees are engaging and motivating. If your child is the only participant, play alongside them or have them 'challenge' you — they will love knowing more than a parent! Prepare the questions in advance or use the ones in the slides. The map skills round is particularly valuable — labeling a blank map requires true spatial understanding, not just memorization. If some questions are too hard, they become learning moments rather than failures. Consider making this a quarterly tradition. Keep the atmosphere celebratory, not stressful.",
@@ -656,17 +1700,61 @@
     "instructions": "1. Plan a themed dinner or snack inspired by ancient civilizations.\n2. Research foods available in ancient Mesopotamia and Egypt: flatbread, dates, honey, figs, lentils, barley.\n3. Prepare 1-2 simple dishes with adult supervision.\n4. Create table decorations inspired by ancient art styles.\n5. Share facts about each civilization during the meal.\n6. Discuss: What traditions from these cultures do we still practice today?",
     "duration_minutes": 60,
     "lesson_type": "project",
-    "materials_needed": ["Recipe ingredients (flatbread, hummus, dates, honey, figs)", "Kitchen supplies", "Craft supplies for decorations", "Music from or inspired by ancient cultures (optional)", "Q1 work to display during celebration"],
+    "materials_needed": [
+      "Recipe ingredients (flatbread, hummus, dates, honey, figs)",
+      "Kitchen supplies",
+      "Craft supplies for decorations",
+      "Music from or inspired by ancient cultures (optional)",
+      "Q1 work to display during celebration"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Feast of Civilizations", "subheading": "A Q1 Cultural Celebration"},
-        {"type": "materials", "items": ["Ingredients for ancient-inspired recipes", "Kitchen supplies", "Craft materials for decorations", "Q1 work for display"], "setup_instructions": "Shop in advance for ingredients. Set up the kitchen workspace and the dining/celebration area."},
-        {"type": "instruction", "step": 1, "text": "Menu planning: Ancient Mesopotamians and Egyptians ate many foods we still enjoy. Choose 1-2 to prepare: Simple flatbread (flour, water, salt, olive oil), Hummus (chickpeas, tahini, lemon, garlic), Date and honey balls (dates, nuts, honey), Lentil soup, Fresh figs or grapes."},
-        {"type": "instruction", "step": 2, "text": "Prepare your chosen dishes with adult supervision. As you cook, discuss: 'These are some of the oldest recipes in human history. Mesopotamian tablets include recipes for stews and bread from over 3,800 years ago. Egyptians were expert bakers — they made over 40 types of bread!'"},
-        {"type": "instruction", "step": 3, "text": "Create table decorations: Fold paper into pyramids or ziggurats. Draw hieroglyphic place cards. Make a centerpiece inspired by ancient art (a paper lotus flower, a clay scarab, or a printed image of the Royal Standard of Ur)."},
-        {"type": "instruction", "step": 4, "text": "During the feast, each person shares their favorite fact from Q1. Take turns being the 'expert' on different topics: one person shares about Egyptian pyramids, another about Mesopotamian writing, another about genetics, another about math discoveries."},
-        {"type": "activity", "prompt": "Write a 'toast' (a short speech) to give at the beginning of the feast. Thank the ancient civilizations for their contributions to our world. Mention at least 3 specific things we learned from them. Deliver your toast standing up!", "duration_minutes": 10},
-        {"type": "wrap_up", "text": "What a quarter! You have traveled from the Big Bang to ancient Egypt, explored cells and DNA, mastered fractions and exponents, written a research paper, and created beautiful art. Enjoy your feast — you have earned it!", "mastery_check": "Did the student plan and participate in the celebration, connecting food and cultural elements to Q1 studies?"}
+        {
+          "type": "title",
+          "heading": "Feast of Civilizations",
+          "subheading": "A Q1 Cultural Celebration",
+          "image_url": "https://images.pexels.com/photos/4714521/pexels-photo-4714521.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Ingredients for ancient-inspired recipes",
+            "Kitchen supplies",
+            "Craft materials for decorations",
+            "Q1 work for display"
+          ],
+          "setup_instructions": "Shop in advance for ingredients. Set up the kitchen workspace and the dining/celebration area."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Menu planning: Ancient Mesopotamians and Egyptians ate many foods we still enjoy. Choose 1-2 to prepare: Simple flatbread (flour, water, salt, olive oil), Hummus (chickpeas, tahini, lemon, garlic), Date and honey balls (dates, nuts, honey), Lentil soup, Fresh figs or grapes."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Prepare your chosen dishes with adult supervision. As you cook, discuss: 'These are some of the oldest recipes in human history. Mesopotamian tablets include recipes for stews and bread from over 3,800 years ago. Egyptians were expert bakers — they made over 40 types of bread!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Create table decorations: Fold paper into pyramids or ziggurats. Draw hieroglyphic place cards. Make a centerpiece inspired by ancient art (a paper lotus flower, a clay scarab, or a printed image of the Royal Standard of Ur)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "During the feast, each person shares their favorite fact from Q1. Take turns being the 'expert' on different topics: one person shares about Egyptian pyramids, another about Mesopotamian writing, another about genetics, another about math discoveries."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write a 'toast' (a short speech) to give at the beginning of the feast. Thank the ancient civilizations for their contributions to our world. Mention at least 3 specific things we learned from them. Deliver your toast standing up!",
+          "duration_minutes": 10
+        },
+        {
+          "type": "wrap_up",
+          "text": "What a quarter! You have traveled from the Big Bang to ancient Egypt, explored cells and DNA, mastered fractions and exponents, written a research paper, and created beautiful art. Enjoy your feast — you have earned it!",
+          "mastery_check": "Did the student plan and participate in the celebration, connecting food and cultural elements to Q1 studies?"
+        }
       ]
     },
     "parent_notes": "This celebration brings the quarter full circle. Food is one of the most powerful connections to history — preparing and eating ancient foods makes civilizations feel real. Flatbread is the simplest recipe and connects to both civilizations. If you have dates and honey, the date balls are delicious and no-cook. The 'toast' activity practices public speaking in a low-stakes, celebratory context. Take photos of the whole event — the table, the food, the decorations, the display of work. This is what Montessori education looks like at its best: joyful, integrated, and connected to the real world.",
@@ -684,17 +1772,60 @@
     "instructions": "1. Read an age-appropriate excerpt from the Epic of Gilgamesh (the flood story or the friendship of Gilgamesh and Enkidu).\n2. Read the myth of Osiris, Isis, and Horus.\n3. Discuss: What do these myths explain about the world? What values do they teach?\n4. Compare: How are the flood stories of Gilgamesh and Noah similar? What does this suggest?\n5. Discuss: Why do all civilizations create myths?\n6. Personal response: What is your favorite myth from Q1 and why?",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Age-appropriate mythology book or printed excerpts", "Reading journal", "World map showing Mesopotamia and Egypt", "Pencil"],
+    "materials_needed": [
+      "Age-appropriate mythology book or printed excerpts",
+      "Reading journal",
+      "World map showing Mesopotamia and Egypt",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Myths of the Ancient World", "subheading": "Stories That Shaped Civilizations"},
-        {"type": "materials", "items": ["Mythology book or printed excerpts", "Reading journal", "World map", "Pencil"], "setup_instructions": "Select age-appropriate versions of the Gilgamesh excerpt and Egyptian myths. Find a comfortable storytelling spot."},
-        {"type": "instruction", "step": 1, "text": "The Epic of Gilgamesh is the oldest known written story — over 4,000 years old! Read the excerpt about Gilgamesh's friendship with Enkidu, or the flood story where Utnapishtim builds a boat to survive a great flood sent by the gods."},
-        {"type": "instruction", "step": 2, "text": "Read the Egyptian myth of Osiris and Isis: Osiris, a good king, is murdered by his jealous brother Set. Isis, his devoted wife, searches for his body and uses magic to bring him back to life. Their son Horus defeats Set and becomes king."},
-        {"type": "instruction", "step": 3, "text": "Discuss: What do these myths explain? (The Gilgamesh flood story explains why floods happen. The Osiris myth explains death and rebirth, connected to the Nile's annual flooding.) Myths were ancient people's way of making sense of the world."},
-        {"type": "instruction", "step": 4, "text": "Compare flood stories: Gilgamesh's flood story and the biblical flood story of Noah are remarkably similar — a righteous person, a divine warning, a boat, animals saved, a dove sent out. Since Mesopotamia is older, what might this tell us about how stories travel between cultures?"},
-        {"type": "activity", "prompt": "In your reading journal, write about: What is one myth from Q1 that stayed with you? Why do you think it is memorable? What truth about human nature does it reveal? Then try writing your own short origin myth explaining something in nature (why the sun rises, why seasons change, etc.).", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Every civilization we will study — India, China, Greece — has its own rich mythology. Myths are humanity's first literature, first science, and first philosophy. They reveal what people feared, valued, and wondered about. Q1 is complete — well done!", "mastery_check": "Can the student retell key myths, explain their cultural significance, and draw comparisons between mythological traditions?"}
+        {
+          "type": "title",
+          "heading": "Myths of the Ancient World",
+          "subheading": "Stories That Shaped Civilizations",
+          "image_url": "https://images.pexels.com/photos/5951842/pexels-photo-5951842.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Mythology book or printed excerpts",
+            "Reading journal",
+            "World map",
+            "Pencil"
+          ],
+          "setup_instructions": "Select age-appropriate versions of the Gilgamesh excerpt and Egyptian myths. Find a comfortable storytelling spot."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The Epic of Gilgamesh is the oldest known written story — over 4,000 years old! Read the excerpt about Gilgamesh's friendship with Enkidu, or the flood story where Utnapishtim builds a boat to survive a great flood sent by the gods."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the Egyptian myth of Osiris and Isis: Osiris, a good king, is murdered by his jealous brother Set. Isis, his devoted wife, searches for his body and uses magic to bring him back to life. Their son Horus defeats Set and becomes king."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Discuss: What do these myths explain? (The Gilgamesh flood story explains why floods happen. The Osiris myth explains death and rebirth, connected to the Nile's annual flooding.) Myths were ancient people's way of making sense of the world."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Compare flood stories: Gilgamesh's flood story and the biblical flood story of Noah are remarkably similar — a righteous person, a divine warning, a boat, animals saved, a dove sent out. Since Mesopotamia is older, what might this tell us about how stories travel between cultures?"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal, write about: What is one myth from Q1 that stayed with you? Why do you think it is memorable? What truth about human nature does it reveal? Then try writing your own short origin myth explaining something in nature (why the sun rises, why seasons change, etc.).",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Every civilization we will study — India, China, Greece — has its own rich mythology. Myths are humanity's first literature, first science, and first philosophy. They reveal what people feared, valued, and wondered about. Q1 is complete — well done!",
+          "mastery_check": "Can the student retell key myths, explain their cultural significance, and draw comparisons between mythological traditions?"
+        }
       ]
     },
     "parent_notes": "Mythology is endlessly fascinating for this age group. The flood story comparison (Gilgamesh vs. Noah) often sparks deep thinking about cultural transmission and shared human experience. Handle the comparison sensitively if your family has religious connections to these stories — frame it as 'stories that traveled and were told in different ways by different cultures.' The original myth writing activity is creative and fun. If your child gets excited about mythology, this is a perfect lead-in to Q2, where Greek myths will feature prominently. Recommended books: D'Aulaires' Book of Greek Myths (preview for Q2), Tales of Ancient Egypt by Roger Lancelyn Green.",

@@ -10,17 +10,60 @@
     "instructions": "1. Ask: 'Have you ever seen a play or a movie? What's different about a play compared to a book?'\n2. Introduce drama vocabulary: characters, dialogue, stage directions, scene, act.\n3. Show a formatted play script. Point out: character names before dialogue, stage directions in brackets/italics.\n4. Read a short play excerpt together, assigning roles.\n5. Discuss: How is reading a play different from reading a story? (No narrator — everything is told through dialogue and action.)\n6. Child identifies characters, dialogue, and stage directions in a second excerpt.\n7. Discuss: Why do playwrights use stage directions?",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Short play script (age-appropriate)", "Drama vocabulary chart", "Highlighters (3 colors)", "Pencil and paper"],
+    "materials_needed": [
+      "Short play script (age-appropriate)",
+      "Drama vocabulary chart",
+      "Highlighters (3 colors)",
+      "Pencil and paper"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Introduction to Drama", "subheading": "What Makes a Play?"},
-        {"type": "materials", "items": ["Printed short play script (e.g., a scene from a children's play)", "Drama vocabulary chart (characters, dialogue, stage directions, scene, act)", "Three different colored highlighters", "Pencil and paper"], "setup_instructions": "Select a short, engaging play scene — adaptations of fairy tales work well. Print two copies: one for reading aloud and one for the highlighting activity. Create a vocabulary chart with definitions and examples."},
-        {"type": "instruction", "step": 1, "text": "'Today we're starting something exciting: DRAMA — the art of plays and theater! A play is a story performed by actors on a stage. But before it's performed, someone has to WRITE it. That writer is called a PLAYWRIGHT.'"},
-        {"type": "instruction", "step": 2, "text": "Introduce the elements: CHARACTERS — the people in the play. DIALOGUE — the words characters speak. STAGE DIRECTIONS — instructions for actors [written in brackets or italics] telling them how to move, speak, or feel. SCENE — a section of the play set in one location. ACT — a major division (like chapters in a book)."},
-        {"type": "instruction", "step": 3, "text": "Show the play script. 'Notice the format: the character's name comes BEFORE their line, followed by a colon. Stage directions are in [brackets]. There's no narrator saying \"he said\" or \"she felt\" — everything must be shown through dialogue and action.'"},
-        {"type": "instruction", "step": 4, "text": "Read the scene together, taking roles. Parent reads one character, child reads the other. Read stage directions in a different voice. 'Did you feel the story come alive when we read it as characters? That's the power of drama!'"},
-        {"type": "activity", "prompt": "Using your highlighters, color-code the second play excerpt: YELLOW for character names, BLUE for dialogue, PINK for stage directions. Then answer: How many characters are in this scene? What emotion is each character feeling? How do the stage directions help you understand the scene?", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "In a play, there's no narrator to explain what characters think or feel. Everything must be communicated through what they SAY and DO. This week, you'll learn to write your own play scene — becoming a real playwright!", "mastery_check": "Can the child identify characters, dialogue, and stage directions in a play script and explain how drama differs from prose?"}
+        {
+          "type": "title",
+          "heading": "Introduction to Drama",
+          "subheading": "What Makes a Play?",
+          "image_url": "https://images.pexels.com/photos/1337387/pexels-photo-1337387.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed short play script (e.g., a scene from a children's play)",
+            "Drama vocabulary chart (characters, dialogue, stage directions, scene, act)",
+            "Three different colored highlighters",
+            "Pencil and paper"
+          ],
+          "setup_instructions": "Select a short, engaging play scene — adaptations of fairy tales work well. Print two copies: one for reading aloud and one for the highlighting activity. Create a vocabulary chart with definitions and examples."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today we're starting something exciting: DRAMA — the art of plays and theater! A play is a story performed by actors on a stage. But before it's performed, someone has to WRITE it. That writer is called a PLAYWRIGHT.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce the elements: CHARACTERS — the people in the play. DIALOGUE — the words characters speak. STAGE DIRECTIONS — instructions for actors [written in brackets or italics] telling them how to move, speak, or feel. SCENE — a section of the play set in one location. ACT — a major division (like chapters in a book)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show the play script. 'Notice the format: the character's name comes BEFORE their line, followed by a colon. Stage directions are in [brackets]. There's no narrator saying \"he said\" or \"she felt\" — everything must be shown through dialogue and action.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Read the scene together, taking roles. Parent reads one character, child reads the other. Read stage directions in a different voice. 'Did you feel the story come alive when we read it as characters? That's the power of drama!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Using your highlighters, color-code the second play excerpt: YELLOW for character names, BLUE for dialogue, PINK for stage directions. Then answer: How many characters are in this scene? What emotion is each character feeling? How do the stage directions help you understand the scene?",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "In a play, there's no narrator to explain what characters think or feel. Everything must be communicated through what they SAY and DO. This week, you'll learn to write your own play scene — becoming a real playwright!",
+          "mastery_check": "Can the child identify characters, dialogue, and stage directions in a play script and explain how drama differs from prose?"
+        }
       ]
     },
     "parent_notes": "Drama is a powerful Montessori tool: it builds empathy (seeing from different perspectives), communication skills, and creative expression. Start with a simple, familiar script — adaptations of fairy tales or Aesop's fables are ideal. The physical formatting of plays (character names, colons, brackets) is new to most children and takes practice. Reading aloud in character is crucial — it makes the text come alive and shows why plays are written differently from stories.",
@@ -38,17 +81,60 @@
     "instructions": "1. Review: What does 6 ÷ 3 mean? (Splitting 6 into 3 equal groups, 2 in each.)\n2. Apply to fractions: What does 1/2 ÷ 3 mean? (Splitting one-half into 3 equal parts.)\n3. Use fraction pieces: show 1/2. Can we split it into 3 equal parts? What piece fits exactly 3 times into 1/2? Answer: 1/6.\n4. Verify: 1/6 + 1/6 + 1/6 = 3/6 = 1/2. Yes!\n5. Show the algorithm: to divide a fraction by a whole number, multiply the denominator by the whole number. 1/2 ÷ 3 = 1/(2×3) = 1/6.\n6. Practice: 1/3 ÷ 2, 1/4 ÷ 3, 3/4 ÷ 2.\n7. Child works through practice problems with fraction pieces.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Fraction circles or bars", "Whiteboard", "Markers", "Math journal", "Pencil"],
+    "materials_needed": [
+      "Fraction circles or bars",
+      "Whiteboard",
+      "Markers",
+      "Math journal",
+      "Pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Dividing Fractions", "subheading": "Fraction ÷ Whole Number"},
-        {"type": "materials", "items": ["Fraction circles (halves, thirds, fourths, sixths, eighths, twelfths)", "Whiteboard and markers", "Math journal and pencil"], "setup_instructions": "Ensure you have fraction pieces with enough variety to demonstrate division. You'll need sixths, eighths, and twelfths especially. Sort pieces by denomination."},
-        {"type": "instruction", "step": 1, "text": "Review: '12 ÷ 4 means splitting 12 into 4 equal groups. Each group has 3.' Draw this. 'Now, what if we want to split a FRACTION into equal groups? What does 1/2 ÷ 3 mean?'"},
-        {"type": "instruction", "step": 2, "text": "Show the 1/2 piece. 'We need to split this half into THREE equal parts. What fraction piece fits exactly 3 times into one-half?' Try pieces: Does 1/4 work? No — only 2 fit. Does 1/6 work? Let's see: 1/6 + 1/6 + 1/6 = 3/6 = 1/2. YES! So 1/2 ÷ 3 = 1/6.'"},
-        {"type": "instruction", "step": 3, "text": "Show the pattern: when we divide a fraction by a whole number, we MULTIPLY THE DENOMINATOR by that number. 1/2 ÷ 3 = 1/(2×3) = 1/6. This makes sense: we're making the pieces SMALLER, so the denominator gets BIGGER."},
-        {"type": "instruction", "step": 4, "text": "Practice together: 1/3 ÷ 2. 'Split one-third into 2 parts.' Use pieces to verify: 1/6 fits twice into 1/3. So 1/3 ÷ 2 = 1/6. Algorithm: 1/(3×2) = 1/6. ✓ Try: 1/4 ÷ 3 = 1/12. Verify with pieces."},
-        {"type": "activity", "prompt": "Solve using fraction pieces first, then verify with the algorithm: 1/2 ÷ 4 = ?, 1/3 ÷ 3 = ?, 1/4 ÷ 2 = ?, 3/4 ÷ 3 = ? (hint: split each fourth into 3 — or think of it as 3 × 1/4 ÷ 3 = 1/4), 2/3 ÷ 2 = ?. Draw a model for each in your journal.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "When we divide fractions by whole numbers, the answer gets SMALLER — the pieces get tinier. This makes sense: you're taking something small and splitting it into even smaller parts. Next time, we'll solve word problems using fraction division.", "mastery_check": "Can the child divide a fraction by a whole number using manipulatives and the algorithm?"}
+        {
+          "type": "title",
+          "heading": "Dividing Fractions",
+          "subheading": "Fraction ÷ Whole Number",
+          "image_url": "https://images.pexels.com/photos/6692923/pexels-photo-6692923.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Fraction circles (halves, thirds, fourths, sixths, eighths, twelfths)",
+            "Whiteboard and markers",
+            "Math journal and pencil"
+          ],
+          "setup_instructions": "Ensure you have fraction pieces with enough variety to demonstrate division. You'll need sixths, eighths, and twelfths especially. Sort pieces by denomination."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: '12 ÷ 4 means splitting 12 into 4 equal groups. Each group has 3.' Draw this. 'Now, what if we want to split a FRACTION into equal groups? What does 1/2 ÷ 3 mean?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Show the 1/2 piece. 'We need to split this half into THREE equal parts. What fraction piece fits exactly 3 times into one-half?' Try pieces: Does 1/4 work? No — only 2 fit. Does 1/6 work? Let's see: 1/6 + 1/6 + 1/6 = 3/6 = 1/2. YES! So 1/2 ÷ 3 = 1/6.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show the pattern: when we divide a fraction by a whole number, we MULTIPLY THE DENOMINATOR by that number. 1/2 ÷ 3 = 1/(2×3) = 1/6. This makes sense: we're making the pieces SMALLER, so the denominator gets BIGGER."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Practice together: 1/3 ÷ 2. 'Split one-third into 2 parts.' Use pieces to verify: 1/6 fits twice into 1/3. So 1/3 ÷ 2 = 1/6. Algorithm: 1/(3×2) = 1/6. ✓ Try: 1/4 ÷ 3 = 1/12. Verify with pieces."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve using fraction pieces first, then verify with the algorithm: 1/2 ÷ 4 = ?, 1/3 ÷ 3 = ?, 1/4 ÷ 2 = ?, 3/4 ÷ 3 = ? (hint: split each fourth into 3 — or think of it as 3 × 1/4 ÷ 3 = 1/4), 2/3 ÷ 2 = ?. Draw a model for each in your journal.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "When we divide fractions by whole numbers, the answer gets SMALLER — the pieces get tinier. This makes sense: you're taking something small and splitting it into even smaller parts. Next time, we'll solve word problems using fraction division.",
+          "mastery_check": "Can the child divide a fraction by a whole number using manipulatives and the algorithm?"
+        }
       ]
     },
     "parent_notes": "Fraction division is conceptually challenging but the manipulatives make it clear. The key insight: dividing makes fractions SMALLER (counterintuitive for children used to division with whole numbers making things smaller too, but fraction division by whole numbers follows the same logic). For non-unit fractions like 3/4 ÷ 3, help the child think: 'I have 3 fourths, and I'm splitting them into 3 groups. Each group gets 1 fourth.' This is a gentle introduction; the 'invert and multiply' rule comes later for dividing by fractions.",
@@ -66,17 +152,61 @@
     "instructions": "1. Place the Renaissance on the Timeline of Civilizations (overlapping with late Medieval, 1300s-1600s).\n2. Explain 'Renaissance' means 'rebirth' in French. Ask: Rebirth of what? (Learning, art, science — ideas from ancient Greece and Rome.)\n3. Compare Medieval and Renaissance thinking: Medieval focused on religion and the afterlife; Renaissance celebrated human potential and the natural world.\n4. Discuss why it started in Italy: wealthy trading cities (Florence, Venice), contact with ancient Greek/Roman ruins, wealthy patrons like the Medici family.\n5. Show images contrasting Medieval and Renaissance art.\n6. Child creates a Venn diagram comparing Medieval and Renaissance periods.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Timeline of Civilizations", "Images of Medieval and Renaissance art", "Map of Italy", "Paper", "Colored pencils"],
+    "materials_needed": [
+      "Timeline of Civilizations",
+      "Images of Medieval and Renaissance art",
+      "Map of Italy",
+      "Paper",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Renaissance Begins", "subheading": "A Rebirth of Learning"},
-        {"type": "materials", "items": ["Timeline of Civilizations", "Printed images comparing Medieval and Renaissance art", "Map of Italy showing Florence, Venice, Rome", "Paper and colored pencils"], "setup_instructions": "Prepare 2-3 Medieval art images (flat, stylized religious paintings) and 2-3 Renaissance images (realistic, detailed, showing perspective). Have the timeline visible."},
-        {"type": "instruction", "step": 1, "text": "Place the Renaissance on the timeline: starting around the 1300s in Italy and spreading across Europe through the 1600s. 'Remember the Medieval period — feudalism, castles, and monasteries? Something extraordinary happened in Italy that changed everything. It's called the RENAISSANCE, which means REBIRTH.'"},
-        {"type": "instruction", "step": 2, "text": "'Rebirth of what? Of the ideas of ancient Greece and Rome! Remember how the Greeks loved philosophy, democracy, and beautiful art? And how the Romans built incredible architecture? Those ideas had been partly forgotten during the Medieval period. Now, in Italy, people began rediscovering them.'"},
-        {"type": "instruction", "step": 3, "text": "Show the Medieval art: flat, symbolic, focused on religious scenes. Then show Renaissance art: realistic, detailed, showing depth (perspective), celebrating human beauty and nature. 'What differences do you notice?' Let the child observe and describe."},
-        {"type": "instruction", "step": 4, "text": "'Why Italy? Italian cities like Florence and Venice were WEALTHY from trade. Rich families like the Medici used their money to support artists and scholars — they were called PATRONS. Italy was also full of ancient Roman ruins that inspired people to study the past.'"},
-        {"type": "activity", "prompt": "Create a Venn diagram comparing the Medieval Period and the Renaissance. In the Medieval circle: feudal system, religious focus, flat art style, monasteries as learning centers. In the Renaissance circle: celebration of the individual, realistic art, scientific inquiry, wealthy city-states. In the overlap: Christianity important, European, built on earlier knowledge. Add at least 3 items to each section.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The Renaissance didn't happen overnight — it grew gradually as people rediscovered ancient ideas and combined them with new thinking. This week, we'll meet the brilliant artists and scientists who made the Renaissance one of the most creative periods in human history.", "mastery_check": "Can the child explain what 'Renaissance' means, why it started in Italy, and how it differed from the Medieval period?"}
+        {
+          "type": "title",
+          "heading": "The Renaissance Begins",
+          "subheading": "A Rebirth of Learning",
+          "image_url": "https://images.pexels.com/photos/161858/pexels-photo-161858.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Timeline of Civilizations",
+            "Printed images comparing Medieval and Renaissance art",
+            "Map of Italy showing Florence, Venice, Rome",
+            "Paper and colored pencils"
+          ],
+          "setup_instructions": "Prepare 2-3 Medieval art images (flat, stylized religious paintings) and 2-3 Renaissance images (realistic, detailed, showing perspective). Have the timeline visible."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Place the Renaissance on the timeline: starting around the 1300s in Italy and spreading across Europe through the 1600s. 'Remember the Medieval period — feudalism, castles, and monasteries? Something extraordinary happened in Italy that changed everything. It's called the RENAISSANCE, which means REBIRTH.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Rebirth of what? Of the ideas of ancient Greece and Rome! Remember how the Greeks loved philosophy, democracy, and beautiful art? And how the Romans built incredible architecture? Those ideas had been partly forgotten during the Medieval period. Now, in Italy, people began rediscovering them.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show the Medieval art: flat, symbolic, focused on religious scenes. Then show Renaissance art: realistic, detailed, showing depth (perspective), celebrating human beauty and nature. 'What differences do you notice?' Let the child observe and describe."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Why Italy? Italian cities like Florence and Venice were WEALTHY from trade. Rich families like the Medici used their money to support artists and scholars — they were called PATRONS. Italy was also full of ancient Roman ruins that inspired people to study the past.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a Venn diagram comparing the Medieval Period and the Renaissance. In the Medieval circle: feudal system, religious focus, flat art style, monasteries as learning centers. In the Renaissance circle: celebration of the individual, realistic art, scientific inquiry, wealthy city-states. In the overlap: Christianity important, European, built on earlier knowledge. Add at least 3 items to each section.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Renaissance didn't happen overnight — it grew gradually as people rediscovered ancient ideas and combined them with new thinking. This week, we'll meet the brilliant artists and scientists who made the Renaissance one of the most creative periods in human history.",
+          "mastery_check": "Can the child explain what 'Renaissance' means, why it started in Italy, and how it differed from the Medieval period?"
+        }
       ]
     },
     "parent_notes": "The Renaissance is one of children's favorite history units — the art is spectacular, the personalities are larger-than-life, and the ideas are still relevant. The key concept for this age is the SHIFT in thinking: from focusing primarily on religion and the afterlife to celebrating human potential, creativity, and the natural world. The art comparison is powerful — even young children can see the dramatic difference between flat Medieval paintings and lifelike Renaissance works. The Medici family as patrons introduces the concept of arts funding, still relevant today.",
@@ -94,17 +224,62 @@
     "instructions": "1. Show Italy on the map. Review its boot-shaped peninsula surrounded by the Mediterranean.\n2. Locate Florence: inland, on the Arno River, center of art and banking (Medici family).\n3. Locate Venice: built on islands in a lagoon, famous for canals, glass-making, and sea trade.\n4. Locate Rome: the ancient capital, seat of the Pope, where Renaissance architecture flourished.\n5. Discuss Italy's geographic advantage: central Mediterranean position = trade with all of Europe, North Africa, and the Middle East.\n6. Child creates a map of Renaissance Italy with the three cities marked and key features illustrated.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Map of Europe/Mediterranean", "Close-up map of Italy", "Blank outline map of Italy", "Colored pencils", "Reference images of Florence, Venice, Rome"],
+    "materials_needed": [
+      "Map of Europe/Mediterranean",
+      "Close-up map of Italy",
+      "Blank outline map of Italy",
+      "Colored pencils",
+      "Reference images of Florence, Venice, Rome"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Renaissance Italy", "subheading": "Florence, Venice, and Rome"},
-        {"type": "materials", "items": ["Map of Europe showing the Mediterranean", "Close-up map of Italy", "Blank outline map of Italy", "Colored pencils and fine markers", "Reference images of Florence (Duomo), Venice (canals), Rome (St. Peter's)"], "setup_instructions": "Print a blank outline map of Italy. Gather iconic images of each city: the Florence cathedral dome, Venice's canals and gondolas, Rome's St. Peter's Basilica."},
-        {"type": "instruction", "step": 1, "text": "Show Italy on the European map. 'Italy is a PENINSULA — land surrounded by water on three sides. It sticks out into the Mediterranean Sea like a boot. This location made Italy the CROSSROADS of trade between Europe, Africa, and Asia.'"},
-        {"type": "instruction", "step": 2, "text": "Point to Florence. 'Florence is in central Italy, on the Arno River. It was the heart of the Renaissance — home to the most famous artists, writers, and thinkers. The Medici family, the wealthiest bankers in Europe, lived here and paid for incredible art.' Show the Duomo image."},
-        {"type": "instruction", "step": 3, "text": "Point to Venice. 'Venice is unlike any other city — it's built on 118 ISLANDS connected by bridges and canals. Instead of streets, they have waterways. Instead of cars, they have boats called gondolas. Venice grew rich from trading spices and silk with Asia.' Show the canal images."},
-        {"type": "instruction", "step": 4, "text": "Point to Rome. 'Rome was the center of the Catholic Church and home to the Pope. During the Renaissance, the Pope became a great patron of the arts, commissioning Michelangelo to paint the Sistine Chapel ceiling. Rome combined ancient ruins with stunning new architecture.' Show St. Peter's Basilica."},
-        {"type": "activity", "prompt": "On your blank Italy map: 1) Mark and label Florence, Venice, and Rome. 2) Draw the Arno River through Florence. 3) Draw Venice's lagoon and canals. 4) Add the Mediterranean Sea and label it. 5) Draw trade route arrows showing goods coming from different directions. 6) Add small illustrations: a dome for Florence, a gondola for Venice, a basilica for Rome.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Italy's geography — its central Mediterranean position, its rivers, its harbors — made it the perfect place for the Renaissance to begin. Wealth from trade funded the arts, and ideas flowed in from every direction. Geography shapes culture!", "mastery_check": "Can the child locate Florence, Venice, and Rome on a map and explain why Italy's geography contributed to the Renaissance?"}
+        {
+          "type": "title",
+          "heading": "Renaissance Italy",
+          "subheading": "Florence, Venice, and Rome",
+          "image_url": "https://images.pexels.com/photos/87651/pexels-photo-87651.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Map of Europe showing the Mediterranean",
+            "Close-up map of Italy",
+            "Blank outline map of Italy",
+            "Colored pencils and fine markers",
+            "Reference images of Florence (Duomo), Venice (canals), Rome (St. Peter's)"
+          ],
+          "setup_instructions": "Print a blank outline map of Italy. Gather iconic images of each city: the Florence cathedral dome, Venice's canals and gondolas, Rome's St. Peter's Basilica."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show Italy on the European map. 'Italy is a PENINSULA — land surrounded by water on three sides. It sticks out into the Mediterranean Sea like a boot. This location made Italy the CROSSROADS of trade between Europe, Africa, and Asia.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Point to Florence. 'Florence is in central Italy, on the Arno River. It was the heart of the Renaissance — home to the most famous artists, writers, and thinkers. The Medici family, the wealthiest bankers in Europe, lived here and paid for incredible art.' Show the Duomo image."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Point to Venice. 'Venice is unlike any other city — it's built on 118 ISLANDS connected by bridges and canals. Instead of streets, they have waterways. Instead of cars, they have boats called gondolas. Venice grew rich from trading spices and silk with Asia.' Show the canal images."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Point to Rome. 'Rome was the center of the Catholic Church and home to the Pope. During the Renaissance, the Pope became a great patron of the arts, commissioning Michelangelo to paint the Sistine Chapel ceiling. Rome combined ancient ruins with stunning new architecture.' Show St. Peter's Basilica."
+        },
+        {
+          "type": "activity",
+          "prompt": "On your blank Italy map: 1) Mark and label Florence, Venice, and Rome. 2) Draw the Arno River through Florence. 3) Draw Venice's lagoon and canals. 4) Add the Mediterranean Sea and label it. 5) Draw trade route arrows showing goods coming from different directions. 6) Add small illustrations: a dome for Florence, a gondola for Venice, a basilica for Rome.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Italy's geography — its central Mediterranean position, its rivers, its harbors — made it the perfect place for the Renaissance to begin. Wealth from trade funded the arts, and ideas flowed in from every direction. Geography shapes culture!",
+          "mastery_check": "Can the child locate Florence, Venice, and Rome on a map and explain why Italy's geography contributed to the Renaissance?"
+        }
       ]
     },
     "parent_notes": "This lesson connects geography directly to history — a core Montessori principle. Children love learning about Venice (a city on water!) and the Medici family (imagine being so rich you could hire Leonardo da Vinci!). If time allows, search for aerial photos of Venice — the island city is stunning from above. The concept of city-states (independent cities that governed themselves, like ancient Greek poleis) is worth mentioning. Renaissance Italy was not a unified country — it was a collection of competing city-states, which actually fueled artistic competition.",
@@ -122,17 +297,60 @@
     "instructions": "1. Show the cover. 'This man is considered one of the greatest geniuses in all of human history. His name is Leonardo da Vinci.'\n2. Read aloud, pausing to discuss illustrations and key events.\n3. Discuss his many talents: painting, sculpture, anatomy, engineering, music, mathematics.\n4. Key concept: the Renaissance ideal of the 'universal person' (uomo universale) — someone who develops all their abilities.\n5. Compare to Montessori's philosophy of educating the whole child.\n6. Child identifies three things about Leonardo that surprised them.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Leonardo da Vinci by Diane Stanley (or similar biography)", "Images of Leonardo's art and inventions", "Comfortable reading area", "Journal and pencil"],
+    "materials_needed": [
+      "Leonardo da Vinci by Diane Stanley (or similar biography)",
+      "Images of Leonardo's art and inventions",
+      "Comfortable reading area",
+      "Journal and pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "Leonardo da Vinci by Diane Stanley"},
-        {"type": "materials", "items": ["Leonardo da Vinci by Diane Stanley (or age-appropriate biography)", "Printed images of the Mona Lisa, The Last Supper, Leonardo's notebooks", "Comfortable reading area", "Journal and pencil"], "setup_instructions": "Preview the book and select sections if it's too long for one sitting. Have images of Leonardo's most famous works ready to show alongside the reading."},
-        {"type": "instruction", "step": 1, "text": "'Leonardo da Vinci was born in Italy in 1452 — right in the middle of the Renaissance. He wasn't just a painter — he was a sculptor, architect, engineer, musician, mathematician, scientist, inventor, and writer. He may be the most talented person who ever lived.' Show the Mona Lisa."},
-        {"type": "instruction", "step": 2, "text": "Read selected sections aloud. Pause at key moments: his apprenticeship with Verrocchio, painting the Mona Lisa, designing flying machines, studying human anatomy by dissecting bodies. Let the child react to each revelation."},
-        {"type": "instruction", "step": 3, "text": "Show images of his notebook pages (written in mirror script!). 'Leonardo filled thousands of pages with drawings and ideas — helicopters, tanks, bridges, solar power — hundreds of years before they were actually built!'"},
-        {"type": "instruction", "step": 4, "text": "Discuss the 'universal person' ideal: 'The Renaissance celebrated people who developed ALL their talents — art AND science AND music AND athletics. Leonardo is the perfect example. Does this remind you of something? In Montessori education, we study everything — math, art, science, language, music. We're developing YOUR whole self, just like Leonardo developed his!'"},
-        {"type": "activity", "prompt": "In your journal, write about three things that surprised or amazed you about Leonardo da Vinci. Then answer: If you could be a 'universal person' like Leonardo, what five skills or talents would you want to master? Draw yourself as a Renaissance genius with those five talents illustrated around you.", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "Leonardo once said, 'Learning never exhausts the mind.' He was curious about EVERYTHING — and that curiosity made him a genius. What are YOU curious about?", "mastery_check": "Can the child describe at least three of Leonardo's talents and explain the Renaissance ideal of the universal person?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "Leonardo da Vinci by Diane Stanley",
+          "image_url": "https://images.pexels.com/photos/4145354/pexels-photo-4145354.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Leonardo da Vinci by Diane Stanley (or age-appropriate biography)",
+            "Printed images of the Mona Lisa, The Last Supper, Leonardo's notebooks",
+            "Comfortable reading area",
+            "Journal and pencil"
+          ],
+          "setup_instructions": "Preview the book and select sections if it's too long for one sitting. Have images of Leonardo's most famous works ready to show alongside the reading."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Leonardo da Vinci was born in Italy in 1452 — right in the middle of the Renaissance. He wasn't just a painter — he was a sculptor, architect, engineer, musician, mathematician, scientist, inventor, and writer. He may be the most talented person who ever lived.' Show the Mona Lisa."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read selected sections aloud. Pause at key moments: his apprenticeship with Verrocchio, painting the Mona Lisa, designing flying machines, studying human anatomy by dissecting bodies. Let the child react to each revelation."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show images of his notebook pages (written in mirror script!). 'Leonardo filled thousands of pages with drawings and ideas — helicopters, tanks, bridges, solar power — hundreds of years before they were actually built!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Discuss the 'universal person' ideal: 'The Renaissance celebrated people who developed ALL their talents — art AND science AND music AND athletics. Leonardo is the perfect example. Does this remind you of something? In Montessori education, we study everything — math, art, science, language, music. We're developing YOUR whole self, just like Leonardo developed his!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your journal, write about three things that surprised or amazed you about Leonardo da Vinci. Then answer: If you could be a 'universal person' like Leonardo, what five skills or talents would you want to master? Draw yourself as a Renaissance genius with those five talents illustrated around you.",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "Leonardo once said, 'Learning never exhausts the mind.' He was curious about EVERYTHING — and that curiosity made him a genius. What are YOU curious about?",
+          "mastery_check": "Can the child describe at least three of Leonardo's talents and explain the Renaissance ideal of the universal person?"
+        }
       ]
     },
     "parent_notes": "Diane Stanley's biography is stunningly illustrated and well-written for this age group. If unavailable, any age-appropriate Leonardo biography works. The 'universal person' concept connects directly to Montessori's vision of cosmic education — developing the whole child across all domains. Leonardo's mirror writing is fascinating to children; try it together! The message that curiosity is the root of genius is powerful. This biography pairs perfectly with the Renaissance history and the upcoming art lessons.",
@@ -150,17 +368,60 @@
     "instructions": "1. Review: In a play, dialogue IS the story. How characters speak matters as much as what they say.\n2. Present the same line read three ways: happily, angrily, sadly. Discuss how voice changes meaning.\n3. Read a dialogue scene together, discussing: What emotions are the characters feeling? How do you know?\n4. Practice reading with expression: vary volume, speed, pitch, and pauses.\n5. Introduce emotion vocabulary: frustrated, delighted, suspicious, anxious, defiant.\n6. Child reads a scene independently, marking emotions in the margin.\n7. Perform the scene with full expression.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Play script with emotional dialogue", "Emotion vocabulary cards", "Pencil for annotations", "Mirror (optional, for practicing expressions)"],
+    "materials_needed": [
+      "Play script with emotional dialogue",
+      "Emotion vocabulary cards",
+      "Pencil for annotations",
+      "Mirror (optional, for practicing expressions)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Reading Dialogue", "subheading": "Voice, Tone, and Emotion"},
-        {"type": "materials", "items": ["Printed play script with emotional dialogue", "Emotion vocabulary cards (frustrated, delighted, suspicious, anxious, defiant, bewildered)", "Pencil for margin notes", "Optional: mirror for practicing facial expressions"], "setup_instructions": "Select a play scene with clear emotional shifts — characters who argue, reconcile, or face a challenge. Print with wide margins for annotation."},
-        {"type": "instruction", "step": 1, "text": "Say the line 'I can't believe you did that' three different ways: 1) happy and surprised, 2) furious and betrayed, 3) sad and disappointed. 'Same words, totally different meanings! In a play, HOW you say something is just as important as WHAT you say.'"},
-        {"type": "instruction", "step": 2, "text": "Introduce the tools of vocal expression: VOLUME (loud vs. quiet), SPEED (fast vs. slow), PITCH (high vs. low), PAUSES (silence for dramatic effect). Practice each: say 'Look!' loudly, then in a whisper. Say 'I'm coming!' fast, then slow. Notice how the feeling changes."},
-        {"type": "instruction", "step": 3, "text": "Read the play scene together. Stop after each line: 'What emotion is this character feeling right now? How should we read this?' Mark emotions in the margin: (angry), (hopeful), (scared). Then reread with those emotions."},
-        {"type": "instruction", "step": 4, "text": "Introduce rich emotion vocabulary: 'Instead of just \"happy\" or \"sad,\" actors use specific words: delighted, ecstatic, melancholy, furious, suspicious, bewildered. These help you find the exact RIGHT way to read a line.'"},
-        {"type": "activity", "prompt": "Read the new scene independently. In the margin, write the emotion each character is feeling for every line. Then perform the scene with full expression — use your voice (volume, speed, pitch, pauses) to bring the emotions to life. If you have a mirror, practice facial expressions too!", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Great actors don't just read words — they BECOME the character. When you read dialogue with emotion, the story comes alive. Tomorrow, you'll learn to write your OWN dialogue with emotion!", "mastery_check": "Can the child read dialogue with appropriate emotion and identify the emotional state of characters through text clues?"}
+        {
+          "type": "title",
+          "heading": "Reading Dialogue",
+          "subheading": "Voice, Tone, and Emotion",
+          "image_url": "https://images.pexels.com/photos/7807854/pexels-photo-7807854.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed play script with emotional dialogue",
+            "Emotion vocabulary cards (frustrated, delighted, suspicious, anxious, defiant, bewildered)",
+            "Pencil for margin notes",
+            "Optional: mirror for practicing facial expressions"
+          ],
+          "setup_instructions": "Select a play scene with clear emotional shifts — characters who argue, reconcile, or face a challenge. Print with wide margins for annotation."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Say the line 'I can't believe you did that' three different ways: 1) happy and surprised, 2) furious and betrayed, 3) sad and disappointed. 'Same words, totally different meanings! In a play, HOW you say something is just as important as WHAT you say.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce the tools of vocal expression: VOLUME (loud vs. quiet), SPEED (fast vs. slow), PITCH (high vs. low), PAUSES (silence for dramatic effect). Practice each: say 'Look!' loudly, then in a whisper. Say 'I'm coming!' fast, then slow. Notice how the feeling changes."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Read the play scene together. Stop after each line: 'What emotion is this character feeling right now? How should we read this?' Mark emotions in the margin: (angry), (hopeful), (scared). Then reread with those emotions."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Introduce rich emotion vocabulary: 'Instead of just \"happy\" or \"sad,\" actors use specific words: delighted, ecstatic, melancholy, furious, suspicious, bewildered. These help you find the exact RIGHT way to read a line.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Read the new scene independently. In the margin, write the emotion each character is feeling for every line. Then perform the scene with full expression — use your voice (volume, speed, pitch, pauses) to bring the emotions to life. If you have a mirror, practice facial expressions too!",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Great actors don't just read words — they BECOME the character. When you read dialogue with emotion, the story comes alive. Tomorrow, you'll learn to write your OWN dialogue with emotion!",
+          "mastery_check": "Can the child read dialogue with appropriate emotion and identify the emotional state of characters through text clues?"
+        }
       ]
     },
     "parent_notes": "This lesson develops both reading comprehension (inferring emotions from text) and oral expression (performing with voice modulation). Many children are initially shy about 'performing' — model enthusiastic, exaggerated expression yourself to give them permission to be dramatic. The emotion vocabulary is important: children who can name specific emotions (frustrated vs. angry vs. furious) have better emotional intelligence in real life too. This is a wonderful cross-curricular connection between language arts and social-emotional learning.",
@@ -178,17 +439,61 @@
     "instructions": "1. Review the algorithm: fraction ÷ whole number = multiply the denominator by the whole number.\n2. Present word problems. Read together, identify the operation, solve.\n3. Example: 'You have 3/4 of a pizza and want to share it equally among 3 people. How much does each person get?'\n4. Solution: 3/4 ÷ 3 = 3/12 = 1/4. Each person gets 1/4.\n5. Work through 6-8 problems of increasing difficulty.\n6. Include problems that require simplifying.\n7. Child writes their own fraction division word problem.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Word problem cards", "Math journal", "Pencil", "Fraction circles", "Colored pencils for models"],
+    "materials_needed": [
+      "Word problem cards",
+      "Math journal",
+      "Pencil",
+      "Fraction circles",
+      "Colored pencils for models"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Fraction Division", "subheading": "Word Problems and Applications"},
-        {"type": "materials", "items": ["Prepared word problem cards (8 problems)", "Math journal and pencil", "Fraction circles for modeling", "Colored pencils for drawing models"], "setup_instructions": "Write 8 word problems on cards, progressing from simple to challenging. Include sharing/splitting scenarios that naturally involve dividing fractions by whole numbers."},
-        {"type": "instruction", "step": 1, "text": "Review: 'When we divide a fraction by a whole number, we multiply the denominator by that number. This makes sense because we're splitting something small into even smaller pieces.' Quick practice: 1/2 ÷ 4 = 1/8, 2/3 ÷ 2 = 2/6 = 1/3."},
-        {"type": "instruction", "step": 2, "text": "Problem 1: 'You have 3/4 of a pizza. You want to share it equally among 3 friends. How much pizza does each friend get?' Identify: 3/4 ÷ 3. Solve: 3/(4×3) = 3/12 = 1/4. Draw the pizza to verify: three-fourths split three ways = one-fourth each."},
-        {"type": "instruction", "step": 3, "text": "Problem 2: 'A carpenter has a board that is 2/3 of a meter long. She needs to cut it into 4 equal pieces. How long is each piece?' 2/3 ÷ 4 = 2/12 = 1/6 meter. Draw the board to verify."},
-        {"type": "instruction", "step": 4, "text": "Key question for word problems: 'Am I SPLITTING something into equal parts?' If yes, it's division. 'Am I taking a PART OF something?' If yes, it's multiplication. These clue words help you choose the right operation."},
-        {"type": "activity", "prompt": "Solve these in your journal. Draw a model for each: 1) 1/2 of a cake is left. You split it among 4 people. How much does each get? 2) A ribbon is 5/6 of a yard. You cut it into 5 equal pieces. How long is each? 3) You have 2/5 of a bag of trail mix. You divide it into 2 bags. How much is in each? Then CREATE your own fraction division word problem and solve it.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Fraction division shows up whenever we SHARE or SPLIT something. The key: multiply the denominator by the whole number. And always check — can you simplify your answer?", "mastery_check": "Can the child solve fraction division word problems by identifying the operation and computing accurately?"}
+        {
+          "type": "title",
+          "heading": "Fraction Division",
+          "subheading": "Word Problems and Applications",
+          "image_url": "https://images.pexels.com/photos/6692940/pexels-photo-6692940.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Prepared word problem cards (8 problems)",
+            "Math journal and pencil",
+            "Fraction circles for modeling",
+            "Colored pencils for drawing models"
+          ],
+          "setup_instructions": "Write 8 word problems on cards, progressing from simple to challenging. Include sharing/splitting scenarios that naturally involve dividing fractions by whole numbers."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'When we divide a fraction by a whole number, we multiply the denominator by that number. This makes sense because we're splitting something small into even smaller pieces.' Quick practice: 1/2 ÷ 4 = 1/8, 2/3 ÷ 2 = 2/6 = 1/3."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Problem 1: 'You have 3/4 of a pizza. You want to share it equally among 3 friends. How much pizza does each friend get?' Identify: 3/4 ÷ 3. Solve: 3/(4×3) = 3/12 = 1/4. Draw the pizza to verify: three-fourths split three ways = one-fourth each."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Problem 2: 'A carpenter has a board that is 2/3 of a meter long. She needs to cut it into 4 equal pieces. How long is each piece?' 2/3 ÷ 4 = 2/12 = 1/6 meter. Draw the board to verify."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Key question for word problems: 'Am I SPLITTING something into equal parts?' If yes, it's division. 'Am I taking a PART OF something?' If yes, it's multiplication. These clue words help you choose the right operation."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these in your journal. Draw a model for each: 1) 1/2 of a cake is left. You split it among 4 people. How much does each get? 2) A ribbon is 5/6 of a yard. You cut it into 5 equal pieces. How long is each? 3) You have 2/5 of a bag of trail mix. You divide it into 2 bags. How much is in each? Then CREATE your own fraction division word problem and solve it.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Fraction division shows up whenever we SHARE or SPLIT something. The key: multiply the denominator by the whole number. And always check — can you simplify your answer?",
+          "mastery_check": "Can the child solve fraction division word problems by identifying the operation and computing accurately?"
+        }
       ]
     },
     "parent_notes": "Word problems require children to decode language into math operations — a challenging but essential skill. The biggest confusion at this age is deciding between multiplication and division. The clue: multiplication asks 'what is a part of this?' while division asks 'how much does each person/piece get?' Drawing models for every problem reinforces understanding. If your child struggles to identify the operation, practice with simple whole number versions first ('12 cookies shared among 4 people' = division) before applying to fractions.",
@@ -206,17 +511,65 @@
     "instructions": "1. Ask: 'What happens to your food after you swallow it? Where does it go?'\n2. Eat a cracker and trace the journey: mouth → esophagus → stomach → small intestine → large intestine.\n3. At each organ, discuss its job: mouth (chew, saliva), esophagus (squeeze food down), stomach (acid, churning), small intestine (absorb nutrients), large intestine (absorb water, waste).\n4. Demonstrate mechanical digestion: crush a cracker in a bag (like teeth).\n5. Demonstrate chemical digestion: add lemon juice to milk (like stomach acid curdling food).\n6. Child labels a digestive system diagram.\n7. Discuss: Why do we need to eat? (To get nutrients and energy for every cell.)",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Digestive system diagram or poster", "Crackers", "Zip-lock bags", "Lemon juice and milk", "Blank body outline", "Colored pencils"],
+    "materials_needed": [
+      "Digestive system diagram or poster",
+      "Crackers",
+      "Zip-lock bags",
+      "Lemon juice and milk",
+      "Blank body outline",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Digestive System", "subheading": "The Journey of Food"},
-        {"type": "materials", "items": ["Digestive system diagram", "Crackers", "Zip-lock bag", "Lemon juice and small cup of milk", "Blank body outline for labeling", "Colored pencils", "Optional: piece of pantyhose or tube (to model esophagus)"], "setup_instructions": "Set up the demonstration materials: crackers in a bag for crushing, lemon juice and milk in separate small cups. Have the body outline ready for labeling."},
-        {"type": "instruction", "step": 1, "text": "'Every time you eat, your body begins an incredible journey. Let's follow a cracker from your mouth all the way through!' Have the child eat a cracker and think about what's happening. 'First, your TEETH break it into smaller pieces (mechanical digestion) while SALIVA starts to dissolve it (chemical digestion).'"},
-        {"type": "instruction", "step": 2, "text": "'After you swallow, the food enters the ESOPHAGUS — a tube that squeezes food down to your stomach. It's not gravity that moves food — it's MUSCLES! Astronauts can eat upside down because the esophagus pushes food along.' The squeezing motion is called peristalsis."},
-        {"type": "instruction", "step": 3, "text": "'In the STOMACH, food is churned like a washing machine and mixed with powerful acid that breaks it down further. Food stays in the stomach for 2-4 hours!' Demonstration: put crackers in the zip-lock bag, add a little water, and squeeze/mush (like the stomach). Then show: add lemon juice to milk — it curdles, like stomach acid changing food."},
-        {"type": "instruction", "step": 4, "text": "'The mushy food moves to the SMALL INTESTINE — it's 20 feet long! This is where nutrients pass through the walls into your blood. Then the LARGE INTESTINE absorbs water from what's left. Whatever your body can't use becomes waste.'"},
-        {"type": "activity", "prompt": "Label the digestive system on your body outline: mouth, esophagus, stomach, liver, small intestine, large intestine. Draw arrows showing the path of food. Color-code each organ differently. Add a note about each organ's job. Then calculate: the small intestine is about 20 feet long. How many times longer is it than you are tall?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Digestion takes 24-72 hours from mouth to end! Your body is running an incredible chemical factory every time you eat. Next time, we'll learn about enzymes and nutrition — the chemistry of digestion.", "mastery_check": "Can the child trace the path of food through the digestive system and explain each organ's role?"}
+        {
+          "type": "title",
+          "heading": "The Digestive System",
+          "subheading": "The Journey of Food",
+          "image_url": "https://images.pexels.com/photos/55827/pexels-photo-55827.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Digestive system diagram",
+            "Crackers",
+            "Zip-lock bag",
+            "Lemon juice and small cup of milk",
+            "Blank body outline for labeling",
+            "Colored pencils",
+            "Optional: piece of pantyhose or tube (to model esophagus)"
+          ],
+          "setup_instructions": "Set up the demonstration materials: crackers in a bag for crushing, lemon juice and milk in separate small cups. Have the body outline ready for labeling."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Every time you eat, your body begins an incredible journey. Let's follow a cracker from your mouth all the way through!' Have the child eat a cracker and think about what's happening. 'First, your TEETH break it into smaller pieces (mechanical digestion) while SALIVA starts to dissolve it (chemical digestion).'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'After you swallow, the food enters the ESOPHAGUS — a tube that squeezes food down to your stomach. It's not gravity that moves food — it's MUSCLES! Astronauts can eat upside down because the esophagus pushes food along.' The squeezing motion is called peristalsis."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'In the STOMACH, food is churned like a washing machine and mixed with powerful acid that breaks it down further. Food stays in the stomach for 2-4 hours!' Demonstration: put crackers in the zip-lock bag, add a little water, and squeeze/mush (like the stomach). Then show: add lemon juice to milk — it curdles, like stomach acid changing food."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'The mushy food moves to the SMALL INTESTINE — it's 20 feet long! This is where nutrients pass through the walls into your blood. Then the LARGE INTESTINE absorbs water from what's left. Whatever your body can't use becomes waste.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Label the digestive system on your body outline: mouth, esophagus, stomach, liver, small intestine, large intestine. Draw arrows showing the path of food. Color-code each organ differently. Add a note about each organ's job. Then calculate: the small intestine is about 20 feet long. How many times longer is it than you are tall?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Digestion takes 24-72 hours from mouth to end! Your body is running an incredible chemical factory every time you eat. Next time, we'll learn about enzymes and nutrition — the chemistry of digestion.",
+          "mastery_check": "Can the child trace the path of food through the digestive system and explain each organ's role?"
+        }
       ]
     },
     "parent_notes": "The demonstrations make this lesson memorable: crushing crackers (mechanical digestion) and curdling milk with lemon juice (chemical digestion) are simple but effective. Children are fascinated by digestive facts: the stomach's acid is strong enough to dissolve metal; the small intestine is 20 feet long but coiled to fit inside you. If you have old pantyhose, you can push a ball through it to demonstrate peristalsis. Connect this to healthy eating: the QUALITY of what you put in determines the QUALITY of nutrients your body gets.",
@@ -234,17 +587,62 @@
     "instructions": "1. Show two images side by side: a flat Medieval painting and a Renaissance painting with perspective.\n2. Ask: 'What makes the Renaissance painting look more REAL?' Discuss depth and distance.\n3. Explain one-point perspective: all lines converge at a single VANISHING POINT on the HORIZON LINE.\n4. Demonstrate: draw a horizon line, place a vanishing point, draw guidelines radiating out, build a road/buildings.\n5. Show how objects get SMALLER as they get farther away.\n6. Child creates their own one-point perspective drawing.\n7. Discuss: This technique was invented during the Renaissance and changed art forever!",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Images of Medieval and Renaissance art", "Drawing paper", "Ruler", "Pencil and eraser", "Colored pencils or markers"],
+    "materials_needed": [
+      "Images of Medieval and Renaissance art",
+      "Drawing paper",
+      "Ruler",
+      "Pencil and eraser",
+      "Colored pencils or markers"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Renaissance Art Techniques", "subheading": "Perspective Drawing"},
-        {"type": "materials", "items": ["Printed comparison images: Medieval flat painting vs. Renaissance perspective painting", "Drawing paper", "Ruler", "Pencil and eraser", "Colored pencils or markers"], "setup_instructions": "Print examples of one-point perspective in Renaissance art (e.g., Raphael's School of Athens, Leonardo's The Last Supper showing converging lines). Also print a step-by-step perspective drawing guide."},
-        {"type": "instruction", "step": 1, "text": "Show Medieval art: 'Notice how everything looks flat — like paper dolls. There's no sense of DEPTH or DISTANCE.' Show Renaissance art: 'Now look at this. You can see FAR into the painting. It looks like you could walk INTO it. How did the artist create that illusion?'"},
-        {"type": "instruction", "step": 2, "text": "Explain: 'Renaissance artists discovered LINEAR PERSPECTIVE — a mathematical way to create the illusion of depth on a flat surface. There are two key elements: the HORIZON LINE (where the sky meets the ground) and the VANISHING POINT (where parallel lines appear to converge in the distance).'"},
-        {"type": "instruction", "step": 3, "text": "Demonstrate step by step: 1) Draw a horizontal line across the middle (horizon line). 2) Place a dot on the horizon (vanishing point). 3) Draw two diagonal lines from the bottom corners to the vanishing point (these are the road edges). 4) Objects near the bottom are BIGGER; objects near the vanishing point are SMALLER."},
-        {"type": "instruction", "step": 4, "text": "Add buildings along the road: 'Draw vertical lines for the sides of buildings. Connect the tops of the buildings to the vanishing point — this creates the rooflines. See how the buildings appear to get smaller as they get farther away? That's perspective!'"},
-        {"type": "activity", "prompt": "Create your own one-point perspective drawing. Choose a scene: a road with buildings, a hallway with doors, a path through a forest, or a row of train tracks. Start with the horizon line and vanishing point, then build your scene using the perspective guidelines. Add details, color, and shading to make it look as realistic as possible.", "duration_minutes": 20},
-        {"type": "wrap_up", "text": "Before the Renaissance, no one in Europe knew how to draw perspective! The mathematician Brunelleschi figured it out around 1415, and it revolutionized art forever. Every realistic painting, movie, and video game uses these same principles.", "mastery_check": "Can the child create a drawing using one-point perspective with a horizon line and vanishing point?"}
+        {
+          "type": "title",
+          "heading": "Renaissance Art Techniques",
+          "subheading": "Perspective Drawing",
+          "image_url": "https://images.pexels.com/photos/159644/art-supplies-brushes-rulers-702137.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed comparison images: Medieval flat painting vs. Renaissance perspective painting",
+            "Drawing paper",
+            "Ruler",
+            "Pencil and eraser",
+            "Colored pencils or markers"
+          ],
+          "setup_instructions": "Print examples of one-point perspective in Renaissance art (e.g., Raphael's School of Athens, Leonardo's The Last Supper showing converging lines). Also print a step-by-step perspective drawing guide."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Show Medieval art: 'Notice how everything looks flat — like paper dolls. There's no sense of DEPTH or DISTANCE.' Show Renaissance art: 'Now look at this. You can see FAR into the painting. It looks like you could walk INTO it. How did the artist create that illusion?'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Explain: 'Renaissance artists discovered LINEAR PERSPECTIVE — a mathematical way to create the illusion of depth on a flat surface. There are two key elements: the HORIZON LINE (where the sky meets the ground) and the VANISHING POINT (where parallel lines appear to converge in the distance).'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Demonstrate step by step: 1) Draw a horizontal line across the middle (horizon line). 2) Place a dot on the horizon (vanishing point). 3) Draw two diagonal lines from the bottom corners to the vanishing point (these are the road edges). 4) Objects near the bottom are BIGGER; objects near the vanishing point are SMALLER."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Add buildings along the road: 'Draw vertical lines for the sides of buildings. Connect the tops of the buildings to the vanishing point — this creates the rooflines. See how the buildings appear to get smaller as they get farther away? That's perspective!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own one-point perspective drawing. Choose a scene: a road with buildings, a hallway with doors, a path through a forest, or a row of train tracks. Start with the horizon line and vanishing point, then build your scene using the perspective guidelines. Add details, color, and shading to make it look as realistic as possible.",
+          "duration_minutes": 20
+        },
+        {
+          "type": "wrap_up",
+          "text": "Before the Renaissance, no one in Europe knew how to draw perspective! The mathematician Brunelleschi figured it out around 1415, and it revolutionized art forever. Every realistic painting, movie, and video game uses these same principles.",
+          "mastery_check": "Can the child create a drawing using one-point perspective with a horizon line and vanishing point?"
+        }
       ]
     },
     "parent_notes": "Perspective drawing is a thrilling discovery for children — they suddenly have the power to create realistic-looking scenes! The ruler is essential for clean lines. Don't worry about perfection; the goal is understanding the concept. If the full scene is overwhelming, start with just a road converging to a vanishing point. The connection to the Renaissance is historically accurate: Filippo Brunelleschi demonstrated linear perspective around 1415, and it transformed Western art. This technique connects math (geometry, converging lines) to art beautifully.",
@@ -262,17 +660,64 @@
     "instructions": "1. Show examples of sewing and embroidery. Connect to Renaissance: wealthy people wore elaborately embroidered clothing.\n2. Thread a needle (teach the child to do this independently).\n3. Demonstrate the running stitch: up, down, up, down in a straight line.\n4. Child practices a row of running stitches.\n5. Demonstrate the cross-stitch: make an X by stitching diagonally.\n6. Child practices a row of cross-stitches.\n7. Plan a simple design: initials or a small shape using both stitches.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Burlap or Aida cloth (8x8 inches)", "Embroidery needles (blunt tip)", "Embroidery floss (multiple colors)", "Scissors", "Embroidery hoop (optional)", "Pattern grid paper"],
+    "materials_needed": [
+      "Burlap or Aida cloth (8x8 inches)",
+      "Embroidery needles (blunt tip)",
+      "Embroidery floss (multiple colors)",
+      "Scissors",
+      "Embroidery hoop (optional)",
+      "Pattern grid paper"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Sewing Skills", "subheading": "Running Stitch and Cross-Stitch"},
-        {"type": "materials", "items": ["Burlap or Aida cloth square (8x8 inches)", "Blunt-tip embroidery needles", "Embroidery floss in several colors", "Child-safe scissors", "Optional: embroidery hoop to hold fabric taut", "Grid paper for planning designs"], "setup_instructions": "Cut embroidery floss into 18-inch lengths. Thread one needle in advance as a model. If using Aida cloth, the grid of holes makes stitching much easier for beginners."},
-        {"type": "instruction", "step": 1, "text": "'During the Renaissance, sewing and embroidery were highly valued skills — both practical and artistic. Wealthy families wore clothing decorated with elaborate stitching. Today, you'll learn two fundamental stitches that have been used for centuries.'"},
-        {"type": "instruction", "step": 2, "text": "First, learn to thread the needle: cut the floss, lick or pinch one end to make it pointed, push it through the needle's eye, pull through, and tie a knot at the long end. 'This takes practice — be patient with yourself!'"},
-        {"type": "instruction", "step": 3, "text": "RUNNING STITCH: 'Come up from the back, go down a short distance away, come up again, go down again. Up-down-up-down in a straight line.' Demonstrate slowly. Make stitches even and evenly spaced."},
-        {"type": "instruction", "step": 4, "text": "CROSS-STITCH: 'Come up at the bottom-left corner of a grid square, go down at the top-right (making a diagonal /). Then come up at the bottom-right and go down at the top-left (making the other diagonal \\\\). You've made an X!' Practice several Xs in a row."},
-        {"type": "activity", "prompt": "Practice both stitches: make one row of running stitches and one row of cross-stitches. Once comfortable, plan a simple design on grid paper (your initial, a heart, a star) and begin stitching it on your cloth. Choose colors carefully. Take your time — good sewing requires patience and precision.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Sewing is one of humanity's oldest skills — people have been stitching for thousands of years. You've just learned the same stitches used by Renaissance embroiderers! Keep your piece to add to over time — many beautiful works take multiple sessions.", "mastery_check": "Can the child thread a needle, execute a running stitch and cross-stitch, and begin a simple design?"}
+        {
+          "type": "title",
+          "heading": "Sewing Skills",
+          "subheading": "Running Stitch and Cross-Stitch",
+          "image_url": "https://images.pexels.com/photos/7828280/pexels-photo-7828280.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Burlap or Aida cloth square (8x8 inches)",
+            "Blunt-tip embroidery needles",
+            "Embroidery floss in several colors",
+            "Child-safe scissors",
+            "Optional: embroidery hoop to hold fabric taut",
+            "Grid paper for planning designs"
+          ],
+          "setup_instructions": "Cut embroidery floss into 18-inch lengths. Thread one needle in advance as a model. If using Aida cloth, the grid of holes makes stitching much easier for beginners."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'During the Renaissance, sewing and embroidery were highly valued skills — both practical and artistic. Wealthy families wore clothing decorated with elaborate stitching. Today, you'll learn two fundamental stitches that have been used for centuries.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "First, learn to thread the needle: cut the floss, lick or pinch one end to make it pointed, push it through the needle's eye, pull through, and tie a knot at the long end. 'This takes practice — be patient with yourself!'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "RUNNING STITCH: 'Come up from the back, go down a short distance away, come up again, go down again. Up-down-up-down in a straight line.' Demonstrate slowly. Make stitches even and evenly spaced."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "CROSS-STITCH: 'Come up at the bottom-left corner of a grid square, go down at the top-right (making a diagonal /). Then come up at the bottom-right and go down at the top-left (making the other diagonal \\\\). You've made an X!' Practice several Xs in a row."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice both stitches: make one row of running stitches and one row of cross-stitches. Once comfortable, plan a simple design on grid paper (your initial, a heart, a star) and begin stitching it on your cloth. Choose colors carefully. Take your time — good sewing requires patience and precision.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Sewing is one of humanity's oldest skills — people have been stitching for thousands of years. You've just learned the same stitches used by Renaissance embroiderers! Keep your piece to add to over time — many beautiful works take multiple sessions.",
+          "mastery_check": "Can the child thread a needle, execute a running stitch and cross-stitch, and begin a simple design?"
+        }
       ]
     },
     "parent_notes": "Sewing is a quintessential Montessori practical life activity that develops fine motor control, concentration, patience, and aesthetic sensibility. Use blunt-tip needles for safety. Aida cloth (available at craft stores) has a visible grid that makes cross-stitch much easier for beginners. Start simple — even a straight line of stitches is an accomplishment. Don't rush to complex patterns; let the child develop comfort with the needle and thread. This is a wonderful ongoing project that builds over multiple sessions. Many children find sewing deeply meditative.",
@@ -290,17 +735,61 @@
     "instructions": "1. Review play format from Day 1: character name, colon, dialogue, [stage directions].\n2. Discuss: How do you make characters sound DIFFERENT? (Vocabulary, sentence length, personality.)\n3. Model writing a short dialogue exchange between two characters with contrasting personalities.\n4. Point out: each character should have a unique 'voice' — a formal professor speaks differently than a excited child.\n5. Practice: Given two character descriptions, write a 6-line dialogue exchange.\n6. Add stage directions that show emotion and movement.\n7. Read aloud in character voices to test if it sounds natural.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Play script examples", "Character description cards", "Lined paper", "Pencil", "Dialogue formatting guide"],
+    "materials_needed": [
+      "Play script examples",
+      "Character description cards",
+      "Lined paper",
+      "Pencil",
+      "Dialogue formatting guide"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Writing Dialogue", "subheading": "Bringing Characters to Life"},
-        {"type": "materials", "items": ["Play script examples for reference", "Character description cards (prepared by parent)", "Lined paper and pencil", "Dialogue formatting guide (Character Name: dialogue [stage direction])"], "setup_instructions": "Create 3-4 character description cards (e.g., 'A nervous inventor who speaks in short, choppy sentences' or 'A wise grandmother who uses old-fashioned expressions'). Have the formatting guide visible."},
-        {"type": "instruction", "step": 1, "text": "Review the format: 'In a play script, we write: CHARACTER NAME: What they say. [Stage direction in brackets.] No quotation marks! The character's name before the line tells us who's speaking.'"},
-        {"type": "instruction", "step": 2, "text": "'The most important thing: every character should have a UNIQUE VOICE. A pirate doesn't talk like a princess! Think about: What words would this character use? Do they speak in long sentences or short ones? Are they formal or casual? Loud or quiet?'"},
-        {"type": "instruction", "step": 3, "text": "Model writing together: Character 1: Professor Wordsworth (formal, long sentences). Character 2: Max, age 8 (casual, excitable). 'PROFESSOR: [Adjusting spectacles] I believe we have discovered something rather extraordinary. MAX: [Jumping up and down] No way! Is it a treasure? Is it? IS IT?!' Notice the difference in voice."},
-        {"type": "instruction", "step": 4, "text": "'Stage directions tell the actor what to DO and how to FEEL. They go in [brackets]: [whispering], [turning away sadly], [pacing nervously], [pointing to the door]. They should be short and clear — just enough for the actor to understand.'"},
-        {"type": "activity", "prompt": "Choose two character cards. Write a dialogue exchange of at least 8 lines between these two characters. Each character should have a distinct voice — different vocabulary, different personality, different way of speaking. Include at least 4 stage directions. When finished, read it aloud in character voices. Does each character sound unique?", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "When dialogue is written well, you can HEAR the characters in your head — you know exactly who's talking even without seeing the name. Tomorrow, you'll write your own complete play scene with conflict, dialogue, and stage directions!", "mastery_check": "Can the child write properly formatted dialogue where each character has a distinct voice and stage directions convey emotion/action?"}
+        {
+          "type": "title",
+          "heading": "Writing Dialogue",
+          "subheading": "Bringing Characters to Life",
+          "image_url": "https://images.pexels.com/photos/1887614/pexels-photo-1887614.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Play script examples for reference",
+            "Character description cards (prepared by parent)",
+            "Lined paper and pencil",
+            "Dialogue formatting guide (Character Name: dialogue [stage direction])"
+          ],
+          "setup_instructions": "Create 3-4 character description cards (e.g., 'A nervous inventor who speaks in short, choppy sentences' or 'A wise grandmother who uses old-fashioned expressions'). Have the formatting guide visible."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the format: 'In a play script, we write: CHARACTER NAME: What they say. [Stage direction in brackets.] No quotation marks! The character's name before the line tells us who's speaking.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'The most important thing: every character should have a UNIQUE VOICE. A pirate doesn't talk like a princess! Think about: What words would this character use? Do they speak in long sentences or short ones? Are they formal or casual? Loud or quiet?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Model writing together: Character 1: Professor Wordsworth (formal, long sentences). Character 2: Max, age 8 (casual, excitable). 'PROFESSOR: [Adjusting spectacles] I believe we have discovered something rather extraordinary. MAX: [Jumping up and down] No way! Is it a treasure? Is it? IS IT?!' Notice the difference in voice."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Stage directions tell the actor what to DO and how to FEEL. They go in [brackets]: [whispering], [turning away sadly], [pacing nervously], [pointing to the door]. They should be short and clear — just enough for the actor to understand.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose two character cards. Write a dialogue exchange of at least 8 lines between these two characters. Each character should have a distinct voice — different vocabulary, different personality, different way of speaking. Include at least 4 stage directions. When finished, read it aloud in character voices. Does each character sound unique?",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "When dialogue is written well, you can HEAR the characters in your head — you know exactly who's talking even without seeing the name. Tomorrow, you'll write your own complete play scene with conflict, dialogue, and stage directions!",
+          "mastery_check": "Can the child write properly formatted dialogue where each character has a distinct voice and stage directions convey emotion/action?"
+        }
       ]
     },
     "parent_notes": "Writing dialogue is challenging because the child must think from multiple perspectives simultaneously — what would THIS character say in THIS situation? The character cards provide scaffolding: having a clear personality description helps guide word choices. Encourage your child to read dialogue aloud as they write — if it doesn't sound natural spoken, it won't work on stage. The distinction between characters' voices is more important than perfect formatting. If your child enjoys this, consider attending a local theater performance to see professional dialogue in action.",
@@ -318,17 +807,61 @@
     "instructions": "1. Create a reference chart with all four fraction operations and their rules.\n2. Quick review of each: addition/subtraction (same denominator), multiplication, division.\n3. Present mixed problems — the child must first identify which operation to use.\n4. Key strategy: read the problem, identify clue words, choose the operation, then solve.\n5. Work through 12-15 mixed problems.\n6. Include word problems that require choosing the correct operation.\n7. Self-assessment: which operation is easiest? Which is most challenging?",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Reference chart paper", "Markers", "Math journal", "Pencil", "Fraction circles"],
+    "materials_needed": [
+      "Reference chart paper",
+      "Markers",
+      "Math journal",
+      "Pencil",
+      "Fraction circles"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Fraction Operations", "subheading": "Mixed Practice — All Four Operations"},
-        {"type": "materials", "items": ["Large paper for reference chart", "Markers", "Math journal and pencil", "Fraction circles for checking"], "setup_instructions": "Prepare a large reference chart with four sections: Addition (same denominator: add numerators), Subtraction (same denominator: subtract numerators), Multiplication (multiply numerators, multiply denominators), Division by whole number (multiply the denominator by the whole number)."},
-        {"type": "instruction", "step": 1, "text": "Create the reference chart together. 'You now know FOUR operations with fractions! Let's make a quick-reference guide.' Addition: 2/5 + 1/5 = 3/5. Subtraction: 3/4 - 1/4 = 2/4 = 1/2. Multiplication: 2/3 × 3/4 = 6/12 = 1/2. Division: 1/2 ÷ 3 = 1/6."},
-        {"type": "instruction", "step": 2, "text": "Clue words: ADDITION (in all, combined, total, together). SUBTRACTION (how much more, left over, difference, remaining). MULTIPLICATION (of, times, each, product). DIVISION (share equally, split, divided among, per person)."},
-        {"type": "instruction", "step": 3, "text": "Mixed practice: Present problems one at a time. 'First, tell me: which operation? Then solve.' 1) 3/8 + 2/8 = ? (addition, 5/8). 2) 5/6 - 1/6 = ? (subtraction, 4/6 = 2/3). 3) 1/3 × 2/5 = ? (multiplication, 2/15). 4) 3/4 ÷ 3 = ? (division, 3/12 = 1/4)."},
-        {"type": "instruction", "step": 4, "text": "Word problem mix: 'Lily ate 2/8 of a pie. Sam ate 3/8. How much did they eat together?' (Addition: 5/8). 'You have 3/4 of a yard of ribbon. You use 1/4. How much is left?' (Subtraction: 2/4 = 1/2). Identify the operation FIRST, then solve."},
-        {"type": "activity", "prompt": "Complete the mixed review in your journal. For each problem, write the operation first, then solve: 1) 4/7 + 2/7, 2) 2/3 × 1/4, 3) 5/6 - 2/6, 4) 1/3 ÷ 2, 5) 3/5 × 2/3, 6) 7/8 - 3/8, 7) 1/4 ÷ 5, 8) 1/6 + 4/6. Then solve 3 word problems: choose the operation and explain your choice.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "You can now add, subtract, multiply, and divide fractions! The key is choosing the right operation. What's your strongest operation? Which one do you want more practice with?", "mastery_check": "Can the child correctly identify and apply the appropriate fraction operation for a given problem?"}
+        {
+          "type": "title",
+          "heading": "Fraction Operations",
+          "subheading": "Mixed Practice — All Four Operations",
+          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large paper for reference chart",
+            "Markers",
+            "Math journal and pencil",
+            "Fraction circles for checking"
+          ],
+          "setup_instructions": "Prepare a large reference chart with four sections: Addition (same denominator: add numerators), Subtraction (same denominator: subtract numerators), Multiplication (multiply numerators, multiply denominators), Division by whole number (multiply the denominator by the whole number)."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Create the reference chart together. 'You now know FOUR operations with fractions! Let's make a quick-reference guide.' Addition: 2/5 + 1/5 = 3/5. Subtraction: 3/4 - 1/4 = 2/4 = 1/2. Multiplication: 2/3 × 3/4 = 6/12 = 1/2. Division: 1/2 ÷ 3 = 1/6."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Clue words: ADDITION (in all, combined, total, together). SUBTRACTION (how much more, left over, difference, remaining). MULTIPLICATION (of, times, each, product). DIVISION (share equally, split, divided among, per person)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Mixed practice: Present problems one at a time. 'First, tell me: which operation? Then solve.' 1) 3/8 + 2/8 = ? (addition, 5/8). 2) 5/6 - 1/6 = ? (subtraction, 4/6 = 2/3). 3) 1/3 × 2/5 = ? (multiplication, 2/15). 4) 3/4 ÷ 3 = ? (division, 3/12 = 1/4)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Word problem mix: 'Lily ate 2/8 of a pie. Sam ate 3/8. How much did they eat together?' (Addition: 5/8). 'You have 3/4 of a yard of ribbon. You use 1/4. How much is left?' (Subtraction: 2/4 = 1/2). Identify the operation FIRST, then solve."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete the mixed review in your journal. For each problem, write the operation first, then solve: 1) 4/7 + 2/7, 2) 2/3 × 1/4, 3) 5/6 - 2/6, 4) 1/3 ÷ 2, 5) 3/5 × 2/3, 6) 7/8 - 3/8, 7) 1/4 ÷ 5, 8) 1/6 + 4/6. Then solve 3 word problems: choose the operation and explain your choice.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "You can now add, subtract, multiply, and divide fractions! The key is choosing the right operation. What's your strongest operation? Which one do you want more practice with?",
+          "mastery_check": "Can the child correctly identify and apply the appropriate fraction operation for a given problem?"
+        }
       ]
     },
     "parent_notes": "This mixed review is crucial because in real life, problems don't come labeled with the operation. The child must read, interpret, and choose. If your child consistently confuses two operations, create additional practice problems focused on the distinction. The reference chart should stay visible during practice — the goal isn't memorization yet but confident, supported execution. By the end of lower elementary, all four operations should feel routine. Note: fraction division by fractions and addition/subtraction with unlike denominators will come later.",
@@ -346,17 +879,62 @@
     "instructions": "1. Introduce Michelangelo: sculptor, painter, architect, poet — born 1475 in Italy.\n2. Tell the story: Pope Julius II asked Michelangelo to paint the ceiling of the Sistine Chapel. He didn't want to (he considered himself a sculptor, not a painter!) but the Pope insisted.\n3. Show images of the ceiling, especially the Creation of Adam (the famous reaching hands).\n4. Discuss the physical challenge: he painted on his back on scaffolding, 68 feet above the floor, for FOUR YEARS.\n5. His other works: the statue of David, the Pietà.\n6. Discuss: What does it mean to dedicate years of your life to one project?\n7. Child creates a 'ceiling painting' by taping paper under a table and drawing overhead.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Images of the Sistine Chapel ceiling", "Images of David and Pietà", "Paper", "Tape", "Crayons or colored pencils", "Table for taping paper underneath"],
+    "materials_needed": [
+      "Images of the Sistine Chapel ceiling",
+      "Images of David and Pietà",
+      "Paper",
+      "Tape",
+      "Crayons or colored pencils",
+      "Table for taping paper underneath"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Renaissance Art", "subheading": "Michelangelo and the Sistine Chapel"},
-        {"type": "materials", "items": ["Printed images of the Sistine Chapel ceiling, the Creation of Adam, the statue of David, the Pietà", "Paper and tape", "Crayons or colored pencils", "A table to tape paper underneath"], "setup_instructions": "Print high-quality images of Michelangelo's works. Tape a piece of paper to the underside of a table or desk for the 'ceiling painting' activity. Place a pillow or mat for the child to lie on."},
-        {"type": "instruction", "step": 1, "text": "'Michelangelo di Lodovico Buonarroti — usually just called Michelangelo — was born in 1475 near Florence. He showed artistic talent as a child, and by age 13, he was apprenticed to a master painter. But what he really loved was SCULPTURE — carving stone into lifelike figures.'"},
-        {"type": "instruction", "step": 2, "text": "'In 1508, Pope Julius II gave Michelangelo an almost impossible task: paint the ceiling of the Sistine Chapel in Vatican City. The ceiling is 12,000 square feet — that's bigger than two basketball courts! Michelangelo didn't want to do it. He said, \"I am a sculptor, not a painter!\" But the Pope insisted.'"},
-        {"type": "instruction", "step": 3, "text": "Show the ceiling images. 'He built scaffolding 68 feet high and painted lying on his back, arms above his head, for FOUR YEARS. Paint dripped into his eyes. His neck and back were in constant pain. He wrote a poem about how terrible it was! But the result...' Show the Creation of Adam. 'This is one of the most famous images in all of art.'"},
-        {"type": "instruction", "step": 4, "text": "Show the David statue (17 feet tall, carved from a single block of marble) and the Pietà (Mary holding Jesus). 'Michelangelo said the sculpture was already inside the stone — he just had to remove the extra marble to reveal it.' Discuss: What kind of person spends four years painting a ceiling? What drives that kind of dedication?"},
-        {"type": "activity", "prompt": "Experience what Michelangelo felt! Tape paper to the underside of a table. Lie on your back underneath and draw a picture — anything you want. How does it feel to draw with your arms above you? After 5-10 minutes, think about how Michelangelo did this for FOUR YEARS! Write 3 sentences about the experience.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Michelangelo lived to age 88, working until the very end. He showed us that greatness requires not just talent but perseverance, dedication, and the willingness to push through difficulty. His works have inspired people for over 500 years.", "mastery_check": "Can the child describe Michelangelo's major works and explain the significance of the Sistine Chapel ceiling?"}
+        {
+          "type": "title",
+          "heading": "Renaissance Art",
+          "subheading": "Michelangelo and the Sistine Chapel",
+          "image_url": "https://images.pexels.com/photos/1701595/pexels-photo-1701595.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Printed images of the Sistine Chapel ceiling, the Creation of Adam, the statue of David, the Pietà",
+            "Paper and tape",
+            "Crayons or colored pencils",
+            "A table to tape paper underneath"
+          ],
+          "setup_instructions": "Print high-quality images of Michelangelo's works. Tape a piece of paper to the underside of a table or desk for the 'ceiling painting' activity. Place a pillow or mat for the child to lie on."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Michelangelo di Lodovico Buonarroti — usually just called Michelangelo — was born in 1475 near Florence. He showed artistic talent as a child, and by age 13, he was apprenticed to a master painter. But what he really loved was SCULPTURE — carving stone into lifelike figures.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'In 1508, Pope Julius II gave Michelangelo an almost impossible task: paint the ceiling of the Sistine Chapel in Vatican City. The ceiling is 12,000 square feet — that's bigger than two basketball courts! Michelangelo didn't want to do it. He said, \"I am a sculptor, not a painter!\" But the Pope insisted.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show the ceiling images. 'He built scaffolding 68 feet high and painted lying on his back, arms above his head, for FOUR YEARS. Paint dripped into his eyes. His neck and back were in constant pain. He wrote a poem about how terrible it was! But the result...' Show the Creation of Adam. 'This is one of the most famous images in all of art.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Show the David statue (17 feet tall, carved from a single block of marble) and the Pietà (Mary holding Jesus). 'Michelangelo said the sculpture was already inside the stone — he just had to remove the extra marble to reveal it.' Discuss: What kind of person spends four years painting a ceiling? What drives that kind of dedication?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Experience what Michelangelo felt! Tape paper to the underside of a table. Lie on your back underneath and draw a picture — anything you want. How does it feel to draw with your arms above you? After 5-10 minutes, think about how Michelangelo did this for FOUR YEARS! Write 3 sentences about the experience.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Michelangelo lived to age 88, working until the very end. He showed us that greatness requires not just talent but perseverance, dedication, and the willingness to push through difficulty. His works have inspired people for over 500 years.",
+          "mastery_check": "Can the child describe Michelangelo's major works and explain the significance of the Sistine Chapel ceiling?"
+        }
       ]
     },
     "parent_notes": "The 'paint on the ceiling' activity is incredibly effective — after just a few minutes, children understand the physical pain and appreciate Michelangelo's four-year commitment. Make it comfortable with a pillow under the child's back. The images of his work are awe-inspiring; take time to study the details. Michelangelo's quote about the sculpture being 'already inside the stone' is a wonderful metaphor for the Montessori belief that the potential is within every child — education reveals it.",
@@ -374,17 +952,62 @@
     "instructions": "1. Ask: 'Before printing, how were books made?' (Hand-copied by monks, taking months or years.)\n2. Introduce Johannes Gutenberg and his invention: movable metal type and the printing press.\n3. Explain how it worked: individual letter molds, arranged into words, inked, pressed onto paper.\n4. Discuss the impact: books became cheaper and faster to produce. More people could read. Ideas spread rapidly.\n5. Connect to the Renaissance: printing spread new ideas about art and science across Europe.\n6. Create a simple 'printing' activity using foam letter stamps or potato stamps.\n7. Discuss: What is our 'printing press' today? (The internet.)",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Images of Gutenberg and his press", "Foam letter stamps or carved potato stamps", "Ink pad or washable paint", "Paper", "Timeline"],
+    "materials_needed": [
+      "Images of Gutenberg and his press",
+      "Foam letter stamps or carved potato stamps",
+      "Ink pad or washable paint",
+      "Paper",
+      "Timeline"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Printing Press", "subheading": "How Words Changed the World"},
-        {"type": "materials", "items": ["Images of Gutenberg's printing press and early printed books", "Foam letter stamps or potato stamps", "Ink pad or shallow tray of washable paint", "Paper", "Timeline of Civilizations"], "setup_instructions": "If making potato stamps: cut potatoes in half, carve simple letters into the flat surface. If using foam stamps, arrange several letters. Prepare a shallow tray with a thin layer of washable paint for inking."},
-        {"type": "instruction", "step": 1, "text": "'Before 1440, every single book in Europe was copied BY HAND. Monks spent months or years copying one book. A single Bible could take TWO YEARS to copy. Books were so expensive that only churches and the very wealthy could own them.' Let this sink in."},
-        {"type": "instruction", "step": 2, "text": "'Then a German goldsmith named Johannes Gutenberg had a revolutionary idea. He carved individual letters out of metal. He could arrange these letters into words, ink them, and PRESS them onto paper. When finished with one page, he could rearrange the letters for the next. This was the PRINTING PRESS.'"},
-        {"type": "instruction", "step": 3, "text": "'The first major book he printed was the Gutenberg Bible, around 1455. Before the press, there were only about 30,000 books in all of Europe. Within 50 years, there were more than 10 MILLION. Books became affordable. Regular people could buy them. Ideas spread like wildfire.'"},
-        {"type": "instruction", "step": 4, "text": "'The printing press changed EVERYTHING: Renaissance ideas spread across Europe. Martin Luther's writings sparked the Reformation. Scientific discoveries were shared quickly. More people learned to read because there were finally books to read! Some historians say it was the most important invention before the internet.'"},
-        {"type": "activity", "prompt": "Experience 'printing'! Use your letter stamps to print a short message on paper. First, arrange the letters. Then ink them and press onto paper. Print the same message 3 times. Compare: which is faster — writing it 3 times by hand or stamping it 3 times? Now imagine doing this for an entire BOOK. Write 2-3 sentences explaining why the printing press was so revolutionary.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Before the printing press: 30,000 books in Europe. After: 10 million. One invention put knowledge into the hands of ordinary people and changed the course of human history. What invention today has the same power? (The internet!) Technology that spreads information changes everything.", "mastery_check": "Can the child explain how the printing press worked, why it was revolutionary, and what its impact was on European society?"}
+        {
+          "type": "title",
+          "heading": "The Printing Press",
+          "subheading": "How Words Changed the World",
+          "image_url": "https://images.pexels.com/photos/31846587/pexels-photo-31846587.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Images of Gutenberg's printing press and early printed books",
+            "Foam letter stamps or potato stamps",
+            "Ink pad or shallow tray of washable paint",
+            "Paper",
+            "Timeline of Civilizations"
+          ],
+          "setup_instructions": "If making potato stamps: cut potatoes in half, carve simple letters into the flat surface. If using foam stamps, arrange several letters. Prepare a shallow tray with a thin layer of washable paint for inking."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Before 1440, every single book in Europe was copied BY HAND. Monks spent months or years copying one book. A single Bible could take TWO YEARS to copy. Books were so expensive that only churches and the very wealthy could own them.' Let this sink in."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Then a German goldsmith named Johannes Gutenberg had a revolutionary idea. He carved individual letters out of metal. He could arrange these letters into words, ink them, and PRESS them onto paper. When finished with one page, he could rearrange the letters for the next. This was the PRINTING PRESS.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'The first major book he printed was the Gutenberg Bible, around 1455. Before the press, there were only about 30,000 books in all of Europe. Within 50 years, there were more than 10 MILLION. Books became affordable. Regular people could buy them. Ideas spread like wildfire.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'The printing press changed EVERYTHING: Renaissance ideas spread across Europe. Martin Luther's writings sparked the Reformation. Scientific discoveries were shared quickly. More people learned to read because there were finally books to read! Some historians say it was the most important invention before the internet.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Experience 'printing'! Use your letter stamps to print a short message on paper. First, arrange the letters. Then ink them and press onto paper. Print the same message 3 times. Compare: which is faster — writing it 3 times by hand or stamping it 3 times? Now imagine doing this for an entire BOOK. Write 2-3 sentences explaining why the printing press was so revolutionary.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Before the printing press: 30,000 books in Europe. After: 10 million. One invention put knowledge into the hands of ordinary people and changed the course of human history. What invention today has the same power? (The internet!) Technology that spreads information changes everything.",
+          "mastery_check": "Can the child explain how the printing press worked, why it was revolutionary, and what its impact was on European society?"
+        }
       ]
     },
     "parent_notes": "The printing press is one of history's most important inventions, and the hands-on printing activity makes it tangible. Children are often astonished that books were once hand-copied — it reframes their relationship with books entirely. The comparison to the internet is powerful: Gutenberg's press did for the 1400s what the internet did for the 1990s — it democratized information. If your child is interested, discuss how the printing press also enabled the spread of misinformation, just as the internet does today. Critical thinking about information is timeless.",
@@ -402,17 +1025,61 @@
     "instructions": "1. Show the cover and title. 'Katie is about to step INTO some famous Renaissance paintings!'\n2. Read aloud, pausing at each painting to show the real artwork and discuss it.\n3. Discuss: What do you notice about each painting? What story does it tell?\n4. After reading, show the actual paintings mentioned: Mona Lisa, Primavera, etc.\n5. Ask: 'If you could step into any painting, which would you choose? Why?'\n6. Child writes about or draws themselves stepping into a Renaissance painting.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Katie and the Mona Lisa by James Mayhew (or similar art adventure book)", "Printed images of the actual paintings featured", "Drawing paper", "Colored pencils", "Comfortable reading area"],
+    "materials_needed": [
+      "Katie and the Mona Lisa by James Mayhew (or similar art adventure book)",
+      "Printed images of the actual paintings featured",
+      "Drawing paper",
+      "Colored pencils",
+      "Comfortable reading area"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "Katie and the Mona Lisa by James Mayhew"},
-        {"type": "materials", "items": ["Katie and the Mona Lisa by James Mayhew (or similar Renaissance art adventure book)", "Printed images of actual paintings featured in the book", "Drawing paper and colored pencils", "Comfortable reading area"], "setup_instructions": "Preview the book and print high-quality images of the actual Renaissance paintings referenced. If you can't obtain this specific book, any picture book featuring Renaissance art works well, or simply do a guided 'art museum tour' using printed images."},
-        {"type": "instruction", "step": 1, "text": "'This is a story about a girl named Katie who visits an art museum and something magical happens — she steps RIGHT INTO the paintings! The paintings in this book are REAL — famous Renaissance masterpieces that you can see in museums today.'"},
-        {"type": "instruction", "step": 2, "text": "Read aloud with enthusiasm. At each painting, pause: 'This is a REAL painting! Here's what it actually looks like.' Show the printed image. Discuss: 'What do you notice? What colors did the artist use? What do you think is happening in this scene?'"},
-        {"type": "instruction", "step": 3, "text": "After reading, lay out all the paintings mentioned. 'Which was your favorite? What made it special? Remember, these paintings are hundreds of years old, but they still make us feel something — that's the power of great art.'"},
-        {"type": "instruction", "step": 4, "text": "Ask: 'If you could step into ANY painting from the Renaissance — the Mona Lisa, the Sistine Chapel ceiling, the School of Athens — which would you choose? What would you do inside the painting? Who would you talk to?'"},
-        {"type": "activity", "prompt": "Draw yourself stepping into a Renaissance painting! Choose a real artwork you've learned about this week (the Mona Lisa, the Creation of Adam, the Sistine Chapel, or any other). Draw the painting scene and add yourself in it. What are you doing? Write a short paragraph describing your adventure inside the painting.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Art lets us travel through time and space. When you look at a painting from the Renaissance, you're seeing something created 500 years ago that still inspires people today. Maybe one day, you'll visit a museum and see these paintings in person!", "mastery_check": "Can the child identify several Renaissance artworks and express personal responses to them?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "Katie and the Mona Lisa by James Mayhew",
+          "image_url": "https://images.pexels.com/photos/3755755/pexels-photo-3755755.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Katie and the Mona Lisa by James Mayhew (or similar Renaissance art adventure book)",
+            "Printed images of actual paintings featured in the book",
+            "Drawing paper and colored pencils",
+            "Comfortable reading area"
+          ],
+          "setup_instructions": "Preview the book and print high-quality images of the actual Renaissance paintings referenced. If you can't obtain this specific book, any picture book featuring Renaissance art works well, or simply do a guided 'art museum tour' using printed images."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'This is a story about a girl named Katie who visits an art museum and something magical happens — she steps RIGHT INTO the paintings! The paintings in this book are REAL — famous Renaissance masterpieces that you can see in museums today.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read aloud with enthusiasm. At each painting, pause: 'This is a REAL painting! Here's what it actually looks like.' Show the printed image. Discuss: 'What do you notice? What colors did the artist use? What do you think is happening in this scene?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading, lay out all the paintings mentioned. 'Which was your favorite? What made it special? Remember, these paintings are hundreds of years old, but they still make us feel something — that's the power of great art.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Ask: 'If you could step into ANY painting from the Renaissance — the Mona Lisa, the Sistine Chapel ceiling, the School of Athens — which would you choose? What would you do inside the painting? Who would you talk to?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw yourself stepping into a Renaissance painting! Choose a real artwork you've learned about this week (the Mona Lisa, the Creation of Adam, the Sistine Chapel, or any other). Draw the painting scene and add yourself in it. What are you doing? Write a short paragraph describing your adventure inside the painting.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Art lets us travel through time and space. When you look at a painting from the Renaissance, you're seeing something created 500 years ago that still inspires people today. Maybe one day, you'll visit a museum and see these paintings in person!",
+          "mastery_check": "Can the child identify several Renaissance artworks and express personal responses to them?"
+        }
       ]
     },
     "parent_notes": "This book (or this type of activity) bridges the gap between art history and personal engagement. When children imagine themselves INSIDE a painting, they develop deeper connection to the artwork. If you can't obtain this specific book, create your own 'museum tour' by printing 5-6 Renaissance paintings and having the child react to each. Virtual museum tours (Google Arts & Culture) are also wonderful. The key is making art PERSONAL — not just facts about paintings but genuine emotional responses to beauty.",
@@ -430,17 +1097,61 @@
     "instructions": "1. Review all elements: characters, dialogue, stage directions, conflict, resolution.\n2. Discuss conflict: every good scene has a PROBLEM that characters must solve.\n3. Brainstorm: What could the conflict be? (Lost treasure, misunderstanding, a challenge to overcome.)\n4. Plan the scene: WHO (characters), WHAT (conflict), HOW (resolution).\n5. Child writes the scene: 10-15 lines of dialogue with stage directions.\n6. Include a clear beginning, middle (conflict), and end (resolution).\n7. Perform the scene with family members.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Planning worksheet", "Lined paper", "Pencil", "Drama formatting guide", "Optional: simple costumes or props"],
+    "materials_needed": [
+      "Planning worksheet",
+      "Lined paper",
+      "Pencil",
+      "Drama formatting guide",
+      "Optional: simple costumes or props"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Writing a Short Scene", "subheading": "Conflict, Dialogue, and Resolution"},
-        {"type": "materials", "items": ["Scene planning worksheet (Characters, Setting, Conflict, Resolution)", "Lined paper and pencil", "Drama formatting guide from Day 1", "Optional: simple costumes, props, or household items for performing"], "setup_instructions": "Create a simple planning worksheet with four sections: Characters (names and brief descriptions), Setting (where and when), Conflict (the problem), Resolution (how it's solved). Have the formatting guide visible."},
-        {"type": "instruction", "step": 1, "text": "'This week you've learned to read plays, speak dialogue with emotion, and write characters with distinct voices. Now it's time to put it ALL together and write your own play scene!' Review: characters, dialogue, stage directions, and — the most important ingredient — CONFLICT."},
-        {"type": "instruction", "step": 2, "text": "'Every good play has a CONFLICT — a problem that needs to be solved. Without conflict, there's no story. The conflict can be: two characters disagree, someone faces a challenge, a mystery needs solving, or something has gone wrong that must be fixed.'"},
-        {"type": "instruction", "step": 3, "text": "Plan together using the worksheet: 'First, who are your characters? Give each one a name and a personality trait. Where does the scene take place? What is the problem? How do the characters solve it?' Let the child make all creative choices."},
-        {"type": "instruction", "step": 4, "text": "Structure: 'Your scene should have three parts. BEGINNING: characters are introduced, setting is established. MIDDLE: the conflict happens — this is the exciting part! END: the conflict is resolved. Aim for 10-15 lines of dialogue with at least 5 stage directions.'"},
-        {"type": "activity", "prompt": "Write your play scene! Use proper formatting: CHARACTER NAME: Dialogue. [Stage directions in brackets.] Give each character a distinct voice. Include a conflict and resolution. When finished, perform it! Assign roles to family members (or read all parts yourself with different voices). Use simple props if you'd like.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "You are now a PLAYWRIGHT — someone who writes plays! Keep your scene in your portfolio. Every famous play started as words on a page, written by someone just like you who had an idea and the skills to bring it to life.", "mastery_check": "Can the child write an original play scene with proper formatting, distinct characters, conflict, and resolution?"}
+        {
+          "type": "title",
+          "heading": "Writing a Short Scene",
+          "subheading": "Conflict, Dialogue, and Resolution",
+          "image_url": "https://images.pexels.com/photos/1822568/pexels-photo-1822568.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Scene planning worksheet (Characters, Setting, Conflict, Resolution)",
+            "Lined paper and pencil",
+            "Drama formatting guide from Day 1",
+            "Optional: simple costumes, props, or household items for performing"
+          ],
+          "setup_instructions": "Create a simple planning worksheet with four sections: Characters (names and brief descriptions), Setting (where and when), Conflict (the problem), Resolution (how it's solved). Have the formatting guide visible."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'This week you've learned to read plays, speak dialogue with emotion, and write characters with distinct voices. Now it's time to put it ALL together and write your own play scene!' Review: characters, dialogue, stage directions, and — the most important ingredient — CONFLICT."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'Every good play has a CONFLICT — a problem that needs to be solved. Without conflict, there's no story. The conflict can be: two characters disagree, someone faces a challenge, a mystery needs solving, or something has gone wrong that must be fixed.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Plan together using the worksheet: 'First, who are your characters? Give each one a name and a personality trait. Where does the scene take place? What is the problem? How do the characters solve it?' Let the child make all creative choices."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Structure: 'Your scene should have three parts. BEGINNING: characters are introduced, setting is established. MIDDLE: the conflict happens — this is the exciting part! END: the conflict is resolved. Aim for 10-15 lines of dialogue with at least 5 stage directions.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your play scene! Use proper formatting: CHARACTER NAME: Dialogue. [Stage directions in brackets.] Give each character a distinct voice. Include a conflict and resolution. When finished, perform it! Assign roles to family members (or read all parts yourself with different voices). Use simple props if you'd like.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "You are now a PLAYWRIGHT — someone who writes plays! Keep your scene in your portfolio. Every famous play started as words on a page, written by someone just like you who had an idea and the skills to bring it to life.",
+          "mastery_check": "Can the child write an original play scene with proper formatting, distinct characters, conflict, and resolution?"
+        }
       ]
     },
     "parent_notes": "This is the capstone project for the drama unit. Give your child full creative freedom with the story — their imaginative choices reveal their interests and inner world. The most common challenge is making the conflict STRONG enough to be interesting; gently push them to raise the stakes if the conflict is too mild. Performing the scene is crucial — it validates the writing and shows the child their words have power. If siblings or other family members can participate, it becomes a truly memorable experience. Save this scene for the portfolio.",
@@ -458,17 +1169,61 @@
     "instructions": "1. Review single-step fraction problems.\n2. Introduce multi-step problems: 'Some problems need more than one operation to solve.'\n3. Teach the strategy: Read carefully. Identify what you know. Identify what to find. Plan the steps. Solve one step at a time.\n4. Model a multi-step problem: 'Maria has 3/4 cup of sugar. She uses 1/4 for cookies. Then she divides the rest equally into 2 containers. How much sugar is in each container?'\n5. Step 1: 3/4 - 1/4 = 2/4 = 1/2. Step 2: 1/2 ÷ 2 = 1/4.\n6. Work through 4-5 multi-step problems together.\n7. Child solves 3 independently.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Multi-step word problem cards", "Math journal", "Pencil", "Colored pencils for diagrams", "Fraction circles"],
+    "materials_needed": [
+      "Multi-step word problem cards",
+      "Math journal",
+      "Pencil",
+      "Colored pencils for diagrams",
+      "Fraction circles"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Fraction Word Problems", "subheading": "Multi-Step Challenges"},
-        {"type": "materials", "items": ["Prepared multi-step word problem cards", "Math journal and pencil", "Colored pencils for drawing diagrams", "Fraction circles for modeling"], "setup_instructions": "Write 7-8 multi-step fraction word problems. Each should require 2 operations (mix of add/subtract/multiply/divide). Include a diagram space for each."},
-        {"type": "instruction", "step": 1, "text": "'So far, our word problems have needed just ONE operation. But in real life, problems often need TWO or more steps. Today, we're going to become problem-solving detectives — breaking big problems into smaller steps.'"},
-        {"type": "instruction", "step": 2, "text": "Strategy: READ the whole problem first. IDENTIFY what you know (given information) and what you need to find (the question). PLAN the steps — how many operations do you need? SOLVE one step at a time. CHECK — does your answer make sense?"},
-        {"type": "instruction", "step": 3, "text": "Model: 'Maria has 3/4 cup of sugar. She uses 1/4 cup for cookies. Then she splits the remaining sugar equally into 2 containers. How much is in each?' Step 1: How much is left? 3/4 - 1/4 = 2/4 = 1/2 cup. Step 2: Split into 2: 1/2 ÷ 2 = 1/4 cup per container."},
-        {"type": "instruction", "step": 4, "text": "Model another: 'A garden is 2/3 of an acre. 1/2 of the garden grows tomatoes. 1/3 of the tomato section grows cherry tomatoes. How much of the total acre is cherry tomatoes?' Step 1: 1/2 × 2/3 = 2/6 = 1/3 acre of tomatoes. Step 2: 1/3 × 1/3 = 1/9 acre of cherry tomatoes."},
-        {"type": "activity", "prompt": "Solve these multi-step problems. Show ALL your work and label each step: 1) You have 5/6 of a pizza. You eat 1/6. Then you share the rest equally among 2 friends. How much does each friend get? 2) A rope is 3/4 meter long. You cut off 1/4 meter. Then you cut the remaining piece into 2 equal parts. How long is each part? 3) Make up your own 2-step fraction word problem and solve it.", "duration_minutes": 18},
-        {"type": "wrap_up", "text": "Multi-step problems are like puzzles — you solve them piece by piece. The key is breaking the big problem into small, manageable steps. This skill will help you in math AND in life — every big challenge is really just a series of small steps!", "mastery_check": "Can the child solve multi-step fraction word problems by identifying and executing multiple operations in sequence?"}
+        {
+          "type": "title",
+          "heading": "Fraction Word Problems",
+          "subheading": "Multi-Step Challenges",
+          "image_url": "https://images.pexels.com/photos/6693302/pexels-photo-6693302.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Prepared multi-step word problem cards",
+            "Math journal and pencil",
+            "Colored pencils for drawing diagrams",
+            "Fraction circles for modeling"
+          ],
+          "setup_instructions": "Write 7-8 multi-step fraction word problems. Each should require 2 operations (mix of add/subtract/multiply/divide). Include a diagram space for each."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'So far, our word problems have needed just ONE operation. But in real life, problems often need TWO or more steps. Today, we're going to become problem-solving detectives — breaking big problems into smaller steps.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Strategy: READ the whole problem first. IDENTIFY what you know (given information) and what you need to find (the question). PLAN the steps — how many operations do you need? SOLVE one step at a time. CHECK — does your answer make sense?"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Model: 'Maria has 3/4 cup of sugar. She uses 1/4 cup for cookies. Then she splits the remaining sugar equally into 2 containers. How much is in each?' Step 1: How much is left? 3/4 - 1/4 = 2/4 = 1/2 cup. Step 2: Split into 2: 1/2 ÷ 2 = 1/4 cup per container."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Model another: 'A garden is 2/3 of an acre. 1/2 of the garden grows tomatoes. 1/3 of the tomato section grows cherry tomatoes. How much of the total acre is cherry tomatoes?' Step 1: 1/2 × 2/3 = 2/6 = 1/3 acre of tomatoes. Step 2: 1/3 × 1/3 = 1/9 acre of cherry tomatoes."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these multi-step problems. Show ALL your work and label each step: 1) You have 5/6 of a pizza. You eat 1/6. Then you share the rest equally among 2 friends. How much does each friend get? 2) A rope is 3/4 meter long. You cut off 1/4 meter. Then you cut the remaining piece into 2 equal parts. How long is each part? 3) Make up your own 2-step fraction word problem and solve it.",
+          "duration_minutes": 18
+        },
+        {
+          "type": "wrap_up",
+          "text": "Multi-step problems are like puzzles — you solve them piece by piece. The key is breaking the big problem into small, manageable steps. This skill will help you in math AND in life — every big challenge is really just a series of small steps!",
+          "mastery_check": "Can the child solve multi-step fraction word problems by identifying and executing multiple operations in sequence?"
+        }
       ]
     },
     "parent_notes": "Multi-step problems develop executive function: planning, sequencing, and monitoring progress. These are the same skills used in project management, scientific research, and everyday problem-solving. If your child gets overwhelmed, cover part of the problem and focus on one step at a time. Drawing diagrams is incredibly helpful — encourage visual representations before any computation. The 'create your own problem' task is a powerful assessment: if the child can construct a valid multi-step problem, they truly understand the structure.",
@@ -486,17 +1241,63 @@
     "instructions": "1. Review the digestive path from Day 2.\n2. Introduce enzymes: chemical 'scissors' that cut food molecules into tiny pieces the body can absorb.\n3. Three main nutrient groups: carbohydrates (energy), proteins (growth/repair), fats (energy storage, cell health).\n4. Experiment: saliva enzyme test — chew a plain cracker for 2 minutes without swallowing. What happens? (It gets sweet! Salivary amylase is breaking starch into sugar.)\n5. Discuss: Where are enzymes found? (Mouth, stomach, pancreas, small intestine.)\n6. Child creates a 'nutrient plate' showing balanced nutrition.\n7. Discuss: Why does a balanced diet matter for your body?",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Diagram of digestive system with enzyme locations", "Plain crackers for enzyme experiment", "Food images or plastic food items", "Paper plate", "Colored pencils", "Nutrition information cards"],
+    "materials_needed": [
+      "Diagram of digestive system with enzyme locations",
+      "Plain crackers for enzyme experiment",
+      "Food images or plastic food items",
+      "Paper plate",
+      "Colored pencils",
+      "Nutrition information cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Enzymes and Nutrition", "subheading": "The Chemistry of Digestion"},
-        {"type": "materials", "items": ["Digestive system diagram showing enzyme locations", "Plain unsalted crackers", "Images of foods in different nutrient groups", "Paper plate and colored pencils", "Nutrition information cards"], "setup_instructions": "Have plain crackers ready for the saliva experiment. Prepare images or cards of foods sorted by nutrient group: carbohydrates (bread, pasta, fruit), proteins (meat, beans, eggs), fats (butter, nuts, oil), vitamins/minerals (vegetables, fruits)."},
-        {"type": "instruction", "step": 1, "text": "Review: 'We traced food through the digestive system. But HOW does the body actually break food down small enough to absorb? The answer is ENZYMES — special chemicals that act like tiny scissors, cutting food molecules into smaller and smaller pieces.'"},
-        {"type": "instruction", "step": 2, "text": "Introduce the three main nutrient groups: CARBOHYDRATES (bread, rice, pasta, fruit) — your body's main energy source. PROTEINS (meat, beans, eggs, dairy) — build and repair muscles, skin, and organs. FATS (butter, nuts, oils) — store energy, protect organs, and help build cells."},
-        {"type": "instruction", "step": 3, "text": "Enzyme experiment! 'Place a plain cracker in your mouth and chew it, but DON'T swallow. Keep chewing slowly for 2 full minutes. What happens?' (It starts tasting SWEET!) 'That's because an enzyme in your saliva called AMYLASE is breaking the starch in the cracker into SUGAR. Digestion starts in your mouth!'"},
-        {"type": "instruction", "step": 4, "text": "'Different enzymes work in different places: AMYLASE in your mouth breaks down carbohydrates. PEPSIN in your stomach breaks down proteins. LIPASE from your pancreas breaks down fats. Your body is a chemistry lab!' Show these locations on the digestive diagram."},
-        {"type": "activity", "prompt": "Create a 'My Balanced Plate' on a paper plate: divide it into sections for carbohydrates, proteins, fats, and vegetables/fruits. Draw or paste images of foods in each section. Then write: What does each nutrient group DO for your body? Finally, plan tomorrow's lunch using all four groups.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Your body needs a BALANCE of all nutrient types. Carbs for energy, proteins for building, fats for protection, vitamins and minerals for everything to work properly. Next time you eat, think: what nutrients am I giving my body right now?", "mastery_check": "Can the child explain what enzymes do, name the three main nutrient groups and their functions, and plan a balanced meal?"}
+        {
+          "type": "title",
+          "heading": "Enzymes and Nutrition",
+          "subheading": "The Chemistry of Digestion",
+          "image_url": "https://images.pexels.com/photos/121472/pexels-photo-121472.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Digestive system diagram showing enzyme locations",
+            "Plain unsalted crackers",
+            "Images of foods in different nutrient groups",
+            "Paper plate and colored pencils",
+            "Nutrition information cards"
+          ],
+          "setup_instructions": "Have plain crackers ready for the saliva experiment. Prepare images or cards of foods sorted by nutrient group: carbohydrates (bread, pasta, fruit), proteins (meat, beans, eggs), fats (butter, nuts, oil), vitamins/minerals (vegetables, fruits)."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review: 'We traced food through the digestive system. But HOW does the body actually break food down small enough to absorb? The answer is ENZYMES — special chemicals that act like tiny scissors, cutting food molecules into smaller and smaller pieces.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Introduce the three main nutrient groups: CARBOHYDRATES (bread, rice, pasta, fruit) — your body's main energy source. PROTEINS (meat, beans, eggs, dairy) — build and repair muscles, skin, and organs. FATS (butter, nuts, oils) — store energy, protect organs, and help build cells."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Enzyme experiment! 'Place a plain cracker in your mouth and chew it, but DON'T swallow. Keep chewing slowly for 2 full minutes. What happens?' (It starts tasting SWEET!) 'That's because an enzyme in your saliva called AMYLASE is breaking the starch in the cracker into SUGAR. Digestion starts in your mouth!'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Different enzymes work in different places: AMYLASE in your mouth breaks down carbohydrates. PEPSIN in your stomach breaks down proteins. LIPASE from your pancreas breaks down fats. Your body is a chemistry lab!' Show these locations on the digestive diagram."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a 'My Balanced Plate' on a paper plate: divide it into sections for carbohydrates, proteins, fats, and vegetables/fruits. Draw or paste images of foods in each section. Then write: What does each nutrient group DO for your body? Finally, plan tomorrow's lunch using all four groups.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Your body needs a BALANCE of all nutrient types. Carbs for energy, proteins for building, fats for protection, vitamins and minerals for everything to work properly. Next time you eat, think: what nutrients am I giving my body right now?",
+          "mastery_check": "Can the child explain what enzymes do, name the three main nutrient groups and their functions, and plan a balanced meal?"
+        }
       ]
     },
     "parent_notes": "The cracker experiment is a 'wow' moment — children are amazed that they can FEEL chemistry happening in their mouths. Make sure to use plain, unsalted crackers for the clearest effect. The taste change from bland to sweet typically takes 1-2 minutes of continuous chewing. This connects science to daily life in a powerful way: every meal involves chemistry. The balanced plate activity reinforces healthy eating habits without being prescriptive — focus on variety and balance rather than 'good' and 'bad' foods.",
@@ -514,17 +1315,64 @@
     "instructions": "1. Review symmetry: a shape has symmetry if one half is a mirror image of the other.\n2. Show Renaissance buildings and artwork: point out symmetrical designs.\n3. Fold paper to test symmetry: if both halves match perfectly, the fold line is a line of symmetry.\n4. Identify lines of symmetry in geometric shapes: circle (infinite), square (4), rectangle (2), equilateral triangle (3).\n5. Explore: some shapes have NO symmetry (most irregular shapes).\n6. Child identifies symmetry in household objects and Renaissance images.\n7. Create a symmetrical design inspired by Renaissance architecture.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Images of Renaissance architecture (symmetrical buildings)", "Paper for folding", "Mirrors (small)", "Ruler", "Colored pencils", "Grid paper"],
+    "materials_needed": [
+      "Images of Renaissance architecture (symmetrical buildings)",
+      "Paper for folding",
+      "Mirrors (small)",
+      "Ruler",
+      "Colored pencils",
+      "Grid paper"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Symmetry", "subheading": "In Renaissance Art and Architecture"},
-        {"type": "materials", "items": ["Images of symmetrical Renaissance buildings (St. Peter's Basilica, Palazzo Pitti)", "Paper for folding", "Small mirror for testing symmetry", "Ruler", "Colored pencils", "Grid paper"], "setup_instructions": "Print images of Renaissance buildings that show clear bilateral symmetry. Have a small mirror available for testing lines of symmetry (place it on the line and see if the reflection matches the other half)."},
-        {"type": "instruction", "step": 1, "text": "'During the Renaissance, architects and artists loved SYMMETRY — creating designs where one side perfectly mirrors the other. They believed symmetry represented harmony, balance, and beauty. Let's explore this mathematical concept that shaped some of the world's most beautiful buildings.'"},
-        {"type": "instruction", "step": 2, "text": "Review: 'A shape has a LINE OF SYMMETRY if you can fold it in half and both sides match perfectly.' Demonstrate: fold a paper heart in half — both sides match. Now fold an irregular blob — they don't match. 'The fold line is the line of symmetry.'"},
-        {"type": "instruction", "step": 3, "text": "Show Renaissance buildings. 'Look at this church facade. Can you find the line of symmetry?' Place the mirror along the center — the reflection should match the other half. 'Renaissance architects placed the line of symmetry right down the center. Windows, columns, and decorations are perfectly balanced on both sides.'"},
-        {"type": "instruction", "step": 4, "text": "Explore lines of symmetry in shapes: a circle has INFINITE lines of symmetry (any diameter). A square has 4 (two diagonal, one vertical, one horizontal). A rectangle has 2 (vertical and horizontal, but NOT diagonal!). An equilateral triangle has 3."},
-        {"type": "activity", "prompt": "On grid paper, design a symmetrical Renaissance-inspired building facade. Draw a vertical line of symmetry down the center. Everything you draw on the left side must be perfectly mirrored on the right. Include: a door (centered), windows (symmetric), columns, arches, and decorative elements. Then count: how many lines of symmetry does your building have?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Symmetry is where math meets beauty. Renaissance architects used mathematical principles to create buildings that have inspired awe for 500 years. Next time you see a beautiful building, check: is it symmetrical?", "mastery_check": "Can the child identify lines of symmetry in shapes and images and create a symmetrical design?"}
+        {
+          "type": "title",
+          "heading": "Symmetry",
+          "subheading": "In Renaissance Art and Architecture",
+          "image_url": "https://images.pexels.com/photos/6256065/pexels-photo-6256065.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Images of symmetrical Renaissance buildings (St. Peter's Basilica, Palazzo Pitti)",
+            "Paper for folding",
+            "Small mirror for testing symmetry",
+            "Ruler",
+            "Colored pencils",
+            "Grid paper"
+          ],
+          "setup_instructions": "Print images of Renaissance buildings that show clear bilateral symmetry. Have a small mirror available for testing lines of symmetry (place it on the line and see if the reflection matches the other half)."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'During the Renaissance, architects and artists loved SYMMETRY — creating designs where one side perfectly mirrors the other. They believed symmetry represented harmony, balance, and beauty. Let's explore this mathematical concept that shaped some of the world's most beautiful buildings.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Review: 'A shape has a LINE OF SYMMETRY if you can fold it in half and both sides match perfectly.' Demonstrate: fold a paper heart in half — both sides match. Now fold an irregular blob — they don't match. 'The fold line is the line of symmetry.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show Renaissance buildings. 'Look at this church facade. Can you find the line of symmetry?' Place the mirror along the center — the reflection should match the other half. 'Renaissance architects placed the line of symmetry right down the center. Windows, columns, and decorations are perfectly balanced on both sides.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Explore lines of symmetry in shapes: a circle has INFINITE lines of symmetry (any diameter). A square has 4 (two diagonal, one vertical, one horizontal). A rectangle has 2 (vertical and horizontal, but NOT diagonal!). An equilateral triangle has 3."
+        },
+        {
+          "type": "activity",
+          "prompt": "On grid paper, design a symmetrical Renaissance-inspired building facade. Draw a vertical line of symmetry down the center. Everything you draw on the left side must be perfectly mirrored on the right. Include: a door (centered), windows (symmetric), columns, arches, and decorative elements. Then count: how many lines of symmetry does your building have?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Symmetry is where math meets beauty. Renaissance architects used mathematical principles to create buildings that have inspired awe for 500 years. Next time you see a beautiful building, check: is it symmetrical?",
+          "mastery_check": "Can the child identify lines of symmetry in shapes and images and create a symmetrical design?"
+        }
       ]
     },
     "parent_notes": "This lesson integrates geometry with the week's Renaissance theme. The mirror is a powerful tool: place it along a potential line of symmetry and if the reflection matches the hidden half, it's a true line of symmetry. Children enjoy testing everything — including their own faces (human faces are approximately symmetrical but not perfectly!). The grid paper for the building design ensures precision. This naturally prepares for the triangle and quadrilateral studies coming in Weeks 23-24, where symmetry properties will be important.",
@@ -542,17 +1390,61 @@
     "instructions": "1. Discuss: What music do you think people listened to in the 1400s-1500s?\n2. Play recordings of Renaissance music: both sacred (choral) and secular (dance music).\n3. Introduce instruments: lute (like a guitar), recorder (wind instrument), harpsichord (early keyboard), viola da gamba (like a cello).\n4. Explain harmony: Medieval music was mostly one melody (monophonic). Renaissance music had multiple voices singing different notes that sound beautiful together (polyphonic).\n5. Listen for harmony in a recording.\n6. Sing or play a simple round (like 'Row, Row, Row Your Boat') — this demonstrates harmony.\n7. Child draws their favorite Renaissance instrument and writes about how Renaissance music differs from Medieval music.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Recordings of Renaissance music", "Images of Renaissance instruments", "Optional: recorder for playing", "Drawing paper", "Colored pencils"],
+    "materials_needed": [
+      "Recordings of Renaissance music",
+      "Images of Renaissance instruments",
+      "Optional: recorder for playing",
+      "Drawing paper",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Renaissance Music", "subheading": "Instruments and Harmony"},
-        {"type": "materials", "items": ["Recordings of Renaissance music (search 'Renaissance music' or 'Palestrina' or 'Renaissance dance music')", "Printed images of lute, recorder, harpsichord, viola da gamba", "Optional: recorder instrument for playing", "Drawing paper and colored pencils"], "setup_instructions": "Queue up 2-3 recordings: one sacred choral piece (Palestrina or Josquin) and one lively Renaissance dance piece. Print images of Renaissance instruments for reference."},
-        {"type": "instruction", "step": 1, "text": "'During the Renaissance, music changed dramatically — just like art and science! In the Medieval period, music was mostly sung in churches — one melody line with no harmony. During the Renaissance, composers created HARMONY: multiple voices singing different notes at the same time, creating a rich, full sound.'"},
-        {"type": "instruction", "step": 2, "text": "Play the sacred choral recording. 'Close your eyes and listen. Can you hear different voices singing different things at the same time? That layered sound is called POLYPHONY — many sounds together. It's like a conversation in music.'"},
-        {"type": "instruction", "step": 3, "text": "Show the instruments: 'The LUTE was like the guitar of the Renaissance — everyone loved it. The RECORDER was a popular wind instrument (you might have played one!). The HARPSICHORD was an early keyboard instrument. The VIOLA DA GAMBA was played between the knees like a cello.'"},
-        {"type": "instruction", "step": 4, "text": "Play the dance music recording. 'Renaissance music wasn't just for church anymore — people danced to it, sang at parties, and played instruments for fun. Music became something for everyone to enjoy, not just for worship. This was a huge change!'"},
-        {"type": "activity", "prompt": "First, experience harmony: Sing 'Row, Row, Row Your Boat' as a round — one person starts, the other joins 2 beats later. Listen to how the voices overlap and create harmony! Then draw your favorite Renaissance instrument in detail. Label its parts. Write 3 sentences comparing Medieval music (one voice, church only) to Renaissance music (harmony, instruments, secular and sacred).", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Just like Renaissance artists created depth with perspective, Renaissance musicians created depth with harmony. Music went from a single voice to a rich tapestry of sounds — and we've been building on that ever since. Every song you hear today uses harmony that began in the Renaissance!", "mastery_check": "Can the child explain the difference between monophonic and polyphonic music and name at least two Renaissance instruments?"}
+        {
+          "type": "title",
+          "heading": "Renaissance Music",
+          "subheading": "Instruments and Harmony",
+          "image_url": "https://images.pexels.com/photos/10322846/pexels-photo-10322846.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Recordings of Renaissance music (search 'Renaissance music' or 'Palestrina' or 'Renaissance dance music')",
+            "Printed images of lute, recorder, harpsichord, viola da gamba",
+            "Optional: recorder instrument for playing",
+            "Drawing paper and colored pencils"
+          ],
+          "setup_instructions": "Queue up 2-3 recordings: one sacred choral piece (Palestrina or Josquin) and one lively Renaissance dance piece. Print images of Renaissance instruments for reference."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'During the Renaissance, music changed dramatically — just like art and science! In the Medieval period, music was mostly sung in churches — one melody line with no harmony. During the Renaissance, composers created HARMONY: multiple voices singing different notes at the same time, creating a rich, full sound.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Play the sacred choral recording. 'Close your eyes and listen. Can you hear different voices singing different things at the same time? That layered sound is called POLYPHONY — many sounds together. It's like a conversation in music.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Show the instruments: 'The LUTE was like the guitar of the Renaissance — everyone loved it. The RECORDER was a popular wind instrument (you might have played one!). The HARPSICHORD was an early keyboard instrument. The VIOLA DA GAMBA was played between the knees like a cello.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Play the dance music recording. 'Renaissance music wasn't just for church anymore — people danced to it, sang at parties, and played instruments for fun. Music became something for everyone to enjoy, not just for worship. This was a huge change!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "First, experience harmony: Sing 'Row, Row, Row Your Boat' as a round — one person starts, the other joins 2 beats later. Listen to how the voices overlap and create harmony! Then draw your favorite Renaissance instrument in detail. Label its parts. Write 3 sentences comparing Medieval music (one voice, church only) to Renaissance music (harmony, instruments, secular and sacred).",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Just like Renaissance artists created depth with perspective, Renaissance musicians created depth with harmony. Music went from a single voice to a rich tapestry of sounds — and we've been building on that ever since. Every song you hear today uses harmony that began in the Renaissance!",
+          "mastery_check": "Can the child explain the difference between monophonic and polyphonic music and name at least two Renaissance instruments?"
+        }
       ]
     },
     "parent_notes": "Listening to actual Renaissance music is important — it sounds very different from modern music, and children are often surprised by its beauty. The round (singing 'Row Your Boat' in parts) is a simple, fun way to experience harmony firsthand. If your child plays recorder, they're playing a Renaissance instrument! The key concept: music evolved from simple single-voice chanting to complex harmony during the Renaissance, paralleling the changes in art and science. This cross-curricular connection deepens understanding of the period as a whole.",
@@ -570,17 +1462,62 @@
     "instructions": "1. Warm up: vocal exercises (tongue twisters, projection practice).\n2. Review the child's play scene. Make any final edits or improvements.\n3. Rehearse: read through 2-3 times, adding gestures, movement, and expression.\n4. Discuss performance skills: speak clearly, make eye contact with audience, use the whole space.\n5. Set up a simple performance area with audience seating.\n6. Perform the scene for family members.\n7. After performance: applause, then discuss what went well and what the playwright/actor would change.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Child's play scene", "Simple costumes or props (optional)", "Performance space", "Audience (family members)", "Video camera (optional for recording)"],
+    "materials_needed": [
+      "Child's play scene",
+      "Simple costumes or props (optional)",
+      "Performance space",
+      "Audience (family members)",
+      "Video camera (optional for recording)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Performance Day!", "subheading": "Presenting Your Play Scene"},
-        {"type": "materials", "items": ["Child's completed play scene", "Simple props or costume pieces (hat, scarf, etc.)", "Clear performance space", "Chairs for audience", "Optional: video camera for recording"], "setup_instructions": "Clear a space for performing. Set up audience seating. Gather any simple props or costume pieces that match the scene. If recording, set up the camera in advance so it doesn't distract during the performance."},
-        {"type": "instruction", "step": 1, "text": "Warm up! 'Actors always warm up their voices before performing.' Practice: speak a tongue twister slowly, then faster. 'Peter Piper picked a peck of pickled peppers.' Practice projection: say 'Hello!' to the closest wall, then to the farthest wall. Your voice should REACH the audience."},
-        {"type": "instruction", "step": 2, "text": "Read through the scene once silently, then once aloud. 'Is there anything you want to change? Any line that doesn't sound right? Any stage direction you want to add?' Make final edits with pencil."},
-        {"type": "instruction", "step": 3, "text": "Rehearse 2-3 times with movement. 'Don't just stand still — MOVE like your character would. Use gestures. Enter and exit the performance space. React to what the other character says, even when you're not speaking.'"},
-        {"type": "instruction", "step": 4, "text": "Performance tips: 'Speak SLOWLY and CLEARLY — slower than feels natural. Make eye contact with the audience sometimes. If you forget a line, don't panic — improvise! The audience doesn't know what the script says. Most importantly: HAVE FUN!'"},
-        {"type": "activity", "prompt": "PERFORMANCE TIME! Invite family members to sit in the audience. Introduce your play: 'The title of my play is ___ and it's about ___.' Then perform! Give it your best energy and expression. After the performance, take a bow! Then ask the audience: 'What was your favorite part? What did you notice about the characters?'", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "You wrote an original play and performed it for an audience. You are both a playwright AND an actor! Theater has been part of human culture since ancient Greece — and today, you joined that tradition. Keep writing scenes — every performance makes you better!", "mastery_check": "Can the child perform their original scene with clear speech, expression, and character distinction?"}
+        {
+          "type": "title",
+          "heading": "Performance Day!",
+          "subheading": "Presenting Your Play Scene",
+          "image_url": "https://images.pexels.com/photos/1275235/pexels-photo-1275235.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Child's completed play scene",
+            "Simple props or costume pieces (hat, scarf, etc.)",
+            "Clear performance space",
+            "Chairs for audience",
+            "Optional: video camera for recording"
+          ],
+          "setup_instructions": "Clear a space for performing. Set up audience seating. Gather any simple props or costume pieces that match the scene. If recording, set up the camera in advance so it doesn't distract during the performance."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Warm up! 'Actors always warm up their voices before performing.' Practice: speak a tongue twister slowly, then faster. 'Peter Piper picked a peck of pickled peppers.' Practice projection: say 'Hello!' to the closest wall, then to the farthest wall. Your voice should REACH the audience."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read through the scene once silently, then once aloud. 'Is there anything you want to change? Any line that doesn't sound right? Any stage direction you want to add?' Make final edits with pencil."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Rehearse 2-3 times with movement. 'Don't just stand still — MOVE like your character would. Use gestures. Enter and exit the performance space. React to what the other character says, even when you're not speaking.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Performance tips: 'Speak SLOWLY and CLEARLY — slower than feels natural. Make eye contact with the audience sometimes. If you forget a line, don't panic — improvise! The audience doesn't know what the script says. Most importantly: HAVE FUN!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "PERFORMANCE TIME! Invite family members to sit in the audience. Introduce your play: 'The title of my play is ___ and it's about ___.' Then perform! Give it your best energy and expression. After the performance, take a bow! Then ask the audience: 'What was your favorite part? What did you notice about the characters?'",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "You wrote an original play and performed it for an audience. You are both a playwright AND an actor! Theater has been part of human culture since ancient Greece — and today, you joined that tradition. Keep writing scenes — every performance makes you better!",
+          "mastery_check": "Can the child perform their original scene with clear speech, expression, and character distinction?"
+        }
       ]
     },
     "parent_notes": "Performance day should be celebratory and low-pressure. The goal is confidence and enjoyment, not perfection. Be an enthusiastic, supportive audience. Clap generously! Ask genuine questions about the characters and story. If possible, record the performance for the child's portfolio — they'll love watching it later. If your child is nervous, perform together (you take one role). If they have siblings, involve everyone. The Montessori emphasis on self-expression and community sharing makes performance a natural culmination of the week's work.",
@@ -598,17 +1535,63 @@
     "instructions": "1. Present a recipe that serves 4. 'We need to make this for 2 people instead. What do we do?'\n2. Discuss: halving a recipe means dividing each amount by 2.\n3. Work through each ingredient: 3/4 cup flour ÷ 2 = 3/8 cup. 1/2 teaspoon salt ÷ 2 = 1/4 teaspoon.\n4. For each ingredient, write the calculation and the new amount.\n5. Measure ingredients using the calculated amounts.\n6. Prepare the recipe following adjusted measurements.\n7. Discuss: What fraction operations did we use today?",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Simple recipe", "Measuring cups and spoons", "Ingredients", "Math journal", "Pencil", "Mixing bowls and utensils"],
+    "materials_needed": [
+      "Simple recipe",
+      "Measuring cups and spoons",
+      "Ingredients",
+      "Math journal",
+      "Pencil",
+      "Mixing bowls and utensils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Fractions in Real Life", "subheading": "Cooking and Measurement Project"},
-        {"type": "materials", "items": ["Simple recipe (pancakes, muffins, or cookies)", "Full set of measuring cups (1/4, 1/3, 1/2, 1 cup) and spoons", "All recipe ingredients", "Math journal and pencil", "Mixing bowls, utensils, baking sheet"], "setup_instructions": "Choose a recipe that uses fractional measurements. Print it in large font. Have all ingredients and tools ready. The child will calculate adjustments BEFORE measuring anything."},
-        {"type": "instruction", "step": 1, "text": "'Today, math meets the kitchen! Here's a recipe that serves 4 people. But we only need to serve 2. What do we need to do to each ingredient amount?' (Divide by 2, or multiply by 1/2 — same thing!)"},
-        {"type": "instruction", "step": 2, "text": "Go through the recipe ingredient by ingredient. 'The recipe calls for 3/4 cup of flour. We need half of that. 3/4 ÷ 2 = 3/8 cup. But wait — do you have a 3/8 cup measuring cup? Probably not! How can we measure 3/8 cup?' (3 scoops of 1/8 cup, or fill 1/4 and half of 1/4.)"},
-        {"type": "instruction", "step": 3, "text": "Write each calculation in the math journal: Original amount → Operation → New amount. Example: 1 cup sugar → ÷ 2 → 1/2 cup. 2/3 cup milk → ÷ 2 → 2/6 = 1/3 cup. 1/4 tsp vanilla → ÷ 2 → 1/8 tsp (just a tiny splash!)."},
-        {"type": "instruction", "step": 4, "text": "Extension: 'What if we needed to TRIPLE the recipe instead? We'd multiply each amount by 3!' Challenge: calculate what the recipe would look like for 12 people (multiply everything by 3)."},
-        {"type": "activity", "prompt": "Complete all calculations for the halved recipe in your journal. Then MEASURE each ingredient using your calculated amounts. Follow the recipe to prepare the food. While it cooks (or sets), write a reflection: What fraction operations did you use today? Which calculation was hardest? What did you learn about fractions in cooking?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Every chef in the world uses fractions every day! Adjusting recipes — halving, doubling, tripling — is fraction multiplication and division in the real world. You just proved that math isn't just something in a textbook — it's a life skill that helps you CREATE delicious things.", "mastery_check": "Can the child calculate halved recipe quantities using fraction division and accurately measure the results?"}
+        {
+          "type": "title",
+          "heading": "Fractions in Real Life",
+          "subheading": "Cooking and Measurement Project",
+          "image_url": "https://images.pexels.com/photos/311269/pexels-photo-311269.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Simple recipe (pancakes, muffins, or cookies)",
+            "Full set of measuring cups (1/4, 1/3, 1/2, 1 cup) and spoons",
+            "All recipe ingredients",
+            "Math journal and pencil",
+            "Mixing bowls, utensils, baking sheet"
+          ],
+          "setup_instructions": "Choose a recipe that uses fractional measurements. Print it in large font. Have all ingredients and tools ready. The child will calculate adjustments BEFORE measuring anything."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'Today, math meets the kitchen! Here's a recipe that serves 4 people. But we only need to serve 2. What do we need to do to each ingredient amount?' (Divide by 2, or multiply by 1/2 — same thing!)"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Go through the recipe ingredient by ingredient. 'The recipe calls for 3/4 cup of flour. We need half of that. 3/4 ÷ 2 = 3/8 cup. But wait — do you have a 3/8 cup measuring cup? Probably not! How can we measure 3/8 cup?' (3 scoops of 1/8 cup, or fill 1/4 and half of 1/4.)"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Write each calculation in the math journal: Original amount → Operation → New amount. Example: 1 cup sugar → ÷ 2 → 1/2 cup. 2/3 cup milk → ÷ 2 → 2/6 = 1/3 cup. 1/4 tsp vanilla → ÷ 2 → 1/8 tsp (just a tiny splash!)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Extension: 'What if we needed to TRIPLE the recipe instead? We'd multiply each amount by 3!' Challenge: calculate what the recipe would look like for 12 people (multiply everything by 3)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete all calculations for the halved recipe in your journal. Then MEASURE each ingredient using your calculated amounts. Follow the recipe to prepare the food. While it cooks (or sets), write a reflection: What fraction operations did you use today? Which calculation was hardest? What did you learn about fractions in cooking?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Every chef in the world uses fractions every day! Adjusting recipes — halving, doubling, tripling — is fraction multiplication and division in the real world. You just proved that math isn't just something in a textbook — it's a life skill that helps you CREATE delicious things.",
+          "mastery_check": "Can the child calculate halved recipe quantities using fraction division and accurately measure the results?"
+        }
       ]
     },
     "parent_notes": "This is one of the most powerful math lessons you can do: real-world application that produces something tangible and delicious. Choose a recipe with several fractional measurements for maximum math practice. The measuring challenge (how do you measure 3/8 cup without a 3/8 measuring cup?) develops problem-solving skills. If your child loves cooking, make recipe-adjusting a regular math activity. Note: supervise any cooking that involves heat, but let the child lead the measuring and calculations independently.",
@@ -626,17 +1609,62 @@
     "instructions": "1. Show the Mediterranean on the map. 'This sea has been called the most important body of water in history. Why?'\n2. Point out the three continents it connects: Europe, Africa, Asia.\n3. Trace major trade routes: Venice → Constantinople → Silk Road, Genoa → North Africa → Egypt, Spain → Morocco.\n4. Discuss goods traded: spices from Asia, gold and ivory from Africa, wool and manufactured goods from Europe.\n5. Explain: trade brought not just goods but IDEAS — that's how Renaissance thinking spread.\n6. Child creates a trade route map showing goods flowing between continents.\n7. Discuss: How does trade connect the world today?",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Map of the Mediterranean region", "Blank outline map", "Colored pencils and markers", "Index cards for trade goods", "String or yarn for routes"],
+    "materials_needed": [
+      "Map of the Mediterranean region",
+      "Blank outline map",
+      "Colored pencils and markers",
+      "Index cards for trade goods",
+      "String or yarn for routes"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Mediterranean Trade Routes", "subheading": "Connecting Three Continents"},
-        {"type": "materials", "items": ["Large map of the Mediterranean region", "Blank outline map of the Mediterranean", "Colored pencils and markers", "Index cards labeled with trade goods", "Optional: string or yarn for tracing routes"], "setup_instructions": "Print a blank Mediterranean outline map. Prepare index cards with goods: spices, silk, gold, ivory, wool, glass, olive oil, grain, textiles. Have colored pencils for different route categories."},
-        {"type": "instruction", "step": 1, "text": "'The Mediterranean Sea has been called the \"center of the world\" for thousands of years. Look at it on the map — it connects THREE continents: Europe to the north, Africa to the south, and Asia to the east. Every major civilization we've studied has touched the Mediterranean: Greece, Rome, Egypt, Phoenicia, and now Renaissance Italy.'"},
-        {"type": "instruction", "step": 2, "text": "Trace the major trade routes: 'Venetian ships sailed east to Constantinople (modern Istanbul) where they connected to the Silk Road — goods from China and India came through here. Genoese ships sailed south to North Africa for gold, ivory, and spices. Spanish ships crossed to Morocco.'"},
-        {"type": "instruction", "step": 3, "text": "Discuss the goods: 'From ASIA came spices, silk, porcelain, and paper. From AFRICA came gold, ivory, and enslaved people (a terrible part of this history). From EUROPE went wool, glass (Venice was famous for glassmaking), and manufactured goods. These trades made cities like Venice and Florence incredibly wealthy.'"},
-        {"type": "instruction", "step": 4, "text": "'But trade didn't just move THINGS — it moved IDEAS. Through trade, Europeans encountered Islamic mathematics (algebra!), Chinese inventions (gunpowder, compass, printing), and ancient Greek texts preserved by Arab scholars. This flow of ideas FUELED the Renaissance!'"},
-        {"type": "activity", "prompt": "On your blank Mediterranean map, draw and label at least three trade routes using different colors. Along each route, draw or write the goods that traveled in each direction. Label the three continents. Add a legend showing what each color means. Include at least one note about how IDEAS traveled along with goods.", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "The Mediterranean was the internet of the ancient and medieval world — a network that connected people, goods, and ideas across three continents. Without it, the Renaissance might never have happened. Today, global trade still connects us — your shirt might be from Bangladesh, your phone from China, your food from Mexico. The world has always been connected.", "mastery_check": "Can the child trace major Mediterranean trade routes and explain how trade in goods and ideas contributed to the Renaissance?"}
+        {
+          "type": "title",
+          "heading": "Mediterranean Trade Routes",
+          "subheading": "Connecting Three Continents",
+          "image_url": "https://images.pexels.com/photos/572897/pexels-photo-572897.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large map of the Mediterranean region",
+            "Blank outline map of the Mediterranean",
+            "Colored pencils and markers",
+            "Index cards labeled with trade goods",
+            "Optional: string or yarn for tracing routes"
+          ],
+          "setup_instructions": "Print a blank Mediterranean outline map. Prepare index cards with goods: spices, silk, gold, ivory, wool, glass, olive oil, grain, textiles. Have colored pencils for different route categories."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'The Mediterranean Sea has been called the \"center of the world\" for thousands of years. Look at it on the map — it connects THREE continents: Europe to the north, Africa to the south, and Asia to the east. Every major civilization we've studied has touched the Mediterranean: Greece, Rome, Egypt, Phoenicia, and now Renaissance Italy.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Trace the major trade routes: 'Venetian ships sailed east to Constantinople (modern Istanbul) where they connected to the Silk Road — goods from China and India came through here. Genoese ships sailed south to North Africa for gold, ivory, and spices. Spanish ships crossed to Morocco.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Discuss the goods: 'From ASIA came spices, silk, porcelain, and paper. From AFRICA came gold, ivory, and enslaved people (a terrible part of this history). From EUROPE went wool, glass (Venice was famous for glassmaking), and manufactured goods. These trades made cities like Venice and Florence incredibly wealthy.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'But trade didn't just move THINGS — it moved IDEAS. Through trade, Europeans encountered Islamic mathematics (algebra!), Chinese inventions (gunpowder, compass, printing), and ancient Greek texts preserved by Arab scholars. This flow of ideas FUELED the Renaissance!'"
+        },
+        {
+          "type": "activity",
+          "prompt": "On your blank Mediterranean map, draw and label at least three trade routes using different colors. Along each route, draw or write the goods that traveled in each direction. Label the three continents. Add a legend showing what each color means. Include at least one note about how IDEAS traveled along with goods.",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Mediterranean was the internet of the ancient and medieval world — a network that connected people, goods, and ideas across three continents. Without it, the Renaissance might never have happened. Today, global trade still connects us — your shirt might be from Bangladesh, your phone from China, your food from Mexico. The world has always been connected.",
+          "mastery_check": "Can the child trace major Mediterranean trade routes and explain how trade in goods and ideas contributed to the Renaissance?"
+        }
       ]
     },
     "parent_notes": "This lesson connects geography, history, and economics. The Mediterranean as a 'crossroads' is a key geographic concept. For enrichment, look at the child's own possessions and trace where they were made — this demonstrates that global trade hasn't changed in principle since the Renaissance, only in scale and speed. The mention of enslaved people in the trade networks is important but should be handled sensitively and age-appropriately. The idea that trade moves IDEAS as well as goods is crucial: knowledge has always traveled on trade routes.",
@@ -654,17 +1682,62 @@
     "instructions": "1. Connect to the Renaissance theme: just as artists saw the world in a new way, scientists did too.\n2. Explain the old belief: Earth is the center of the universe (geocentric model).\n3. Introduce Copernicus: in 1543, he published that the SUN was the center (heliocentric model).\n4. Introduce Galileo: used a telescope to observe Jupiter's moons, proving things orbited something other than Earth.\n5. Discuss: Galileo was put on trial by the Church for his ideas! What does that tell us about how hard it can be to challenge accepted beliefs?\n6. Demonstrate with a model: Earth orbiting the Sun vs. Sun orbiting Earth.\n7. Child writes about why questioning accepted ideas is important.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Images of Copernicus and Galileo", "Diagram of geocentric vs. heliocentric models", "Balls of different sizes (for solar system model)", "Flashlight (for the Sun)", "Paper and pencil"],
+    "materials_needed": [
+      "Images of Copernicus and Galileo",
+      "Diagram of geocentric vs. heliocentric models",
+      "Balls of different sizes (for solar system model)",
+      "Flashlight (for the Sun)",
+      "Paper and pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Renaissance Science", "subheading": "Galileo, Copernicus, and New Ways of Thinking"},
-        {"type": "materials", "items": ["Images of Copernicus and Galileo", "Diagrams of geocentric and heliocentric models", "Different-sized balls (large = Sun, medium = Earth, small = Moon)", "Flashlight to represent the Sun", "Paper and pencil"], "setup_instructions": "Print clear diagrams of both the geocentric (Earth-centered) and heliocentric (Sun-centered) models. Have the balls and flashlight ready for the demonstration."},
-        {"type": "instruction", "step": 1, "text": "'The Renaissance changed art with perspective and music with harmony. But maybe the biggest change was in SCIENCE. For over 1,000 years, everyone in Europe believed that Earth was the CENTER of the universe — that the Sun, Moon, stars, and planets all revolved around us. This is called the GEOCENTRIC model.'"},
-        {"type": "instruction", "step": 2, "text": "'In 1543, a Polish astronomer named Nicolaus Copernicus published a revolutionary idea: the EARTH revolves around the SUN, not the other way around. This is the HELIOCENTRIC model. Most people thought he was crazy or dangerous.'"},
-        {"type": "instruction", "step": 3, "text": "'Almost 100 years later, an Italian scientist named Galileo Galilei pointed a new invention — the TELESCOPE — at the sky. He saw mountains on the Moon, spots on the Sun, and four moons orbiting JUPITER. If moons orbit Jupiter, then not everything orbits Earth! Copernicus was RIGHT.'"},
-        {"type": "instruction", "step": 4, "text": "Demonstrate: Use the flashlight as the Sun. Walk the Earth ball around it. 'See? Earth goes around the Sun.' Now try the old way: hold Earth still and walk the 'Sun' around it. 'Both LOOK possible from Earth. That's why it took so long to figure out!' Galileo's trial: 'The Church forced Galileo to say he was WRONG, even though he was right. He was kept under house arrest for the rest of his life. It took the Church until 1992 to officially admit Galileo was right.'"},
-        {"type": "activity", "prompt": "Draw both models: the geocentric (Earth in center, everything orbiting Earth) and the heliocentric (Sun in center, Earth and planets orbiting Sun). Label each model. Then write a paragraph: Why is it important to question ideas that 'everyone believes'? What can we learn from Galileo's courage?", "duration_minutes": 15},
-        {"type": "wrap_up", "text": "Copernicus and Galileo showed us that the truth doesn't change just because most people believe something else. The courage to question, observe, and think independently is at the heart of science — and at the heart of your education. Next week, we'll see how their work led to the full Scientific Revolution.", "mastery_check": "Can the child explain the difference between geocentric and heliocentric models and describe the contributions of Copernicus and Galileo?"}
+        {
+          "type": "title",
+          "heading": "Renaissance Science",
+          "subheading": "Galileo, Copernicus, and New Ways of Thinking",
+          "image_url": "https://images.pexels.com/photos/30333025/pexels-photo-30333025.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Images of Copernicus and Galileo",
+            "Diagrams of geocentric and heliocentric models",
+            "Different-sized balls (large = Sun, medium = Earth, small = Moon)",
+            "Flashlight to represent the Sun",
+            "Paper and pencil"
+          ],
+          "setup_instructions": "Print clear diagrams of both the geocentric (Earth-centered) and heliocentric (Sun-centered) models. Have the balls and flashlight ready for the demonstration."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'The Renaissance changed art with perspective and music with harmony. But maybe the biggest change was in SCIENCE. For over 1,000 years, everyone in Europe believed that Earth was the CENTER of the universe — that the Sun, Moon, stars, and planets all revolved around us. This is called the GEOCENTRIC model.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "'In 1543, a Polish astronomer named Nicolaus Copernicus published a revolutionary idea: the EARTH revolves around the SUN, not the other way around. This is the HELIOCENTRIC model. Most people thought he was crazy or dangerous.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "'Almost 100 years later, an Italian scientist named Galileo Galilei pointed a new invention — the TELESCOPE — at the sky. He saw mountains on the Moon, spots on the Sun, and four moons orbiting JUPITER. If moons orbit Jupiter, then not everything orbits Earth! Copernicus was RIGHT.'"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Demonstrate: Use the flashlight as the Sun. Walk the Earth ball around it. 'See? Earth goes around the Sun.' Now try the old way: hold Earth still and walk the 'Sun' around it. 'Both LOOK possible from Earth. That's why it took so long to figure out!' Galileo's trial: 'The Church forced Galileo to say he was WRONG, even though he was right. He was kept under house arrest for the rest of his life. It took the Church until 1992 to officially admit Galileo was right.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw both models: the geocentric (Earth in center, everything orbiting Earth) and the heliocentric (Sun in center, Earth and planets orbiting Sun). Label each model. Then write a paragraph: Why is it important to question ideas that 'everyone believes'? What can we learn from Galileo's courage?",
+          "duration_minutes": 15
+        },
+        {
+          "type": "wrap_up",
+          "text": "Copernicus and Galileo showed us that the truth doesn't change just because most people believe something else. The courage to question, observe, and think independently is at the heart of science — and at the heart of your education. Next week, we'll see how their work led to the full Scientific Revolution.",
+          "mastery_check": "Can the child explain the difference between geocentric and heliocentric models and describe the contributions of Copernicus and Galileo?"
+        }
       ]
     },
     "parent_notes": "This lesson introduces one of the most important stories in the history of science: the courage to challenge accepted beliefs with evidence. The Galileo story resonates deeply with children's sense of justice — he was RIGHT and was punished for it. The demonstration with balls and a flashlight makes the abstract concepts concrete. The 1992 detail (the Church's apology) shows children that admitting mistakes, even centuries later, matters. The writing prompt encourages children to internalize the lesson: truth and courage go together.",
@@ -682,17 +1755,60 @@
     "instructions": "1. Show the cover. 'This beautiful book tells Galileo's story through art — fitting for our Renaissance week!'\n2. Read aloud slowly, appreciating the detailed illustrations.\n3. Pause to discuss: How do the illustrations reflect Renaissance art styles?\n4. After reading, connect to all the week's themes: art (perspective, Michelangelo), science (Galileo, Copernicus), culture (printing press), drama (telling stories).\n5. Ask: 'What did the Renaissance teach us about what humans can achieve?'\n6. Child identifies their favorite illustration and explains why it's powerful.",
     "duration_minutes": 45,
     "lesson_type": "guided",
-    "materials_needed": ["Starry Messenger by Peter Sís", "Comfortable reading area", "Magnifying glass for studying illustrations", "Journal and pencil"],
+    "materials_needed": [
+      "Starry Messenger by Peter Sís",
+      "Comfortable reading area",
+      "Magnifying glass for studying illustrations",
+      "Journal and pencil"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Read-Aloud", "subheading": "Starry Messenger by Peter Sís"},
-        {"type": "materials", "items": ["Starry Messenger by Peter Sís (or age-appropriate Galileo book)", "Comfortable reading area", "Magnifying glass for studying the incredibly detailed illustrations", "Journal and pencil"], "setup_instructions": "This book's illustrations are extraordinarily detailed — each page rewards close examination. Have a magnifying glass available. If you can't obtain this specific book, any beautifully illustrated Galileo biography works."},
-        {"type": "instruction", "step": 1, "text": "'This week we've explored the Renaissance — art, music, drama, science, geography, and culture. Our last read-aloud brings it all together: Starry Messenger by Peter Sís, the story of Galileo Galilei told through some of the most beautiful illustrations in children's literature.'"},
-        {"type": "instruction", "step": 2, "text": "Read aloud slowly. Every page is a work of art. Use the magnifying glass to examine details in the illustrations. 'What do you see hidden in this image? What symbols is the artist using?' Sís's illustrations are inspired by Renaissance art — point out the connections."},
-        {"type": "instruction", "step": 3, "text": "After reading, reflect on the whole week: 'The Renaissance gave us: Leonardo's art and inventions, Michelangelo's masterpieces, the printing press spreading knowledge, Copernicus and Galileo showing us our place in the universe. What do all these have in common?' (Curiosity, courage, creativity, questioning.)"},
-        {"type": "instruction", "step": 4, "text": "'Galileo looked through a telescope and saw what no one had seen before. He had the courage to share what he found, even when it was dangerous. The Renaissance was about people who dared to think differently. How can YOU think differently?'"},
-        {"type": "activity", "prompt": "Choose your favorite illustration from the book (or your favorite moment from the week's lessons). In your journal, sketch or describe it and write why it's powerful to you. Then complete this sentence: 'The Renaissance taught me that ___.' Share your reflection with your family.", "duration_minutes": 12},
-        {"type": "wrap_up", "text": "The Renaissance means 'rebirth' — a rebirth of curiosity, creativity, and courage. Those same qualities live in YOU every time you ask a question, create something new, or dare to think differently. The Renaissance isn't just history — it's a way of living.", "mastery_check": "Can the child connect the themes of the Renaissance (art, science, courage, curiosity) and express a personal response to the week's learning?"}
+        {
+          "type": "title",
+          "heading": "Read-Aloud",
+          "subheading": "Starry Messenger by Peter Sís",
+          "image_url": "https://images.pexels.com/photos/8466915/pexels-photo-8466915.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Starry Messenger by Peter Sís (or age-appropriate Galileo book)",
+            "Comfortable reading area",
+            "Magnifying glass for studying the incredibly detailed illustrations",
+            "Journal and pencil"
+          ],
+          "setup_instructions": "This book's illustrations are extraordinarily detailed — each page rewards close examination. Have a magnifying glass available. If you can't obtain this specific book, any beautifully illustrated Galileo biography works."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "'This week we've explored the Renaissance — art, music, drama, science, geography, and culture. Our last read-aloud brings it all together: Starry Messenger by Peter Sís, the story of Galileo Galilei told through some of the most beautiful illustrations in children's literature.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read aloud slowly. Every page is a work of art. Use the magnifying glass to examine details in the illustrations. 'What do you see hidden in this image? What symbols is the artist using?' Sís's illustrations are inspired by Renaissance art — point out the connections."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "After reading, reflect on the whole week: 'The Renaissance gave us: Leonardo's art and inventions, Michelangelo's masterpieces, the printing press spreading knowledge, Copernicus and Galileo showing us our place in the universe. What do all these have in common?' (Curiosity, courage, creativity, questioning.)"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "'Galileo looked through a telescope and saw what no one had seen before. He had the courage to share what he found, even when it was dangerous. The Renaissance was about people who dared to think differently. How can YOU think differently?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose your favorite illustration from the book (or your favorite moment from the week's lessons). In your journal, sketch or describe it and write why it's powerful to you. Then complete this sentence: 'The Renaissance taught me that ___.' Share your reflection with your family.",
+          "duration_minutes": 12
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Renaissance means 'rebirth' — a rebirth of curiosity, creativity, and courage. Those same qualities live in YOU every time you ask a question, create something new, or dare to think differently. The Renaissance isn't just history — it's a way of living.",
+          "mastery_check": "Can the child connect the themes of the Renaissance (art, science, courage, curiosity) and express a personal response to the week's learning?"
+        }
       ]
     },
     "parent_notes": "Starry Messenger is a masterpiece of children's literature — Peter Sís won a Caldecott Honor for these illustrations. Each page is densely packed with detail and symbolism that rewards repeated viewing. The magnifying glass isn't just a gimmick — children will genuinely discover hidden elements. This book is the perfect capstone for the Renaissance week: it combines art, science, courage, and storytelling. The final reflection activity should feel celebratory — your child has spent a week immersed in one of humanity's most creative periods.",

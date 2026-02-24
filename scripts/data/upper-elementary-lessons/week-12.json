@@ -10,17 +10,62 @@
     "instructions": "1. Review compound and complex sentences from week 10.\n2. Introduce compound-complex sentences: at least two independent clauses and one dependent clause.\n3. Analyze examples from published books.\n4. Practice building compound-complex sentences step by step.\n5. Discuss when to use each sentence type for best effect.\n6. Students identify sentence types in a passage.\n7. Rewrite a passage varying sentence types for improved flow.\n8. Self-assess: check a piece of own writing for sentence variety.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Language notebook", "Pencil", "Colored pencils for coding", "A book passage", "Grammar reference cards"],
+    "materials_needed": [
+      "Language notebook",
+      "Pencil",
+      "Colored pencils for coding",
+      "A book passage",
+      "Grammar reference cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Multi-Clause Sentences", "subheading": "Compound-Complex Constructions"},
-        {"type": "materials", "items": ["Language notebook", "Pencil", "Colored pencils (3 colors)", "A book passage for analysis", "Grammar reference cards from week 10"], "setup_instructions": "Open notebook. Have your grammar reference cards handy. Choose 3 colors: one for independent clauses, one for dependent clauses, one for conjunctions."},
-        {"type": "instruction", "step": 1, "text": "You know simple sentences (1 independent clause), compound sentences (2+ independent clauses joined by FANBOYS), and complex sentences (1 independent + 1 dependent clause). Now meet the compound-complex sentence: at least 2 independent clauses AND at least 1 dependent clause, all in one sentence."},
-        {"type": "instruction", "step": 2, "text": "Example: 'Although feudalism provided structure [dependent], the serfs worked the land [independent], and the lords provided protection [independent].' This sentence shows a cause/condition AND two equal facts. Analyze: the subordinating conjunction 'although' creates the dependent clause, and 'and' joins the two independent clauses."},
-        {"type": "instruction", "step": 3, "text": "Build one step by step: Start with two simple sentences: 'Knights served their lords.' 'Lords gave them land.' Make it compound: 'Knights served their lords, and lords gave them land.' Now add a dependent clause: 'Because the feudal system required loyalty, knights served their lords, and lords gave them land.' Compound-complex!"},
-        {"type": "instruction", "step": 4, "text": "Warning: longer is not always better! A compound-complex sentence should be clear, not confusing. If a sentence is so long that the reader loses track, break it up. The goal is variety — mixing simple, compound, complex, and compound-complex sentences for rhythm and clarity."},
-        {"type": "activity", "prompt": "Analyze a passage from your current book: color-code every clause (independent vs. dependent). Count how many simple, compound, complex, and compound-complex sentences the author uses. Then write a paragraph about feudalism (10-12 sentences) using all four sentence types. Label each sentence type in the margin. Aim for at least 2 of each type.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Professional writers use all four sentence types instinctively. Simple sentences create impact. Compound sentences show equal ideas. Complex sentences show relationships. Compound-complex sentences handle nuance. Varying your sentence structure is the mark of a mature writer.", "mastery_check": "Can the student construct compound-complex sentences and identify all four sentence types in published writing?"}
+        {
+          "type": "title",
+          "heading": "Multi-Clause Sentences",
+          "subheading": "Compound-Complex Constructions",
+          "image_url": "https://images.pexels.com/photos/247819/pexels-photo-247819.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Language notebook",
+            "Pencil",
+            "Colored pencils (3 colors)",
+            "A book passage for analysis",
+            "Grammar reference cards from week 10"
+          ],
+          "setup_instructions": "Open notebook. Have your grammar reference cards handy. Choose 3 colors: one for independent clauses, one for dependent clauses, one for conjunctions."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "You know simple sentences (1 independent clause), compound sentences (2+ independent clauses joined by FANBOYS), and complex sentences (1 independent + 1 dependent clause). Now meet the compound-complex sentence: at least 2 independent clauses AND at least 1 dependent clause, all in one sentence."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Example: 'Although feudalism provided structure [dependent], the serfs worked the land [independent], and the lords provided protection [independent].' This sentence shows a cause/condition AND two equal facts. Analyze: the subordinating conjunction 'although' creates the dependent clause, and 'and' joins the two independent clauses."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Build one step by step: Start with two simple sentences: 'Knights served their lords.' 'Lords gave them land.' Make it compound: 'Knights served their lords, and lords gave them land.' Now add a dependent clause: 'Because the feudal system required loyalty, knights served their lords, and lords gave them land.' Compound-complex!"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Warning: longer is not always better! A compound-complex sentence should be clear, not confusing. If a sentence is so long that the reader loses track, break it up. The goal is variety — mixing simple, compound, complex, and compound-complex sentences for rhythm and clarity."
+        },
+        {
+          "type": "activity",
+          "prompt": "Analyze a passage from your current book: color-code every clause (independent vs. dependent). Count how many simple, compound, complex, and compound-complex sentences the author uses. Then write a paragraph about feudalism (10-12 sentences) using all four sentence types. Label each sentence type in the margin. Aim for at least 2 of each type.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Professional writers use all four sentence types instinctively. Simple sentences create impact. Compound sentences show equal ideas. Complex sentences show relationships. Compound-complex sentences handle nuance. Varying your sentence structure is the mark of a mature writer.",
+          "mastery_check": "Can the student construct compound-complex sentences and identify all four sentence types in published writing?"
+        }
       ]
     },
     "parent_notes": "This lesson represents the culmination of the sentence structure unit. If your child can identify and create all four sentence types, they have a sophisticated understanding of English grammar that will serve them through high school and beyond. The key is not that every sentence should be compound-complex — rather, that good writers vary their sentence structure intentionally. When reviewing their paragraph, look for clarity first, variety second.",
@@ -38,17 +83,64 @@
     "instructions": "1. Define percent: per centum = per hundred. A percentage is a ratio out of 100.\n2. Connect to fractions: 25% = 25/100 = 1/4. Connect to decimals: 25% = 0.25.\n3. Use 10x10 grids to visualize percentages.\n4. Practice converting: fraction → decimal → percent and back.\n5. Common percentages to memorize: 10%, 25%, 50%, 75%, 100%.\n6. Real-world contexts: discounts, tips, taxes, test scores.\n7. Calculate simple percentages of amounts: What is 25% of 80?\n8. Practice with real shopping scenarios.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Math notebook", "Pencil", "10x10 grid paper", "Colored pencils", "Calculator", "Store flyers or ads (optional)"],
+    "materials_needed": [
+      "Math notebook",
+      "Pencil",
+      "10x10 grid paper",
+      "Colored pencils",
+      "Calculator",
+      "Store flyers or ads (optional)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Percentages", "subheading": "Parts Per Hundred"},
-        {"type": "materials", "items": ["Math notebook", "Pencil", "10x10 grid paper", "Colored pencils", "Calculator", "Store ads (optional)"], "setup_instructions": "Draw or print several 10x10 grids (100 squares each). Open notebook and write the date. Have your fraction-decimal reference chart from last week handy."},
-        {"type": "instruction", "step": 1, "text": "The word PERCENT means 'per hundred' (per centum in Latin). 50% means 50 out of 100. A 10x10 grid has 100 squares — perfect for showing percentages. Shade 50 squares: that is 50%. Shade 25 squares: that is 25%. The whole grid (100 squares) = 100%."},
-        {"type": "instruction", "step": 2, "text": "The magic triangle of conversions: FRACTION ↔ DECIMAL ↔ PERCENT. Fraction to percent: make the denominator 100, or convert to decimal first then multiply by 100. Decimal to percent: multiply by 100 (move decimal point 2 places right). Percent to decimal: divide by 100 (move decimal point 2 places left). Example: 3/4 = 0.75 = 75%."},
-        {"type": "instruction", "step": 3, "text": "Essential percentages to memorize: 100% = 1 = whole, 50% = 1/2 = 0.5, 25% = 1/4 = 0.25, 75% = 3/4 = 0.75, 10% = 1/10 = 0.1, 20% = 1/5 = 0.2, 33.3% ≈ 1/3, 66.7% ≈ 2/3. Add these to your reference chart."},
-        {"type": "instruction", "step": 4, "text": "Finding a percentage of a number: 'What is 25% of 80?' means 'What is 1/4 of 80?' or '0.25 × 80.' Answer: 20. Method: convert the percentage to a decimal, then multiply. Try: What is 10% of $45? (Move the decimal one place left: $4.50.) What is 20% tip on a $35 meal?"},
-        {"type": "activity", "prompt": "Solve these real-world problems: (1) A shirt costs $40 and is 25% off. What is the discount? What is the sale price? (2) You scored 18 out of 20 on a test. What percentage? (3) A restaurant bill is $52. Calculate a 15% tip and a 20% tip. (4) Shade 10x10 grids to show 35%, 62%, and 8%. (5) Convert: 4/5 to %, 0.15 to %, 40% to fraction in simplest form. (6) A store advertises '30% off everything.' If a book costs $15, what do you pay? (7) Your team won 14 out of 20 games. What is your win percentage?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Percentages are everywhere: sales, grades, weather forecasts, sports statistics, nutrition labels, bank interest. Now that you can convert between fractions, decimals, and percentages, you have complete fluency with parts of a whole. This is powerful mathematical literacy.", "mastery_check": "Can the student convert between fractions, decimals, and percentages and calculate percentages of quantities in real-world contexts?"}
+        {
+          "type": "title",
+          "heading": "Percentages",
+          "subheading": "Parts Per Hundred",
+          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math notebook",
+            "Pencil",
+            "10x10 grid paper",
+            "Colored pencils",
+            "Calculator",
+            "Store ads (optional)"
+          ],
+          "setup_instructions": "Draw or print several 10x10 grids (100 squares each). Open notebook and write the date. Have your fraction-decimal reference chart from last week handy."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The word PERCENT means 'per hundred' (per centum in Latin). 50% means 50 out of 100. A 10x10 grid has 100 squares — perfect for showing percentages. Shade 50 squares: that is 50%. Shade 25 squares: that is 25%. The whole grid (100 squares) = 100%."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The magic triangle of conversions: FRACTION ↔ DECIMAL ↔ PERCENT. Fraction to percent: make the denominator 100, or convert to decimal first then multiply by 100. Decimal to percent: multiply by 100 (move decimal point 2 places right). Percent to decimal: divide by 100 (move decimal point 2 places left). Example: 3/4 = 0.75 = 75%."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Essential percentages to memorize: 100% = 1 = whole, 50% = 1/2 = 0.5, 25% = 1/4 = 0.25, 75% = 3/4 = 0.75, 10% = 1/10 = 0.1, 20% = 1/5 = 0.2, 33.3% ≈ 1/3, 66.7% ≈ 2/3. Add these to your reference chart."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Finding a percentage of a number: 'What is 25% of 80?' means 'What is 1/4 of 80?' or '0.25 × 80.' Answer: 20. Method: convert the percentage to a decimal, then multiply. Try: What is 10% of $45? (Move the decimal one place left: $4.50.) What is 20% tip on a $35 meal?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these real-world problems: (1) A shirt costs $40 and is 25% off. What is the discount? What is the sale price? (2) You scored 18 out of 20 on a test. What percentage? (3) A restaurant bill is $52. Calculate a 15% tip and a 20% tip. (4) Shade 10x10 grids to show 35%, 62%, and 8%. (5) Convert: 4/5 to %, 0.15 to %, 40% to fraction in simplest form. (6) A store advertises '30% off everything.' If a book costs $15, what do you pay? (7) Your team won 14 out of 20 games. What is your win percentage?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Percentages are everywhere: sales, grades, weather forecasts, sports statistics, nutrition labels, bank interest. Now that you can convert between fractions, decimals, and percentages, you have complete fluency with parts of a whole. This is powerful mathematical literacy.",
+          "mastery_check": "Can the student convert between fractions, decimals, and percentages and calculate percentages of quantities in real-world contexts?"
+        }
       ]
     },
     "parent_notes": "Percentages complete the fraction-decimal-percent trifecta. Real-world connections are key: take your child shopping and have them calculate discounts, figure out tips at restaurants, or analyze nutrition labels. The 10% shortcut (move the decimal one place) is extremely useful and can be built upon: 20% = 2 × 10%, 5% = half of 10%, 15% = 10% + 5%. Mental math with percentages is a valuable life skill. If your child has been keeping a fraction-decimal reference chart, adding percentages completes it beautifully.",
@@ -66,17 +158,62 @@
     "instructions": "1. Set the context: after Charlemagne's empire fragmented, how did people organize?\n2. Define feudalism: a system of mutual obligations based on land ownership.\n3. Draw the feudal pyramid: king → nobles → knights → peasants/serfs.\n4. Explain each level's obligations: what they gave and received.\n5. Discuss the manor as the basic economic unit.\n6. Explain the role of the Church in feudal society.\n7. Compare feudalism to other social systems students know.\n8. Students create a detailed feudal system diagram with explanations.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["History notebook", "Colored pencils", "Pencil", "Ruler", "Large paper for diagram"],
+    "materials_needed": [
+      "History notebook",
+      "Colored pencils",
+      "Pencil",
+      "Ruler",
+      "Large paper for diagram"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Feudalism", "subheading": "The Medieval Social System"},
-        {"type": "materials", "items": ["History notebook", "Colored pencils", "Pencil", "Ruler", "Large paper for diagram"], "setup_instructions": "Open history notebook to a fresh two-page spread. Have large paper available for the feudal pyramid diagram."},
-        {"type": "instruction", "step": 1, "text": "After the Roman Empire's roads, laws, and army disappeared, people needed a new system for security and order. The answer was FEUDALISM: a system where powerful people gave land to lesser people in exchange for loyalty and military service. It was not planned — it grew organically out of necessity."},
-        {"type": "instruction", "step": 2, "text": "The Feudal Pyramid: KING — owned all the land, granted large estates (fiefs) to nobles in exchange for military support. NOBLES (Lords/Barons) — managed their fiefs, provided knights to the king, gave land to knights. KNIGHTS — trained warriors who fought for their lord and protected the estate. PEASANTS/SERFS — worked the land, grew food, paid taxes in crops and labor. Serfs were not slaves but were bound to the land."},
-        {"type": "instruction", "step": 3, "text": "Each relationship was a CONTRACT of mutual obligation: the lord promised PROTECTION and JUSTICE; the vassal (person below) promised LOYALTY and SERVICE. A knight swore an oath of fealty (loyalty) to his lord in a ceremony called 'homage.' Breaking this oath was the worst crime in feudal society."},
-        {"type": "instruction", "step": 4, "text": "The CHURCH occupied a special position: bishops and abbots were often lords themselves, holding vast lands. The Pope could even challenge kings. The Church provided education, hospitals, and social services. It was the only institution that connected all of Western Europe. Every village had a church; every region had monasteries."},
-        {"type": "activity", "prompt": "Create a detailed feudal pyramid diagram on large paper. For each level, include: the title, their responsibilities (what they gave), their rights (what they received), how many of them there were (proportionally), and a small illustration. Then write a 'Day in the Life' paragraph for ONE person at each level: a king, a noble, a knight, and a serf. How different were their daily experiences?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Feudalism was not fair by modern standards — your birth determined your life. But it provided structure and security in a dangerous time. Understanding feudalism helps us understand why democracy and social mobility are so valued today — they were hard-won against a system that kept most people in their place.", "mastery_check": "Can the student explain the feudal hierarchy, describe the mutual obligations at each level, and analyze how feudalism functioned as both a political and economic system?"}
+        {
+          "type": "title",
+          "heading": "Feudalism",
+          "subheading": "The Medieval Social System",
+          "image_url": "https://images.pexels.com/photos/7954867/pexels-photo-7954867.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "History notebook",
+            "Colored pencils",
+            "Pencil",
+            "Ruler",
+            "Large paper for diagram"
+          ],
+          "setup_instructions": "Open history notebook to a fresh two-page spread. Have large paper available for the feudal pyramid diagram."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "After the Roman Empire's roads, laws, and army disappeared, people needed a new system for security and order. The answer was FEUDALISM: a system where powerful people gave land to lesser people in exchange for loyalty and military service. It was not planned — it grew organically out of necessity."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The Feudal Pyramid: KING — owned all the land, granted large estates (fiefs) to nobles in exchange for military support. NOBLES (Lords/Barons) — managed their fiefs, provided knights to the king, gave land to knights. KNIGHTS — trained warriors who fought for their lord and protected the estate. PEASANTS/SERFS — worked the land, grew food, paid taxes in crops and labor. Serfs were not slaves but were bound to the land."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Each relationship was a CONTRACT of mutual obligation: the lord promised PROTECTION and JUSTICE; the vassal (person below) promised LOYALTY and SERVICE. A knight swore an oath of fealty (loyalty) to his lord in a ceremony called 'homage.' Breaking this oath was the worst crime in feudal society."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "The CHURCH occupied a special position: bishops and abbots were often lords themselves, holding vast lands. The Pope could even challenge kings. The Church provided education, hospitals, and social services. It was the only institution that connected all of Western Europe. Every village had a church; every region had monasteries."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a detailed feudal pyramid diagram on large paper. For each level, include: the title, their responsibilities (what they gave), their rights (what they received), how many of them there were (proportionally), and a small illustration. Then write a 'Day in the Life' paragraph for ONE person at each level: a king, a noble, a knight, and a serf. How different were their daily experiences?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Feudalism was not fair by modern standards — your birth determined your life. But it provided structure and security in a dangerous time. Understanding feudalism helps us understand why democracy and social mobility are so valued today — they were hard-won against a system that kept most people in their place.",
+          "mastery_check": "Can the student explain the feudal hierarchy, describe the mutual obligations at each level, and analyze how feudalism functioned as both a political and economic system?"
+        }
       ]
     },
     "parent_notes": "Feudalism is a complex topic but essential for understanding medieval history. The key concept is mutual obligation — it was not simply top-down exploitation (though it was unequal). Help your child see both the logic of the system (providing security in a dangerous time) and its injustice (locking people into their birth status). The 'Day in the Life' activity builds empathy and historical imagination. Connect to modern concepts: Why do we value social mobility? What remnants of feudal thinking still exist?",
@@ -94,17 +231,62 @@
     "instructions": "1. Start with a question: If 8 billion people were distributed evenly, how many per square mile?\n2. Show a world population density map — population is NOT evenly distributed.\n3. Identify the most densely populated regions: East Asia, South Asia, Western Europe.\n4. Identify the least populated: Sahara, Antarctica, Amazon, Siberia.\n5. Discuss why: climate, water, farmland, coastlines, historical factors.\n6. Define and calculate population density: people per square mile/kilometer.\n7. Calculate density for several countries.\n8. Discuss: Is dense population good or bad? It depends on context.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Geography notebook", "Colored pencils", "World map", "Calculator", "Atlas with population data"],
+    "materials_needed": [
+      "Geography notebook",
+      "Colored pencils",
+      "World map",
+      "Calculator",
+      "Atlas with population data"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "World Population", "subheading": "Distribution and Density"},
-        {"type": "materials", "items": ["Geography notebook", "Colored pencils", "World map", "Calculator", "Atlas or online population data"], "setup_instructions": "Open notebook. Have a blank world map ready for creating a population density visualization. Calculator needed for density calculations."},
-        {"type": "instruction", "step": 1, "text": "Earth has about 8 billion people and about 57 million square miles of land. If people were spread evenly, that would be about 140 people per square mile. But people are NOT spread evenly. Some places have over 70,000 people per square mile (Manhattan, New York). Others have less than 1 person per square mile (Greenland)."},
-        {"type": "instruction", "step": 2, "text": "The most populated regions: (1) East Asia — China, Japan, Korea (over 1.5 billion). (2) South Asia — India, Bangladesh, Pakistan (over 2 billion). (3) Western Europe — concentrated along rivers and coasts. (4) Eastern North America. These four regions hold over 75% of humanity."},
-        {"type": "instruction", "step": 3, "text": "Why do people cluster in certain areas? WATER — most cities are on rivers, lakes, or coasts. CLIMATE — temperate zones support agriculture. FARMLAND — fertile soil feeds dense populations. FLAT TERRAIN — easier to build and farm. HISTORY — ancient civilizations grew where conditions were best, and cities attract more people."},
-        {"type": "instruction", "step": 4, "text": "Population density = Population ÷ Area. Calculate: (a) Bangladesh: 170 million people in 57,000 square miles. Density = ? (b) Mongolia: 3.3 million people in 604,000 square miles. Density = ? (c) Your state or country. Which country is most densely populated? Which is least? Why?"},
-        {"type": "activity", "prompt": "Create a color-coded population density map: use dark red for very dense (>500 per sq mi), orange for dense (100-500), yellow for moderate (25-100), light green for sparse (5-25), white for very sparse (<5). Color the map based on research. Then answer: (1) What geographic features do dense areas share? (2) What do sparse areas share? (3) List 5 of the world's most populated cities and mark them on the map. (4) Write a paragraph predicting how population distribution might change in the next 100 years.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Understanding population distribution helps us understand global challenges: feeding people, providing water, managing resources, and planning for the future. Geography shapes where people live, and people shape the geography where they settle.", "mastery_check": "Can the student calculate population density, identify major population clusters, and explain the geographic factors that influence population distribution?"}
+        {
+          "type": "title",
+          "heading": "World Population",
+          "subheading": "Distribution and Density",
+          "image_url": "https://images.pexels.com/photos/29303947/pexels-photo-29303947.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Geography notebook",
+            "Colored pencils",
+            "World map",
+            "Calculator",
+            "Atlas or online population data"
+          ],
+          "setup_instructions": "Open notebook. Have a blank world map ready for creating a population density visualization. Calculator needed for density calculations."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Earth has about 8 billion people and about 57 million square miles of land. If people were spread evenly, that would be about 140 people per square mile. But people are NOT spread evenly. Some places have over 70,000 people per square mile (Manhattan, New York). Others have less than 1 person per square mile (Greenland)."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The most populated regions: (1) East Asia — China, Japan, Korea (over 1.5 billion). (2) South Asia — India, Bangladesh, Pakistan (over 2 billion). (3) Western Europe — concentrated along rivers and coasts. (4) Eastern North America. These four regions hold over 75% of humanity."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Why do people cluster in certain areas? WATER — most cities are on rivers, lakes, or coasts. CLIMATE — temperate zones support agriculture. FARMLAND — fertile soil feeds dense populations. FLAT TERRAIN — easier to build and farm. HISTORY — ancient civilizations grew where conditions were best, and cities attract more people."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Population density = Population ÷ Area. Calculate: (a) Bangladesh: 170 million people in 57,000 square miles. Density = ? (b) Mongolia: 3.3 million people in 604,000 square miles. Density = ? (c) Your state or country. Which country is most densely populated? Which is least? Why?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a color-coded population density map: use dark red for very dense (>500 per sq mi), orange for dense (100-500), yellow for moderate (25-100), light green for sparse (5-25), white for very sparse (<5). Color the map based on research. Then answer: (1) What geographic features do dense areas share? (2) What do sparse areas share? (3) List 5 of the world's most populated cities and mark them on the map. (4) Write a paragraph predicting how population distribution might change in the next 100 years.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Understanding population distribution helps us understand global challenges: feeding people, providing water, managing resources, and planning for the future. Geography shapes where people live, and people shape the geography where they settle.",
+          "mastery_check": "Can the student calculate population density, identify major population clusters, and explain the geographic factors that influence population distribution?"
+        }
       ]
     },
     "parent_notes": "Population geography connects to many other subjects: math (density calculations), history (why cities formed where they did), science (climate and agriculture), and current events (urbanization, migration, resource allocation). The density calculations provide real-world math practice. The prediction activity encourages thinking about trends: urbanization, climate change, and technology will reshape where people live. If your child is interested, explore your local area's population changes over time — historical census data is fascinating.",
@@ -122,17 +304,62 @@
     "instructions": "1. Review: Milo is on his quest through the Mountains of Ignorance.\n2. Read the final chapters aloud.\n3. Discuss the climax: What demons did they face? How did they defeat them?\n4. Discuss the resolution: Rhyme and Reason are restored, Milo returns home.\n5. Analyze Milo's transformation: How has he changed from page 1 to the last page?\n6. Discuss the book's central message about the value of learning and curiosity.\n7. Overall book discussion: favorite parts, favorite characters, most important lessons.\n8. Connect the book's themes to Montessori learning philosophy.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["The Phantom Tollbooth", "Reading journal", "Pencil", "Completed map of Lands Beyond", "Colored pencils"],
+    "materials_needed": [
+      "The Phantom Tollbooth",
+      "Reading journal",
+      "Pencil",
+      "Completed map of Lands Beyond",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "The Phantom Tollbooth", "subheading": "Chapters 13-16: Rescuing Rhyme and Reason"},
-        {"type": "materials", "items": ["The Phantom Tollbooth", "Reading journal", "Pencil", "Your Lands Beyond map", "Colored pencils"], "setup_instructions": "This is the final reading session for this book. Have your journal and map ready for a culminating discussion and activity."},
-        {"type": "instruction", "step": 1, "text": "Today we reach the climax and conclusion. Milo faces the demons in the Mountains of Ignorance — every demon represents something that keeps people from learning and thinking: the Terrible Trivium (wastes time on unimportant things), the Demon of Insincerity, the Senses Taker. As we read, identify what each obstacle represents."},
-        {"type": "instruction", "step": 2, "text": "Read the final chapters. Notice how Milo defeats each demon — not with weapons, but with the tools he collected on his journey: words, numbers, reasoning, and courage. The princesses Rhyme and Reason are rescued, balance is restored, and the Lands Beyond are made whole again."},
-        {"type": "instruction", "step": 3, "text": "The most important moment: when Milo returns home, the tollbooth has disappeared. A note says other children need it now. But Milo discovers he does not NEED it anymore — the real world is just as wondrous as the Lands Beyond. He was just not paying attention before."},
-        {"type": "instruction", "step": 4, "text": "The book's central message: Everything is interesting if you pay attention. Boredom comes not from the world being boring, but from not engaging with it. Learning is not punishment — it is the greatest adventure. This is exactly what Maria Montessori believed: children are naturally curious, and education should nurture that curiosity."},
-        {"type": "activity", "prompt": "Final book activity — choose TWO: (1) Write a book review of The Phantom Tollbooth (using the review structure you learned). (2) Complete your map of the Lands Beyond with all locations from the entire book. (3) Write a 'Chapter 17' — what happens to Milo the day after the tollbooth disappears? (4) Create an illustration of your favorite scene. (5) Write a letter to Milo giving him advice, or a letter FROM Milo to the next child who finds the tollbooth.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "The Phantom Tollbooth reminds us that the world is full of wonder — if we choose to see it. Like Milo, you have the power to find beauty in mathematics, magic in words, adventure in history, and mystery in science. The tollbooth was never the magic. Milo was.", "mastery_check": "Can the student articulate the central themes of the book, trace Milo's character development, and explain how the allegory connects to the value of learning?"}
+        {
+          "type": "title",
+          "heading": "The Phantom Tollbooth",
+          "subheading": "Chapters 13-16: Rescuing Rhyme and Reason",
+          "image_url": "https://images.pexels.com/photos/30611604/pexels-photo-30611604.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "The Phantom Tollbooth",
+            "Reading journal",
+            "Pencil",
+            "Your Lands Beyond map",
+            "Colored pencils"
+          ],
+          "setup_instructions": "This is the final reading session for this book. Have your journal and map ready for a culminating discussion and activity."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Today we reach the climax and conclusion. Milo faces the demons in the Mountains of Ignorance — every demon represents something that keeps people from learning and thinking: the Terrible Trivium (wastes time on unimportant things), the Demon of Insincerity, the Senses Taker. As we read, identify what each obstacle represents."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the final chapters. Notice how Milo defeats each demon — not with weapons, but with the tools he collected on his journey: words, numbers, reasoning, and courage. The princesses Rhyme and Reason are rescued, balance is restored, and the Lands Beyond are made whole again."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The most important moment: when Milo returns home, the tollbooth has disappeared. A note says other children need it now. But Milo discovers he does not NEED it anymore — the real world is just as wondrous as the Lands Beyond. He was just not paying attention before."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "The book's central message: Everything is interesting if you pay attention. Boredom comes not from the world being boring, but from not engaging with it. Learning is not punishment — it is the greatest adventure. This is exactly what Maria Montessori believed: children are naturally curious, and education should nurture that curiosity."
+        },
+        {
+          "type": "activity",
+          "prompt": "Final book activity — choose TWO: (1) Write a book review of The Phantom Tollbooth (using the review structure you learned). (2) Complete your map of the Lands Beyond with all locations from the entire book. (3) Write a 'Chapter 17' — what happens to Milo the day after the tollbooth disappears? (4) Create an illustration of your favorite scene. (5) Write a letter to Milo giving him advice, or a letter FROM Milo to the next child who finds the tollbooth.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Phantom Tollbooth reminds us that the world is full of wonder — if we choose to see it. Like Milo, you have the power to find beauty in mathematics, magic in words, adventure in history, and mystery in science. The tollbooth was never the magic. Milo was.",
+          "mastery_check": "Can the student articulate the central themes of the book, trace Milo's character development, and explain how the allegory connects to the value of learning?"
+        }
       ]
     },
     "parent_notes": "Completing a book together is a special experience. This final session should feel like a celebration. The discussion about Milo's transformation mirrors your child's own growth as a learner. The connection to Montessori philosophy is genuine — Juster's message about curiosity and engagement is perfectly aligned with Montessori's vision. Keep the book accessible for re-reading. Next week begins 'Number the Stars,' which is quite different in tone and subject matter.",
@@ -150,17 +377,62 @@
     "instructions": "1. Review roots from week 10.\n2. Introduce negation prefixes: un-, in-/im-/il-/ir-, dis-, non-, anti-, mis-.\n3. Practice: how prefixes change meaning (able → unable, agree → disagree).\n4. Introduce number prefixes: uni/mono, bi/di, tri, quad, penta, hex, oct, dec.\n5. Introduce size/degree prefixes: super, sub, over, under, micro, mega, ultra.\n6. Word building game: combine prefixes + roots + suffixes.\n7. Decode unfamiliar words using prefix knowledge.\n8. Add new cards to root word dictionary.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Language notebook", "Pencil", "Root word dictionary cards", "Index cards", "Dictionary"],
+    "materials_needed": [
+      "Language notebook",
+      "Pencil",
+      "Root word dictionary cards",
+      "Index cards",
+      "Dictionary"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Powerful Prefixes", "subheading": "How Beginnings Change Everything"},
-        {"type": "materials", "items": ["Language notebook", "Pencil", "Root word cards from week 10", "New index cards", "Dictionary for checking"], "setup_instructions": "Open notebook. Gather your root word cards. Have new index cards ready for prefix cards."},
-        {"type": "instruction", "step": 1, "text": "A prefix attaches to the BEGINNING of a root and changes its meaning. Learn the negation prefixes — they turn a word into its opposite: UN- (unhappy), IN- (incomplete), IM- (impossible, before m/p), IL- (illegal, before l), IR- (irregular, before r), DIS- (disagree), NON- (nonfiction), ANTI- (antiwar), MIS- (misunderstand)."},
-        {"type": "instruction", "step": 2, "text": "Number prefixes: UNI/MONO (1) — unicycle, monologue. BI/DI (2) — bicycle, dialogue. TRI (3) — triangle. QUAD (4) — quadrilateral. PENTA (5) — pentagon. HEX (6) — hexagon. SEPT (7) — September. OCT (8) — octagon. DEC (10) — decade. CENT (100) — century. MILLI (1000) — millennium."},
-        {"type": "instruction", "step": 3, "text": "Size and degree prefixes: SUPER (above/beyond) — superhero, supernatural. SUB (below/under) — submarine, subway. OVER (too much) — overreact. UNDER (too little) — underestimate. MICRO (very small) — microscope. MEGA (very large) — megabyte. ULTRA (extreme) — ultraviolet. SEMI (half) — semicircle."},
-        {"type": "instruction", "step": 4, "text": "Word building game: Combine prefix + root + suffix to make words. Example: UN + STRUCT + ED = unstructured. Try: RE + CONSTRUCT + ION = ? INTER + RUPT + ED = ? MICRO + SCOPE + IC = ? DIS + AGREE + MENT = ? The more parts you know, the more words you can build and decode."},
-        {"type": "activity", "prompt": "Create prefix cards for your dictionary: write each prefix on a card with its meaning and 4+ example words. Then play Word Detective: decode these words using your prefix and root knowledge (no dictionary!): (1) intercontinental (2) misconstructed (3) ultraviolet (4) semiconductor (5) autobiography (6) nonbiological (7) supernatural (8) telecommunication (9) mispronunciation (10) irreversible. Write the meaning you figure out, then check the dictionary.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "With prefixes added to your toolkit alongside roots and suffixes, you can decode almost any English word. This is systematic vocabulary building — not memorizing individual words, but understanding the building blocks that create thousands of words.", "mastery_check": "Can the student identify and define common prefixes and use them to decode unfamiliar words?"}
+        {
+          "type": "title",
+          "heading": "Powerful Prefixes",
+          "subheading": "How Beginnings Change Everything",
+          "image_url": "https://images.pexels.com/photos/8613089/pexels-photo-8613089.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Language notebook",
+            "Pencil",
+            "Root word cards from week 10",
+            "New index cards",
+            "Dictionary for checking"
+          ],
+          "setup_instructions": "Open notebook. Gather your root word cards. Have new index cards ready for prefix cards."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A prefix attaches to the BEGINNING of a root and changes its meaning. Learn the negation prefixes — they turn a word into its opposite: UN- (unhappy), IN- (incomplete), IM- (impossible, before m/p), IL- (illegal, before l), IR- (irregular, before r), DIS- (disagree), NON- (nonfiction), ANTI- (antiwar), MIS- (misunderstand)."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Number prefixes: UNI/MONO (1) — unicycle, monologue. BI/DI (2) — bicycle, dialogue. TRI (3) — triangle. QUAD (4) — quadrilateral. PENTA (5) — pentagon. HEX (6) — hexagon. SEPT (7) — September. OCT (8) — octagon. DEC (10) — decade. CENT (100) — century. MILLI (1000) — millennium."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Size and degree prefixes: SUPER (above/beyond) — superhero, supernatural. SUB (below/under) — submarine, subway. OVER (too much) — overreact. UNDER (too little) — underestimate. MICRO (very small) — microscope. MEGA (very large) — megabyte. ULTRA (extreme) — ultraviolet. SEMI (half) — semicircle."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Word building game: Combine prefix + root + suffix to make words. Example: UN + STRUCT + ED = unstructured. Try: RE + CONSTRUCT + ION = ? INTER + RUPT + ED = ? MICRO + SCOPE + IC = ? DIS + AGREE + MENT = ? The more parts you know, the more words you can build and decode."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create prefix cards for your dictionary: write each prefix on a card with its meaning and 4+ example words. Then play Word Detective: decode these words using your prefix and root knowledge (no dictionary!): (1) intercontinental (2) misconstructed (3) ultraviolet (4) semiconductor (5) autobiography (6) nonbiological (7) supernatural (8) telecommunication (9) mispronunciation (10) irreversible. Write the meaning you figure out, then check the dictionary.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "With prefixes added to your toolkit alongside roots and suffixes, you can decode almost any English word. This is systematic vocabulary building — not memorizing individual words, but understanding the building blocks that create thousands of words.",
+          "mastery_check": "Can the student identify and define common prefixes and use them to decode unfamiliar words?"
+        }
       ]
     },
     "parent_notes": "Prefix knowledge combined with the root knowledge from week 10 gives your child powerful word-analysis tools. The number prefixes connect beautifully to math (geometry terms) and science (biological classification). Play the word detective game regularly — at dinner, during car rides, while reading. Challenge each other to decode unfamiliar words. The key insight is that vocabulary is not random — it follows patterns that can be learned systematically.",
@@ -178,17 +450,60 @@
     "instructions": "1. Review percentage basics from Day 1.\n2. Three types: find the part, find the whole, find the percent.\n3. Use the formula: Part = Percent × Whole (P = %W).\n4. Rearrange for each unknown: W = P/%, % = P/W.\n5. Practice each type with simple numbers first.\n6. Introduce the proportion method: part/whole = percent/100.\n7. Real-world mixed problems.\n8. Estimation strategies: Is the answer reasonable?",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Math notebook", "Pencil", "Calculator", "Colored pencils"],
+    "materials_needed": [
+      "Math notebook",
+      "Pencil",
+      "Calculator",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Percentage Problems", "subheading": "Finding Part, Whole, and Percent"},
-        {"type": "materials", "items": ["Math notebook", "Pencil", "Calculator", "Colored pencils"], "setup_instructions": "Open notebook. Create a reference box at the top of the page with the three types of percentage problems."},
-        {"type": "instruction", "step": 1, "text": "There are three types of percentage questions: TYPE 1 — Find the Part: 'What is 30% of 200?' (Answer: 60). TYPE 2 — Find the Whole: '15 is 25% of what number?' (Answer: 60). TYPE 3 — Find the Percent: 'What percent of 80 is 20?' (Answer: 25%). Today you master all three."},
-        {"type": "instruction", "step": 2, "text": "The formula: Part = (Percent/100) × Whole. TYPE 1: Part = (30/100) × 200 = 60. TYPE 2: Rearrange: Whole = Part ÷ (Percent/100). 15 ÷ 0.25 = 60. TYPE 3: Rearrange: Percent = (Part/Whole) × 100. (20/80) × 100 = 25%."},
-        {"type": "instruction", "step": 3, "text": "The proportion method works for all three types: Part/Whole = Percent/100. Type 1: x/200 = 30/100 → x = 60. Type 2: 15/x = 25/100 → x = 60. Type 3: 20/80 = x/100 → x = 25. Cross multiply to solve each proportion."},
-        {"type": "instruction", "step": 4, "text": "Estimation check: Always ask 'Is my answer reasonable?' If you are finding 30% of 200, think: 10% of 200 = 20, so 30% = 3 × 20 = 60. If your answer was 600, you would know something went wrong. The 10% shortcut helps: find 10%, then multiply or add to get the target percent."},
-        {"type": "activity", "prompt": "Solve these mixed problems: (1) What is 40% of 150? (2) What is 15% of 300? (3) 24 is what percent of 96? (4) 18 is 30% of what number? (5) A jacket originally costs $80. It is 35% off. What is the sale price? (6) You saved $12 on a purchase. If the discount was 20%, what was the original price? (7) Your team scored 45 out of 60 points. What percentage did you score? (8) A tree grew from 4 feet to 5 feet. What was the percent increase?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Mastering all three percentage problem types gives you complete flexibility. You can figure out discounts, analyze test scores, calculate tips, understand statistics, and make sense of real-world data. Percentages are the language of comparison.", "mastery_check": "Can the student solve all three types of percentage problems using either the formula or proportion method?"}
+        {
+          "type": "title",
+          "heading": "Percentage Problems",
+          "subheading": "Finding Part, Whole, and Percent",
+          "image_url": "https://images.pexels.com/photos/6693302/pexels-photo-6693302.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math notebook",
+            "Pencil",
+            "Calculator",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Open notebook. Create a reference box at the top of the page with the three types of percentage problems."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "There are three types of percentage questions: TYPE 1 — Find the Part: 'What is 30% of 200?' (Answer: 60). TYPE 2 — Find the Whole: '15 is 25% of what number?' (Answer: 60). TYPE 3 — Find the Percent: 'What percent of 80 is 20?' (Answer: 25%). Today you master all three."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The formula: Part = (Percent/100) × Whole. TYPE 1: Part = (30/100) × 200 = 60. TYPE 2: Rearrange: Whole = Part ÷ (Percent/100). 15 ÷ 0.25 = 60. TYPE 3: Rearrange: Percent = (Part/Whole) × 100. (20/80) × 100 = 25%."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The proportion method works for all three types: Part/Whole = Percent/100. Type 1: x/200 = 30/100 → x = 60. Type 2: 15/x = 25/100 → x = 60. Type 3: 20/80 = x/100 → x = 25. Cross multiply to solve each proportion."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Estimation check: Always ask 'Is my answer reasonable?' If you are finding 30% of 200, think: 10% of 200 = 20, so 30% = 3 × 20 = 60. If your answer was 600, you would know something went wrong. The 10% shortcut helps: find 10%, then multiply or add to get the target percent."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these mixed problems: (1) What is 40% of 150? (2) What is 15% of 300? (3) 24 is what percent of 96? (4) 18 is 30% of what number? (5) A jacket originally costs $80. It is 35% off. What is the sale price? (6) You saved $12 on a purchase. If the discount was 20%, what was the original price? (7) Your team scored 45 out of 60 points. What percentage did you score? (8) A tree grew from 4 feet to 5 feet. What was the percent increase?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Mastering all three percentage problem types gives you complete flexibility. You can figure out discounts, analyze test scores, calculate tips, understand statistics, and make sense of real-world data. Percentages are the language of comparison.",
+          "mastery_check": "Can the student solve all three types of percentage problems using either the formula or proportion method?"
+        }
       ]
     },
     "parent_notes": "The three percentage problem types are distinct skills. Most students find Type 1 (find the part) easiest. Types 2 and 3 require rearranging the formula, which is more challenging. The proportion method is versatile and connects to algebraic thinking. Real-world practice is essential: involve your child in shopping calculations, restaurant tips, and interpreting statistics they encounter in news or sports. The 10% shortcut is extremely practical for mental math. If your child struggles, use the visual 10x10 grid approach from yesterday.",
@@ -206,17 +521,62 @@
     "instructions": "1. Review: all living things are made of cells. But how do we organize millions of species?\n2. Introduce taxonomy: the science of classification. Linnaeus and the binomial system.\n3. The hierarchy: Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species.\n4. Focus on the Animal Kingdom: what makes an animal? (Multicellular, eats food, moves, no cell walls.)\n5. The big divide: vertebrates (with backbone) vs. invertebrates (without).\n6. Vertebrate classes: fish, amphibians, reptiles, birds, mammals.\n7. Major invertebrate phyla: arthropods, mollusks, annelids, cnidarians, echinoderms.\n8. Students classify 20 animals into the correct groups.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Science notebook", "Colored pencils", "Pencil", "Animal classification chart", "Animal pictures or cards"],
+    "materials_needed": [
+      "Science notebook",
+      "Colored pencils",
+      "Pencil",
+      "Animal classification chart",
+      "Animal pictures or cards"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Animal Kingdom", "subheading": "How Scientists Classify Life"},
-        {"type": "materials", "items": ["Science notebook", "Colored pencils", "Pencil", "Classification chart (to create)", "Animal pictures or reference images"], "setup_instructions": "Open science notebook to a fresh two-page spread. You will create a classification tree that fills both pages."},
-        {"type": "instruction", "step": 1, "text": "There are over 8.7 million species on Earth. How do scientists keep track? Through TAXONOMY — the science of naming and classifying organisms. Carl Linnaeus (1707-1778) created the system we still use: every species gets a two-part Latin name (binomial nomenclature). Humans are Homo sapiens. Domestic cats are Felis catus."},
-        {"type": "instruction", "step": 2, "text": "The classification hierarchy (from broadest to most specific): Domain → Kingdom → Phylum → Class → Order → Family → Genus → Species. Memory trick: 'Dear King Philip Came Over For Good Spaghetti.' Each level groups organisms by shared characteristics. Species within the same genus are most closely related."},
-        {"type": "instruction", "step": 3, "text": "The Animal Kingdom includes organisms that are: multicellular, heterotrophic (eat food for energy), able to move (at least at some life stage), and lack cell walls. The biggest division: VERTEBRATES (have a backbone/spinal column — about 5% of animals) vs. INVERTEBRATES (no backbone — about 95% of animals!)."},
-        {"type": "instruction", "step": 4, "text": "Vertebrate classes: FISH (cold-blooded, gills, scales), AMPHIBIANS (cold-blooded, moist skin, land and water), REPTILES (cold-blooded, dry scales, land eggs), BIRDS (warm-blooded, feathers, eggs), MAMMALS (warm-blooded, fur/hair, milk). Major invertebrate groups: ARTHROPODS (exoskeleton, jointed legs — insects, spiders, crabs), MOLLUSKS (soft body, often shelled — snails, octopus), ANNELIDS (segmented worms), CNIDARIANS (jellyfish, coral), ECHINODERMS (starfish, sea urchins)."},
-        {"type": "activity", "prompt": "Create a branching classification tree starting with 'Animal Kingdom' at the top, splitting into Vertebrates and Invertebrates, then splitting further into classes and phyla. For each group, draw a representative animal and list 3 key characteristics. Then classify these 15 animals: eagle, earthworm, dolphin, spider, jellyfish, salmon, frog, cobra, lobster, snail, starfish, penguin, bat, octopus, butterfly. Place each on your tree.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Classification helps us see patterns in the incredible diversity of life. By grouping animals by shared characteristics, we discover relationships — a bat is more closely related to a whale than to a bird, because both are mammals. Classification tells the story of evolution.", "mastery_check": "Can the student use the classification hierarchy, distinguish vertebrates from invertebrates, and classify animals into correct groups?"}
+        {
+          "type": "title",
+          "heading": "Animal Kingdom",
+          "subheading": "How Scientists Classify Life",
+          "image_url": "https://images.pexels.com/photos/7457518/pexels-photo-7457518.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Science notebook",
+            "Colored pencils",
+            "Pencil",
+            "Classification chart (to create)",
+            "Animal pictures or reference images"
+          ],
+          "setup_instructions": "Open science notebook to a fresh two-page spread. You will create a classification tree that fills both pages."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "There are over 8.7 million species on Earth. How do scientists keep track? Through TAXONOMY — the science of naming and classifying organisms. Carl Linnaeus (1707-1778) created the system we still use: every species gets a two-part Latin name (binomial nomenclature). Humans are Homo sapiens. Domestic cats are Felis catus."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The classification hierarchy (from broadest to most specific): Domain → Kingdom → Phylum → Class → Order → Family → Genus → Species. Memory trick: 'Dear King Philip Came Over For Good Spaghetti.' Each level groups organisms by shared characteristics. Species within the same genus are most closely related."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The Animal Kingdom includes organisms that are: multicellular, heterotrophic (eat food for energy), able to move (at least at some life stage), and lack cell walls. The biggest division: VERTEBRATES (have a backbone/spinal column — about 5% of animals) vs. INVERTEBRATES (no backbone — about 95% of animals!)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Vertebrate classes: FISH (cold-blooded, gills, scales), AMPHIBIANS (cold-blooded, moist skin, land and water), REPTILES (cold-blooded, dry scales, land eggs), BIRDS (warm-blooded, feathers, eggs), MAMMALS (warm-blooded, fur/hair, milk). Major invertebrate groups: ARTHROPODS (exoskeleton, jointed legs — insects, spiders, crabs), MOLLUSKS (soft body, often shelled — snails, octopus), ANNELIDS (segmented worms), CNIDARIANS (jellyfish, coral), ECHINODERMS (starfish, sea urchins)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a branching classification tree starting with 'Animal Kingdom' at the top, splitting into Vertebrates and Invertebrates, then splitting further into classes and phyla. For each group, draw a representative animal and list 3 key characteristics. Then classify these 15 animals: eagle, earthworm, dolphin, spider, jellyfish, salmon, frog, cobra, lobster, snail, starfish, penguin, bat, octopus, butterfly. Place each on your tree.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Classification helps us see patterns in the incredible diversity of life. By grouping animals by shared characteristics, we discover relationships — a bat is more closely related to a whale than to a bird, because both are mammals. Classification tells the story of evolution.",
+          "mastery_check": "Can the student use the classification hierarchy, distinguish vertebrates from invertebrates, and classify animals into correct groups?"
+        }
       ]
     },
     "parent_notes": "Animal classification is engaging for most children because they already know many animals. The surprise facts (95% of animals are invertebrates, bats are mammals not birds, whales are mammals not fish) make this lesson memorable. The classification tree is a reference tool for the entire animal kingdom unit. If your child enjoys this, explore the tree of life online — interactive tools like OneZoom show how all life is connected. The taxonomy mnemonic (Dear King Philip...) is worth memorizing as it comes up repeatedly in science.",
@@ -234,17 +594,64 @@
     "instructions": "1. Introduce castles as the physical embodiment of feudalism.\n2. Evolution: from wooden motte-and-bailey to stone keeps to concentric castles.\n3. Study defensive features: walls, towers, moat, drawbridge, portcullis, arrow slits, murder holes, battlements.\n4. Discuss daily life inside a castle: great hall, chapel, kitchen, keep.\n5. Learn architectural drawing basics: perspective, proportion, detail.\n6. Students study a famous castle (Caernarfon, Krak des Chevaliers, or Neuschwanstein).\n7. Design and draw their own castle with labeled defensive features.\n8. Create a floor plan showing interior rooms.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Drawing paper", "Pencil", "Ruler", "Colored pencils", "Eraser", "Reference images of castles"],
+    "materials_needed": [
+      "Drawing paper",
+      "Pencil",
+      "Ruler",
+      "Colored pencils",
+      "Eraser",
+      "Reference images of castles"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Medieval Castles", "subheading": "Architecture of Defense and Power"},
-        {"type": "materials", "items": ["Drawing paper (2 sheets)", "Pencil", "Ruler", "Colored pencils", "Good eraser", "Reference images of castles"], "setup_instructions": "Set out drawing materials. Look up images of famous castles: Caernarfon (Wales), Krak des Chevaliers (Syria), Bodiam (England), or similar. One sheet for exterior, one for floor plan."},
-        {"type": "instruction", "step": 1, "text": "Castles were not just homes — they were military technology. Every feature served a defensive purpose. Early castles were wooden forts on mounds (motte-and-bailey). By the 1100s, stone castles with towers and thick walls dominated. By the 1200s, concentric castles (walls within walls) were the ultimate fortification."},
-        {"type": "instruction", "step": 2, "text": "Defensive features to include in your design: CURTAIN WALLS (thick outer walls, often 8-20 feet thick), TOWERS (round resisted battering rams better than square), MOAT (water barrier), DRAWBRIDGE (removable entrance), PORTCULLIS (heavy iron gate), ARROW SLITS (narrow openings for archers), BATTLEMENTS/CRENELLATIONS (tooth-like wall tops for archers), MURDER HOLES (openings above the gate for dropping things on attackers)."},
-        {"type": "instruction", "step": 3, "text": "Interior spaces: THE KEEP (main tower, last defense), GREAT HALL (largest room, for feasts and meetings), CHAPEL (religious services), KITCHEN (separate to prevent fire spread), WELL (essential water supply), STOREROOMS (supplies for sieges), DUNGEON (below ground), SOLAR (lord's private chamber). A castle was a self-contained community."},
-        {"type": "instruction", "step": 4, "text": "Drawing tips for architecture: (1) Start with basic geometric shapes — rectangles for walls, cylinders for towers. (2) Use a ruler for straight lines. (3) Add details layer by layer: first outlines, then windows, then stonework texture. (4) Show depth with overlapping shapes and varying line thickness. (5) Add a ground line and some context (trees, a moat, clouds)."},
-        {"type": "activity", "prompt": "Design your own medieval castle: (1) Draw the exterior view showing all major defensive features. Label at least 8 features. (2) On the second sheet, draw a bird's-eye floor plan showing the layout of rooms inside. Label each room and its purpose. (3) Write a brief description explaining your defensive strategy: How would your castle withstand a siege?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Castles represent the intersection of art, engineering, and strategy. Every beautiful tower and dramatic wall was designed with survival in mind. Castle builders were among the most skilled architects of their time, solving complex problems with limited technology.", "mastery_check": "Did the student create a castle design with correctly identified defensive features and a functional floor plan?"}
+        {
+          "type": "title",
+          "heading": "Medieval Castles",
+          "subheading": "Architecture of Defense and Power",
+          "image_url": "https://images.pexels.com/photos/159644/art-supplies-brushes-rulers-702137.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Drawing paper (2 sheets)",
+            "Pencil",
+            "Ruler",
+            "Colored pencils",
+            "Good eraser",
+            "Reference images of castles"
+          ],
+          "setup_instructions": "Set out drawing materials. Look up images of famous castles: Caernarfon (Wales), Krak des Chevaliers (Syria), Bodiam (England), or similar. One sheet for exterior, one for floor plan."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Castles were not just homes — they were military technology. Every feature served a defensive purpose. Early castles were wooden forts on mounds (motte-and-bailey). By the 1100s, stone castles with towers and thick walls dominated. By the 1200s, concentric castles (walls within walls) were the ultimate fortification."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Defensive features to include in your design: CURTAIN WALLS (thick outer walls, often 8-20 feet thick), TOWERS (round resisted battering rams better than square), MOAT (water barrier), DRAWBRIDGE (removable entrance), PORTCULLIS (heavy iron gate), ARROW SLITS (narrow openings for archers), BATTLEMENTS/CRENELLATIONS (tooth-like wall tops for archers), MURDER HOLES (openings above the gate for dropping things on attackers)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Interior spaces: THE KEEP (main tower, last defense), GREAT HALL (largest room, for feasts and meetings), CHAPEL (religious services), KITCHEN (separate to prevent fire spread), WELL (essential water supply), STOREROOMS (supplies for sieges), DUNGEON (below ground), SOLAR (lord's private chamber). A castle was a self-contained community."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Drawing tips for architecture: (1) Start with basic geometric shapes — rectangles for walls, cylinders for towers. (2) Use a ruler for straight lines. (3) Add details layer by layer: first outlines, then windows, then stonework texture. (4) Show depth with overlapping shapes and varying line thickness. (5) Add a ground line and some context (trees, a moat, clouds)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Design your own medieval castle: (1) Draw the exterior view showing all major defensive features. Label at least 8 features. (2) On the second sheet, draw a bird's-eye floor plan showing the layout of rooms inside. Label each room and its purpose. (3) Write a brief description explaining your defensive strategy: How would your castle withstand a siege?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Castles represent the intersection of art, engineering, and strategy. Every beautiful tower and dramatic wall was designed with survival in mind. Castle builders were among the most skilled architects of their time, solving complex problems with limited technology.",
+          "mastery_check": "Did the student create a castle design with correctly identified defensive features and a functional floor plan?"
+        }
       ]
     },
     "parent_notes": "Castle architecture connects history, art, engineering, and strategic thinking. Children are naturally fascinated by castles. The defensive features teach problem-solving: each feature is a solution to a specific military threat. The floor plan teaches spatial thinking and design skills. If your child enjoys this, explore virtual tours of real castles online, or if possible, visit a castle or fort in your area. Building a model castle from cardboard or clay is an excellent extension project. This connects directly to the feudalism history lesson.",
@@ -262,17 +669,69 @@
     "instructions": "1. Brief history of pasta: ancient origins, Marco Polo myth, Italy's adoption and perfection.\n2. Discuss types of pasta and regional Italian cuisine.\n3. Review kitchen safety and hygiene.\n4. Make simple egg pasta dough: flour, eggs, salt, olive oil.\n5. Knead until smooth (develop gluten).\n6. Rest the dough, then roll thin and cut into desired shape.\n7. Cook in boiling salted water.\n8. Serve with simple olive oil and herbs or butter sauce.",
     "duration_minutes": 60,
     "lesson_type": "collaborative",
-    "materials_needed": ["2 cups flour", "3 eggs", "1 tsp salt", "1 tbsp olive oil", "Large cutting board", "Rolling pin", "Sharp knife or pizza cutter", "Large pot", "Apron"],
+    "materials_needed": [
+      "2 cups flour",
+      "3 eggs",
+      "1 tsp salt",
+      "1 tbsp olive oil",
+      "Large cutting board",
+      "Rolling pin",
+      "Sharp knife or pizza cutter",
+      "Large pot",
+      "Apron"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Italian Pasta", "subheading": "Making Fresh Pasta from Scratch"},
-        {"type": "materials", "items": ["2 cups all-purpose flour or semolina", "3 large eggs", "1 tsp salt", "1 tbsp olive oil", "Large clean surface for kneading", "Rolling pin", "Knife or pizza cutter", "Large pot of water"], "setup_instructions": "Wash hands. Put on apron. Clean a large work surface. Measure all ingredients. Put a large pot of salted water on to boil."},
-        {"type": "instruction", "step": 1, "text": "Pasta has been made in Italy since at least the 1200s (the Marco Polo bringing it from China story is a myth — Italy had pasta before Marco Polo traveled). Italian cuisine is regional: Northern Italy favors egg pasta and butter sauces; Southern Italy favors dried wheat pasta with olive oil and tomatoes. Today you make fresh egg pasta — a foundational cooking skill."},
-        {"type": "instruction", "step": 2, "text": "Make a mound of flour on your work surface. Create a well (crater) in the center. Crack eggs into the well. Add salt and olive oil. Using a fork, gradually mix the flour into the eggs, starting from the inner wall of the well. When it becomes too thick to stir, use your hands to bring it together."},
-        {"type": "instruction", "step": 3, "text": "Knead the dough for 8-10 minutes. Push it away with the heel of your hand, fold it back, turn it a quarter turn, and repeat. The dough should become smooth and elastic. If too sticky, add a little flour. If too dry, wet your hands slightly. When done, wrap in plastic and rest for 20 minutes (the gluten relaxes, making it easier to roll)."},
-        {"type": "instruction", "step": 4, "text": "After resting, flour your surface generously. Roll the dough as thin as you can — aim for the thickness of a coin. Roll from the center outward, turning the dough frequently. When thin enough, dust with flour and loosely roll it up. Cut into strips: thin for linguine, wide for pappardelle, squares for ravioli sheets. Unroll and toss gently with flour."},
-        {"type": "activity", "prompt": "Cook your pasta in boiling salted water for 2-3 minutes (fresh pasta cooks much faster than dried). While it cooks, prepare a simple sauce: warm olive oil with minced garlic for 30 seconds, or melt butter with fresh herbs. Drain the pasta, toss with sauce. While eating, write in your notebook: the recipe with your own measurements and notes, what you would do differently next time, and the history connection between pasta, trade routes, and cultural exchange.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Fresh pasta uses just four ingredients: flour, eggs, salt, and oil. With these simple ingredients and your own skill, you created something wonderful. This is the essence of Italian cooking — quality ingredients, simple techniques, and love. You can now make pasta for your family anytime.", "mastery_check": "Did the student follow the multi-step recipe independently, practice safe kitchen techniques, and produce edible fresh pasta?"}
+        {
+          "type": "title",
+          "heading": "Italian Pasta",
+          "subheading": "Making Fresh Pasta from Scratch",
+          "image_url": "https://images.pexels.com/photos/5593102/pexels-photo-5593102.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "2 cups all-purpose flour or semolina",
+            "3 large eggs",
+            "1 tsp salt",
+            "1 tbsp olive oil",
+            "Large clean surface for kneading",
+            "Rolling pin",
+            "Knife or pizza cutter",
+            "Large pot of water"
+          ],
+          "setup_instructions": "Wash hands. Put on apron. Clean a large work surface. Measure all ingredients. Put a large pot of salted water on to boil."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Pasta has been made in Italy since at least the 1200s (the Marco Polo bringing it from China story is a myth — Italy had pasta before Marco Polo traveled). Italian cuisine is regional: Northern Italy favors egg pasta and butter sauces; Southern Italy favors dried wheat pasta with olive oil and tomatoes. Today you make fresh egg pasta — a foundational cooking skill."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Make a mound of flour on your work surface. Create a well (crater) in the center. Crack eggs into the well. Add salt and olive oil. Using a fork, gradually mix the flour into the eggs, starting from the inner wall of the well. When it becomes too thick to stir, use your hands to bring it together."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Knead the dough for 8-10 minutes. Push it away with the heel of your hand, fold it back, turn it a quarter turn, and repeat. The dough should become smooth and elastic. If too sticky, add a little flour. If too dry, wet your hands slightly. When done, wrap in plastic and rest for 20 minutes (the gluten relaxes, making it easier to roll)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "After resting, flour your surface generously. Roll the dough as thin as you can — aim for the thickness of a coin. Roll from the center outward, turning the dough frequently. When thin enough, dust with flour and loosely roll it up. Cut into strips: thin for linguine, wide for pappardelle, squares for ravioli sheets. Unroll and toss gently with flour."
+        },
+        {
+          "type": "activity",
+          "prompt": "Cook your pasta in boiling salted water for 2-3 minutes (fresh pasta cooks much faster than dried). While it cooks, prepare a simple sauce: warm olive oil with minced garlic for 30 seconds, or melt butter with fresh herbs. Drain the pasta, toss with sauce. While eating, write in your notebook: the recipe with your own measurements and notes, what you would do differently next time, and the history connection between pasta, trade routes, and cultural exchange.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Fresh pasta uses just four ingredients: flour, eggs, salt, and oil. With these simple ingredients and your own skill, you created something wonderful. This is the essence of Italian cooking — quality ingredients, simple techniques, and love. You can now make pasta for your family anytime.",
+          "mastery_check": "Did the student follow the multi-step recipe independently, practice safe kitchen techniques, and produce edible fresh pasta?"
+        }
       ]
     },
     "parent_notes": "Making fresh pasta is a deeply satisfying experience and a genuine life skill. The dough needs real elbow grease during kneading — this is great for developing hand and arm strength. Supervise knife use for cutting the pasta. If rolling by hand is too difficult, a simple pasta machine (hand-crank) makes it much easier and is a worthwhile investment. The historical connection to trade routes links to the history and geography units. This recipe is endlessly adaptable — once mastered, your child can experiment with fillings (ravioli), shapes, and sauces.",
@@ -290,17 +749,62 @@
     "instructions": "1. Connect to persuasive writing: advertising IS persuasion.\n2. Introduce common techniques: bandwagon, testimonial, emotional appeal, loaded language, repetition.\n3. Analyze real advertisements (print or video).\n4. Identify which techniques each ad uses.\n5. Discuss ethical vs. manipulative persuasion.\n6. Students design their own ad for a product or cause.\n7. Present ads and identify techniques used.\n8. Reflect on how understanding advertising makes you a smarter consumer.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Language notebook", "Pencil", "Colored pencils or markers", "Magazine ads or printed examples", "Large paper for ad design"],
+    "materials_needed": [
+      "Language notebook",
+      "Pencil",
+      "Colored pencils or markers",
+      "Magazine ads or printed examples",
+      "Large paper for ad design"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Persuasion in Advertising", "subheading": "Critical Media Literacy"},
-        {"type": "materials", "items": ["Language notebook", "Pencil", "Colored pencils or markers", "Magazine ads or printed ad examples", "Large paper for your ad"], "setup_instructions": "Gather 3-5 print advertisements from magazines or print them from websites. Open notebook for analysis notes."},
-        {"type": "instruction", "step": 1, "text": "You see thousands of advertisements every day — on screens, billboards, packaging, and clothing. Each one is a piece of persuasive writing designed to make you DO something: buy, click, believe, or feel. Understanding how ads work makes you a CRITICAL CONSUMER — someone who thinks before acting."},
-        {"type": "instruction", "step": 2, "text": "Common advertising techniques: BANDWAGON — 'Everyone is doing it!' (peer pressure). TESTIMONIAL — a famous person endorses the product. EMOTIONAL APPEAL — makes you feel happy, scared, or nostalgic. LOADED LANGUAGE — words chosen to trigger feelings ('luxurious,' 'revolutionary,' 'natural'). REPETITION — repeat the message until it sticks. SCARCITY — 'Limited time only!' creates urgency."},
-        {"type": "instruction", "step": 3, "text": "Analyze your ad samples: For each ad, identify: What is being sold? Who is the target audience? Which techniques are used? What emotions does it try to create? What does it promise? Is the promise realistic? What information is missing? Write your analysis for at least 3 ads."},
-        {"type": "instruction", "step": 4, "text": "Ethical persuasion vs. manipulation: Ethical ads give accurate information and appeal to real benefits. Manipulative ads exploit fears, make false claims, or pressure you into quick decisions. The line between the two can be blurry. A critical consumer asks: 'Is this claim supported by evidence? Am I being pressured? Do I really need this?'"},
-        {"type": "activity", "prompt": "Create your own advertisement for either: (a) A PRODUCT you invent (get creative!), or (b) A CAUSE you believe in (environment, reading, kindness, etc.). Your ad must include: a catchy headline, a visual element (drawing), at least 3 persuasive techniques (labeled on the back), a clear call to action. Challenge: make it persuasive but ETHICAL — no false claims or manipulative pressure.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Now that you know the techniques advertisers use, you can never be manipulated in the same way again. You will start seeing these techniques everywhere — in ads, in political speeches, even in conversations. This awareness is called MEDIA LITERACY, and it is one of the most important skills for life in the modern world.", "mastery_check": "Can the student identify at least 5 persuasive techniques in advertising and create an ad using ethical persuasion with intentional technique choices?"}
+        {
+          "type": "title",
+          "heading": "Persuasion in Advertising",
+          "subheading": "Critical Media Literacy",
+          "image_url": "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Language notebook",
+            "Pencil",
+            "Colored pencils or markers",
+            "Magazine ads or printed ad examples",
+            "Large paper for your ad"
+          ],
+          "setup_instructions": "Gather 3-5 print advertisements from magazines or print them from websites. Open notebook for analysis notes."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "You see thousands of advertisements every day — on screens, billboards, packaging, and clothing. Each one is a piece of persuasive writing designed to make you DO something: buy, click, believe, or feel. Understanding how ads work makes you a CRITICAL CONSUMER — someone who thinks before acting."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Common advertising techniques: BANDWAGON — 'Everyone is doing it!' (peer pressure). TESTIMONIAL — a famous person endorses the product. EMOTIONAL APPEAL — makes you feel happy, scared, or nostalgic. LOADED LANGUAGE — words chosen to trigger feelings ('luxurious,' 'revolutionary,' 'natural'). REPETITION — repeat the message until it sticks. SCARCITY — 'Limited time only!' creates urgency."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Analyze your ad samples: For each ad, identify: What is being sold? Who is the target audience? Which techniques are used? What emotions does it try to create? What does it promise? Is the promise realistic? What information is missing? Write your analysis for at least 3 ads."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Ethical persuasion vs. manipulation: Ethical ads give accurate information and appeal to real benefits. Manipulative ads exploit fears, make false claims, or pressure you into quick decisions. The line between the two can be blurry. A critical consumer asks: 'Is this claim supported by evidence? Am I being pressured? Do I really need this?'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own advertisement for either: (a) A PRODUCT you invent (get creative!), or (b) A CAUSE you believe in (environment, reading, kindness, etc.). Your ad must include: a catchy headline, a visual element (drawing), at least 3 persuasive techniques (labeled on the back), a clear call to action. Challenge: make it persuasive but ETHICAL — no false claims or manipulative pressure.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Now that you know the techniques advertisers use, you can never be manipulated in the same way again. You will start seeing these techniques everywhere — in ads, in political speeches, even in conversations. This awareness is called MEDIA LITERACY, and it is one of the most important skills for life in the modern world.",
+          "mastery_check": "Can the student identify at least 5 persuasive techniques in advertising and create an ad using ethical persuasion with intentional technique choices?"
+        }
       ]
     },
     "parent_notes": "Media literacy is essential in our media-saturated world. Children who can identify persuasive techniques are better equipped to make independent decisions. Watch TV commercials or browse online ads together, pausing to analyze: What technique is this? What emotion are they trying to create? This is not about being cynical — it is about being thoughtful. The ad creation project is fun and reinforces learning. If your child creates an ad for a cause they care about, help them actually distribute it (post it at the library, share with family).",
@@ -318,17 +822,62 @@
     "instructions": "1. Define angle: two rays sharing a common endpoint (vertex).\n2. Introduce degrees as the unit of angle measurement.\n3. Classify angles: acute (<90°), right (=90°), obtuse (>90°, <180°), straight (=180°), reflex (>180°).\n4. Teach proper protractor use.\n5. Measure 10 angles with a protractor.\n6. Draw angles of specific measurements.\n7. Find angles in real-world objects and architecture.\n8. Introduce complementary (sum to 90°) and supplementary (sum to 180°) angles.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Math notebook", "Pencil", "Protractor", "Ruler", "Colored pencils"],
+    "materials_needed": [
+      "Math notebook",
+      "Pencil",
+      "Protractor",
+      "Ruler",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Angles", "subheading": "Measuring and Classifying"},
-        {"type": "materials", "items": ["Math notebook", "Pencil", "Protractor", "Ruler", "Colored pencils"], "setup_instructions": "Open notebook. Set out protractor and ruler. Make sure you know which scale on the protractor to use (start from 0°, not from 180°)."},
-        {"type": "instruction", "step": 1, "text": "An ANGLE is formed where two rays meet at a point called the VERTEX. We measure angles in DEGREES (°). A full rotation is 360°. A half rotation is 180° (a straight line). A quarter rotation is 90° (a right angle — the corner of a book). The degree symbol (°) was invented by the ancient Babylonians, who used a base-60 number system."},
-        {"type": "instruction", "step": 2, "text": "Classifying angles: ACUTE — less than 90° (sharp, like the tip of a pencil). RIGHT — exactly 90° (square corner, marked with a small square symbol). OBTUSE — between 90° and 180° (wide, like a book opened past halfway). STRAIGHT — exactly 180° (a straight line). REFLEX — between 180° and 360°."},
-        {"type": "instruction", "step": 3, "text": "Using a protractor: (1) Place the center point of the protractor on the VERTEX of the angle. (2) Align one ray with the 0° line. (3) Read where the other ray crosses the degree scale. IMPORTANT: use the scale that starts from 0° on the aligned ray. If the angle looks acute, the measurement should be less than 90°. If it looks obtuse, it should be more."},
-        {"type": "instruction", "step": 4, "text": "Special angle pairs: COMPLEMENTARY angles add up to 90°. If one angle is 30°, its complement is 60°. SUPPLEMENTARY angles add up to 180°. If one angle is 120°, its supplement is 60°. These relationships are fundamental in geometry and will be important when we study triangles and quadrilaterals."},
-        {"type": "activity", "prompt": "Protractor practice: (1) Draw and measure these angles: 45°, 90°, 120°, 30°, 160°, 75°. (2) Classify each as acute, right, or obtuse. (3) Find the complement of 35°, 45°, 72°, and 15°. (4) Find the supplement of 110°, 45°, 90°, and 135°. (5) Angle hunt: find and measure at least 5 angles in your room — corners of books, clock hands, opened doors, scissors. Record the object, measurement, and classification.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Angles are everywhere — in architecture, art, sports, nature, and engineering. Understanding angles gives you a new way of seeing the world. Every time you look at a building, a bridge, or a leaf, you are looking at angles working together.", "mastery_check": "Can the student measure angles accurately with a protractor, classify angles by type, and find complementary and supplementary angles?"}
+        {
+          "type": "title",
+          "heading": "Angles",
+          "subheading": "Measuring and Classifying",
+          "image_url": "https://images.pexels.com/photos/311269/pexels-photo-311269.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math notebook",
+            "Pencil",
+            "Protractor",
+            "Ruler",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Open notebook. Set out protractor and ruler. Make sure you know which scale on the protractor to use (start from 0°, not from 180°)."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "An ANGLE is formed where two rays meet at a point called the VERTEX. We measure angles in DEGREES (°). A full rotation is 360°. A half rotation is 180° (a straight line). A quarter rotation is 90° (a right angle — the corner of a book). The degree symbol (°) was invented by the ancient Babylonians, who used a base-60 number system."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Classifying angles: ACUTE — less than 90° (sharp, like the tip of a pencil). RIGHT — exactly 90° (square corner, marked with a small square symbol). OBTUSE — between 90° and 180° (wide, like a book opened past halfway). STRAIGHT — exactly 180° (a straight line). REFLEX — between 180° and 360°."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Using a protractor: (1) Place the center point of the protractor on the VERTEX of the angle. (2) Align one ray with the 0° line. (3) Read where the other ray crosses the degree scale. IMPORTANT: use the scale that starts from 0° on the aligned ray. If the angle looks acute, the measurement should be less than 90°. If it looks obtuse, it should be more."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Special angle pairs: COMPLEMENTARY angles add up to 90°. If one angle is 30°, its complement is 60°. SUPPLEMENTARY angles add up to 180°. If one angle is 120°, its supplement is 60°. These relationships are fundamental in geometry and will be important when we study triangles and quadrilaterals."
+        },
+        {
+          "type": "activity",
+          "prompt": "Protractor practice: (1) Draw and measure these angles: 45°, 90°, 120°, 30°, 160°, 75°. (2) Classify each as acute, right, or obtuse. (3) Find the complement of 35°, 45°, 72°, and 15°. (4) Find the supplement of 110°, 45°, 90°, and 135°. (5) Angle hunt: find and measure at least 5 angles in your room — corners of books, clock hands, opened doors, scissors. Record the object, measurement, and classification.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Angles are everywhere — in architecture, art, sports, nature, and engineering. Understanding angles gives you a new way of seeing the world. Every time you look at a building, a bridge, or a leaf, you are looking at angles working together.",
+          "mastery_check": "Can the student measure angles accurately with a protractor, classify angles by type, and find complementary and supplementary angles?"
+        }
       ]
     },
     "parent_notes": "Protractor use is a physical skill that takes practice. The most common error is reading the wrong scale (protractors have two scales). Teach your child to first estimate whether the angle is acute or obtuse, then check that their measurement matches. The real-world angle hunt is valuable because it connects abstract geometry to the physical world. Angles in architecture connect beautifully to the medieval castle art lesson. If your child struggles with the protractor, online angle measurement tools provide instant feedback.",
@@ -346,17 +895,62 @@
     "instructions": "1. Review feudalism and the castle as the center of feudal life.\n2. Describe the lord and lady's roles: governance, justice, management.\n3. Describe the daily routine: dawn prayers, meals, court business, training, evening entertainment.\n4. Discuss the roles of castle workers: steward, marshal, cook, blacksmith, chaplain.\n5. Describe medieval food and feasting.\n6. Discuss entertainment: minstrels, games, hunting, tournaments.\n7. Discuss challenges: cold, dark, disease, siege threats.\n8. Students write a detailed first-person diary entry as a castle resident.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["History notebook", "Pencil", "Colored pencils", "Castle floor plan from art lesson", "Reference materials"],
+    "materials_needed": [
+      "History notebook",
+      "Pencil",
+      "Colored pencils",
+      "Castle floor plan from art lesson",
+      "Reference materials"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Life in a Medieval Castle", "subheading": "Roles and Daily Routines"},
-        {"type": "materials", "items": ["History notebook", "Pencil", "Colored pencils", "Your castle floor plan", "Reference materials about medieval life"], "setup_instructions": "Open history notebook. Have your castle drawing and floor plan from the art lesson available for reference."},
-        {"type": "instruction", "step": 1, "text": "A castle was not just a fortress — it was a community. Hundreds of people lived and worked inside: the lord and his family, knights and soldiers, priests and monks, servants and craftspeople. It was a self-sufficient world with its own government, economy, and social structure."},
-        {"type": "instruction", "step": 2, "text": "The LORD managed the estate, held court (judging disputes), collected taxes, and led in battle. The LADY managed the household (a huge job: overseeing food, clothing, medicine, and servants for hundreds of people), welcomed guests, and often managed the castle when the lord was away at war. Both were educated and powerful figures."},
-        {"type": "instruction", "step": 3, "text": "A typical day: DAWN — church bells ring for morning prayers. MORNING — breakfast (bread and ale), then work: the lord holds court, knights train, servants work. MIDDAY — the main meal (dinner): bread, meat, vegetables, cheese, all eaten in the great hall. AFTERNOON — more work, hunting, or training. EVENING — supper (lighter meal), entertainment (music, stories, games). NIGHT — prayers, then bed by candlelight."},
-        {"type": "instruction", "step": 4, "text": "Castle challenges: (1) COLD — stone walls, no central heating, smoky fireplaces. (2) DARK — small windows (for defense), candles and torches for light. (3) SANITATION — no plumbing, chamber pots, garderobes (toilets built into the wall over the moat). (4) DISEASE — crowded conditions, limited medicine. (5) SIEGE — the constant threat of attack meant storing food and water for months."},
-        {"type": "activity", "prompt": "Choose a role: lord, lady, knight, squire (knight in training), cook, or servant. Write a detailed first-person diary entry for ONE DAY in their life. Include: what time you woke, morning activities, meals (what you ate), your work duties, afternoon activities, evening entertainment, and bedtime. Use specific details from today's lesson. Make it vivid — describe sights, sounds, smells, and feelings.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Castle life was very different from our modern comfort. No electricity, no running water, no heating, limited food variety, and constant danger. Yet people found joy in community, feasts, music, stories, and the beauty of the world around them. Understanding how people lived in the past helps us appreciate what we have and see our common humanity across time.", "mastery_check": "Can the student describe daily life in a medieval castle including roles, routines, and challenges with specific historical details?"}
+        {
+          "type": "title",
+          "heading": "Life in a Medieval Castle",
+          "subheading": "Roles and Daily Routines",
+          "image_url": "https://images.pexels.com/photos/1128255/pexels-photo-1128255.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "History notebook",
+            "Pencil",
+            "Colored pencils",
+            "Your castle floor plan",
+            "Reference materials about medieval life"
+          ],
+          "setup_instructions": "Open history notebook. Have your castle drawing and floor plan from the art lesson available for reference."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A castle was not just a fortress — it was a community. Hundreds of people lived and worked inside: the lord and his family, knights and soldiers, priests and monks, servants and craftspeople. It was a self-sufficient world with its own government, economy, and social structure."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The LORD managed the estate, held court (judging disputes), collected taxes, and led in battle. The LADY managed the household (a huge job: overseeing food, clothing, medicine, and servants for hundreds of people), welcomed guests, and often managed the castle when the lord was away at war. Both were educated and powerful figures."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "A typical day: DAWN — church bells ring for morning prayers. MORNING — breakfast (bread and ale), then work: the lord holds court, knights train, servants work. MIDDAY — the main meal (dinner): bread, meat, vegetables, cheese, all eaten in the great hall. AFTERNOON — more work, hunting, or training. EVENING — supper (lighter meal), entertainment (music, stories, games). NIGHT — prayers, then bed by candlelight."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Castle challenges: (1) COLD — stone walls, no central heating, smoky fireplaces. (2) DARK — small windows (for defense), candles and torches for light. (3) SANITATION — no plumbing, chamber pots, garderobes (toilets built into the wall over the moat). (4) DISEASE — crowded conditions, limited medicine. (5) SIEGE — the constant threat of attack meant storing food and water for months."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose a role: lord, lady, knight, squire (knight in training), cook, or servant. Write a detailed first-person diary entry for ONE DAY in their life. Include: what time you woke, morning activities, meals (what you ate), your work duties, afternoon activities, evening entertainment, and bedtime. Use specific details from today's lesson. Make it vivid — describe sights, sounds, smells, and feelings.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Castle life was very different from our modern comfort. No electricity, no running water, no heating, limited food variety, and constant danger. Yet people found joy in community, feasts, music, stories, and the beauty of the world around them. Understanding how people lived in the past helps us appreciate what we have and see our common humanity across time.",
+          "mastery_check": "Can the student describe daily life in a medieval castle including roles, routines, and challenges with specific historical details?"
+        }
       ]
     },
     "parent_notes": "This immersive history lesson builds empathy and historical imagination. The diary-writing activity encourages deep engagement with the material. Children often enjoy choosing a role and imagining themselves in that world. The details about medieval challenges (cold, dark, sanitation) help children appreciate modern conveniences while also admiring medieval people's resilience. If your child chose to write as a knight, the training sequence (page → squire → knight) is fascinating. If they chose the cook, research what a medieval feast involved — it was extraordinary.",
@@ -374,17 +968,62 @@
     "instructions": "1. Define migration: the movement of people from one place to another.\n2. Introduce push factors (things that drive people away): war, poverty, disaster, persecution.\n3. Introduce pull factors (things that attract people): jobs, safety, education, family, freedom.\n4. Study historical migrations: Great Migration (Africa to world), Bantu migration, European colonization, Industrial Revolution urbanization.\n5. Study modern migration: refugees, economic migrants, climate migrants.\n6. Map major migration routes, past and present.\n7. Discuss impact on both origin and destination communities.\n8. Personal connection: Where did your ancestors come from?",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Geography notebook", "Colored pencils", "World map", "Pencil", "Family history information (if available)"],
+    "materials_needed": [
+      "Geography notebook",
+      "Colored pencils",
+      "World map",
+      "Pencil",
+      "Family history information (if available)"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Human Migration", "subheading": "Why People Move"},
-        {"type": "materials", "items": ["Geography notebook", "Colored pencils", "World map", "Pencil", "Family migration stories (if available)"], "setup_instructions": "Open notebook. Prepare a world map for marking migration routes. If your family has migration stories, have them ready to share."},
-        {"type": "instruction", "step": 1, "text": "Humans have always migrated. The first humans left Africa around 70,000 years ago and eventually populated every continent except Antarctica. Migration continues today — about 280 million people (3.6% of humanity) live in a country different from where they were born. Understanding WHY people move is key to understanding geography and history."},
-        {"type": "instruction", "step": 2, "text": "PUSH factors drive people AWAY from a place: war and conflict, natural disasters, famine, poverty, political persecution, religious oppression, environmental degradation. PULL factors ATTRACT people TO a place: economic opportunity, safety and peace, education, family reunification, religious freedom, better climate, political liberty."},
-        {"type": "instruction", "step": 3, "text": "Great historical migrations: (1) Out of Africa (70,000+ years ago) — all human migration begins here. (2) Bantu expansion in Africa (3,000 years ago). (3) Germanic migrations into Rome (300-500 CE). (4) European colonization of the Americas (1500s-1800s). (5) Atlantic slave trade (1500s-1800s — forced migration). (6) Ellis Island immigration to the US (1880s-1920s). Mark these on your map."},
-        {"type": "instruction", "step": 4, "text": "Modern migration: Today, people migrate for many reasons. REFUGEES flee war or persecution (Syria, Ukraine, South Sudan). ECONOMIC MIGRANTS seek better jobs (rural to urban migration within countries). CLIMATE MIGRANTS flee environmental changes (rising seas, drought). Each person who migrates has a unique story of courage and hope."},
-        {"type": "activity", "prompt": "Create a migration project: (1) On your world map, draw arrows showing at least 5 major historical and 3 modern migration routes. Color-code by time period. (2) Create a push/pull factor chart for one specific migration event. (3) If possible, interview a family member about your family's migration history — where did your ancestors come from and why did they move? Write their story. If unknown, research the migration history of your community.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Every person's family has a migration story — some recent, some ancient. Understanding migration builds empathy: people move because they must or because they hope for a better life. This is one of the most human things there is.", "mastery_check": "Can the student explain push and pull factors, identify major historical and modern migration patterns, and analyze the causes and effects of migration?"}
+        {
+          "type": "title",
+          "heading": "Human Migration",
+          "subheading": "Why People Move",
+          "image_url": "https://images.pexels.com/photos/8828619/pexels-photo-8828619.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Geography notebook",
+            "Colored pencils",
+            "World map",
+            "Pencil",
+            "Family migration stories (if available)"
+          ],
+          "setup_instructions": "Open notebook. Prepare a world map for marking migration routes. If your family has migration stories, have them ready to share."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Humans have always migrated. The first humans left Africa around 70,000 years ago and eventually populated every continent except Antarctica. Migration continues today — about 280 million people (3.6% of humanity) live in a country different from where they were born. Understanding WHY people move is key to understanding geography and history."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "PUSH factors drive people AWAY from a place: war and conflict, natural disasters, famine, poverty, political persecution, religious oppression, environmental degradation. PULL factors ATTRACT people TO a place: economic opportunity, safety and peace, education, family reunification, religious freedom, better climate, political liberty."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Great historical migrations: (1) Out of Africa (70,000+ years ago) — all human migration begins here. (2) Bantu expansion in Africa (3,000 years ago). (3) Germanic migrations into Rome (300-500 CE). (4) European colonization of the Americas (1500s-1800s). (5) Atlantic slave trade (1500s-1800s — forced migration). (6) Ellis Island immigration to the US (1880s-1920s). Mark these on your map."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Modern migration: Today, people migrate for many reasons. REFUGEES flee war or persecution (Syria, Ukraine, South Sudan). ECONOMIC MIGRANTS seek better jobs (rural to urban migration within countries). CLIMATE MIGRANTS flee environmental changes (rising seas, drought). Each person who migrates has a unique story of courage and hope."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a migration project: (1) On your world map, draw arrows showing at least 5 major historical and 3 modern migration routes. Color-code by time period. (2) Create a push/pull factor chart for one specific migration event. (3) If possible, interview a family member about your family's migration history — where did your ancestors come from and why did they move? Write their story. If unknown, research the migration history of your community.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Every person's family has a migration story — some recent, some ancient. Understanding migration builds empathy: people move because they must or because they hope for a better life. This is one of the most human things there is.",
+          "mastery_check": "Can the student explain push and pull factors, identify major historical and modern migration patterns, and analyze the causes and effects of migration?"
+        }
       ]
     },
     "parent_notes": "Migration is a topic that connects history, geography, economics, and personal identity. The family history component can be very powerful — share your own family's migration story if possible. If you do not know your family's history, this is an opportunity to research together. Approach the topic of forced migration (slavery, refugee crises) with sensitivity and honesty. The goal is understanding, empathy, and geographic literacy. Current events provide constant examples of migration — use news stories to reinforce these concepts.",
@@ -402,17 +1041,62 @@
     "instructions": "1. Introduce the book and author: Lois Lowry, published 1989, Newbery Medal winner.\n2. Provide historical context: World War II, Nazi occupation of Denmark, Holocaust.\n3. Read chapters 1-3 aloud.\n4. Discuss the setting: Copenhagen, 1943. What is daily life like under occupation?\n5. Discuss the characters: Annemarie, Ellen, the Johansen family.\n6. Explore the theme of courage: Annemarie thinks about what it means to be brave.\n7. Journal entry: What does courage mean to you?\n8. Predict: What challenges will the characters face?",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Number the Stars by Lois Lowry", "Reading journal", "Pencil", "Map of Europe/Denmark", "Historical context notes"],
+    "materials_needed": [
+      "Number the Stars by Lois Lowry",
+      "Reading journal",
+      "Pencil",
+      "Map of Europe/Denmark",
+      "Historical context notes"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Number the Stars", "subheading": "Chapters 1-3: Copenhagen, 1943"},
-        {"type": "materials", "items": ["Number the Stars by Lois Lowry", "Reading journal", "Pencil", "Map of Europe showing Denmark", "Colored pencils"], "setup_instructions": "This is a more serious book than The Phantom Tollbooth. Find a quiet, comfortable reading space. Have the map available to locate Denmark, Copenhagen, and Sweden."},
-        {"type": "instruction", "step": 1, "text": "Number the Stars is based on real events. During World War II (1939-1945), Nazi Germany occupied Denmark. The Danish people — ordinary citizens — helped rescue almost all of Denmark's 8,000 Jewish people by smuggling them to neutral Sweden. This story is about that courage. It is a different kind of reading than The Phantom Tollbooth — more serious and deeply moving."},
-        {"type": "instruction", "step": 2, "text": "Historical context you need: By 1943, Nazi Germany controlled most of Europe. In occupied countries, Jewish people were being arrested and sent to concentration camps. Denmark was unusual: its people organized a massive secret rescue, smuggling Jewish families across the narrow strait to Sweden in fishing boats over a few nights in October 1943."},
-        {"type": "instruction", "step": 3, "text": "Read chapters 1-3. Notice the details of daily life under occupation: soldiers on the streets, food rationing, fear, but also the normalcy that people try to maintain — school, friendship, family. Pay attention to how Annemarie and Ellen's friendship is the emotional center of the story."},
-        {"type": "instruction", "step": 4, "text": "After reading, discuss: Annemarie wonders about bravery. She looks at a picture of her older sister Lise and wonders if she herself could be brave. The book asks: What does courage look like? Is it the absence of fear, or is it being afraid and acting anyway?"},
-        {"type": "activity", "prompt": "In your journal: (1) Locate Denmark and Sweden on your map. Draw the strait between them. Why is this geography important to the story? (2) Describe the character of Annemarie in 5-6 sentences based on what you have learned so far. (3) Write a personal reflection: What does courage mean to you? Describe a time you were scared but acted anyway, or a time you wish you had been braver. (4) Predict: What do you think will happen to Ellen and her family?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Number the Stars reminds us that ordinary people can do extraordinary things when they choose to help others. The Danish rescue of their Jewish neighbors is one of the most inspiring stories of World War II. As we read, think about what you would do in Annemarie's situation.", "mastery_check": "Can the student describe the historical context of the story and articulate initial thoughts about the theme of courage?"}
+        {
+          "type": "title",
+          "heading": "Number the Stars",
+          "subheading": "Chapters 1-3: Copenhagen, 1943",
+          "image_url": "https://images.pexels.com/photos/4145354/pexels-photo-4145354.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Number the Stars by Lois Lowry",
+            "Reading journal",
+            "Pencil",
+            "Map of Europe showing Denmark",
+            "Colored pencils"
+          ],
+          "setup_instructions": "This is a more serious book than The Phantom Tollbooth. Find a quiet, comfortable reading space. Have the map available to locate Denmark, Copenhagen, and Sweden."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Number the Stars is based on real events. During World War II (1939-1945), Nazi Germany occupied Denmark. The Danish people — ordinary citizens — helped rescue almost all of Denmark's 8,000 Jewish people by smuggling them to neutral Sweden. This story is about that courage. It is a different kind of reading than The Phantom Tollbooth — more serious and deeply moving."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Historical context you need: By 1943, Nazi Germany controlled most of Europe. In occupied countries, Jewish people were being arrested and sent to concentration camps. Denmark was unusual: its people organized a massive secret rescue, smuggling Jewish families across the narrow strait to Sweden in fishing boats over a few nights in October 1943."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Read chapters 1-3. Notice the details of daily life under occupation: soldiers on the streets, food rationing, fear, but also the normalcy that people try to maintain — school, friendship, family. Pay attention to how Annemarie and Ellen's friendship is the emotional center of the story."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "After reading, discuss: Annemarie wonders about bravery. She looks at a picture of her older sister Lise and wonders if she herself could be brave. The book asks: What does courage look like? Is it the absence of fear, or is it being afraid and acting anyway?"
+        },
+        {
+          "type": "activity",
+          "prompt": "In your journal: (1) Locate Denmark and Sweden on your map. Draw the strait between them. Why is this geography important to the story? (2) Describe the character of Annemarie in 5-6 sentences based on what you have learned so far. (3) Write a personal reflection: What does courage mean to you? Describe a time you were scared but acted anyway, or a time you wish you had been braver. (4) Predict: What do you think will happen to Ellen and her family?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Number the Stars reminds us that ordinary people can do extraordinary things when they choose to help others. The Danish rescue of their Jewish neighbors is one of the most inspiring stories of World War II. As we read, think about what you would do in Annemarie's situation.",
+          "mastery_check": "Can the student describe the historical context of the story and articulate initial thoughts about the theme of courage?"
+        }
       ]
     },
     "parent_notes": "Number the Stars deals with serious historical events — the Holocaust and Nazi occupation. Approach this sensitively but honestly. Lois Lowry writes at a level appropriate for ages 9-12, showing the dangers without being graphic. The book is an excellent introduction to this critical historical period. Have tissues ready — this book is moving. Discuss your family's values about standing up for others. The Danish rescue is a beautiful counterpoint to the horrors of the Holocaust, showing humanity at its best. The book pairs naturally with the medieval history content by exploring a more recent period in European history.",
@@ -430,17 +1114,62 @@
     "instructions": "1. Discuss: What do you do when you encounter an unfamiliar word?\n2. Introduce 5 types of context clues: definition, synonym/restatement, antonym/contrast, example, inference/general.\n3. Model each type with examples.\n4. Practice identifying clue types in sentences.\n5. Apply strategies to passages from current reading.\n6. Discuss when context clues are not enough (and you need a dictionary).\n7. Students practice with progressively harder passages.\n8. Create a vocabulary acquisition strategy card.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Language notebook", "Pencil", "Current reading book", "Dictionary", "Index card for strategy reference"],
+    "materials_needed": [
+      "Language notebook",
+      "Pencil",
+      "Current reading book",
+      "Dictionary",
+      "Index card for strategy reference"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Context Clues", "subheading": "Unlocking Unknown Words"},
-        {"type": "materials", "items": ["Language notebook", "Pencil", "Current book or textbook", "Dictionary", "Index card"], "setup_instructions": "Open notebook. Have your current reading material handy — you will practice finding context clues in real texts."},
-        {"type": "instruction", "step": 1, "text": "When you meet an unfamiliar word, you have three tools: (1) Root word analysis (from your Greek/Latin roots knowledge), (2) Context clues (today's focus), (3) Dictionary lookup. Skilled readers use all three, but context clues are the fastest because you do not need to stop reading."},
-        {"type": "instruction", "step": 2, "text": "Five types of context clues: (1) DEFINITION — the author tells you directly: 'The portcullis, a heavy iron gate, protected the castle entrance.' (2) SYNONYM — a similar word nearby: 'The knight was valiant, as brave and courageous as any warrior.' (3) ANTONYM — an opposite word: 'Unlike the opulent castle, the peasant's hut was bare and poor.'"},
-        {"type": "instruction", "step": 3, "text": "(4) EXAMPLE — instances that illustrate the word: 'Medieval weapons such as swords, maces, and crossbows were crafted by the armorer.' (5) INFERENCE — you figure it out from the general context: 'The siege lasted for months. The people inside the castle grew thin and weak as their provisions dwindled.' (You can infer 'provisions' means food/supplies.)"},
-        {"type": "instruction", "step": 4, "text": "Signal words help you spot clue types: DEFINITION signals: 'which means,' 'that is,' 'in other words,' 'also called.' SYNONYM signals: 'or,' 'also known as,' 'similarly.' ANTONYM signals: 'but,' 'however,' 'unlike,' 'in contrast.' EXAMPLE signals: 'such as,' 'for example,' 'including,' 'like.'"},
-        {"type": "activity", "prompt": "Practice with these sentences — determine the meaning of the underlined word and identify the clue type: (1) The mendicant, a person who begs for a living, wandered the streets. (2) The castle was impregnable; no army could break through its defenses. (3) Unlike the garrulous merchant who talked constantly, the monk was silent. (4) The apothecarys shop sold medicines such as herbal tinctures, salves, and healing poultices. (5) Open your current book to any page and find 3 words you can define using context clues. Write the word, your definition, the clue type, and the actual definition from a dictionary.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Context clues combined with root word analysis mean you can figure out most unfamiliar words without stopping to look them up. This makes reading faster, smoother, and more enjoyable. The more you read, the better you get at this — it is a virtuous cycle.", "mastery_check": "Can the student identify the five types of context clues and use them to determine the meanings of unfamiliar words?"}
+        {
+          "type": "title",
+          "heading": "Context Clues",
+          "subheading": "Unlocking Unknown Words",
+          "image_url": "https://images.pexels.com/photos/278888/pexels-photo-278888.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Language notebook",
+            "Pencil",
+            "Current book or textbook",
+            "Dictionary",
+            "Index card"
+          ],
+          "setup_instructions": "Open notebook. Have your current reading material handy — you will practice finding context clues in real texts."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "When you meet an unfamiliar word, you have three tools: (1) Root word analysis (from your Greek/Latin roots knowledge), (2) Context clues (today's focus), (3) Dictionary lookup. Skilled readers use all three, but context clues are the fastest because you do not need to stop reading."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Five types of context clues: (1) DEFINITION — the author tells you directly: 'The portcullis, a heavy iron gate, protected the castle entrance.' (2) SYNONYM — a similar word nearby: 'The knight was valiant, as brave and courageous as any warrior.' (3) ANTONYM — an opposite word: 'Unlike the opulent castle, the peasant's hut was bare and poor.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "(4) EXAMPLE — instances that illustrate the word: 'Medieval weapons such as swords, maces, and crossbows were crafted by the armorer.' (5) INFERENCE — you figure it out from the general context: 'The siege lasted for months. The people inside the castle grew thin and weak as their provisions dwindled.' (You can infer 'provisions' means food/supplies.)"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Signal words help you spot clue types: DEFINITION signals: 'which means,' 'that is,' 'in other words,' 'also called.' SYNONYM signals: 'or,' 'also known as,' 'similarly.' ANTONYM signals: 'but,' 'however,' 'unlike,' 'in contrast.' EXAMPLE signals: 'such as,' 'for example,' 'including,' 'like.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice with these sentences — determine the meaning of the underlined word and identify the clue type: (1) The mendicant, a person who begs for a living, wandered the streets. (2) The castle was impregnable; no army could break through its defenses. (3) Unlike the garrulous merchant who talked constantly, the monk was silent. (4) The apothecarys shop sold medicines such as herbal tinctures, salves, and healing poultices. (5) Open your current book to any page and find 3 words you can define using context clues. Write the word, your definition, the clue type, and the actual definition from a dictionary.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Context clues combined with root word analysis mean you can figure out most unfamiliar words without stopping to look them up. This makes reading faster, smoother, and more enjoyable. The more you read, the better you get at this — it is a virtuous cycle.",
+          "mastery_check": "Can the student identify the five types of context clues and use them to determine the meanings of unfamiliar words?"
+        }
       ]
     },
     "parent_notes": "Context clue strategies are among the most valuable reading skills. Students who use context clues actively acquire vocabulary much faster than those who skip unfamiliar words or always stop for the dictionary. The five types give your child a systematic approach. Practice during everyday reading: when your child encounters an unfamiliar word, ask 'What clues does the sentence give you about its meaning?' before reaching for the dictionary. Over time, this becomes automatic and dramatically improves reading comprehension.",
@@ -458,17 +1187,66 @@
     "instructions": "1. Review angle types from yesterday.\n2. Define triangle: a polygon with 3 sides and 3 angles.\n3. Classify by sides: equilateral (3 equal), isosceles (2 equal), scalene (0 equal).\n4. Classify by angles: acute (all <90°), right (one =90°), obtuse (one >90°).\n5. Discovery activity: measure angles in several triangles — they always sum to 180°.\n6. Apply the 180° rule to find missing angles.\n7. Explore: can a triangle have 2 right angles? 2 obtuse angles? Why or why not?\n8. Draw and classify various triangles.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Math notebook", "Pencil", "Protractor", "Ruler", "Colored pencils", "Scissors", "Plain paper"],
+    "materials_needed": [
+      "Math notebook",
+      "Pencil",
+      "Protractor",
+      "Ruler",
+      "Colored pencils",
+      "Scissors",
+      "Plain paper"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Triangles", "subheading": "Types and Properties"},
-        {"type": "materials", "items": ["Math notebook", "Pencil", "Protractor", "Ruler", "Colored pencils", "Scissors", "Plain paper"], "setup_instructions": "Open notebook. Have protractor and ruler ready. You will also need scissors and a separate sheet of paper for a proof activity."},
-        {"type": "instruction", "step": 1, "text": "The triangle is the simplest polygon and the strongest shape in nature. Classify by SIDES: EQUILATERAL — all 3 sides equal (also means all 3 angles are 60°). ISOSCELES — exactly 2 sides equal (the angles opposite the equal sides are also equal). SCALENE — no sides equal (no angles equal either)."},
-        {"type": "instruction", "step": 2, "text": "Classify by ANGLES: ACUTE — all 3 angles are less than 90° (like an equilateral triangle). RIGHT — one angle is exactly 90° (marked with a square symbol). OBTUSE — one angle is greater than 90°. A triangle can be described using BOTH classifications: 'an isosceles right triangle' or 'a scalene obtuse triangle.'"},
-        {"type": "instruction", "step": 3, "text": "DISCOVERY: Draw any triangle on plain paper. Measure all three angles with your protractor. Add them up. Now draw a DIFFERENT triangle and measure. Add again. What do you notice? The sum is always 180°! PROOF: Cut out a triangle. Tear off all three corners. Arrange them point-to-point — they form a straight line (180°). Try this with several triangles."},
-        {"type": "instruction", "step": 4, "text": "Using the 180° rule: If a triangle has angles of 45° and 90°, the third angle must be 180° - 45° - 90° = 45°. This makes it a right isosceles triangle. Questions to think about: Can a triangle have two right angles? (No: 90+90=180, leaving 0° for the third angle.) Can it have two obtuse angles? (No: two angles >90° would already exceed 180°.)"},
-        {"type": "activity", "prompt": "Triangle challenge: (1) Draw one example of each type: equilateral, isosceles acute, isosceles right, scalene acute, scalene right, scalene obtuse. Measure and label all angles and sides. (2) Find the missing angle: a) 60°, 80°, ? b) 90°, 35°, ? c) 120°, 40°, ? d) 45°, 45°, ? (3) Tear-off proof: cut out 3 different triangles, tear off corners, arrange to prove angles sum to 180°. Glue in notebook. (4) Find 5 triangles in your environment. Classify each.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "The triangle is foundational in geometry. The 180° angle sum property will be useful throughout your math career. Triangles appear everywhere in architecture (trusses), art (composition), and nature (crystal structures). Next, we explore quadrilaterals.", "mastery_check": "Can the student classify triangles by sides and angles, apply the 180° angle sum property, and find missing angles?"}
+        {
+          "type": "title",
+          "heading": "Triangles",
+          "subheading": "Types and Properties",
+          "image_url": "https://images.pexels.com/photos/6037812/pexels-photo-6037812.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math notebook",
+            "Pencil",
+            "Protractor",
+            "Ruler",
+            "Colored pencils",
+            "Scissors",
+            "Plain paper"
+          ],
+          "setup_instructions": "Open notebook. Have protractor and ruler ready. You will also need scissors and a separate sheet of paper for a proof activity."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The triangle is the simplest polygon and the strongest shape in nature. Classify by SIDES: EQUILATERAL — all 3 sides equal (also means all 3 angles are 60°). ISOSCELES — exactly 2 sides equal (the angles opposite the equal sides are also equal). SCALENE — no sides equal (no angles equal either)."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Classify by ANGLES: ACUTE — all 3 angles are less than 90° (like an equilateral triangle). RIGHT — one angle is exactly 90° (marked with a square symbol). OBTUSE — one angle is greater than 90°. A triangle can be described using BOTH classifications: 'an isosceles right triangle' or 'a scalene obtuse triangle.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "DISCOVERY: Draw any triangle on plain paper. Measure all three angles with your protractor. Add them up. Now draw a DIFFERENT triangle and measure. Add again. What do you notice? The sum is always 180°! PROOF: Cut out a triangle. Tear off all three corners. Arrange them point-to-point — they form a straight line (180°). Try this with several triangles."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Using the 180° rule: If a triangle has angles of 45° and 90°, the third angle must be 180° - 45° - 90° = 45°. This makes it a right isosceles triangle. Questions to think about: Can a triangle have two right angles? (No: 90+90=180, leaving 0° for the third angle.) Can it have two obtuse angles? (No: two angles >90° would already exceed 180°.)"
+        },
+        {
+          "type": "activity",
+          "prompt": "Triangle challenge: (1) Draw one example of each type: equilateral, isosceles acute, isosceles right, scalene acute, scalene right, scalene obtuse. Measure and label all angles and sides. (2) Find the missing angle: a) 60°, 80°, ? b) 90°, 35°, ? c) 120°, 40°, ? d) 45°, 45°, ? (3) Tear-off proof: cut out 3 different triangles, tear off corners, arrange to prove angles sum to 180°. Glue in notebook. (4) Find 5 triangles in your environment. Classify each.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The triangle is foundational in geometry. The 180° angle sum property will be useful throughout your math career. Triangles appear everywhere in architecture (trusses), art (composition), and nature (crystal structures). Next, we explore quadrilaterals.",
+          "mastery_check": "Can the student classify triangles by sides and angles, apply the 180° angle sum property, and find missing angles?"
+        }
       ]
     },
     "parent_notes": "The angle-tear proof is a wonderful hands-on discovery. When your child tears off the three corners and sees them form a straight line, the 180° property becomes real and memorable. This is better than just telling them the rule. The dual classification system (sides AND angles) teaches precise mathematical language. Connect to architecture: triangles are the strongest shape because they cannot deform under pressure (unlike rectangles, which can collapse into parallelograms). This is why bridges and roofs use triangular trusses.",
@@ -486,17 +1264,62 @@
     "instructions": "1. Review vertebrate classification from Day 2.\n2. Fish: gills, scales, fins, cold-blooded, aquatic. Three types: bony, cartilaginous, jawless.\n3. Amphibians: dual life (water and land), moist skin, metamorphosis, cold-blooded.\n4. Reptiles: dry scales, hard-shelled eggs, cold-blooded, fully terrestrial.\n5. Discuss the evolutionary story: fish → amphibians → reptiles (water to land transition).\n6. Compare body coverings, breathing, reproduction, and habitats.\n7. Students create detailed comparison pages for each class.\n8. Research one species from each class in depth.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Science notebook", "Colored pencils", "Pencil", "Animal reference materials", "Ruler for comparison charts"],
+    "materials_needed": [
+      "Science notebook",
+      "Colored pencils",
+      "Pencil",
+      "Animal reference materials",
+      "Ruler for comparison charts"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Vertebrate Classes", "subheading": "Fish, Amphibians, and Reptiles"},
-        {"type": "materials", "items": ["Science notebook", "Colored pencils", "Pencil", "Animal reference books or internet", "Ruler"], "setup_instructions": "Open science notebook to a fresh three-page spread — one page for each class. Set out colored pencils for illustrations."},
-        {"type": "instruction", "step": 1, "text": "FISH: The oldest vertebrates, living in water for over 500 million years. Key features: breathe through GILLS (extract oxygen from water), have SCALES and FINS, are COLD-BLOODED (body temperature matches surroundings), most lay eggs in water. Three main types: BONY fish (trout, goldfish — most common), CARTILAGINOUS (sharks, rays — skeleton of cartilage), JAWLESS (lamprey, hagfish — ancient, no true jaws)."},
-        {"type": "instruction", "step": 2, "text": "AMPHIBIANS: The first vertebrates to venture onto land (~370 million years ago). 'Amphibian' means 'double life' — they live in BOTH water and land. Key features: breathe through LUNGS and MOIST SKIN, undergo METAMORPHOSIS (tadpole → adult), cold-blooded, lay eggs in water (no shell). Examples: frogs, toads, salamanders, newts, caecilians."},
-        {"type": "instruction", "step": 3, "text": "REPTILES: Truly terrestrial vertebrates (~320 million years ago). Key innovation: the AMNIOTIC EGG with a hard shell — allows reproduction on dry land. Key features: DRY SCALES (prevent water loss), breathe with LUNGS only, cold-blooded, most lay eggs on land. Examples: lizards, snakes, turtles, crocodilians, tuatara. Dinosaurs were reptiles!"},
-        {"type": "instruction", "step": 4, "text": "The evolutionary story: Fish → Amphibians → Reptiles represents the great transition from water to land. Each class solved new problems: Amphibians developed lungs and legs but still need water for their eggs and moist skin. Reptiles developed waterproof skin and hard-shelled eggs, freeing them from water entirely. Each step was a major evolutionary achievement."},
-        {"type": "activity", "prompt": "Create three detailed pages (one per class) including: (1) A representative animal drawn and labeled with key features. (2) A data box: breathing method, body covering, reproduction, habitat, body temperature regulation. (3) At least 3 examples of species with where they live. (4) One fascinating fact. Then create a comparison chart showing how these three classes differ across 6 categories. Finally, answer: Why do amphibians still need to live near water while reptiles do not?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "The story from fish to amphibians to reptiles is one of life's greatest adventures — the colonization of land. Each class represents a step in this journey, with new adaptations solving new challenges. Next, we will meet the warm-blooded vertebrates: birds and mammals.", "mastery_check": "Can the student describe key characteristics of fish, amphibians, and reptiles and explain the evolutionary progression from water to land?"}
+        {
+          "type": "title",
+          "heading": "Vertebrate Classes",
+          "subheading": "Fish, Amphibians, and Reptiles",
+          "image_url": "https://images.pexels.com/photos/8924160/pexels-photo-8924160.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Science notebook",
+            "Colored pencils",
+            "Pencil",
+            "Animal reference books or internet",
+            "Ruler"
+          ],
+          "setup_instructions": "Open science notebook to a fresh three-page spread — one page for each class. Set out colored pencils for illustrations."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "FISH: The oldest vertebrates, living in water for over 500 million years. Key features: breathe through GILLS (extract oxygen from water), have SCALES and FINS, are COLD-BLOODED (body temperature matches surroundings), most lay eggs in water. Three main types: BONY fish (trout, goldfish — most common), CARTILAGINOUS (sharks, rays — skeleton of cartilage), JAWLESS (lamprey, hagfish — ancient, no true jaws)."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "AMPHIBIANS: The first vertebrates to venture onto land (~370 million years ago). 'Amphibian' means 'double life' — they live in BOTH water and land. Key features: breathe through LUNGS and MOIST SKIN, undergo METAMORPHOSIS (tadpole → adult), cold-blooded, lay eggs in water (no shell). Examples: frogs, toads, salamanders, newts, caecilians."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "REPTILES: Truly terrestrial vertebrates (~320 million years ago). Key innovation: the AMNIOTIC EGG with a hard shell — allows reproduction on dry land. Key features: DRY SCALES (prevent water loss), breathe with LUNGS only, cold-blooded, most lay eggs on land. Examples: lizards, snakes, turtles, crocodilians, tuatara. Dinosaurs were reptiles!"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "The evolutionary story: Fish → Amphibians → Reptiles represents the great transition from water to land. Each class solved new problems: Amphibians developed lungs and legs but still need water for their eggs and moist skin. Reptiles developed waterproof skin and hard-shelled eggs, freeing them from water entirely. Each step was a major evolutionary achievement."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create three detailed pages (one per class) including: (1) A representative animal drawn and labeled with key features. (2) A data box: breathing method, body covering, reproduction, habitat, body temperature regulation. (3) At least 3 examples of species with where they live. (4) One fascinating fact. Then create a comparison chart showing how these three classes differ across 6 categories. Finally, answer: Why do amphibians still need to live near water while reptiles do not?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The story from fish to amphibians to reptiles is one of life's greatest adventures — the colonization of land. Each class represents a step in this journey, with new adaptations solving new challenges. Next, we will meet the warm-blooded vertebrates: birds and mammals.",
+          "mastery_check": "Can the student describe key characteristics of fish, amphibians, and reptiles and explain the evolutionary progression from water to land?"
+        }
       ]
     },
     "parent_notes": "This lesson tells the story of vertebrate evolution through comparison. The water-to-land narrative is compelling and helps children see evolution as a series of problems and solutions. If you can visit an aquarium, zoo, or nature center, observing these animals in person is invaluable. Even local ponds (for frogs and fish) or gardens (for lizards) provide real-world connections. The key concept is that amphibians are transitional — still tied to water — while reptiles achieved full independence from aquatic environments.",
@@ -514,17 +1337,62 @@
     "instructions": "1. Discuss the history of choral music from medieval chant to modern choirs.\n2. Warm up: breathing exercises for singing (diaphragmatic breathing).\n3. Pitch matching exercises: echo singing, scale singing.\n4. Learn 'Row, Row, Row Your Boat' as a round.\n5. Practice 'Dona Nobis Pacem' as a three-part round.\n6. Introduce the concept of harmony: multiple notes sounding together.\n7. Try singing a simple harmony line with a familiar melody.\n8. Discuss ensemble skills: listening to others, blending, following the conductor.",
     "duration_minutes": 60,
     "lesson_type": "collaborative",
-    "materials_needed": ["Music notebook", "Pencil", "Song lyrics printed or written", "Recording device (optional)", "Music player for accompaniment"],
+    "materials_needed": [
+      "Music notebook",
+      "Pencil",
+      "Song lyrics printed or written",
+      "Recording device (optional)",
+      "Music player for accompaniment"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Choral Singing", "subheading": "Rounds and Harmony"},
-        {"type": "materials", "items": ["Music notebook", "Pencil", "Printed song lyrics", "Recording device (optional)", "Music player"], "setup_instructions": "Find a comfortable space to sing. Have lyrics available. If possible, invite family members to join — rounds require multiple singers. Record your singing to listen back."},
-        {"type": "instruction", "step": 1, "text": "The human voice is the oldest musical instrument. Singing together is one of the most powerful human experiences — it releases endorphins, builds community, and creates beauty. From Gregorian chant to modern pop, choral music (singing in groups) has been central to human culture for thousands of years."},
-        {"type": "instruction", "step": 2, "text": "Singing warm-ups: (1) BREATHING — place hands on your belly. Breathe in through your nose and feel your belly push out (diaphragmatic breathing). Breathe out slowly through your mouth. (2) HUMMING — hum a comfortable note. Feel the vibration in your lips, nose, and chest. (3) SCALES — sing 'do-re-mi-fa-sol-la-ti-do' up and down. (4) LIP TRILLS — blow air through closed lips while humming a melody."},
-        {"type": "instruction", "step": 3, "text": "A ROUND (or canon) is the simplest form of harmony: the same melody is sung by different voices entering at different times. You already know one: 'Row, Row, Row Your Boat.' Singer 1 starts. When they reach 'gently down the stream,' Singer 2 begins from the start. The two melodies weave together beautifully."},
-        {"type": "instruction", "step": 4, "text": "Now try 'Dona Nobis Pacem' (Give Us Peace) — a traditional three-part round. It has three phrases, each beginning where the previous one leaves off. Part 1 starts singing. When they reach phrase 2, Part 2 starts at the beginning. When Part 1 reaches phrase 3, Part 3 starts. The result is three-part harmony from a single melody!"},
-        {"type": "activity", "prompt": "Practice session: (1) Sing 'Row Row Row Your Boat' as a round with at least 2 parts. (2) Learn and sing 'Dona Nobis Pacem' — first in unison (everyone singing the same), then as a 2 or 3-part round. (3) Try one more round: 'Frere Jacques.' (4) In your music notebook, write about the experience: How does it FEEL when harmonies lock in? What is the hardest part about singing in a round? Record a performance if possible.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "When voices blend in harmony, something magical happens — the whole is greater than the sum of its parts. This is true in music and in life. Singing together teaches you to listen, to support others, and to contribute your own voice to something larger than yourself.", "mastery_check": "Can the student maintain their part while singing a round with at least one other person?"}
+        {
+          "type": "title",
+          "heading": "Choral Singing",
+          "subheading": "Rounds and Harmony",
+          "image_url": "https://images.pexels.com/photos/10322846/pexels-photo-10322846.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Music notebook",
+            "Pencil",
+            "Printed song lyrics",
+            "Recording device (optional)",
+            "Music player"
+          ],
+          "setup_instructions": "Find a comfortable space to sing. Have lyrics available. If possible, invite family members to join — rounds require multiple singers. Record your singing to listen back."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The human voice is the oldest musical instrument. Singing together is one of the most powerful human experiences — it releases endorphins, builds community, and creates beauty. From Gregorian chant to modern pop, choral music (singing in groups) has been central to human culture for thousands of years."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Singing warm-ups: (1) BREATHING — place hands on your belly. Breathe in through your nose and feel your belly push out (diaphragmatic breathing). Breathe out slowly through your mouth. (2) HUMMING — hum a comfortable note. Feel the vibration in your lips, nose, and chest. (3) SCALES — sing 'do-re-mi-fa-sol-la-ti-do' up and down. (4) LIP TRILLS — blow air through closed lips while humming a melody."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "A ROUND (or canon) is the simplest form of harmony: the same melody is sung by different voices entering at different times. You already know one: 'Row, Row, Row Your Boat.' Singer 1 starts. When they reach 'gently down the stream,' Singer 2 begins from the start. The two melodies weave together beautifully."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Now try 'Dona Nobis Pacem' (Give Us Peace) — a traditional three-part round. It has three phrases, each beginning where the previous one leaves off. Part 1 starts singing. When they reach phrase 2, Part 2 starts at the beginning. When Part 1 reaches phrase 3, Part 3 starts. The result is three-part harmony from a single melody!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice session: (1) Sing 'Row Row Row Your Boat' as a round with at least 2 parts. (2) Learn and sing 'Dona Nobis Pacem' — first in unison (everyone singing the same), then as a 2 or 3-part round. (3) Try one more round: 'Frere Jacques.' (4) In your music notebook, write about the experience: How does it FEEL when harmonies lock in? What is the hardest part about singing in a round? Record a performance if possible.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "When voices blend in harmony, something magical happens — the whole is greater than the sum of its parts. This is true in music and in life. Singing together teaches you to listen, to support others, and to contribute your own voice to something larger than yourself.",
+          "mastery_check": "Can the student maintain their part while singing a round with at least one other person?"
+        }
       ]
     },
     "parent_notes": "Singing is one of the most accessible and beneficial musical activities. Do not worry about vocal quality — participation matters more than perfection. Singing rounds is a wonderful family activity that requires no instruments or training. If you have 3+ family members, three-part rounds are magical. The breathing exercises improve not just singing but also speaking, sports, and stress management. If your child is self-conscious about singing, normalize it — sing together casually during chores or car rides first.",
@@ -542,17 +1410,62 @@
     "instructions": "1. Review the service project proposal from week 10.\n2. Finalize timeline and gather all needed materials.\n3. Execute the project (or the first major phase of it).\n4. Document with photos, notes, and observations.\n5. Reflect on challenges encountered and how they were solved.\n6. Discuss the impact: Who did this help? How do you know?\n7. Write a reflection journal entry.\n8. Plan next steps if the project is ongoing.",
     "duration_minutes": 60,
     "lesson_type": "collaborative",
-    "materials_needed": ["Service project materials (varies by project)", "Camera or phone for documentation", "Journal", "Pencil", "Service project proposal from week 10"],
+    "materials_needed": [
+      "Service project materials (varies by project)",
+      "Camera or phone for documentation",
+      "Journal",
+      "Pencil",
+      "Service project proposal from week 10"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Community Service", "subheading": "Putting Your Plan into Action"},
-        {"type": "materials", "items": ["Your project proposal from week 10", "All materials needed for your project", "Camera for documentation", "Journal", "Pencil"], "setup_instructions": "Review your service project proposal. Gather all materials you identified. Set a clear start and end time for today's service work."},
-        {"type": "instruction", "step": 1, "text": "Today you move from planning to DOING. Review your proposal: What is the goal? What are the steps? What materials do you need? Service is not just about good intentions — it requires preparation, organization, and follow-through. This is where practical life skills meet compassion."},
-        {"type": "instruction", "step": 2, "text": "As you work, document your service: take photos of the process, write brief notes about what you are doing and why, notice how the work makes you feel. Documentation is important because: (1) It helps you reflect and learn. (2) It can inspire others to serve. (3) It creates a portfolio of your community impact."},
-        {"type": "instruction", "step": 3, "text": "Problem-solving: Real projects rarely go exactly as planned. If you encounter an obstacle, pause and think: What is the problem? What are possible solutions? Which solution is most practical? Adapt your plan as needed. Flexibility and persistence are essential life skills."},
-        {"type": "instruction", "step": 4, "text": "After completing today's service work, reflect: (1) What went well? (2) What was harder than expected? (3) How did it feel to help others? (4) What did you learn? (5) If this is an ongoing project, what are the next steps? Write honest reflections — even if the project did not go perfectly, you grew from the experience."},
-        {"type": "activity", "prompt": "Write a detailed service reflection in your journal including: (1) What you did today (specific actions). (2) Who you helped and how. (3) The biggest challenge and how you handled it. (4) How the experience made you feel. (5) What you would do differently next time. (6) If applicable, a plan for continuing the project. Include photos or drawings documenting your work.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Service is not a one-time event — it is a way of life. The skills you used today (planning, organizing, executing, adapting, reflecting) are the same skills that make people effective in every area of life. But the most important thing you practiced today was caring about others.", "mastery_check": "Did the student execute their service project, document the experience, and write a thoughtful reflection?"}
+        {
+          "type": "title",
+          "heading": "Community Service",
+          "subheading": "Putting Your Plan into Action",
+          "image_url": "https://images.pexels.com/photos/8507615/pexels-photo-8507615.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Your project proposal from week 10",
+            "All materials needed for your project",
+            "Camera for documentation",
+            "Journal",
+            "Pencil"
+          ],
+          "setup_instructions": "Review your service project proposal. Gather all materials you identified. Set a clear start and end time for today's service work."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Today you move from planning to DOING. Review your proposal: What is the goal? What are the steps? What materials do you need? Service is not just about good intentions — it requires preparation, organization, and follow-through. This is where practical life skills meet compassion."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "As you work, document your service: take photos of the process, write brief notes about what you are doing and why, notice how the work makes you feel. Documentation is important because: (1) It helps you reflect and learn. (2) It can inspire others to serve. (3) It creates a portfolio of your community impact."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Problem-solving: Real projects rarely go exactly as planned. If you encounter an obstacle, pause and think: What is the problem? What are possible solutions? Which solution is most practical? Adapt your plan as needed. Flexibility and persistence are essential life skills."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "After completing today's service work, reflect: (1) What went well? (2) What was harder than expected? (3) How did it feel to help others? (4) What did you learn? (5) If this is an ongoing project, what are the next steps? Write honest reflections — even if the project did not go perfectly, you grew from the experience."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write a detailed service reflection in your journal including: (1) What you did today (specific actions). (2) Who you helped and how. (3) The biggest challenge and how you handled it. (4) How the experience made you feel. (5) What you would do differently next time. (6) If applicable, a plan for continuing the project. Include photos or drawings documenting your work.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Service is not a one-time event — it is a way of life. The skills you used today (planning, organizing, executing, adapting, reflecting) are the same skills that make people effective in every area of life. But the most important thing you practiced today was caring about others.",
+          "mastery_check": "Did the student execute their service project, document the experience, and write a thoughtful reflection?"
+        }
       ]
     },
     "parent_notes": "This is the action step for the community service project planned in week 10. Please support your child in actually carrying out the project — the follow-through is where the real learning happens. Participate alongside them if possible, but let them lead. The documentation and reflection are important for developing the habit of learning from experience. If the original project proved too ambitious, help your child scale it down to something achievable rather than abandoning it. Celebrate the effort regardless of the outcome.",
@@ -570,17 +1483,62 @@
     "instructions": "1. Review all persuasive writing components from weeks 10-12.\n2. Choose a compelling topic.\n3. Research: gather facts, statistics, and expert opinions.\n4. Create a detailed outline: introduction with hook and claim, body paragraphs with reasons and evidence, counterargument paragraph, conclusion.\n5. Draft the introduction with a strong hook.\n6. Draft body paragraphs.\n7. Draft counterargument and rebuttal paragraph.\n8. Draft the conclusion with a call to action.",
     "duration_minutes": 60,
     "lesson_type": "independent",
-    "materials_needed": ["Language notebook", "Pencil", "Outline template", "Research notes", "Persuasive techniques reference"],
+    "materials_needed": [
+      "Language notebook",
+      "Pencil",
+      "Outline template",
+      "Research notes",
+      "Persuasive techniques reference"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Persuasive Essay", "subheading": "Planning and Drafting"},
-        {"type": "materials", "items": ["Language notebook", "Pencil", "Outline template", "Research notes", "Your persuasive techniques reference card"], "setup_instructions": "Open notebook to a fresh spread. Have all your persuasive writing notes from previous lessons available for reference."},
-        {"type": "instruction", "step": 1, "text": "Today you write a COMPLETE persuasive essay — 5 paragraphs that integrate everything you have learned. This is a significant piece of writing that shows your ability to argue convincingly, address opposition, and write with sophistication. Choose a topic you genuinely care about — passion makes persuasive writing powerful."},
-        {"type": "instruction", "step": 2, "text": "Essay structure: PARAGRAPH 1 — Introduction: hook (question, surprising fact, or vivid scenario), context, thesis statement (your claim). PARAGRAPHS 2-3 — Body: Reason + Evidence in each. PARAGRAPH 4 — Counterargument and rebuttal. PARAGRAPH 5 — Conclusion: restate thesis, summarize key points, call to action."},
-        {"type": "instruction", "step": 3, "text": "Outline first, then draft. For your outline, write: Hook idea, Thesis statement, Reason 1 + Evidence, Reason 2 + Evidence, Counterargument + Rebuttal, Conclusion strategy. Fill in each section with notes before writing full sentences. This plan makes drafting much easier."},
-        {"type": "instruction", "step": 4, "text": "Quality checklist while drafting: Does my introduction hook the reader? Is my thesis clear and arguable? Does each body paragraph have a topic sentence, evidence, and explanation? Did I address the strongest counterargument? Does my conclusion do more than just repeat the introduction? Did I use varied sentence types? Did I use persuasive techniques (emotional appeal, rhetorical questions, strong verbs)?"},
-        {"type": "activity", "prompt": "Write your complete 5-paragraph persuasive essay. Use the outline you created. Include: (1) A compelling introduction with a hook and clear thesis. (2) Two body paragraphs, each with a reason supported by specific evidence. (3) A counterargument paragraph that fairly states the opposing view and offers a strong rebuttal. (4) A conclusion with a call to action. Aim for 300-400 words total. Underline your thesis and circle your persuasive techniques.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Completing a full persuasive essay is a major milestone. You have learned to state a claim, support it with evidence, address opposition fairly, and write with persuasive power. These are the foundations of academic writing, debate, and effective communication in every area of life.", "mastery_check": "Can the student produce a complete 5-paragraph persuasive essay with claim, evidence, counterargument, rebuttal, and conclusion?"}
+        {
+          "type": "title",
+          "heading": "Persuasive Essay",
+          "subheading": "Planning and Drafting",
+          "image_url": "https://images.pexels.com/photos/256468/pexels-photo-256468.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Language notebook",
+            "Pencil",
+            "Outline template",
+            "Research notes",
+            "Your persuasive techniques reference card"
+          ],
+          "setup_instructions": "Open notebook to a fresh spread. Have all your persuasive writing notes from previous lessons available for reference."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Today you write a COMPLETE persuasive essay — 5 paragraphs that integrate everything you have learned. This is a significant piece of writing that shows your ability to argue convincingly, address opposition, and write with sophistication. Choose a topic you genuinely care about — passion makes persuasive writing powerful."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Essay structure: PARAGRAPH 1 — Introduction: hook (question, surprising fact, or vivid scenario), context, thesis statement (your claim). PARAGRAPHS 2-3 — Body: Reason + Evidence in each. PARAGRAPH 4 — Counterargument and rebuttal. PARAGRAPH 5 — Conclusion: restate thesis, summarize key points, call to action."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Outline first, then draft. For your outline, write: Hook idea, Thesis statement, Reason 1 + Evidence, Reason 2 + Evidence, Counterargument + Rebuttal, Conclusion strategy. Fill in each section with notes before writing full sentences. This plan makes drafting much easier."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Quality checklist while drafting: Does my introduction hook the reader? Is my thesis clear and arguable? Does each body paragraph have a topic sentence, evidence, and explanation? Did I address the strongest counterargument? Does my conclusion do more than just repeat the introduction? Did I use varied sentence types? Did I use persuasive techniques (emotional appeal, rhetorical questions, strong verbs)?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your complete 5-paragraph persuasive essay. Use the outline you created. Include: (1) A compelling introduction with a hook and clear thesis. (2) Two body paragraphs, each with a reason supported by specific evidence. (3) A counterargument paragraph that fairly states the opposing view and offers a strong rebuttal. (4) A conclusion with a call to action. Aim for 300-400 words total. Underline your thesis and circle your persuasive techniques.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Completing a full persuasive essay is a major milestone. You have learned to state a claim, support it with evidence, address opposition fairly, and write with persuasive power. These are the foundations of academic writing, debate, and effective communication in every area of life.",
+          "mastery_check": "Can the student produce a complete 5-paragraph persuasive essay with claim, evidence, counterargument, rebuttal, and conclusion?"
+        }
       ]
     },
     "parent_notes": "This essay represents the culmination of the persuasive writing unit. Review your child's work using the checklist in the lesson. Offer specific praise ('Your hook really grabbed my attention' or 'This counterargument shows you truly understand the other side') rather than vague comments. If the essay needs revision, focus on one or two areas rather than overwhelming with corrections. Save this essay as a portfolio piece — it demonstrates significant writing growth. Consider having your child read the essay aloud to the family.",
@@ -598,17 +1556,62 @@
     "instructions": "1. Define quadrilateral: a polygon with 4 sides and 4 angles.\n2. Discover: angles in a quadrilateral sum to 360°.\n3. Study each type and its defining properties.\n4. Create a hierarchy chart showing how types relate.\n5. Measure angles and sides to classify quadrilaterals.\n6. Explore: every square is a rectangle, but not every rectangle is a square.\n7. Find quadrilaterals in architecture and design.\n8. Draw and classify various quadrilaterals.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Math notebook", "Pencil", "Protractor", "Ruler", "Colored pencils"],
+    "materials_needed": [
+      "Math notebook",
+      "Pencil",
+      "Protractor",
+      "Ruler",
+      "Colored pencils"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Quadrilaterals", "subheading": "The Four-Sided Family"},
-        {"type": "materials", "items": ["Math notebook", "Pencil", "Protractor", "Ruler", "Colored pencils"], "setup_instructions": "Open notebook. Have protractor and ruler ready. You will draw many quadrilaterals today."},
-        {"type": "instruction", "step": 1, "text": "A QUADRILATERAL is any polygon with 4 sides. Just as triangle angles sum to 180°, quadrilateral angles sum to 360° (because any quadrilateral can be divided into 2 triangles: 2 × 180° = 360°). Draw any quadrilateral, measure all 4 angles, and verify they sum to 360°."},
-        {"type": "instruction", "step": 2, "text": "The quadrilateral family: PARALLELOGRAM — opposite sides parallel and equal. RECTANGLE — parallelogram with 4 right angles. RHOMBUS — parallelogram with 4 equal sides. SQUARE — rectangle AND rhombus: 4 equal sides AND 4 right angles. TRAPEZOID — exactly one pair of parallel sides. KITE — two pairs of consecutive equal sides."},
-        {"type": "instruction", "step": 3, "text": "The hierarchy (this is important!): Every SQUARE is a RECTANGLE (it has 4 right angles). Every SQUARE is a RHOMBUS (it has 4 equal sides). Every RECTANGLE is a PARALLELOGRAM. Every RHOMBUS is a PARALLELOGRAM. But NOT every rectangle is a square, and NOT every parallelogram is a rectangle. Draw this as a flow chart."},
-        {"type": "instruction", "step": 4, "text": "Properties to check: PARALLEL SIDES (use a ruler to check if sides would never meet). RIGHT ANGLES (use the protractor or a corner of paper). EQUAL SIDES (measure with a ruler). EQUAL DIAGONALS (draw the diagonals and measure). These properties determine the classification."},
-        {"type": "activity", "prompt": "Complete these tasks: (1) Draw one example of each: parallelogram, rectangle, rhombus, square, trapezoid, kite. Label all sides and angles. (2) Create a Venn diagram or hierarchy chart showing relationships (which types contain which other types). (3) True or false (explain each): a) Every square is a rhombus. b) Every rhombus is a square. c) Every rectangle is a parallelogram. d) Every trapezoid is a parallelogram. (4) Find the missing angle: a quadrilateral has angles 90°, 90°, 110°, ?. (5) Hunt for quadrilaterals in your room — classify each one.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "Quadrilaterals are everywhere in human design — windows, doors, screens, books, tables, tiles. Understanding their properties helps in architecture, engineering, art, and beyond. The hierarchy of quadrilaterals teaches an important mathematical concept: classification based on properties.", "mastery_check": "Can the student classify quadrilaterals by their properties, understand the hierarchy of relationships, and apply the 360° angle sum property?"}
+        {
+          "type": "title",
+          "heading": "Quadrilaterals",
+          "subheading": "The Four-Sided Family",
+          "image_url": "https://images.pexels.com/photos/1019470/pexels-photo-1019470.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Math notebook",
+            "Pencil",
+            "Protractor",
+            "Ruler",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Open notebook. Have protractor and ruler ready. You will draw many quadrilaterals today."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A QUADRILATERAL is any polygon with 4 sides. Just as triangle angles sum to 180°, quadrilateral angles sum to 360° (because any quadrilateral can be divided into 2 triangles: 2 × 180° = 360°). Draw any quadrilateral, measure all 4 angles, and verify they sum to 360°."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The quadrilateral family: PARALLELOGRAM — opposite sides parallel and equal. RECTANGLE — parallelogram with 4 right angles. RHOMBUS — parallelogram with 4 equal sides. SQUARE — rectangle AND rhombus: 4 equal sides AND 4 right angles. TRAPEZOID — exactly one pair of parallel sides. KITE — two pairs of consecutive equal sides."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The hierarchy (this is important!): Every SQUARE is a RECTANGLE (it has 4 right angles). Every SQUARE is a RHOMBUS (it has 4 equal sides). Every RECTANGLE is a PARALLELOGRAM. Every RHOMBUS is a PARALLELOGRAM. But NOT every rectangle is a square, and NOT every parallelogram is a rectangle. Draw this as a flow chart."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Properties to check: PARALLEL SIDES (use a ruler to check if sides would never meet). RIGHT ANGLES (use the protractor or a corner of paper). EQUAL SIDES (measure with a ruler). EQUAL DIAGONALS (draw the diagonals and measure). These properties determine the classification."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete these tasks: (1) Draw one example of each: parallelogram, rectangle, rhombus, square, trapezoid, kite. Label all sides and angles. (2) Create a Venn diagram or hierarchy chart showing relationships (which types contain which other types). (3) True or false (explain each): a) Every square is a rhombus. b) Every rhombus is a square. c) Every rectangle is a parallelogram. d) Every trapezoid is a parallelogram. (4) Find the missing angle: a quadrilateral has angles 90°, 90°, 110°, ?. (5) Hunt for quadrilaterals in your room — classify each one.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Quadrilaterals are everywhere in human design — windows, doors, screens, books, tables, tiles. Understanding their properties helps in architecture, engineering, art, and beyond. The hierarchy of quadrilaterals teaches an important mathematical concept: classification based on properties.",
+          "mastery_check": "Can the student classify quadrilaterals by their properties, understand the hierarchy of relationships, and apply the 360° angle sum property?"
+        }
       ]
     },
     "parent_notes": "The quadrilateral hierarchy is a concept that challenges many students (and adults!). The key insight is that classification is based on PROPERTIES: a square has all the properties of a rectangle (4 right angles) AND all the properties of a rhombus (4 equal sides), so it belongs to both categories. The Venn diagram or hierarchy chart is a valuable reference. Connect to the real world: look for different quadrilaterals in your home, in architecture, and in nature (crystals). The castle architecture from the art lesson provides many examples.",
@@ -626,17 +1629,62 @@
     "instructions": "1. The path to knighthood: page (age 7), squire (age 14), knight (age 21).\n2. Training: horsemanship, swordsmanship, jousting, courtesy, reading, music.\n3. The dubbing ceremony: vigil, oath, accolade.\n4. Arms and armor: chainmail to plate armor, swords, lances, shields.\n5. The code of chivalry: courage, loyalty, honor, courtesy, protection of the weak.\n6. Discuss: How well did knights actually follow the code? Ideal vs. reality.\n7. Heraldry connection: identifying knights in battle.\n8. Students create a 'Knight's Handbook' summarizing the path, equipment, and code.",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["History notebook", "Colored pencils", "Pencil", "Reference images of armor and weapons", "Coat of arms from week 10"],
+    "materials_needed": [
+      "History notebook",
+      "Colored pencils",
+      "Pencil",
+      "Reference images of armor and weapons",
+      "Coat of arms from week 10"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Knights and Chivalry", "subheading": "The Medieval Warrior Code"},
-        {"type": "materials", "items": ["History notebook", "Colored pencils", "Pencil", "Reference images of medieval armor", "Your coat of arms from week 10"], "setup_instructions": "Open history notebook. Find your coat of arms from week 10 for reference. Look up images of medieval knights and armor."},
-        {"type": "instruction", "step": 1, "text": "Becoming a knight was a 14-year process: PAGE (age 7-14) — a boy left home to serve in a lord's household, learning manners, reading, music, and beginning physical training. SQUIRE (age 14-21) — he served a specific knight, caring for armor and horses, learning combat, and fighting alongside his knight. KNIGHT (age 21) — after proving himself, he was 'dubbed' in a ceremony."},
-        {"type": "instruction", "step": 2, "text": "The dubbing ceremony: The night before, the squire kept a vigil (stayed awake all night in a chapel, praying and reflecting). At dawn, he bathed (symbolizing purification), dressed in white (purity), red (willingness to shed blood), and black (preparedness for death). He knelt before his lord, swore an oath, and was tapped on the shoulder with a sword — 'I dub thee knight.'"},
-        {"type": "instruction", "step": 3, "text": "Medieval armor evolved: CHAINMAIL (linked metal rings, flexible but heavy) → PLATE ARMOR (solid metal pieces, better protection, very heavy — a full suit weighed 45-55 pounds). Weapons: SWORD (the knight's primary weapon and symbol), LANCE (for jousting and cavalry charges), SHIELD (protection and identity through heraldry), MACE (for crushing armor)."},
-        {"type": "instruction", "step": 4, "text": "The code of chivalry idealized: VALOR (courage in battle), LOYALTY (to one's lord), HONOR (keeping promises), COURTESY (especially to women and elders), PROTECTION (defending the weak and the Church), GENEROSITY (to the poor). Reality check: many knights fell short. They could be brutal, greedy, and oppressive. Chivalry was an IDEAL, not always a practice."},
-        {"type": "activity", "prompt": "Create a 'Knight's Handbook' in your notebook: (1) A timeline showing the path from page to squire to knight with key milestones. (2) A labeled diagram of a knight in full armor (label at least 8 pieces of equipment). (3) The Code of Chivalry written in formal, medieval-style language. (4) A paragraph answering: Was the code of chivalry a genuine moral standard or just a nice story? Give evidence for your answer. (5) How does your coat of arms from week 10 connect to knightly identity?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "The knight is one of history's most romanticized figures. The reality was more complex than the legend — knights were both protectors and aggressors, honorable and brutal. Understanding this complexity teaches us that history is never as simple as heroes and villains.", "mastery_check": "Can the student describe the path to knighthood, identify key equipment and the code of chivalry, and critically evaluate the gap between chivalric ideals and reality?"}
+        {
+          "type": "title",
+          "heading": "Knights and Chivalry",
+          "subheading": "The Medieval Warrior Code",
+          "image_url": "https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "History notebook",
+            "Colored pencils",
+            "Pencil",
+            "Reference images of medieval armor",
+            "Your coat of arms from week 10"
+          ],
+          "setup_instructions": "Open history notebook. Find your coat of arms from week 10 for reference. Look up images of medieval knights and armor."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Becoming a knight was a 14-year process: PAGE (age 7-14) — a boy left home to serve in a lord's household, learning manners, reading, music, and beginning physical training. SQUIRE (age 14-21) — he served a specific knight, caring for armor and horses, learning combat, and fighting alongside his knight. KNIGHT (age 21) — after proving himself, he was 'dubbed' in a ceremony."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The dubbing ceremony: The night before, the squire kept a vigil (stayed awake all night in a chapel, praying and reflecting). At dawn, he bathed (symbolizing purification), dressed in white (purity), red (willingness to shed blood), and black (preparedness for death). He knelt before his lord, swore an oath, and was tapped on the shoulder with a sword — 'I dub thee knight.'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Medieval armor evolved: CHAINMAIL (linked metal rings, flexible but heavy) → PLATE ARMOR (solid metal pieces, better protection, very heavy — a full suit weighed 45-55 pounds). Weapons: SWORD (the knight's primary weapon and symbol), LANCE (for jousting and cavalry charges), SHIELD (protection and identity through heraldry), MACE (for crushing armor)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "The code of chivalry idealized: VALOR (courage in battle), LOYALTY (to one's lord), HONOR (keeping promises), COURTESY (especially to women and elders), PROTECTION (defending the weak and the Church), GENEROSITY (to the poor). Reality check: many knights fell short. They could be brutal, greedy, and oppressive. Chivalry was an IDEAL, not always a practice."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a 'Knight's Handbook' in your notebook: (1) A timeline showing the path from page to squire to knight with key milestones. (2) A labeled diagram of a knight in full armor (label at least 8 pieces of equipment). (3) The Code of Chivalry written in formal, medieval-style language. (4) A paragraph answering: Was the code of chivalry a genuine moral standard or just a nice story? Give evidence for your answer. (5) How does your coat of arms from week 10 connect to knightly identity?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The knight is one of history's most romanticized figures. The reality was more complex than the legend — knights were both protectors and aggressors, honorable and brutal. Understanding this complexity teaches us that history is never as simple as heroes and villains.",
+          "mastery_check": "Can the student describe the path to knighthood, identify key equipment and the code of chivalry, and critically evaluate the gap between chivalric ideals and reality?"
+        }
       ]
     },
     "parent_notes": "Knights fascinate children, making this an engaging lesson. The critical thinking component — was chivalry real or idealized? — is important for developing mature historical thinking. Help your child see that romantic portrayals of knights (in movies and games) often gloss over the violence and inequality of the feudal system. The dubbing ceremony is dramatic and memorable. The armor weight detail (45-55 pounds) can be made tangible — have your child wear a heavy backpack to feel what movement in armor was like. This lesson connects to the coat of arms art project and the feudalism history lesson.",
@@ -654,17 +1702,62 @@
     "instructions": "1. Review fish, amphibians, and reptiles from Day 4.\n2. Birds: feathers, hollow bones, beaks, warm-blooded, lay hard-shelled eggs, most fly.\n3. Discuss adaptations for flight: lightweight bones, efficient lungs, strong chest muscles.\n4. Mammals: fur/hair, mammary glands (milk), warm-blooded, most give live birth.\n5. Discuss the diversity of mammals: land, sea, air (bats), egg-laying (monotremes).\n6. The key innovation: being warm-blooded — why it matters.\n7. Create comprehensive comparison of all 5 vertebrate classes.\n8. Discuss: Which class is most successful? How do you define success?",
     "duration_minutes": 60,
     "lesson_type": "guided",
-    "materials_needed": ["Science notebook", "Colored pencils", "Pencil", "Animal reference materials", "Ruler"],
+    "materials_needed": [
+      "Science notebook",
+      "Colored pencils",
+      "Pencil",
+      "Animal reference materials",
+      "Ruler"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Vertebrate Classes", "subheading": "Birds and Mammals"},
-        {"type": "materials", "items": ["Science notebook", "Colored pencils", "Pencil", "Animal reference books or internet", "Ruler for chart"], "setup_instructions": "Open science notebook. Add two more pages to your vertebrate series. Have colored pencils ready for illustrations."},
-        {"type": "instruction", "step": 1, "text": "BIRDS: Over 10,000 species, found on every continent. Key features: FEATHERS (unique to birds — for flight, insulation, and display), HOLLOW BONES (lightweight for flight), BEAK instead of teeth (lighter), WARM-BLOODED (maintain constant body temperature), lay HARD-SHELLED EGGS, have a highly efficient respiratory system with air sacs."},
-        {"type": "instruction", "step": 2, "text": "How do birds fly? The combination of: (1) Lightweight hollow bones. (2) Powerful chest muscles (the breast muscles can be 25% of body weight). (3) Wing shape creates LIFT (same principle as airplane wings). (4) Feathers provide surface area and control. Not all birds fly — penguins swim, ostriches run. Flight is an adaptation, not a requirement for being a bird."},
-        {"type": "instruction", "step": 3, "text": "MAMMALS: About 6,400 species. Key features: HAIR or FUR (for insulation), MAMMARY GLANDS (produce milk to feed young), WARM-BLOODED, most give LIVE BIRTH (except monotremes: platypus, echidna), larger brain relative to body size than other vertebrates. Mammals live everywhere: land (elephants), sea (whales), air (bats), underground (moles)."},
-        {"type": "instruction", "step": 4, "text": "Why is being WARM-BLOODED (endothermic) important? It means you can be active in any temperature. Cold-blooded animals slow down in cold weather — a lizard on a cold morning cannot run from predators. Warm-blooded animals can hunt, flee, and function in any conditions. The cost: we need MUCH more food (about 10x more than a same-sized reptile) to fuel our internal furnace."},
-        {"type": "activity", "prompt": "Create a MASTER COMPARISON CHART of all 5 vertebrate classes with these columns: Class, Body Covering, Breathing, Temperature, Reproduction, Habitat, Number of Species, Example. Then answer: (1) Which class has the most species? (2) Which class are humans in? List 5 characteristics that prove it. (3) Is a penguin a bird or a mammal? How do you know? (4) Is a whale a fish or a mammal? Explain. (5) Which vertebrate class do you think is most 'successful' and why?", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "From fish to mammals, vertebrates represent over 500 million years of evolution. Each class developed adaptations for its environment — gills for water, lungs for air, feathers for flight, fur for warmth. Understanding these relationships helps us see the unity and diversity of life.", "mastery_check": "Can the student describe key characteristics of all 5 vertebrate classes and compare them across multiple categories?"}
+        {
+          "type": "title",
+          "heading": "Vertebrate Classes",
+          "subheading": "Birds and Mammals",
+          "image_url": "https://images.pexels.com/photos/5063470/pexels-photo-5063470.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Science notebook",
+            "Colored pencils",
+            "Pencil",
+            "Animal reference books or internet",
+            "Ruler for chart"
+          ],
+          "setup_instructions": "Open science notebook. Add two more pages to your vertebrate series. Have colored pencils ready for illustrations."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "BIRDS: Over 10,000 species, found on every continent. Key features: FEATHERS (unique to birds — for flight, insulation, and display), HOLLOW BONES (lightweight for flight), BEAK instead of teeth (lighter), WARM-BLOODED (maintain constant body temperature), lay HARD-SHELLED EGGS, have a highly efficient respiratory system with air sacs."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "How do birds fly? The combination of: (1) Lightweight hollow bones. (2) Powerful chest muscles (the breast muscles can be 25% of body weight). (3) Wing shape creates LIFT (same principle as airplane wings). (4) Feathers provide surface area and control. Not all birds fly — penguins swim, ostriches run. Flight is an adaptation, not a requirement for being a bird."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "MAMMALS: About 6,400 species. Key features: HAIR or FUR (for insulation), MAMMARY GLANDS (produce milk to feed young), WARM-BLOODED, most give LIVE BIRTH (except monotremes: platypus, echidna), larger brain relative to body size than other vertebrates. Mammals live everywhere: land (elephants), sea (whales), air (bats), underground (moles)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Why is being WARM-BLOODED (endothermic) important? It means you can be active in any temperature. Cold-blooded animals slow down in cold weather — a lizard on a cold morning cannot run from predators. Warm-blooded animals can hunt, flee, and function in any conditions. The cost: we need MUCH more food (about 10x more than a same-sized reptile) to fuel our internal furnace."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a MASTER COMPARISON CHART of all 5 vertebrate classes with these columns: Class, Body Covering, Breathing, Temperature, Reproduction, Habitat, Number of Species, Example. Then answer: (1) Which class has the most species? (2) Which class are humans in? List 5 characteristics that prove it. (3) Is a penguin a bird or a mammal? How do you know? (4) Is a whale a fish or a mammal? Explain. (5) Which vertebrate class do you think is most 'successful' and why?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "From fish to mammals, vertebrates represent over 500 million years of evolution. Each class developed adaptations for its environment — gills for water, lungs for air, feathers for flight, fur for warmth. Understanding these relationships helps us see the unity and diversity of life.",
+          "mastery_check": "Can the student describe key characteristics of all 5 vertebrate classes and compare them across multiple categories?"
+        }
       ]
     },
     "parent_notes": "This lesson completes the vertebrate survey. The master comparison chart is a valuable reference for the rest of the biology unit. The tricky classification questions (Is a penguin a bird? Is a whale a mammal?) teach children to classify based on CHARACTERISTICS rather than superficial appearance. The 'which class is most successful' question has no right answer but sparks excellent critical thinking. If you have pets, identify their class and discuss their specific adaptations. Bird watching is a wonderful extension activity that combines science and outdoor time.",
@@ -682,17 +1775,62 @@
     "instructions": "1. Introduce the Bayeux Tapestry: 230 feet long, tells the story of the Norman Conquest (1066).\n2. Examine sections: how the story unfolds in sequential panels.\n3. Discuss tapestry as a medium: embroidery on linen, years to create.\n4. Analyze the visual storytelling techniques: figures, borders, Latin text.\n5. Students choose a story to tell in tapestry form.\n6. Create a long narrative strip with sequential scenes.\n7. Add borders with decorative elements.\n8. Present the tapestry, narrating the story it tells.",
     "duration_minutes": 60,
     "lesson_type": "independent",
-    "materials_needed": ["Long strip of paper (or taped sheets)", "Colored pencils or markers", "Pencil", "Ruler", "Reference images of Bayeux Tapestry"],
+    "materials_needed": [
+      "Long strip of paper (or taped sheets)",
+      "Colored pencils or markers",
+      "Pencil",
+      "Ruler",
+      "Reference images of Bayeux Tapestry"
+    ],
     "slide_content": {
       "slides": [
-        {"type": "title", "heading": "Tapestry Art", "subheading": "The Bayeux Tapestry and Visual Storytelling"},
-        {"type": "materials", "items": ["Long paper strip (tape sheets together for at least 3 feet)", "Colored pencils or markers", "Pencil", "Ruler", "Images of the Bayeux Tapestry"], "setup_instructions": "Tape several sheets of paper together to create a long strip at least 3 feet long and about 8 inches tall. Look up images of the Bayeux Tapestry online."},
-        {"type": "instruction", "step": 1, "text": "The Bayeux Tapestry is one of the world's greatest works of narrative art. Created around 1070 CE, it is actually an embroidery (not a woven tapestry) on linen cloth, measuring 230 feet long and 20 inches tall. It tells the story of the Norman Conquest of England in 1066 through 58 scenes, like a medieval comic strip."},
-        {"type": "instruction", "step": 2, "text": "Study how it works: figures are shown in profile (side view), arranged left to right in chronological order. A top border and bottom border feature animals, symbols, and scenes of daily life. Brief Latin text identifies key characters and events. The flat, stylized figures convey action clearly even from a distance."},
-        {"type": "instruction", "step": 3, "text": "Choose your story. It can be: (a) A historical event you have studied (the Fall of Rome, a Viking voyage, the building of a castle). (b) A personal narrative (your family's story, a memorable trip, a year of your life). (c) A retelling of a story you love. Plan at least 6 sequential scenes."},
-        {"type": "instruction", "step": 4, "text": "Create your tapestry: (1) Divide your strip into panels with pencil lines. (2) Sketch figures in a flat, medieval style (profile views, simple shapes). (3) Add a decorative top and bottom border. (4) Add brief text labels for each scene. (5) Color with flat, bold colors (medieval tapestries used limited palettes: blues, reds, greens, yellows, black)."},
-        {"type": "activity", "prompt": "Complete your narrative tapestry strip. Include: at least 6 sequential scenes, figures in medieval flat style, decorative borders above and below, text labels identifying scenes, and consistent color scheme. When finished, display the tapestry and narrate the story to someone, pointing to each scene as you tell it — just as a medieval storyteller might have done.", "duration_minutes": 25},
-        {"type": "wrap_up", "text": "The Bayeux Tapestry has survived nearly 1,000 years and is still telling its story. Your tapestry tells YOUR story. Visual storytelling — telling stories through images — predates writing and continues today in comics, graphic novels, and film. You are part of an ancient tradition.", "mastery_check": "Did the student create a narrative tapestry strip with sequential scenes, medieval-inspired artistic style, and clear visual storytelling?"}
+        {
+          "type": "title",
+          "heading": "Tapestry Art",
+          "subheading": "The Bayeux Tapestry and Visual Storytelling",
+          "image_url": "https://images.pexels.com/photos/743986/pexels-photo-743986.jpeg?auto=compress&cs=tinysrgb&w=800"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Long paper strip (tape sheets together for at least 3 feet)",
+            "Colored pencils or markers",
+            "Pencil",
+            "Ruler",
+            "Images of the Bayeux Tapestry"
+          ],
+          "setup_instructions": "Tape several sheets of paper together to create a long strip at least 3 feet long and about 8 inches tall. Look up images of the Bayeux Tapestry online."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The Bayeux Tapestry is one of the world's greatest works of narrative art. Created around 1070 CE, it is actually an embroidery (not a woven tapestry) on linen cloth, measuring 230 feet long and 20 inches tall. It tells the story of the Norman Conquest of England in 1066 through 58 scenes, like a medieval comic strip."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Study how it works: figures are shown in profile (side view), arranged left to right in chronological order. A top border and bottom border feature animals, symbols, and scenes of daily life. Brief Latin text identifies key characters and events. The flat, stylized figures convey action clearly even from a distance."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Choose your story. It can be: (a) A historical event you have studied (the Fall of Rome, a Viking voyage, the building of a castle). (b) A personal narrative (your family's story, a memorable trip, a year of your life). (c) A retelling of a story you love. Plan at least 6 sequential scenes."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Create your tapestry: (1) Divide your strip into panels with pencil lines. (2) Sketch figures in a flat, medieval style (profile views, simple shapes). (3) Add a decorative top and bottom border. (4) Add brief text labels for each scene. (5) Color with flat, bold colors (medieval tapestries used limited palettes: blues, reds, greens, yellows, black)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete your narrative tapestry strip. Include: at least 6 sequential scenes, figures in medieval flat style, decorative borders above and below, text labels identifying scenes, and consistent color scheme. When finished, display the tapestry and narrate the story to someone, pointing to each scene as you tell it — just as a medieval storyteller might have done.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Bayeux Tapestry has survived nearly 1,000 years and is still telling its story. Your tapestry tells YOUR story. Visual storytelling — telling stories through images — predates writing and continues today in comics, graphic novels, and film. You are part of an ancient tradition.",
+          "mastery_check": "Did the student create a narrative tapestry strip with sequential scenes, medieval-inspired artistic style, and clear visual storytelling?"
+        }
       ]
     },
     "parent_notes": "The Bayeux Tapestry is a masterpiece of narrative art and an important historical document. Looking at it online is essential for this project. The tapestry-making process connects art, history, and storytelling. Children love the comic-strip-like format. The presentation component (narrating while pointing) is a public speaking exercise. If your child enjoys this, the tapestry can be extended over time to tell more of the story. The project can also be done with fabric and embroidery for a more authentic experience.",
