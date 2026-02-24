@@ -1,0 +1,1916 @@
+[
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 22,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Introduction to Debate — Structure and Persuasion",
+    "description": "Students learn the foundational structure of formal debate, including claim, evidence, and reasoning. They examine how effective debaters construct arguments and practice distinguishing between strong and weak evidence to support a position.",
+    "instructions": "1. Define debate as a structured discussion where two sides present arguments on a topic.\n2. Explain the basic debate structure: opening statement, arguments, rebuttals, closing statement.\n3. Introduce the CER framework: Claim (your position), Evidence (facts that support it), Reasoning (why the evidence matters).\n4. Model building a CER argument on a simple topic: 'Schools should have longer recess.'\n5. Discuss types of evidence: statistics, expert opinions, examples, analogies.\n6. Practice distinguishing strong evidence from weak evidence.\n7. Introduce logical fallacies to watch for: ad hominem, false dichotomy, appeal to emotion without evidence.\n8. Students practice building CER arguments on assigned topics.\n9. Share arguments and evaluate evidence strength.\n10. Discuss: Why is the ability to argue logically important in a democracy?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "CER framework reference card",
+      "Debate structure poster",
+      "Evidence strength sorting cards",
+      "Practice debate topics list",
+      "Logical fallacies reference sheet",
+      "Lined paper",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Introduction to Debate",
+          "subheading": "Building Arguments with Structure and Evidence"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "CER framework reference card",
+            "Debate structure poster",
+            "Evidence strength sorting cards",
+            "Practice debate topics list",
+            "Logical fallacies reference sheet",
+            "Lined paper",
+            "Pencils"
+          ],
+          "setup_instructions": "Display the debate structure poster. Distribute CER reference cards and logical fallacies sheets. Prepare evidence sorting cards with examples of strong and weak evidence for the same claim."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A DEBATE is not an argument or a fight — it is a structured, respectful exchange of ideas where both sides present evidence to support their position. Debating teaches you to think critically, communicate clearly, and consider perspectives different from your own. These skills are essential in school, careers, and civic life."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Every debate argument uses the CER framework: CLAIM — a clear statement of your position ('Schools should have 30-minute recesses'). EVIDENCE — specific facts, data, or examples that support your claim ('Studies show students who have longer recess score 15% higher on afternoon tests'). REASONING — explains WHY the evidence supports the claim ('This shows that physical activity improves focus and academic performance')."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Not all evidence is equal. STRONG evidence includes: verified statistics, expert opinions, scientific studies, and well-documented examples. WEAK evidence includes: personal anecdotes presented as proof, unverified claims, emotional appeals without facts, and opinions stated as facts. A good debater uses the strongest available evidence."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Watch out for LOGICAL FALLACIES — errors in reasoning that sound convincing but are not valid. AD HOMINEM: attacking the person instead of their argument. FALSE DICHOTOMY: presenting only two options when more exist. APPEAL TO EMOTION: using feelings instead of facts. BANDWAGON: 'Everyone thinks so, so it must be true.' Recognizing fallacies makes you a stronger thinker and debater."
+        },
+        {
+          "type": "activity",
+          "prompt": "Build your first debate argument: (1) Choose a topic from the list or propose your own. (2) Write a clear CLAIM statement. (3) Find or create three pieces of EVIDENCE — rate each as strong or weak and explain why. (4) Write REASONING for each piece of evidence explaining why it supports your claim. (5) Review the logical fallacies sheet — does your argument accidentally contain any? Fix them. (6) Share your CER argument with a partner who disagrees. Can they identify weaknesses? Revise based on feedback.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Debate is not about winning — it is about thinking clearly and communicating persuasively with evidence. The CER framework you learned today is the foundation of every strong argument, whether in a formal debate, a persuasive essay, or a discussion about an important issue. Tomorrow, we will learn how to anticipate and respond to opposing arguments through rebuttals.",
+          "mastery_check": "Can the student construct a debate argument using the CER framework, distinguish between strong and weak evidence, and identify common logical fallacies?"
+        }
+      ]
+    },
+    "parent_notes": "Debate skills are among the most valuable communication tools your child can develop. They learn not just to argue a point, but to think critically about evidence quality and logical reasoning. Practice at home by discussing topics where family members have different views — model respectful disagreement supported by reasons. The CER framework (Claim, Evidence, Reasoning) transfers to persuasive writing, science explanations, and everyday decision-making. Encourage your child to question evidence they encounter in media: Is it strong or weak? Is there a logical fallacy?",
+    "age_adaptations": null,
+    "sort_order": 1
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 22,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Introduction to Variables — Letters That Stand for Numbers",
+    "description": "Students are introduced to the concept of variables as letters that represent unknown or changing numbers. They learn to write and evaluate simple algebraic expressions, connecting variables to patterns and real-world situations they already understand.",
+    "instructions": "1. Pose a mystery: 'I am thinking of a number. When I add 5 to it, I get 12. What is my number?'\n2. Introduce the variable as a letter that represents an unknown number.\n3. Write the mystery as an equation: x + 5 = 12.\n4. Discuss why mathematicians use variables: efficiency and generalization.\n5. Practice translating word phrases into algebraic expressions.\n6. Introduce evaluation: replacing a variable with a number to find the value.\n7. Evaluate expressions for given values of the variable.\n8. Connect variables to patterns: the nth term of a sequence.\n9. Students practice writing and evaluating expressions.\n10. Discuss: How do variables help us describe rules and patterns?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Variable definition cards",
+      "Expression translation worksheet",
+      "Evaluation practice problems",
+      "Algebra tiles or colored chips",
+      "Pattern sequence cards",
+      "Lined paper",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Introduction to Variables",
+          "subheading": "Letters That Stand for Numbers"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Variable definition cards",
+            "Expression translation worksheet",
+            "Evaluation practice problems",
+            "Algebra tiles or colored chips",
+            "Pattern sequence cards",
+            "Lined paper",
+            "Pencils"
+          ],
+          "setup_instructions": "Prepare algebra tiles or colored chips to represent variables and constants visually. Print expression translation worksheets and evaluation practice sheets. Have pattern sequence cards ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A VARIABLE is a letter that stands for a number — usually a number we do not know yet or a number that can change. Instead of saying 'some number plus five equals twelve,' mathematicians write: x + 5 = 12. The letter x is the variable. It represents the unknown number we want to find. Any letter can be a variable: n, y, a, t."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "TRANSLATING words into algebra: 'a number plus 7' becomes n + 7. 'Three times a number' becomes 3n (or 3 x n). 'A number minus 4' becomes n - 4. 'A number divided by 2' becomes n/2. Key vocabulary: 'plus/added to/sum' = addition. 'Times/product/of' = multiplication. 'Minus/difference/less than' = subtraction. 'Divided by/quotient' = division."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "EVALUATING an expression means replacing the variable with a specific number and calculating. If n = 4, then 3n + 2 = 3(4) + 2 = 12 + 2 = 14. To evaluate: (1) Write the expression. (2) Replace every n with the given number. (3) Follow order of operations. (4) Calculate the result. Practice: If x = 5, what is 2x - 3? Answer: 2(5) - 3 = 10 - 3 = 7."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Variables help us describe PATTERNS. Look at the pattern 3, 6, 9, 12... The rule is 'multiply the position by 3.' Position 1: 3(1)=3. Position 2: 3(2)=6. Position n: 3n. Now you can find ANY term. The 100th term? 3(100)=300. Variables turn specific examples into general rules that work for any number."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice with variables: (1) Translate 10 word phrases into algebraic expressions (use the worksheet). (2) Evaluate these expressions for x = 3: 4x, x + 10, 2x - 1, x/3 + 5, 3x + 7. (3) Find the rule for each pattern and write it with a variable: Pattern A: 5, 10, 15, 20... Pattern B: 2, 5, 8, 11... Pattern C: 1, 4, 9, 16... (4) Use your rule to find the 20th term of each pattern. (5) Challenge: Write your own pattern, find the algebraic rule, and test it with a partner.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Variables are the gateway to algebra — one of the most powerful branches of mathematics. Today you learned that a single letter can represent any number, and that expressions with variables can describe patterns and relationships. Tomorrow, we will use variables to write and solve EQUATIONS — finding the mystery number that makes a mathematical sentence true.",
+          "mastery_check": "Can the student define what a variable is, translate word phrases into algebraic expressions, evaluate expressions for given values, and use variables to describe pattern rules?"
+        }
+      ]
+    },
+    "parent_notes": "Variables are the bridge between arithmetic and algebra. This lesson introduces a concept your child will use throughout middle school, high school, and beyond. The key insight is that letters in math are not mysterious — they simply stand for numbers we have not identified yet. At home, create simple variable problems: 'I bought some apples at $2 each and spent $10. How many apples did I buy?' (2a = 10, a = 5). If your child is comfortable with variables, they are ready for algebra. If they find the concept abstract, use algebra tiles or physical objects to make it concrete.",
+    "age_adaptations": null,
+    "sort_order": 2
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 22,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "The Rise of Dictators — Seeds of World War II",
+    "description": "Students examine how the aftermath of World War I and the Great Depression created conditions for the rise of dictators in Europe and Asia. They study how Adolf Hitler, Benito Mussolini, and Emperor Hirohito gained power and how democratic institutions failed to prevent authoritarian rule.",
+    "instructions": "1. Connect to the Treaty of Versailles from last week: how did it affect Germany?\n2. Describe the economic devastation of the Great Depression across Europe.\n3. Explain how economic hardship and national humiliation create vulnerability to extreme leaders.\n4. Introduce Adolf Hitler and the Nazi Party's rise in Germany.\n5. Introduce Mussolini and Fascism in Italy.\n6. Discuss Japanese militarism and expansion in Asia.\n7. Compare the tactics each dictator used to gain power: propaganda, scapegoating, promises of glory.\n8. Discuss how democratic institutions were weakened or destroyed.\n9. Students create a comparison chart of the three dictators and their methods.\n10. Discuss: What warning signs indicate a democracy is in danger?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Rise of dictators reading packet",
+      "Comparison chart graphic organizer",
+      "1930s world map",
+      "Propaganda examples (age-appropriate)",
+      "Timeline template",
+      "Pencils",
+      "Colored pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "The Rise of Dictators",
+          "subheading": "How World War I's Aftermath Led to Authoritarianism"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Rise of dictators reading packet",
+            "Comparison chart graphic organizer",
+            "1930s world map",
+            "Propaganda examples (age-appropriate)",
+            "Timeline template",
+            "Pencils",
+            "Colored pencils"
+          ],
+          "setup_instructions": "Prepare an age-appropriate reading packet on the rise of Hitler, Mussolini, and Japanese militarism. Create a comparison chart organizer with columns for each leader and rows for tactics. Display the 1930s world map."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "After WWI, Europe was devastated. Germany was humiliated by the Treaty of Versailles and crushed by reparation debts. Then the GREAT DEPRESSION (1929) brought mass unemployment and poverty worldwide. When people are desperate, hungry, and angry, they become vulnerable to leaders who promise simple solutions and someone to blame."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "In Germany, ADOLF HITLER and the Nazi Party rose to power by blaming Germany's problems on the Treaty of Versailles, Jewish people, and democratic 'weakness.' Hitler promised to restore Germany's greatness. He used powerful propaganda, rallies, and fear to gain support, then destroyed democratic institutions once in power. By 1933, he was dictator."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "In Italy, BENITO MUSSOLINI created FASCISM — a system where the state has total power, individuality is crushed, and military strength is glorified. He came to power in 1922 using violence and intimidation. In Japan, military leaders gained control of the government and pursued aggressive expansion in Asia, invading Manchuria (China) in 1931."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "All three used similar tactics: (1) PROPAGANDA — controlling information and spreading lies. (2) SCAPEGOATING — blaming problems on minority groups. (3) NATIONALISM — extreme pride that views other nations as inferior. (4) MILITARY BUILDUP — building armies to project power. (5) SUPPRESSION OF OPPOSITION — silencing critics, banning other political parties, controlling the press."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a comparison chart: (1) List Hitler, Mussolini, and Japanese military leaders in three columns. (2) For each, record: country, year they gained power, promises they made, groups they scapegoated, how they destroyed democracy, and territories they seized. (3) Add key dates to your WWII timeline. (4) Write a reflection paragraph: What conditions allow dictators to rise? What are the warning signs that a democracy is in danger? (5) Discuss: How can citizens protect democracy?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The rise of dictators teaches us that democracy is not automatic — it must be actively protected. When people are desperate, when propaganda goes unchallenged, and when scapegoating replaces critical thinking, even the most advanced societies can fall into authoritarianism. Understanding HOW it happened is the first step in making sure it does not happen again.",
+          "mastery_check": "Can the student explain the conditions that allowed dictators to rise, compare the tactics of Hitler, Mussolini, and Japanese militarists, and discuss how democratic institutions can be protected?"
+        }
+      ]
+    },
+    "parent_notes": "This lesson addresses difficult but essential history. Understanding how dictators rise to power is a critical civic education objective. The lesson focuses on political and economic factors rather than graphic violence. Your child may have questions about Hitler, the Nazis, and the events that follow — answer honestly and age-appropriately. Emphasize that understanding these events helps us recognize warning signs in our own world. The discussion about protecting democracy connects history to present-day civic responsibility. Next week's lessons on the Holocaust will require careful emotional preparation.",
+    "age_adaptations": null,
+    "sort_order": 3
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "geography",
+    "week_number": 22,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Axis vs. Allies — Mapping the World at War",
+    "description": "Students map the global alliances of World War II, identifying the Axis powers, Allied powers, and neutral nations. They analyze how geography influenced military strategy, supply lines, and the course of the war on multiple continents.",
+    "instructions": "1. Introduce the two opposing sides of WWII: Axis and Allied powers.\n2. Identify the major Axis powers: Germany, Italy, Japan and their territories.\n3. Identify the major Allied powers: Britain, France, Soviet Union, United States, China.\n4. Locate neutral nations and discuss why some chose neutrality.\n5. Discuss how geography influenced the war: two-front war for Germany, island-hopping in the Pacific.\n6. Examine the concept of supply lines and why geography made them critical.\n7. Map the major theaters of war: European, Pacific, North African, Eastern Front.\n8. Students color-code a world map showing Axis, Allied, and neutral nations.\n9. Add arrows showing major military campaigns and supply routes.\n10. Discuss: How did geography give advantages or disadvantages to each side?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Blank world map (large format)",
+      "WWII alliance reference sheet",
+      "Colored pencils (at least 5 colors)",
+      "Atlas or globe",
+      "Theater of war reference cards",
+      "Rulers",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Axis vs. Allies",
+          "subheading": "Mapping the World at War (1939-1945)"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Blank world map (large format)",
+            "WWII alliance reference sheet",
+            "Colored pencils (at least 5 colors)",
+            "Atlas or globe",
+            "Theater of war reference cards",
+            "Rulers",
+            "Pencils"
+          ],
+          "setup_instructions": "Distribute large blank world maps. Prepare the alliance reference sheet listing all Axis, Allied, and major neutral nations. Have an atlas or globe available for reference. Create theater of war cards with key information."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "World War II was truly a WORLD war — fought on every continent except Antarctica. The AXIS POWERS were led by Germany (Hitler), Italy (Mussolini), and Japan (Tojo). They were joined by Hungary, Romania, Bulgaria, and others. The ALLIED POWERS were led by Britain (Churchill), the Soviet Union (Stalin), and the United States (Roosevelt), joined by France, China, Canada, Australia, and many others."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Look at the map and notice Germany's geographic problem: enemies on BOTH sides. Britain and France to the west, the Soviet Union to the east. Fighting a TWO-FRONT WAR meant splitting forces and supply lines. Japan faced a different geographic challenge: it needed oil and resources from distant Pacific islands, requiring a vast navy to control sea lanes."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The war was fought in multiple THEATERS: (1) EUROPEAN THEATER — from the invasion of Poland to D-Day and the fall of Berlin. (2) EASTERN FRONT — Germany vs. Soviet Union, the deadliest theater. (3) PACIFIC THEATER — island-by-island fighting across the vast Pacific Ocean. (4) NORTH AFRICAN THEATER — battles across Libya, Egypt, Tunisia, and Morocco."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "SUPPLY LINES were as important as battles. Armies need food, fuel, ammunition, and medicine. The ATLANTIC shipping lanes from the U.S. to Britain were targeted by German submarines. Japan's dependence on oil from Southeast Asia made those supply routes critical. Geographic control of straits, channels, and ports often determined who won."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a detailed WWII world map: (1) Color Axis nations in one color and Allied nations in another. Use a third color for neutral nations. (2) Mark the four major theaters of war with labels. (3) Draw arrows showing major military campaigns: Germany's invasion of Poland and France, Japan's Pacific expansion, the Allied D-Day invasion, and the Soviet push west. (4) Draw dotted lines showing critical supply routes across the Atlantic and Pacific. (5) Write a paragraph: Choose one theater and explain how geography shaped the fighting there.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "World War II was shaped by geography at every level — from the two-front problem that doomed Germany to the vast Pacific distances that challenged both Japan and the Allies. Understanding the geographic dimensions of the war helps us see why certain strategies succeeded and others failed. Maps do not just show where things happened — they help explain WHY they happened.",
+          "mastery_check": "Can the student identify and map the Axis and Allied powers, describe the four major theaters of war, explain how geography influenced military strategy, and discuss the importance of supply lines?"
+        }
+      ]
+    },
+    "parent_notes": "Mapping WWII alliances gives your child a global perspective on the war and develops geographic literacy. The concept of supply lines and strategic geography teaches systems thinking — understanding how parts connect to affect the whole. You can extend this lesson with documentary footage showing the geographic challenges of each theater. The key insight is that geography is not just background — it actively shapes historical events. If your child has family connections to WWII (many families do), sharing those stories adds personal meaning to the geographic and historical content.",
+    "age_adaptations": null,
+    "sort_order": 4
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 22,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Roll of Thunder, Hear My Cry — Chapters 5-6: Cassie's Awakening",
+    "description": "Students continue reading the novel as Cassie experiences racial humiliation firsthand during the trip to Strawberry. They analyze how this pivotal moment changes Cassie's understanding of her world and discuss the difference between knowing about injustice and experiencing it personally.",
+    "instructions": "1. Review events from Chapters 3-4 and check predictions from last session.\n2. Read Chapter 5: the trip to Strawberry and the incident at the Barnett store.\n3. Pause to discuss Cassie's shock when Mr. Barnett serves white customers first despite her being there first.\n4. Continue reading the encounter with Lillian Jean Simms on the sidewalk.\n5. Discuss Big Ma's forced apology and what it costs her dignity.\n6. Read Chapter 6 and Uncle Hammer's furious reaction.\n7. Analyze the contrast between Big Ma's caution and Uncle Hammer's anger.\n8. Discuss: Why do different characters respond to injustice differently?\n9. Students write journal responses analyzing Cassie's changing perspective.\n10. Connect to theme: the loss of innocence when confronting systemic injustice.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Roll of Thunder, Hear My Cry by Mildred Taylor",
+      "Reading journals",
+      "Character development tracker",
+      "Discussion question cards",
+      "Symbolism tracking sheet (ongoing)",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Roll of Thunder, Hear My Cry",
+          "subheading": "Chapters 5-6: Cassie's Awakening"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Roll of Thunder, Hear My Cry by Mildred Taylor",
+            "Reading journals",
+            "Character development tracker",
+            "Discussion question cards",
+            "Symbolism tracking sheet (ongoing)",
+            "Pencils"
+          ],
+          "setup_instructions": "Have the novel ready at Chapter 5. Prepare discussion questions focused on Cassie's perspective shift. Have students retrieve their character maps, reading journals, and symbolism trackers."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Chapters 5-6 are the turning point of the novel. Until now, Cassie has been somewhat sheltered on the family's land. The trip to STRAWBERRY forces her to confront the full reality of racism — not as something she has heard about, but as something happening TO HER. This shift from secondhand knowledge to personal experience is devastating and transformative."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "At the Barnett store, Mr. Barnett deliberately serves white customers who arrived after Cassie. When Cassie speaks up — because she has been raised to believe in fairness — she is humiliated. Then on the sidewalk, Lillian Jean Simms demands Cassie step off into the road. Big Ma forces Cassie to apologize. Pay attention to what each character FEELS versus what they are forced to DO."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Big Ma's response seems like surrender, but Taylor shows us it is SURVIVAL STRATEGY. Big Ma knows the dangers of defiance in 1930s Mississippi. Uncle Hammer's furious reaction represents the opposite impulse — to fight back immediately. Neither response is wrong; they reflect different calculations about risk, safety, and dignity under an oppressive system."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "This is a COMING-OF-AGE moment for Cassie. She is losing her innocence — the belief that the world is fair and that being right is enough. This theme, the painful gap between how the world SHOULD work and how it DOES work, is central to the novel. As readers, we feel Cassie's outrage and confusion because Taylor has made us see through her eyes."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal: (1) Describe the Strawberry incidents in detail — what happened at the store and on the sidewalk. (2) Analyze Big Ma's decision to make Cassie apologize. Why did she do it? Was she right? Write arguments for both sides. (3) Compare Big Ma's response with Uncle Hammer's. What does each value most — safety or dignity? (4) Track Cassie's character development: how has she changed from Chapter 1 to Chapter 6? (5) Update your symbolism tracker with any new symbols you notice.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Cassie's experience in Strawberry is one of the most powerful scenes in children's literature because it shows the moment when a child realizes the world is not fair — and that the unfairness is deliberate and systemic. Taylor does not soften this reality, and that honesty is what makes the novel so important and enduring.",
+          "mastery_check": "Can the student describe the pivotal events in Strawberry, analyze the different responses of Big Ma and Uncle Hammer, and explain how these chapters represent Cassie's loss of innocence?"
+        }
+      ]
+    },
+    "parent_notes": "These chapters are emotionally intense and may prompt strong reactions from your child. Cassie's humiliation at the store and on the sidewalk, and Big Ma's forced apology, are deeply unfair — and your child will feel that injustice. This is valuable; empathy is built through experiencing others' stories. Discuss the impossible choices faced by Black families in the Jim Crow South: balancing dignity with physical safety. The comparison between Big Ma's caution and Uncle Hammer's anger reflects a real historical debate within the Black community about the best response to oppression — a debate that continued through the civil rights movement.",
+    "age_adaptations": null,
+    "sort_order": 5
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 22,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Building Rebuttals — Anticipating and Countering Arguments",
+    "description": "Students learn the art of rebuttal by practicing how to anticipate opposing arguments, acknowledge them respectfully, and counter them with evidence. They develop active listening skills essential for effective debate and learn structured response frameworks.",
+    "instructions": "1. Review the CER framework from Day 1.\n2. Define rebuttal: responding to an opponent's argument with evidence and reasoning.\n3. Introduce the ACE rebuttal framework: Acknowledge, Counter, Evidence.\n4. Model listening to an argument and constructing an ACE rebuttal.\n5. Discuss the importance of respectful language in rebuttals.\n6. Practice identifying the weakest point in an opponent's argument.\n7. Introduce the concept of concession: agreeing with part of an opponent's point before countering.\n8. Students practice rebuttals in pairs with structured debate topics.\n9. Switch sides: argue the opposite position to build perspective-taking skills.\n10. Reflect: How does considering the other side strengthen your own argument?",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": [
+      "ACE rebuttal framework card",
+      "Debate topic cards (paired positions)",
+      "Respectful language sentence starters",
+      "Active listening checklist",
+      "Rebuttal planning worksheet",
+      "Lined paper",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Building Rebuttals",
+          "subheading": "Anticipating and Countering Opposing Arguments"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "ACE rebuttal framework card",
+            "Debate topic cards (paired positions)",
+            "Respectful language sentence starters",
+            "Active listening checklist",
+            "Rebuttal planning worksheet",
+            "Lined paper",
+            "Pencils"
+          ],
+          "setup_instructions": "Prepare paired debate topic cards where each pair contains two opposing positions on the same issue. Print ACE framework cards and respectful language sentence starters. Arrange seating for face-to-face partner work."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A REBUTTAL is your response to the other side's argument. Strong debaters do not just present their own case — they directly address and dismantle their opponent's points. The ACE framework guides you: ACKNOWLEDGE what the opponent said (show you listened). COUNTER with your opposing point. Provide EVIDENCE to support your counter."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Respectful language matters. Instead of 'That is wrong,' say 'I understand that perspective, but the evidence suggests otherwise.' Instead of 'That makes no sense,' say 'While that point has merit, I would argue that...' Respectful rebuttals are MORE persuasive because they show you are thoughtful and fair-minded, not just aggressive."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "STRATEGIC REBUTTAL: Target the weakest point in your opponent's argument. Every argument has strengths and weaknesses. A skilled debater listens carefully to find the point with the weakest evidence or the biggest logical gap. You do not need to counter everything — focus on the most vulnerable claim and dismantle it thoroughly."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "The CONCESSION technique is powerful: agree with part of your opponent's argument before countering. 'My opponent makes a valid point that exercise is important; however, extending the school day would reduce time for family activities, which research shows is equally critical for child development.' Conceding a small point makes your rebuttal more credible."
+        },
+        {
+          "type": "activity",
+          "prompt": "Rebuttal Practice: (1) Draw a debate topic card. Prepare a 1-minute CER argument for your assigned side. (2) Present your argument to your partner. Partner listens actively and takes notes. (3) Partner delivers an ACE rebuttal using respectful language. (4) SWITCH SIDES — now argue the OPPOSITE position. This builds empathy and perspective-taking. (5) After both rounds, discuss: Which rebuttals were most effective? Why? What was it like to argue for a side you disagree with? (6) Write a reflection: How does understanding the other side strengthen your own position?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The ability to rebut respectfully is one of the most important communication skills you can develop. It requires deep listening, quick thinking, and the humility to acknowledge valid points from the other side. Arguing the opposite position is especially powerful — it forces you to see the world through someone else's eyes, which always makes you a better thinker.",
+          "mastery_check": "Can the student construct a rebuttal using the ACE framework, use respectful debate language, identify weaknesses in opposing arguments, and argue effectively from either side of a debate topic?"
+        }
+      ]
+    },
+    "parent_notes": "Rebuttal skills teach your child to disagree respectfully and think critically — essential life skills. The exercise of arguing the opposite side is particularly valuable because it builds empathy and intellectual flexibility. At home, try 'devil's advocate' discussions where family members argue positions they do not actually hold. The respectful language practice transfers to all areas of life — siblings' disputes, classroom discussions, and future workplace interactions. If your child struggles with the idea of arguing for something they disagree with, explain that understanding all sides makes their OWN argument stronger.",
+    "age_adaptations": null,
+    "sort_order": 6
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 22,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Solving Simple Equations — Finding the Unknown",
+    "description": "Students learn to solve one-step equations using inverse operations. They develop conceptual understanding through balance scale models before transitioning to algebraic methods, connecting equation-solving to real-world problem scenarios.",
+    "instructions": "1. Review variables and expressions from the previous lesson.\n2. Define an equation as a mathematical sentence with an equals sign.\n3. Introduce the balance scale model: both sides must stay equal.\n4. Demonstrate solving addition equations: x + 5 = 12 (subtract 5 from both sides).\n5. Demonstrate solving subtraction equations: x - 3 = 8 (add 3 to both sides).\n6. Demonstrate solving multiplication equations: 3x = 15 (divide both sides by 3).\n7. Demonstrate solving division equations: x/4 = 6 (multiply both sides by 4).\n8. Introduce the concept of inverse operations.\n9. Students practice solving one-step equations.\n10. Apply equation-solving to word problems.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Balance scale (physical or drawn)",
+      "Algebra tiles",
+      "One-step equation practice worksheet",
+      "Word problem cards",
+      "Inverse operations reference card",
+      "Lined paper",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Solving Simple Equations",
+          "subheading": "Using Inverse Operations to Find the Unknown"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Balance scale (physical or drawn)",
+            "Algebra tiles",
+            "One-step equation practice worksheet",
+            "Word problem cards",
+            "Inverse operations reference card",
+            "Lined paper",
+            "Pencils"
+          ],
+          "setup_instructions": "Set up a balance scale demonstration (physical or drawn on the board). Prepare algebra tiles for hands-on equation solving. Print practice worksheets with one-step equations of all four operation types."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "An EQUATION is like a balanced scale — whatever is on the left side EQUALS whatever is on the right side. To keep it balanced, anything you do to one side, you MUST do to the other side. This is the golden rule of algebra: KEEP THE BALANCE. If x + 5 = 12, and you subtract 5 from the left, you must subtract 5 from the right too."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "INVERSE OPERATIONS undo each other. Addition and subtraction are inverses. Multiplication and division are inverses. To solve an equation, use the inverse operation to isolate the variable (get x alone). Example: x + 5 = 12. The 5 is ADDED, so use the inverse — SUBTRACT 5 from both sides. x + 5 - 5 = 12 - 5. x = 7. Check: 7 + 5 = 12. Correct!"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "More examples: (1) x - 3 = 8. The 3 is subtracted, so ADD 3 to both sides. x = 11. Check: 11 - 3 = 8. (2) 3x = 15. The x is multiplied by 3, so DIVIDE both sides by 3. x = 5. Check: 3(5) = 15. (3) x/4 = 6. The x is divided by 4, so MULTIPLY both sides by 4. x = 24. Check: 24/4 = 6."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Always CHECK your answer by substituting it back into the original equation. If both sides are equal, you solved correctly. Word problems become equations: 'Maria had some stickers. She gave away 7 and has 15 left. How many did she start with?' Equation: x - 7 = 15. Solve: x = 22. Maria started with 22 stickers."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve and check: (1) Practice set of 12 one-step equations: 3 addition, 3 subtraction, 3 multiplication, 3 division. Show your work and check each answer. (2) Draw three word problem cards. Write an equation for each, solve it, and check your answer. (3) Create your own word problem that requires solving an equation. Write the problem, the equation, and the solution. Exchange with a partner to solve. (4) Challenge: If 2x + 1 = 9, can you figure out what x is? (Hint: work backward.)",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Solving equations is one of the most important skills in all of mathematics. The principle is simple: use inverse operations to isolate the variable, and keep the equation balanced. Every equation you solve is a puzzle with a definite answer, and you now have the tools to find it. Tomorrow, we will tackle more complex equations and real-world applications.",
+          "mastery_check": "Can the student solve one-step equations using inverse operations for all four operations, check solutions by substitution, and translate word problems into solvable equations?"
+        }
+      ]
+    },
+    "parent_notes": "Equation-solving is the core skill of algebra and one of the most important mathematical abilities your child will develop. The balance scale metaphor makes the abstract concept concrete: whatever you do to one side, you must do to the other. At home, create real-world equations: 'We need 24 cookies for the party. Each batch makes 8. How many batches do we need?' (8b = 24). If your child struggles, return to the balance scale or algebra tiles for hands-on practice. The key is understanding WHY inverse operations work, not just memorizing steps.",
+    "age_adaptations": null,
+    "sort_order": 7
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 22,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Types of Energy — Kinetic and Potential",
+    "description": "Students explore the fundamental forms of energy, focusing on kinetic energy (energy of motion) and potential energy (stored energy). Through experiments with ramps, rubber bands, and pendulums, they observe energy transformations and learn that energy is never created or destroyed, only converted.",
+    "instructions": "1. Ask: What is energy? Discuss that energy is the ability to do work or cause change.\n2. Introduce the two main categories: kinetic energy (motion) and potential energy (stored).\n3. Define kinetic energy with examples: a rolling ball, a running child, flowing water.\n4. Define potential energy: gravitational (height), elastic (stretched/compressed), chemical (food/fuel).\n5. Demonstrate gravitational potential energy with a ball held at different heights.\n6. Demonstrate elastic potential energy with rubber bands.\n7. Introduce the Law of Conservation of Energy: energy cannot be created or destroyed.\n8. Show energy transformations: potential to kinetic and back.\n9. Students conduct pendulum experiments observing energy conversion.\n10. Create energy transformation diagrams for everyday scenarios.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": [
+      "Balls of different sizes",
+      "Ramps (books or boards)",
+      "Rubber bands",
+      "String and washers (for pendulums)",
+      "Meter sticks",
+      "Energy types reference chart",
+      "Science journals",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Types of Energy",
+          "subheading": "Kinetic Energy and Potential Energy"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Balls of different sizes",
+            "Ramps (books or boards)",
+            "Rubber bands",
+            "String and washers (for pendulums)",
+            "Meter sticks",
+            "Energy types reference chart",
+            "Science journals",
+            "Pencils"
+          ],
+          "setup_instructions": "Set up experiment stations: Station 1 with ramps and balls at different heights, Station 2 with rubber bands and launchers, Station 3 with pendulum materials. Post the energy types reference chart."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "ENERGY is the ability to do work — to push, pull, heat, light, or move something. Energy comes in two fundamental forms: KINETIC ENERGY is the energy of MOTION. Anything moving has kinetic energy — a thrown ball, a flowing river, even the air molecules in a breeze. The faster something moves and the more massive it is, the more kinetic energy it has."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "POTENTIAL ENERGY is STORED energy — energy waiting to be released. GRAVITATIONAL potential energy depends on height: a ball held high has more potential energy than one held low. ELASTIC potential energy is stored in stretched or compressed objects: a pulled-back rubber band, a compressed spring. CHEMICAL potential energy is stored in the bonds of molecules: food, batteries, fuel."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Energy constantly TRANSFORMS from one type to another. Hold a ball high (gravitational potential energy). Drop it — potential converts to kinetic as it falls. At the bottom, it has maximum kinetic energy. As it bounces back up, kinetic converts back to potential. A pendulum swings back and forth, endlessly converting between potential and kinetic."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "The LAW OF CONSERVATION OF ENERGY states that energy cannot be created or destroyed — only transformed from one type to another. When a ball stops bouncing, it SEEMS like energy disappeared, but it actually converted to THERMAL energy (heat) and SOUND energy. The total amount of energy in the universe never changes — it just changes form."
+        },
+        {
+          "type": "activity",
+          "prompt": "Conduct three experiments: (1) RAMP EXPERIMENT: Release a ball from three different heights. Measure how far it rolls on the flat surface. Record data. Explain: How does height (potential energy) affect distance (kinetic energy)? (2) RUBBER BAND EXPERIMENT: Stretch a rubber band to three different lengths and launch a lightweight object. Measure distances. Explain the relationship between elastic potential energy and kinetic energy. (3) PENDULUM EXPERIMENT: Build a simple pendulum. Draw a diagram showing where the pendulum has maximum potential energy and maximum kinetic energy. (4) Create energy transformation diagrams for: eating breakfast, riding a bike downhill, and a flashlight turning on.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Energy is everywhere, constantly transforming. Every action you take involves energy conversion — eating converts chemical energy to kinetic energy so you can move. The Conservation of Energy is one of the most fundamental laws in all of science. Next lesson, we will explore thermal and electrical energy and how they power our modern world.",
+          "mastery_check": "Can the student define and give examples of kinetic and potential energy, describe energy transformations, explain the Law of Conservation of Energy, and demonstrate understanding through experiments?"
+        }
+      ]
+    },
+    "parent_notes": "Energy concepts connect to everything in science and daily life. The hands-on experiments make these abstract ideas concrete and observable. At home, look for energy transformations everywhere: a toaster converts electrical energy to thermal energy, a car converts chemical energy (gasoline) to kinetic energy, solar panels convert light energy to electrical energy. The Conservation of Energy is especially important — it means energy never disappears, only changes form. If your child asks 'Where did the energy go?' when something stops moving, the answer is usually heat and sound.",
+    "age_adaptations": null,
+    "sort_order": 8
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 22,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Cubism — Seeing from Every Angle at Once",
+    "description": "Students explore the Cubist art movement pioneered by Pablo Picasso and Georges Braque, learning how these artists shattered traditional perspective by showing multiple viewpoints simultaneously. Students analyze Cubist works and create their own Cubist-style portraits or still lifes.",
+    "instructions": "1. Review Post-Impressionism as the foundation for modern art movements.\n2. Introduce Cubism as a radical new way of seeing — showing all sides of an object at once.\n3. Examine Picasso's 'Les Demoiselles d'Avignon' and discuss its revolutionary impact.\n4. Study Braque's still lifes and identify geometric fragmentation.\n5. Discuss the difference between Analytical Cubism (monochrome, fragmented) and Synthetic Cubism (colorful, collage).\n6. Demonstrate how to draw a Cubist portrait: combine front view and profile in one image.\n7. Show how to fragment a still life into geometric planes.\n8. Students choose either a portrait or still life approach.\n9. Create a Cubist artwork using geometric shapes and multiple perspectives.\n10. Gallery walk and discuss how Cubism challenges our usual way of seeing.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Art reproductions (Picasso, Braque)",
+      "Drawing paper (heavy weight)",
+      "Colored pencils or oil pastels",
+      "Rulers and geometric stencils",
+      "Scissors and glue (for collage option)",
+      "Colored paper scraps",
+      "Pencils",
+      "Mirrors (for self-portrait option)"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Cubism",
+          "subheading": "Seeing from Every Angle at Once"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Art reproductions (Picasso, Braque)",
+            "Drawing paper (heavy weight)",
+            "Colored pencils or oil pastels",
+            "Rulers and geometric stencils",
+            "Scissors and glue (for collage option)",
+            "Colored paper scraps",
+            "Pencils"
+          ],
+          "setup_instructions": "Display Cubist art reproductions prominently. Set up art stations with drawing materials and optional collage supplies. Have mirrors available for students choosing self-portraits. Prepare geometric stencils."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Around 1907, Pablo PICASSO and Georges BRAQUE asked a revolutionary question: Why should a painting show only ONE viewpoint? In real life, you see objects from many angles — front, side, top, back. CUBISM attempts to show ALL these viewpoints at the SAME TIME in a single image. The result looks fractured and geometric, like looking through a shattered mirror."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Look at Picasso's faces: one eye might be shown from the front while the other is shown in profile. The nose might point sideways while the mouth faces forward. This is not a mistake — it is a deliberate attempt to show MORE INFORMATION than a traditional portrait can. Cubism sacrifices realistic appearance for a deeper kind of truth."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "ANALYTICAL CUBISM (1907-1912) broke objects into small geometric fragments using muted browns and grays. It looks like seeing an object through a prism. SYNTHETIC CUBISM (1912-1920s) added color, texture, and collage elements — pasting newspaper, fabric, and other materials onto the canvas. Both approaches challenged the idea that art must imitate reality."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "To create a Cubist portrait: (1) Draw a face shape, but combine the front view and side view. (2) Place features at unexpected angles — an eye from the front next to an eye from the side. (3) Divide the background into geometric planes. (4) Use lines that extend from the face into the background, connecting figure and ground. (5) Color each geometric section differently to emphasize the fragmentation."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a Cubist artwork — choose your approach: OPTION A — CUBIST PORTRAIT: Using a mirror, observe your face from the front and side. Combine both views in one drawing. Fragment the background into geometric shapes. Color each section. OPTION B — CUBIST STILL LIFE: Arrange 3 simple objects (cup, book, fruit). Draw them showing multiple angles simultaneously — top, side, front all at once. Fragment with geometric lines. OPTION C — CUBIST COLLAGE: Cut geometric shapes from colored paper and newspaper. Arrange them to create a Cubist composition of a person or scene. Each approach should fill the entire page.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Cubism was perhaps the most radical art revolution in history. Picasso and Braque proved that art does not need to look like reality to be meaningful — in fact, by showing multiple viewpoints at once, Cubism might actually show MORE of reality than a traditional painting. Every form of modern art, design, and visual communication owes something to Cubism.",
+          "mastery_check": "Can the student explain the principles of Cubism, compare Analytical and Synthetic Cubism, identify works by Picasso and Braque, and create an artwork that shows multiple perspectives simultaneously?"
+        }
+      ]
+    },
+    "parent_notes": "Cubism can initially seem strange to children accustomed to realistic art, but it is also liberating — there is no 'wrong' way to draw a Cubist portrait. The key insight is that art can represent ideas and multiple viewpoints, not just what the eye sees from one position. Picasso's famous quote 'Every child is an artist; the problem is how to remain an artist once we grow up' is worth sharing. If your child says their Cubist art looks 'weird,' explain that Cubism was deliberately weird — it was breaking rules to create something new. Virtual museum visits to the Picasso Museum in Barcelona or MoMA in New York offer excellent Cubist collections.",
+    "age_adaptations": null,
+    "sort_order": 9
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "practical_life",
+    "week_number": 22,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Community Service Planning — Identifying Needs and Taking Action",
+    "description": "Students learn to identify needs in their community and plan a service project from start to finish. They practice research, project planning, team coordination, and persuasive communication as they develop a proposal for a real community service initiative.",
+    "instructions": "1. Define community service and discuss why it matters.\n2. Brainstorm community needs: who in our community could use help?\n3. Categorize needs: environmental, social, educational, health-related.\n4. Research local organizations and existing service opportunities.\n5. Introduce project planning skills: goal, steps, timeline, resources, team roles.\n6. Discuss realistic scope: what can students actually accomplish?\n7. Model creating a service project proposal.\n8. Students form teams and select a community need to address.\n9. Teams create detailed project proposals with timelines.\n10. Present proposals and vote on which project to pursue as a group.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": [
+      "Community needs brainstorming chart",
+      "Project planning template",
+      "Local organizations reference list",
+      "Poster board for proposals",
+      "Markers",
+      "Lined paper",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Community Service Planning",
+          "subheading": "Identifying Needs and Taking Action"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Community needs brainstorming chart",
+            "Project planning template",
+            "Local organizations reference list",
+            "Poster board for proposals",
+            "Markers",
+            "Lined paper",
+            "Pencils"
+          ],
+          "setup_instructions": "Prepare a large brainstorming chart for community needs. Research local organizations and compile a reference list. Set up team workstations with poster board and planning templates."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "COMMUNITY SERVICE means volunteering your time and skills to help others without expecting anything in return. It is one of the most important aspects of being a responsible citizen. Communities thrive when people look beyond their own needs and ask: 'How can I help?' Today, you will plan a REAL service project that could make a difference."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The first step is identifying a genuine NEED. Look around your community: Are there elderly neighbors who need help with yard work? A park that needs cleaning? A food bank that needs donations? An animal shelter that needs supplies? A younger student who needs tutoring? The best service projects address REAL needs that you have observed or researched."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "A good project plan answers: WHAT will you do? (Goal) WHO will help? (Team and roles) WHEN will each step happen? (Timeline) WHAT do you need? (Resources and materials) HOW will you know it worked? (Success measures) A project without a plan is just a wish — but a project WITH a plan can change your community."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Keep your project REALISTIC. You are students, not an organization with unlimited resources. A single park cleanup day is more achievable than 'solving pollution.' Collecting 50 canned goods for a food bank is more realistic than 'ending hunger.' Start small, succeed, and then think bigger. Small actions done well have more impact than grand plans that never happen."
+        },
+        {
+          "type": "activity",
+          "prompt": "Form teams of 3-4 students: (1) Brainstorm community needs your team has observed or learned about. List at least five. (2) Select ONE need your team wants to address. Explain why it matters. (3) Complete the project planning template: goal, steps, timeline (over 2-4 weeks), materials needed, team roles, and how you will measure success. (4) Create a proposal poster that presents your plan clearly and persuasively. (5) Prepare a 2-minute presentation to pitch your project to the class. Include: the need, your plan, why it will work, and what help you need.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Planning a service project teaches leadership, teamwork, and compassion. You have identified real needs and created actionable plans. Next session, we will refine the winning proposal and begin organizing the project. Remember: every great community improvement started with someone asking 'How can I help?' — and then making a plan.",
+          "mastery_check": "Can the student identify genuine community needs, create a detailed service project plan with timeline and team roles, and present a persuasive proposal?"
+        }
+      ]
+    },
+    "parent_notes": "Community service develops empathy, leadership, and civic responsibility. This lesson moves beyond theoretical discussion to actual project planning, giving your child a sense of agency. The project your child's team proposes may need your support to execute — consider volunteering to help. Service projects are most impactful when families participate together. Even if the classroom project does not proceed, you can help your child identify and act on community needs independently. Research shows that children who participate in service projects develop stronger social skills, greater empathy, and a deeper sense of purpose.",
+    "age_adaptations": null,
+    "sort_order": 10
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 22,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Research for Debate — Gathering and Evaluating Evidence",
+    "description": "Students learn research skills specific to debate preparation, including how to find credible sources, evaluate evidence quality, organize research into argument categories, and prepare evidence cards. They apply these skills to research both sides of an upcoming debate topic.",
+    "instructions": "1. Review the CER and ACE frameworks from earlier in the week.\n2. Discuss what makes a source credible: authority, accuracy, objectivity, currency.\n3. Introduce the CRAAP test for evaluating sources: Currency, Relevance, Authority, Accuracy, Purpose.\n4. Practice evaluating sample sources using the CRAAP test.\n5. Model organizing research onto evidence cards: source, quote/fact, which argument it supports.\n6. Discuss the importance of researching BOTH sides of a debate topic.\n7. Assign debate topics for the week's culminating debate.\n8. Students research their assigned topic using available resources.\n9. Create evidence cards for both their side AND the opposing side.\n10. Organize evidence into strongest-to-weakest order.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": [
+      "CRAAP test reference sheet",
+      "Evidence card templates (index cards)",
+      "Source evaluation practice samples",
+      "Research materials (books, printed articles, approved websites)",
+      "Argument organization chart",
+      "Pencils",
+      "Highlighters"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Research for Debate",
+          "subheading": "Gathering and Evaluating Evidence Like a Scholar"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "CRAAP test reference sheet",
+            "Evidence card templates (index cards)",
+            "Source evaluation practice samples",
+            "Research materials (books, printed articles, approved websites)",
+            "Argument organization chart",
+            "Pencils",
+            "Highlighters"
+          ],
+          "setup_instructions": "Prepare research stations with age-appropriate books, articles, and printed web pages on debate topics. Print CRAAP test sheets and evidence card templates. Prepare sample sources of varying quality for evaluation practice."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A debate is only as strong as its EVIDENCE, and evidence is only as strong as its SOURCE. The CRAAP test helps you evaluate any source: CURRENCY — Is it recent enough to be relevant? RELEVANCE — Does it relate to your topic? AUTHORITY — Who wrote it and what are their qualifications? ACCURACY — Can the facts be verified? PURPOSE — Why was it written (to inform, persuade, sell, or entertain)?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Not all sources are equal. A scientific study published by a university is stronger than a blog post. A government statistic is stronger than one person's opinion. A news report from a reputable organization is stronger than a social media post. As a researcher, your job is to find the STRONGEST possible evidence for your arguments."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "EVIDENCE CARDS organize your research for quick access during a debate. Each card contains: (1) The source (author, title, date). (2) The key fact, statistic, or quote. (3) Which argument it supports. (4) How strong you rate the evidence (1-5). Prepare cards for YOUR side AND the opposing side — knowing the other side's best evidence lets you prepare rebuttals."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Organize your evidence strategically. Lead with your STRONGEST argument and most compelling evidence. Save a strong point for your conclusion. Know which of your opponent's arguments is strongest so you can prepare your best rebuttal for it. A well-prepared debater is never surprised because they have already researched both sides thoroughly."
+        },
+        {
+          "type": "activity",
+          "prompt": "Research your debate topic: (1) Evaluate three sources using the CRAAP test. Rate each and explain your rating. (2) Create at least 6 evidence cards for YOUR position — include source, fact/quote, and strength rating. (3) Create at least 3 evidence cards for the OPPOSING position — know their best arguments. (4) Organize your evidence from strongest to weakest. (5) Identify your opponent's strongest argument and draft a rebuttal. (6) Fill out the argument organization chart showing your opening, three main points with evidence, anticipated rebuttals, and closing.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Research is the backbone of effective debate. The best debaters are the best researchers — they know their topic inside and out, from BOTH perspectives. The source evaluation skills you practiced today (the CRAAP test) apply far beyond debate — they help you evaluate any information you encounter in school, online, or in the media.",
+          "mastery_check": "Can the student evaluate source credibility using the CRAAP test, create organized evidence cards from research, prepare evidence for both sides of a debate, and organize arguments strategically?"
+        }
+      ]
+    },
+    "parent_notes": "Source evaluation is one of the most critical skills in the information age. The CRAAP test gives your child a framework for evaluating any information they encounter — online articles, social media posts, news reports, and advertisements. Practice at home by evaluating sources together: when you see a claim online, ask 'Who says this? What are their qualifications? Can we verify this?' Researching both sides of a debate is especially valuable because it builds intellectual honesty and prevents the echo-chamber thinking that is so common today.",
+    "age_adaptations": null,
+    "sort_order": 11
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 22,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Two-Step Equations and Real-World Applications",
+    "description": "Students advance from one-step to two-step equations, learning to apply inverse operations in the correct order. They connect equation-solving to real-world scenarios including shopping, cooking, distance problems, and scientific calculations.",
+    "instructions": "1. Review one-step equations and inverse operations.\n2. Introduce two-step equations: 2x + 3 = 11.\n3. Explain the order of operations in reverse: undo addition/subtraction first, then multiplication/division.\n4. Model solving 2x + 3 = 11: subtract 3, then divide by 2.\n5. Practice with several two-step equations.\n6. Model solving equations with the variable on the right or with subtraction.\n7. Connect to real-world problems: 'A phone plan costs $15 per month plus a $30 activation fee. The total is $105. How many months?'\n8. Students translate word problems into two-step equations and solve.\n9. Create their own word problems that require two-step equations.\n10. Discuss: How does algebra help solve real-world problems?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Two-step equation practice worksheet",
+      "Balance scale model",
+      "Real-world word problem cards",
+      "Algebra tiles",
+      "Step-by-step solution template",
+      "Lined paper",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Two-Step Equations",
+          "subheading": "Solving Real-World Problems with Algebra"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Two-step equation practice worksheet",
+            "Balance scale model",
+            "Real-world word problem cards",
+            "Algebra tiles",
+            "Step-by-step solution template",
+            "Lined paper",
+            "Pencils"
+          ],
+          "setup_instructions": "Prepare worksheets with two-step equations of increasing difficulty. Create word problem cards with real-world scenarios. Have algebra tiles and balance scale available for students who need concrete support."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A TWO-STEP equation requires two operations to solve. Example: 2x + 3 = 11. Think of it as unwrapping a present — you remove the outer wrapping first (undo addition/subtraction), then the inner wrapping (undo multiplication/division). The key rule: work in REVERSE order of operations."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Solve 2x + 3 = 11. STEP 1: Undo the addition. Subtract 3 from both sides. 2x + 3 - 3 = 11 - 3. 2x = 8. STEP 2: Undo the multiplication. Divide both sides by 2. 2x/2 = 8/2. x = 4. CHECK: 2(4) + 3 = 8 + 3 = 11. Correct! Always check your answer."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "More examples: (1) 3x - 5 = 16. Add 5: 3x = 21. Divide by 3: x = 7. Check: 3(7) - 5 = 16. (2) x/4 + 2 = 7. Subtract 2: x/4 = 5. Multiply by 4: x = 20. Check: 20/4 + 2 = 7. (3) 5x - 10 = 25. Add 10: 5x = 35. Divide by 5: x = 7. Check: 5(7) - 10 = 25."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Real-world example: A streaming service costs $12 per month plus a $20 sign-up fee. Your total bill was $80. How many months have you been subscribed? Equation: 12m + 20 = 80. Subtract 20: 12m = 60. Divide by 12: m = 5 months. Every time you face a problem with an unknown and two operations, you have a two-step equation."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve and apply: (1) Solve 8 two-step equations on the practice worksheet. Show every step and check each answer. (2) Translate and solve three word problem cards. Write the equation, solve it, check it, and write the answer in a complete sentence. (3) Create two of your own real-world word problems that require two-step equations. Write the problem, the equation, and the solution. (4) Exchange your problems with a partner — can they solve yours? (5) Challenge: Solve 4x + 2x - 3 = 15. What do you do with the two x terms first?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Two-step equations are the gateway to solving complex real-world problems. The strategy is always the same: undo operations in reverse order, keep the equation balanced, and check your answer. With this skill, you can figure out unknown quantities in shopping, cooking, science, and any situation where relationships between numbers exist.",
+          "mastery_check": "Can the student solve two-step equations using inverse operations in the correct order, translate real-world problems into equations, and verify solutions by substitution?"
+        }
+      ]
+    },
+    "parent_notes": "Two-step equations represent a significant advance in algebraic thinking. Your child is now solving problems that many adults would consider 'real algebra.' The real-world applications are key motivators — help your child see that algebra solves practical problems. At home, create scenarios: 'If we save $25 per week and already have $50, how many weeks until we have $200?' (25w + 50 = 200). If your child struggles, return to the balance scale model and work through each step physically. The 'unwrapping a present' metaphor helps remember the order: outer layer (addition/subtraction) first, then inner layer (multiplication/division).",
+    "age_adaptations": null,
+    "sort_order": 12
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 22,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "World War II — Major Events and Turning Points",
+    "description": "Students study the major events and turning points of World War II, from the invasion of Poland through D-Day to the fall of Berlin. They create a detailed timeline and analyze how key battles and decisions shifted the momentum of the war.",
+    "instructions": "1. Review the rise of dictators and the path to war from the previous lesson.\n2. Begin with the invasion of Poland (September 1, 1939) and the start of WWII.\n3. Trace Germany's blitzkrieg victories across Europe: Poland, Denmark, Norway, France.\n4. Discuss the Battle of Britain — Britain's refusal to surrender.\n5. Explain Operation Barbarossa — Germany's invasion of the Soviet Union.\n6. Discuss the U.S. entry after Pearl Harbor (December 7, 1941).\n7. Identify turning points: Stalingrad, Midway, El Alamein, D-Day.\n8. Describe D-Day (June 6, 1944) and the Allied push to Berlin.\n9. Students create a detailed WWII timeline with major events.\n10. Discuss: Which turning point do you think was most important, and why?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "WWII events reading packet",
+      "Large timeline template (1939-1945)",
+      "Turning point analysis cards",
+      "WWII theater maps",
+      "Colored markers",
+      "Pencils",
+      "Ruler"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "World War II",
+          "subheading": "Major Events and Turning Points (1939-1945)"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "WWII events reading packet",
+            "Large timeline template (1939-1945)",
+            "Turning point analysis cards",
+            "WWII theater maps",
+            "Colored markers",
+            "Pencils",
+            "Ruler"
+          ],
+          "setup_instructions": "Prepare an age-appropriate reading packet covering major WWII events chronologically. Distribute large timeline templates spanning 1939-1945 with spaces for both European and Pacific events. Have theater maps from the geography lesson available."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "WWII began on September 1, 1939, when Germany invaded Poland using BLITZKRIEG ('lightning war') — fast-moving tanks and planes overwhelmed defenders. Within months, Germany conquered Denmark, Norway, Belgium, the Netherlands, and France. By mid-1940, Hitler controlled most of Western Europe. Only Britain, led by Winston Churchill, held out — refusing to surrender despite devastating bombing raids."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "In June 1941, Hitler made a fatal mistake: he invaded the SOVIET UNION (Operation Barbarossa), opening a second front. The Russian winter and Soviet resistance stopped the German advance. On December 7, 1941, Japan attacked PEARL HARBOR in Hawaii, pulling the UNITED STATES into the war. Now Germany and Japan faced the combined industrial and military power of the U.S., Britain, and the Soviet Union."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "TURNING POINTS shifted the war's momentum: STALINGRAD (1942-43) — the Soviet Union destroyed an entire German army in brutal urban warfare. MIDWAY (1942) — the U.S. Navy sank four Japanese aircraft carriers, turning the tide in the Pacific. EL ALAMEIN (1942) — British forces defeated Germany in North Africa. After these battles, the Axis powers were on the defensive."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "D-DAY (June 6, 1944) was the largest seaborne invasion in history. Over 150,000 Allied troops landed on five beaches in Normandy, France. Despite fierce German resistance and terrible losses, the Allies established a foothold and began pushing toward Germany. The Soviets advanced from the east. Germany surrendered on May 8, 1945 — V-E Day (Victory in Europe)."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a detailed WWII timeline: (1) Use your large template to plot at least 15 major events from 1939 to 1945. Color-code by theater: European in blue, Pacific in red, North African in yellow. (2) Star the four major turning points and write one sentence explaining why each was a turning point. (3) Choose one turning point and write a detailed paragraph: What happened? Why was it important? How did it change the course of the war? (4) Discussion question: If the U.S. had not entered the war, how might the outcome have been different?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "World War II was the deadliest conflict in human history, with over 70 million casualties. Understanding its major events and turning points helps us see how individual battles and decisions can determine the fate of nations. Next lesson, we will examine the Holocaust — the systematic genocide that occurred during the war — as well as the war's conclusion in the Pacific.",
+          "mastery_check": "Can the student identify the major events and turning points of WWII in chronological order, explain why key turning points shifted the war's momentum, and analyze their historical significance?"
+        }
+      ]
+    },
+    "parent_notes": "This lesson covers the military history of WWII in an age-appropriate way, focusing on events, strategy, and turning points rather than graphic violence. The timeline activity helps organize a complex series of events. If your child has family members who served in WWII, sharing their stories adds personal meaning. The next lesson on the Holocaust is especially sensitive — you may want to discuss it with your child beforehand to prepare them emotionally. The key takeaway is that WWII demonstrates both the worst of human behavior and the courage of those who fought against tyranny.",
+    "age_adaptations": null,
+    "sort_order": 13
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "geography",
+    "week_number": 22,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "The Geography of Occupation — Mapping Axis Expansion and Liberation",
+    "description": "Students map the territorial expansion of the Axis powers at their peak and then trace the Allied liberation campaigns. They analyze how occupied territories experienced the war and examine the geographic strategies behind both conquest and liberation.",
+    "instructions": "1. Review the WWII alliance map from the previous geography lesson.\n2. Display a map of Axis-controlled territory at its peak (late 1942).\n3. Discuss the enormous extent of Axis control: most of Europe, North Africa, Southeast Asia, Pacific islands.\n4. Examine what life was like in occupied territories: resistance movements, collaboration, civilian suffering.\n5. Trace the Allied liberation campaigns: North Africa, Italy, Normandy, Pacific island-hopping.\n6. Discuss the concept of 'island-hopping' in the Pacific and why geography made it necessary.\n7. Map the Soviet advance from the east toward Berlin.\n8. Students create before-and-after maps showing Axis expansion and Allied liberation.\n9. Mark major liberation dates on the maps.\n10. Discuss: How did geography determine the strategies for liberating occupied territories?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Axis expansion map (1942 peak)",
+      "Allied liberation campaign map",
+      "Blank world maps (2 per student)",
+      "Colored pencils (6+ colors)",
+      "Island-hopping route reference",
+      "Atlas",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "The Geography of Occupation",
+          "subheading": "Mapping Axis Expansion and Allied Liberation"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Axis expansion map (1942 peak)",
+            "Allied liberation campaign map",
+            "Blank world maps (2 per student)",
+            "Colored pencils (6+ colors)",
+            "Island-hopping route reference",
+            "Atlas",
+            "Pencils"
+          ],
+          "setup_instructions": "Display the Axis expansion map showing peak control in 1942. Prepare the Allied liberation campaign map. Distribute two blank world maps per student and colored pencils. Have the island-hopping route reference ready."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "By late 1942, the Axis powers controlled a staggering amount of territory. Germany held most of Europe from France to the gates of Moscow. Japan controlled Korea, Manchuria, much of China, Southeast Asia, the Philippines, and thousands of Pacific islands. Italy held parts of North Africa. The Allies faced the enormous challenge of liberating all of this territory."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Life under OCCUPATION was brutal. In Europe, the Nazis imposed harsh rule, deporting millions to concentration camps and forcing civilians into labor. RESISTANCE MOVEMENTS organized secretly in France, Poland, Yugoslavia, and other nations — ordinary people risking their lives to fight back through sabotage, intelligence gathering, and hiding persecuted people."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "The Allies liberated territory through multiple campaigns. In the PACIFIC, vast ocean distances made it impossible to attack Japan directly. The strategy of ISLAND-HOPPING meant capturing key islands one by one, each one closer to Japan, using each as a base for the next attack. Geography dictated this strategy — there was simply no other way to cross the Pacific."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "In EUROPE, the Allies attacked from multiple directions: North Africa first (1942-43), then Sicily and Italy (1943), then Normandy, France on D-Day (1944). Meanwhile, the Soviet Union pushed westward from Stalingrad toward Berlin. This multi-directional approach forced Germany to defend on several fronts simultaneously — a geographic strategy that stretched their forces thin."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create two maps: MAP 1 — AXIS EXPANSION: Color-code territory controlled by Germany (one color), Japan (another), and Italy (another) at peak expansion in 1942. Label key occupied nations. MAP 2 — ALLIED LIBERATION: Starting from the edges of Axis territory, draw arrows showing the major Allied campaigns with dates: North Africa (1942-43), Italy (1943), D-Day and France (1944), Soviet advance (1943-45), Pacific island-hopping (1942-45). (3) On the back, compare the two maps and write a paragraph explaining how geography shaped both the Axis expansion and the Allied strategy for liberation.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The maps of WWII tell a story of conquest and liberation that spanned the globe. Geography determined everything: which territories could be defended, which strategies could work, and how long liberation would take. Understanding the geographic dimension of WWII helps us see why certain decisions were made and why the war lasted as long as it did.",
+          "mastery_check": "Can the student map Axis-controlled territory at its peak, trace major Allied liberation campaigns, explain the island-hopping strategy, and analyze how geography influenced military strategies?"
+        }
+      ]
+    },
+    "parent_notes": "These maps help your child visualize the enormous scale of WWII — it truly engulfed the globe. The concept of resistance movements introduces the idea that ordinary people can make a difference even under oppressive occupation. The geographic strategies (island-hopping, multi-front liberation) teach analytical thinking about how physical geography constrains and enables human actions. If your child is interested, many excellent documentaries use animated maps to show the progression of the war — these are powerful visual learning tools.",
+    "age_adaptations": null,
+    "sort_order": 14
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 22,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Roll of Thunder, Hear My Cry — Chapters 7-8: The Power of Economic Resistance",
+    "description": "Students continue reading as the Logan family organizes an economic boycott of the Wallace store, demonstrating how financial power can be used as a tool for resistance. They analyze the risks and courage involved in economic protest and connect to historical boycott movements.",
+    "instructions": "1. Review events from Chapters 5-6 and Cassie's transformation.\n2. Read Chapter 7, focusing on Mama's role as teacher and activist.\n3. Discuss how the Logan family uses their economic independence (land ownership) to resist.\n4. Read Chapter 8 and the organization of the boycott against the Wallace store.\n5. Analyze the risks: the Logans face economic retaliation and physical danger.\n6. Connect to the Montgomery Bus Boycott and other historical economic protests.\n7. Discuss: Why is economic power a form of political power?\n8. Examine how the community responds — who joins the boycott and who does not, and why.\n9. Students analyze the theme of economic resistance in their journals.\n10. Predict: What consequences will the Logan family face for organizing resistance?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Roll of Thunder, Hear My Cry by Mildred Taylor",
+      "Reading journals",
+      "Character development tracker (updated)",
+      "Economic boycott comparison chart",
+      "Discussion question cards",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Roll of Thunder, Hear My Cry",
+          "subheading": "Chapters 7-8: The Power of Economic Resistance"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Roll of Thunder, Hear My Cry by Mildred Taylor",
+            "Reading journals",
+            "Character development tracker (updated)",
+            "Economic boycott comparison chart",
+            "Discussion question cards",
+            "Pencils"
+          ],
+          "setup_instructions": "Have the novel ready at Chapter 7. Prepare a comparison chart for connecting the novel's boycott to the Montgomery Bus Boycott. Have students retrieve all ongoing tracking documents."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "In these chapters, the Logan family takes their resistance to a new level: they organize an ECONOMIC BOYCOTT of the Wallace store. Instead of shopping at the store run by people who threaten their community, they arrange for families to shop in Vicksburg, even though it is farther away. This is ECONOMIC RESISTANCE — using the power of money to fight injustice."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Notice the critical role of LAND OWNERSHIP in making this resistance possible. The Logans can take risks that sharecropping families cannot because they own their land and cannot be evicted. Mama and Papa Logan use this security to help the community. Taylor is showing us that economic independence and political resistance are deeply connected."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Not everyone in the community joins the boycott, and Taylor shows us why. Some families are too frightened — they depend on white landowners and fear retaliation. Others cannot afford the extra cost or effort of shopping in Vicksburg. This is realistic: resistance always involves risk, and different people have different levels of risk they can bear."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Connect this to HISTORY: the Montgomery Bus Boycott (1955-56) used the same strategy — refusing to spend money where you are disrespected. Economic boycotts work because businesses need customers. When a significant group withholds its money, it creates financial pressure for change. This is one of the most powerful nonviolent protest tools."
+        },
+        {
+          "type": "activity",
+          "prompt": "In your reading journal: (1) Describe the boycott — what is being boycotted, why, and who organized it. (2) Complete a comparison chart: How is the Logan family's boycott similar to and different from the Montgomery Bus Boycott? Consider: causes, risks, participants, and goals. (3) Analyze the theme of economic power as resistance — write a paragraph connecting this theme to the overall message of the novel. (4) Why do some community members not join the boycott? Is their choice understandable? (5) Update your character and symbolism trackers.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Logan family's boycott shows that resistance comes in many forms — not just marches and speeches, but everyday economic decisions. By choosing where to spend their money, the community exercises real power. This connects history and literature beautifully: the same strategies used in this 1933 novel were used in the 1955 Montgomery boycott and are still used in activism today.",
+          "mastery_check": "Can the student explain the boycott in the novel, analyze why land ownership enables resistance, compare the fictional boycott to historical ones, and discuss the theme of economic power?"
+        }
+      ]
+    },
+    "parent_notes": "These chapters beautifully connect your child's history studies (boycotts, civil rights) with the novel. The concept that economic choices are a form of power is relevant today — consumers make ethical choices about where to shop every day. Discuss with your child how boycotts still happen in modern times and why they can be effective. The nuance of characters who do NOT join the boycott teaches empathy for people in different circumstances. Taylor avoids simplistic judgments, showing that courage takes different forms based on what people have to lose.",
+    "age_adaptations": null,
+    "sort_order": 15
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 22,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Formal Debate Practice — Structured Arguments and Responses",
+    "description": "Students participate in structured practice debates using all the skills developed this week: CER arguments, ACE rebuttals, researched evidence, and respectful language. They practice formal debate format including timed speeches, cross-examination, and judge evaluation.",
+    "instructions": "1. Review all debate skills: CER arguments, ACE rebuttals, evidence evaluation, respectful language.\n2. Introduce the formal debate format: opening statements (2 min), arguments (3 min each), cross-examination (2 min), rebuttals (2 min each), closing (1 min each).\n3. Assign debate positions and give teams final preparation time.\n4. Conduct the first practice debate with teacher facilitation.\n5. Non-debating students serve as judges using evaluation rubrics.\n6. Pause after each section for coaching and feedback.\n7. Discuss what went well and what could improve.\n8. Conduct a second practice debate with different teams.\n9. Judges share evaluations focusing on evidence quality and rebuttal effectiveness.\n10. Reflect: What is the most challenging part of debating, and how can you improve?",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": [
+      "Debate format poster with time limits",
+      "Timer or stopwatch",
+      "Judge evaluation rubrics",
+      "Evidence cards from research day",
+      "Debate topic cards",
+      "Score sheets",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Formal Debate Practice",
+          "subheading": "Structured Arguments, Rebuttals, and Evaluation"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Debate format poster with time limits",
+            "Timer or stopwatch",
+            "Judge evaluation rubrics",
+            "Evidence cards from research day",
+            "Debate topic cards",
+            "Score sheets",
+            "Pencils"
+          ],
+          "setup_instructions": "Arrange the room for debate: two facing tables for debaters, a judges' area, and audience seating. Post the debate format with time limits. Distribute evaluation rubrics to judges. Have a timer visible to all participants."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Today you put EVERYTHING together in a formal practice debate. The format: OPENING STATEMENTS (2 minutes each side) — introduce your position and preview your arguments. MAIN ARGUMENTS (3 minutes each) — present your strongest CER points. CROSS-EXAMINATION (2 minutes) — ask the other side questions to expose weaknesses. REBUTTALS (2 minutes each) — counter the other side's arguments using ACE. CLOSING (1 minute each) — summarize and make your final appeal."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "CROSS-EXAMINATION is a new skill: asking strategic questions to the opposing side. Good questions expose contradictions, weak evidence, or unstated assumptions. Ask questions you already know the answer to — questions that lead the opponent into admitting a weakness. Example: 'You cited a study from 2005. Are you aware of the 2022 study that found the opposite?'"
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Judges evaluate on five criteria: (1) EVIDENCE QUALITY — Were facts accurate and well-sourced? (2) ARGUMENT STRUCTURE — Were CER arguments clear and logical? (3) REBUTTAL EFFECTIVENESS — Did rebuttals directly address opponents' points? (4) DELIVERY — Was the speaker clear, confident, and respectful? (5) PERSUASIVENESS — Overall, which side was more convincing?"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Debate etiquette: Address your opponent respectfully. Never interrupt. When listening, take notes for your rebuttal. Stay calm — anger weakens your credibility. If you do not know an answer during cross-examination, honestly say 'I will need to research that further.' Honesty and composure are more persuasive than bluffing."
+        },
+        {
+          "type": "activity",
+          "prompt": "Participate in formal debates: DEBATERS: (1) Use your evidence cards and research. (2) Follow the format and time limits. (3) Take notes during the opponent's arguments for your rebuttal. (4) Stay respectful and composed throughout. JUDGES: (1) Score each section using the rubric. (2) Note the strongest and weakest moment for each side. (3) Write constructive feedback: one strength and one area for improvement per debater. (4) Determine which side was more persuasive overall, with reasoning. After both debates, REFLECT: What did you do well? What was hardest? What will you improve for the final debate?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Formal debate combines research, critical thinking, public speaking, and active listening — some of the most important skills you will ever develop. Win or lose, every debate makes you a stronger thinker and communicator. The goal is not to defeat your opponent but to sharpen your mind and find the truth through rigorous examination of evidence.",
+          "mastery_check": "Can the student participate effectively in a formal debate format, present CER arguments within time limits, deliver rebuttals that address specific opposing points, and maintain respectful debate etiquette?"
+        }
+      ]
+    },
+    "parent_notes": "Practice debate is one of the most valuable educational experiences your child can have. It develops public speaking confidence, critical thinking, and the ability to disagree respectfully. If your child is nervous about debating, remind them that even professional debaters feel nervous — confidence comes from preparation. Ask your child to practice their arguments at home before the final debate. You can help by playing devil's advocate, asking challenging questions, and encouraging them to support every claim with evidence. The judge role is equally valuable, teaching analytical evaluation of arguments.",
+    "age_adaptations": null,
+    "sort_order": 16
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 22,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Equations with Variables on Both Sides and Inequalities",
+    "description": "Students tackle equations where the variable appears on both sides and are introduced to inequalities. They learn to collect variable terms, solve for the unknown, and represent solution sets on number lines, extending their algebraic reasoning to more complex problems.",
+    "instructions": "1. Review two-step equations from the previous lesson.\n2. Introduce equations with variables on both sides: 3x + 2 = x + 10.\n3. Explain the strategy: get all variable terms on one side by subtracting.\n4. Model solving: 3x + 2 = x + 10 becomes 2x + 2 = 10 becomes 2x = 8 becomes x = 4.\n5. Practice with several examples.\n6. Introduce inequalities: greater than, less than, greater/less than or equal to.\n7. Show that inequalities are solved like equations but represent a RANGE of answers.\n8. Model solving x + 3 > 7 and graphing the solution on a number line.\n9. Students practice solving equations and inequalities.\n10. Apply to real-world scenarios: 'How many hours must I work to earn at least $50?'",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Variable-on-both-sides practice worksheet",
+      "Inequality symbols reference card",
+      "Number line templates",
+      "Algebra tiles",
+      "Real-world inequality problems",
+      "Lined paper",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Equations and Inequalities",
+          "subheading": "Variables on Both Sides and Solution Ranges"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Variable-on-both-sides practice worksheet",
+            "Inequality symbols reference card",
+            "Number line templates",
+            "Algebra tiles",
+            "Real-world inequality problems",
+            "Lined paper",
+            "Pencils"
+          ],
+          "setup_instructions": "Prepare practice worksheets with equations featuring variables on both sides. Print inequality reference cards and number line templates. Have algebra tiles available for concrete modeling."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Sometimes the variable appears on BOTH sides of the equation: 3x + 2 = x + 10. Strategy: Get all the x terms on ONE side by subtracting. Subtract x from both sides: 3x - x + 2 = x - x + 10, which simplifies to 2x + 2 = 10. Now it is a familiar two-step equation! Subtract 2: 2x = 8. Divide by 2: x = 4. Check: 3(4) + 2 = 14. And 4 + 10 = 14. Both sides equal!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "More examples: (1) 5x - 3 = 2x + 9. Subtract 2x: 3x - 3 = 9. Add 3: 3x = 12. Divide by 3: x = 4. (2) 4x + 1 = 6x - 7. Subtract 4x: 1 = 2x - 7. Add 7: 8 = 2x. Divide by 2: x = 4. The key step is always: collect variable terms on one side and constants on the other."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "An INEQUALITY is like an equation but instead of = it uses: > (greater than), < (less than), >= (greater than or equal to), <= (less than or equal to). The difference: an equation has ONE answer, but an inequality has MANY answers — a whole range. Solve x + 3 > 7: subtract 3 from both sides: x > 4. Any number greater than 4 works: 5, 6, 100, 4.1 — infinitely many solutions!"
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Graph inequalities on a NUMBER LINE: For x > 4, draw an OPEN circle at 4 (4 is NOT included) and shade to the RIGHT (all numbers greater than 4). For x >= 4, draw a CLOSED circle at 4 (4 IS included) and shade right. For x < 4, open circle at 4, shade LEFT. Real-world example: 'You need at least $50 for the trip. You earn $8 per hour. How many hours must you work?' 8h >= 50, so h >= 6.25. You need at least 7 hours."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve and graph: (1) Solve 6 equations with variables on both sides. Show all steps and check. (2) Solve 6 inequalities. Graph each solution on a number line using open or closed circles. (3) Real-world problems: (a) Plan A costs $20 plus $3 per month. Plan B costs $8 per month. When is Plan A cheaper? Write and solve an inequality. (b) You have $100 to spend on books at $12 each plus $4 shipping. How many books can you buy? Write and solve. (4) Challenge: Create your own real-world inequality problem and solve it.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you solved the most advanced equations yet — with variables on both sides — and discovered that not all mathematical statements have a single answer. Inequalities open up a world where answers are RANGES of possibilities. These skills are the foundation of algebra and are used in business, science, engineering, and everyday decision-making.",
+          "mastery_check": "Can the student solve equations with variables on both sides, solve one-step and two-step inequalities, graph solutions on number lines, and apply inequalities to real-world problems?"
+        }
+      ]
+    },
+    "parent_notes": "This lesson extends your child's algebraic skills significantly. Equations with variables on both sides and inequalities are typically middle school content, so your child is working ahead. The key conceptual leap with inequalities is that problems can have multiple correct answers — a range rather than a single number. Real-world applications help make this concrete: budget constraints, comparison shopping, and planning scenarios all involve inequalities. If your child finds variables on both sides confusing, use algebra tiles to physically move terms from one side to the other.",
+    "age_adaptations": null,
+    "sort_order": 17
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 22,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Thermal and Electrical Energy — Powering Our World",
+    "description": "Students explore thermal energy (heat) and electrical energy, learning how they are generated, transferred, and used in everyday life. They conduct experiments with heat transfer methods and build simple circuits to understand how electrical energy flows and powers devices.",
+    "instructions": "1. Review kinetic and potential energy from the previous science lesson.\n2. Define thermal energy as the energy of moving particles — the faster particles move, the hotter the object.\n3. Introduce the three methods of heat transfer: conduction, convection, radiation.\n4. Demonstrate conduction with a metal spoon in hot water.\n5. Explain convection with a diagram of warm air rising.\n6. Discuss radiation: heat traveling through empty space (the sun warming Earth).\n7. Introduce electrical energy: the flow of electrons through conductors.\n8. Build a simple circuit: battery, wire, light bulb.\n9. Discuss conductors vs. insulators.\n10. Students experiment with circuits and heat transfer.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": [
+      "Metal and plastic spoons",
+      "Cups of warm water",
+      "Batteries (D-cell or AA)",
+      "Small light bulbs or LEDs",
+      "Insulated copper wire",
+      "Electrical tape",
+      "Various materials for conductor/insulator testing",
+      "Science journals",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Thermal and Electrical Energy",
+          "subheading": "Heat Transfer and Circuits That Power Our World"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Metal and plastic spoons",
+            "Cups of warm water",
+            "Batteries (D-cell or AA)",
+            "Small light bulbs or LEDs",
+            "Insulated copper wire",
+            "Electrical tape",
+            "Various materials for conductor/insulator testing",
+            "Science journals",
+            "Pencils"
+          ],
+          "setup_instructions": "Prepare heat transfer stations with metal and plastic spoons and warm water. Set up circuit-building stations with batteries, wire, bulbs, and tape. Gather assorted materials for conductor/insulator testing: coins, rubber bands, paper clips, wood, foil, glass."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "THERMAL ENERGY is the energy of particle movement within a substance. All matter is made of tiny particles that are constantly moving. The faster they move, the MORE thermal energy the substance has, and the HOTTER it feels. Temperature measures the average speed of these particles. Heat always flows from warmer objects to cooler objects — never the other way."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Heat transfers in three ways: CONDUCTION — heat moves through direct contact. Touch a metal spoon in hot soup and the handle gets warm — heat conducts through the metal. CONVECTION — heat moves through fluids (liquids and gases) as warm particles rise and cool particles sink, creating currents. RADIATION — heat travels as electromagnetic waves through empty space. The sun warms Earth through radiation across 93 million miles of vacuum."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "ELECTRICAL ENERGY is the energy of flowing electrons. For electricity to flow, you need a complete CIRCUIT — a closed loop. A circuit has: a POWER SOURCE (battery), CONDUCTORS (wires that carry electrons), and a LOAD (device that uses the energy, like a light bulb). If the circuit is broken at any point, electricity stops flowing — that is why a light switch works."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "CONDUCTORS are materials that allow electricity to flow easily — metals like copper, aluminum, and gold. INSULATORS are materials that resist electrical flow — rubber, plastic, glass, and wood. Wires are copper (conductor) coated in plastic (insulator) for safety. Your home's electrical system uses these same principles on a larger scale. Energy transformation: the battery's CHEMICAL energy becomes ELECTRICAL energy, which becomes LIGHT and THERMAL energy in the bulb."
+        },
+        {
+          "type": "activity",
+          "prompt": "Conduct two experiments: EXPERIMENT 1 — HEAT TRANSFER: Place a metal spoon and a plastic spoon in warm water. After 2 minutes, feel both handles. Which is warmer? Why? (Conduction.) Record observations and explain using particle movement. EXPERIMENT 2 — CIRCUITS: Build a complete circuit that lights a bulb. Draw a diagram. Then test 8 different materials by placing them in the circuit: does the bulb light? Sort materials into conductors and insulators. Record results in a data table. (3) Draw an energy transformation chain showing how energy changes form from battery to lit bulb. (4) Design a challenge: Can you make TWO bulbs light with one battery?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Thermal and electrical energy power nearly everything in modern life — heating our homes, cooking our food, powering our devices, and lighting our world. Both follow predictable rules: heat flows from hot to cold, electricity flows through complete circuits of conductive material. Understanding these rules helps you understand and even fix the technology around you.",
+          "mastery_check": "Can the student explain the three methods of heat transfer with examples, build a complete electrical circuit, distinguish conductors from insulators, and trace energy transformations?"
+        }
+      ]
+    },
+    "parent_notes": "This lesson combines two forms of energy that dominate daily life. The hands-on experiments make abstract concepts tangible. At home, identify examples of all three heat transfer methods: conduction (pot handle getting hot), convection (warm air from a heater rising), radiation (feeling the sun's warmth). For electrical energy, discuss how your home's circuits work — why do you flip a switch? What happens during a power outage? Safety note: reinforce that these classroom experiments use very low-voltage batteries, and that household electricity is dangerous. Never experiment with wall outlets.",
+    "age_adaptations": null,
+    "sort_order": 18
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 22,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Abstract Art — Expressing Ideas Without Representation",
+    "description": "Students explore abstract art through the works of Kandinsky, Mondrian, and Pollock, learning how artists use color, shape, line, and texture to express ideas and emotions without depicting recognizable subjects. They create their own abstract compositions using a chosen artistic element as the focus.",
+    "instructions": "1. Define abstract art: art that does not attempt to represent reality.\n2. Connect to Cubism as a stepping stone toward pure abstraction.\n3. Examine Kandinsky's 'Composition VIII' — discuss how shapes and colors express emotion.\n4. Study Mondrian's geometric abstractions — discuss order, balance, and primary colors.\n5. View Pollock's action paintings — discuss energy, movement, and spontaneous expression.\n6. Compare the three artists' very different approaches to abstraction.\n7. Discuss: Can art communicate without showing recognizable objects?\n8. Demonstrate three techniques: geometric composition, color-field painting, action dripping.\n9. Students choose a technique and create their own abstract artwork.\n10. Gallery walk: viewers share what emotions or ideas each piece communicates.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Art reproductions (Kandinsky, Mondrian, Pollock)",
+      "Large paper or canvas board",
+      "Tempera or acrylic paints",
+      "Rulers and geometric tools",
+      "Painter's tape (for Mondrian-style)",
+      "Brushes of various sizes",
+      "Squeeze bottles (for drip painting)",
+      "Drop cloths or newspapers"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Abstract Art",
+          "subheading": "Expressing Ideas Beyond Representation"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Art reproductions (Kandinsky, Mondrian, Pollock)",
+            "Large paper or canvas board",
+            "Tempera or acrylic paints",
+            "Rulers and geometric tools",
+            "Painter's tape (for Mondrian-style)",
+            "Brushes of various sizes",
+            "Drop cloths or newspapers"
+          ],
+          "setup_instructions": "Display reproductions of all three artists. Set up three technique stations: geometric composition with rulers and tape, color-field with brushes and paint, and drip painting with squeeze bottles on newspaper-covered floor. Ensure smock or old clothes protection."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Throughout history, art always showed SOMETHING — a person, a landscape, a bowl of fruit. Then in the early 1900s, artists asked: What if art did not represent anything at all? What if pure SHAPES, COLORS, and LINES could express ideas and emotions directly, the way music does? You do not ask what a song looks like — you ask how it makes you FEEL. Abstract art works the same way."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Wassily KANDINSKY believed colors and shapes have emotional power: yellow is aggressive and exciting, blue is calm and spiritual, red is warm and confident. Circles suggest harmony, triangles suggest tension, squares suggest stability. His paintings are visual SYMPHONIES — arranged like music to create emotional experiences."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Piet MONDRIAN took the opposite approach: extreme simplification. He used ONLY straight lines, right angles, and primary colors (red, yellow, blue) plus black, white, and gray. His art seeks perfect BALANCE and ORDER — a visual expression of mathematical harmony. Look at a Mondrian painting: every line and color block is precisely placed."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Jackson POLLOCK laid his canvas on the floor and DRIPPED, poured, and flung paint onto it. His method was called ACTION PAINTING because the physical act of painting was as important as the result. Pollock's paintings pulse with raw energy and movement. No two are alike because each one captured a unique moment of creative expression."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create an abstract artwork using one of three approaches: OPTION A — KANDINSKY-STYLE: Use geometric shapes and colors to express an EMOTION (joy, anger, calm, excitement). Choose colors and shapes that match your feeling. Arrange them to create a visual rhythm. OPTION B — MONDRIAN-STYLE: Use painter's tape and rulers to create a grid of rectangles. Fill selected rectangles with primary colors. Aim for perfect balance. OPTION C — POLLOCK-STYLE: On paper on the floor, drip and pour paint to create an energetic composition. Move around the paper, varying speed and direction. Title your artwork with the idea or emotion you were expressing. Be ready to explain your artistic choices during the gallery walk.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Abstract art proves that art does not need to look like something to MEAN something. From Kandinsky's emotional colors to Mondrian's mathematical balance to Pollock's explosive energy, abstract artists found ways to communicate directly through the elements of art itself. Your own abstract creation expressed an idea through pure visual language — no words or recognizable images needed.",
+          "mastery_check": "Can the student explain what abstract art is, compare the approaches of Kandinsky, Mondrian, and Pollock, and create an abstract artwork that uses color, shape, or line to express an idea or emotion?"
+        }
+      ]
+    },
+    "parent_notes": "Abstract art can be polarizing — some children love the freedom while others feel lost without a 'subject' to draw. Both reactions are valid. The key lesson is that art communicates through elements (color, shape, line, texture) even without recognizable subjects. If your child says 'Anyone could do that,' discuss the thought and intention behind each artist's choices — Mondrian spent years perfecting the placement of a single line. Pollock's seemingly random drips follow patterns that mathematicians have compared to fractals in nature. Abstract art develops creative confidence because there is no 'wrong' — every mark is an expressive choice.",
+    "age_adaptations": null,
+    "sort_order": 19
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "practical_life",
+    "week_number": 22,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Community Service in Action — Organizing and Executing a Project",
+    "description": "Students refine their community service project plans, assign roles, create timelines, and begin executing their chosen initiative. They practice leadership, teamwork, communication, and problem-solving as they work toward making a tangible positive impact in their community.",
+    "instructions": "1. Review the winning project proposal from the previous practical life session.\n2. Discuss what makes projects succeed: clear roles, realistic timelines, and communication.\n3. Assign team roles: project leader, materials coordinator, communications lead, documentation lead.\n4. Create a detailed action plan with daily tasks and deadlines.\n5. Identify potential obstacles and create contingency plans.\n6. Draft communications: letters to organizations, flyers for community members, permission requests.\n7. Begin assembling materials and resources needed.\n8. Practice the pitch: each team member explains their role and the project's importance.\n9. Document progress with photos, notes, and a project journal.\n10. Reflect: What challenges have you already encountered and how did you solve them?",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": [
+      "Winning project proposal",
+      "Action plan template",
+      "Role assignment cards",
+      "Communication templates (letter, flyer)",
+      "Project journal",
+      "Markers and poster supplies",
+      "Camera or tablet for documentation",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Community Service in Action",
+          "subheading": "From Planning to Doing — Making a Difference"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Winning project proposal",
+            "Action plan template",
+            "Role assignment cards",
+            "Communication templates (letter, flyer)",
+            "Project journal",
+            "Markers and poster supplies",
+            "Pencils"
+          ],
+          "setup_instructions": "Have the winning project proposal displayed. Set up workstations for different tasks: action planning, communication drafting, materials assembly, and documentation. Prepare role assignment cards and communication templates."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A plan is only as good as its execution. Today we move from PLANNING to DOING. Every successful project needs: CLEAR ROLES so everyone knows their responsibility, a TIMELINE with specific deadlines, COMMUNICATION so the team stays coordinated, and DOCUMENTATION to track progress and share your impact with others."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Team roles ensure accountability: PROJECT LEADER coordinates the team and makes decisions when the group is stuck. MATERIALS COORDINATOR tracks what supplies are needed and who is bringing what. COMMUNICATIONS LEAD handles letters, flyers, and outreach. DOCUMENTATION LEAD takes photos, keeps the project journal, and will help present the final results."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Effective communication is essential for community service. You may need to write a letter requesting permission, create a flyer inviting participation, or make an announcement. Professional communication is: clear (state what you are doing), polite (thank people for their time), specific (include dates, times, and locations), and compelling (explain WHY this project matters)."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Expect OBSTACLES and plan for them. What if it rains on your outdoor event? What if you do not get enough volunteers? What if a material is unavailable? For every potential problem, have a CONTINGENCY PLAN — a backup option. Professional project managers always ask: 'What could go wrong, and what will we do about it?' This is not pessimism — it is smart planning."
+        },
+        {
+          "type": "activity",
+          "prompt": "Execute your project plan: (1) Assign roles and confirm each person understands their responsibilities. (2) Complete the detailed action plan with tasks, assigned owners, and deadlines. (3) Draft at least one communication: a letter to an organization, a flyer for the community, or a permission request. (4) List all materials needed and assign who will gather each item by when. (5) Identify three potential obstacles and write contingency plans. (6) Begin executing immediate tasks: make calls, gather materials, create signs. (7) Document everything in the project journal: decisions made, tasks completed, challenges encountered.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Moving from a plan to action requires leadership, teamwork, and the ability to solve problems as they arise. These are the same skills that every professional uses — from business leaders to community organizers to engineers. Your community service project is not just helping others; it is developing the skills you need to make a difference throughout your life.",
+          "mastery_check": "Can the student fulfill their assigned role effectively, create professional communications, develop contingency plans for obstacles, and contribute to the team's progress toward the project goal?"
+        }
+      ]
+    },
+    "parent_notes": "This lesson transforms planning into action, developing real-world project management skills. Your child may need help executing certain tasks at home — gathering materials, making phone calls to organizations, or getting transportation to a service location. Your involvement models the community engagement you want your child to develop. Ask your child about their specific role and what they need to accomplish. The documentation aspect (photos, journal) teaches them to tell the story of their impact, which builds communication skills and provides a portfolio of meaningful work.",
+    "age_adaptations": null,
+    "sort_order": 20
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 22,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Culminating Debate — Putting All Skills Together",
+    "description": "Students participate in a formal culminating debate that demonstrates mastery of all skills developed during the week: structured arguments with evidence, strategic rebuttals, source evaluation, respectful discourse, and persuasive communication. Judges evaluate using comprehensive rubrics.",
+    "instructions": "1. Review debate format, expectations, and evaluation criteria.\n2. Give teams five minutes for final preparation and strategy.\n3. Conduct the first formal debate with full format and timing.\n4. Judges score using rubrics without teacher intervention.\n5. Brief intermission for feedback and encouragement.\n6. Conduct the second formal debate.\n7. Judges deliberate and share scores with constructive feedback.\n8. Class discussion: What made the strongest arguments effective?\n9. Individual reflection: What debate skills have you developed this week?\n10. Celebrate all participants and discuss how debate skills apply to life.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": [
+      "Debate format poster",
+      "Timer",
+      "Judge evaluation rubrics (final version)",
+      "Evidence cards and research notes",
+      "Score sheets",
+      "Reflection worksheet",
+      "Certificates of participation (optional)",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Culminating Debate",
+          "subheading": "Demonstrating Mastery of Argumentation and Persuasion"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Debate format poster",
+            "Timer",
+            "Judge evaluation rubrics (final version)",
+            "Evidence cards and research notes",
+            "Score sheets",
+            "Reflection worksheet",
+            "Pencils"
+          ],
+          "setup_instructions": "Arrange the room formally for debate. Post the format and time limits. Distribute final evaluation rubrics to judges. Ensure debaters have all their evidence cards and research. Set up the timer where all can see it."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "This is your moment to shine. Today's debate is the culmination of an entire week of skill-building: CER arguments, ACE rebuttals, CRAAP source evaluation, cross-examination, respectful language, and strategic evidence organization. Every skill you have practiced comes together now."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Final preparation reminders: (1) Open STRONG — your first impression matters. (2) Lead with your BEST evidence. (3) Listen ACTIVELY during your opponent's arguments — the best rebuttals respond to what was actually said, not what you assumed they would say. (4) Stay CALM under pressure. (5) Close by summarizing your strongest points and leaving the judges with a memorable final statement."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Judges, your role is crucial. Score each criterion independently: Evidence Quality (are facts accurate and well-sourced?), Argument Structure (is the CER framework used effectively?), Rebuttal Effectiveness (do rebuttals directly address specific opposing points?), Delivery (is the speaker clear, confident, and composed?), Persuasiveness (which side makes the more compelling overall case?). Provide specific, constructive feedback."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Win or lose, every debater grows. The real victory is not the score — it is the intellectual growth. A week ago, you may not have known what a rebuttal was. Now you can construct evidence-based arguments, counter opposing points strategically, and evaluate the quality of information. These are skills that will serve you for the rest of your life."
+        },
+        {
+          "type": "activity",
+          "prompt": "DEBATERS: Deliver your best performance across all debate sections. Use evidence cards strategically. Listen actively and respond specifically in rebuttals. Maintain composure and respectful language throughout. JUDGES: Score independently using the rubric. Take notes on specific moments that were effective or could improve. Prepare constructive feedback for each debater. ALL STUDENTS: After both debates, complete the individual reflection: (1) What debate skill did you improve most this week? (2) What was the hardest part of debating? (3) How will you use debate skills outside of this class? (4) Rate your own performance and set one goal for improvement.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Congratulations — you are now debaters. The skills you developed this week — constructing arguments, evaluating evidence, listening critically, countering with respect — are among the most valuable communication skills in the world. They apply everywhere: in persuasive writing, in science when defending a hypothesis, in history when analyzing events, and in life when making important decisions. Never stop questioning, never stop seeking evidence, and never stop listening to the other side.",
+          "mastery_check": "Can the student deliver a complete debate performance with structured arguments, researched evidence, effective rebuttals, and respectful discourse, while reflecting on their growth as a critical thinker?"
+        }
+      ]
+    },
+    "parent_notes": "The culminating debate is a milestone event that showcases your child's growth in critical thinking and communication. Whether your child debated or judged, they developed valuable skills. Ask them to share what they argued, what their opponent's best point was, and how they responded. The reflection question about using debate skills outside class is especially important — these skills transfer to persuasive writing, science fair presentations, and everyday decision-making. Consider celebrating your child's participation regardless of the debate outcome; the courage to argue a position publicly is itself an achievement.",
+    "age_adaptations": null,
+    "sort_order": 21
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 22,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Pre-Algebra Review — Variables, Equations, and Problem Solving",
+    "description": "Students consolidate all pre-algebra skills from the week through a comprehensive review that includes writing expressions, solving one-step and two-step equations, working with inequalities, and applying algebraic reasoning to real-world multi-step problems.",
+    "instructions": "1. Quick warm-up: translate five word phrases into algebraic expressions.\n2. Review one-step equations with all four operations.\n3. Review two-step equations and the order of inverse operations.\n4. Review equations with variables on both sides.\n5. Review inequalities and graphing on number lines.\n6. Present a multi-step real-world problem that requires setting up and solving an equation.\n7. Students work through a comprehensive skills assessment.\n8. Partner problem-solving: create and exchange challenge problems.\n9. Discuss common mistakes and strategies for avoiding them.\n10. Reflect: How has your understanding of algebra grown this week?",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": [
+      "Comprehensive review worksheet",
+      "Number line templates",
+      "Real-world problem cards",
+      "Algebra tiles (for support)",
+      "Self-assessment checklist",
+      "Lined paper",
+      "Pencils",
+      "Calculators"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Pre-Algebra Review",
+          "subheading": "Variables, Equations, and Real-World Problem Solving"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Comprehensive review worksheet",
+            "Number line templates",
+            "Real-world problem cards",
+            "Algebra tiles (for support)",
+            "Self-assessment checklist",
+            "Lined paper",
+            "Pencils",
+            "Calculators"
+          ],
+          "setup_instructions": "Prepare a comprehensive review worksheet covering all equation types from the week. Create real-world problem cards with multi-step scenarios. Have algebra tiles available for students who need concrete support. Print self-assessment checklists."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "This week you learned the foundations of ALGEBRA — the most powerful branch of mathematics. Let us review the progression: (1) VARIABLES represent unknown numbers. (2) EXPRESSIONS combine variables with operations. (3) EQUATIONS set two expressions equal and can be SOLVED. (4) INEQUALITIES show relationships using greater than/less than and have RANGES of solutions."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Solving strategy review: ONE-STEP equations — use one inverse operation. TWO-STEP equations — undo addition/subtraction first, then multiplication/division. VARIABLES ON BOTH SIDES — collect variable terms on one side first, then solve. INEQUALITIES — solve like equations, then graph on a number line (open circle for > or <, closed for >= or <=)."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Common mistakes to avoid: (1) Forgetting to do the SAME operation to BOTH sides. (2) Confusing the order in two-step equations — always undo addition/subtraction BEFORE multiplication/division. (3) Forgetting to CHECK your answer. (4) Mixing up open and closed circles on inequality graphs. (5) Writing the wrong inequality direction. ALWAYS check by substituting your answer back into the original."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Real-world algebra ties it all together. Every time you face a problem with an unknown quantity and a relationship between numbers, you have an equation waiting to be written and solved. The ability to translate a real situation into mathematical language — and then solve it — is one of the most powerful thinking skills in the world."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete the comprehensive review: SECTION A — Write algebraic expressions for 5 word phrases. SECTION B — Solve 4 one-step equations. SECTION C — Solve 4 two-step equations. SECTION D — Solve 2 equations with variables on both sides. SECTION E — Solve 3 inequalities and graph on number lines. SECTION F — Solve 2 real-world word problems by writing and solving equations. PARTNER CHALLENGE: Create two original problems (one equation, one inequality) based on real-life situations. Exchange with a partner and solve each other's problems. Complete the self-assessment checklist: rate your confidence on each skill from 1-5.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "In one week, you have gone from learning what a variable is to solving complex equations and inequalities. That is remarkable growth. These pre-algebra skills are the gateway to all advanced mathematics — and they are tools you will use in science, business, technology, and everyday problem-solving for the rest of your life. You are ready for algebra.",
+          "mastery_check": "Can the student write algebraic expressions, solve one-step and two-step equations, handle variables on both sides, solve and graph inequalities, and apply algebraic reasoning to real-world problems?"
+        }
+      ]
+    },
+    "parent_notes": "This review lesson consolidates an impressive week of algebraic learning. Your child has covered content typically introduced in middle school, building a strong foundation for future math success. The self-assessment checklist helps your child identify their own strengths and areas for growth — a metacognitive skill as valuable as the math itself. If your child rates any skill below a 3, review those problems together. The real-world application problems are especially important because they show that algebra is not abstract puzzle-solving but a practical tool for understanding and navigating the world.",
+    "age_adaptations": null,
+    "sort_order": 22
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 22,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "The Holocaust and the End of World War II",
+    "description": "Students learn about the Holocaust as a systematic genocide carried out by the Nazi regime, studying its progression from discrimination to mass murder. They also examine the war's conclusion, including the atomic bombs and the founding of the United Nations. The lesson emphasizes human dignity, moral responsibility, and the importance of remembrance.",
+    "instructions": "1. Frame the discussion: this is difficult but essential history that we study to honor victims and prevent repetition.\n2. Define genocide and the Holocaust: the systematic murder of six million Jewish people and millions of others.\n3. Trace the escalation: discrimination (Nuremberg Laws), segregation (ghettos), deportation (concentration camps), and extermination.\n4. Share age-appropriate survivor testimonies or diary excerpts (Anne Frank).\n5. Discuss the concept of 'bystanders' vs. 'upstanders' — people who stood by vs. those who helped.\n6. Transition to the war's end: the atomic bombs on Hiroshima and Nagasaki.\n7. Discuss the moral complexity of the atomic bomb decision.\n8. Introduce the founding of the United Nations as the world's response to prevent future wars.\n9. Students write reflections on moral responsibility and remembrance.\n10. Discuss: What is our responsibility to remember and learn from the Holocaust?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Age-appropriate Holocaust reading materials",
+      "Anne Frank diary excerpts",
+      "Photographs of liberation (age-appropriate)",
+      "United Nations founding information",
+      "Reflection journal",
+      "Timeline (updated)",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "The Holocaust and the End of World War II",
+          "subheading": "Remembrance, Responsibility, and the Pursuit of Peace"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Age-appropriate Holocaust reading materials",
+            "Anne Frank diary excerpts",
+            "Photographs of liberation (age-appropriate)",
+            "United Nations founding information",
+            "Reflection journal",
+            "Timeline (updated)",
+            "Pencils"
+          ],
+          "setup_instructions": "Carefully select age-appropriate materials — focus on individual stories (like Anne Frank) rather than graphic imagery. Prepare the discussion with sensitivity and care. Have tissues available. Create a safe, respectful atmosphere for this difficult topic."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "The HOLOCAUST was the systematic, state-sponsored murder of six million Jewish people by the Nazi regime during WWII. Millions of others were also killed: Roma people, disabled people, political opponents, LGBTQ individuals, and prisoners of war. This was GENOCIDE — the deliberate destruction of a people. We study this not to cause pain, but because REMEMBERING is how we work to prevent it from ever happening again."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "The Holocaust did not happen overnight. It escalated in stages: first DISCRIMINATION (laws stripping Jewish people of rights), then SEGREGATION (forcing Jewish families into cramped ghettos), then DEPORTATION (transporting people to concentration camps), and finally EXTERMINATION (the death camps). Each stage was worse, and at each stage, people had the chance to resist — some did, most did not."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Anne Frank was a Jewish girl who hid with her family in a secret annex in Amsterdam for two years. Her diary, written between ages 13 and 15, is one of the most powerful documents of the Holocaust. She wrote: 'In spite of everything, I still believe that people are really good at heart.' Anne died in a concentration camp just weeks before liberation. Her words remind us of the humanity that persecution tried to destroy."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "WWII ended in Europe on May 8, 1945. In the Pacific, the U.S. dropped atomic bombs on Hiroshima (August 6) and Nagasaki (August 9), and Japan surrendered on August 15. The atomic bomb remains one of history's most debated decisions — it ended the war but killed over 200,000 people. In response to the war's horrors, 51 nations founded the UNITED NATIONS in 1945, pledging 'never again.'"
+        },
+        {
+          "type": "activity",
+          "prompt": "Thoughtful reflection: (1) Read the provided excerpt from Anne Frank's diary. Write a response: What strikes you most about her words? How does her perspective, as a young person your age, affect how you understand the Holocaust? (2) Define 'bystander' and 'upstander.' Why do you think more people were bystanders than upstanders during the Holocaust? What might have made it easier to be an upstander? (3) Update your WWII timeline with the Holocaust, atomic bombs, and UN founding. (4) Write a one-page reflection answering: Why is it important to remember the Holocaust? What is our responsibility as people who learn this history?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Holocaust is the most devastating example of what happens when hatred goes unchallenged, when bystanders stay silent, and when a society dehumanizes a group of people. Studying it is not easy, but it is necessary. Holocaust survivor Elie Wiesel said: 'The opposite of love is not hate; it is indifference.' Our responsibility is to remember, to speak up against injustice, and to never be indifferent.",
+          "mastery_check": "Can the student explain the Holocaust and its escalating stages, describe the war's end including the atomic bomb decision and UN founding, and articulate the importance of remembrance and moral responsibility?"
+        }
+      ]
+    },
+    "parent_notes": "This is among the most sensitive lessons in the curriculum. The Holocaust is taught at this age in an age-appropriate way, focusing on individual stories (Anne Frank), the escalation of discrimination, and moral lessons rather than graphic details. Your child may have strong emotional reactions — sadness, anger, confusion — all of which are appropriate. Create space for conversation at home. Key discussion points: the importance of standing up against bullying and discrimination (being an 'upstander'), the danger of dehumanizing any group, and why we must remember history's darkest chapters. If your child needs additional processing time, the United States Holocaust Memorial Museum offers age-appropriate educational resources.",
+    "age_adaptations": null,
+    "sort_order": 23
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 22,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Energy Transformations — Building a Rube Goldberg Machine",
+    "description": "Students apply their knowledge of all energy types to design and build simple Rube Goldberg machines that demonstrate multiple energy transformations. They identify kinetic, potential, thermal, and electrical energy conversions in their chain-reaction devices and document each transformation scientifically.",
+    "instructions": "1. Review all energy types studied: kinetic, potential (gravitational, elastic, chemical), thermal, electrical.\n2. Introduce Rube Goldberg machines as chain-reaction devices with multiple energy transformations.\n3. Show examples of simple Rube Goldberg machines and identify energy types at each stage.\n4. Discuss the engineering design challenge: build a machine with at least 5 steps and 3 energy transformations.\n5. Students brainstorm and sketch designs, labeling energy types at each step.\n6. Provide available materials and let teams build their machines.\n7. Test and iterate — troubleshoot steps that fail.\n8. Document each step with a diagram showing energy transformations.\n9. Teams demonstrate their machines and explain the science.\n10. Reflect: What does this project teach about how energy moves through systems?",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": [
+      "Dominoes",
+      "Marbles and ramps (cardboard tubes)",
+      "Toy cars",
+      "Rubber bands",
+      "String and pulleys",
+      "Books and blocks for ramps",
+      "Cups and balls",
+      "Science journals",
+      "Pencils",
+      "Tape"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Energy Transformations",
+          "subheading": "Building a Rube Goldberg Chain Reaction Machine"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Dominoes",
+            "Marbles and ramps (cardboard tubes)",
+            "Toy cars",
+            "Rubber bands",
+            "String and pulleys",
+            "Books and blocks for ramps",
+            "Cups and balls",
+            "Science journals",
+            "Pencils",
+            "Tape"
+          ],
+          "setup_instructions": "Set up building stations with all available materials. Clear large table or floor space for each team. Have science journals ready for documentation. Prepare to video-record final demonstrations if possible."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "A RUBE GOLDBERG MACHINE is an overly complicated chain-reaction device that performs a simple task through many connected steps. Each step triggers the next, and at each transition, energy TRANSFORMS from one type to another. These machines are both fun engineering challenges AND perfect demonstrations of energy transformation principles."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Example chain: (1) Push a domino (kinetic energy). (2) Dominoes fall in a line (kinetic transfers between dominoes). (3) Last domino pushes a marble off a ledge (gravitational potential converts to kinetic). (4) Marble rolls down a ramp (potential to kinetic). (5) Marble hits a cup balanced on a lever, which tips and pulls a string (kinetic to mechanical). Each transition is an energy transformation."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Your challenge: Build a machine with AT LEAST 5 steps and AT LEAST 3 different energy transformations. You must be able to IDENTIFY and EXPLAIN the energy type at each step and the transformation between steps. The machine should perform a simple final task: ring a bell, turn on a light, knock down a target, or pop a balloon."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Engineering process: (1) SKETCH your design first — label energy types at every step. (2) BUILD one step at a time, testing as you go. (3) TROUBLESHOOT failures — why did a step not trigger the next? Was there not enough energy? Too much friction? Wrong angle? (4) ITERATE — adjust and improve until the chain works. (5) DOCUMENT — draw a final diagram showing every energy transformation."
+        },
+        {
+          "type": "activity",
+          "prompt": "Build your Rube Goldberg machine: (1) PLAN: Sketch your design with at least 5 steps. Label the energy type at each step and the transformation between steps. (2) BUILD: Construct your machine step by step, testing each transition. (3) TROUBLESHOOT: When steps fail, analyze why using energy concepts. Adjust and retry. (4) DOCUMENT: Create a scientific diagram of your final machine, labeling all energy types and transformations. (5) DEMONSTRATE: Run your machine for the class. Explain each energy transformation as it happens. (6) REFLECT: Which step was hardest to get working? What energy principle did you apply to fix it?",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Rube Goldberg machines show that energy flows through systems, transforming at each step but never disappearing — the Conservation of Energy in action. Every machine, from a simple lever to a complex factory, is a series of energy transformations. Understanding how energy moves and changes form is understanding how the physical world works.",
+          "mastery_check": "Can the student design and build a multi-step chain-reaction device, correctly identify energy types at each step, explain transformations between steps, and troubleshoot using energy concepts?"
+        }
+      ]
+    },
+    "parent_notes": "The Rube Goldberg machine project is a highlight that combines physics knowledge with engineering creativity. Your child is applying everything they have learned about energy in a hands-on, collaborative challenge. The troubleshooting process is especially valuable — when a step fails, students must diagnose the problem using scientific reasoning. If your child wants to build a more elaborate machine at home, encourage it with household materials. YouTube has many inspiring Rube Goldberg machine videos that can spark ideas. The key learning is that every machine, no matter how simple or complex, operates through energy transformations.",
+    "age_adaptations": null,
+    "sort_order": 24
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 22,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Art and Social Commentary — Using Creativity for Change",
+    "description": "Students explore how artists throughout history have used their work to comment on social issues, protest injustice, and inspire change. They study examples from Picasso's Guernica to modern street art, then create their own socially conscious artwork addressing an issue they care about.",
+    "instructions": "1. Discuss how art can be a powerful tool for social commentary and change.\n2. Examine Picasso's 'Guernica' — created in response to the bombing of a Spanish town during the Spanish Civil War.\n3. Study Diego Rivera's murals depicting the lives of workers and indigenous people.\n4. View examples of modern social commentary art: street art, protest posters, political cartoons.\n5. Discuss: What makes socially conscious art effective?\n6. Connect to the community service project: how can art raise awareness?\n7. Brainstorm social issues students care about.\n8. Students plan and create a piece of socially conscious artwork.\n9. Write artist statements explaining their work's message and purpose.\n10. Gallery walk with artist statements — discuss the power of art as activism.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": [
+      "Art reproductions (Guernica, Rivera murals, modern examples)",
+      "Large paper or poster board",
+      "Mixed media supplies (paint, markers, collage materials)",
+      "Magazines for collage",
+      "Scissors and glue",
+      "Artist statement template",
+      "Pencils"
+    ],
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Art and Social Commentary",
+          "subheading": "Using Creativity as a Force for Change"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Art reproductions (Guernica, Rivera murals, modern examples)",
+            "Large paper or poster board",
+            "Mixed media supplies (paint, markers, collage materials)",
+            "Magazines for collage",
+            "Scissors and glue",
+            "Artist statement template",
+            "Pencils"
+          ],
+          "setup_instructions": "Display reproductions of Guernica, Rivera murals, and modern social commentary art. Set up art stations with mixed media supplies. Prepare artist statement templates. Provide magazines for collage if students choose that medium."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Throughout history, artists have used their talents to speak truth to power, protest injustice, and inspire change. Art can reach people in ways that speeches and articles cannot — it communicates through emotion, imagery, and symbolism. A single powerful image can change how people think about an issue."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "GUERNICA by Picasso is perhaps the most famous protest painting ever created. In 1937, German planes (allied with Spanish dictator Franco) bombed the town of Guernica, killing hundreds of civilians. Picasso painted his response: a massive, anguished scene in black, white, and gray showing the horror of war. The painting traveled the world and turned international opinion against the bombing of civilians."
+        },
+        {
+          "type": "instruction",
+          "step": 3,
+          "text": "Diego RIVERA painted enormous murals on public buildings in Mexico, showing the lives, struggles, and dignity of workers and indigenous people. His art was accessible to everyone — not hidden in museums for the wealthy but displayed on walls where ordinary people could see it. Rivera believed art should serve the people and address social justice."
+        },
+        {
+          "type": "instruction",
+          "step": 4,
+          "text": "Effective social commentary art: (1) Addresses a SPECIFIC issue clearly. (2) Evokes EMOTION — makes the viewer feel something. (3) Uses SYMBOLISM to deepen the message. (4) Is ACCESSIBLE — understandable without an art degree. (5) INSPIRES ACTION or changes perspective. Your artwork today should address an issue you genuinely care about: environmental protection, equality, kindness, community, or any cause meaningful to you."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a piece of socially conscious art: (1) Choose an issue you care deeply about. Write it down and explain why it matters to you. (2) Plan your artwork: What medium will you use? What imagery and symbols will communicate your message? How will you evoke emotion? (3) Create your artwork using any available medium: painting, drawing, collage, mixed media, or poster design. (4) Write an ARTIST STATEMENT (3-5 sentences): What issue are you addressing? What is your message? Why did you choose this imagery and style? (5) Display your work with your statement for the gallery walk. During the walk, take time to read each artist's statement and reflect on how their art communicates its message.",
+          "duration_minutes": 25
+        },
+        {
+          "type": "wrap_up",
+          "text": "Art is not just decoration — it is a powerful tool for communication, protest, and change. From Picasso's Guernica to today's street art, artists have always used their skills to address the issues of their time. Your socially conscious artwork joins this tradition. This week, through Cubism, abstract art, and now social commentary, you have seen that art can represent multiple perspectives, express pure emotion, and fight for justice.",
+          "mastery_check": "Can the student explain how artists use their work for social commentary, analyze the message and techniques of socially conscious artworks, and create an original piece that addresses a social issue with a clear artist statement?"
+        }
+      ]
+    },
+    "parent_notes": "This lesson beautifully connects art to the social justice themes running through history and reading this week. Your child is learning that creativity is not just self-expression but can be a tool for positive change. The artist statement develops metacognitive writing skills — explaining their artistic choices and intentions. Display your child's socially conscious artwork at home to show you value their voice and perspective. This lesson also connects to the community service project: art can raise awareness and inspire action. Encourage your child to think about how they can use their creative skills to contribute to causes they care about.",
+    "age_adaptations": null,
+    "sort_order": 25
+  }
+]

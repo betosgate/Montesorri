@@ -1,0 +1,702 @@
+[
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 17,
+    "day_of_week": 1,
+    "quarter": 2,
+    "title": "Research Papers — Choosing a Topic and Asking Questions",
+    "description": "Students learn how to select a research topic by identifying personal interests, narrowing broad subjects, and formulating research questions. They practice turning vague curiosities into focused, answerable questions that can guide a multi-week research project.",
+    "instructions": "1. Discuss what makes a good research topic: interesting, specific, and researchable.\n2. Model narrowing a broad topic (e.g., 'animals' to 'how octopuses use camouflage').\n3. Introduce the question funnel: broad question to focused question.\n4. Brainstorm potential topics across subjects.\n5. Practice writing research questions using who, what, how, and why.\n6. Student selects a topic and drafts three research questions.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Writer's notebook", "Research topic brainstorm sheet", "Index cards", "Pencils", "Sample research papers (age-appropriate)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Choosing Your Research Topic", "subheading": "From Curiosity to Focused Questions"},
+        {"type": "materials", "items": ["Writer's notebook", "Research topic brainstorm sheet", "Index cards", "Pencils"], "setup_instructions": "Prepare a brainstorm sheet with columns for subject areas. Have index cards ready for writing research questions."},
+        {"type": "instruction", "step": 1, "text": "A research paper is different from a report. A report summarizes what is already known. A research paper investigates a question — it seeks to understand, compare, or explain something. Today you will choose a topic that genuinely interests you and craft questions to guide your research."},
+        {"type": "instruction", "step": 2, "text": "Watch how we narrow a topic. Start broad: 'Space.' That is too big for one paper. Narrow it: 'Planets in our solar system.' Still broad. Narrow again: 'Why does Jupiter have so many moons?' Now we have a focused question we can research. Your topic should be specific enough to cover in 3-5 pages."},
+        {"type": "instruction", "step": 3, "text": "Good research questions start with how or why, not just what. 'What is the Renaissance?' leads to a summary. 'How did the printing press change the spread of ideas during the Renaissance?' leads to analysis and argument. Aim for questions that require you to think, not just copy facts."},
+        {"type": "instruction", "step": 4, "text": "Use the question funnel on your index cards. Write your broad topic at the top. Below it, write 2-3 narrower versions. At the bottom, write your focused research question. Test it: Can you find sources about this? Is it specific enough? Does it require thinking, not just listing?"},
+        {"type": "activity", "prompt": "Brainstorm at least 8 topics you are curious about across different subjects — history, science, geography, literature, anything. Circle your top 3. For each, use the question funnel to narrow it to a focused research question. Choose your favorite and write it on a clean index card. Below the question, write 3 sub-questions that would help you answer the main question.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You now have a research question that will guide your work over the coming weeks. A strong question is the foundation of a strong paper. Tomorrow we will begin outlining your paper and identifying what sources you will need.", "mastery_check": "Can the student narrow a broad topic into a focused, answerable research question? Can they generate sub-questions that support the main question?"}
+      ]
+    },
+    "parent_notes": "Research writing is a cornerstone of upper elementary Montessori. The goal this week is to move through the entire research paper process: choosing a topic, outlining, drafting, and revising. Help your child choose a topic they genuinely care about — motivation matters enormously for sustained writing projects. If they struggle to narrow, ask: 'What specifically about that topic surprises you or makes you curious?' Guide them away from topics that are too broad (all of World War II) or too narrow (one specific battle detail with no available sources).",
+    "age_adaptations": null,
+    "sort_order": 1
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 17,
+    "day_of_week": 1,
+    "quarter": 2,
+    "title": "Multiplying Fractions — Visual Models and the Algorithm",
+    "description": "Students explore fraction multiplication using area models and grid paper before learning the standard algorithm. They discover that multiplying fractions produces a smaller result and connect this to the concept of taking a part of a part.",
+    "instructions": "1. Review fraction basics: numerator, denominator, proper fractions.\n2. Introduce the concept: 1/2 of 1/3 means 1/2 times 1/3.\n3. Demonstrate with area models on grid paper.\n4. Show the algorithm: multiply numerators, multiply denominators.\n5. Practice with simple fractions, then mixed numbers.\n6. Apply to word problems involving fractional quantities.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Grid paper", "Colored pencils (2 colors)", "Fraction bars", "Math journal", "Ruler"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Multiplying Fractions", "subheading": "Taking a Part of a Part"},
+        {"type": "materials", "items": ["Grid paper", "Colored pencils (2 colors)", "Fraction bars", "Math journal"], "setup_instructions": "Prepare grid paper with several 6x6 grids drawn. Have two different colored pencils ready for shading overlapping areas."},
+        {"type": "instruction", "step": 1, "text": "What does 3 times 4 mean? Three groups of four. What does 1/2 times 1/3 mean? One-half of one-third. When we multiply fractions, we are finding a part of a part. This is why the answer is smaller than either fraction — we are taking a piece of something that is already less than one whole."},
+        {"type": "instruction", "step": 2, "text": "Area Model: Draw a rectangle on grid paper. Divide it into 3 equal columns and shade 1 column blue — that is 1/3. Now divide the same rectangle into 2 equal rows and shade 1 row yellow — that is 1/2. The overlap (where blue and yellow mix) shows 1/2 of 1/3. Count: the rectangle has 6 parts total, and 1 part is overlapping. So 1/2 x 1/3 = 1/6."},
+        {"type": "instruction", "step": 3, "text": "The Algorithm: Multiply the numerators together and the denominators together. 1/2 x 1/3 = (1x1)/(2x3) = 1/6. Try: 2/3 x 3/4 = (2x3)/(3x4) = 6/12 = 1/2. Always simplify your answer. You can also simplify before multiplying by cross-canceling common factors."},
+        {"type": "instruction", "step": 4, "text": "Mixed Numbers: Convert to improper fractions first. Example: 1 1/2 x 2/3. Convert: 1 1/2 = 3/2. Now multiply: 3/2 x 2/3 = 6/6 = 1. Notice we could cross-cancel: the 3 in the numerator and the 3 in the denominator, and the 2s as well, giving 1/1 = 1."},
+        {"type": "activity", "prompt": "Draw area models for: 1/2 x 1/4, 2/3 x 3/5, and 3/4 x 2/3. Then solve using the algorithm and verify your area model matches. Next, solve without models: 5/6 x 3/10, 4/7 x 7/8, 2 1/4 x 1/3, 1 2/5 x 5/6. Simplify all answers. Write one word problem that uses fraction multiplication.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Multiplying fractions means finding a part of a part. The algorithm is straightforward — multiply across — but the area model shows you why it works. Remember to simplify your answers and convert mixed numbers to improper fractions first. Tomorrow we tackle dividing fractions.", "mastery_check": "Can the student multiply proper fractions and mixed numbers, simplify the result, and explain why the product is smaller than either factor?"}
+      ]
+    },
+    "parent_notes": "Fraction multiplication is often easier than addition for students because the algorithm is simpler — just multiply across. The conceptual challenge is understanding why the answer gets smaller. The area model is crucial for building this understanding. If your child can do the algorithm but cannot explain why 1/2 x 1/3 = 1/6, spend more time with the visual models. Cross-canceling (simplifying before multiplying) is a useful shortcut but should only be introduced after the basic algorithm is solid. Real-world connections help: 'If a recipe needs 3/4 cup of flour and we are making half the recipe, how much flour do we need?'",
+    "age_adaptations": null,
+    "sort_order": 2
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 17,
+    "day_of_week": 1,
+    "quarter": 2,
+    "title": "The Italian Renaissance — Rebirth of Learning",
+    "description": "Students explore the origins of the Renaissance in 14th-century Italy, examining how the rediscovery of Greek and Roman texts, the rise of wealthy city-states like Florence, and the decline of feudalism sparked an explosion of art, science, and philosophy.",
+    "instructions": "1. Define Renaissance ('rebirth') and discuss what was being reborn.\n2. Examine the conditions in Italy that made the Renaissance possible: trade wealth, city-states, patronage.\n3. Introduce key figures: the Medici family as patrons of art and learning.\n4. Compare medieval and Renaissance worldviews (God-centered vs. human-centered).\n5. Study primary source excerpts from Petrarch on classical learning.\n6. Create a cause-and-effect chart for the rise of the Renaissance.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["History journal", "Map of Italian city-states", "Timeline of the Renaissance", "Images of medieval vs. Renaissance art", "Primary source excerpts (Petrarch)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "The Italian Renaissance", "subheading": "A Rebirth of Learning and Beauty"},
+        {"type": "materials", "items": ["History journal", "Map of Italian city-states", "Timeline of the Renaissance", "Art comparison images"], "setup_instructions": "Print or display a map of Italy showing Florence, Venice, Rome, and Milan. Prepare side-by-side images of medieval and Renaissance art."},
+        {"type": "instruction", "step": 1, "text": "The word Renaissance means 'rebirth' in French. But what was being reborn? After nearly a thousand years of the Middle Ages, Europeans rediscovered the writings, art, and ideas of ancient Greece and Rome. Scholars, artists, and thinkers began to ask: What can humans achieve? This shift — from focusing only on the afterlife to celebrating human potential — changed everything."},
+        {"type": "instruction", "step": 2, "text": "Why Italy? Three reasons. First, Italian city-states like Florence, Venice, and Genoa grew wealthy from trade with Asia and the Middle East. Second, wealthy families like the Medici became patrons — they funded artists, architects, and scholars. Third, Italy was surrounded by Roman ruins and had access to Greek manuscripts preserved by Byzantine and Islamic scholars. The ingredients for a cultural explosion were all in one place."},
+        {"type": "instruction", "step": 3, "text": "Humanism was the intellectual heart of the Renaissance. Humanists believed in studying classical texts (Greek and Latin), in the value of education, and in human dignity and potential. This did not mean they rejected religion — most were devout Christians — but they believed God wanted humans to develop their talents fully. Petrarch, often called the Father of Humanism, wrote: 'I am alive... and that is enough.'"},
+        {"type": "instruction", "step": 4, "text": "Compare these two artworks: a medieval painting shows flat, symbolic figures with gold backgrounds — the focus is on heaven. A Renaissance painting by Giotto shows three-dimensional figures with real emotions and natural settings — the focus is on human experience. This shift in art mirrors the shift in thinking. Both are beautiful, but they reflect different values."},
+        {"type": "activity", "prompt": "Create a cause-and-effect chart in your history journal. On the left, list at least 5 causes of the Renaissance (trade wealth, rediscovery of classical texts, patronage, fall of Constantinople, urban growth). On the right, list effects (new art styles, humanism, scientific inquiry, printing press impact). Draw arrows connecting related causes and effects. Then write a paragraph answering: Why did the Renaissance begin in Italy rather than somewhere else?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The Renaissance did not happen overnight — it grew from seeds planted by trade, wealth, curiosity, and ancient wisdom. Italy's unique position as heir to Rome and gateway to Eastern knowledge made it the birthplace of this cultural revolution. Next we will meet the great artists and thinkers who defined this era.", "mastery_check": "Can the student explain at least three factors that caused the Renaissance and describe how humanism differed from medieval thinking?"}
+      ]
+    },
+    "parent_notes": "The Renaissance is a rich topic for upper elementary students because it connects art, history, science, and philosophy. Help your child see that the Renaissance was not a sudden event but a gradual transformation driven by economic, social, and intellectual changes. The art comparison is powerful — search for 'medieval vs Renaissance art comparison' for striking side-by-side images. If your child is interested in the Medici family, the topic offers great opportunities for research. Emphasize that humanism did not mean anti-religious; it meant believing that studying human achievements honored God.",
+    "age_adaptations": null,
+    "sort_order": 3
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "geography",
+    "week_number": 17,
+    "day_of_week": 1,
+    "quarter": 2,
+    "title": "Economic Geography — What Is Trade and Why Does It Exist?",
+    "description": "Students explore the fundamentals of economic geography by examining why nations trade, how natural resources influence economies, and the concept of comparative advantage. They map the origins of everyday products to understand global interconnection.",
+    "instructions": "1. Define economic geography and its key questions.\n2. Discuss why countries trade: uneven distribution of resources.\n3. Introduce comparative advantage with a simple example.\n4. Examine 5 everyday products and trace their origins on a world map.\n5. Discuss imports, exports, and trade balance.\n6. Create a product origin map showing global trade connections.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["World political map (large)", "Colored string or yarn", "Push pins or tape", "Product labels (from household items)", "Geography journal", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Economic Geography", "subheading": "Why the World Trades"},
+        {"type": "materials", "items": ["World political map", "Colored string or yarn", "Push pins or tape", "Product labels from household items", "Geography journal"], "setup_instructions": "Mount a large world map on a board. Collect 5-10 product labels showing country of origin. Have string ready to connect your location to origin countries."},
+        {"type": "instruction", "step": 1, "text": "Economic geography studies how people make, distribute, and use goods around the world. Why does Saudi Arabia sell oil to Japan? Why does Brazil export coffee to the United States? Why is your phone designed in California and assembled in China? The answers lie in natural resources, climate, labor, technology, and history."},
+        {"type": "instruction", "step": 2, "text": "No country has everything it needs. Brazil has the perfect climate for coffee but needs electronics. Japan has advanced technology but few natural resources. This uneven distribution of resources is the fundamental reason trade exists. Countries specialize in what they can produce best and trade for what they cannot."},
+        {"type": "instruction", "step": 3, "text": "Comparative Advantage: Imagine two countries — one makes both shoes and computers well, but makes computers much better. The other makes shoes well but computers poorly. It makes sense for the first country to focus on computers and the second on shoes, then trade. Both end up with more of both goods. This is comparative advantage — specializing in what you do relatively best."},
+        {"type": "instruction", "step": 4, "text": "Look at the labels of products in your home. Your shirt might say 'Made in Bangladesh.' Your fruit might come from Chile. Your electronics from China, South Korea, or Taiwan. Each label tells a story of resources, labor, trade routes, and economic decisions. Imports are goods coming into your country; exports are goods going out."},
+        {"type": "activity", "prompt": "Examine at least 8 product labels from around your home. For each, record: the product, its country of origin, and what resource or skill that country provides. Pin or tape string from your location on the map to each origin country. Then in your geography journal, answer: Which continent appears most often? Which products travel the farthest? Why do you think certain countries specialize in certain products?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Every product you use connects you to people and places around the world. Trade exists because resources are unevenly distributed and countries benefit from specialization. This week we will explore how trade routes developed, how trade can help or harm nations, and how economic geography shapes world politics.", "mastery_check": "Can the student explain why trade exists, define comparative advantage in their own words, and trace the origins of at least 5 household products?"}
+      ]
+    },
+    "parent_notes": "Economic geography helps children understand the interconnected world they live in. The product label activity is eye-opening — most children are surprised to discover how many countries contributed to their daily life. Help your child check labels on clothing, food, electronics, and toys. If comparative advantage seems abstract, use a household analogy: if one sibling is great at both cooking and cleaning but extraordinary at cooking, and the other is okay at cleaning, it makes sense for the first to cook and the second to clean. Both benefit from specializing. This week builds toward understanding global trade systems, trade agreements, and economic inequality.",
+    "age_adaptations": null,
+    "sort_order": 4
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 17,
+    "day_of_week": 1,
+    "quarter": 2,
+    "title": "The Giver — Chapters 1-3: A Perfect Community?",
+    "description": "Students begin Lois Lowry's 'The Giver,' meeting Jonas and his seemingly perfect community. They examine the society's rules and rituals, discuss the concept of 'Sameness,' and begin to notice subtle clues that something is not quite right beneath the surface.",
+    "instructions": "1. Introduce the book and author Lois Lowry.\n2. Read chapters 1-3 aloud together.\n3. Discuss the community's rules: precision of language, sharing of feelings, assigned roles.\n4. Identify what seems appealing and what seems troubling about this society.\n5. Introduce the concept of dystopia.\n6. Make predictions about what Jonas will discover.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["The Giver by Lois Lowry", "Reading journal", "Pencils", "Sticky notes for marking passages"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "The Giver", "subheading": "Chapters 1-3: Welcome to the Community"},
+        {"type": "materials", "items": ["The Giver by Lois Lowry", "Reading journal", "Pencils", "Sticky notes"], "setup_instructions": "Have the book ready. Prepare a two-column chart in the reading journal labeled 'Appealing' and 'Troubling' for noting observations about Jonas's community."},
+        {"type": "instruction", "step": 1, "text": "Lois Lowry wrote The Giver in 1993. It won the Newbery Medal and has been read by millions. The story takes place in a future community that has eliminated pain, conflict, and choice — but at a cost. As we read, pay attention to the details of daily life. What seems perfect? What seems wrong? Lowry plants clues from the very first page."},
+        {"type": "instruction", "step": 2, "text": "As we read chapters 1-3, notice the community's rituals: the evening sharing of feelings, the morning dream-telling, the precision of language (Jonas is corrected for saying he is 'starving' when he means 'hungry'). Every detail is controlled. Also notice what is missing — what do you not hear about in this community?"},
+        {"type": "instruction", "step": 3, "text": "Chapter 1 opens with Jonas feeling 'apprehensive' about the coming Ceremony of Twelve. This is when children receive their life assignments. Notice the language: children are not born to parents, they are assigned to family units. There are rules for everything. Even the word 'love' has been eliminated as imprecise."},
+        {"type": "instruction", "step": 4, "text": "A dystopia is a society that appears perfect on the surface but has dark truths underneath. The opposite of utopia (a perfect society), a dystopia shows what happens when the desire for order and safety goes too far. As we continue reading, we will discover what this community has given up in exchange for its comfortable sameness."},
+        {"type": "activity", "prompt": "In your reading journal, create a two-column chart. On the left, list everything that seems appealing about Jonas's community (no hunger, no conflict, everyone has a role). On the right, list everything that seems troubling or strange (no choices, no color mentioned, 'release' of the elderly). Write 3 predictions: What do you think Jonas's assignment will be? What do you think 'release' really means? What has the community sacrificed for Sameness?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The Giver asks one of the most important questions in philosophy: Is it worth giving up freedom and individuality for safety and comfort? Jonas's community chose Sameness — no pain, but also no joy, no color, no music, no love. As we read on, we will discover the true cost of this choice through Jonas's eyes.", "mastery_check": "Can the student describe at least 3 rules of Jonas's community and explain the concept of dystopia? Can they identify at least 2 details that hint something is wrong?"}
+      ]
+    },
+    "parent_notes": "The Giver is a profound novel that raises questions about freedom, individuality, conformity, and the cost of safety. It is appropriate for ages 10-12 but deals with heavy themes including euthanasia (called 'release') and the suppression of emotion. Read alongside your child and be ready for deep conversations. The book does not give easy answers, which is its greatest strength. If your child finds the community appealing at first, that is by design — Lowry wants readers to feel the seduction of a painless world before revealing its cost. This book pairs beautifully with the history unit on the Renaissance, which was also about the awakening of individual human potential.",
+    "age_adaptations": null,
+    "sort_order": 5
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 17,
+    "day_of_week": 2,
+    "quarter": 2,
+    "title": "Research Papers — Creating an Outline",
+    "description": "Students learn to organize their research into a structured outline, using their research questions to create main sections and sub-points. They practice the formal outline format with Roman numerals and learn how an outline serves as a roadmap for writing.",
+    "instructions": "1. Review the student's research question from yesterday.\n2. Introduce the formal outline structure: Roman numerals, capital letters, numbers.\n3. Model creating an outline from a sample research question.\n4. Discuss the purpose of each section: introduction, body paragraphs, conclusion.\n5. Student drafts their own outline with main points and sub-points.\n6. Peer review or parent review of the outline for logic and completeness.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Writer's notebook", "Research question from Day 1", "Outline template", "Pencils", "Index cards with sub-questions"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Building Your Research Outline", "subheading": "A Roadmap for Your Paper"},
+        {"type": "materials", "items": ["Writer's notebook", "Research question index card", "Outline template", "Pencils"], "setup_instructions": "Have the research question from Day 1 visible. Prepare an outline template showing the Roman numeral format."},
+        {"type": "instruction", "step": 1, "text": "An outline is a roadmap for your paper. Just as you would not drive across the country without directions, you should not write a research paper without a plan. Your outline organizes your ideas before you write, saving time and preventing confusion. Today we turn your research question into a structured plan."},
+        {"type": "instruction", "step": 2, "text": "Formal outline format: I. Introduction (hook, background, thesis). II. First Main Point (with sub-points A, B, C). III. Second Main Point (with sub-points). IV. Third Main Point (with sub-points). V. Conclusion (restate thesis, summarize, final thought). Each Roman numeral becomes a paragraph or section."},
+        {"type": "instruction", "step": 3, "text": "Your sub-questions from yesterday become your main points. If your research question is 'How did the printing press change education?', your sub-questions might be: 'What was education like before the printing press?' (Section II), 'How did the printing press make books available?' (Section III), and 'How did widespread books change who could learn?' (Section IV). Each sub-question drives a section of your paper."},
+        {"type": "instruction", "step": 4, "text": "Under each main point, list 2-3 sub-points (labeled A, B, C). These are the specific evidence, examples, or details you plan to include. You do not need to have all the evidence yet — this outline will guide your research. Mark items you still need to look up with a question mark."},
+        {"type": "activity", "prompt": "Draft a complete outline for your research paper using formal outline format. Include: I. Introduction (with your thesis statement), II-IV. Three main sections (based on your sub-questions, with at least 2 sub-points each), V. Conclusion. For each sub-point, note whether you already have information or need to research it. Share your outline with a parent or peer and ask: Does this order make sense? Is anything missing?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Your outline is the skeleton of your paper. Every section has a purpose, every sub-point supports a main idea, and everything connects back to your research question. Tomorrow you will begin drafting, starting with the body paragraphs — not the introduction. Writers often find it easier to write the introduction last, once they know what they are introducing.", "mastery_check": "Can the student create a formal outline with Roman numerals, main points, and sub-points that logically address their research question?"}
+      ]
+    },
+    "parent_notes": "The outline is the most important step in the research paper process. A good outline prevents the 'I do not know what to write next' problem. Review your child's outline for logical flow: do the sections build on each other? Is anything missing or out of order? Encourage them to think of the outline as flexible — it can change as they learn more. The formal outline format (Roman numerals, letters, numbers) teaches hierarchical thinking, which is valuable across all subjects. If your child resists outlining, remind them that professional writers, architects, and engineers all plan before they build.",
+    "age_adaptations": null,
+    "sort_order": 6
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 17,
+    "day_of_week": 2,
+    "quarter": 2,
+    "title": "Dividing Fractions — Why We Flip and Multiply",
+    "description": "Students explore fraction division through the concept of 'how many groups of this size fit into that amount?' They use visual models to understand why dividing by a fraction is the same as multiplying by its reciprocal, then practice the standard algorithm.",
+    "instructions": "1. Review multiplication of fractions from yesterday.\n2. Pose a division problem: How many 1/4-cup servings in 3 cups?\n3. Demonstrate with visual models: number lines and fraction bars.\n4. Introduce the reciprocal and the 'Keep-Change-Flip' algorithm.\n5. Explain why the algorithm works using mathematical reasoning.\n6. Practice with proper fractions, mixed numbers, and word problems.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Fraction bars", "Number line (0 to 5)", "Math journal", "Colored pencils", "Measuring cups (optional, for demonstration)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Dividing Fractions", "subheading": "How Many Groups Fit?"},
+        {"type": "materials", "items": ["Fraction bars", "Number line", "Math journal", "Colored pencils"], "setup_instructions": "Draw a number line from 0 to 5 with quarter marks. Have fraction bars ready. If available, have actual measuring cups for a concrete demonstration."},
+        {"type": "instruction", "step": 1, "text": "What does 12 divided by 3 mean? How many groups of 3 fit into 12? Answer: 4 groups. Fraction division works the same way. What does 3 divided by 1/4 mean? How many groups of 1/4 fit into 3? Use your measuring cups or fraction bars: How many quarter-cups fill 3 cups? Count: 12! So 3 ÷ 1/4 = 12."},
+        {"type": "instruction", "step": 2, "text": "Notice something: 3 ÷ 1/4 = 12, and 3 x 4 = 12. Dividing by 1/4 gave the same result as multiplying by 4. This is not a coincidence. The reciprocal of 1/4 is 4/1 (flip the fraction). Dividing by a number is always the same as multiplying by its reciprocal. This is the mathematical principle behind 'Keep-Change-Flip.'"},
+        {"type": "instruction", "step": 3, "text": "Keep-Change-Flip: To divide fractions, KEEP the first fraction, CHANGE division to multiplication, FLIP the second fraction (use its reciprocal). Example: 2/3 ÷ 3/4 → Keep 2/3, Change to ×, Flip 3/4 to 4/3. Now multiply: 2/3 x 4/3 = 8/9."},
+        {"type": "instruction", "step": 4, "text": "With mixed numbers, convert to improper fractions first, then apply Keep-Change-Flip. Example: 2 1/2 ÷ 1/3. Convert: 5/2 ÷ 1/3. Keep 5/2, change to ×, flip to 3/1. Multiply: 5/2 x 3/1 = 15/2 = 7 1/2. Check: Does it make sense that seven and a half groups of 1/3 fit into 2 1/2? Yes!"},
+        {"type": "activity", "prompt": "Solve using Keep-Change-Flip and simplify: 1/2 ÷ 1/4, 3/5 ÷ 2/3, 5/8 ÷ 1/2, 7/10 ÷ 3/5, 3 1/3 ÷ 2/3, 4 1/2 ÷ 1 1/4. For the first two, also draw a visual model showing how many groups fit. Word problem: A recipe calls for 3/4 cup of sugar. You have 4 1/2 cups. How many batches can you make?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Dividing by a fraction means asking 'how many of these groups fit into that amount?' The shortcut — Keep-Change-Flip — works because dividing by a number equals multiplying by its reciprocal. This is one of the most powerful fraction skills you will use in algebra and beyond.", "mastery_check": "Can the student divide fractions and mixed numbers using the reciprocal method, simplify the result, and explain why the algorithm works?"}
+      ]
+    },
+    "parent_notes": "Fraction division is often the most confusing fraction operation for students. The 'Keep-Change-Flip' algorithm is easy to memorize but hard to understand. The key insight is that dividing by a fraction asks 'how many groups of this size fit in?' Using measuring cups makes this concrete — if you have 2 cups of flour and need 1/3 cup per cookie, how many cookies can you make? (6). Physical demonstrations prevent the algorithm from becoming meaningless symbol manipulation. If your child asks 'Why does flipping work?', that is a sign of deep mathematical thinking — encourage it rather than dismissing it.",
+    "age_adaptations": null,
+    "sort_order": 7
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 17,
+    "day_of_week": 2,
+    "quarter": 2,
+    "title": "Introduction to Atoms — The Building Blocks of Everything",
+    "description": "Students explore the concept of atoms as the fundamental building blocks of all matter. They learn about the three subatomic particles (protons, neutrons, electrons), how atoms are structured, and how the ancient Greek idea of 'atomos' became modern atomic theory.",
+    "instructions": "1. Begin with the question: What is everything made of?\n2. Tell the history: Democritus and 'atomos' (uncuttable).\n3. Introduce the modern atom: nucleus (protons + neutrons) and electron cloud.\n4. Discuss the properties of each subatomic particle.\n5. Build a model of a simple atom (hydrogen, helium, carbon).\n6. Connect atoms to elements on the periodic table.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Modeling clay (3 colors)", "Toothpicks or wire", "Periodic table poster", "Science journal", "Small beads or pom-poms"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Atoms", "subheading": "The Building Blocks of Everything"},
+        {"type": "materials", "items": ["Modeling clay (3 colors)", "Toothpicks or wire", "Periodic table poster", "Science journal"], "setup_instructions": "Assign clay colors: red for protons, blue for neutrons, yellow for electrons. Have the periodic table visible. Clear a workspace for model building."},
+        {"type": "instruction", "step": 1, "text": "Take any object — a book, a rock, your hand. What is it made of? Molecules. What are molecules made of? Atoms. Atoms are the smallest unit of an element that retains that element's properties. They are unimaginably small: about 100 million atoms could fit across the width of your fingernail. Yet everything in the universe is built from atoms."},
+        {"type": "instruction", "step": 2, "text": "The ancient Greek philosopher Democritus (460-370 BC) proposed that if you kept cutting matter in half, you would eventually reach a piece so small it could not be cut further. He called this 'atomos' — meaning 'uncuttable.' He was remarkably close to right, though it took over 2,000 years for scientists to prove atoms exist and discover their internal structure."},
+        {"type": "instruction", "step": 3, "text": "Inside the atom: The nucleus is the dense center, containing protons (positive charge, +) and neutrons (no charge, 0). Orbiting the nucleus in an electron cloud are electrons (negative charge, -). Protons and neutrons are heavy; electrons are extremely light (about 1/1836 the mass of a proton). In a neutral atom, the number of protons equals the number of electrons."},
+        {"type": "instruction", "step": 4, "text": "The atomic number (on the periodic table) tells you the number of protons, which defines the element. Hydrogen has 1 proton, helium has 2, carbon has 6, oxygen has 8. The number of protons never changes for a given element — if you change the number of protons, you change the element entirely. This is what makes gold different from iron, oxygen different from nitrogen."},
+        {"type": "activity", "prompt": "Build clay models of three atoms: Hydrogen (1 proton, 0 neutrons, 1 electron), Helium (2 protons, 2 neutrons, 2 electrons), and Carbon (6 protons, 6 neutrons, 6 electrons). Use red clay for protons, blue for neutrons (pack them together in the nucleus), and yellow for electrons (placed on toothpick orbits around the nucleus). Label each model. In your science journal, draw diagrams and record the atomic number and mass number for each.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Atoms are the alphabet of the physical world. Just as 26 letters combine to make every English word, about 118 elements combine to make every substance in the universe. Today you learned the three subatomic particles and how they determine an element's identity. Next we will explore the periodic table — the map of all known elements.", "mastery_check": "Can the student name the three subatomic particles, state their charges, and explain how the atomic number identifies an element?"}
+      ]
+    },
+    "parent_notes": "Atomic structure is foundational to all chemistry and physics. The clay model activity makes abstract concepts tangible. Emphasize that the model is a simplification — electrons do not actually orbit like planets, but the Bohr model is appropriate for this age level. If your child asks how we know atoms exist if we cannot see them, that is a great question — scientists inferred their existence from chemical reactions, then confirmed it with electron microscopes and particle accelerators. The periodic table will be explored in depth over the coming lessons. Consider hanging a periodic table in your learning space for easy reference.",
+    "age_adaptations": null,
+    "sort_order": 8
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 17,
+    "day_of_week": 2,
+    "quarter": 2,
+    "title": "Renaissance Art Masters — Leonardo da Vinci",
+    "description": "Students study Leonardo da Vinci as the quintessential Renaissance man, examining his paintings, inventions, and scientific notebooks. They analyze the Mona Lisa and The Last Supper, learning about sfumato technique, and create their own study sketch in Leonardo's style.",
+    "instructions": "1. Introduce Leonardo da Vinci: artist, scientist, inventor, engineer.\n2. Examine the Mona Lisa: composition, sfumato, mysterious smile.\n3. Study The Last Supper: perspective, drama, storytelling in art.\n4. Look at pages from Leonardo's notebooks: mirror writing, anatomical drawings, flying machines.\n5. Discuss what made Leonardo a 'Renaissance man.'\n6. Create a study sketch using sfumato shading technique.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Printed images of Leonardo's works", "Drawing paper", "Soft pencils (2B, 4B, 6B)", "Blending stumps or cotton swabs", "Art journal"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Leonardo da Vinci", "subheading": "The Ultimate Renaissance Man"},
+        {"type": "materials", "items": ["Printed images of Leonardo's works", "Drawing paper", "Soft pencils (2B, 4B, 6B)", "Blending stumps or cotton swabs", "Art journal"], "setup_instructions": "Print high-quality images of the Mona Lisa, The Last Supper, and at least one notebook page. Arrange soft pencils from lightest to darkest."},
+        {"type": "instruction", "step": 1, "text": "Leonardo da Vinci (1452-1519) was born in Vinci, Italy. He was a painter, sculptor, architect, musician, mathematician, engineer, inventor, anatomist, geologist, and writer. He is the definition of a 'Renaissance man' — someone with wide knowledge and many talents. Yet he considered himself primarily a painter, and his paintings changed art forever."},
+        {"type": "instruction", "step": 2, "text": "The Mona Lisa (1503-1519) is the most famous painting in the world. Study it closely. Notice how the edges of her face and smile are soft, almost blurry. This technique is called sfumato — Italian for 'smoky.' Leonardo applied dozens of thin layers of paint, building up soft transitions between light and shadow. No hard outlines. This makes the figure look alive and three-dimensional."},
+        {"type": "instruction", "step": 3, "text": "The Last Supper (1495-1498) tells the story of Jesus announcing that one of his disciples will betray him. Look at the composition: Jesus is at the center, perfectly framed by the window behind him. The disciples cluster in groups of three, each reacting differently. Leonardo used linear perspective — all lines converge on Jesus's head. Every artistic choice serves the story."},
+        {"type": "instruction", "step": 4, "text": "Leonardo's notebooks contain over 7,000 pages of sketches, scientific observations, and inventions — written in mirror script (right to left). He designed flying machines, armored tanks, bridges, and anatomical studies centuries ahead of his time. He wrote: 'Learning never exhausts the mind.' This insatiable curiosity is the heart of the Renaissance spirit."},
+        {"type": "activity", "prompt": "Practice the sfumato technique. Draw a simple sphere or an egg shape on your paper. Using your softest pencil, shade one side gradually from dark to light. Use a blending stump or cotton swab to smooth the transitions until there are no visible lines between light and shadow — only a gradual, smoky shift. Then try a face: draw a simple portrait and apply sfumato shading to the cheeks, nose, and jaw. Compare your drawing to the Mona Lisa's shading.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Leonardo da Vinci embodied the Renaissance ideal: endlessly curious, deeply skilled, and committed to understanding the world through both art and science. His sfumato technique revolutionized painting by making figures look real and alive. Next class we will study Michelangelo, another Renaissance giant with a very different style.", "mastery_check": "Can the student describe sfumato and demonstrate soft shading transitions? Can they explain why Leonardo is called a 'Renaissance man'?"}
+      ]
+    },
+    "parent_notes": "Leonardo da Vinci is endlessly fascinating for children. Search for 'Leonardo da Vinci notebook pages' to show your child the actual sketches of flying machines, anatomy studies, and inventions. The sfumato technique practice requires patience — encourage your child to build up layers slowly rather than pressing hard. If your child enjoys this, suggest they keep their own 'Leonardo notebook' where they sketch observations, ideas, and inventions. The connection between Leonardo's art and his scientific curiosity is a perfect illustration of the Renaissance spirit and connects well to this week's history lessons.",
+    "age_adaptations": null,
+    "sort_order": 9
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "practical_life",
+    "week_number": 17,
+    "day_of_week": 2,
+    "quarter": 2,
+    "title": "Financial Literacy — Understanding Money and Saving",
+    "description": "Students explore the fundamentals of personal finance, including the difference between needs and wants, the importance of saving, and how interest allows money to grow over time. They create a personal budget and savings plan using realistic scenarios.",
+    "instructions": "1. Discuss needs vs. wants with real examples.\n2. Introduce the concept of a budget: income, expenses, savings.\n3. Explain how saving works: paying yourself first.\n4. Introduce simple interest with concrete examples.\n5. Create a mock budget using a realistic allowance or income.\n6. Set a savings goal and calculate how long it will take to reach it.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Calculator", "Budget worksheet", "Play money (optional)", "Notebook", "Pencils", "Graph paper"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Understanding Money", "subheading": "Saving, Budgeting, and Growing Your Money"},
+        {"type": "materials", "items": ["Calculator", "Budget worksheet", "Notebook", "Pencils", "Graph paper"], "setup_instructions": "Prepare a simple budget template with categories for income, needs, wants, and savings. Have a calculator ready for interest calculations."},
+        {"type": "instruction", "step": 1, "text": "Money is a tool. Like any tool, you need to learn how to use it well. The first skill is knowing the difference between needs and wants. Needs are things you must have to survive and function: food, shelter, clothing, education, healthcare. Wants are things that are nice to have but not essential: video games, fancy shoes, eating out. Most financial problems come from treating wants as needs."},
+        {"type": "instruction", "step": 2, "text": "A budget is a plan for your money. It has three parts: Income (money coming in — allowance, gifts, earnings), Expenses (money going out — divided into needs and wants), and Savings (money set aside for the future). The golden rule: Spend less than you earn. Financial experts recommend: 50% needs, 30% wants, 20% savings."},
+        {"type": "instruction", "step": 3, "text": "Saving means keeping money for later instead of spending it now. Why save? For goals (a bike, a trip), for emergencies (unexpected costs), and for the future (college, a car). The trick is to 'pay yourself first' — put money into savings as soon as you receive it, before you spend on wants. If you wait to save what is left over, there is usually nothing left."},
+        {"type": "instruction", "step": 4, "text": "Interest is money that your money earns. If you put $100 in a savings account at 5% annual interest, after one year you have $105. The bank pays you for letting them use your money. Simple interest formula: Interest = Principal x Rate x Time. So $100 x 0.05 x 1 = $5. After 2 years: $100 x 0.05 x 2 = $10, total $110. Your money grows while you sleep!"},
+        {"type": "activity", "prompt": "Scenario: You receive $40 per month from allowance and small jobs. Create a monthly budget using the 50/30/20 rule ($20 needs, $12 wants, $8 savings). List specific items for each category. Then set a savings goal: something you want that costs $100. At $8/month savings with no interest, how many months until you reach your goal? Now calculate with 5% annual simple interest — how does that change your timeline? Graph your savings growth over 12 months.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Managing money is a life skill that affects everything. The basics are simple: know the difference between needs and wants, make a budget, save before you spend, and let interest work for you. These principles work whether you have $40 a month or $4,000. Next practical life session, we will explore how interest compounds over time and why starting to save early matters enormously.", "mastery_check": "Can the student create a basic budget with needs, wants, and savings categories? Can they calculate simple interest and determine a savings timeline?"}
+      ]
+    },
+    "parent_notes": "Financial literacy is one of the most practical skills your child will ever learn, yet it is rarely taught in schools. This lesson introduces concepts your child can apply immediately. Consider giving your child an actual allowance to practice budgeting — research shows children who manage real money develop better financial habits. The 50/30/20 rule is a simplified guideline; the important principle is that saving is intentional, not accidental. If your child asks about compound interest, that is coming next session. You might also open a real savings account together so your child can watch their money earn interest.",
+    "age_adaptations": null,
+    "sort_order": 10
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 17,
+    "day_of_week": 3,
+    "quarter": 2,
+    "title": "Research Papers — Drafting Body Paragraphs",
+    "description": "Students begin writing the body of their research paper, focusing on turning outline points into well-developed paragraphs. They learn the structure of a body paragraph: topic sentence, evidence, explanation, and transition.",
+    "instructions": "1. Review the outline from Day 2.\n2. Teach body paragraph structure: topic sentence, evidence, explanation, transition.\n3. Model writing one body paragraph from the sample outline.\n4. Discuss how to integrate evidence: direct quotes, paraphrasing, summarizing.\n5. Student writes at least two body paragraphs.\n6. Review for paragraph structure and evidence integration.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Writer's notebook", "Research outline", "Research notes or sources", "Pencils", "Body paragraph graphic organizer"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Drafting Body Paragraphs", "subheading": "Turning Your Outline into Flowing Prose"},
+        {"type": "materials", "items": ["Writer's notebook", "Research outline", "Research notes", "Pencils"], "setup_instructions": "Have the outline from Day 2 open and visible. Prepare a graphic organizer showing the parts of a body paragraph."},
+        {"type": "instruction", "step": 1, "text": "Today you begin the actual writing. Start with the body paragraphs — not the introduction. Why? Because you need to know what you have written before you can introduce it effectively. Your outline tells you what each paragraph is about. Now your job is to turn those bullet points into full, flowing paragraphs."},
+        {"type": "instruction", "step": 2, "text": "Every body paragraph has four parts: (1) Topic Sentence — states the main idea of this paragraph. (2) Evidence — facts, quotes, examples, or data that support the topic sentence. (3) Explanation — your analysis of why the evidence matters and how it connects to your thesis. (4) Transition — a sentence that bridges to the next paragraph. Think of it as: State it, Prove it, Explain it, Connect it."},
+        {"type": "instruction", "step": 3, "text": "Integrating evidence: There are three ways to use sources. Direct quote: 'The printing press was the internet of its day' (Author, Year). Paraphrase: According to Smith, the printing press had an impact similar to modern internet technology. Summary: Several historians agree that the printing press transformed information access. Always credit your sources. Never present someone else's words or ideas as your own."},
+        {"type": "instruction", "step": 4, "text": "A common mistake is the 'evidence sandwich' without enough bread. Do not just state a fact and move on. Explain why it matters. Bad: 'The printing press was invented in 1440.' Good: 'The printing press, invented by Gutenberg around 1440, reduced the cost of books by nearly 80%, making knowledge accessible to ordinary people for the first time in history.' Always explain the significance."},
+        {"type": "activity", "prompt": "Using your outline, draft at least two body paragraphs for your research paper. For each paragraph, follow the structure: topic sentence, evidence (with source credit), explanation of why it matters, and a transition sentence to the next paragraph. If you do not have enough research yet, note where you need more information with brackets: [NEED: specific statistic about X]. Focus on clear writing and logical flow.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You have begun transforming your outline into real writing. Body paragraphs are the meat of your paper — where you present evidence and build your argument. Tomorrow you will continue drafting and work on connecting your paragraphs into a cohesive piece. Remember: good writing is rewriting. Your first draft does not need to be perfect.", "mastery_check": "Can the student write a body paragraph with a clear topic sentence, supporting evidence, explanation, and transition? Do they properly credit sources?"}
+      ]
+    },
+    "parent_notes": "The transition from outline to draft is where many students struggle. Encourage your child to focus on getting ideas down rather than making every sentence perfect — revision comes later. If they experience writer's block, have them talk through their paragraph aloud first, then write what they said. The evidence integration skills taught here (quoting, paraphrasing, summarizing with attribution) are essential for academic integrity. At this age, proper citation format is less important than the habit of crediting sources. A simple '(Author name)' is sufficient.",
+    "age_adaptations": null,
+    "sort_order": 11
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 17,
+    "day_of_week": 3,
+    "quarter": 2,
+    "title": "Fraction Word Problems — Multiplication and Division in Context",
+    "description": "Students apply fraction multiplication and division to real-world scenarios including cooking, measurement, and fair-sharing problems. They learn to identify which operation is needed by analyzing the context of each problem.",
+    "instructions": "1. Review multiplication and division of fractions.\n2. Discuss how to determine which operation a word problem requires.\n3. Work through guided examples: scaling recipes, dividing supplies, measuring fabric.\n4. Introduce the strategy: 'Am I finding a part of something (multiply) or finding how many groups fit (divide)?'\n5. Independent problem-solving practice.\n6. Create original word problems for a partner.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Math journal", "Pencils", "Fraction bars (for checking)", "Word problem cards", "Calculator (for checking only)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Fraction Word Problems", "subheading": "Multiply or Divide? Context Is the Key"},
+        {"type": "materials", "items": ["Math journal", "Pencils", "Fraction bars", "Calculator (for checking)"], "setup_instructions": "Prepare word problem cards or have them ready to display. Fraction bars are for verification, not initial solving."},
+        {"type": "instruction", "step": 1, "text": "The hardest part of word problems is not the calculation — it is choosing the right operation. Here is a key question: Am I finding a PART of something? That is multiplication. Am I finding how many GROUPS fit? That is division. Example: '2/3 of the 24 students passed' → multiply (2/3 x 24 = 16). 'How many 1/4-pound burgers from 3 pounds of meat?' → divide (3 ÷ 1/4 = 12)."},
+        {"type": "instruction", "step": 2, "text": "Recipe Scaling: A recipe for 12 cookies calls for 3/4 cup flour. You want to make 2/3 of the recipe. How much flour? This is 'a part of an amount' → multiply. 2/3 x 3/4 = 6/12 = 1/2 cup flour. The key word was 'of' — in math, 'of' usually means multiply."},
+        {"type": "instruction", "step": 3, "text": "Fair Sharing: You have 4 1/2 feet of ribbon and need pieces that are 3/4 foot long. How many pieces can you cut? This is 'how many groups fit' → divide. 4 1/2 ÷ 3/4 = 9/2 x 4/3 = 36/6 = 6 pieces. Always check: Does 6 pieces of 3/4 foot equal 4 1/2 feet? 6 x 3/4 = 18/4 = 4 1/2. Yes!"},
+        {"type": "instruction", "step": 4, "text": "Strategy summary: (1) Read the problem twice. (2) Identify what you know and what you need to find. (3) Ask: Am I finding a part, or counting groups? (4) Set up the equation. (5) Solve. (6) Check: Does my answer make sense? A common error is getting a fraction division answer that is smaller than expected — remember, dividing by a fraction gives a bigger result."},
+        {"type": "activity", "prompt": "Solve these problems in your math journal, showing all work: (1) A garden is 5/6 acre. You plant flowers on 2/3 of it. How many acres of flowers? (2) A trail is 7 1/2 miles. You hike 3/4 mile per hour. How many hours to finish? (3) A painter uses 2/5 gallon per room. She has 3 1/2 gallons. How many rooms? (4) A pizza shop sold 3/4 of its 48 pizzas by noon. How many sold? Then write 2 original word problems (one multiplication, one division) for a partner to solve.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The key to fraction word problems is understanding the context. Multiplication finds a part of something. Division counts how many groups fit. Always check your answer against the original problem — does it make sense? These skills connect directly to real life: cooking, building, shopping, and measuring all use fraction operations.", "mastery_check": "Can the student correctly identify whether a word problem requires multiplication or division of fractions and solve it accurately?"}
+      ]
+    },
+    "parent_notes": "Word problems are where mathematical understanding meets real life. If your child struggles with choosing the right operation, have them act out the problem with physical objects. Cooking together is an excellent way to practice: double a recipe (multiply fractions), halve a recipe (multiply by 1/2), or figure out how many servings a container holds (divide). The ability to create original word problems demonstrates deep understanding — if your child can write a problem, they truly understand the concept. Encourage them to use realistic scenarios from their own life.",
+    "age_adaptations": null,
+    "sort_order": 12
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 17,
+    "day_of_week": 3,
+    "quarter": 2,
+    "title": "Renaissance Thinkers — From Art to Science",
+    "description": "Students study the great thinkers of the Renaissance including Leonardo da Vinci, Michelangelo, Galileo, and Copernicus. They examine how the Renaissance spirit of inquiry led to breakthroughs in art, architecture, science, and philosophy, and compare multiple perspectives on change.",
+    "instructions": "1. Review the causes of the Renaissance from Day 1.\n2. Study Leonardo da Vinci as artist and scientist.\n3. Examine Michelangelo's Sistine Chapel and David.\n4. Introduce Copernicus and the heliocentric model.\n5. Discuss how Renaissance curiosity challenged established authority.\n6. Create a Renaissance thinker profile page.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["History journal", "Images of Renaissance art and inventions", "Renaissance thinker biography cards", "Colored pencils", "Timeline from Day 1"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Great Minds of the Renaissance", "subheading": "Artists, Scientists, and Revolutionaries"},
+        {"type": "materials", "items": ["History journal", "Images of Renaissance art", "Biography cards", "Colored pencils", "Timeline"], "setup_instructions": "Prepare images of the Sistine Chapel ceiling, David, Vitruvian Man, and Copernicus's heliocentric diagram. Have biography cards or printouts for 4-5 key figures."},
+        {"type": "instruction", "step": 1, "text": "The Renaissance produced an extraordinary concentration of genius. In Florence alone, within a span of decades, you had Leonardo da Vinci, Michelangelo, Botticelli, Machiavelli, and Galileo. What made so many brilliant people emerge at once? The answer lies in the culture: curiosity was celebrated, patrons funded exploration, and the old rules were being questioned."},
+        {"type": "instruction", "step": 2, "text": "Leonardo da Vinci (1452-1519) was the ultimate Renaissance man. His paintings (Mona Lisa, The Last Supper) revolutionized art with techniques like sfumato and perspective. But he was equally a scientist: he dissected human bodies to understand anatomy, designed flying machines, and filled thousands of notebook pages with observations. He saw no boundary between art and science."},
+        {"type": "instruction", "step": 3, "text": "Michelangelo Buonarroti (1475-1564) spent four years painting the Sistine Chapel ceiling, lying on his back on scaffolding. The result — 343 figures across 5,000 square feet — is considered one of the greatest artistic achievements in history. His sculpture David (1504) captures the human body with such precision and beauty that it became a symbol of Florence itself. Michelangelo believed the sculpture already existed within the stone; he just freed it."},
+        {"type": "instruction", "step": 4, "text": "Nicolaus Copernicus (1473-1543) made perhaps the most revolutionary claim of the Renaissance: Earth is not the center of the universe. The sun is. This heliocentric model contradicted 1,400 years of accepted science and the teachings of the Church. Copernicus published his theory just before his death, knowing it would be controversial. Later, Galileo's telescope observations confirmed Copernicus was right — and Galileo was put on trial for it."},
+        {"type": "activity", "prompt": "Choose one Renaissance figure (Leonardo, Michelangelo, Copernicus, Galileo, or another you research). Create a one-page profile in your history journal including: name, dates, birthplace, key achievements (at least 3), one famous quote, a sketch of their most important work, and a paragraph explaining how they embodied the Renaissance spirit. Add this person to your timeline. At the bottom, write: How did this person's work change the way people thought?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The Renaissance thinkers shared one quality above all: they refused to accept that the old answers were the only answers. They looked at the world with fresh eyes and asked 'What if?' This spirit of inquiry — questioning, experimenting, creating — is the greatest legacy of the Renaissance. Next we will examine the Reformation, when this spirit of questioning turned to religion.", "mastery_check": "Can the student describe the achievements of at least three Renaissance figures and explain how their work reflected the Renaissance spirit of inquiry?"}
+      ]
+    },
+    "parent_notes": "The Renaissance thinkers make history personal and exciting. If your child gravitates toward one figure, encourage deeper research — there are excellent biographies of Leonardo, Michelangelo, and Galileo written for young readers. The tension between individual genius and institutional authority (especially the Church) is a recurring theme. Help your child see both perspectives: the Church provided stability and meaning, while the thinkers pushed for truth even when it was uncomfortable. This nuanced view is important for historical thinking. The connection between the art unit (Leonardo's sfumato) and this history lesson reinforces cross-curricular learning.",
+    "age_adaptations": null,
+    "sort_order": 13
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "geography",
+    "week_number": 17,
+    "day_of_week": 3,
+    "quarter": 2,
+    "title": "World Trade Routes — The Silk Road to Modern Shipping",
+    "description": "Students trace the evolution of trade routes from the ancient Silk Road to modern global shipping lanes. They examine how geography shaped trade patterns, why certain cities became trading hubs, and how the movement of goods also spread ideas, diseases, and cultures.",
+    "instructions": "1. Review why trade exists (comparative advantage, resource distribution).\n2. Trace the Silk Road on a map: China to the Mediterranean.\n3. Examine what was traded: silk, spices, ideas, religions, diseases.\n4. Discuss how geography determined trade routes: mountains, seas, deserts.\n5. Compare ancient routes to modern shipping lanes.\n6. Map a modern product's journey from raw material to consumer.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["World map (large)", "Colored markers or string", "Geography journal", "Images of the Silk Road", "Ruler", "Sticky notes"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "World Trade Routes", "subheading": "From the Silk Road to Container Ships"},
+        {"type": "materials", "items": ["World map", "Colored markers or string", "Geography journal", "Images of the Silk Road", "Sticky notes"], "setup_instructions": "Display a world map large enough to trace routes on. Prepare different colored markers for different historical periods: red for ancient, blue for colonial, green for modern."},
+        {"type": "instruction", "step": 1, "text": "For thousands of years, goods have traveled across the world along trade routes shaped by geography. Mountains force detours, oceans require ships, deserts demand oases. The most famous ancient trade route, the Silk Road, was not a single road but a network of paths connecting China to Rome, stretching over 4,000 miles across deserts, mountains, and grasslands."},
+        {"type": "instruction", "step": 2, "text": "The Silk Road (roughly 200 BC - 1400 AD) carried silk, spices, tea, and porcelain westward from China, and gold, silver, glass, and wool eastward from Rome and Persia. But goods were not the only things that traveled. Buddhism spread from India to China along the Silk Road. Islam spread from Arabia. Diseases like the Black Plague traveled from Asia to Europe. Trade routes are highways for everything — products, ideas, religions, and pathogens."},
+        {"type": "instruction", "step": 3, "text": "Cities that sat at crossroads of trade became wealthy and powerful: Constantinople (modern Istanbul) controlled the passage between Europe and Asia. Venice and Genoa grew rich as maritime trading hubs. Samarkand, in modern Uzbekistan, was a jewel of the Silk Road. Geography determined which cities thrived: harbors, river confluences, mountain passes, and canal intersections all created natural trading posts."},
+        {"type": "instruction", "step": 4, "text": "Modern trade routes follow the same geographic logic but use technology to overcome barriers. Container ships carry 90% of world trade along major shipping lanes: through the Suez Canal (connecting the Mediterranean and Indian Ocean), the Panama Canal (connecting the Atlantic and Pacific), and around the Cape of Good Hope. A single container ship carries as much cargo as 5,000 Silk Road camels."},
+        {"type": "activity", "prompt": "On your world map, trace in red the Silk Road from Xi'an, China to Rome. Mark key cities along the route (Samarkand, Baghdad, Constantinople). In blue, trace the major modern shipping lanes: through the Suez Canal, the Panama Canal, and around Africa. In your geography journal, choose one modern product (a smartphone, a banana, a T-shirt) and research its journey: Where are raw materials sourced? Where is it manufactured? How does it reach your home? Draw this supply chain on your map.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Trade routes are the arteries of civilization. They carry not just goods but ideas, cultures, and connections. The ancient Silk Road and modern shipping lanes exist for the same reason: geography creates opportunities and obstacles that shape how humans move things around the world. Next we will explore how trade creates both wealth and inequality.", "mastery_check": "Can the student trace the Silk Road on a map, name key trading cities, and explain how geography influences trade route locations?"}
+      ]
+    },
+    "parent_notes": "Trade routes make geography come alive because they connect places to products your child uses every day. The supply chain activity is particularly powerful — tracing a smartphone's journey reveals connections between mines in Congo, factories in China, ships through the Pacific, and stores in your town. Help your child research the journey of one product they care about. This lesson connects beautifully to the Renaissance history unit, as Italian city-states grew wealthy precisely because they controlled key trade routes. Encourage your child to see these connections across subjects.",
+    "age_adaptations": null,
+    "sort_order": 14
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 17,
+    "day_of_week": 3,
+    "quarter": 2,
+    "title": "The Giver — Chapters 4-7: The Ceremony of Twelve",
+    "description": "Students continue reading The Giver, following Jonas through volunteer hours and the momentous Ceremony of Twelve where children receive their life assignments. They analyze the community's system of assigned roles and discuss freedom of choice versus security.",
+    "instructions": "1. Review chapters 1-3 and the community's rules.\n2. Read chapters 4-7 aloud together.\n3. Discuss Jonas's volunteer work at the House of the Old and what 'release' means.\n4. Analyze the Ceremony of Twelve: how assignments are determined.\n5. Debate: Is it better to have your career chosen for you or to choose yourself?\n6. Make predictions about Jonas's assignment.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["The Giver by Lois Lowry", "Reading journal", "Pencils", "T-chart for debate notes"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "The Giver — Chapters 4-7", "subheading": "The Ceremony of Twelve"},
+        {"type": "materials", "items": ["The Giver by Lois Lowry", "Reading journal", "Pencils"], "setup_instructions": "Prepare a T-chart in the reading journal with 'Assigned Roles: Benefits' on the left and 'Assigned Roles: Drawbacks' on the right."},
+        {"type": "instruction", "step": 1, "text": "In chapters 4-7, we see more of Jonas's world. He volunteers at the House of the Old, where elderly citizens are cared for until they are 'released.' We watch younger children receive their comfort objects and bicycles at age ceremonies. And the Ceremony of Twelve approaches — the most important day in every child's life, when they learn what they will do forever."},
+        {"type": "instruction", "step": 2, "text": "Notice how the community assigns roles based on observation. Elders watch children during their volunteer hours and note their aptitudes and temperaments. There is no choice involved — no child applies for a position or expresses a preference. The Chief Elder explains the reasoning behind each assignment. The community believes this system prevents bad choices, unemployment, and unhappiness."},
+        {"type": "instruction", "step": 3, "text": "Lowry gives us a crucial detail: Jonas is skipped during the ceremony. Every other Eleven receives their assignment in numerical order, but Jonas's number is passed over. The tension is deliberate — both Jonas and the reader feel anxiety, confusion, and fear. This is masterful storytelling: Lowry uses structure (the ceremony order) to create emotion. Why do you think Jonas was skipped?"},
+        {"type": "instruction", "step": 4, "text": "Consider the philosophical question at the heart of these chapters: Is freedom of choice worth the risk of making bad choices? Jonas's community eliminated choice to eliminate suffering. No one chooses wrong because no one chooses at all. But what is lost? The community also cannot experience the pride of achievement, the excitement of discovery, or the satisfaction of following a passion."},
+        {"type": "activity", "prompt": "In your reading journal, complete the T-chart debate: List at least 4 benefits of assigned roles (no unemployment, no bad career choices, everyone contributes, less stress) and 4 drawbacks (no passion, no freedom, might not suit you, no sense of achievement). Then write a journal entry from Jonas's perspective on the night before the Ceremony of Twelve. What is he feeling? What does he hope for? What does he fear? Finally, predict: What assignment will Jonas receive and why?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The Ceremony of Twelve represents everything powerful and troubling about Jonas's community. It provides security at the cost of freedom. As Jonas is about to discover, his assignment will be unlike anything the community has seen. We will read about his unique role next time and begin to understand what the community has truly sacrificed.", "mastery_check": "Can the student explain how assignments work in Jonas's community and argue both sides of the choice versus security debate?"}
+      ]
+    },
+    "parent_notes": "These chapters deepen the philosophical questions introduced in chapters 1-3. The debate about assigned roles versus free choice is rich territory for family discussion. Ask your child: Would you want someone to choose your career for you? What if they could guarantee you would be good at it? The ceremony scene where Jonas is skipped is designed to create anxiety — discuss how Lowry builds tension through structure. If your child is racing ahead in the book, that is a good sign — The Giver is a page-turner. Just make sure they still engage with the discussion and journal activities for each reading session.",
+    "age_adaptations": null,
+    "sort_order": 15
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 17,
+    "day_of_week": 4,
+    "quarter": 2,
+    "title": "Research Papers — Introduction, Conclusion, and Citations",
+    "description": "Students learn to write an engaging introduction with a hook, background, and thesis, and a strong conclusion that restates the thesis and offers a final insight. They also learn basic citation practices to properly credit their sources.",
+    "instructions": "1. Review the body paragraphs from Day 3.\n2. Teach the introduction formula: hook, background, thesis.\n3. Model three types of hooks: question, startling fact, anecdote.\n4. Teach the conclusion: restate thesis, summarize main points, final thought.\n5. Introduce basic citation format (author, title, year).\n6. Student writes their introduction and conclusion.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Writer's notebook", "Drafted body paragraphs", "Citation guide handout", "Pencils", "Research sources"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Introduction, Conclusion, and Citations", "subheading": "Starting Strong and Finishing Well"},
+        {"type": "materials", "items": ["Writer's notebook", "Drafted body paragraphs", "Citation guide", "Pencils"], "setup_instructions": "Have body paragraphs from Day 3 available. Prepare a simple citation guide showing basic format."},
+        {"type": "instruction", "step": 1, "text": "The introduction is your reader's first impression. It must do three things: grab attention (hook), provide context (background), and state your main argument (thesis). Write the introduction after the body paragraphs so you know exactly what you are introducing. A strong introduction makes the reader think: 'I want to know more about this.'"},
+        {"type": "instruction", "step": 2, "text": "Three types of hooks: (1) Question: 'What would the world be like if no one could read?' (2) Startling fact: 'Before 1440, a single book cost as much as a house.' (3) Anecdote: 'When Johannes Gutenberg first pressed ink to paper in his workshop in Mainz, he could not have imagined that his invention would spark a revolution.' Choose the type that fits your topic best."},
+        {"type": "instruction", "step": 3, "text": "The conclusion is not just a summary — it is your last chance to make an impression. Restate your thesis in new words (do not copy it exactly). Briefly summarize your main points. Then end with a final thought: a prediction, a call to action, a connection to today, or a provocative question. Leave your reader thinking. Never introduce new evidence in the conclusion."},
+        {"type": "instruction", "step": 4, "text": "Citations give credit to your sources. For now, use this simple format at the end of your paper: Author Last Name, First Name. Title of Source. Year. For websites: Author (if known). 'Article Title.' Website Name. Year. URL. List all sources alphabetically. In your paper, when you use a fact from a source, add (Author Last Name) after it. This is the beginning of academic honesty."},
+        {"type": "activity", "prompt": "Write your introduction: Choose a hook type (question, fact, or anecdote), write 2-3 sentences of background, and end with your thesis statement. Then write your conclusion: restate your thesis differently, summarize your 3 main points in 1-2 sentences, and end with a final thought that leaves the reader thinking. Finally, create a source list with at least 3 sources using the citation format provided. Read your entire paper from introduction to conclusion — does it flow?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You now have a complete first draft of your research paper: introduction, body paragraphs, and conclusion, with citations. Tomorrow you will revise and edit. Remember, all good writing is rewriting. Your first draft is not meant to be perfect — it is meant to exist. Now we make it better.", "mastery_check": "Can the student write an introduction with hook, background, and thesis? Can they write a conclusion that restates the thesis and adds a final insight? Do they credit their sources?"}
+      ]
+    },
+    "parent_notes": "Having a complete first draft is a major accomplishment. Celebrate this milestone before diving into revision. The citation format taught here is simplified from MLA or APA — the important thing at this age is the habit of crediting sources, not the exact formatting. If your child's introduction seems weak, help them brainstorm hooks: What is the most surprising fact from their research? What question hooked them on this topic? The conclusion is often the hardest paragraph to write. If they struggle, have them answer: 'If someone reads only my first and last paragraphs, will they understand my main argument?'",
+    "age_adaptations": null,
+    "sort_order": 16
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 17,
+    "day_of_week": 4,
+    "quarter": 2,
+    "title": "Decimal Multiplication — Extending Whole Number Skills",
+    "description": "Students learn to multiply decimals by connecting the process to whole number multiplication and understanding place value. They use estimation to check reasonableness and discover the pattern of counting decimal places to place the decimal point.",
+    "instructions": "1. Review multiplying whole numbers.\n2. Connect decimals to fractions: 0.3 = 3/10.\n3. Demonstrate: multiply as whole numbers, then count decimal places.\n4. Use estimation to verify decimal placement.\n5. Practice with money contexts (prices, tax calculations).\n6. Solve multi-step decimal multiplication problems.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Math journal", "Grid paper", "Pencils", "Calculator (for checking)", "Play money or price tags"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Multiplying Decimals", "subheading": "Place Value and the Decimal Point"},
+        {"type": "materials", "items": ["Math journal", "Grid paper", "Pencils", "Calculator (for checking)"], "setup_instructions": "Have grid paper ready for organized multiplication. Prepare several real-world price scenarios."},
+        {"type": "instruction", "step": 1, "text": "You already know how to multiply whole numbers. Multiplying decimals uses the exact same process with one extra step: placing the decimal point. Here is the key insight: 0.3 x 0.4 is the same as 3/10 x 4/10 = 12/100 = 0.12. The answer has as many decimal places as the two factors combined. 0.3 has 1 decimal place, 0.4 has 1 decimal place, so the answer has 2 decimal places."},
+        {"type": "instruction", "step": 2, "text": "The Algorithm: (1) Ignore the decimal points and multiply as whole numbers. (2) Count the total decimal places in both factors. (3) Place the decimal point in the product so it has that many decimal places. Example: 2.5 x 1.3. Multiply 25 x 13 = 325. Count decimal places: 2.5 has 1, 1.3 has 1, total = 2. Place decimal: 3.25. So 2.5 x 1.3 = 3.25."},
+        {"type": "instruction", "step": 3, "text": "Always estimate first to check reasonableness. For 2.5 x 1.3: round to 3 x 1 = 3, or 2.5 x 1 = 2.5. Our answer of 3.25 is close to both estimates, so it is reasonable. If you had mistakenly written 32.5 or 0.325, the estimate would catch the error. Estimation is your safety net for decimal placement."},
+        {"type": "instruction", "step": 4, "text": "Money makes decimal multiplication real. If a book costs $12.95 and you want to buy 3, you calculate 12.95 x 3 = 38.85, so $38.85. If sales tax is 8% (0.08), the tax on a $24.50 item is 24.50 x 0.08 = 1.96, so $1.96 in tax. Total: $24.50 + $1.96 = $26.46. These are calculations you will use for the rest of your life."},
+        {"type": "activity", "prompt": "Solve in your math journal, showing estimation and full work: (1) 3.7 x 2.4, (2) 0.85 x 0.6, (3) 12.5 x 4.8, (4) 0.025 x 0.4. Money problems: (5) Three friends split a $47.85 restaurant bill equally. How much does each pay? (6) You buy 2.5 pounds of cheese at $6.80 per pound. What is the total? (7) A shirt costs $29.99. With 7% sales tax, what is the final price? Check answers with a calculator.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Multiplying decimals is just whole number multiplication with careful decimal placement. The rule — count total decimal places in both factors — works every time. And estimation catches placement errors before they become problems. These skills are essential for money, measurement, and science calculations you will encounter daily.", "mastery_check": "Can the student multiply decimals correctly, place the decimal point using the counting method, and use estimation to verify reasonableness?"}
+      ]
+    },
+    "parent_notes": "Decimal multiplication connects to money, which makes it immediately relevant. If your child places the decimal incorrectly, have them estimate first — this self-checking habit prevents errors. Common mistakes include forgetting to count decimal places or counting them incorrectly. Grid paper helps keep digits aligned. Real shopping scenarios are excellent practice: give your child a budget and a store flyer and have them calculate totals with tax. The sales tax problems connect nicely to the financial literacy lesson earlier this week. If your child is confident with the algorithm, challenge them with multi-step problems involving both multiplication and addition of decimals.",
+    "age_adaptations": null,
+    "sort_order": 17
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 17,
+    "day_of_week": 4,
+    "quarter": 2,
+    "title": "The Periodic Table — Organizing the Elements",
+    "description": "Students explore the periodic table as an organized map of all known elements. They learn how elements are arranged by atomic number, discover patterns in the table (periods and groups), and identify everyday elements by their symbols and properties.",
+    "instructions": "1. Review atoms and atomic number from Day 2.\n2. Tell the story of Dmitri Mendeleev and how he organized the elements.\n3. Explain the structure: periods (rows) and groups (columns).\n4. Identify common elements: H, O, C, N, Fe, Au, Ag, Cu.\n5. Discuss element properties: metals, nonmetals, metalloids.\n6. Complete an element scavenger hunt connecting elements to everyday objects.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Periodic table (large, color-coded)", "Science journal", "Colored pencils", "Index cards", "Element cards or flashcards"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "The Periodic Table", "subheading": "A Map of Everything in the Universe"},
+        {"type": "materials", "items": ["Periodic table (color-coded)", "Science journal", "Colored pencils", "Index cards"], "setup_instructions": "Display a large periodic table where both you and the student can point to elements easily. Have colored pencils matching the table's color coding for metals, nonmetals, and metalloids."},
+        {"type": "instruction", "step": 1, "text": "In 1869, Russian chemist Dmitri Mendeleev did something remarkable. He wrote the properties of each known element on a card, then arranged and rearranged them until patterns emerged. He organized them by atomic weight (we now use atomic number) and discovered that properties repeated at regular intervals — they were periodic. He even left gaps for elements that had not been discovered yet, predicting their properties. He was right."},
+        {"type": "instruction", "step": 2, "text": "The periodic table is organized in rows called periods (1-7) and columns called groups (1-18). Moving left to right across a period, atomic number increases by one. Elements in the same group share similar properties. For example, Group 1 (lithium, sodium, potassium) are all soft, reactive metals. Group 18 (helium, neon, argon) are all stable, unreactive noble gases. The table is a treasure map of patterns."},
+        {"type": "instruction", "step": 3, "text": "Three categories of elements: Metals (left and center of the table) — shiny, conduct heat and electricity, malleable. Iron (Fe), gold (Au), copper (Cu), aluminum (Al). Nonmetals (upper right) — dull, poor conductors, brittle as solids. Oxygen (O), carbon (C), nitrogen (N). Metalloids (along the staircase line) — properties of both. Silicon (Si), the basis of computer chips, is a metalloid."},
+        {"type": "instruction", "step": 4, "text": "Many element symbols come from Latin or Greek names: Au for gold comes from 'aurum,' Fe for iron from 'ferrum,' Ag for silver from 'argentum,' Na for sodium from 'natrium,' K for potassium from 'kalium.' This connects to your etymology word study — languages leave their fingerprints everywhere, even in chemistry. Learning these symbols is like learning a new alphabet."},
+        {"type": "activity", "prompt": "Element Scavenger Hunt: In your science journal, create a table with columns for Element Name, Symbol, Atomic Number, Metal/Nonmetal/Metalloid, and Where You Find It. Fill in at least 15 elements you encounter in daily life. Examples: Oxygen (O, 8, nonmetal, air you breathe), Iron (Fe, 26, metal, nails and blood), Carbon (C, 6, nonmetal, pencil lead and diamonds), Calcium (Ca, 20, metal, bones and milk). Challenge: Find at least one element from each category (metal, nonmetal, metalloid).", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The periodic table is one of humanity's greatest achievements — a single chart that organizes all known matter in the universe. Mendeleev's genius was seeing patterns where others saw chaos. Every object you touch, every breath you take, every star in the sky is made from elements on this table. Next session we will explore how elements combine to form compounds and molecules.", "mastery_check": "Can the student locate elements on the periodic table, distinguish metals from nonmetals, and connect at least 10 elements to everyday objects?"}
+      ]
+    },
+    "parent_notes": "The periodic table can seem overwhelming, but the scavenger hunt approach makes it accessible by connecting elements to real life. Your child does not need to memorize the entire table — focus on the 20-30 most common elements and their symbols. Consider getting a periodic table placemat or poster for your learning space. The story of Mendeleev is compelling: he reportedly saw the arrangement in a dream and woke up to write it down. If your child enjoys this topic, there are excellent YouTube videos showing the actual elements and their properties (look for 'Periodic Videos' by the University of Nottingham). The Latin/Greek etymology connection reinforces the language curriculum.",
+    "age_adaptations": null,
+    "sort_order": 18
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 17,
+    "day_of_week": 4,
+    "quarter": 2,
+    "title": "Music Composition Basics — Melody and Rhythm",
+    "description": "Students learn the fundamentals of music composition by exploring how melodies are constructed from scales and how rhythmic patterns create musical structure. They compose a simple 8-measure melody using basic notation.",
+    "instructions": "1. Review the musical scale: whole steps and half steps.\n2. Explain melody as a sequence of pitches that forms a musical idea.\n3. Demonstrate simple rhythmic patterns: quarter, half, and whole notes.\n4. Listen to and analyze a simple melody (such as 'Ode to Joy').\n5. Introduce basic staff notation: treble clef, note placement.\n6. Student composes an 8-measure melody.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Staff paper (or printed music sheets)", "Pencil", "Keyboard or xylophone", "Recording of simple melodies", "Art/music journal"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Composing Music", "subheading": "Creating Melody and Rhythm"},
+        {"type": "materials", "items": ["Staff paper", "Pencil", "Keyboard or xylophone", "Melody recordings", "Art/music journal"], "setup_instructions": "Set up a keyboard, xylophone, or use a free online piano. Print or prepare staff paper with treble clef. Queue a recording of Beethoven's 'Ode to Joy' or another simple, recognizable melody."},
+        {"type": "instruction", "step": 1, "text": "Every melody you have ever hummed or sung is made from just 12 notes (in Western music). These notes repeat in higher and lower octaves, creating the full range of musical sound. The C major scale — C, D, E, F, G, A, B, C — uses 8 of these notes with no sharps or flats. Play or sing this scale. This is your palette for composing today."},
+        {"type": "instruction", "step": 2, "text": "A melody is a sequence of pitches arranged in time. Good melodies have shape: they rise and fall like a conversation. They have repetition (familiar patterns that return) and variation (changes that keep it interesting). Listen to 'Ode to Joy' by Beethoven: the first phrase goes up, the second comes back down, and the pattern repeats with a variation. Simple, beautiful, and memorable."},
+        {"type": "instruction", "step": 3, "text": "Rhythm gives melody its pulse. A quarter note gets one beat. A half note gets two beats. A whole note gets four beats. An eighth note gets half a beat. In 4/4 time (the most common time signature), each measure has 4 beats. Clap this rhythm: quarter, quarter, half (1, 2, 3-4). Now clap: quarter, quarter, quarter, quarter (1, 2, 3, 4). Same number of beats, different feel."},
+        {"type": "instruction", "step": 4, "text": "On staff paper, the five lines and four spaces each represent a note. In treble clef, the lines from bottom to top are E, G, B, D, F (Every Good Boy Does Fine). The spaces spell FACE. Middle C sits on a ledger line below the staff. To compose, place note heads on the correct line or space and add stems to indicate rhythm (quarter, half, whole)."},
+        {"type": "activity", "prompt": "Compose an 8-measure melody in C major (no sharps or flats) in 4/4 time. Rules: (1) Start and end on C. (2) Use mostly stepwise motion (notes next to each other on the scale) with a few skips. (3) Include at least three different note values (quarter, half, whole or eighth notes). (4) Create a pattern in measures 1-2 and repeat or vary it in measures 3-4. Play your melody on a keyboard or xylophone. Revise any notes that do not sound right to your ear.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You are now a composer! Even a simple 8-measure melody involves choices about pitch, rhythm, shape, and repetition. The greatest composers in history used the same 12 notes you used today — the magic is in how you arrange them. Save your composition in your music journal. Next art and music session, we will explore Renaissance music and how composition evolved during that era.", "mastery_check": "Can the student write notes on a staff correctly, compose a melody that starts and ends on the tonic, and explain the difference between quarter, half, and whole notes?"}
+      ]
+    },
+    "parent_notes": "Music composition empowers children to be creators, not just consumers of music. A keyboard, xylophone, or even a free piano app works for this lesson. If your child has no formal music training, that is perfectly fine — this lesson starts from basics. The constraint of C major (white keys only) eliminates the complexity of sharps and flats. Encourage experimentation: there are no wrong notes in composition, only unexpected ones. If your child's melody sounds strange, help them identify which notes feel 'off' and try neighboring notes instead. Singing the melody before writing it often helps. The connection to the Renaissance history unit (Beethoven lived later, but the principles of composition were developed during the Renaissance) enriches both subjects.",
+    "age_adaptations": null,
+    "sort_order": 19
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "practical_life",
+    "week_number": 17,
+    "day_of_week": 4,
+    "quarter": 2,
+    "title": "Meal Planning — Nutrition, Budget, and Preparation",
+    "description": "Students learn to plan a week of meals by considering nutritional balance, budget constraints, and preparation time. They create a shopping list, estimate costs, and practice the organizational skills needed to feed a family responsibly.",
+    "instructions": "1. Discuss the components of a balanced meal: protein, grains, vegetables, fruit, dairy.\n2. Introduce the concept of meal planning: why plan ahead?\n3. Show how to read nutrition labels for key information.\n4. Demonstrate creating a weekly meal plan on a grid.\n5. Create a shopping list organized by store section.\n6. Estimate the total grocery cost and compare to a budget.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Meal planning template (weekly grid)", "Grocery store flyer or price list", "Calculator", "Notebook", "Food pyramid or MyPlate diagram", "Nutrition labels from household foods"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Meal Planning", "subheading": "Feeding Your Family with Intention"},
+        {"type": "materials", "items": ["Meal planning template", "Grocery store flyer", "Calculator", "Notebook", "MyPlate diagram"], "setup_instructions": "Print a weekly meal planning grid (days across top, meals down the side). Collect a grocery store flyer with prices. Display the MyPlate diagram showing food group proportions."},
+        {"type": "instruction", "step": 1, "text": "Meal planning is one of the most practical life skills you can learn. Families that plan meals save money (less food waste, fewer takeout meals), eat healthier (intentional nutrition instead of last-minute choices), and reduce stress (no daily 'what is for dinner?' panic). Today you will plan meals for one week."},
+        {"type": "instruction", "step": 2, "text": "A balanced meal includes: protein (meat, beans, eggs, nuts), grains (bread, rice, pasta), vegetables, fruit, and dairy or calcium source. The MyPlate model shows the ideal proportions: half the plate is fruits and vegetables, one quarter is grains, one quarter is protein, with a small serving of dairy. Not every meal needs to be perfect, but aim for balance across the day."},
+        {"type": "instruction", "step": 3, "text": "Reading nutrition labels: Look for serving size (how much is one serving?), calories, protein, fiber, sugar, and sodium. Compare two similar products: store brand vs. name brand often have identical nutrition at different prices. Watch for hidden sugar in products that seem healthy (yogurt, granola bars, juice). Ingredients are listed in order of quantity — the first ingredient is what the product mostly contains."},
+        {"type": "instruction", "step": 4, "text": "Smart shopping strategies: (1) Make a list and stick to it. (2) Buy seasonal produce (cheaper and fresher). (3) Buy staples in bulk. (4) Compare unit prices (price per ounce), not just total price. (5) Plan meals that share ingredients (buy chicken for two different meals). (6) Include one or two simple meals for busy days. (7) Check what you already have before shopping."},
+        {"type": "activity", "prompt": "Plan 7 dinners for a family of four. For each dinner, list the main dish and sides, ensuring nutritional balance. Then create a shopping list organized by store section (produce, dairy, meat, grains, canned goods). Using the grocery flyer or estimated prices, calculate the total cost. Your budget is $100 for the week. If you go over, adjust your plan. Finally, mark which meals are quick (under 30 minutes) for busy weeknights and which are more involved for weekends.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Meal planning combines nutrition knowledge, math skills (budgeting, unit prices), and organizational thinking. The ability to feed yourself and your family well is a fundamental life skill. This week, offer to help plan and prepare one of the meals on your plan. Next practical life session, we will explore time management strategies for balancing multiple responsibilities.", "mastery_check": "Can the student plan nutritionally balanced meals, create an organized shopping list, and estimate costs within a budget?"}
+      ]
+    },
+    "parent_notes": "Meal planning is a practical life skill that combines nutrition, math, and executive function. Let your child actually plan one or two of this week's meals and help shop and cook. Real-world application cements the learning. If grocery flyers are not available, use an online grocery delivery site to look up prices. The budget constraint ($100 for a week of dinners for four) is realistic and teaches prioritization. Common discoveries: healthy food is not always expensive, planning reduces waste, and cooking from scratch is cheaper than processed foods. This connects to the financial literacy lesson — budgeting for food is a major part of household finance.",
+    "age_adaptations": null,
+    "sort_order": 20
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 17,
+    "day_of_week": 5,
+    "quarter": 2,
+    "title": "Research Papers — Revision and Final Draft",
+    "description": "Students learn the revision process: reading for content and organization first, then editing for grammar and mechanics. They use a revision checklist, practice peer feedback, and produce a polished final draft of their research paper.",
+    "instructions": "1. Distinguish revision (big picture: content, organization, argument) from editing (details: grammar, spelling, punctuation).\n2. Model revision using a sample paragraph.\n3. Use a revision checklist to evaluate their own draft.\n4. Practice giving and receiving constructive feedback.\n5. Revise based on checklist and feedback.\n6. Write or type the final draft.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["First draft of research paper", "Revision checklist", "Colored pens (2 colors)", "Clean paper or computer for final draft", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Revision and Final Draft", "subheading": "Making Good Writing Great"},
+        {"type": "materials", "items": ["First draft", "Revision checklist", "Colored pens (2 colors)", "Clean paper or computer"], "setup_instructions": "Print or have the first draft ready with wide margins for notes. Prepare a revision checklist covering content, organization, evidence, and mechanics."},
+        {"type": "instruction", "step": 1, "text": "Revision literally means 're-vision' — seeing again. It is not just fixing spelling errors. Professional writers revise multiple times, often changing entire sections. Today you will revise in two passes: First pass (content and organization) — Is the argument clear? Is evidence strong? Does it flow logically? Second pass (editing) — Are sentences grammatically correct? Is spelling accurate? Is punctuation proper?"},
+        {"type": "instruction", "step": 2, "text": "Revision Checklist — Content: Does the introduction hook the reader? Is the thesis clear? Does each body paragraph have a topic sentence, evidence, and explanation? Do paragraphs connect logically with transitions? Does the conclusion restate the thesis and add a final insight? Are sources credited? If any answer is 'no,' fix it before moving to editing."},
+        {"type": "instruction", "step": 3, "text": "Revision Checklist — Editing: Read each sentence aloud. Does it sound right? Check for: run-on sentences (break into two), fragments (add missing subjects or verbs), subject-verb agreement, consistent tense, comma usage, and spelling. Use one colored pen for content changes and another for editing marks. Reading aloud catches errors your eyes miss."},
+        {"type": "instruction", "step": 4, "text": "Giving feedback: When reviewing someone else's work, start with what is working well (a strong opening, a compelling fact, clear organization). Then offer specific, constructive suggestions: 'The second paragraph could be stronger with a specific example' is helpful. 'This paragraph is bad' is not. The goal is to help the writer improve, not to criticize."},
+        {"type": "activity", "prompt": "Complete both passes of the revision checklist on your draft. Make content changes in one color and editing corrections in another. Then read your paper aloud — every word — and mark anything that sounds awkward or unclear. After revision, write your final draft on clean paper or type it. Include your title, all paragraphs, and your source list. Read the final version one last time to catch any remaining errors. Congratulations — you have written a research paper.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You have taken a curious question and turned it into a complete, well-organized research paper. This process — question, outline, draft, revise — is how real writers and researchers work. The skills you practiced this week (focusing a topic, organizing evidence, drafting, revising) will serve you in every subject and throughout your education. Save your paper in your portfolio.", "mastery_check": "Can the student distinguish between revision and editing? Does their final draft show evidence of both content revision and mechanical editing? Is the paper complete with introduction, body, conclusion, and citations?"}
+      ]
+    },
+    "parent_notes": "Completing a research paper is a significant accomplishment for an upper elementary student. Celebrate this achievement. The revision process is where real learning happens — children often resist revision because they feel their first draft is 'done.' Emphasize that all published writers revise extensively. If your child types the final draft, it is a good opportunity to practice keyboarding skills. Save this paper in a portfolio to track writing growth over the year. If the paper has issues, remember that the process matters more than perfection at this stage. The ability to research, organize, draft, and revise is the skill; the paper itself is practice.",
+    "age_adaptations": null,
+    "sort_order": 21
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 17,
+    "day_of_week": 5,
+    "quarter": 2,
+    "title": "Fraction and Decimal Review — Converting and Comparing",
+    "description": "Students practice converting between fractions and decimals, comparing values in both forms, and applying all fraction and decimal operations learned this week. They complete a comprehensive review that prepares them for ratio and proportion work.",
+    "instructions": "1. Review fraction-to-decimal conversion (divide numerator by denominator).\n2. Review decimal-to-fraction conversion (place value method).\n3. Compare fractions and decimals on a number line.\n4. Practice mixed operations: add, subtract, multiply, divide fractions and decimals.\n5. Solve real-world problems requiring conversion.\n6. Assessment: timed practice set covering the week's skills.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Math journal", "Number line (0 to 2)", "Calculator (for checking)", "Pencils", "Practice problem set"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Fractions and Decimals Review", "subheading": "Converting, Comparing, and Calculating"},
+        {"type": "materials", "items": ["Math journal", "Number line", "Calculator (for checking)", "Pencils"], "setup_instructions": "Draw a number line from 0 to 2 with marks at every 0.1. Have a calculator available only for checking work, not for solving."},
+        {"type": "instruction", "step": 1, "text": "Fractions and decimals are two ways to write the same value. To convert a fraction to a decimal, divide the numerator by the denominator: 3/4 = 3 ÷ 4 = 0.75. To convert a decimal to a fraction, use place value: 0.75 = 75/100 = 3/4. Some fractions create repeating decimals: 1/3 = 0.333... We write this as 0.3 with a bar over the 3."},
+        {"type": "instruction", "step": 2, "text": "To compare fractions and decimals, convert to the same form. Which is larger: 3/8 or 0.4? Convert 3/8 to decimal: 3 ÷ 8 = 0.375. Now compare: 0.375 < 0.4, so 3/8 < 0.4. Alternatively, convert 0.4 to a fraction: 0.4 = 4/10 = 2/5. Find common denominators: 3/8 = 15/40, 2/5 = 16/40. 15/40 < 16/40. Same answer, different method."},
+        {"type": "instruction", "step": 3, "text": "This week you learned: multiplying fractions (multiply across), dividing fractions (Keep-Change-Flip), multiplying decimals (count decimal places), and word problems requiring you to choose the right operation. These skills combine when you encounter problems mixing fractions and decimals. Strategy: convert everything to the same form before calculating."},
+        {"type": "instruction", "step": 4, "text": "Looking ahead: Next week we begin ratios and proportions, which build directly on fraction skills. A ratio is a comparison of two quantities (3:4 or 3/4). A proportion says two ratios are equal (3/4 = 6/8). Your fraction fluency — especially equivalent fractions and cross-multiplication — will be essential. Today's review ensures you are ready."},
+        {"type": "activity", "prompt": "Comprehensive Review: (1) Convert to decimals: 5/8, 7/20, 11/4. (2) Convert to fractions and simplify: 0.65, 0.125, 1.6. (3) Order from least to greatest: 3/5, 0.58, 7/12, 0.6. (4) Solve: 2/3 x 4/5, 7/8 ÷ 1/4, 3.6 x 0.25, 1 3/4 ÷ 2/3. (5) Word problem: A trail mix recipe uses 2/3 cup nuts, 0.5 cup raisins, and 3/4 cup granola. How many total cups? What fraction of the mix is nuts? Check all answers with a calculator.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You can now move fluently between fractions and decimals, compare values in either form, and perform all four operations with both. This flexibility is a powerful mathematical tool. Next week brings ratios and proportions — a natural extension of your fraction mastery that opens doors to real-world applications like scale models, maps, and recipes.", "mastery_check": "Can the student convert between fractions and decimals, compare values in mixed forms, and perform multiplication and division of both fractions and decimals accurately?"}
+      ]
+    },
+    "parent_notes": "This review lesson consolidates a week of intensive fraction and decimal work. If your child struggles with any section, identify the specific skill gap and revisit that day's lesson. The conversion between fractions and decimals is particularly important because real life uses both: recipes use fractions, money uses decimals, and many problems require switching between them. The looking-ahead preview of ratios and proportions motivates continued fraction practice. If your child finds the review easy, challenge them with harder problems or have them teach a concept to you — teaching is the deepest form of learning.",
+    "age_adaptations": null,
+    "sort_order": 22
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 17,
+    "day_of_week": 5,
+    "quarter": 2,
+    "title": "The Reformation — Martin Luther and the 95 Theses",
+    "description": "Students learn how the Renaissance spirit of questioning extended to religion through the Protestant Reformation. They study Martin Luther's grievances with the Catholic Church, the posting of the 95 Theses, and how the printing press amplified his message across Europe.",
+    "instructions": "1. Connect the Renaissance spirit of inquiry to questioning religious authority.\n2. Explain the context: indulgences, Church wealth, and corruption.\n3. Tell the story of Martin Luther and the 95 Theses (1517).\n4. Discuss how the printing press spread Luther's ideas rapidly.\n5. Examine the Reformation from multiple perspectives: Luther, the Pope, ordinary people.\n6. Analyze a primary source excerpt from the 95 Theses.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["History journal", "Map of Europe (1500s)", "Primary source excerpt (95 Theses, simplified)", "Timeline from previous lessons", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "The Reformation", "subheading": "Martin Luther Challenges the Church"},
+        {"type": "materials", "items": ["History journal", "Map of 1500s Europe", "95 Theses excerpt", "Timeline", "Colored pencils"], "setup_instructions": "Prepare a simplified excerpt from Luther's 95 Theses (3-5 theses in accessible language). Display a map of Europe showing Wittenberg, Rome, and the eventual spread of Protestantism."},
+        {"type": "instruction", "step": 1, "text": "The Renaissance taught people to question, to examine evidence, and to think for themselves. It was only a matter of time before that questioning spirit reached the most powerful institution in Europe: the Catholic Church. In 1517, a German monk named Martin Luther did something that split Christianity in two and changed Europe forever."},
+        {"type": "instruction", "step": 2, "text": "The problem: The Catholic Church was selling indulgences — documents that claimed to reduce the time a person's soul spent in purgatory. Pay money, receive forgiveness. Johann Tetzel, a Church agent, even had a slogan: 'As soon as a coin in the coffer rings, a soul from purgatory springs.' Luther believed this was a betrayal of Christian teaching. Salvation, he argued, came from faith alone, not from payments to the Church."},
+        {"type": "instruction", "step": 3, "text": "On October 31, 1517, Luther nailed his 95 Theses — 95 arguments against indulgences and Church corruption — to the door of the Castle Church in Wittenberg, Germany. This was a common way to invite scholarly debate, but what happened next was unprecedented. Thanks to the printing press (invented just 60 years earlier), Luther's theses were copied, translated, and distributed across Europe within weeks. One monk's protest became a continent-wide movement."},
+        {"type": "instruction", "step": 4, "text": "Multiple perspectives: Luther saw himself as reforming a corrupt Church. The Pope saw Luther as a dangerous heretic threatening Church unity and authority. Ordinary people saw a chance to challenge powerful institutions that taxed them heavily. German princes saw an opportunity for political independence from Rome. The same event looked completely different depending on where you stood. This is why historians study multiple perspectives."},
+        {"type": "activity", "prompt": "Read the simplified 95 Theses excerpts. In your history journal, write three short responses from three different perspectives: (1) Martin Luther — why he believes his protest is necessary and righteous. (2) Pope Leo X — why he believes Luther is dangerous and wrong. (3) A German farmer — how this conflict affects ordinary people. Each response should be 3-5 sentences. Then add the Reformation to your Renaissance timeline. Finally, answer: How did the printing press make the Reformation possible?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The Reformation shows how ideas can change the world — especially when technology (the printing press) helps spread them. Luther's protest led to the creation of Protestant churches, religious wars, and eventually the idea that individuals could interpret scripture for themselves. Next week we will see how the Reformation reshaped Europe and led to new political structures.", "mastery_check": "Can the student explain what indulgences were, why Luther opposed them, and how the printing press amplified the Reformation? Can they articulate at least two different perspectives on the event?"}
+      ]
+    },
+    "parent_notes": "The Reformation is a sensitive topic involving religious disagreement. Frame it as a historical event, not a judgment on any faith tradition. Help your child see that both sides had reasons for their positions — Luther genuinely believed the Church was betraying its principles, while Church leaders genuinely feared the chaos of individuals interpreting scripture alone. The multiple perspectives activity is crucial for developing historical thinking. The connection to the printing press is powerful: technology amplifying ideas is a timeless pattern (think of social media today). If your family is Catholic, Protestant, or another denomination, this is a wonderful opportunity to share your own faith tradition's perspective on these events.",
+    "age_adaptations": null,
+    "sort_order": 23
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 17,
+    "day_of_week": 5,
+    "quarter": 2,
+    "title": "Elements and Compounds — How Atoms Combine",
+    "description": "Students learn how atoms bond together to form compounds and molecules. They explore the difference between elements, compounds, and mixtures, understand chemical formulas, and model simple molecules like water (H2O) and carbon dioxide (CO2).",
+    "instructions": "1. Review atoms and elements from previous lessons.\n2. Define compound: two or more elements chemically bonded.\n3. Explain chemical formulas: what H2O and CO2 mean.\n4. Distinguish compounds from mixtures.\n5. Build molecular models of common compounds.\n6. Discuss how compounds have different properties from their component elements.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Modeling clay (multiple colors)", "Toothpicks", "Periodic table", "Science journal", "Molecular model kit (if available)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Elements and Compounds", "subheading": "How Atoms Combine to Make New Substances"},
+        {"type": "materials", "items": ["Modeling clay (multiple colors)", "Toothpicks", "Periodic table", "Science journal"], "setup_instructions": "Assign clay colors to common elements: white for hydrogen, red for oxygen, black for carbon, blue for nitrogen. Have toothpicks ready for bonds between atoms."},
+        {"type": "instruction", "step": 1, "text": "An element is a pure substance made of only one type of atom — all gold, or all oxygen. A compound is a substance made of two or more different elements chemically bonded together. Water (H2O) is a compound: two hydrogen atoms bonded to one oxygen atom. The subscript number tells you how many atoms of each element. No subscript means one atom."},
+        {"type": "instruction", "step": 2, "text": "Here is the amazing thing about compounds: they have completely different properties from the elements that make them. Sodium (Na) is a shiny metal that explodes in water. Chlorine (Cl) is a poisonous green gas. But combine them and you get sodium chloride (NaCl) — ordinary table salt! Hydrogen is a flammable gas, oxygen supports burning, but water (H2O) puts out fires. Chemical bonding creates entirely new substances."},
+        {"type": "instruction", "step": 3, "text": "Compound vs. mixture: In a compound, elements are chemically bonded and cannot be easily separated. In a mixture, substances are physically combined and can be separated. Salt water is a mixture — you can boil off the water and get the salt back. But water itself is a compound — you cannot easily separate the hydrogen from the oxygen without a chemical reaction. Trail mix is a mixture; a cookie is more like a compound."},
+        {"type": "instruction", "step": 4, "text": "Common compounds to know: Water (H2O) — 2 hydrogen + 1 oxygen. Carbon dioxide (CO2) — 1 carbon + 2 oxygen (what you exhale). Glucose (C6H12O6) — sugar (6 carbon + 12 hydrogen + 6 oxygen). Sodium chloride (NaCl) — table salt. Carbon monoxide (CO) — dangerous gas (1 carbon + 1 oxygen). Notice how CO and CO2 differ by just one oxygen atom, yet one is deadly and the other is harmless."},
+        {"type": "activity", "prompt": "Build clay models of these molecules: Water (H2O) — 2 white hydrogen balls connected to 1 red oxygen ball in a V shape. Carbon dioxide (CO2) — 1 black carbon ball with 2 red oxygen balls on either side in a line. Methane (CH4) — 1 black carbon with 4 white hydrogen balls arranged around it. In your science journal, draw each model, write its formula, and list one property of the compound. Then answer: Why is CO2 different from CO even though they contain the same elements?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Atoms combine to form compounds with entirely new properties. The chemical formula tells you exactly what atoms are present and in what quantities. Understanding compounds explains everything from why water puts out fire to why your body needs glucose for energy. Next week we will explore what happens when compounds break apart and reform — chemical reactions.", "mastery_check": "Can the student distinguish between elements, compounds, and mixtures? Can they read a chemical formula and identify the elements and number of atoms present?"}
+      ]
+    },
+    "parent_notes": "The compound vs. mixture distinction often confuses students. Use kitchen examples: a salad is a mixture (you can pick out the tomatoes), but a cake is more like a compound (you cannot separate the eggs from the flour after baking). The molecular models make abstract chemistry tangible — encourage your child to build as many molecules as they can. The CO vs. CO2 example is powerful for showing how a single atom changes everything. If your child has a molecular model kit, use it; if not, clay and toothpicks work perfectly. This lesson connects to the math curriculum through the subscript numbers in chemical formulas — reading formulas is like reading a mathematical code.",
+    "age_adaptations": null,
+    "sort_order": 24
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 17,
+    "day_of_week": 5,
+    "quarter": 2,
+    "title": "Renaissance Art — Michelangelo and the Human Form",
+    "description": "Students study Michelangelo's approach to sculpting and painting the human body, examining the Sistine Chapel ceiling and the sculpture of David. They practice proportional figure drawing using Michelangelo's principles of anatomy and movement.",
+    "instructions": "1. Introduce Michelangelo as sculptor, painter, architect, and poet.\n2. Study the Sistine Chapel ceiling: scale, composition, and narrative.\n3. Examine the sculpture of David: proportion, contrapposto, emotion.\n4. Discuss Michelangelo's study of anatomy for artistic accuracy.\n5. Introduce basic figure proportions (the body is 7-8 heads tall).\n6. Practice proportional figure sketching.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Images of Michelangelo's works", "Drawing paper", "Pencils (various hardnesses)", "Ruler", "Art journal", "Eraser"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Michelangelo", "subheading": "Master of the Human Form"},
+        {"type": "materials", "items": ["Images of Michelangelo's works", "Drawing paper", "Pencils", "Ruler", "Art journal"], "setup_instructions": "Print images of the Sistine Chapel ceiling (especially the Creation of Adam), the David sculpture from multiple angles, and Michelangelo's anatomical sketches. Have rulers ready for measuring proportions."},
+        {"type": "instruction", "step": 1, "text": "Michelangelo Buonarroti (1475-1564) believed the human body was the most beautiful thing God created. He spent years studying anatomy — even dissecting cadavers — to understand exactly how muscles, bones, and skin work together. This knowledge shows in every figure he painted and sculpted. His humans are not just accurate; they are heroic, powerful, and emotionally alive."},
+        {"type": "instruction", "step": 2, "text": "The Sistine Chapel ceiling (1508-1512) covers over 5,000 square feet and contains 343 figures. Michelangelo painted it largely alone, lying on his back on scaffolding for four years. The most famous panel, The Creation of Adam, shows God reaching toward Adam with nearly touching fingers. The composition creates incredible tension — the gap between their fingers is one of the most recognizable images in all of art."},
+        {"type": "instruction", "step": 3, "text": "The David (1501-1504) stands 17 feet tall, carved from a single block of marble. Notice the contrapposto pose — David's weight is on one leg, creating a natural, relaxed stance with subtle tension. His oversized hands and intense gaze show a young man preparing to face Goliath. Michelangelo chose to depict the moment before the fight, not after — the moment of courage, not victory. Every artistic choice tells the story."},
+        {"type": "instruction", "step": 4, "text": "Figure proportions: The human body is approximately 7-8 heads tall (head height is the unit of measurement). The center of the body is roughly at the hips. Arms reach to mid-thigh. The shoulders are about 2-3 head-widths across. These proportions help artists draw realistic figures. Michelangelo often exaggerated proportions slightly — making hands and torsos larger — to create a sense of heroic power."},
+        {"type": "activity", "prompt": "Practice proportional figure drawing. (1) Draw a vertical line and divide it into 8 equal sections (each representing one head-height). Sketch a standing figure using these proportions: head in section 1, chest/torso in sections 2-3, hips at section 4, legs in sections 5-8. (2) Try a contrapposto pose: weight on one leg, opposite shoulder slightly raised. (3) Study the Creation of Adam and sketch just the two hands reaching toward each other, paying attention to the finger positions and the space between them.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Michelangelo showed the world what the human form could become in art: powerful, emotional, and heroic. His anatomical knowledge made his art truthful, and his artistic vision made it transcendent. The proportional drawing skills you practiced today are the same principles artists have used for 500 years. Keep practicing — Michelangelo himself said, 'If people knew how hard I worked to get my mastery, it would not seem so wonderful at all.'", "mastery_check": "Can the student use proportional guidelines to draw a basic human figure? Can they describe contrapposto and explain how Michelangelo's anatomical knowledge improved his art?"}
+      ]
+    },
+    "parent_notes": "Figure drawing is challenging but rewarding. The proportional guidelines (8 heads tall) give students a framework that prevents the common 'big head, small body' problem. Encourage your child to practice drawing figures from reference photos, not from imagination — observation is key. The contrapposto pose appears everywhere in art and even in photography; once your child recognizes it, they will see it in advertisements, statues, and movie poses. Michelangelo's dedication (four years on his back painting the Sistine Chapel) is an inspiring model of persistence. If your child is frustrated with figure drawing, remind them of Michelangelo's own words about hard work.",
+    "age_adaptations": null,
+    "sort_order": 25
+  }
+]

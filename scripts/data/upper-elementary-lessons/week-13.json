@@ -1,0 +1,702 @@
+[
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 13,
+    "day_of_week": 1,
+    "quarter": 2,
+    "title": "Persuasive Essay — Revision and Final Draft",
+    "description": "Students revise their persuasive essay from last week, focusing on strengthening arguments, improving transitions, refining word choice, and polishing mechanics. They produce a final draft that represents their best persuasive writing.",
+    "instructions": "1. Read the first draft aloud — listening catches errors eyes miss.\n2. Evaluate against the rubric: claim clarity, evidence quality, counterargument strength, conclusion power.\n3. Check transitions between paragraphs — are ideas connected smoothly?\n4. Strengthen word choice: replace vague words with specific, powerful ones.\n5. Check sentence variety — is there a mix of simple, compound, complex?\n6. Edit for mechanics: spelling, punctuation, grammar.\n7. Write the final draft.\n8. Read the final draft aloud one more time.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["First draft of persuasive essay", "Language notebook", "Pencil and colored pens for editing", "Lined paper for final draft", "Rubric or checklist"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Persuasive Essay", "subheading": "Revision and Final Draft"},
+        {"type": "materials", "items": ["Your first draft", "Language notebook", "Colored pens for editing marks", "Clean lined paper for final draft", "Editing checklist"], "setup_instructions": "Set out your first draft. Have colored pens ready: green for things that work well, red for changes needed, blue for questions to consider."},
+        {"type": "instruction", "step": 1, "text": "Revision is where good writing becomes GREAT writing. Professional authors revise many times. Read your essay aloud slowly. Mark: (GREEN) sentences that are strong and convincing, (RED) parts that are weak, unclear, or need evidence, (BLUE) places where you have questions about whether something works."},
+        {"type": "instruction", "step": 2, "text": "Revision checklist: ARGUMENT — Is the claim clear in the first paragraph? Does each body paragraph have one clear reason with specific evidence? Is the counterargument the STRONGEST opposing point (not a weak one)? Is the rebuttal convincing? Does the conclusion do more than just repeat?"},
+        {"type": "instruction", "step": 3, "text": "CRAFT — Are transitions smooth between paragraphs? ('Furthermore,' 'In addition,' 'On the other hand,' 'Most importantly.') Is word choice specific and powerful? (Replace 'good' with 'essential,' 'bad' with 'devastating.') Is there sentence variety? (Mix short punchy sentences with longer complex ones.)"},
+        {"type": "instruction", "step": 4, "text": "MECHANICS — Check spelling (especially words from your root word studies). Check punctuation (commas before FANBOYS in compound sentences, commas after introductory dependent clauses). Check subject-verb agreement. Check paragraph indentation."},
+        {"type": "activity", "prompt": "Complete your revision and write the final draft. Your final essay should be: clearly organized (5 paragraphs), persuasive (a reader should be moved to agree), well-supported (specific evidence for each reason), fair (a genuine counterargument, honestly addressed), polished (correct mechanics, strong word choice, varied sentences). Read it aloud one final time. Would this essay convince someone who initially disagreed with you?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You have now completed the entire writing process: brainstorming, planning, drafting, revising, and publishing a final copy. This process works for ANY type of writing. The ability to write a clear, well-supported argument is one of the most valuable skills you will ever develop.", "mastery_check": "Is the final essay significantly improved from the first draft with stronger arguments, better transitions, and polished mechanics?"}
+      ]
+    },
+    "parent_notes": "The revision process is where real learning about writing happens. Resist the urge to correct everything yourself — guide your child to find and fix issues. Comparing the first draft to the final draft makes the value of revision visible. Keep both versions as portfolio pieces. This completed essay represents significant growth in persuasive writing skills over the past three weeks. Celebrate the accomplishment — writing a multi-paragraph persuasive essay with counterarguments is impressive for this age group.",
+    "age_adaptations": null,
+    "sort_order": 1
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 13,
+    "day_of_week": 1,
+    "quarter": 2,
+    "title": "Fraction, Decimal, and Percent Applications",
+    "description": "Students integrate their knowledge of fractions, decimals, and percentages in real-world problem-solving scenarios. They work with discounts, taxes, tips, measurement conversions, and data interpretation, choosing the most efficient representation for each problem.",
+    "instructions": "1. Review the fraction-decimal-percent triangle.\n2. Shopping math: calculate discounts, sale prices, and taxes.\n3. Restaurant math: calculate tips at 15%, 18%, 20%.\n4. Data interpretation: read pie charts and bar graphs using percentages.\n5. Measurement problems using fractions and decimals.\n6. Multi-step problems requiring conversion between forms.\n7. Mental math strategies for common percentages.\n8. Create a real-world math challenge for a family member.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Math notebook", "Pencil", "Calculator", "Store ads or menus", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Real-World Applications", "subheading": "Fractions, Decimals, and Percents in Action"},
+        {"type": "materials", "items": ["Math notebook", "Pencil", "Calculator for checking", "Store ads, menus, or catalogs", "Colored pencils"], "setup_instructions": "Open notebook. Gather any store ads, restaurant menus, or catalog pages you can find. These provide real numbers for practice."},
+        {"type": "instruction", "step": 1, "text": "Today you put all your fraction, decimal, and percentage skills to work on REAL problems. The key skill is choosing the right form: fractions are great for cooking and building; decimals are great for money and measurement; percentages are great for comparisons and statistics. Fluent math users switch between forms effortlessly."},
+        {"type": "instruction", "step": 2, "text": "Shopping math: A shirt costs $45.00 and is 30% off. Step 1: Find the discount: 30% of $45 = 0.30 × 45 = $13.50. Step 2: Find the sale price: $45 - $13.50 = $31.50. Step 3: Add 8% tax: 8% of $31.50 = $2.52. Step 4: Total: $31.50 + $2.52 = $34.02. Practice this sequence with items from ads."},
+        {"type": "instruction", "step": 3, "text": "Tip calculation shortcuts: 10% of any amount — move the decimal one place left. 20% — double the 10%. 15% — add 10% plus half of 10%. 18% — find 20% and subtract a little. Example: Bill is $46.00. 10% = $4.60. 20% = $9.20. 15% = $4.60 + $2.30 = $6.90. These mental math strategies work in any restaurant."},
+        {"type": "instruction", "step": 4, "text": "Data interpretation: If a pie chart shows that 25% of students prefer pizza, 40% prefer tacos, and 35% prefer burgers, and there are 200 students total, how many prefer each? Pizza: 0.25 × 200 = 50. Tacos: 0.40 × 200 = 80. Burgers: 0.35 × 200 = 70. Percentages help us understand data quickly."},
+        {"type": "activity", "prompt": "Real-world challenge problems: (1) You have $100 to spend at a 25% off sale. What is the most you can buy (original price) and still stay under $100 including 7% tax? (2) A recipe serves 4 and calls for 2 1/3 cups flour. You need to serve 6. How much flour? (3) Your class has 28 students. 75% passed the test. How many passed? How many did not? (4) Create a budget for a restaurant meal for 4 people with a $80 limit including 18% tip and 8% tax. Use a real menu. (5) Create 3 real-world percentage problems for a family member to solve.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Math is not just an academic subject — it is a tool for navigating the real world. Being comfortable with fractions, decimals, and percentages means you can make smart financial decisions, understand data, and solve practical problems with confidence.", "mastery_check": "Can the student solve multi-step real-world problems fluently using fractions, decimals, and percentages, choosing the most efficient form?"}
+      ]
+    },
+    "parent_notes": "This application lesson is where abstract math becomes practical. The shopping, tipping, and budgeting problems are skills your child will use for life. Take advantage of real opportunities: let your child calculate the tip next time you eat out, figure out sale prices when shopping, or manage a small budget for a family event. The recipe scaling problem connects to the cooking practical life lessons. Creating problems for family members requires deeper understanding than solving them — it is excellent practice.",
+    "age_adaptations": null,
+    "sort_order": 2
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 13,
+    "day_of_week": 1,
+    "quarter": 2,
+    "title": "Medieval Towns and the Rise of the Merchant Class",
+    "description": "Students learn how towns grew in medieval Europe, breaking the dominance of feudalism. They explore the rise of merchants and craftspeople, the guild system, and how towns earned charters of self-governance — the seeds of modern democracy and capitalism.",
+    "instructions": "1. Contrast town life with rural feudal life.\n2. Explain why towns grew: trade revived, surplus food, craftspeople gathered.\n3. Introduce the guild system: apprentice, journeyman, master.\n4. Discuss the motto 'Town air makes you free' — serfs who lived in a town for a year and a day were legally free.\n5. Discuss how towns earned charters from kings.\n6. The marketplace as the center of town life.\n7. Students create a medieval town plan.\n8. Analyze: How did towns weaken feudalism?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["History notebook", "Colored pencils", "Pencil", "Ruler", "Large paper for town plan"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Medieval Towns", "subheading": "The Rise of the Merchant Class"},
+        {"type": "materials", "items": ["History notebook", "Colored pencils", "Pencil", "Ruler", "Large paper for town plan drawing"], "setup_instructions": "Open history notebook. Have large paper ready for designing a medieval town."},
+        {"type": "instruction", "step": 1, "text": "By the 1100s, something was changing in feudal Europe. Trade was reviving, populations were growing, and people were gathering in towns. Towns were different from the countryside: instead of farming, people MADE things and SOLD things. A new class was emerging — merchants and craftspeople who earned money through skill and trade, not land ownership."},
+        {"type": "instruction", "step": 2, "text": "The GUILD system organized medieval crafts and trade. To become a master craftsman: APPRENTICE (age 12-14, live with a master for 5-7 years, learning the craft), JOURNEYMAN (a skilled worker who could work for wages but not own a shop), MASTER (after creating a 'masterpiece' to prove skill, you could open your own shop). Guilds controlled quality, prices, and training."},
+        {"type": "instruction", "step": 3, "text": "'Stadtluft macht frei' — 'Town air makes you free.' In many places, a serf who lived in a town for a year and a day became legally free. Towns offered ESCAPE from feudal obligations. They were governed not by lords but by councils of wealthy merchants. Towns earned CHARTERS from kings — legal documents granting them self-governance and market rights."},
+        {"type": "instruction", "step": 4, "text": "A typical medieval town had: a MARKETPLACE (central square for buying and selling), a CHURCH (the largest building), GUILD HALLS (headquarters for each craft), TOWN WALLS (for protection), narrow streets, half-timbered houses with shops on the ground floor, and a TOWN HALL (where the council met). It was crowded, noisy, smelly — and full of opportunity."},
+        {"type": "activity", "prompt": "Design a medieval town: (1) Draw a bird's-eye plan showing the marketplace, church, guild halls, town walls and gates, residential areas, and key buildings. (2) Label at least 10 different shops/businesses (baker, blacksmith, weaver, apothecary, etc.) and place them logically. (3) Write a paragraph explaining: How did the rise of towns change medieval society? How did merchants challenge the feudal system's power structure?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Medieval towns were the birthplace of the middle class, modern business, and self-governance. When merchants earned wealth through trade rather than inheritance, and when towns governed themselves through councils rather than lords, the feudal system began to crack. These changes eventually led to the Renaissance, the Reformation, and the modern world.", "mastery_check": "Can the student describe how medieval towns functioned, explain the guild system, and analyze how towns challenged the feudal order?"}
+      ]
+    },
+    "parent_notes": "This lesson shows how economic change drives social change — a crucial insight for understanding history. The guild system's apprentice-journeyman-master path has parallels in modern career development. The concept that 'town air makes you free' powerfully illustrates how geography and economics interact with social structures. The town-planning activity combines spatial thinking with historical knowledge. Connect to modern concepts: How do cities today differ from rural areas in opportunity and freedom?",
+    "age_adaptations": null,
+    "sort_order": 3
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "geography",
+    "week_number": 13,
+    "day_of_week": 1,
+    "quarter": 2,
+    "title": "Urbanization — The Growth of Cities",
+    "description": "Students explore urbanization — the global trend of people moving from rural areas to cities. They analyze why cities grow, study megacities around the world, and discuss the benefits and challenges of urban life.",
+    "instructions": "1. Connect to medieval towns lesson: urbanization has been happening for centuries.\n2. Define urbanization: the movement from rural to urban areas.\n3. Statistics: In 1800, 3% of people lived in cities. Today, over 55%. By 2050, nearly 70%.\n4. Push/pull factors for urban migration.\n5. Study megacities: Tokyo, Delhi, Shanghai, Sao Paulo, Cairo, Lagos.\n6. Benefits of cities: jobs, education, healthcare, culture.\n7. Challenges: crowding, pollution, poverty, infrastructure.\n8. Map the world's largest cities and urbanization rates.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Geography notebook", "Colored pencils", "World map", "Calculator", "Pencil"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Urbanization", "subheading": "The Growth of Cities"},
+        {"type": "materials", "items": ["Geography notebook", "Colored pencils", "World map", "Calculator", "Pencil"], "setup_instructions": "Open notebook. Have a blank world map ready for marking megacities."},
+        {"type": "instruction", "step": 1, "text": "For most of human history, nearly everyone lived in rural areas, growing food. The Industrial Revolution (starting ~1760) began a massive shift. Factories in cities needed workers. Rural people migrated to urban areas for jobs. This trend — URBANIZATION — continues today and is accelerating, especially in Africa and Asia."},
+        {"type": "instruction", "step": 2, "text": "The numbers are staggering: 1800 — 3% urban (about 30 million in cities). 1900 — 14% urban. 1950 — 30% urban. 2000 — 47% urban. 2023 — 56% urban (about 4.4 billion people). 2050 (projected) — 68% urban. In just 250 years, humanity went from overwhelmingly rural to majority urban. This is one of the biggest changes in human history."},
+        {"type": "instruction", "step": 3, "text": "Megacities (over 10 million people): Tokyo (37M), Delhi (32M), Shanghai (29M), Sao Paulo (22M), Mexico City (22M), Cairo (21M), Mumbai (21M), Beijing (21M), Lagos (15M), Istanbul (15M). Most are in Asia and South America. Mark these on your map. What do their locations have in common?"},
+        {"type": "instruction", "step": 4, "text": "Cities offer BENEFITS: economic opportunity, education access, healthcare, cultural richness, social diversity, infrastructure. But cities also face CHALLENGES: overcrowding, housing shortages, pollution, traffic, waste management, poverty pockets, crime, water/food supply. The key question for the future: How do we make cities livable for everyone?"},
+        {"type": "activity", "prompt": "Complete these activities: (1) Mark the world's 10 largest cities on your map. Note their populations. (2) Create a T-chart: Benefits vs. Challenges of urban life. List at least 6 in each column. (3) Calculate: If there are 8 billion people and 56% live in cities, how many people live in urban areas? How many in rural areas? (4) Write a paragraph: Do you think urbanization is mostly positive or mostly negative? Use evidence. (5) Bonus: Research your nearest city — what is its population and how has it changed?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Urbanization is reshaping our planet. The challenge of the 21st century is making cities sustainable, equitable, and livable. Understanding urbanization helps you understand migration, economics, environment, and the future of human civilization.", "mastery_check": "Can the student explain what urbanization is, identify major megacities, and analyze both the benefits and challenges of urban growth?"}
+      ]
+    },
+    "parent_notes": "Urbanization connects to the medieval towns history lesson perfectly — both are about the growth of cities and the pull of economic opportunity. The statistics are powerful: humanity has gone from 3% urban to over 55% in just 250 years. If your family lives in a city, discuss what drew your family there. If you live in a rural area, discuss what draws people to cities and what keeps your family where you are. The megacity list may surprise children — many of the world's largest cities are not in the West.",
+    "age_adaptations": null,
+    "sort_order": 4
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 13,
+    "day_of_week": 1,
+    "quarter": 2,
+    "title": "Number the Stars — Chapters 4-7: The Star of David",
+    "description": "Continue reading 'Number the Stars.' The danger escalates as the Nazis plan to arrest Danish Jews. Ellen comes to stay with the Johansens, hiding as their daughter. Students explore themes of identity, bravery, and moral choices under pressure.",
+    "instructions": "1. Review chapters 1-3.\n2. Read chapters 4-7 aloud.\n3. Discuss the pivotal scene: soldiers come to the apartment, Ellen hides her Star of David necklace.\n4. Explore the moral choices: the Johansen family risks their lives to protect Ellen.\n5. Discuss identity: Ellen must pretend to be someone she is not to survive.\n6. Historical context: the Danish resistance movement.\n7. Journal: What would you do if your friend's life was in danger?\n8. Discuss: What makes ordinary people do extraordinary things?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Number the Stars", "Reading journal", "Pencil", "Map of Denmark and Sweden", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Number the Stars", "subheading": "Chapters 4-7: The Star of David"},
+        {"type": "materials", "items": ["Number the Stars", "Reading journal", "Pencil", "Map of Denmark", "Colored pencils"], "setup_instructions": "Find your reading spot. Have journal ready. This section of the book becomes more intense — be prepared for serious discussion."},
+        {"type": "instruction", "step": 1, "text": "In today's reading, the danger becomes real. The Nazis are planning to round up Denmark's Jewish people. The Johansen family must make a choice: do nothing and stay safe, or risk everything to protect their friends. This is the moral heart of the book — and of this period in history."},
+        {"type": "instruction", "step": 2, "text": "Read chapters 4-7. Pay close attention to the scene where soldiers come to the Johansen apartment looking for the Rosen family. Notice the details: Ellen's dark hair versus the Johansens' blonde hair, the Star of David necklace, Annemarie's father's quick thinking. These details carry enormous weight."},
+        {"type": "instruction", "step": 3, "text": "After reading, discuss: The Johansens are risking arrest, imprisonment, and possibly death by hiding Ellen. Why do they do it? Mrs. Johansen says it is the right thing to do. But many people in occupied Europe did NOT help their Jewish neighbors. What makes some people willing to risk everything for others while others stay silent?"},
+        {"type": "instruction", "step": 4, "text": "Identity and pretending: Ellen must hide who she is — her religion, her family, her Star of David necklace — to survive. Imagine being told you cannot be yourself, that your identity is dangerous. How would that feel? The necklace scene is powerful because it shows that identity goes deeper than what you wear or what name you use."},
+        {"type": "activity", "prompt": "In your journal: (1) Describe the most tense moment in today's reading. What made it so suspenseful? How did Lowry create that tension with her writing? (2) Write a personal reflection: If you were Annemarie, what would be the hardest part of hiding your friend? What would give you courage? (3) Research: What was the Danish Resistance? How did ordinary Danish citizens organize to save their Jewish neighbors? Write a paragraph about what you find.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The Danish rescue of their Jewish neighbors shows that courage is not the absence of fear — it is choosing to act despite fear. Every person who hid a neighbor, smuggled a family, or kept a secret was an ordinary person making an extraordinary choice. This is the kind of courage Annemarie is learning about.", "mastery_check": "Can the student analyze the moral choices characters face and discuss the themes of identity and courage with specific references to the text?"}
+      ]
+    },
+    "parent_notes": "These chapters are emotionally intense. The scene with the soldiers at the door is gripping and may prompt questions about the Holocaust. Answer honestly at an age-appropriate level. The Danish rescue is a remarkable historical bright spot — about 7,200 of Denmark's 7,800 Jewish citizens were saved. Discuss with your child: What qualities did the rescuers have? Emphasize that they were ordinary people — parents, fishermen, teachers — who chose to help. The question 'What would you do?' is powerful and personal.",
+    "age_adaptations": null,
+    "sort_order": 5
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 13,
+    "day_of_week": 2,
+    "quarter": 2,
+    "title": "Writing a Formal Letter — Structure and Purpose",
+    "description": "Students learn the format and conventions of formal letter writing, distinguishing it from informal communication. They practice writing letters for various purposes: requesting information, expressing an opinion, making a complaint, and thanking someone.",
+    "instructions": "1. Discuss when formal letters are needed: business, government, organizations, unfamiliar recipients.\n2. Teach the format: sender address, date, recipient address, salutation, body, closing, signature.\n3. Compare formal tone vs. informal tone.\n4. Discuss appropriate salutations: Dear Mr./Ms./Dr., To Whom It May Concern.\n5. Practice different letter types: request, opinion, complaint, thank-you.\n6. Students write a real formal letter to send.\n7. Peer review for format and tone.\n8. Address the envelope (if mailing).",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Language notebook", "Pencil", "Formal letter example", "Lined paper or stationery", "Envelope and stamp (optional)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Formal Letters", "subheading": "Writing with Purpose and Professionalism"},
+        {"type": "materials", "items": ["Language notebook", "Pencil", "Sample formal letter", "Good lined paper or stationery", "Envelope and stamp (optional)"], "setup_instructions": "Open notebook. Have good paper ready for your final letter — you will write one worth sending."},
+        {"type": "instruction", "step": 1, "text": "A formal letter is your voice in professional situations. You might write one to: request information from an organization, express your opinion to an elected official, complain about a product or service, thank someone professionally, or apply for a position or program. Formal letters follow specific conventions that show respect and professionalism."},
+        {"type": "instruction", "step": 2, "text": "The format (top to bottom): YOUR ADDRESS (top right), DATE (below your address), RECIPIENT'S NAME AND ADDRESS (left side), SALUTATION ('Dear Mr. Smith:' — note the colon, not a comma), BODY (1-3 clear paragraphs), CLOSING ('Sincerely,' or 'Respectfully,'), YOUR SIGNATURE AND PRINTED NAME."},
+        {"type": "instruction", "step": 3, "text": "Formal tone rules: Use complete sentences (no slang, abbreviations, or emojis). Be polite and respectful, even in complaints. Be specific and direct — state your purpose in the first paragraph. Keep it concise — one page is ideal. Use proper titles (Mr., Ms., Dr., Senator). Proofread carefully — errors undermine your credibility."},
+        {"type": "instruction", "step": 4, "text": "Body paragraph structure: PARAGRAPH 1 — State your purpose clearly. ('I am writing to request information about...' or 'I am writing to express my concern about...'). PARAGRAPH 2 — Provide details, reasons, or evidence. PARAGRAPH 3 — State what action you would like or what you appreciate. Be specific."},
+        {"type": "activity", "prompt": "Write a REAL formal letter to actually send. Choose one: (a) Write to an elected official about an issue you care about. (b) Write to a company requesting information about their products. (c) Write to an author whose book you enjoyed. (d) Write to a local organization volunteering your time. (e) Write a formal thank-you letter to someone who has helped you. Follow the exact format taught today. This letter should be worth mailing.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Formal letter writing is a powerful tool. A well-written letter to an elected official can influence policy. A clear complaint letter can resolve problems. A thank-you letter can strengthen relationships. This skill sets you apart — most people your age cannot write a proper formal letter, but you can.", "mastery_check": "Can the student produce a correctly formatted formal letter with appropriate tone, clear purpose, and professional conventions?"}
+      ]
+    },
+    "parent_notes": "If possible, actually MAIL the letter your child writes. Receiving a real response to a real letter is incredibly motivating and teaches that writing has real-world power. A letter to an author often gets a response. Letters to elected officials receive form letters at minimum. The formal letter format is a life skill used in business, academia, and civic participation. Help your child proofread their letter before sending. This is also an excellent time to teach envelope addressing and the post office process if your child has not experienced sending physical mail.",
+    "age_adaptations": null,
+    "sort_order": 6
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 13,
+    "day_of_week": 2,
+    "quarter": 2,
+    "title": "Geometry — Perimeter and Area of Rectangles and Triangles",
+    "description": "Students learn to calculate perimeter and area of rectangles and triangles using formulas. They understand why the formulas work through hands-on exploration and apply them to real-world measurement problems.",
+    "instructions": "1. Define perimeter (distance around) and area (space inside).\n2. Perimeter of a rectangle: P = 2l + 2w. Practice.\n3. Area of a rectangle: A = l × w. Use grid squares to prove it.\n4. Derive triangle area: a triangle is half a rectangle, so A = 1/2 × b × h.\n5. Prove by cutting a rectangle diagonally — two equal triangles.\n6. Practice calculating both perimeter and area.\n7. Real-world problems: room dimensions, garden planning, art projects.\n8. Challenge: find area of irregular shapes by breaking into rectangles and triangles.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Math notebook", "Pencil", "Ruler", "Graph paper", "Scissors", "Calculator"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Perimeter and Area", "subheading": "Rectangles and Triangles"},
+        {"type": "materials", "items": ["Math notebook", "Pencil", "Ruler (in cm)", "Graph paper", "Scissors", "Calculator"], "setup_instructions": "Open notebook. Have graph paper ready for proving area formulas visually. Scissors for cutting rectangles into triangles."},
+        {"type": "instruction", "step": 1, "text": "PERIMETER is the total distance around a shape — if you walked along every edge, how far would you go? AREA is the amount of surface inside a shape — if you covered it with unit squares, how many would you need? Perimeter is measured in linear units (cm, m, ft). Area is measured in SQUARE units (cm², m², ft²)."},
+        {"type": "instruction", "step": 2, "text": "Rectangle perimeter: P = 2 × length + 2 × width, or P = 2(l + w). Example: A garden is 8m long and 5m wide. P = 2(8+5) = 2(13) = 26m. That is how much fencing you need. Rectangle area: A = length × width. A = 8 × 5 = 40 m². That is how much space you have for planting."},
+        {"type": "instruction", "step": 3, "text": "Triangle area discovery: Draw a rectangle on graph paper. Cut it diagonally corner to corner. You get two equal triangles! Each triangle is HALF the rectangle. So triangle area = 1/2 × base × height. A = 1/2 × b × h. Example: A triangle with base 10cm and height 6cm has area = 1/2 × 10 × 6 = 30 cm²."},
+        {"type": "instruction", "step": 4, "text": "Important: The HEIGHT of a triangle is the perpendicular distance from the base to the opposite vertex — NOT the length of a slanted side. Draw the height as a dashed line from the top vertex straight down to the base (forming a right angle). Practice identifying the base and height on different triangles."},
+        {"type": "activity", "prompt": "Solve these problems: (1) A room is 12ft by 9ft. Find perimeter and area. (2) A garden is 15m by 8m. How much fencing (perimeter)? How much soil (area)? (3) A triangle has base 14cm and height 9cm. Find the area. (4) A right triangle has legs of 6cm and 8cm. Find the area. (5) Measure your bedroom: find its perimeter and area. (6) Challenge: A room is L-shaped: one rectangle 10ft×8ft joined to another 6ft×4ft. Find total area and total perimeter. (Draw it first!)", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Perimeter and area are among the most practical math skills. Every time you fence a yard, paint a wall, tile a floor, or plan a garden, you are using these formulas. The ability to calculate area and perimeter makes you capable of real-world problem-solving.", "mastery_check": "Can the student calculate perimeter and area of rectangles and triangles and apply these skills to real-world measurement problems?"}
+      ]
+    },
+    "parent_notes": "Perimeter and area are practical skills with immediate real-world applications. Measure actual rooms in your home together — children are often surprised by how large or small rooms really are in square feet. The L-shaped room challenge is important because real rooms are rarely simple rectangles. The triangle area discovery (cutting a rectangle in half) is a powerful visual proof. Home improvement projects (painting, flooring, fencing) provide authentic contexts. If your child enjoys this, have them calculate the area of your entire home.",
+    "age_adaptations": null,
+    "sort_order": 7
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 13,
+    "day_of_week": 2,
+    "quarter": 2,
+    "title": "Invertebrate Animals — The Other 95%",
+    "description": "Students explore the vast world of invertebrates, which make up 95% of all animal species. They study major invertebrate groups including arthropods, mollusks, annelids, and cnidarians, discovering the incredible diversity of animals without backbones.",
+    "instructions": "1. Review: invertebrates = animals without backbones (95% of all animals!).\n2. Arthropods: exoskeleton, jointed legs, segmented body. Subgroups: insects, arachnids, crustaceans, myriapods.\n3. Mollusks: soft body, often with shell. Classes: gastropods (snails), bivalves (clams), cephalopods (octopus).\n4. Annelids: segmented worms. Examples: earthworms, leeches.\n5. Cnidarians: jellyfish, coral, sea anemones.\n6. Echinoderms: starfish, sea urchins (radial symmetry).\n7. Insects deep dive: most diverse group on Earth.\n8. Students create invertebrate classification poster.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Science notebook", "Colored pencils", "Pencil", "Large paper for poster", "Animal reference materials"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Invertebrates", "subheading": "The Other 95% of Animal Life"},
+        {"type": "materials", "items": ["Science notebook", "Colored pencils", "Pencil", "Large paper for classification poster", "Animal reference materials"], "setup_instructions": "Open science notebook. Have large paper ready for an invertebrate classification poster. This is a big topic — 95% of all animals!"},
+        {"type": "instruction", "step": 1, "text": "When most people think of 'animals,' they picture mammals, birds, and fish. But these vertebrates are only 5% of animal species! The other 95% are invertebrates — animals without backbones. There are over 1.3 million known invertebrate species, and scientists estimate millions more remain undiscovered."},
+        {"type": "instruction", "step": 2, "text": "ARTHROPODS are the most successful animal group on Earth. Features: exoskeleton (external skeleton), jointed legs, segmented body. Subgroups: INSECTS (6 legs, 3 body parts — beetles, butterflies, ants), ARACHNIDS (8 legs — spiders, scorpions, ticks), CRUSTACEANS (mostly aquatic — crabs, lobsters, shrimp), MYRIAPODS (many legs — centipedes, millipedes)."},
+        {"type": "instruction", "step": 3, "text": "MOLLUSKS: soft-bodied, usually with a shell. GASTROPODS (one shell or no shell — snails, slugs), BIVALVES (two shells — clams, mussels, oysters), CEPHALOPODS (no external shell, very intelligent — octopus, squid, cuttlefish). Fun fact: the giant Pacific octopus has 3 hearts, blue blood, and can change color in milliseconds."},
+        {"type": "instruction", "step": 4, "text": "ANNELIDS: segmented worms (earthworms are vital for soil health — they aerate soil and break down organic matter). CNIDARIANS: jellyfish, coral, sea anemones (have stinging cells called nematocysts). ECHINODERMS: starfish, sea urchins, sand dollars (radial symmetry — body parts arranged around a center, like spokes on a wheel). Coral reefs are built by tiny cnidarians over thousands of years."},
+        {"type": "activity", "prompt": "Create an Invertebrate Classification Poster: organize the major groups with representative drawings and key characteristics. Include: Arthropods (with 4 subgroups), Mollusks (with 3 classes), Annelids, Cnidarians, Echinoderms. For each group, draw at least 2 examples and list 3 key features. Then answer: (1) Why are insects the most diverse animal group? (2) How do invertebrates affect YOUR daily life? (list at least 5 ways). (3) What would happen if all invertebrates disappeared?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Invertebrates run the planet. Insects pollinate our crops, earthworms build our soil, coral reefs support ocean ecosystems, and decomposers recycle nutrients. Without invertebrates, life on Earth would collapse. They may not be as charismatic as lions and whales, but they are arguably more important.", "mastery_check": "Can the student identify and describe 5+ invertebrate groups with key characteristics and at least 2 examples of each?"}
+      ]
+    },
+    "parent_notes": "Invertebrates are often overlooked but are essential for ecological literacy. Children are often surprised to learn that 95% of animals are invertebrates. If your child finds insects or spiders interesting, this is a great unit for outdoor exploration — observe invertebrates in your yard or a local park. The ecological importance of invertebrates (pollination, soil health, decomposition) connects to environmental science. The octopus facts often fascinate children and can lead to excellent independent research.",
+    "age_adaptations": null,
+    "sort_order": 8
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 13,
+    "day_of_week": 2,
+    "quarter": 2,
+    "title": "Medieval Music — Troubadours and Secular Songs",
+    "description": "Students explore secular medieval music through troubadours and minstrels — traveling poets and musicians who sang about love, adventure, and courtly life. They learn about secular vs. sacred music, study song forms, and compose their own troubadour-style song.",
+    "instructions": "1. Contrast secular and sacred medieval music.\n2. Introduce troubadours (southern France) and minnesingers (Germany).\n3. Discuss their role: entertainers, news carriers, poets.\n4. Listen to recordings of troubadour music.\n5. Study song themes: courtly love, heroic deeds, nature, satire.\n6. Analyze the structure of a simple troubadour song.\n7. Students write lyrics for their own troubadour-style song.\n8. Set lyrics to a simple melody and perform.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Music notebook", "Pencil", "Music player for recordings", "Recorder or other instrument (optional)", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Troubadours", "subheading": "Medieval Secular Music and Song"},
+        {"type": "materials", "items": ["Music notebook", "Pencil", "Music player or computer", "Recorder (optional)", "Colored pencils for decorating lyrics"], "setup_instructions": "Find troubadour music recordings online (search 'medieval troubadour music' or 'trouvere songs'). Open notebook for lyric writing."},
+        {"type": "instruction", "step": 1, "text": "While monks sang Gregorian chant in churches, a very different kind of music flourished in castles and market squares. TROUBADOURS were poet-musicians in southern France (1100s-1300s) who composed and performed songs about love, adventure, politics, and nature. They traveled from castle to castle, entertaining nobles. Similar musicians in northern France were called trouveres, and in Germany, minnesingers."},
+        {"type": "instruction", "step": 2, "text": "Troubadour songs were SECULAR (non-religious) and were among the first European songs in the common language (not Latin). Their most famous theme was COURTLY LOVE — an idealized, often unrequited love for a noble lady. But they also sang about heroic battles, political satire, nature's beauty, and even comedy. They were the pop stars of their era."},
+        {"type": "instruction", "step": 3, "text": "Listen to a troubadour recording. Notice: the melody is simple and singable, the accompaniment (usually a lute or harp) is gentle, and the lyrics tell a story or express an emotion. The structure often uses repeating verse-chorus patterns — very similar to modern songs. The troubadours essentially invented the love song."},
+        {"type": "instruction", "step": 4, "text": "Song structure for your composition: VERSE 1 — Set the scene (where, when, who). CHORUS — The main message or feeling (repeats after each verse). VERSE 2 — Develop the story or emotion. CHORUS. VERSE 3 — Resolution or final thought. CHORUS. Keep it simple: AABB rhyme scheme (every two lines rhyme) works well."},
+        {"type": "activity", "prompt": "Compose a troubadour-style song: (1) Choose a theme: adventure, nature, friendship, bravery, a place you love. (2) Write 3 verses and a repeating chorus. Use an AABB rhyme scheme. (3) Set your lyrics to a simple melody — you can use your recorder, hum, or sing. (4) Decorate your lyrics page in medieval style (ornate first letter, borders). (5) Perform your song for someone!", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Troubadours changed music forever. They created the idea that songs could express personal feelings, tell stories, and entertain. Every singer-songwriter today — from folk musicians to pop stars — is following in the troubadours' footsteps. You have just joined a 900-year tradition.", "mastery_check": "Did the student compose a song with verses and chorus in a troubadour-inspired style and perform or present it?"}
+      ]
+    },
+    "parent_notes": "Songwriting combines language arts (poetry, rhyme, storytelling) with music (melody, rhythm, performance). Even children who are not confident singers can write lyrics and speak them rhythmically. The connection between troubadours and modern singer-songwriters helps children see the continuity of cultural traditions. Listen to troubadour recordings together — the music is hauntingly beautiful. If your child enjoys this, encourage continued songwriting. Many famous musicians started composing songs as children.",
+    "age_adaptations": null,
+    "sort_order": 9
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "practical_life",
+    "week_number": 13,
+    "day_of_week": 2,
+    "quarter": 2,
+    "title": "Budgeting Practice — A Family Activity Budget",
+    "description": "Students apply their budgeting skills to a realistic scenario: planning a month of family activities within a fixed budget. They research costs, make priority decisions, track spending, and adjust plans based on available resources.",
+    "instructions": "1. Review budgeting principles from week 11.\n2. Present the scenario: $200 for one month of family activities.\n3. Research costs of local activities: movies, museums, parks, restaurants, sports events.\n4. Categorize activities: free, low-cost, moderate, expensive.\n5. Prioritize: must-do, would-like, luxury.\n6. Create a detailed monthly activity budget.\n7. Build in a contingency fund (10% for unexpected opportunities).\n8. Present the budget to the family for feedback.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Notebook", "Pencil", "Calculator", "Computer for research", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Family Activity Budget", "subheading": "Planning Fun Within Limits"},
+        {"type": "materials", "items": ["Notebook", "Pencil", "Calculator", "Computer for researching costs", "Colored pencils for charts"], "setup_instructions": "Open notebook. Have computer ready for researching local activity costs. Calculator for calculations."},
+        {"type": "instruction", "step": 1, "text": "Today you are the family entertainment director with a budget of $200 for one month. Your job: plan activities that everyone will enjoy while staying within budget. This is EXACTLY what adults do — balance desires with resources. The skill is not spending less, it is spending WISELY."},
+        {"type": "instruction", "step": 2, "text": "Research phase: Look up costs for activities your family enjoys. Create a menu of options with prices: free activities (parks, hiking, library, home game night), low-cost ($0-20: matinee movies, local museums on free days), moderate ($20-50: bowling, mini golf, museum visits), expensive ($50+: amusement parks, concerts, special events)."},
+        {"type": "instruction", "step": 3, "text": "Strategy: Start with free activities — there are more great free options than most people realize. Then add paid activities for variety. Apply the 90/10 rule: spend 90% of budget on planned activities, save 10% ($20) as a contingency fund for unexpected opportunities or small treats. Plan week by week."},
+        {"type": "instruction", "step": 4, "text": "Create your budget in a clear format: Week 1 through Week 4, with activities, costs, and running total. Include at least one activity per week. Balance different types: active/outdoor, cultural/educational, social, relaxation. Show that you can have a fantastic month without overspending."},
+        {"type": "activity", "prompt": "Create a complete monthly activity plan: (1) Research and list at least 15 activity options with costs. (2) Select activities for each week, staying within the $200 total. (3) Create a budget table showing: Week, Activity, Cost, Running Total, Budget Remaining. (4) Include at least 3 free activities. (5) Include the 10% contingency fund. (6) Write a brief justification for each choice. Present your plan to your family tonight for feedback.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "A budget is not a limit — it is a PLAN. When you plan thoughtfully, you often enjoy activities MORE because you chose them intentionally rather than impulsively. The best financial skill is not earning more money — it is making wise choices with what you have.", "mastery_check": "Did the student create a realistic monthly activity budget that stays within limits while including diverse, enjoyable activities?"}
+      ]
+    },
+    "parent_notes": "This exercise builds on the budgeting introduction from week 11 with a more complex scenario. Consider actually giving your child this responsibility for a month — let them plan and manage a real family activity budget (adjust the amount to what is realistic for your family). The research phase teaches price awareness. The prioritization teaches values-based decision making. Including free activities teaches that fun does not require spending. If your child presents a thoughtful plan, honor it by following through.",
+    "age_adaptations": null,
+    "sort_order": 10
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 13,
+    "day_of_week": 3,
+    "quarter": 2,
+    "title": "Suffixes That Change Parts of Speech",
+    "description": "Students learn how suffixes transform words from one part of speech to another: verbs to nouns, adjectives to adverbs, nouns to adjectives, and more. They build a systematic understanding of how English word formation works.",
+    "instructions": "1. Review roots and prefixes from previous lessons.\n2. Introduce suffixes that create NOUNS: -tion/-sion, -ment, -ness, -er/-or, -ist.\n3. Introduce suffixes that create ADJECTIVES: -ful, -less, -ous, -ive, -able/-ible.\n4. Introduce suffixes that create ADVERBS: -ly.\n5. Practice transforming words across parts of speech.\n6. Spelling changes when adding suffixes (drop the e, change y to i).\n7. Build word families: create → creation → creative → creatively → creator.\n8. Add suffix cards to root word dictionary.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Language notebook", "Pencil", "Root word dictionary cards", "Index cards", "Dictionary"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Suffixes", "subheading": "Transforming Words Across Parts of Speech"},
+        {"type": "materials", "items": ["Language notebook", "Pencil", "Root word dictionary cards", "New index cards", "Dictionary"], "setup_instructions": "Open notebook. Have root word cards accessible. Prepare new index cards for suffix entries."},
+        {"type": "instruction", "step": 1, "text": "Suffixes are endings that attach to roots and change the word's part of speech. This is incredibly powerful: from one root, you can build a whole FAMILY of words. Example: the root 'educate' (verb) → education (noun) → educational (adjective) → educationally (adverb) → educator (noun). One root, five words!"},
+        {"type": "instruction", "step": 2, "text": "Noun-making suffixes: -TION/-SION (action, condition: education, decision), -MENT (state of: government, amazement), -NESS (quality of: kindness, darkness), -ER/-OR (one who: teacher, actor), -IST (one who practices: scientist, artist), -ITY (state: creativity, electricity). Practice: Add a noun suffix to: inform, develop, sad, build, piano."},
+        {"type": "instruction", "step": 3, "text": "Adjective-making suffixes: -FUL (full of: beautiful, peaceful), -LESS (without: careless, homeless), -OUS (having: famous, dangerous), -IVE (tending to: creative, active), -ABLE/-IBLE (capable of: readable, invisible), -AL (relating to: historical, musical). Practice: Add an adjective suffix to: wonder, hope, danger, act, comfort."},
+        {"type": "instruction", "step": 4, "text": "Spelling rules when adding suffixes: (1) Silent E: usually DROP it before a vowel suffix (create → creative, love → lovable) but KEEP it before a consonant suffix (care → careful, love → lovely). (2) Consonant + Y: change Y to I (happy → happiness, beauty → beautiful). (3) Doubling rule: review from week 11 (run → runner, stop → stopped)."},
+        {"type": "activity", "prompt": "Word family challenge: Build complete word families for these roots (at least 4 forms each): (1) create, (2) educate, (3) beauty, (4) power, (5) peace. For each word in the family, identify the part of speech and the suffix used. Then decode these words using root + prefix + suffix analysis: (a) uncomfortable, (b) reconstruction, (c) unbelievable, (d) disrespectfully, (e) internationalism. Break each into parts and explain the meaning.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "With roots, prefixes, AND suffixes in your toolkit, you can now analyze and build thousands of English words. This systematic approach to vocabulary is far more powerful than memorizing individual words. You understand how English WORKS at the deepest level.", "mastery_check": "Can the student use suffixes to transform words across parts of speech and build complete word families from a single root?"}
+      ]
+    },
+    "parent_notes": "This lesson completes the morphology unit (roots, prefixes, suffixes). Together, these tools give your child the ability to systematically build and decode vocabulary. The spelling rules when adding suffixes are important but can be tricky — practice over time. Word families are especially valuable because they show connections between related words. When your child encounters an unfamiliar word, encourage the full analysis: prefix + root + suffix = meaning. This analytical approach to vocabulary builds skills that last a lifetime.",
+    "age_adaptations": null,
+    "sort_order": 11
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 13,
+    "day_of_week": 3,
+    "quarter": 2,
+    "title": "Area of Parallelograms and Composite Shapes",
+    "description": "Students extend their area knowledge to parallelograms and learn to calculate areas of composite shapes by decomposing them into rectangles, triangles, and parallelograms. They apply these skills to real-world floor plans and design problems.",
+    "instructions": "1. Review rectangle and triangle area formulas.\n2. Derive parallelogram area: cut off a triangle from one end, move it to the other — it becomes a rectangle! A = base × height.\n3. Practice with parallelograms.\n4. Introduce composite shapes: shapes made of simpler shapes combined.\n5. Strategy: break the shape into pieces you know how to calculate.\n6. Practice with L-shapes, T-shapes, and irregular shapes.\n7. Real-world application: calculate area of a room floor plan.\n8. Design challenge: create a room with specific area requirements.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Math notebook", "Pencil", "Graph paper", "Ruler", "Scissors", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Area", "subheading": "Parallelograms and Composite Shapes"},
+        {"type": "materials", "items": ["Math notebook", "Pencil", "Graph paper", "Ruler", "Scissors", "Colored pencils"], "setup_instructions": "Open notebook. Have graph paper and scissors ready for the parallelogram proof. Colored pencils will help distinguish different sections of composite shapes."},
+        {"type": "instruction", "step": 1, "text": "Parallelogram area discovery: Draw a parallelogram on graph paper. Cut it out. Now cut a right triangle from one end (where the side slants). Move that triangle to the other end. What shape do you have now? A rectangle! So a parallelogram has the same area as a rectangle with the same base and height: A = base × height."},
+        {"type": "instruction", "step": 2, "text": "Important: The HEIGHT of a parallelogram is the PERPENDICULAR distance between the parallel sides, NOT the length of the slanted side. Draw it as a dashed line from top to bottom, forming a 90° angle with the base. Example: base = 12cm, height = 7cm (slanted side = 8cm). Area = 12 × 7 = 84 cm². The slanted side is irrelevant for area."},
+        {"type": "instruction", "step": 3, "text": "Composite shapes are shapes made from combinations of simpler shapes. To find their area: (1) IDENTIFY the simple shapes within the composite shape (rectangles, triangles, parallelograms). (2) CALCULATE each simple shape's area separately. (3) ADD (or subtract) the areas. Color each section a different color to keep track."},
+        {"type": "instruction", "step": 4, "text": "Example: An L-shaped room has one section that is 10ft × 8ft and another that is 6ft × 5ft. Total area = (10×8) + (6×5) = 80 + 30 = 110 ft². Sometimes you can also find composite area by calculating a LARGER shape and SUBTRACTING the missing piece."},
+        {"type": "activity", "prompt": "Solve these: (1) Parallelogram with base 9cm and height 5cm. (2) Parallelogram with base 15m and height 8m. (3) An L-shaped room: main section 14ft×10ft, extension 6ft×8ft. Find total area. (4) A T-shaped pool: vertical section 12m×3m, horizontal top 8m×3m. Find total area. (5) Design challenge: Draw a house floor plan on graph paper with exactly 200 square units of total area. The house must have at least 4 rooms of different sizes. Label each room with its dimensions and area.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Being able to find the area of any shape by breaking it into simpler pieces is a powerful problem-solving strategy — and not just in math. Complex problems in any field can often be solved by breaking them into smaller, manageable parts.", "mastery_check": "Can the student calculate the area of parallelograms and decompose composite shapes to find their total area?"}
+      ]
+    },
+    "parent_notes": "The parallelogram discovery (cutting and rearranging into a rectangle) is a beautiful visual proof. Composite shapes require spatial reasoning and strategic decomposition — valuable thinking skills that transfer beyond math. The floor plan design challenge is open-ended and creative. If your child enjoys it, have them measure and calculate the actual floor plan of your home. Architects, interior designers, builders, and landscapers all use composite area calculations daily.",
+    "age_adaptations": null,
+    "sort_order": 12
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 13,
+    "day_of_week": 3,
+    "quarter": 2,
+    "title": "The Medieval Church — Power, Education, and Daily Life",
+    "description": "Students explore the enormous influence of the Catholic Church in medieval Europe. They learn how the Church shaped education, law, architecture, art, and daily life, and examine the relationship between Church power and political authority.",
+    "instructions": "1. Discuss the Church as the most powerful institution in medieval Europe.\n2. Explain the Church hierarchy: Pope, cardinals, bishops, priests, monks/nuns.\n3. The Church's role in education: cathedral schools, universities (Paris, Oxford, Bologna).\n4. The Church and daily life: baptism, marriage, festivals, tithes, last rites.\n5. Church and state: the investiture controversy, papal authority vs. royal power.\n6. Monasteries and convents as centers of learning and service.\n7. Criticisms: corruption, simony, wealth alongside poverty.\n8. Students create a diagram showing the Church's influence on all areas of medieval life.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["History notebook", "Colored pencils", "Pencil", "Map of medieval Europe", "Timeline"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "The Medieval Church", "subheading": "Power, Education, and Daily Life"},
+        {"type": "materials", "items": ["History notebook", "Colored pencils", "Pencil", "Map of medieval Europe", "Timeline from previous lessons"], "setup_instructions": "Open history notebook. This lesson requires a full two-page spread for the influence diagram."},
+        {"type": "instruction", "step": 1, "text": "In medieval Europe, the Catholic Church was the most powerful institution — more powerful than any king. It was the only organization that spanned all of Western Europe. The Pope could excommunicate kings (banish them from the Church), which meant no one would obey them. Church law (canon law) governed marriage, morality, and education."},
+        {"type": "instruction", "step": 2, "text": "The Church hierarchy: POPE (head of the Church, based in Rome) → CARDINALS (advisors, elected the Pope) → ARCHBISHOPS (led regions) → BISHOPS (led dioceses) → PRIESTS (led parishes/individual churches). Separate path: MONKS and NUNS (lived in monasteries and convents under religious rules — prayer, work, study, poverty)."},
+        {"type": "instruction", "step": 3, "text": "Education was almost entirely controlled by the Church. Cathedral schools taught reading, writing, Latin, theology, and law. The first universities grew from these schools: University of Bologna (1088), University of Paris (1150), University of Oxford (1167). All professors were clergy. All instruction was in Latin. The Church preserved and transmitted knowledge for centuries."},
+        {"type": "instruction", "step": 4, "text": "The Church touched EVERY aspect of daily life: it marked time (church bells rang the hours), marked life stages (baptism at birth, marriage, last rites at death), provided social services (hospitals, orphanages, charity), collected taxes (tithes — 10% of income), built the grandest buildings (cathedrals), and was the primary patron of art and music."},
+        {"type": "activity", "prompt": "Create a 'Web of Influence' diagram. Place 'The Medieval Church' in the center. Draw branches to at least 8 areas of life it influenced: Education, Law, Art, Architecture, Music, Daily Life, Politics, Economics, Social Services, Time/Calendar. For each branch, write 2-3 specific examples of Church influence. Then write a paragraph: Was the Church's enormous power mostly positive or mostly negative for medieval people? Give evidence for both sides.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The medieval Church was both a force for good (education, charity, preservation of knowledge, community) and a source of problems (corruption, excessive wealth, suppression of dissent). Understanding this complexity is essential for understanding the Reformation that would come later and the modern separation of church and state.", "mastery_check": "Can the student describe the Church's role in at least 5 areas of medieval life and evaluate both positive and negative aspects of its influence?"}
+      ]
+    },
+    "parent_notes": "This lesson addresses religion as a historical and social force, not as personal belief. The medieval Church's influence was so pervasive that understanding it is essential for understanding the period. If your family has religious convictions, this is an opportunity to discuss how faith institutions shape communities. The 'both sides' analysis encourages nuanced historical thinking. The universities mentioned (Bologna, Paris, Oxford) still exist today — over 800 years later. The connection to the Reformation (which will come in later studies) is important.",
+    "age_adaptations": null,
+    "sort_order": 13
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "geography",
+    "week_number": 13,
+    "day_of_week": 3,
+    "quarter": 2,
+    "title": "Population Growth — Past, Present, and Future",
+    "description": "Students explore the history of world population growth, the concept of exponential growth, and projections for the future. They analyze the demographic transition model and discuss the challenges and opportunities of a growing world population.",
+    "instructions": "1. Graph world population over history: very slow for millennia, then explosive growth.\n2. Key milestone: 1 billion (1804), 8 billion (2022) — most growth in last 200 years.\n3. Explain exponential growth and why population exploded after the Industrial Revolution.\n4. Introduce the demographic transition: birth/death rates change as countries develop.\n5. Discuss population challenges: resources, food, water, environment.\n6. Discuss population opportunities: innovation, cultural richness, problem-solving capacity.\n7. Explore population pyramids: how age structure differs between countries.\n8. Students create a population growth graph and analysis.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Geography notebook", "Graph paper", "Colored pencils", "Pencil", "Calculator", "Ruler"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "World Population", "subheading": "Growth Past, Present, and Future"},
+        {"type": "materials", "items": ["Geography notebook", "Graph paper", "Colored pencils", "Pencil", "Calculator", "Ruler"], "setup_instructions": "Open notebook. Have graph paper ready for plotting population growth over time. You will create a detailed graph."},
+        {"type": "instruction", "step": 1, "text": "For most of human history, population grew VERY slowly. In 10,000 BCE, about 5 million people existed — fewer than one small city today. By 1 CE, about 300 million. By 1804, 1 billion. Then EVERYTHING changed. It took all of human history to reach 1 billion — but only 123 more years to reach 2 billion (1927), then 33 years to 3 billion (1960), then 14 years to 4 billion (1974). Today: 8 billion."},
+        {"type": "instruction", "step": 2, "text": "Why the explosion? The Industrial Revolution and modern medicine. Better farming techniques meant more food. Vaccines, sanitation, and antibiotics dramatically reduced death rates, especially for children. People kept having large families (high birth rate) while far fewer died (low death rate). Population skyrocketed."},
+        {"type": "instruction", "step": 3, "text": "The Demographic Transition Model: As countries develop, they go through stages: STAGE 1 — High birth rate, high death rate (stable population). STAGE 2 — High birth rate, LOW death rate (population explosion). STAGE 3 — DECLINING birth rate, low death rate (growth slows). STAGE 4 — Low birth rate, low death rate (stable or declining). Most developed countries are in Stage 3-4. Many developing countries are in Stage 2-3."},
+        {"type": "instruction", "step": 4, "text": "Projections: World population may peak around 10.4 billion in the 2080s, then stabilize or decline. Population GROWTH is already slowing — the rate peaked in the 1960s. But even as growth slows, the challenges are enormous: Can we feed 10 billion people? Provide clean water? Manage climate change? These are the defining questions of your generation."},
+        {"type": "activity", "prompt": "Create a world population growth graph: (1) On graph paper, plot population at these dates: 10,000 BCE (5M), 5,000 BCE (15M), 1 CE (300M), 1000 CE (310M), 1500 (500M), 1800 (1B), 1900 (1.6B), 1950 (2.5B), 2000 (6B), 2024 (8B), 2100 projected (10.4B). The shape should be a dramatic 'hockey stick' curve. (2) Label what caused the explosion. (3) Draw population pyramids for a developing country (wide base, narrow top) and a developed country (more even shape). (4) Write: What is the biggest challenge of a growing population?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Understanding population growth is understanding the biggest story of modern history. In just 200 years, we went from 1 billion to 8 billion people. How we manage the challenges of population — food, water, energy, climate, and equity — will determine the future of civilization.", "mastery_check": "Can the student explain the pattern of world population growth, describe the demographic transition model, and discuss challenges of population growth?"}
+      ]
+    },
+    "parent_notes": "Population growth connects to virtually every other subject: math (exponential growth, graphs), history (Industrial Revolution), science (medicine, agriculture), and social studies (resource allocation). The hockey stick graph is visually dramatic and makes the concept concrete. The demographic transition model explains why developed countries have low birth rates and developing countries are still growing. This topic can spark anxiety in children about the future — frame it as a challenge that human ingenuity can address, as it has historically.",
+    "age_adaptations": null,
+    "sort_order": 14
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 13,
+    "day_of_week": 3,
+    "quarter": 2,
+    "title": "Number the Stars — Chapters 8-11: The Escape to Sweden",
+    "description": "Continue reading 'Number the Stars.' The Johansen family helps Ellen and her parents escape to Sweden by boat. Annemarie must show real courage when things go wrong. Students analyze suspense techniques and discuss moral courage.",
+    "instructions": "1. Review chapters 4-7 and the escalating danger.\n2. Read chapters 8-11 aloud.\n3. Discuss the journey to Uncle Henrik's house by the sea.\n4. Analyze the funeral scene — what is really happening?\n5. Discuss Annemarie's growing understanding of what courage requires.\n6. Analyze Lowry's suspense techniques: foreshadowing, pacing, sensory details.\n7. Journal: moments of courage in the text and in your own life.\n8. Predict the resolution.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Number the Stars", "Reading journal", "Pencil", "Map of Denmark showing Gilleleje area", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Number the Stars", "subheading": "Chapters 8-11: The Escape to Sweden"},
+        {"type": "materials", "items": ["Number the Stars", "Reading journal", "Pencil", "Map of Denmark", "Colored pencils"], "setup_instructions": "Find your reading spot. Locate the coast of Denmark on your map — the narrow strait between Denmark and Sweden is where the escape will happen."},
+        {"type": "instruction", "step": 1, "text": "The danger intensifies in today's reading. The Johansens take Ellen to Uncle Henrik's house near the coast. A funeral is arranged — but for whom? As we read, pay attention to the layers of deception: things are not always what they seem. The adults are protecting both the children and the Jewish refugees by keeping secrets."},
+        {"type": "instruction", "step": 2, "text": "Read chapters 8-11. Notice Lowry's suspense techniques: SHORT SENTENCES create tension ('She knew. It was the truth.'). SENSORY DETAILS make scenes vivid (the cold, the dark, the smell of the sea). FORESHADOWING hints at what is coming. PACING slows down at crucial moments, making the reader hold their breath."},
+        {"type": "instruction", "step": 3, "text": "After reading, discuss: Annemarie asks her uncle, 'Is it true?' — about bravery. Uncle Henrik tells her that it is much easier to be brave when you do not know everything, because knowing makes you afraid. But true courage is being afraid and doing the right thing anyway. Do you agree?"},
+        {"type": "instruction", "step": 4, "text": "The geography matters: Denmark and Sweden are separated by a narrow strait of water. Sweden was NEUTRAL in WWII — anyone who reached Sweden was safe. Danish fishermen smuggled Jewish families across in their boats, hiding them among fishing nets and cargo. The short distance (as little as 3 miles) made the escape possible — but also incredibly dangerous."},
+        {"type": "activity", "prompt": "In your journal: (1) Analyze one suspenseful scene: What techniques does Lowry use to create tension? Quote specific sentences. (2) On your map, trace the escape route from Copenhagen to the coast and across to Sweden. Mark key locations from the story. (3) Write about Uncle Henrik's idea about bravery: 'It is easier to be brave if you do not know everything.' Do you agree or disagree? Give reasons. (4) Compare Annemarie's courage with Milo's courage in The Phantom Tollbooth. How are they different?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "These chapters show that courage is not a single dramatic act — it is a series of choices, each one scary, each one requiring you to push past fear. The Danish rescue succeeded because hundreds of ordinary people made that choice, night after night.", "mastery_check": "Can the student analyze literary suspense techniques and discuss the book's exploration of courage with specific textual evidence?"}
+      ]
+    },
+    "parent_notes": "These are the most tense chapters of the book. The funeral scene (which conceals a secret gathering of refugees) and the planned escape are gripping. Uncle Henrik's insight about courage ('it is easier to be brave when you do not know everything') is profound and worth extended family discussion. The geographic detail — the narrow strait between Denmark and Sweden — makes the escape feel tangible. If possible, show your child images of the Danish coast and the fishing boats used in the rescue.",
+    "age_adaptations": null,
+    "sort_order": 15
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 13,
+    "day_of_week": 4,
+    "quarter": 2,
+    "title": "Vocabulary in Context — Using New Words in Writing",
+    "description": "Students consolidate vocabulary from the quarter by using Greek/Latin roots, context clues, and word-building skills in their own writing. They practice incorporating sophisticated vocabulary naturally and create a personal vocabulary showcase piece.",
+    "instructions": "1. Review vocabulary strategies: root analysis, context clues, prefix/suffix building.\n2. Review vocabulary words collected throughout the quarter.\n3. Practice using vocabulary words in natural sentences (not forced).\n4. Discuss: Good vocabulary use means choosing the RIGHT word, not the biggest word.\n5. Write a vocabulary-rich paragraph on a topic of choice.\n6. Peer review: Are the words used correctly and naturally?\n7. Create a 'Words I Own' showcase page.\n8. Set goals for continued vocabulary growth.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Language notebook", "Root word dictionary cards", "Pencil", "Dictionary", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Vocabulary Showcase", "subheading": "Using New Words in Your Writing"},
+        {"type": "materials", "items": ["Language notebook", "Root word dictionary cards", "Pencil", "Dictionary", "Colored pencils"], "setup_instructions": "Gather all your root word cards and vocabulary notes from the quarter. Open notebook for your showcase writing."},
+        {"type": "instruction", "step": 1, "text": "A large vocabulary is only powerful if you USE it. Many people know words but only use simple ones in their writing and speaking. Today you practice what linguists call 'active vocabulary' — words you do not just recognize but actually use. The goal is NOT to sound fancy. The goal is PRECISION — choosing the exact right word for the meaning you want."},
+        {"type": "instruction", "step": 2, "text": "Good vs. forced vocabulary use: FORCED: 'The extremely gargantuan edifice was tremendously magnificent.' (Trying too hard.) NATURAL: 'The cathedral's soaring arches and stained glass windows took my breath away — a masterpiece of medieval architecture.' (Precise, natural, sophisticated.) The second sentence uses advanced vocabulary but it flows."},
+        {"type": "instruction", "step": 3, "text": "Review your root word cards and vocabulary notes. Select 15-20 words you have learned this quarter that you want to make part of your active vocabulary. For each word, write it in a natural sentence that makes the meaning clear from context. If you cannot use a word naturally, you may not fully understand it yet — look it up again."},
+        {"type": "instruction", "step": 4, "text": "Now write a 'Vocabulary Showcase' piece — a paragraph or short essay on any topic, naturally incorporating at least 10 of your selected vocabulary words. Topics: a historical narrative, a scientific explanation, a persuasive argument, a descriptive scene, or a personal reflection. The words should fit so naturally that a reader would not even notice you were trying to use them."},
+        {"type": "activity", "prompt": "Write your Vocabulary Showcase piece (15-20 sentences) incorporating at least 10 advanced vocabulary words naturally. Then create a 'Words I Own' page: list 20 words you have truly mastered this quarter, each with its root analysis, definition, and an original sentence. Finally, set 3 vocabulary goals for next quarter: (1) How many new root words will you learn? (2) What strategies will you use to build vocabulary? (3) What kind of words do you want to focus on (scientific, literary, historical)?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Words are tools. A carpenter with more tools can build more things. A writer with more words can express more ideas, more precisely. Your vocabulary will continue to grow throughout your life — every book you read, every conversation you have, every new subject you study adds to your word power.", "mastery_check": "Can the student use at least 10 advanced vocabulary words naturally and correctly in original writing?"}
+      ]
+    },
+    "parent_notes": "This lesson assesses vocabulary growth from the entire quarter. The 'Words I Own' page is a powerful self-assessment tool. The distinction between passive vocabulary (words you recognize) and active vocabulary (words you use) is important. Encourage your child to use their new words in everyday conversation and writing — not to show off, but because the right word makes communication clearer. Celebrate the growth: compare their vocabulary from the beginning of the quarter to now.",
+    "age_adaptations": null,
+    "sort_order": 16
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 13,
+    "day_of_week": 4,
+    "quarter": 2,
+    "title": "Geometry Review — Angles, Triangles, and Quadrilaterals",
+    "description": "Students review and consolidate geometry concepts from the past two weeks: angle measurement and classification, triangle properties and classification, quadrilateral properties and hierarchy, and perimeter and area calculations.",
+    "instructions": "1. Quick review of key concepts: angle types, triangle properties, quadrilateral hierarchy.\n2. Mixed practice: measure, classify, and calculate.\n3. Apply the 180° rule for triangles and 360° rule for quadrilaterals.\n4. Calculate perimeter and area for various shapes.\n5. Composite shape challenges.\n6. Real-world geometry scavenger hunt.\n7. Error analysis: find and fix mistakes in sample solutions.\n8. Self-assessment: What concepts are solid? What needs more practice?",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Math notebook", "Pencil", "Protractor", "Ruler", "Graph paper", "Calculator"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Geometry Review", "subheading": "Angles, Shapes, and Measurement"},
+        {"type": "materials", "items": ["Math notebook", "Pencil", "Protractor", "Ruler", "Graph paper", "Calculator"], "setup_instructions": "Open notebook. Have all geometry tools ready. This is a comprehensive review — work through each section carefully."},
+        {"type": "instruction", "step": 1, "text": "Key facts to know cold: ANGLES — acute (<90°), right (90°), obtuse (>90°), straight (180°). Complementary angles sum to 90°. Supplementary angles sum to 180°. TRIANGLES — angles sum to 180°. Classified by sides (equilateral, isosceles, scalene) and angles (acute, right, obtuse)."},
+        {"type": "instruction", "step": 2, "text": "QUADRILATERALS — angles sum to 360°. Types: parallelogram (opposite sides parallel), rectangle (4 right angles), rhombus (4 equal sides), square (4 right angles AND 4 equal sides), trapezoid (1 pair parallel sides). Key: every square is a rectangle and a rhombus, but not vice versa."},
+        {"type": "instruction", "step": 3, "text": "FORMULAS: Rectangle — P = 2(l+w), A = lw. Triangle — A = 1/2 × b × h. Parallelogram — A = b × h. Remember: height is always PERPENDICULAR to the base. For composite shapes: decompose into simpler shapes, calculate each area, then add."},
+        {"type": "instruction", "step": 4, "text": "Problem-solving strategy for geometry: (1) DRAW the shape if not given. (2) LABEL all known measurements. (3) IDENTIFY what you need to find. (4) CHOOSE the right formula. (5) SUBSTITUTE and calculate. (6) CHECK — does the answer make sense? Is it in the right units?"},
+        {"type": "activity", "prompt": "Comprehensive review: (1) Draw and measure 3 angles. Classify each and find its complement or supplement. (2) A triangle has angles 55° and 70°. Find the third angle. Classify by angles. (3) True or false: A rhombus can have a right angle. Explain. (4) Find perimeter and area: rectangle 13cm × 7cm. (5) Find area: triangle with base 16m and height 9m. (6) Find area: parallelogram with base 11cm and height 6cm. (7) Composite shape: an L made of two rectangles: 8×4 joined to 5×3. Find total area and perimeter. (8) Design: Draw a shape with EXACTLY 48 square units of area.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Geometry connects math to the physical world. Every building, every field, every piece of art uses angles, shapes, and area. With the skills you have developed, you can measure, calculate, and analyze the geometric world around you.", "mastery_check": "Can the student accurately classify angles, triangles, and quadrilaterals and calculate perimeter and area for various shapes including composites?"}
+      ]
+    },
+    "parent_notes": "This review lesson consolidates two weeks of geometry learning. If your child excels, the material is solid. If they struggle with specific concepts, note those areas for extra practice. The most common challenges: using the protractor correctly, remembering that height must be perpendicular to the base (not just any side), and the quadrilateral hierarchy. Real-world geometry is everywhere — point out angles, shapes, and area calculations in daily life to reinforce that geometry is practical, not just academic.",
+    "age_adaptations": null,
+    "sort_order": 17
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 13,
+    "day_of_week": 4,
+    "quarter": 2,
+    "title": "Animal Adaptations — Survival Strategies",
+    "description": "Students explore how animals have developed specialized adaptations for survival in their environments. They study structural, behavioral, and physiological adaptations across multiple species and analyze how adaptations connect to natural selection.",
+    "instructions": "1. Define adaptation: a trait that helps an organism survive in its environment.\n2. Three types: structural (physical features), behavioral (actions), physiological (internal processes).\n3. Examples: camouflage, mimicry, hibernation, migration, venom, echolocation.\n4. Case studies: arctic fox, cactus, chameleon, bat, polar bear.\n5. Connect to natural selection: animals with better adaptations survive and reproduce.\n6. Discuss: Are adaptations perfect? Do they have trade-offs?\n7. Students create adaptation profiles for 5 animals.\n8. Design an imaginary animal adapted to a specific extreme environment.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Science notebook", "Colored pencils", "Pencil", "Animal reference materials", "Large paper for imaginary animal design"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Animal Adaptations", "subheading": "Survival Strategies in Nature"},
+        {"type": "materials", "items": ["Science notebook", "Colored pencils", "Pencil", "Animal reference books or internet", "Large paper for design project"], "setup_instructions": "Open science notebook. Have colored pencils and reference materials ready. You will also need large paper for designing an imaginary animal."},
+        {"type": "instruction", "step": 1, "text": "An ADAPTATION is any trait — physical, behavioral, or internal — that helps an organism survive and reproduce in its environment. Adaptations develop over millions of years through natural selection: individuals with helpful traits survive longer, reproduce more, and pass those traits to offspring. Over generations, the population changes."},
+        {"type": "instruction", "step": 2, "text": "STRUCTURAL adaptations (body features): Camouflage (arctic hare turns white in winter), mimicry (viceroy butterfly looks like poisonous monarch), webbed feet (ducks for swimming), sharp claws (eagles for catching prey), thick fur (polar bears for insulation), long neck (giraffes for reaching high leaves)."},
+        {"type": "instruction", "step": 3, "text": "BEHAVIORAL adaptations (actions): Migration (birds fly south for winter), hibernation (bears sleep through scarce months), nocturnal activity (owls hunt at night to avoid competition), pack hunting (wolves cooperate), tool use (crows use sticks to get food), playing dead (opossums avoid predators)."},
+        {"type": "instruction", "step": 4, "text": "PHYSIOLOGICAL adaptations (internal processes): Echolocation (bats and dolphins use sound to navigate), venom production (snakes and spiders), antifreeze proteins (arctic fish survive freezing water), water storage (camels store fat, not water, in humps), bioluminescence (deep-sea fish produce their own light)."},
+        {"type": "activity", "prompt": "Two projects: (1) Create Adaptation Profiles for 5 animals from different habitats. For each: draw the animal, list its habitat, identify 3+ adaptations (at least one of each type), and explain how each adaptation helps survival. (2) DESIGN AN ANIMAL: Choose an extreme environment (deep ocean, desert, arctic, volcanic area, or high mountain). Design an animal adapted to survive there. Draw it in detail, label all adaptations, and write an explanation of how each adaptation addresses a specific environmental challenge.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Every living thing on Earth is a collection of adaptations shaped by millions of years of natural selection. When you look at any organism — a cactus, a penguin, a spider — you are looking at millions of years of problem-solving by nature. Understanding adaptations is understanding the logic of life.", "mastery_check": "Can the student identify and categorize different types of adaptations and explain how they connect to environmental survival?"}
+      ]
+    },
+    "parent_notes": "Animal adaptations fascinate children because they combine detective work (why does this animal look/act this way?) with creativity (designing adapted animals). The three categories (structural, behavioral, physiological) provide a systematic framework. The imaginary animal design project is one of the most popular activities in the curriculum — children love creating creatures with justified adaptations. This naturally leads into evolution and natural selection concepts. Nature walks provide opportunities to observe adaptations firsthand in local wildlife.",
+    "age_adaptations": null,
+    "sort_order": 18
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 13,
+    "day_of_week": 4,
+    "quarter": 2,
+    "title": "Recorder Skills — Reading Music and Ensemble Playing",
+    "description": "Students advance their recorder skills by learning to read simple music notation, expanding their note range, and playing more complex melodies. They practice ensemble skills including playing in parts and maintaining steady tempo.",
+    "instructions": "1. Review notes learned: B, A, G, C, D.\n2. Introduce E and F (expanding the range to a full octave).\n3. Reading music: identify notes on the treble clef staff.\n4. Practice reading and playing simple melodies from sheet music.\n5. Work on rhythm: quarter notes, half notes, whole notes.\n6. Tempo practice: playing with a steady beat.\n7. If multiple players, practice a simple two-part piece.\n8. Perform a prepared piece for family members.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Soprano recorder", "Sheet music", "Music notebook", "Pencil", "Metronome or steady beat (optional)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Recorder Skills", "subheading": "Reading Music and Playing Together"},
+        {"type": "materials", "items": ["Soprano recorder", "Sheet music (simple melodies)", "Music notebook", "Pencil", "Metronome or steady beat app"], "setup_instructions": "Set up music stand or prop up sheet music. Have recorder and notebook ready. If available, set a metronome to 70-80 beats per minute for tempo practice."},
+        {"type": "instruction", "step": 1, "text": "Review your notes: B (thumb + 1), A (thumb + 1 + 2), G (thumb + 1 + 2 + 3), C (thumb + all left + right 1), D (thumb + all left + right 1 + 2). Today add: E (thumb + 1 + 2 + 3 + right 1 + 2 + 3) and high F. Practice each new note until the tone is clean and clear."},
+        {"type": "instruction", "step": 2, "text": "Music reading review: The treble clef staff has 5 lines and 4 spaces. Lines from bottom to top: E-G-B-D-F ('Every Good Boy Does Fine'). Spaces from bottom to top: F-A-C-E (spells 'FACE'). Your recorder notes live on this staff. Practice identifying notes on the staff before playing them."},
+        {"type": "instruction", "step": 3, "text": "Rhythm review: A WHOLE NOTE lasts 4 beats. A HALF NOTE lasts 2 beats. A QUARTER NOTE lasts 1 beat. An EIGHTH NOTE lasts 1/2 beat. Practice clapping these rhythms before playing them on the recorder. A steady beat is essential — use a metronome or tap your foot."},
+        {"type": "instruction", "step": 4, "text": "Play a prepared piece from sheet music. Steps: (1) Read through the notes without playing (air fingering). (2) Play through slowly, one phrase at a time. (3) Connect the phrases. (4) Gradually increase speed. (5) Focus on smooth transitions between notes. Common trouble spots: going from B to C (adding right hand fingers) and maintaining breath control."},
+        {"type": "activity", "prompt": "Practice session: (1) Play your scales: ascending and descending from low G to high F. (2) Learn a new melody from sheet music — read the notes, practice slowly, then play at tempo. (3) If a family member can sing or play along, try performing together. (4) In your music notebook, compose an 8-measure melody using the notes you know. Write it on the staff. Include at least 3 different note values (quarter, half, whole). (5) Perform your prepared piece or original composition for someone.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You are now reading music and playing an octave range on the recorder. These skills transfer to any instrument — once you can read music, you can learn to play anything. Keep practicing daily, even just 10-15 minutes. Consistency is the key to musical progress.", "mastery_check": "Can the student play a full octave on the recorder, read simple music notation on the treble clef staff, and maintain a steady tempo?"}
+      ]
+    },
+    "parent_notes": "By this point, your child should be able to produce clean tones on most notes and read basic sheet music. The jump from week 11 to now should show noticeable improvement if they have been practicing regularly. Short daily practice (10-15 minutes) is far more effective than long infrequent sessions. The composition activity (writing their own melody) deepens understanding of music notation. If your child is enjoying the recorder, consider transitioning to a concert instrument next year — the music reading skills transfer directly.",
+    "age_adaptations": null,
+    "sort_order": 19
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "practical_life",
+    "week_number": 13,
+    "day_of_week": 4,
+    "quarter": 2,
+    "title": "Cooking International Dishes — Japanese Onigiri",
+    "description": "Students learn about Japanese cuisine and culture by making onigiri (rice balls), a staple Japanese food. They explore the concepts of simple, wholesome cooking and the cultural significance of sharing food across different societies.",
+    "instructions": "1. Introduce Japanese food culture: simplicity, seasonality, presentation, respect for ingredients.\n2. Discuss rice in Japanese culture: the most important food, served at every meal.\n3. Demonstrate onigiri making: cook rice, season, shape, fill, wrap.\n4. Practice shaping rice into triangles.\n5. Prepare simple fillings: tuna-mayo, pickled plum (if available), or seasoned vegetables.\n6. Wrap in nori (seaweed).\n7. Present the onigiri attractively — presentation matters in Japanese cuisine.\n8. Eat together and discuss the connection between food and culture.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["2 cups short-grain or sushi rice", "Rice cooker or pot", "Rice vinegar and salt", "Nori (seaweed) sheets", "Fillings: canned tuna, mayo, or other", "Plastic wrap", "Bowl of water for shaping"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Japanese Onigiri", "subheading": "The Art of Rice Balls"},
+        {"type": "materials", "items": ["2 cups short-grain or sushi rice", "Rice cooker or pot", "1 tsp salt", "Nori sheets (cut into strips)", "Fillings of choice", "Plastic wrap for shaping", "Small bowl of salted water (for wetting hands)"], "setup_instructions": "Wash and cook the rice 30 minutes before the lesson begins (it needs time to cook and cool slightly). Prepare fillings. Cut nori into strips or squares."},
+        {"type": "instruction", "step": 1, "text": "Japanese cuisine is considered one of the world's great culinary traditions. Its principles: use FRESH, seasonal ingredients, prepare them simply to highlight natural flavors, and present food beautifully. The Japanese saying 'Itadakimasu' (said before eating) means 'I humbly receive' — expressing gratitude for the food. Rice (gohan) is so central that the word also means 'meal.'"},
+        {"type": "instruction", "step": 2, "text": "Onigiri are rice balls — one of Japan's most popular foods, eaten by everyone from school children (in bento boxes) to office workers. They are simple: shaped rice with a filling inside and nori (seaweed) wrapped around. They have been made in Japan for over 1,000 years. Like sandwiches in Western culture, they are portable, practical, and endlessly varied."},
+        {"type": "instruction", "step": 3, "text": "Making onigiri: (1) Let rice cool until comfortable to touch (still warm, not hot). (2) Wet your hands with salted water (prevents sticking and adds flavor). (3) Place a handful of rice in your palm. (4) Make an indentation and add a small amount of filling. (5) Close the rice over the filling. (6) Shape into a triangle by cupping your hands and pressing gently. (7) Wrap a strip of nori around the base."},
+        {"type": "instruction", "step": 4, "text": "Alternatively, use plastic wrap: place rice on a square of plastic wrap, add filling in the center, gather the corners and twist, then shape the ball through the plastic. This keeps your hands clean and makes shaping easier for beginners. The triangle shape is traditional, but round balls work perfectly fine."},
+        {"type": "activity", "prompt": "Make at least 4 onigiri with different fillings. Practice the triangle shape (it takes a few tries to get right). Arrange them on a plate with attention to presentation — Japanese cuisine values visual beauty. While eating, write in your notebook: (1) The recipe with your notes. (2) Compare this food tradition with another culture's portable food (sandwiches, empanadas, samosas, etc.). (3) What can we learn from the Japanese approach to food (simplicity, gratitude, beauty)?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Food is one of the most direct ways to experience another culture. By making onigiri, you have connected with a 1,000-year Japanese tradition. Notice the principles: simple ingredients, careful preparation, beautiful presentation, and gratitude. These principles apply not just to Japanese cooking but to a mindful approach to food in any culture.", "mastery_check": "Did the student successfully prepare onigiri, practice cultural awareness, and reflect on the connection between food and culture?"}
+      ]
+    },
+    "parent_notes": "Onigiri are simple to make and children usually love them. Short-grain (sushi) rice is essential — long-grain rice will not stick together. If you cannot find nori, the rice balls work without it. This lesson beautifully combines practical cooking skills with cultural education. The comparison to portable foods from other cultures (sandwiches, burritos, samosas) shows that every culture has solved the same problem differently. Consider making a bento box lunch together as a follow-up activity.",
+    "age_adaptations": null,
+    "sort_order": 20
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 13,
+    "day_of_week": 5,
+    "quarter": 2,
+    "title": "Quarter 2 Mid-Quarter Review — Language Skills Assessment",
+    "description": "Students demonstrate their language arts growth through a comprehensive review covering grammar (sentence types, conjunctions, prepositions), vocabulary (roots, prefixes, suffixes), and writing (persuasive, formal letter, book review).",
+    "instructions": "1. Grammar review: identify sentence types, clause types, and conjunction categories.\n2. Vocabulary review: decode words using roots, prefixes, and suffixes.\n3. Context clues review: determine meanings from context.\n4. Writing review: identify persuasive techniques in a sample text.\n5. Self-assessment: rate confidence in each skill area.\n6. Celebrate growth: compare current abilities to beginning of quarter.\n7. Set goals for the second half of Q2.\n8. Complete a fun, comprehensive language arts challenge.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Language notebook", "Pencil", "Root word cards", "Grammar reference cards", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q2 Mid-Quarter Review", "subheading": "Celebrating Language Arts Growth"},
+        {"type": "materials", "items": ["Language notebook", "Pencil", "All root word and grammar cards", "Previous writing samples", "Colored pencils"], "setup_instructions": "Gather ALL language arts materials from weeks 10-13. Open notebook to a fresh page for the review."},
+        {"type": "instruction", "step": 1, "text": "This review celebrates everything you have learned in language arts over the past 4 weeks. You have studied: compound and complex sentences, subordinating and coordinating conjunctions, prepositions, Greek and Latin roots, prefixes and suffixes, spelling patterns, persuasive writing, book reviews, formal letters, context clues, and vocabulary building. That is an impressive list!"},
+        {"type": "instruction", "step": 2, "text": "Grammar check: Identify each sentence type: (a) 'Although the castle was strong, the army breached the walls.' (b) 'The knights fought bravely, and the archers provided cover.' (c) 'The lord surveyed the damage.' (d) 'Because the moat had drained, the invaders crossed easily, and the defenders retreated.'"},
+        {"type": "instruction", "step": 3, "text": "Vocabulary check: Use roots, prefixes, and suffixes to decode: (a) autobiography (b) incomprehensible (c) telecommunication (d) deconstruction (e) supernatural. Break each word into parts and explain the meaning that emerges from the parts."},
+        {"type": "instruction", "step": 4, "text": "Self-assessment: Rate yourself 1-5 on each skill: identifying sentence types, using conjunctions correctly, identifying prepositions, analyzing word roots, using context clues, writing persuasive arguments, writing formal letters, revising your own writing. For any skill rated 3 or below, note what specifically you find challenging."},
+        {"type": "activity", "prompt": "Language Arts Challenge: Write a persuasive paragraph (8-10 sentences) about why studying medieval history is valuable. Requirements: (1) Include at least 2 complex sentences and 1 compound sentence. (2) Use at least 3 prepositional phrases. (3) Include at least 5 vocabulary words with Greek or Latin roots. (4) Use at least 2 persuasive techniques. (5) Include a counterargument and rebuttal. (6) Underline and label each required element. This one paragraph demonstrates ALL your language skills!", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Look at how much you have grown in just 4 weeks. You can construct sophisticated sentences, decode words using roots, write persuasively, and communicate formally. These skills will serve you in every area of your education and life.", "mastery_check": "Can the student demonstrate proficiency in grammar, vocabulary analysis, and persuasive writing through the comprehensive challenge?"}
+      ]
+    },
+    "parent_notes": "This mid-quarter review serves as both assessment and celebration. The comprehensive challenge paragraph is an excellent portfolio piece that demonstrates multiple skills simultaneously. Review it together, looking for the required elements. If your child struggles with specific skills, note them for additional practice in the coming weeks. The self-assessment encourages metacognition — thinking about your own learning. Celebrate the growth: look back at writing from the beginning of the quarter and compare it to current work. The improvement should be visible and encouraging.",
+    "age_adaptations": null,
+    "sort_order": 21
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 13,
+    "day_of_week": 5,
+    "quarter": 2,
+    "title": "Q2 Mid-Quarter Math Review and Problem Solving",
+    "description": "Students review and consolidate all Q2 math topics: fraction operations (add, subtract, like and unlike denominators, mixed numbers), decimals, percentages, and geometry. They solve multi-step problems and identify areas for continued practice.",
+    "instructions": "1. Quick skills check: fraction operations.\n2. Quick skills check: decimal operations.\n3. Quick skills check: percentage calculations.\n4. Quick skills check: geometry (angles, triangles, quadrilaterals, area).\n5. Multi-step problems combining multiple skills.\n6. Self-assessment: identify strengths and areas for growth.\n7. Error analysis: common mistakes and how to avoid them.\n8. Set goals for the second half of Q2.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Math notebook", "Pencil", "Calculator for checking", "Protractor", "Ruler", "Fraction-decimal-percent chart"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Q2 Mid-Quarter Review", "subheading": "Math Skills Check"},
+        {"type": "materials", "items": ["Math notebook", "Pencil", "Calculator for self-checking", "Protractor and ruler", "Your fraction-decimal-percent reference chart"], "setup_instructions": "Open notebook. Have all math tools ready. Work through each section honestly — the goal is to identify what you know well and what needs more practice."},
+        {"type": "instruction", "step": 1, "text": "This review covers 4 weeks of math. Work through each section at your own pace. If a problem is easy, move on. If it is hard, work through it carefully — that is where the learning happens. Check your work with a calculator AFTER attempting each problem on your own."},
+        {"type": "instruction", "step": 2, "text": "Fraction skills check: (a) 3/8 + 5/8, (b) 7/10 - 2/5, (c) 2 1/3 + 1 3/4, (d) 5 1/4 - 2 5/6, (e) Find 3 equivalent fractions for 2/3. If any of these are difficult, review your notes from weeks 10-11."},
+        {"type": "instruction", "step": 3, "text": "Decimal and percent skills check: (a) 4.35 + 2.8, (b) 10.0 - 3.67, (c) Convert 3/8 to a decimal, (d) Convert 0.45 to a percent, (e) What is 25% of 180?, (f) 36 is what percent of 120? If any are difficult, review weeks 11-12 notes."},
+        {"type": "instruction", "step": 4, "text": "Geometry skills check: (a) A triangle has angles 40° and 75°. Find the third angle. (b) Classify a quadrilateral with 4 right angles and 2 pairs of different-length sides. (c) Find the area of a triangle with base 12cm and height 7cm. (d) Find the perimeter and area of a rectangle 15m × 9m. (e) Find the area of an L-shaped room: 10ft×8ft joined to 4ft×6ft."},
+        {"type": "activity", "prompt": "Multi-step challenge problems: (1) A recipe calls for 2 3/4 cups flour. You want to make 1.5 batches. How much flour? (Answer in both fraction and decimal form.) (2) A store has a 20% off sale, and you have a coupon for an additional 10% off the sale price. A $60 item costs how much after both discounts? Is this the same as 30% off? (3) A triangular garden has base 8m and height 6m. Fencing costs $5.50 per meter. If the other two sides are each 7m, how much does fencing cost? How much area is enclosed? (4) Self-assessment: Rate yourself 1-5 on each topic area.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You have covered an enormous amount of math this quarter: fraction operations, decimals, percentages, and geometry. These are fundamental skills that you will use throughout your mathematical journey and in daily life. Note your areas for continued practice — there is no shame in needing more work on a topic.", "mastery_check": "Can the student solve problems accurately across all Q2 math topics and self-assess their understanding?"}
+      ]
+    },
+    "parent_notes": "This mid-quarter review identifies strengths and areas for additional practice. The self-assessment component is valuable — children who can accurately identify what they know and do not know are better learners. If specific areas need reinforcement, plan brief daily practice sessions (10-15 minutes) focused on those topics. The multi-step problems are particularly important because they require combining skills — this is how math works in real life. Note which problems your child found easy versus challenging.",
+    "age_adaptations": null,
+    "sort_order": 22
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 13,
+    "day_of_week": 5,
+    "quarter": 2,
+    "title": "The Black Death — Plague and Its Consequences",
+    "description": "Students learn about the Black Death (1347-1351), one of the most devastating pandemics in history. They explore how the plague spread, its impact on medieval society, and how it ultimately contributed to the end of feudalism and the beginning of a new era.",
+    "instructions": "1. Set the context: Europe in the mid-1300s — crowded towns, limited sanitation.\n2. What was the Black Death? Bubonic plague, carried by fleas on rats.\n3. How it spread: trade routes from Asia, ships, crowded cities.\n4. Statistics: 25-50 million Europeans died (30-60% of the population).\n5. Social consequences: labor shortage, higher wages for survivors, feudalism weakened.\n6. Psychological impact: art, religion, and philosophy changed.\n7. Long-term effects: contributed to the end of feudalism and the rise of individual rights.\n8. Compare to modern pandemics (COVID-19) — what has changed?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["History notebook", "Colored pencils", "Pencil", "Map of Europe", "Timeline"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "The Black Death", "subheading": "Plague and Its Consequences"},
+        {"type": "materials", "items": ["History notebook", "Colored pencils", "Pencil", "Map of Europe for tracking spread", "Timeline"], "setup_instructions": "Open history notebook. Have a map of Europe ready for tracking the plague's spread. This is serious historical content."},
+        {"type": "instruction", "step": 1, "text": "In 1347, ships arrived in Sicily from the Black Sea carrying more than cargo — they carried rats infested with fleas that carried the bacterium Yersinia pestis. Within 4 years, the Black Death had killed 25-50 million people — up to 60% of Europe's population. It was the worst disaster in recorded human history."},
+        {"type": "instruction", "step": 2, "text": "The plague spread along trade routes — the same routes that carried silk, spices, and ideas. On your map, trace its path: from Central Asia along the Silk Road to the Black Sea, then by ship to Italy in October 1347, then northward through France, Spain, Germany, and England by 1349, reaching Scandinavia by 1350. An entire continent devastated in 3 years."},
+        {"type": "instruction", "step": 3, "text": "Medieval people did not understand germs. They blamed: bad air (miasma), God's punishment, earthquakes releasing poisonous gas, or minority groups (leading to tragic persecution). Without understanding the cause, they could not stop it. Doctors wore beak-shaped masks filled with herbs (ineffective but iconic). The true cause — a bacterium spread by flea bites — was not understood for 500 years."},
+        {"type": "instruction", "step": 4, "text": "Paradoxically, the plague's devastation led to positive changes: With fewer workers, PEASANTS could demand higher wages. SERFDOM weakened — people moved freely to find better conditions. The FEUDAL SYSTEM cracked — lords could not enforce obligations on a scarce labor force. The plague planted seeds of economic freedom that would grow into the modern world."},
+        {"type": "activity", "prompt": "Create a Black Death chronicle in your notebook: (1) Map the plague's spread across Europe with dates. (2) Create a cause-and-effect chart: Immediate Effects (death, fear, economic disruption) and Long-Term Effects (end of feudalism, higher wages, social change). (3) Compare the Black Death with the COVID-19 pandemic: What is similar? What is different? Consider: how it spread, scientific understanding, social response, government actions, long-term effects. (4) Write a paragraph: How did the worst disaster in history lead to positive social changes?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The Black Death reminds us that pandemics have shaped history as much as wars and revolutions. From terrible suffering came unexpected change: the weakening of feudalism, the empowerment of workers, and eventually, the conditions that made the Renaissance possible. History is full of such paradoxes.", "mastery_check": "Can the student describe the Black Death's causes, spread, and consequences, and analyze how it contributed to the end of feudalism?"}
+      ]
+    },
+    "parent_notes": "The Black Death is inherently dramatic and children are often fascinated by it. Present the material factually but sensitively — the death toll is staggering and should not be sensationalized. The comparison to COVID-19 is powerful and relevant: your child has personal experience with a pandemic and can draw real parallels. The paradox that the worst disaster led to positive social changes is an important historical concept. The persecution of minorities during the plague is worth discussing as a warning about scapegoating during crises.",
+    "age_adaptations": null,
+    "sort_order": 23
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 13,
+    "day_of_week": 5,
+    "quarter": 2,
+    "title": "Ecosystems Introduction — Habitats and Niches",
+    "description": "Students are introduced to ecosystem concepts as they learn about habitats, niches, and the relationships between organisms and their environment. They explore how living and nonliving factors interact to create functioning ecosystems.",
+    "instructions": "1. Define ecosystem: a community of living things interacting with their nonliving environment.\n2. Define biotic (living) and abiotic (nonliving) factors.\n3. Define habitat (where an organism lives) and niche (its role in the ecosystem).\n4. Explore examples: forest, desert, ocean, pond, backyard.\n5. Discuss how organisms are connected through food, space, and resources.\n6. Introduce the concept of biodiversity.\n7. Students observe and catalog a local mini-ecosystem.\n8. Begin creating an ecosystem journal.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Science notebook", "Colored pencils", "Pencil", "Magnifying glass (optional)", "Camera or drawing materials for field observation"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Ecosystems", "subheading": "Habitats, Niches, and Connections"},
+        {"type": "materials", "items": ["Science notebook", "Colored pencils", "Pencil", "Magnifying glass (optional)", "Camera or sketchpad for outdoor observation"], "setup_instructions": "Open science notebook. You will go outside for observation during the activity, so dress appropriately. Have magnifying glass if available."},
+        {"type": "instruction", "step": 1, "text": "An ECOSYSTEM is a community of living organisms (biotic factors) interacting with each other AND with their nonliving environment (abiotic factors). Examples: a pond, a forest, a coral reef, even a fallen log. Everything is connected: remove one piece and the whole system can be affected."},
+        {"type": "instruction", "step": 2, "text": "BIOTIC factors are living things: plants, animals, fungi, bacteria. ABIOTIC factors are nonliving: sunlight, temperature, water, soil, air, minerals. Both are essential. A desert ecosystem has specific abiotic conditions (hot, dry, sandy) that determine which biotic organisms can survive there."},
+        {"type": "instruction", "step": 3, "text": "HABITAT is where an organism lives — its address (a pond, a tree canopy, a cave). NICHE is what it does there — its job (a bee's niche includes pollinating flowers, a decomposer's niche includes breaking down dead material). Two species can share a habitat but cannot occupy the same niche (competitive exclusion principle)."},
+        {"type": "instruction", "step": 4, "text": "BIODIVERSITY is the variety of life in an ecosystem. High biodiversity (like a tropical rainforest) means many different species, making the ecosystem resilient. Low biodiversity (like a monoculture farm) means the system is vulnerable. Think of it as a web: more connections make it stronger."},
+        {"type": "activity", "prompt": "Go outside and observe a mini-ecosystem (a garden, a patch of yard, a section of park, or even a potted plant). Spend 15 minutes observing. Record: (1) All biotic factors you can find (plants, animals, insects, fungi). (2) All abiotic factors (temperature, moisture, light, soil type). (3) Any interactions you observe (an insect on a flower, a bird eating seeds, a spider in a web). (4) Back inside, draw the ecosystem and label all components. (5) Choose one organism and describe its habitat and niche.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You are part of an ecosystem too. Every time you breathe, eat, or produce waste, you interact with your environment. Understanding ecosystems helps us understand our responsibility to maintain the health of the natural world that sustains us.", "mastery_check": "Can the student define ecosystem, identify biotic and abiotic factors, and distinguish between habitat and niche?"}
+      ]
+    },
+    "parent_notes": "Ecosystems are best understood through direct observation. Even a small patch of ground reveals complex interactions if you look carefully. Encourage patient observation — sit quietly and watch. The outdoor component of this lesson is important. If outdoor observation is not possible, set up a small terrarium or observe a houseplant and its associated organisms (soil microorganisms, any insects). This lesson introduces concepts that will be expanded in the food chains and food webs lessons coming in weeks 14-15.",
+    "age_adaptations": null,
+    "sort_order": 24
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 13,
+    "day_of_week": 5,
+    "quarter": 2,
+    "title": "Gothic Architecture — Drawing Cathedrals",
+    "description": "Students study Gothic cathedral architecture, learning about the engineering innovations that allowed medieval builders to create soaring, light-filled spaces. They learn to draw Gothic arches, rose windows, and flying buttresses, and create their own cathedral drawing.",
+    "instructions": "1. Introduce Gothic architecture (1100s-1500s) as medieval Europe's greatest art form.\n2. Key innovations: pointed arch, ribbed vault, flying buttress.\n3. How these innovations allowed taller, thinner walls and larger windows.\n4. Study famous examples: Notre-Dame de Paris, Chartres, Cologne Cathedral.\n5. Learn to draw pointed arches and rose windows using compass and ruler.\n6. Discuss the symbolism: reaching toward heaven, light as divine.\n7. Students create a detailed Gothic cathedral drawing.\n8. Label architectural features.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Drawing paper", "Pencil", "Ruler", "Compass", "Colored pencils", "Eraser", "Reference images of Gothic cathedrals"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Gothic Architecture", "subheading": "Drawing Soaring Cathedrals"},
+        {"type": "materials", "items": ["Drawing paper", "Pencil", "Ruler", "Compass", "Colored pencils", "Eraser", "Reference images of Gothic cathedrals"], "setup_instructions": "Set out all drawing tools. Look up images of Notre-Dame de Paris, Chartres Cathedral, or Cologne Cathedral for reference and inspiration."},
+        {"type": "instruction", "step": 1, "text": "Gothic cathedrals are among humanity's greatest achievements — soaring stone structures built with hand tools over decades or centuries. The Gothic style emerged around 1140 CE in France and spread across Europe. These buildings are engineering marvels that solved a specific problem: how to build taller, lighter structures with more windows."},
+        {"type": "instruction", "step": 2, "text": "Three key innovations: (1) POINTED ARCH — stronger than a round arch, directs weight more efficiently downward. (2) RIBBED VAULT — a skeleton of stone ribs supporting the ceiling, allowing thinner walls. (3) FLYING BUTTRESS — external support arms that transfer the roof's weight away from the walls, allowing walls to be thinner and have huge windows."},
+        {"type": "instruction", "step": 3, "text": "Drawing a pointed arch: (1) Draw a horizontal line (the base). (2) Mark two points on the line. (3) Place your compass on the LEFT point, open to the RIGHT point, and draw an arc upward. (4) Place compass on the RIGHT point, same width, draw an arc upward. (5) Where the arcs meet is the point of the arch. (6) Practice several pointed arches in a row."},
+        {"type": "instruction", "step": 4, "text": "Drawing a rose window: (1) Draw a large circle with your compass. (2) Draw a smaller circle inside. (3) Divide into sections (like a pie) — 8 or 12 sections work well. (4) Add decorative patterns in each section: smaller circles, trefoils (three-lobed shapes), or petal shapes. (5) The symmetry should be radial — the same pattern repeated around the center."},
+        {"type": "activity", "prompt": "Draw a Gothic cathedral facade (front view). Include: (1) A large central pointed-arch doorway. (2) A rose window above the doorway. (3) Two towers flanking the facade. (4) Smaller pointed-arch windows. (5) Flying buttresses on the sides. (6) Decorative details: pinnacles, tracery, sculptures. Label at least 6 architectural features. Add color if time allows — remember the stained glass!", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Gothic cathedrals took generations to build — Cologne Cathedral took over 600 years to complete. The people who began building many of these cathedrals knew they would never see them finished. They built for the future, for beauty, and for something greater than themselves. That is an inspiring kind of ambition.", "mastery_check": "Did the student draw a Gothic cathedral facade with correctly rendered architectural features including pointed arches, a rose window, and flying buttresses?"}
+      ]
+    },
+    "parent_notes": "Gothic architecture combines art, engineering, and history beautifully. The drawing techniques (compass for arches and rose windows, ruler for straight lines) teach precision and geometric thinking. The compass skills connect to math geometry lessons. If possible, take a virtual tour of a Gothic cathedral — many offer 360-degree online experiences. The fact that these buildings took generations to complete is a powerful lesson about long-term thinking, dedication, and working toward something bigger than yourself.",
+    "age_adaptations": null,
+    "sort_order": 25
+  }
+]

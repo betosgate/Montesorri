@@ -1,0 +1,702 @@
+[
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 23,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Crafting a Compelling Expository Introduction",
+    "description": "Students learn techniques for writing engaging introductions to expository essays, including hooks, background context, and thesis statements. They analyze published examples and draft their own introductions on topics related to civil rights history.",
+    "instructions": "1. Read three different expository essay introductions aloud and discuss what makes each effective.\n2. Identify the three components of a strong introduction: hook, background, and thesis.\n3. Examine different types of hooks: surprising statistic, rhetorical question, vivid anecdote, and bold statement.\n4. Practice writing hooks using each technique for the same topic.\n5. Discuss how background context bridges the hook to the thesis.\n6. Model writing a complete introduction paragraph step by step.\n7. Students select a topic from their civil rights studies and draft an introduction.\n8. Peer review introductions using a checklist.\n9. Revise based on feedback, focusing on clarity and engagement.\n10. Share final introductions aloud and discuss which hooks were most effective.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Printed sample introductions (3 examples)", "Hook technique reference card", "Lined paper", "Pencils", "Peer review checklist", "Highlighters"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Crafting a Compelling Expository Introduction", "subheading": "Hooks, Context, and Thesis Statements"},
+        {"type": "materials", "items": ["Printed sample introductions (3 examples)", "Hook technique reference card", "Lined paper", "Pencils", "Peer review checklist", "Highlighters"], "setup_instructions": "Print sample introductions from published essays at appropriate reading level. Prepare reference cards listing four hook types with examples."},
+        {"type": "instruction", "step": 1, "text": "Read the three sample introductions aloud. After each, ask: 'Did this make you want to keep reading? Why or why not?' Circle the hook in each introduction."},
+        {"type": "instruction", "step": 2, "text": "Label the three parts of each introduction: hook (grabs attention), background context (provides necessary information), and thesis statement (tells the reader what the essay will explain)."},
+        {"type": "instruction", "step": 3, "text": "Practice the four hook types. For the topic 'school lunch nutrition,' write: a surprising statistic, a rhetorical question, a vivid anecdote, and a bold statement. Compare which is most engaging."},
+        {"type": "instruction", "step": 4, "text": "Model building a complete introduction: start with the strongest hook, add 2-3 sentences of background, and end with a clear thesis. Show how transitions connect each part smoothly."},
+        {"type": "activity", "prompt": "Choose a topic connected to civil rights history (segregation in schools, voting rights, protest movements, or a leader you admire). Write a full introduction paragraph using one of the four hook techniques. Include background context and a clear thesis statement. Then swap with a partner and complete the peer review checklist.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "A strong introduction is like a doorway — it invites the reader in and shows them what to expect. Save your introduction; we will build the full essay body paragraphs later this week.", "mastery_check": "Can the student write an introduction with a clear hook, relevant background context, and a focused thesis statement?"}
+      ]
+    },
+    "parent_notes": "Expository introductions are a critical skill that transfers to all academic writing. The hook technique is especially engaging for upper elementary students who enjoy creative expression. Encourage your child to experiment with different hook styles for the same topic to discover their writing voice. If they struggle with the thesis statement, help them answer: 'What is the ONE main thing I want the reader to learn?'",
+    "age_adaptations": null,
+    "sort_order": 1
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 23,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Percentage Applications — Discounts and Sales Tax",
+    "description": "Students apply their understanding of percentages to real-world scenarios involving discounts and sales tax. They calculate sale prices, tax amounts, and total costs using mental math strategies and written computation.",
+    "instructions": "1. Review converting between fractions, decimals, and percentages with quick practice problems.\n2. Introduce the concept of a discount as a percentage off the original price.\n3. Model calculating a 25% discount on a $40 item using two methods: finding the discount amount and subtracting, or multiplying by 0.75.\n4. Practice with increasingly complex discount problems.\n5. Introduce sales tax as an added percentage.\n6. Model calculating 8% sales tax on a $25 purchase.\n7. Combine discount and tax in a single problem.\n8. Students create mock shopping scenarios with flyers or catalogs.\n9. Calculate total costs for a shopping trip with a budget constraint.\n10. Discuss where percentages appear in everyday financial decisions.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Store flyers or catalogs", "Calculators", "Graph paper", "Pencils", "Play money (optional)", "Percentage reference chart", "Shopping budget worksheet"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Percentage Applications", "subheading": "Discounts and Sales Tax in Real Life"},
+        {"type": "materials", "items": ["Store flyers or catalogs", "Calculators", "Graph paper", "Pencils", "Play money (optional)", "Percentage reference chart"], "setup_instructions": "Collect store flyers or print images of items with prices. Prepare a shopping budget worksheet with spaces for original price, discount, subtotal, tax, and total."},
+        {"type": "instruction", "step": 1, "text": "Quick review: Convert 25% to a decimal (0.25) and fraction (1/4). Convert 0.08 to a percentage (8%). This fluency is essential for discount and tax calculations."},
+        {"type": "instruction", "step": 2, "text": "A store has a 25% off sale on a $40 jacket. Method 1: Find 25% of $40 = $10, then $40 - $10 = $30. Method 2: Multiply $40 x 0.75 = $30. Both give the same answer."},
+        {"type": "instruction", "step": 3, "text": "Now add 8% sales tax to the $30 sale price. Find 8% of $30 = $2.40. Total cost = $30 + $2.40 = $32.40. Discuss: Why is tax calculated on the sale price, not the original?"},
+        {"type": "instruction", "step": 4, "text": "Mental math shortcut: For 10% of any number, move the decimal one place left. For 5%, find 10% and halve it. For 1%, move the decimal two places left. Use these benchmarks to estimate."},
+        {"type": "activity", "prompt": "You have a $100 budget to shop from the flyers. Find at least 4 items you want to buy. Calculate: (a) the discount for each item, (b) the sale price, (c) 7% sales tax on each item, (d) the total cost. Can you stay within your $100 budget? Show all calculations on your worksheet.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Understanding percentages helps you make smart financial decisions every day. Tomorrow we will explore how percentages are used in data and statistics, including interpreting graphs and charts.", "mastery_check": "Can the student calculate discounts and sales tax accurately and determine total costs within a budget?"}
+      ]
+    },
+    "parent_notes": "This lesson brings math to life through practical financial literacy. Students at this age are becoming more aware of money and shopping, making this highly relevant. Reinforce these skills during actual shopping trips by asking your child to estimate discounts and totals. The mental math strategies (10% as a benchmark) are particularly useful. If your child finds the combined discount-plus-tax problems challenging, have them work each step separately before combining.",
+    "age_adaptations": null,
+    "sort_order": 2
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 23,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "The Montgomery Bus Boycott — Organized Resistance",
+    "description": "Students study the Montgomery Bus Boycott as a case study in organized nonviolent resistance. They analyze the roles of Rosa Parks, Dr. Martin Luther King Jr., and the Women's Political Council in planning and sustaining the 381-day boycott.",
+    "instructions": "1. Set the historical context: Montgomery, Alabama in 1955 — segregation on public buses.\n2. Read a simplified account of Rosa Parks' arrest on December 1, 1955.\n3. Discuss the role of the Women's Political Council and Jo Ann Robinson in organizing the boycott.\n4. Examine how Dr. Martin Luther King Jr. emerged as a leader and spokesperson.\n5. Discuss the logistics of sustaining a boycott for 381 days (carpools, walking, community support).\n6. Analyze the economic impact on the bus company.\n7. Study the Supreme Court ruling in Browder v. Gayle that ended bus segregation.\n8. Create a cause-and-effect chart showing how individual actions led to systemic change.\n9. Compare peaceful protest strategies to other forms of resistance.\n10. Journal: What qualities made this boycott successful?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Montgomery Bus Boycott reading packet", "Cause-and-effect graphic organizer", "Timeline from previous lesson", "Colored markers", "Journal", "Pencils", "Map of Montgomery, Alabama"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "The Montgomery Bus Boycott", "subheading": "381 Days of Organized Resistance"},
+        {"type": "materials", "items": ["Montgomery Bus Boycott reading packet", "Cause-and-effect graphic organizer", "Timeline from previous lesson", "Colored markers", "Journal", "Pencils"], "setup_instructions": "Prepare a reading packet with age-appropriate excerpts about the boycott. Include photographs of Rosa Parks, MLK, and the boycott. Have the civil rights timeline from prior weeks ready."},
+        {"type": "instruction", "step": 1, "text": "In 1955 Montgomery, Black passengers had to sit in the back of the bus and give up seats to white passengers. Rosa Parks refused on December 1, 1955 — but this was not a spontaneous act. The community had been planning resistance."},
+        {"type": "instruction", "step": 2, "text": "Jo Ann Robinson and the Women's Political Council printed 35,000 flyers overnight calling for a boycott. This shows that movements require organization, not just a single brave act. Discuss: Why do we often hear about Parks but not Robinson?"},
+        {"type": "instruction", "step": 3, "text": "Dr. King, a young pastor, was chosen to lead the Montgomery Improvement Association. Read an excerpt from his first speech: 'There comes a time when people get tired of being trampled.' Discuss what made his leadership effective."},
+        {"type": "instruction", "step": 4, "text": "The boycott lasted 381 days. 40,000 Black commuters found other transportation. The bus company lost 65% of its revenue. The Supreme Court ruled segregated buses unconstitutional in November 1956."},
+        {"type": "activity", "prompt": "Create a detailed cause-and-effect chart: What caused the boycott? What happened during it? What were the effects? Include at least 3 causes, 4 events during the boycott, and 3 effects. Then add key dates to your civil rights timeline. Finally, write a journal entry: What made this boycott successful where other protests had failed?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The Montgomery Bus Boycott shows that systemic change requires organization, sacrifice, and persistence — not just a single moment of courage. Next lesson, we will examine how the movement grew to challenge segregation in schools and public spaces.", "mastery_check": "Can the student explain the causes, key events, and outcomes of the Montgomery Bus Boycott and identify the roles of multiple leaders?"}
+      ]
+    },
+    "parent_notes": "This lesson highlights that civil rights victories required collective action, not just individual heroism. The story of Jo Ann Robinson and the Women's Political Council helps children understand that many people contributed to change, including those history has overlooked. Discuss with your child how communities today organize around causes they care about. The economic analysis of the boycott connects to math concepts about percentages and financial impact.",
+    "age_adaptations": null,
+    "sort_order": 3
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "geography",
+    "week_number": 23,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Environmental Geography — Understanding Biomes",
+    "description": "Students explore Earth's major biomes through the lens of environmental geography, examining how climate, vegetation, and human activity interact to shape landscapes. They map biome locations and analyze the relationship between latitude, altitude, and biome type.",
+    "instructions": "1. Review the concept of biomes as large-scale ecosystems defined by climate, plants, and animals.\n2. Identify Earth's six major terrestrial biomes on a world map.\n3. Discuss how latitude and altitude influence biome distribution.\n4. Examine climate graphs (temperature and precipitation) for each biome.\n5. Compare photographs of the same biome in different locations.\n6. Discuss how human activity has altered biome boundaries.\n7. Introduce the concept of ecotones (transition zones between biomes).\n8. Students color-code a blank world map with biome regions.\n9. Create a biome comparison chart with climate data.\n10. Discuss which biomes are most threatened by human activity.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Blank world map (large format)", "Colored pencils (8+ colors)", "Climate graph handouts", "Biome photograph cards", "Atlas or globe", "Biome reference chart"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Environmental Geography", "subheading": "Understanding Earth's Major Biomes"},
+        {"type": "materials", "items": ["Blank world map (large format)", "Colored pencils (8+ colors)", "Climate graph handouts", "Biome photograph cards", "Atlas or globe"], "setup_instructions": "Print a large blank world map with latitude lines marked. Prepare climate graphs showing average temperature and precipitation for each biome. Gather or print photographs of each biome."},
+        {"type": "instruction", "step": 1, "text": "A biome is a large region characterized by its climate, vegetation, and wildlife. The six major terrestrial biomes are: tropical rainforest, desert, grassland, temperate forest, taiga (boreal forest), and tundra."},
+        {"type": "instruction", "step": 2, "text": "Notice the pattern on the map: tropical rainforests cluster near the equator, deserts at 30 degrees latitude, and tundra near the poles. Latitude determines how much solar energy an area receives, which drives climate and biome type."},
+        {"type": "instruction", "step": 3, "text": "Altitude works like latitude — climbing 1,000 meters is similar to traveling 1,000 kilometers toward the poles. That is why mountaintops can have tundra-like conditions even near the equator. This is called altitudinal zonation."},
+        {"type": "instruction", "step": 4, "text": "Examine the climate graphs. Tropical rainforests show high, consistent temperature and rainfall. Deserts show extreme temperature swings and minimal precipitation. What patterns do you notice in the other biomes?"},
+        {"type": "activity", "prompt": "Color-code your world map to show all six biomes. Use the atlas to ensure accuracy. Then create a comparison chart listing each biome's average temperature range, annual precipitation, dominant vegetation, and one example of human impact. Finally, mark two ecotones (transition zones) on your map.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Biome distribution follows predictable patterns based on climate, but human activity is changing these patterns. Next time, we will zoom in on specific ecosystems within biomes and examine how they function as interconnected systems.", "mastery_check": "Can the student identify and locate Earth's major biomes, explain the relationship between latitude, altitude, and biome type, and describe how human activity affects biome boundaries?"}
+      ]
+    },
+    "parent_notes": "Environmental geography connects physical science concepts (climate, weather) with geographic thinking (maps, spatial patterns). The concept that altitude mimics latitude is a powerful insight that helps children understand mountain ecosystems. If you have access to a globe, use it to show how latitude lines correspond to biome zones. Discuss biomes you have personally visited or lived in to make the content more meaningful.",
+    "age_adaptations": null,
+    "sort_order": 4
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 23,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Where the Red Fern Grows — Chapters 1-3",
+    "description": "Students begin reading Wilson Rawls' classic novel about a boy's deep bond with his two coonhounds in the Ozark Mountains. These opening chapters introduce Billy's longing for hunting dogs and the rural Oklahoma setting, establishing themes of determination and love of nature.",
+    "instructions": "1. Introduce the author Wilson Rawls and the autobiographical elements of the novel.\n2. Discuss the Ozark Mountain setting and what life was like in rural Oklahoma in the 1920s-1930s.\n3. Read Chapters 1-3 aloud, pausing at key moments for discussion.\n4. Discuss Billy's character: What do we learn about him from his actions and thoughts?\n5. Examine how the author uses sensory details to bring the setting to life.\n6. Discuss the theme of determination: Billy works for two years to earn money for his dogs.\n7. Make predictions about what will happen when Billy gets his dogs.\n8. Identify unfamiliar vocabulary and use context clues to determine meaning.\n9. Students write a response journal entry connecting to a time they worked hard for something.\n10. Create a character sketch of Billy with textual evidence.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Where the Red Fern Grows by Wilson Rawls", "Reading journal", "Pencils", "Character sketch template", "Vocabulary log", "Map of Oklahoma"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Where the Red Fern Grows", "subheading": "Chapters 1-3: Billy's Dream"},
+        {"type": "materials", "items": ["Where the Red Fern Grows by Wilson Rawls", "Reading journal", "Pencils", "Character sketch template", "Vocabulary log"], "setup_instructions": "Have copies of the novel ready. Prepare a character sketch template with sections for appearance, personality traits, motivations, and textual evidence. Show Oklahoma on a map."},
+        {"type": "instruction", "step": 1, "text": "Wilson Rawls grew up in the Ozark Mountains and based this story on his own childhood. He loved the outdoors and his dogs so much that he wanted to share that experience. The novel is set in rural Oklahoma during the Great Depression era."},
+        {"type": "instruction", "step": 2, "text": "Read Chapters 1-3 aloud. In Chapter 1, an adult Billy rescues a stray dog, triggering memories. Chapters 2-3 introduce young Billy and his desperate longing for two coonhound puppies. Notice how Rawls builds sympathy for Billy."},
+        {"type": "instruction", "step": 3, "text": "Pause to discuss: Billy works and saves for TWO YEARS to buy his dogs. He picks berries, traps, and sells bait. What does this tell us about his character? Find specific sentences that show his determination."},
+        {"type": "instruction", "step": 4, "text": "Examine Rawls' sensory language: the smell of the river bottoms, the sound of hounds baying, the feel of the Ozark hills. These details make the setting feel real. Identify your three favorite descriptive passages."},
+        {"type": "activity", "prompt": "Complete two tasks: (1) Create a character sketch of Billy using evidence from Chapters 1-3. Include at least three personality traits with a quote or example for each. (2) Write a journal entry about a time you wanted something so badly you were willing to work very hard for it. How does your experience connect to Billy's?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Billy's determination and love of nature set the stage for the deep bond he will form with his dogs. As we continue reading, watch for how Rawls develops themes of perseverance, love, and the connection between humans and animals.", "mastery_check": "Can the student identify Billy's key character traits with textual evidence and explain how the setting influences the story?"}
+      ]
+    },
+    "parent_notes": "Where the Red Fern Grows is a beloved classic that deals with themes of determination, love, loyalty, and eventually loss. The story's emotional depth makes it an excellent choice for upper elementary readers developing empathy and analytical skills. Be aware that the novel deals with animal death later on, which can be emotional. Reading aloud together allows you to process these moments with your child. The rural Depression-era setting also offers rich historical connections.",
+    "age_adaptations": null,
+    "sort_order": 5
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 23,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Advanced Vocabulary — Latin and Greek Roots for SAT Preparation",
+    "description": "Students explore Latin and Greek roots as a strategy for decoding unfamiliar vocabulary. They learn root meanings, practice identifying roots in complex words, and build word families to expand their vocabulary systematically.",
+    "instructions": "1. Introduce the concept that 60% of English words have Latin or Greek origins.\n2. Present ten high-frequency roots: bene (good), mal (bad), chron (time), graph (write), bio (life), geo (earth), aud (hear), vis/vid (see), dict (say), port (carry).\n3. For each root, brainstorm known words that contain it.\n4. Model how to use root knowledge to decode an unfamiliar word.\n5. Practice with SAT-level vocabulary: benevolent, malicious, chronological, biography.\n6. Introduce common prefixes that modify root meanings: un-, re-, pre-, mis-, anti-.\n7. Students create root word trees showing how one root generates multiple words.\n8. Play a root matching game pairing roots with their meanings.\n9. Write sentences using at least five new vocabulary words.\n10. Quiz each other on root meanings using flashcards.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Root word reference chart", "Index cards for flashcards", "Colored markers", "Large paper for word trees", "Pencils", "Dictionary"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Advanced Vocabulary", "subheading": "Latin and Greek Roots — Your Secret Decoder Ring"},
+        {"type": "materials", "items": ["Root word reference chart", "Index cards for flashcards", "Colored markers", "Large paper for word trees", "Pencils", "Dictionary"], "setup_instructions": "Prepare a reference chart with ten roots, their meanings, and example words. Have index cards pre-cut for flashcard creation."},
+        {"type": "instruction", "step": 1, "text": "Over 60% of English words come from Latin and Greek. Knowing roots is like having a secret decoder ring — you can figure out the meaning of words you have never seen before. Today we learn ten powerful roots."},
+        {"type": "instruction", "step": 2, "text": "Start with 'bene' (good) and 'mal' (bad). Benefit = something good. Malfunction = bad functioning. These opposite roots help you remember both. Now try: What might 'benevolent' mean? (Bene = good + vol = wish = wishing good)"},
+        {"type": "instruction", "step": 3, "text": "Next roots: 'chron' (time) — chronicle, chronological, synchronize. 'Graph' (write) — autograph, biography, geography. 'Bio' (life) — biology, biography, antibiotic. Notice how roots combine!"},
+        {"type": "instruction", "step": 4, "text": "Decode this word: 'autobiography.' Auto = self, bio = life, graph = write. An autobiography is writing about your own life! Now try 'geographer': geo = earth, graph = write, er = one who. One who writes about the earth."},
+        {"type": "activity", "prompt": "Create a root word tree for three different roots. Write the root at the base of the tree and branch out to at least five words that use that root. Include the full word, its definition, and a sample sentence. Then make flashcards for all ten roots — root on one side, meaning and three example words on the other.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You now have ten root 'keys' that unlock hundreds of English words. Keep your flashcards and practice daily. Tomorrow we will add ten more roots and start using them in our expository writing.", "mastery_check": "Can the student define all ten roots, identify them within complex words, and use root knowledge to decode unfamiliar vocabulary?"}
+      ]
+    },
+    "parent_notes": "Root word study is one of the most effective vocabulary strategies for upper elementary students. Unlike memorizing individual word definitions, learning roots gives children tools to decode thousands of words independently. This is the same strategy used in SAT preparation. Practice at home by playing 'root detective' — when you encounter an unfamiliar word in reading, break it down into roots, prefixes, and suffixes. The flashcards are a valuable study tool worth reviewing several times per week.",
+    "age_adaptations": null,
+    "sort_order": 6
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 23,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Coordinate Graphing — Plotting Points in Four Quadrants",
+    "description": "Students extend their knowledge of coordinate graphing from the first quadrant to all four quadrants by introducing negative numbers on the coordinate plane. They plot points, identify quadrants, and begin connecting coordinate graphing to real-world applications.",
+    "instructions": "1. Review plotting points in the first quadrant (positive x, positive y).\n2. Introduce the full coordinate plane with four quadrants.\n3. Explain negative numbers on the x-axis (left of origin) and y-axis (below origin).\n4. Label the four quadrants and discuss the sign patterns in each: (+,+), (-,+), (-,-), (+,-).\n5. Practice plotting points in all four quadrants.\n6. Play 'Coordinate Battleship' to reinforce plotting accuracy.\n7. Connect coordinate graphing to real-world contexts: maps, GPS, game design.\n8. Students plot points to create a picture across all four quadrants.\n9. Identify the quadrant of given points without plotting.\n10. Discuss reflections across axes as a preview of geometric transformations.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Graph paper (4-quadrant, pre-printed)", "Rulers", "Colored pencils", "Coordinate Battleship game boards", "Pencils", "Coordinate picture worksheet"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Coordinate Graphing", "subheading": "Navigating All Four Quadrants"},
+        {"type": "materials", "items": ["Graph paper (4-quadrant, pre-printed)", "Rulers", "Colored pencils", "Coordinate Battleship game boards", "Pencils", "Coordinate picture worksheet"], "setup_instructions": "Print four-quadrant graph paper with axes labeled from -10 to 10. Prepare Coordinate Battleship game boards with grids. Print the coordinate picture worksheet with ordered pairs."},
+        {"type": "instruction", "step": 1, "text": "You already know how to plot points like (3, 5) in the first quadrant. But what about (-3, 5) or (3, -5)? Today we expand our coordinate plane to include negative numbers and all four quadrants."},
+        {"type": "instruction", "step": 2, "text": "Draw the full coordinate plane. The x-axis goes left (negative) and right (positive). The y-axis goes down (negative) and up (positive). The origin (0,0) is where they cross. Label quadrants I, II, III, IV counterclockwise."},
+        {"type": "instruction", "step": 3, "text": "Sign patterns: Quadrant I = (+,+), Quadrant II = (-,+), Quadrant III = (-,-), Quadrant IV = (+,-). To plot (-4, 3): start at origin, go LEFT 4, then UP 3. That puts us in Quadrant II."},
+        {"type": "instruction", "step": 4, "text": "Notice: Points (3, 5) and (-3, 5) are mirror images across the y-axis. Points (3, 5) and (3, -5) are mirror images across the x-axis. This idea of reflection will be important when we study transformations."},
+        {"type": "activity", "prompt": "Complete three tasks: (1) Plot these 10 points and connect them in order to reveal a picture: (2,6), (4,4), (6,6), (6,2), (4,0), (6,-2), (6,-6), (4,-4), (2,-6), (0,-4), (-2,-6), (-4,-4), (-6,-6), (-6,-2), (-4,0), (-6,2), (-6,6), (-4,4), (-2,6), (0,4), (2,6). (2) Play Coordinate Battleship with a partner. (3) Without plotting, identify the quadrant for: (-7,2), (5,-3), (-1,-8), (9,4).", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The coordinate plane is a powerful tool used in science, engineering, game design, and GPS navigation. Every point on Earth can be described with coordinates. Tomorrow we will use coordinate graphing to represent data and explore patterns.", "mastery_check": "Can the student plot points accurately in all four quadrants, identify quadrants by sign patterns, and understand reflections across axes?"}
+      ]
+    },
+    "parent_notes": "The four-quadrant coordinate plane is a significant conceptual leap because it requires understanding negative numbers in context. The Coordinate Battleship game makes practice engaging and helps develop spatial reasoning. At home, you can reinforce this by discussing GPS coordinates, latitude and longitude, or having your child create their own coordinate pictures. The connection between reflections and sign changes lays groundwork for geometric transformations coming later.",
+    "age_adaptations": null,
+    "sort_order": 7
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 23,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Ecosystem Fundamentals — Producers, Consumers, and Decomposers",
+    "description": "Students investigate the foundational roles within ecosystems: producers that capture energy, consumers that transfer it, and decomposers that recycle it. They build food chains and food webs and analyze energy flow through trophic levels.",
+    "instructions": "1. Define an ecosystem as a community of living organisms interacting with their physical environment.\n2. Introduce the three ecological roles: producers, consumers, and decomposers.\n3. Explain photosynthesis as the process by which producers convert sunlight to energy.\n4. Classify consumers as herbivores, carnivores, and omnivores with examples.\n5. Discuss the vital role of decomposers in nutrient cycling.\n6. Build a simple food chain showing energy transfer.\n7. Expand the food chain into a food web showing interconnected relationships.\n8. Introduce the energy pyramid and the 10% rule.\n9. Students construct a food web for a local ecosystem.\n10. Discuss what happens when one species is removed from a food web.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Ecosystem organism cards (laminated)", "Yarn or string", "Large paper", "Colored markers", "Energy pyramid template", "Pencils", "Magnifying glasses"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Ecosystem Fundamentals", "subheading": "Producers, Consumers, and Decomposers"},
+        {"type": "materials", "items": ["Ecosystem organism cards (laminated)", "Yarn or string", "Large paper", "Colored markers", "Energy pyramid template", "Pencils"], "setup_instructions": "Prepare organism cards with pictures and names of local species: plants, herbivores, carnivores, omnivores, and decomposers. Cut yarn into 2-foot lengths for food web connections."},
+        {"type": "instruction", "step": 1, "text": "An ecosystem includes all living things (biotic) and non-living things (abiotic: water, soil, sunlight, air) in an area. Every organism has a role. Today we learn the three main roles: producer, consumer, and decomposer."},
+        {"type": "instruction", "step": 2, "text": "Producers (plants, algae) make their own food through photosynthesis. They are the foundation of every food chain. Without producers, no other life could exist. They convert the sun's energy into chemical energy stored in glucose."},
+        {"type": "instruction", "step": 3, "text": "Consumers eat other organisms. Herbivores eat plants (primary consumers). Carnivores eat animals (secondary/tertiary consumers). Omnivores eat both. Decomposers (fungi, bacteria, worms) break down dead matter and recycle nutrients back into the soil."},
+        {"type": "instruction", "step": 4, "text": "Energy decreases at each level — only about 10% transfers up. A field of grass supports many rabbits, but those rabbits only support a few foxes. This is why the energy pyramid is wide at the bottom and narrow at the top."},
+        {"type": "activity", "prompt": "Build a food web for a forest ecosystem. Use the organism cards and connect them with yarn to show 'who eats whom.' Then draw and label your food web on large paper. Include at least 8 organisms and 12 connections. Color-code producers (green), primary consumers (blue), secondary consumers (red), and decomposers (brown). Finally, predict: What would happen if the primary consumers were removed?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Every organism in an ecosystem depends on others. Removing one species creates a ripple effect through the entire food web. Next lesson, we will explore specific biome ecosystems and how organisms adapt to their environments.", "mastery_check": "Can the student classify organisms by ecological role, construct a food web with accurate connections, and predict the impact of removing a species?"}
+      ]
+    },
+    "parent_notes": "Ecology is an engaging topic because children can observe ecosystems in their own backyard. The food web activity using yarn creates a memorable physical representation of interconnections. Reinforce this at home by going on a nature walk and identifying producers, consumers, and decomposers in your local environment. The 10% energy rule is a key concept — it explains why there are fewer predators than prey in any ecosystem. Decomposers are often overlooked but are essential; look for fungi and insects breaking down leaf litter.",
+    "age_adaptations": null,
+    "sort_order": 8
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 23,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Environmental Art — Land Art and Andy Goldsworthy",
+    "description": "Students explore the environmental art movement through the work of Andy Goldsworthy, who creates temporary sculptures using natural materials. They learn how art can express our relationship with nature and create their own land art pieces using found materials.",
+    "instructions": "1. Show images of Andy Goldsworthy's land art: stone circles, leaf arrangements, ice sculptures.\n2. Discuss what makes this art unique: natural materials, temporary, site-specific.\n3. Explore the philosophy behind land art: art as part of nature, not separate from it.\n4. Examine how Goldsworthy documents his work through photography.\n5. Discuss the concept of impermanence: How does knowing art will disappear change its meaning?\n6. Go outdoors to collect natural materials: leaves, stones, sticks, flowers, bark.\n7. Students plan and create their own land art installation.\n8. Photograph each piece from multiple angles.\n9. Write an artist's statement explaining the concept and materials.\n10. Gallery walk to view and discuss each other's creations.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Andy Goldsworthy image prints or book", "Camera or tablet for photos", "Natural materials (collected outdoors)", "Sketchbook", "Pencils", "Artist statement template"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Environmental Art", "subheading": "Land Art and Andy Goldsworthy"},
+        {"type": "materials", "items": ["Andy Goldsworthy image prints or book", "Camera or tablet for photos", "Natural materials (collected outdoors)", "Sketchbook", "Pencils"], "setup_instructions": "Print or display images of Goldsworthy's work. Identify an outdoor area for collecting materials and creating art. Ensure camera or tablet is charged for documentation."},
+        {"type": "instruction", "step": 1, "text": "Andy Goldsworthy creates art from nature IN nature. He arranges leaves in spirals, stacks balanced stones, shapes ice, and weaves sticks. His materials are free, his studio is the outdoors, and his art eventually returns to the earth."},
+        {"type": "instruction", "step": 2, "text": "Goldsworthy's art is temporary — rain washes it away, wind scatters it, ice melts. He photographs each piece as documentation. This impermanence is part of the art's meaning: nothing in nature is permanent, including us."},
+        {"type": "instruction", "step": 3, "text": "Before creating, sketch your idea. Consider: What natural materials are available? How can you arrange them to create a pattern, shape, or story? Think about contrast, repetition, and the relationship between your art and its environment."},
+        {"type": "instruction", "step": 4, "text": "Rules for land art: Use only natural materials found on site. Do not damage living plants. Create something that will naturally decompose. Photograph your work from at least three angles. Write an artist's statement explaining your choices."},
+        {"type": "activity", "prompt": "Go outdoors and collect natural materials (leaves, stones, sticks, flowers, bark, seeds). Create a land art installation inspired by Goldsworthy. Your piece should use at least three different types of natural materials and show evidence of intentional design (pattern, contrast, or symbolic meaning). Photograph it from three angles. Write a 3-5 sentence artist's statement explaining your concept, materials, and connection to the environment.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Environmental art reminds us that humans are part of nature, not separate from it. Your art will change and eventually disappear, just like Goldsworthy's — but your photographs and artist's statements preserve the experience. How did creating art outdoors feel different from working inside?", "mastery_check": "Can the student create a land art piece using intentional design principles and articulate the connection between art, nature, and impermanence?"}
+      ]
+    },
+    "parent_notes": "Land art is a wonderful intersection of art, nature, and philosophy. Andy Goldsworthy's work is accessible to children because the materials are simple and the concepts are intuitive. This activity gets students outdoors and encourages them to see beauty in natural patterns. The concept of impermanence can lead to meaningful philosophical conversations. Look up Goldsworthy's documentary 'Rivers and Tides' for extended inspiration. Consider making land art a regular outdoor activity — it costs nothing and builds creative thinking.",
+    "age_adaptations": null,
+    "sort_order": 9
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "practical_life",
+    "week_number": 23,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Environmental Activism — Understanding Our Ecological Footprint",
+    "description": "Students calculate their personal and household ecological footprint to understand how daily choices impact the environment. They learn about resource consumption, waste generation, and identify specific actions they can take to reduce their environmental impact.",
+    "instructions": "1. Discuss what an ecological footprint is: the amount of Earth's resources a person uses.\n2. Introduce the concept of Earth Overshoot Day — the date when humanity has used more from nature than the planet can renew.\n3. Walk through an ecological footprint calculator together.\n4. Compare footprints across different countries and lifestyles.\n5. Identify the biggest contributors to a household's footprint: energy, food, transportation, waste.\n6. Brainstorm actions to reduce impact in each category.\n7. Students audit their own household practices.\n8. Create a personal action plan with specific, measurable goals.\n9. Design a poster or infographic to share one key message.\n10. Discuss the difference between individual action and systemic change.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Ecological footprint worksheet", "Calculator", "Large paper for poster", "Colored markers", "Household audit checklist", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Understanding Our Ecological Footprint", "subheading": "How Daily Choices Impact the Planet"},
+        {"type": "materials", "items": ["Ecological footprint worksheet", "Calculator", "Large paper for poster", "Colored markers", "Household audit checklist", "Pencils"], "setup_instructions": "Prepare a simplified ecological footprint worksheet with questions about transportation, food, energy use, and waste. Create a household audit checklist students can complete at home."},
+        {"type": "instruction", "step": 1, "text": "An ecological footprint measures how much land and water is needed to produce what you consume and absorb your waste. If everyone lived like the average American, we would need 5 Earths. We only have one."},
+        {"type": "instruction", "step": 2, "text": "Earth Overshoot Day marks when humanity has used more resources than Earth can regenerate in a year. In recent years, it has fallen in late July — meaning we use 1.7 Earths' worth of resources annually."},
+        {"type": "instruction", "step": 3, "text": "The four biggest footprint areas: Energy (heating, cooling, electricity), Food (meat production uses the most resources), Transportation (cars vs. walking vs. public transit), and Waste (what we throw away vs. recycle or compost)."},
+        {"type": "instruction", "step": 4, "text": "Individual actions matter, but systemic change matters more. Recycling helps, but designing products to be recyclable in the first place is better. Both personal choices AND advocacy for larger changes are needed."},
+        {"type": "activity", "prompt": "Complete three tasks: (1) Fill out the ecological footprint worksheet estimating your household's resource use in all four categories. (2) Create a personal action plan listing 5 specific, measurable changes you can make (e.g., 'Take 5-minute showers instead of 10-minute' not just 'use less water'). (3) Design a poster or infographic sharing the most surprising footprint fact you learned and one action others can take.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Awareness is the first step toward change. You now understand how your choices connect to global resource use. Take the household audit checklist home and complete it with your family this week. Small changes add up when millions of people make them.", "mastery_check": "Can the student explain what an ecological footprint measures, identify their biggest impact areas, and create a specific action plan for reduction?"}
+      ]
+    },
+    "parent_notes": "This lesson empowers children to see the connection between personal choices and environmental impact. The ecological footprint concept makes abstract environmental issues concrete and measurable. Complete the household audit checklist together as a family — it can spark meaningful conversations about values and priorities. Avoid making children feel guilty about consumption; instead, focus on the empowering idea that informed choices matter. This lesson connects beautifully to the ecology unit in science.",
+    "age_adaptations": null,
+    "sort_order": 10
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Literary Criticism — Analyzing Theme in Fiction",
+    "description": "Students develop literary criticism skills by identifying and analyzing themes in fiction. They distinguish between topic and theme, trace thematic development through a text, and write a paragraph of literary analysis supported by textual evidence.",
+    "instructions": "1. Distinguish between topic (what a story is about) and theme (what a story says about that topic).\n2. Review familiar stories and identify their themes together.\n3. Model the process: 'The topic is friendship. The theme is that true friendship requires sacrifice.'\n4. Read a short story aloud and identify possible themes.\n5. Find textual evidence that supports each theme.\n6. Discuss how authors develop themes through characters, plot, and symbolism.\n7. Introduce the literary analysis paragraph structure: claim, evidence, explanation.\n8. Model writing a literary analysis paragraph.\n9. Students write their own analysis paragraph about a theme in the short story.\n10. Peer review using the claim-evidence-explanation checklist.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Short story printout", "Theme vs. topic reference chart", "Literary analysis paragraph template", "Highlighters", "Lined paper", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Literary Criticism", "subheading": "Analyzing Theme in Fiction"},
+        {"type": "materials", "items": ["Short story printout", "Theme vs. topic reference chart", "Literary analysis paragraph template", "Highlighters", "Lined paper", "Pencils"], "setup_instructions": "Select a short story with clear thematic content (e.g., a fable or O. Henry story). Print one copy per student. Prepare the literary analysis paragraph template with labeled sections."},
+        {"type": "instruction", "step": 1, "text": "Topic is ONE WORD: friendship, courage, growing up. Theme is a COMPLETE SENTENCE: 'True courage means standing up for what is right even when you are afraid.' The theme is the author's message about the topic."},
+        {"type": "instruction", "step": 2, "text": "Let us practice with a story you know. In Charlotte's Web, a topic is friendship. The theme might be: 'True friends will go to great lengths to help each other, even when it costs them something.' See how theme is more specific?"},
+        {"type": "instruction", "step": 3, "text": "Authors develop themes through: (1) what characters say and do, (2) how the plot unfolds, (3) symbols and imagery, (4) how the story ends. As we read today's short story, track these four elements."},
+        {"type": "instruction", "step": 4, "text": "A literary analysis paragraph follows this structure: CLAIM (state the theme), EVIDENCE (quote from the text), EXPLANATION (explain how the evidence supports the claim). This is called CEE — Claim, Evidence, Explanation."},
+        {"type": "activity", "prompt": "Read the short story carefully and identify TWO possible themes. For each theme, find at least two pieces of textual evidence (direct quotes or specific examples). Then write one complete literary analysis paragraph using the CEE structure: state your claim about the theme, provide a quote as evidence, and explain how the quote supports your claim. Swap with a partner for peer review.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Literary criticism is not about finding the 'right' answer — it is about making a claim and supporting it with evidence. Different readers can identify different themes in the same story, and both can be valid if they are well-supported.", "mastery_check": "Can the student distinguish between topic and theme, identify themes with textual evidence, and write a CEE literary analysis paragraph?"}
+      ]
+    },
+    "parent_notes": "Literary analysis is a higher-order thinking skill that develops critical reasoning. The claim-evidence-explanation structure transfers to all academic writing. When reading together at home, pause to ask 'What is the author trying to say about _?' This builds thematic thinking naturally. Resist the urge to tell your child the 'correct' theme — literary analysis values multiple valid interpretations when supported by evidence. This is excellent preparation for middle school English classes.",
+    "age_adaptations": null,
+    "sort_order": 11
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Order of Operations with Parentheses",
+    "description": "Students master the order of operations (PEMDAS) with emphasis on how parentheses change the outcome of expressions. They evaluate multi-step expressions, use parentheses to create target numbers, and explore why mathematical convention requires agreed-upon rules.",
+    "instructions": "1. Present the problem: Does 3 + 4 x 2 equal 14 or 11? Discuss why we need rules.\n2. Introduce PEMDAS: Parentheses, Exponents, Multiplication/Division (left to right), Addition/Subtraction (left to right).\n3. Emphasize that multiplication and division are equal priority, as are addition and subtraction.\n4. Work through five examples step by step, showing each operation.\n5. Demonstrate how parentheses override the default order.\n6. Compare 3 + 4 x 2 = 11 with (3 + 4) x 2 = 14.\n7. Practice with expressions containing nested parentheses.\n8. Play 'Target Number': Use given numbers and operations to reach a target.\n9. Students create their own order of operations puzzles.\n10. Solve real-world problems requiring order of operations.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["PEMDAS reference chart", "Practice worksheet", "Whiteboard and markers", "Number cards", "Calculator (for checking)", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Order of Operations", "subheading": "The Power of Parentheses"},
+        {"type": "materials", "items": ["PEMDAS reference chart", "Practice worksheet", "Whiteboard and markers", "Number cards", "Calculator (for checking)", "Pencils"], "setup_instructions": "Prepare the PEMDAS reference chart as a poster. Create a practice worksheet with graduated difficulty. Have number cards 1-9 ready for the Target Number game."},
+        {"type": "instruction", "step": 1, "text": "Without rules, 3 + 4 x 2 could be 14 OR 11. Mathematicians agreed on PEMDAS so everyone gets the same answer. Parentheses first, then Exponents, then Multiplication/Division (left to right), then Addition/Subtraction (left to right)."},
+        {"type": "instruction", "step": 2, "text": "Example: 8 + 3 x (6 - 2). Step 1: Parentheses: 6 - 2 = 4. Step 2: Multiplication: 3 x 4 = 12. Step 3: Addition: 8 + 12 = 20. Show each step clearly."},
+        {"type": "instruction", "step": 3, "text": "IMPORTANT: Multiplication and division have EQUAL priority — work left to right. Same for addition and subtraction. Example: 12 / 3 x 2 = 4 x 2 = 8 (left to right), NOT 12 / 6 = 2."},
+        {"type": "instruction", "step": 4, "text": "Parentheses are powerful — they override everything. Compare: 2 + 3 x 4 = 14, but (2 + 3) x 4 = 20. You can nest parentheses too: 2 x ((3 + 1) x 5) = 2 x (4 x 5) = 2 x 20 = 40."},
+        {"type": "activity", "prompt": "Complete three challenges: (1) Evaluate 10 expressions using PEMDAS, showing every step. (2) Target Number Game: Using the numbers 2, 3, 5, and 8, plus any operations and parentheses, try to make every number from 1 to 20. (3) Create 3 tricky PEMDAS problems where parentheses change the answer and trade with a partner to solve.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Order of operations is a universal mathematical language — every mathematician, scientist, and computer programmer uses the same rules. Parentheses give you the power to control calculations. Tomorrow we explore how these rules apply to expressions with negative numbers.", "mastery_check": "Can the student correctly evaluate multi-step expressions using PEMDAS, including nested parentheses, and explain why order matters?"}
+      ]
+    },
+    "parent_notes": "Order of operations is essential for all future math, including algebra. The most common mistake is treating multiplication/division (or addition/subtraction) sequentially rather than left-to-right with equal priority. The Target Number game is excellent for developing number sense and flexibility. If your child enjoys it, try making target numbers during car rides. Calculators follow PEMDAS, so they are a great checking tool — but make sure your child shows their steps rather than relying on the calculator.",
+    "age_adaptations": null,
+    "sort_order": 12
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Brown v. Board of Education — Desegregating Schools",
+    "description": "Students examine the landmark Supreme Court case Brown v. Board of Education (1954) that declared school segregation unconstitutional. They analyze the arguments on both sides, the role of Thurgood Marshall, and the case's impact on American education and civil rights.",
+    "instructions": "1. Review the concept of 'separate but equal' from Plessy v. Ferguson (1896).\n2. Describe the reality of segregated schools: unequal funding, facilities, and materials.\n3. Introduce the Brown family and their challenge to the Topeka, Kansas school board.\n4. Explain Thurgood Marshall's legal strategy using social science evidence.\n5. Read simplified excerpts from Chief Justice Warren's unanimous opinion.\n6. Discuss the significance of a unanimous 9-0 decision.\n7. Examine the backlash: Southern resistance, the Little Rock Nine.\n8. Look at photographs from school integration and discuss the courage of young students.\n9. Students debate: Was the Supreme Court the right institution to make this change?\n10. Update the civil rights timeline with key dates from this lesson.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Brown v. Board reading packet", "Simplified court opinion excerpts", "Integration photographs (age-appropriate)", "Civil rights timeline", "Colored markers", "Journal", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Brown v. Board of Education", "subheading": "Desegregating America's Schools"},
+        {"type": "materials", "items": ["Brown v. Board reading packet", "Simplified court opinion excerpts", "Integration photographs", "Civil rights timeline", "Colored markers", "Journal", "Pencils"], "setup_instructions": "Prepare reading materials about the case at appropriate reading level. Select age-appropriate photographs, including the Little Rock Nine. Have the civil rights timeline from earlier lessons available."},
+        {"type": "instruction", "step": 1, "text": "Since 1896, Plessy v. Ferguson said 'separate but equal' was legal. But segregated schools were NEVER equal. Black schools received a fraction of the funding, had outdated textbooks, and overcrowded classrooms."},
+        {"type": "instruction", "step": 2, "text": "Thurgood Marshall, the lead attorney for the NAACP, argued that segregation itself was harmful — even if facilities were equal. He presented research by psychologists Kenneth and Mamie Clark showing that segregation damaged Black children's self-image."},
+        {"type": "instruction", "step": 3, "text": "On May 17, 1954, Chief Justice Warren read the unanimous decision: 'In the field of public education, the doctrine of separate but equal has no place.' All nine justices agreed. Discuss why unanimity mattered for a decision this significant."},
+        {"type": "instruction", "step": 4, "text": "The ruling met fierce resistance. In 1957, nine Black students integrating Central High School in Little Rock, Arkansas, needed federal troops for protection. Ruby Bridges, age 6, needed U.S. Marshals to walk her to first grade in New Orleans."},
+        {"type": "activity", "prompt": "Complete three tasks: (1) Write a brief summary of the Brown v. Board case including the problem, the legal argument, the decision, and its impact. (2) Add at least four dates to your civil rights timeline: Plessy (1896), Brown (1954), Little Rock Nine (1957), and Ruby Bridges (1960). (3) Journal response: Ruby Bridges was 6 years old. Imagine being in her position. What would you feel? What does her courage teach us?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Brown v. Board did not immediately integrate all schools — resistance continued for decades. But it established the legal principle that separate is inherently unequal. Next lesson, we will study the March on Washington and the Civil Rights Act.", "mastery_check": "Can the student explain the legal arguments in Brown v. Board, its significance, and the challenges of implementing the ruling?"}
+      ]
+    },
+    "parent_notes": "This lesson covers a pivotal moment in American history. The story of children like the Little Rock Nine and Ruby Bridges makes this personally relatable for your child. Thurgood Marshall later became the first Black Supreme Court Justice. Discuss with your child how legal change and social change are different — a court ruling does not automatically change hearts and minds. This lesson connects to current conversations about equity in education.",
+    "age_adaptations": null,
+    "sort_order": 13
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "geography",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Mapping Ecosystems — Spatial Analysis of Environmental Regions",
+    "description": "Students use mapping skills to analyze the spatial distribution of ecosystems within a specific region. They create detailed maps showing how topography, water systems, and climate interact to create distinct ecological zones, connecting physical geography to environmental science.",
+    "instructions": "1. Review the biome map from the previous geography lesson.\n2. Zoom in on one continent (North America) to examine biome transitions in detail.\n3. Discuss how mountains, rivers, and ocean currents create micro-climates.\n4. Introduce the concept of rain shadows and their effect on vegetation.\n5. Examine how elevation changes create altitudinal zones (like mini-biomes stacked vertically).\n6. Study the connection between watersheds and ecosystems.\n7. Students create a detailed ecosystem map of a chosen region.\n8. Include topographic features, water systems, and ecosystem boundaries.\n9. Add a legend explaining ecosystem types and their characteristics.\n10. Present maps and explain the geographic factors that create each ecosystem.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Topographic map of North America", "Blank regional map", "Colored pencils (12+ colors)", "Atlas", "Ruler", "Pencils", "Map legend template"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Mapping Ecosystems", "subheading": "Spatial Analysis of Environmental Regions"},
+        {"type": "materials", "items": ["Topographic map of North America", "Blank regional map", "Colored pencils (12+ colors)", "Atlas", "Ruler", "Pencils"], "setup_instructions": "Print topographic maps showing elevation and a blank regional map for each student. Have atlases available for reference. Prepare a map legend template."},
+        {"type": "instruction", "step": 1, "text": "Look at North America from west to east: Pacific coast forests, the Cascade and Rocky Mountain ranges, the Great Basin desert (a rain shadow), the Great Plains grassland, eastern temperate forests, and the Atlantic coast. Geography drives ecology."},
+        {"type": "instruction", "step": 2, "text": "Rain shadow effect: Moisture-laden air from the Pacific rises over mountains, cools, and drops rain on the western slopes. By the time air descends the eastern side, it is dry. This is why eastern Oregon is desert while western Oregon is lush forest."},
+        {"type": "instruction", "step": 3, "text": "Mountains create altitudinal zones: foothills may be grassland, mid-slopes are forest, upper slopes are alpine meadow, and peaks are rocky tundra. Climbing a mountain is like traveling from lower latitudes to the Arctic."},
+        {"type": "instruction", "step": 4, "text": "Watersheds connect ecosystems. A river system links mountain snowpack to lowland wetlands to coastal estuaries. Pollution upstream affects ecosystems downstream. Understanding these connections is key to environmental geography."},
+        {"type": "activity", "prompt": "Choose a region of North America (Pacific Northwest, Great Plains, Southeast, Southwest, or Northeast). Create a detailed ecosystem map showing: (1) at least 3 different ecosystem types, color-coded with a legend, (2) major topographic features (mountains, valleys, plains), (3) water systems (rivers, lakes, coastline), (4) arrows showing how geographic features create ecosystem boundaries. Write a paragraph explaining why each ecosystem exists where it does.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Geography and ecology are deeply interconnected — you cannot understand one without the other. Mountains, water, and climate patterns determine where each ecosystem thrives. Next time, we will examine how human activity is changing these natural patterns.", "mastery_check": "Can the student create an ecosystem map with accurate spatial relationships and explain how geographic features determine ecosystem distribution?"}
+      ]
+    },
+    "parent_notes": "This lesson integrates geography and science in a meaningful way. The rain shadow concept is powerful because it explains why two places at the same latitude can have completely different climates and ecosystems. If you live near mountains, this is directly observable. The mapping activity develops spatial reasoning and analytical thinking. Encourage your child to use the atlas for accuracy rather than guessing. Consider exploring Google Earth together to see these geographic patterns from satellite imagery.",
+    "age_adaptations": null,
+    "sort_order": 14
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Where the Red Fern Grows — Chapters 4-7",
+    "description": "Students continue reading Wilson Rawls' novel as Billy finally gets his two coonhound puppies, Old Dan and Little Ann. These chapters explore the deep bond forming between Billy and his dogs, their first hunting experiences, and the themes of perseverance and partnership.",
+    "instructions": "1. Recap Chapters 1-3: Billy's two-year quest to earn money for his dogs.\n2. Read Chapters 4-7 aloud, pausing at key emotional moments.\n3. Discuss Billy's reaction when he first sees his puppies — what details reveal his emotions?\n4. Analyze the different personalities of Old Dan (bold, aggressive) and Little Ann (smart, cautious).\n5. Examine how Rawls uses the natural setting as more than just backdrop.\n6. Discuss the training process: What does Billy's patience with his dogs tell us about his character?\n7. Identify examples of figurative language: similes, metaphors, and personification.\n8. Make predictions about challenges Billy and his dogs will face.\n9. Students add to their character sketches with new evidence from these chapters.\n10. Write a reading response comparing Old Dan and Little Ann.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Where the Red Fern Grows by Wilson Rawls", "Reading journal", "Character sketch from previous lesson", "Pencils", "Figurative language chart"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Where the Red Fern Grows", "subheading": "Chapters 4-7: Old Dan and Little Ann"},
+        {"type": "materials", "items": ["Where the Red Fern Grows by Wilson Rawls", "Reading journal", "Character sketch from previous lesson", "Pencils", "Figurative language chart"], "setup_instructions": "Have novels bookmarked at Chapter 4. Distribute character sketches from the previous session. Prepare a figurative language chart with columns for simile, metaphor, and personification."},
+        {"type": "instruction", "step": 1, "text": "Recap: Billy worked for two years to earn $50 for his dogs. He walked miles to the depot to pick them up. That determination tells us something important about his character. Now we see what happens when his dream comes true."},
+        {"type": "instruction", "step": 2, "text": "Read Chapters 4-7. Watch for the differences between Old Dan and Little Ann. Old Dan is the muscle — brave, powerful, sometimes reckless. Little Ann is the brain — clever, careful, always figuring things out. Together, they are an unstoppable team."},
+        {"type": "instruction", "step": 3, "text": "Rawls writes the Ozark landscape as though it is a character itself. The river bottoms, the hills, the night sounds — these are not just setting. They shape who Billy is and how the story unfolds. Find passages where nature feels alive."},
+        {"type": "instruction", "step": 4, "text": "Track figurative language: 'The coon was as sly as a fox' (simile). 'The night was a black blanket' (metaphor). 'The wind whispered through the trees' (personification). These make Rawls' writing vivid and emotional."},
+        {"type": "activity", "prompt": "Complete two tasks: (1) Update your character sketches for Billy, Old Dan, and Little Ann using new evidence from Chapters 4-7. Add at least two new traits for each character with supporting quotes. (2) Create a Venn diagram comparing Old Dan and Little Ann. Include at least three unique traits for each and three things they have in common. Write a paragraph explaining why their differences make them a great team.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The partnership between Billy, Old Dan, and Little Ann is the heart of this story. Each brings different strengths. Think about partnerships in your own life — how do differences make a team stronger? Next time, we will read about their first real hunting adventures.", "mastery_check": "Can the student analyze character development using textual evidence and identify the complementary traits that make the dogs an effective team?"}
+      ]
+    },
+    "parent_notes": "These chapters are where most readers fall in love with the story. The bond between Billy and his dogs is powerfully depicted and resonates deeply with children who love animals. The character comparison activity builds analytical thinking — noticing that strength comes from complementary differences is an insight that applies beyond literature. The figurative language work connects to language arts skills. If your child becomes very attached to the dogs, be aware that the story has a sad ending — you may want to prepare them gently.",
+    "age_adaptations": null,
+    "sort_order": 15
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 23,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Public Speaking — Structuring a Persuasive Speech",
+    "description": "Students learn to structure a persuasive speech using rhetorical techniques including ethos (credibility), pathos (emotion), and logos (logic). They draft a speech on an environmental topic, practice delivery techniques, and give a short presentation.",
+    "instructions": "1. Discuss the difference between written persuasion and spoken persuasion.\n2. Introduce the three rhetorical appeals: ethos, pathos, logos.\n3. Watch or listen to excerpts from famous speeches and identify the appeals used.\n4. Model the structure of a persuasive speech: attention-getter, thesis, three arguments, call to action.\n5. Discuss delivery techniques: eye contact, volume, pacing, gestures.\n6. Students choose an environmental topic for their speech.\n7. Draft a 2-3 minute persuasive speech using at least two rhetorical appeals.\n8. Practice with a partner, giving feedback on content and delivery.\n9. Deliver speeches to the group.\n10. Peer evaluation focusing on persuasive techniques and delivery.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Famous speech excerpts (printed)", "Speech planning template", "Index cards for notes", "Timer", "Peer evaluation form", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Public Speaking", "subheading": "Structuring a Persuasive Speech"},
+        {"type": "materials", "items": ["Famous speech excerpts (printed)", "Speech planning template", "Index cards for notes", "Timer", "Peer evaluation form", "Pencils"], "setup_instructions": "Prepare excerpts from age-appropriate speeches (MLK, student activists, environmental leaders). Print speech planning templates and peer evaluation forms."},
+        {"type": "instruction", "step": 1, "text": "Persuasive speeches differ from essays: you must connect with your audience in real time. Aristotle identified three ways to persuade: ETHOS (establishing your credibility), PATHOS (appealing to emotions), and LOGOS (using logic and evidence)."},
+        {"type": "instruction", "step": 2, "text": "Listen to this speech excerpt. When the speaker says 'As someone who has studied this for years...' that is ETHOS. When they describe a child affected by pollution, that is PATHOS. When they cite statistics, that is LOGOS. Most effective speeches use all three."},
+        {"type": "instruction", "step": 3, "text": "Speech structure: (1) Attention-getter — a surprising fact, question, or story. (2) Thesis — your main argument in one sentence. (3) Three supporting points — each with evidence. (4) Call to action — what you want your audience to DO."},
+        {"type": "instruction", "step": 4, "text": "Delivery matters as much as content. Make eye contact with different people. Vary your volume for emphasis. Pause after important points. Use hand gestures naturally. Speak slowly enough for your audience to follow."},
+        {"type": "activity", "prompt": "Choose an environmental topic you feel strongly about (ocean pollution, deforestation, endangered species, climate change). Draft a 2-minute persuasive speech using the template. Include at least one example of ethos, pathos, and logos. Write key points on index cards (not your full speech — no reading allowed!). Practice with a partner, then deliver your speech. Complete peer evaluations for each speaker.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Public speaking is one of the most valuable skills you can develop. Every leader, activist, and changemaker has had to speak persuasively. Keep your speech — we will refine it and deliver a polished version later this quarter.", "mastery_check": "Can the student structure a persuasive speech with ethos, pathos, and logos, and deliver it with appropriate eye contact, volume, and pacing?"}
+      ]
+    },
+    "parent_notes": "Public speaking anxiety is common at this age, so create a supportive, low-pressure environment. The rhetorical appeals (ethos, pathos, logos) are college-level concepts made accessible through concrete examples. Encourage your child to practice their speech at home — dinner table presentations are great practice. Using index cards rather than a full script builds confidence and natural delivery. This skill will serve them well in school presentations, job interviews, and civic engagement throughout their lives.",
+    "age_adaptations": null,
+    "sort_order": 16
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 23,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Introduction to Negative Numbers",
+    "description": "Students explore negative numbers through real-world contexts including temperature, elevation, and debt. They locate negative numbers on the number line, compare and order integers, and begin adding and subtracting with negative numbers using visual models.",
+    "instructions": "1. Ask: What is colder, 5 degrees or -5 degrees? How do you know?\n2. Introduce negative numbers as numbers less than zero on the number line.\n3. Discuss real-world negative numbers: temperature, elevation (below sea level), debt, basement floors.\n4. Locate negative numbers on a number line and identify opposites.\n5. Compare and order integers including negatives.\n6. Introduce absolute value as distance from zero.\n7. Model addition with negatives using a number line: 3 + (-5) = -2.\n8. Model subtraction with negatives: 3 - (-2) = 5 (subtracting a negative is like adding).\n9. Practice with real-world word problems.\n10. Play Integer War card game to build fluency.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Large number line (-20 to 20)", "Integer cards (-10 to 10)", "Thermometer diagram", "Two-color counters", "Practice worksheet", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Introduction to Negative Numbers", "subheading": "Exploring Numbers Below Zero"},
+        {"type": "materials", "items": ["Large number line (-20 to 20)", "Integer cards (-10 to 10)", "Thermometer diagram", "Two-color counters", "Practice worksheet", "Pencils"], "setup_instructions": "Create or print a large number line on the wall extending from -20 to 20. Prepare integer cards in two colors (positive and negative). Have a thermometer diagram showing above and below zero."},
+        {"type": "instruction", "step": 1, "text": "You already use negative numbers! If it is -10 degrees outside, that is 10 degrees BELOW zero. If a submarine is at -200 feet, it is 200 feet BELOW sea level. If you owe $5, your balance is -$5. Negatives describe amounts below a reference point."},
+        {"type": "instruction", "step": 2, "text": "On the number line, negative numbers go LEFT from zero, positive numbers go RIGHT. Every number has an OPPOSITE: the opposite of 7 is -7, the opposite of -3 is 3. They are the same distance from zero but in opposite directions."},
+        {"type": "instruction", "step": 3, "text": "Comparing: -3 is LESS than -1, even though 3 is more than 1. Think of temperature: -3 degrees is colder than -1 degree. On the number line, further left = smaller number. So -10 < -5 < -1 < 0 < 3 < 7."},
+        {"type": "instruction", "step": 4, "text": "Adding negatives on the number line: 3 + (-5) means start at 3, move LEFT 5 spaces = -2. Subtracting negatives: 3 - (-2) means start at 3, but reverse direction and go RIGHT 2 = 5. Subtracting a negative is the same as adding!"},
+        {"type": "activity", "prompt": "Complete three tasks: (1) Order these integers from least to greatest: 4, -7, 0, -2, 8, -8, 1, -1. (2) Solve 10 integer addition and subtraction problems using the number line, showing your jumps. (3) Solve these word problems: 'The temperature was -3 degrees at midnight. By noon it rose 15 degrees. What was the noon temperature?' and 'A submarine at -150 feet rises 80 feet. What is its new depth?' (4) Play Integer War with a partner.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Negative numbers expand our number system to describe the real world more completely. Every time you check the weather, use an elevator, or talk about money, you are using integer concepts. Tomorrow we will apply negative numbers to coordinate graphing.", "mastery_check": "Can the student locate negative numbers on a number line, compare and order integers, and perform basic addition and subtraction with negative numbers?"}
+      ]
+    },
+    "parent_notes": "Negative numbers can be counterintuitive at first — children may struggle with the idea that -10 is less than -5. The real-world contexts (temperature, elevation, money) make this concrete. The key conceptual challenge is 'subtracting a negative equals adding' — the number line visual is the best tool for understanding this. Practice at home by discussing temperatures, checking weather reports, or talking about 'above and below sea level.' This concept is essential for algebra.",
+    "age_adaptations": null,
+    "sort_order": 17
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 23,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Biome Deep Dive — Tropical Rainforest and Desert Ecosystems",
+    "description": "Students conduct an in-depth comparison of two contrasting biomes: tropical rainforests and deserts. They analyze adaptations organisms have evolved to survive in each extreme environment and investigate the biodiversity differences between the two.",
+    "instructions": "1. Review the biome map and locate tropical rainforests and deserts globally.\n2. Present climate data for each: temperature ranges, precipitation amounts.\n3. Examine the layers of the rainforest: emergent, canopy, understory, forest floor.\n4. Discuss rainforest biodiversity: more species per square kilometer than any other biome.\n5. Examine desert adaptations: water conservation, nocturnal behavior, heat tolerance.\n6. Compare plant adaptations: broad leaves vs. spines, rapid growth vs. slow growth.\n7. Compare animal adaptations: camouflage, burrowing, water storage.\n8. Investigate why biodiversity differs so dramatically between these biomes.\n9. Students create comparison posters with labeled diagrams.\n10. Discuss threats to each biome: deforestation, desertification.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Biome photograph sets", "Climate data charts", "Large poster paper", "Colored markers", "Organism adaptation cards", "Pencils", "Rulers"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Biome Deep Dive", "subheading": "Tropical Rainforest vs. Desert Ecosystems"},
+        {"type": "materials", "items": ["Biome photograph sets", "Climate data charts", "Large poster paper", "Colored markers", "Organism adaptation cards", "Pencils"], "setup_instructions": "Gather photographs of rainforest and desert organisms showing adaptations. Prepare climate data charts for both biomes. Have adaptation cards ready with descriptions of physical and behavioral adaptations."},
+        {"type": "instruction", "step": 1, "text": "Tropical rainforests receive 80-400 inches of rain per year and stay warm (75-80 degrees F) year-round. Deserts receive less than 10 inches of rain and can swing from 120 degrees F by day to below freezing at night. These extremes drive very different adaptations."},
+        {"type": "instruction", "step": 2, "text": "Rainforest layers create distinct habitats: the emergent layer (tallest trees, 200+ feet), canopy (dense ceiling of leaves), understory (shade-tolerant plants), and forest floor (decomposers, little light). Each layer supports different species."},
+        {"type": "instruction", "step": 3, "text": "Desert plants conserve water brilliantly: cacti store water in thick stems, have spines instead of leaves to reduce water loss, and have shallow, widespread roots to capture rare rain. Some desert plants can survive years without water."},
+        {"type": "instruction", "step": 4, "text": "Biodiversity comparison: One acre of rainforest may contain 400+ tree species. One acre of desert may have only 10-20 plant species. Why? More water and consistent warmth = more energy available = more ecological niches = more species."},
+        {"type": "activity", "prompt": "Create a comparison poster divided in half — rainforest on one side, desert on the other. For each biome include: (1) A labeled diagram showing the biome's structure (layers for rainforest, zones for desert). (2) At least 4 organisms with their specific adaptations labeled. (3) Climate data (temperature range, annual precipitation). (4) One major threat to the biome. At the bottom, write a paragraph explaining why rainforests have higher biodiversity than deserts.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "These two biomes represent opposite ends of the precipitation spectrum, yet both are essential to Earth's ecological balance. Rainforests produce oxygen and regulate climate. Deserts cover one-third of Earth's land surface. Next, we will explore temperate ecosystems closer to home.", "mastery_check": "Can the student compare and contrast rainforest and desert biomes including climate, structure, organism adaptations, and biodiversity, and explain why biodiversity differs?"}
+      ]
+    },
+    "parent_notes": "Comparing contrasting biomes builds critical thinking skills — students must analyze WHY differences exist, not just memorize facts. The connection between precipitation and biodiversity is a key ecological principle. If possible, visit a botanical garden with rainforest and desert sections to see these adaptations in person. The threats to each biome (deforestation, desertification) connect to the environmental activism work in practical life. Consider watching a nature documentary about one of these biomes together.",
+    "age_adaptations": null,
+    "sort_order": 18
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 23,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "World Music — West African Drumming and Polyrhythms",
+    "description": "Students explore West African drumming traditions and the concept of polyrhythm — multiple rhythmic patterns played simultaneously. They learn basic djembe techniques, practice individual patterns, and combine them into an ensemble performance.",
+    "instructions": "1. Introduce the musical traditions of West Africa and the role of drumming in community life.\n2. Discuss the djembe drum and its history as a communication instrument.\n3. Demonstrate three basic djembe sounds: bass (center), tone (edge), and slap.\n4. Teach a simple repeating pattern using body percussion (clapping, patting, stomping).\n5. Introduce a second pattern that overlaps with the first — this is polyrhythm.\n6. Practice each pattern separately until confident.\n7. Combine patterns: half the group plays pattern 1, half plays pattern 2.\n8. Add a third pattern and a signal for starting and stopping.\n9. Discuss how polyrhythm influenced jazz, funk, hip-hop, and Latin music.\n10. Perform the ensemble piece together.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Drums (djembe, bongos, or improvised drums)", "Rhythm pattern cards", "Audio examples of West African drumming", "Body percussion guide", "Pencils", "Music journal"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "World Music", "subheading": "West African Drumming and Polyrhythms"},
+        {"type": "materials", "items": ["Drums (djembe, bongos, or improvised drums)", "Rhythm pattern cards", "Audio examples of West African drumming", "Body percussion guide"], "setup_instructions": "Gather drums or improvise with buckets, boxes, or tables. If no drums are available, body percussion works well. Prepare rhythm pattern cards with visual notation. Queue audio examples."},
+        {"type": "instruction", "step": 1, "text": "In West Africa, drums are more than musical instruments — they are communication tools. The 'talking drum' can imitate the tones of spoken language to send messages across villages. Drumming is central to celebrations, ceremonies, and storytelling."},
+        {"type": "instruction", "step": 2, "text": "Three basic djembe sounds: BASS — strike the center with a flat hand for a deep sound. TONE — strike the edge with fingers together for a clear, ringing sound. SLAP — strike the edge with relaxed fingers for a sharp, high pop."},
+        {"type": "instruction", "step": 3, "text": "Polyrhythm means 'many rhythms' played at the same time. Pattern 1: BOOM-boom-boom-BOOM-boom-boom (groups of 3). Pattern 2: BOOM-boom-BOOM-boom (groups of 2). When combined, they create complex, interlocking music."},
+        {"type": "instruction", "step": 4, "text": "West African polyrhythms traveled to the Americas through the diaspora and became the foundation of jazz, funk, hip-hop, and Latin music. When you hear a syncopated beat in modern music, you are hearing the influence of West African drumming."},
+        {"type": "activity", "prompt": "Learn and practice three rhythm patterns: (1) The heartbeat: BOOM-boom, BOOM-boom (steady and grounding). (2) The conversation: boom-boom-BOOM, boom-boom-BOOM (call pattern). (3) The response: BOOM-boom-boom-boom, BOOM-boom-boom-boom (answer pattern). Practice each until you can play it without thinking. Then combine all three with different people playing different patterns. Can you keep your pattern steady while hearing others? Perform the ensemble piece with a clear start and stop signal.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Polyrhythm requires deep listening — you must hold your own pattern while hearing others. This skill transfers to all collaborative work. West African musical traditions are one of the most influential forces in world music history.", "mastery_check": "Can the student maintain a steady rhythmic pattern while others play contrasting patterns, and explain the concept of polyrhythm and its cultural significance?"}
+      ]
+    },
+    "parent_notes": "Music-making builds neural connections that support math, language, and social-emotional skills. Polyrhythm specifically develops the ability to hold one pattern while hearing another — a cognitive skill called 'selective attention' that benefits all areas of learning. You do not need professional instruments; buckets, pots, and tables work well. The connection between West African music and modern genres like jazz and hip-hop provides meaningful cultural context. Encourage your child to listen for polyrhythms in music they already enjoy.",
+    "age_adaptations": null,
+    "sort_order": 19
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "practical_life",
+    "week_number": 23,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Sustainable Living — Reducing Household Waste",
+    "description": "Students learn practical strategies for reducing household waste through the 5 R's: Refuse, Reduce, Reuse, Recycle, and Rot (compost). They conduct a waste audit, create an action plan, and learn to make reusable alternatives to common disposable items.",
+    "instructions": "1. Discuss the scale of household waste: the average American generates 4.4 pounds of trash per day.\n2. Introduce the 5 R's hierarchy: Refuse, Reduce, Reuse, Recycle, Rot.\n3. Explain why 'refuse' is the most powerful R (preventing waste before it enters your home).\n4. Conduct a waste audit: examine what is in the household trash and recycling.\n5. Categorize waste into the 5 R's and identify what could have been diverted.\n6. Learn to make a reusable beeswax wrap to replace plastic wrap.\n7. Discuss composting basics: what can be composted and how.\n8. Students create a family waste reduction plan.\n9. Calculate the environmental impact of specific changes.\n10. Design a challenge: How much can we reduce our waste in one week?",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Cotton fabric squares", "Beeswax pellets", "Parchment paper", "Iron", "Waste audit worksheet", "Calculator", "Pencils", "Large paper for plan"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Sustainable Living", "subheading": "Reducing Household Waste with the 5 R's"},
+        {"type": "materials", "items": ["Cotton fabric squares", "Beeswax pellets", "Parchment paper", "Iron", "Waste audit worksheet", "Calculator", "Pencils"], "setup_instructions": "Set up the beeswax wrap station: cut cotton fabric into squares, measure beeswax pellets, and prepare parchment paper and iron. Print waste audit worksheets."},
+        {"type": "instruction", "step": 1, "text": "Americans generate about 292 million tons of trash per year. That is 4.4 pounds per person per day! Only about 32% gets recycled. The rest goes to landfills where it can take hundreds of years to decompose. We can do much better."},
+        {"type": "instruction", "step": 2, "text": "The 5 R's in order of impact: REFUSE (say no to things you do not need), REDUCE (use less), REUSE (find new purposes), RECYCLE (process into new materials), ROT (compost organic waste). Notice recycling is near the bottom — refusing and reducing are far more effective."},
+        {"type": "instruction", "step": 3, "text": "Examples of REFUSE: Say no to plastic bags (bring your own), decline straws, skip junk mail. Examples of REDUCE: Buy less, choose products with minimal packaging, use concentrated products. These choices prevent waste from ever being created."},
+        {"type": "instruction", "step": 4, "text": "Let us make beeswax wraps! Place the cotton fabric on parchment paper, sprinkle beeswax pellets evenly, cover with another sheet of parchment, and press with a warm iron until the wax melts into the fabric. These replace plastic wrap and last for a year."},
+        {"type": "activity", "prompt": "Complete three tasks: (1) Conduct a waste audit by examining your household trash for one day. Categorize items into the 5 R's — which items could have been refused, reduced, reused, recycled, or composted? (2) Make at least one beeswax wrap. (3) Create a family waste reduction plan listing 10 specific changes organized by the 5 R's, with a one-week challenge to track your progress.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Small changes in daily habits add up to enormous environmental impact. If your family reduces waste by just 1 pound per day, that is 365 pounds diverted from landfills each year. Take the one-week challenge home and track your progress!", "mastery_check": "Can the student explain the 5 R's hierarchy, conduct a basic waste audit, make a reusable beeswax wrap, and create a specific waste reduction plan?"}
+      ]
+    },
+    "parent_notes": "This lesson combines environmental awareness with practical skills. The beeswax wrap project gives children a tangible connection to sustainability — they create something useful that directly replaces a disposable item. The waste audit can be eye-opening for the whole family. Support the one-week challenge by involving the entire household. The 5 R's hierarchy is important: many people jump to recycling, but refusing and reducing are far more impactful. This lesson reinforces the ecological footprint concepts from earlier this week.",
+    "age_adaptations": null,
+    "sort_order": 20
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 23,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Poetry Analysis — Figurative Language and Sound Devices",
+    "description": "Students analyze poetry through the lens of figurative language and sound devices. They identify and interpret similes, metaphors, personification, alliteration, assonance, and onomatopoeia, discovering how poets use these tools to create meaning and emotional impact.",
+    "instructions": "1. Read three poems aloud, emphasizing rhythm and sound.\n2. Review figurative language: simile, metaphor, personification, hyperbole.\n3. Introduce sound devices: alliteration, assonance, consonance, onomatopoeia.\n4. Model close reading of one poem, annotating figurative and sound devices.\n5. Discuss how these devices create mood and meaning beyond literal words.\n6. Students annotate a second poem independently.\n7. Share annotations and discuss different interpretations.\n8. Write an original poem using at least three figurative language devices and two sound devices.\n9. Workshop poems in small groups, giving specific feedback.\n10. Perform final poems aloud, emphasizing the sounds.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Poetry anthology or printed poems (3-4 poems)", "Figurative language reference chart", "Sound devices reference chart", "Highlighters (4 colors)", "Lined paper", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Poetry Analysis", "subheading": "Figurative Language and Sound Devices"},
+        {"type": "materials", "items": ["Poetry anthology or printed poems", "Figurative language reference chart", "Sound devices reference chart", "Highlighters (4 colors)", "Lined paper", "Pencils"], "setup_instructions": "Select 3-4 poems rich in figurative language and sound devices. Good choices include works by Langston Hughes, Mary Oliver, or Shel Silverstein for accessibility. Print copies for annotation."},
+        {"type": "instruction", "step": 1, "text": "Poetry is language at its most concentrated. Every word matters. Poets use figurative language to say something in an unexpected way and sound devices to make language musical. Today we learn to hear and see these techniques."},
+        {"type": "instruction", "step": 2, "text": "Figurative language review: SIMILE compares using 'like' or 'as.' METAPHOR compares directly. PERSONIFICATION gives human qualities to non-human things. HYPERBOLE exaggerates for effect. Each one asks the reader to see the world differently."},
+        {"type": "instruction", "step": 3, "text": "Sound devices: ALLITERATION repeats beginning consonant sounds ('Peter Piper picked'). ASSONANCE repeats vowel sounds ('the rain in Spain'). ONOMATOPOEIA uses words that sound like what they mean ('buzz,' 'crash,' 'whisper'). These make poetry musical."},
+        {"type": "instruction", "step": 4, "text": "Let us annotate together. Use one highlighter color for simile/metaphor, another for personification, a third for sound devices, and a fourth for words that create mood. Read the poem three times: once for meaning, once for figurative language, once for sound."},
+        {"type": "activity", "prompt": "Annotate the second poem independently, identifying every figurative language device and sound device you can find. For each one, write in the margin WHY the poet used it — what effect does it create? Then write your own poem (at least 12 lines) using at least 3 figurative language devices and 2 sound devices. Underline and label each device. Workshop your poem with a partner and revise.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Poetry teaches us to pay attention to language — to hear the music in words and see the world through fresh metaphors. Read your final poem aloud and listen to how the sound devices create rhythm and mood. Poetry is meant to be heard!", "mastery_check": "Can the student identify and interpret figurative language and sound devices in poetry and use them effectively in original writing?"}
+      ]
+    },
+    "parent_notes": "Poetry analysis develops close reading skills that transfer to all literary study. The emphasis on sound devices is especially important — reading poetry aloud reveals patterns that silent reading misses. Encourage your child to read their poems aloud at home and listen for the sounds. If they enjoy this, explore more poetry together. Langston Hughes, Mary Oliver, and Naomi Shihab Nye are excellent poets for this age group. Poetry memorization and recitation are also valuable and connect to public speaking skills.",
+    "age_adaptations": null,
+    "sort_order": 21
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 23,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Geometric Transformations — Reflections",
+    "description": "Students explore geometric reflections (flips) on the coordinate plane. They reflect shapes across the x-axis, y-axis, and other lines of symmetry, discover how coordinates change during reflection, and connect reflections to real-world symmetry.",
+    "instructions": "1. Show examples of reflections in everyday life: mirrors, water reflections, symmetrical buildings.\n2. Define reflection as a transformation that flips a shape across a line of symmetry.\n3. Demonstrate reflecting a point across the y-axis: (3, 4) becomes (-3, 4).\n4. Demonstrate reflecting a point across the x-axis: (3, 4) becomes (3, -4).\n5. State the rules: Reflecting across y-axis changes the sign of x. Reflecting across x-axis changes the sign of y.\n6. Practice reflecting simple shapes (triangles, rectangles) across both axes.\n7. Introduce reflection across other lines (y = x, vertical/horizontal lines).\n8. Students create reflected designs on the coordinate plane.\n9. Explore bilateral symmetry in nature: butterflies, leaves, faces.\n10. Discuss how reflection is used in art, architecture, and design.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Four-quadrant graph paper", "Rulers", "Colored pencils", "Small mirrors", "Tracing paper", "Coordinate transformation worksheet", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Geometric Transformations", "subheading": "Reflections on the Coordinate Plane"},
+        {"type": "materials", "items": ["Four-quadrant graph paper", "Rulers", "Colored pencils", "Small mirrors", "Tracing paper", "Coordinate transformation worksheet", "Pencils"], "setup_instructions": "Print four-quadrant graph paper. Have small mirrors available for physical demonstration. Prepare a worksheet with shapes to reflect across various lines."},
+        {"type": "instruction", "step": 1, "text": "A reflection is a mirror image across a line of symmetry. Place a mirror on your paper along the y-axis — the image you see is the reflection. In math, we use coordinates to describe exactly where each point moves."},
+        {"type": "instruction", "step": 2, "text": "Reflecting across the Y-AXIS: Every x-coordinate changes sign. Point (3, 4) becomes (-3, 4). Point (-2, 7) becomes (2, 7). The y-coordinate stays the same because you are not moving up or down."},
+        {"type": "instruction", "step": 3, "text": "Reflecting across the X-AXIS: Every y-coordinate changes sign. Point (3, 4) becomes (3, -4). Point (5, -2) becomes (5, 2). The x-coordinate stays the same because you are not moving left or right."},
+        {"type": "instruction", "step": 4, "text": "The shape does not change size or shape — only its position changes. The reflected shape is CONGRUENT to the original. Notice that text reflected in a mirror appears backwards. This is because left and right are reversed."},
+        {"type": "activity", "prompt": "Complete three tasks: (1) Plot triangle ABC with vertices A(1,2), B(4,2), C(4,6). Reflect it across the y-axis and label the new triangle A'B'C'. List the new coordinates. (2) Reflect the same triangle across the x-axis. Label it A''B''C''. (3) Create your own design in Quadrant I using at least 8 points connected in order. Reflect it across the y-axis to create a symmetrical image spanning Quadrants I and II. Color your design with matching colors on each side.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Reflections are one of three rigid transformations — next week we will explore rotations and translations. Together, these transformations are the foundation of symmetry, which appears everywhere in nature, art, and engineering.", "mastery_check": "Can the student reflect points and shapes across the x-axis and y-axis, state the coordinate rules for each, and create symmetrical designs?"}
+      ]
+    },
+    "parent_notes": "Geometric transformations bridge concrete geometry with abstract algebra — the coordinate rules for reflection are essentially simple algebraic operations on coordinates. The mirror activity makes the abstract concept tangible. At home, look for reflections in architecture, nature (butterfly wings), and art. The connection between reflections and negative numbers reinforces the integer concepts from earlier this week. This work prepares students for the more complex transformation of rotation next week.",
+    "age_adaptations": null,
+    "sort_order": 22
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 23,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "The March on Washington and the Dream of Equality",
+    "description": "Students study the 1963 March on Washington as the culmination of years of civil rights organizing. They analyze excerpts from Dr. King's 'I Have a Dream' speech, examine the coalition of organizations and people involved, and evaluate the march's impact on legislation.",
+    "instructions": "1. Set the context: By 1963, the civil rights movement had been building for nearly a decade.\n2. Discuss the coalition that organized the march: NAACP, SCLC, CORE, SNCC, and others.\n3. Examine the logistics: 250,000 people gathered at the Lincoln Memorial.\n4. Read excerpts from Dr. King's 'I Have a Dream' speech.\n5. Analyze the rhetorical techniques: repetition, allusion, metaphor, call and response.\n6. Discuss other speakers and performers at the march (Mahalia Jackson, John Lewis, A. Philip Randolph).\n7. Examine the march's impact on the Civil Rights Act of 1964.\n8. Compare the strategies of different civil rights leaders.\n9. Students write their own 'I Have a Dream' paragraph for a cause they care about.\n10. Update the civil rights timeline.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Excerpt from 'I Have a Dream' speech", "March on Washington photographs", "Civil rights timeline", "Colored markers", "Lined paper", "Pencils", "Rhetorical techniques chart"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "The March on Washington", "subheading": "The Dream of Equality — August 28, 1963"},
+        {"type": "materials", "items": ["Excerpt from 'I Have a Dream' speech", "March on Washington photographs", "Civil rights timeline", "Colored markers", "Lined paper", "Pencils"], "setup_instructions": "Print the 'I Have a Dream' excerpt at appropriate reading level. Gather photographs of the March on Washington showing the crowd size and diverse participants. Have the rhetorical techniques chart from language class available."},
+        {"type": "instruction", "step": 1, "text": "The March on Washington was not one person's idea — it was a coalition of civil rights organizations working together. A. Philip Randolph, a labor leader, first proposed a march in 1941. By 1963, the time was right, and six major organizations joined forces."},
+        {"type": "instruction", "step": 2, "text": "On August 28, 1963, approximately 250,000 people of all races gathered at the Lincoln Memorial. It was the largest demonstration in Washington's history at that time. The march demanded jobs and freedom — economic justice alongside civil rights."},
+        {"type": "instruction", "step": 3, "text": "Read Dr. King's words: 'I have a dream that my four little children will one day live in a nation where they will not be judged by the color of their skin but by the content of their character.' Notice the techniques: repetition of 'I have a dream,' references to the Declaration of Independence, vivid metaphors."},
+        {"type": "instruction", "step": 4, "text": "The march pressured Congress to act. Less than a year later, President Johnson signed the Civil Rights Act of 1964, banning discrimination in public places and employment. The Voting Rights Act followed in 1965. Organized, peaceful mass action produced real legislative change."},
+        {"type": "activity", "prompt": "Complete three tasks: (1) Annotate the 'I Have a Dream' excerpt identifying at least 5 rhetorical techniques (repetition, metaphor, allusion, etc.). Connect this to your language arts study of persuasive techniques. (2) Write your own 'I Have a Dream' paragraph about an issue you care about, using at least three of Dr. King's techniques. (3) Add the March on Washington, Civil Rights Act, and Voting Rights Act to your timeline.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The March on Washington shows the power of coalition-building and peaceful demonstration. Dr. King's speech remains one of the most famous in history because of its powerful vision of equality. Next week, we will examine how the movement continued beyond these landmark achievements.", "mastery_check": "Can the student explain the significance of the March on Washington, analyze rhetorical techniques in Dr. King's speech, and connect the march to subsequent legislation?"}
+      ]
+    },
+    "parent_notes": "This lesson connects beautifully to language arts through rhetorical analysis. Dr. King's speech uses the same persuasive techniques students studied earlier: ethos, pathos, logos, repetition, and metaphor. Having your child listen to the speech recording brings the text alive in ways that reading alone cannot. The 'I Have a Dream' writing activity encourages children to connect civil rights ideals to issues they personally care about, making history relevant and personal. This is also a good opportunity to discuss how change happens through organized, persistent effort.",
+    "age_adaptations": null,
+    "sort_order": 23
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 23,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Symbiotic Relationships in Ecosystems",
+    "description": "Students investigate the three types of symbiotic relationships: mutualism, commensalism, and parasitism. They analyze real-world examples, classify relationships, and design an experiment to observe a symbiotic relationship in their local environment.",
+    "instructions": "1. Review how organisms interact within ecosystems (competition, predation, symbiosis).\n2. Define symbiosis as a close, long-term relationship between two different species.\n3. Introduce mutualism: both species benefit (clownfish and anemone).\n4. Introduce commensalism: one benefits, the other is unaffected (barnacles on whales).\n5. Introduce parasitism: one benefits, the other is harmed (ticks on deer).\n6. Classify ten example relationships into the three categories.\n7. Discuss why symbiotic relationships are important for ecosystem stability.\n8. Examine how human activity disrupts symbiotic relationships.\n9. Students research one symbiotic relationship in depth.\n10. Design an observation plan for finding symbiosis in the local environment.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Symbiosis example cards (10 pairs)", "Classification chart", "Research materials or books", "Magnifying glasses", "Observation journal", "Colored pencils", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Symbiotic Relationships", "subheading": "Mutualism, Commensalism, and Parasitism"},
+        {"type": "materials", "items": ["Symbiosis example cards (10 pairs)", "Classification chart", "Research materials or books", "Magnifying glasses", "Observation journal", "Colored pencils", "Pencils"], "setup_instructions": "Prepare cards with symbiotic relationship examples and images. Include a mix of all three types with varying difficulty. Gather reference materials for independent research."},
+        {"type": "instruction", "step": 1, "text": "Symbiosis means 'living together.' It describes any close, long-term relationship between two different species. There are three types based on whether each species benefits, is harmed, or is unaffected."},
+        {"type": "instruction", "step": 2, "text": "MUTUALISM: Both species benefit. Example: Bees and flowers. Bees get nectar (food), flowers get pollinated (reproduction). Another example: Clownfish and sea anemones. The clownfish gets protection, the anemone gets cleaned and defended."},
+        {"type": "instruction", "step": 3, "text": "COMMENSALISM: One species benefits, the other is neither helped nor harmed. Example: Barnacles on a whale. Barnacles get free transportation to food-rich waters. The whale is unaffected. Another: Birds nesting in trees."},
+        {"type": "instruction", "step": 4, "text": "PARASITISM: One species benefits at the other's expense. Example: Ticks feed on deer blood, weakening the deer. Tapeworms live inside host animals, stealing nutrients. Parasites rarely kill their hosts — a dead host means no more food."},
+        {"type": "activity", "prompt": "Complete three tasks: (1) Sort the 10 symbiosis example cards into mutualism, commensalism, and parasitism. For each, explain your reasoning. (2) Research one symbiotic relationship in depth and create a mini-poster showing: the two species, how they interact, which type of symbiosis it is, and what would happen if the relationship was disrupted. (3) Go outside with a magnifying glass and observe for 10 minutes. Can you find any symbiotic relationships in your local environment? Record observations in your journal.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Symbiotic relationships show us that ecosystems are built on connections between species. When we damage one species, we affect its partners too. This interconnection is why conservation must consider entire ecosystems, not just individual species.", "mastery_check": "Can the student define and distinguish the three types of symbiosis, classify real-world examples, and identify potential symbiotic relationships in their local environment?"}
+      ]
+    },
+    "parent_notes": "Symbiosis is a fascinating topic that helps children see the natural world as a web of relationships. The outdoor observation activity is particularly valuable — look for lichen on trees (fungus + algae mutualism), bees on flowers, birds following lawnmowers for insects, or moss on rocks. If your child has pets, discuss the human-pet relationship — is it mutualism? The classification activity develops logical thinking as students must analyze who benefits and who is harmed in each relationship. This connects to the broader ecology theme of interconnection.",
+    "age_adaptations": null,
+    "sort_order": 24
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 23,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Documentary Photography — Telling Stories with Images",
+    "description": "Students learn the art of documentary photography, which captures real life to tell stories and raise awareness about social and environmental issues. They study the work of documentary photographers, learn composition techniques, and create a photo essay on a local environmental topic.",
+    "instructions": "1. Define documentary photography: capturing real moments to tell a story or raise awareness.\n2. Examine the work of Dorothea Lange (Great Depression), Sebastiao Salgado (environment), and modern photojournalists.\n3. Discuss the ethics of documentary photography: consent, representation, truth.\n4. Teach composition techniques: rule of thirds, leading lines, framing, perspective.\n5. Discuss how captions and sequencing create narrative in a photo essay.\n6. Students choose a local environmental topic for their photo essay.\n7. Plan a shot list: What images will tell the story?\n8. Go on a photography walk to capture images.\n9. Select and sequence the best 5-8 images.\n10. Write captions that add context and meaning to each photograph.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Camera or tablet", "Printed examples of documentary photography", "Composition guide handout", "Photo essay planning template", "Pencils", "Lined paper for captions"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Documentary Photography", "subheading": "Telling Stories with Images"},
+        {"type": "materials", "items": ["Camera or tablet", "Printed examples of documentary photography", "Composition guide handout", "Photo essay planning template", "Pencils"], "setup_instructions": "Gather examples of documentary photography appropriate for the age group. Prepare composition guide with rule of thirds grid. Charge cameras or tablets. Print photo essay planning templates."},
+        {"type": "instruction", "step": 1, "text": "Documentary photography captures real life — not posed or staged. It tells stories, preserves history, and can inspire action. Dorothea Lange's Depression-era photographs helped pass laws to help migrant workers. Images have power."},
+        {"type": "instruction", "step": 2, "text": "Composition makes the difference between a snapshot and a photograph. RULE OF THIRDS: Imagine your frame divided into a 3x3 grid. Place key subjects along the lines or at intersections. LEADING LINES: Use paths, fences, or rivers to guide the viewer's eye."},
+        {"type": "instruction", "step": 3, "text": "Ethics matter: Always ask permission before photographing people. Represent your subject honestly — do not manipulate images to change the story. Your goal is truth, not drama. A good documentary photographer respects their subjects."},
+        {"type": "instruction", "step": 4, "text": "A photo essay is a series of photographs that tell a story together. Like a written essay, it has a beginning (establishing shot), middle (details and evidence), and end (closing image). Captions provide context the image alone cannot convey."},
+        {"type": "activity", "prompt": "Create a photo essay on a local environmental topic (a park, garden, stream, construction site, recycling center, or your own yard). Plan your shot list first: What story do you want to tell? Take at least 15 photographs using composition techniques. Select your best 5-8 images and arrange them in narrative order. Write a caption for each photo (1-2 sentences) that adds information beyond what the viewer can see. Give your photo essay a title.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Documentary photography combines artistic vision with social purpose. Your photo essays document something real about your environment and your perspective. Share them with your family and discuss: What story did you choose to tell, and why?", "mastery_check": "Can the student apply composition techniques, create a coherent photo essay with narrative structure, and write informative captions?"}
+      ]
+    },
+    "parent_notes": "Documentary photography is a powerful medium for developing visual literacy, critical thinking, and environmental awareness. The composition techniques (rule of thirds, leading lines) apply to all photography and visual art. The ethics discussion is age-appropriate and important — children should learn to be thoughtful about how they represent others. If your child does not have access to a camera, a smartphone works perfectly. Consider displaying their photo essay at home or sharing it with family as a finished artistic work.",
+    "age_adaptations": null,
+    "sort_order": 25
+  }
+]

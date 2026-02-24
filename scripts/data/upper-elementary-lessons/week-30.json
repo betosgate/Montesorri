@@ -1,0 +1,702 @@
+[
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 30,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Research Capstone — Gathering and Evaluating Sources",
+    "description": "Students deepen their research capstone by locating, evaluating, and organizing primary and secondary sources. They learn to distinguish credible sources from unreliable ones and practice note-taking with proper citation.",
+    "instructions": "1. Review the research plan and thesis statement from the previous week.\n2. Discuss the difference between primary sources (firsthand accounts, original documents) and secondary sources (textbooks, encyclopedias, analyses).\n3. Introduce the CRAAP test for evaluating sources: Currency, Relevance, Authority, Accuracy, Purpose.\n4. Model evaluating two sources — one credible, one questionable — using the CRAAP criteria.\n5. Guide students to locate at least three new sources for their capstone topic.\n6. Practice note-taking using the Cornell method: main ideas on the right, key words on the left, summary at the bottom.\n7. Demonstrate how to paraphrase effectively without plagiarizing.\n8. Students create source cards with bibliographic information for each source.\n9. Organize notes by subtopic, matching them to the outline sections.\n10. Write a brief reflection on the strongest piece of evidence found today.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Research journal", "Index cards for source tracking", "Access to library or reference materials", "CRAAP test evaluation sheet", "Cornell notes template", "Pencils and highlighters"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Research Capstone", "subheading": "Gathering and Evaluating Sources"},
+        {"type": "materials", "items": ["Research journal", "Index cards", "Library or reference materials", "CRAAP test sheet", "Cornell notes template"], "setup_instructions": "Print the CRAAP test evaluation sheet and Cornell notes templates. Gather available reference books and ensure internet access for online research."},
+        {"type": "instruction", "step": 1, "text": "Pull out your research plan and thesis statement. Today you are a detective gathering evidence. Every source you find should help prove, nuance, or add depth to your thesis."},
+        {"type": "instruction", "step": 2, "text": "Primary sources come from the time period or event itself — letters, photographs, interviews, data. Secondary sources analyze or interpret primary sources. Both are valuable, but knowing the difference helps you think critically."},
+        {"type": "instruction", "step": 3, "text": "Use the CRAAP test on every source: Is it Current? Relevant to your thesis? Written by an Authority? Accurate and verifiable? What is its Purpose — to inform, persuade, or sell?"},
+        {"type": "instruction", "step": 4, "text": "Take notes using the Cornell method. Write the main idea on the right side, key vocabulary on the left, and a summary at the bottom. Always note the page number or URL so you can find the information again."},
+        {"type": "activity", "prompt": "Locate at least three strong sources for your capstone project. Evaluate each using the CRAAP test. Take Cornell notes on the most important information from each source and create a source card with full bibliographic details.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Good researchers do not just find sources — they evaluate them critically. The notes and source cards you created today will become the foundation of your written report. Keep them organized by subtopic.", "mastery_check": "Can the student evaluate sources using the CRAAP test, take organized notes using the Cornell method, and create accurate source cards?"}
+      ]
+    },
+    "parent_notes": "Source evaluation is one of the most important skills your child will learn. Help them access a variety of source types — library books, reputable websites, interviews with knowledgeable adults, or documentary videos. If using the internet, guide them toward .edu, .gov, and established organization sites. The CRAAP test gives them a concrete framework rather than just saying 'make sure it is reliable.' Keep all source cards and notes together in the research journal.",
+    "age_adaptations": null,
+    "sort_order": 1
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 30,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Statistics in Practice — Collecting Data and Calculating Central Tendency",
+    "description": "Students explore the three measures of central tendency: mean, median, and mode. They calculate each using real-world data sets and discuss when each measure is most appropriate for describing data.",
+    "instructions": "1. Begin by collecting real data: have the student survey family members about a question (e.g., number of books read this month, hours of sleep last night).\n2. Define mean (average): add all values and divide by the number of values.\n3. Calculate the mean of the collected data set step by step.\n4. Define median: the middle value when data is arranged in order.\n5. Practice finding the median with both odd and even numbers of data points.\n6. Define mode: the most frequently occurring value.\n7. Find the mode of several data sets, including sets with no mode and multiple modes.\n8. Compare mean, median, and mode for the same data set — discuss why they might differ.\n9. Present scenarios where each measure is most useful (mean for grades, median for house prices, mode for shoe sizes).\n10. Create a reference chart showing all three measures with examples.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Graph paper", "Calculator", "Colored pencils", "Data collection survey form", "Number line", "Whiteboard and markers"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Introduction to Statistics", "subheading": "Mean, Median, and Mode"},
+        {"type": "materials", "items": ["Graph paper", "Calculator", "Colored pencils", "Survey form", "Number line", "Whiteboard"], "setup_instructions": "Prepare a simple survey question. Have the calculator ready for mean calculations. Draw a large number line on the whiteboard."},
+        {"type": "instruction", "step": 1, "text": "Statistics helps us make sense of data. Today you will learn three ways to find the 'center' of a data set. Let's start by collecting some real data — survey your family about how many books they read last month."},
+        {"type": "instruction", "step": 2, "text": "The MEAN is the average. Add up all the values and divide by how many values there are. If the data is 3, 5, 7, 5, 10, the mean is (3+5+7+5+10) / 5 = 30 / 5 = 6."},
+        {"type": "instruction", "step": 3, "text": "The MEDIAN is the middle value. First, arrange the data in order: 3, 5, 5, 7, 10. The middle number is 5. If there is an even number of values, average the two middle numbers."},
+        {"type": "instruction", "step": 4, "text": "The MODE is the most common value. In our data set 3, 5, 5, 7, 10, the mode is 5 because it appears twice. A data set can have no mode, one mode, or multiple modes."},
+        {"type": "activity", "prompt": "Calculate the mean, median, and mode for these five data sets: (1) Test scores: 85, 92, 78, 92, 88, 95, 72. (2) Daily temperatures: 68, 72, 71, 75, 68, 73, 68. (3) Allowance amounts: $5, $10, $8, $5, $12, $5, $10. (4) Pages read: 45, 32, 67, 51, 42, 38. (5) Your family survey data. For each, explain which measure best represents the data and why.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Mean, median, and mode are three different lenses for looking at data. The mean uses every value but can be thrown off by extremes. The median resists outliers. The mode shows what is most common. Choosing the right measure depends on what question you are answering.", "mastery_check": "Can the student correctly calculate mean, median, and mode for a data set and explain when each measure is most appropriate?"}
+      ]
+    },
+    "parent_notes": "Statistics is deeply practical. Point out mean, median, and mode in everyday contexts: batting averages (mean), median household income in news articles, and mode in clothing sizes. The concept of which measure best represents data is sophisticated — your child may need to see multiple examples before the distinction feels natural. Use a calculator for the mean calculations so the focus stays on understanding, not arithmetic.",
+    "age_adaptations": null,
+    "sort_order": 2
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 30,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Civic Engagement — How Citizens Shape Their Communities",
+    "description": "Students learn about the ways ordinary citizens participate in democracy beyond voting. They explore community organizing, petitions, town hall meetings, volunteerism, and letter-writing campaigns as tools for civic engagement.",
+    "instructions": "1. Define civic engagement: the ways people participate in the life of their community to improve conditions or help shape the future.\n2. Brainstorm all the ways citizens can make their voices heard (voting, volunteering, protesting, writing to representatives, serving on juries, attending town meetings).\n3. Read examples of young people who have made a difference in their communities.\n4. Examine the structure of local government: mayor, city council, school board, county officials.\n5. Discuss the concept of representation — how elected officials are supposed to reflect the will of the people.\n6. Model how to write a letter to a local representative about an issue.\n7. Identify a local or school-related issue the student cares about.\n8. Students draft a letter to an appropriate official about their chosen issue.\n9. Discuss the responsibilities that come with rights in a democracy.\n10. Create a 'Civic Action Plan' poster listing five ways to be an engaged citizen this year.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Examples of youth civic engagement", "Local government organizational chart", "Letter-writing template", "Poster paper and markers", "Envelopes and stamps (optional for mailing)", "Current local newspaper or news source"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Civic Engagement", "subheading": "How Citizens Shape Their Communities"},
+        {"type": "materials", "items": ["Youth civic engagement examples", "Local government chart", "Letter-writing template", "Poster paper and markers", "Local news source"], "setup_instructions": "Research your local government structure and find the names and addresses of local representatives. Print the letter-writing template and gather examples of youth civic action."},
+        {"type": "instruction", "step": 1, "text": "Civic engagement means being an active participant in your community. Even though you cannot vote yet, there are many powerful ways to make a difference right now."},
+        {"type": "instruction", "step": 2, "text": "Look at your local government chart. Your mayor, city council members, and school board members make decisions that affect you every day — from playground equipment to school start times. They want to hear from community members, including young people."},
+        {"type": "instruction", "step": 3, "text": "Read about these young change-makers: kids who started recycling programs, organized food drives, advocated for safer crosswalks, or wrote to officials about issues they cared about. Age is not a barrier to civic engagement."},
+        {"type": "instruction", "step": 4, "text": "A strong letter to a representative includes: a polite greeting, a clear statement of the issue, why it matters to you personally, a specific request, and a respectful closing. Let's look at a model letter together."},
+        {"type": "activity", "prompt": "Identify an issue in your community or school that you care about. Draft a formal letter to the appropriate local official explaining the issue, why it matters, and what action you would like to see. Then create a Civic Action Plan poster listing five specific ways you can be an engaged citizen this year.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Democracy only works when citizens participate. You do not have to wait until you are 18 to make a difference. Your voice, your ideas, and your actions matter right now. Keep your Civic Action Plan visible as a reminder.", "mastery_check": "Can the student identify multiple forms of civic engagement, explain the structure of local government, and write a persuasive letter to a representative?"}
+      ]
+    },
+    "parent_notes": "Civic engagement is a cornerstone of Montessori education's emphasis on developing responsible community members. If your child writes a letter they are proud of, consider actually mailing it — receiving a response from a real official is incredibly motivating. Keep the lesson nonpartisan; focus on the process of civic engagement rather than specific political positions. This lesson pairs naturally with the history timeline project, showing how civic engagement has evolved over time.",
+    "age_adaptations": null,
+    "sort_order": 3
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "geography",
+    "week_number": 30,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Digital Mapping — Using Technology to Understand Our World",
+    "description": "Students learn to use digital mapping tools to explore geographic data layers including population density, climate patterns, and land use. They compare digital maps with traditional paper maps and discuss the advantages of geographic information systems.",
+    "instructions": "1. Compare a paper map and a digital map of the same area — discuss differences in detail, interactivity, and data.\n2. Introduce Geographic Information Systems (GIS): technology that layers different types of data onto maps.\n3. Explore a free digital mapping tool (Google Earth, National Geographic MapMaker, or similar).\n4. Demonstrate how to add layers: satellite imagery, terrain, borders, roads, population density.\n5. Practice measuring distances and areas using digital tools.\n6. Investigate how land use in your area has changed over time using historical satellite imagery.\n7. Create a multi-layer digital map of a chosen region showing at least three data layers.\n8. Compare population density maps with physical geography maps — discuss correlations.\n9. Discuss how digital mapping is used professionally: urban planning, disaster response, environmental monitoring.\n10. Reflect on what digital maps reveal that paper maps cannot.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Computer or tablet with internet access", "Paper map for comparison", "Atlas", "Printed screenshots for annotation", "Colored pencils", "Digital mapping tool access (Google Earth or similar)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Digital Mapping", "subheading": "Using Technology to Understand Our World"},
+        {"type": "materials", "items": ["Computer or tablet", "Paper map for comparison", "Atlas", "Printed screenshots", "Colored pencils"], "setup_instructions": "Ensure internet access and test the digital mapping tool beforehand. Have a paper map of your local area ready for comparison. Bookmark helpful map layers."},
+        {"type": "instruction", "step": 1, "text": "Lay a paper map next to a digital map of the same area. What can you do with the digital map that you cannot do with paper? You can zoom, switch between satellite and road view, add data layers, and measure distances precisely."},
+        {"type": "instruction", "step": 2, "text": "GIS stands for Geographic Information Systems. It is like stacking transparent maps on top of each other — one showing roads, one showing rivers, one showing population, one showing temperature. Each layer tells part of the story."},
+        {"type": "instruction", "step": 3, "text": "Use the digital mapping tool to find your home. Now zoom out. Switch between satellite view and map view. Turn on the terrain layer. Each perspective reveals different information about the same place."},
+        {"type": "instruction", "step": 4, "text": "Geographers, city planners, and emergency responders use digital mapping every day. When a natural disaster strikes, GIS helps teams know where people are, which roads are blocked, and where to send help first."},
+        {"type": "activity", "prompt": "Create a multi-layer digital map study of a region you have studied this year. Include at least three data layers (population density, physical features, and one of your choice). Take screenshots and annotate them to explain what each layer reveals. Write a paragraph comparing what your digital map shows versus what a paper map of the same area would show.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Digital mapping has transformed how we understand our world. By layering data, we can see connections that would be invisible on a single paper map — like why cities grow where rivers meet, or why certain areas are vulnerable to flooding.", "mastery_check": "Can the student navigate a digital mapping tool, add and interpret multiple data layers, and explain the advantages of GIS over traditional maps?"}
+      ]
+    },
+    "parent_notes": "This lesson requires internet access and a computer or tablet. Google Earth is free and excellent for this purpose. If internet access is limited, print screenshots of different map layers beforehand. Let your child explore freely — digital mapping naturally encourages curiosity. The historical satellite imagery feature in Google Earth is especially powerful for showing how your own neighborhood has changed over decades. This skill connects to the capstone atlas project coming in later weeks.",
+    "age_adaptations": null,
+    "sort_order": 4
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 30,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Holes — Chapters 1-10: Fate, Friendship, and Camp Green Lake",
+    "description": "Students begin reading 'Holes' by Louis Sachar, meeting Stanley Yelnats as he arrives at Camp Green Lake, a juvenile detention facility where boys dig holes in a dried-up lake bed. They explore themes of fate, injustice, and the power of storytelling.",
+    "instructions": "1. Introduce the book and author. Louis Sachar won the Newbery Medal for 'Holes.'\n2. Read chapters 1-10 aloud, pausing to discuss key moments.\n3. Discuss the setting: Why is a camp with no lake called Camp Green Lake? What does the harsh landscape suggest?\n4. Examine Stanley's character: How does he respond to being wrongfully convicted? What does this reveal about him?\n5. Introduce the concept of an unreliable family curse — discuss whether Stanley's family is truly cursed or simply unlucky.\n6. Note the dual timeline structure: present day at the camp and flashbacks to Stanley's great-great-grandfather.\n7. Discuss the irony in the names and situations Sachar creates.\n8. Have students predict what the Warden is really looking for.\n9. Vocabulary work: desolate, juvenile, perseverance, excavate, convicted.\n10. Students write a journal entry from Stanley's perspective after his first day of digging.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Holes by Louis Sachar", "Reading journal", "Vocabulary notebook", "Map of Texas for setting context", "Character tracking chart", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Holes by Louis Sachar", "subheading": "Chapters 1-10: Fate, Friendship, and Camp Green Lake"},
+        {"type": "materials", "items": ["Holes by Louis Sachar", "Reading journal", "Vocabulary notebook", "Map of Texas", "Character tracking chart"], "setup_instructions": "Have the book ready. Prepare a character tracking chart with columns for name, nickname, physical description, and personality traits."},
+        {"type": "instruction", "step": 1, "text": "Louis Sachar wrote 'Holes' as a puzzle — the pieces do not fit together until the very end. As we read, keep track of every detail, because what seems random now will connect later in surprising ways."},
+        {"type": "instruction", "step": 2, "text": "Pay attention to the setting. Camp Green Lake has no lake and nothing is green. Sachar uses irony — saying one thing but meaning the opposite — to create humor and make us think critically about what we are reading."},
+        {"type": "instruction", "step": 3, "text": "Stanley Yelnats is accused of stealing shoes he did not steal. Think about how you would feel in his situation. Notice how Stanley handles injustice — he does not rage or give up. What does this tell us about his character?"},
+        {"type": "instruction", "step": 4, "text": "The story shifts between the present and the past. Stanley's great-great-grandfather Elya Yelnats made a promise to a fortune teller in Latvia. Could a broken promise from over a century ago really affect Stanley today? Keep this question in mind as we read."},
+        {"type": "activity", "prompt": "Write a journal entry from Stanley's perspective after his first full day of digging holes at Camp Green Lake. Include his physical exhaustion, his thoughts about the other boys, his feelings about being there for a crime he did not commit, and his thoughts about his family's supposed curse. Use details from the text.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Sachar has introduced a mystery wrapped in a story about a boy digging holes. Every character, every flashback, every detail matters. As we continue reading, be a detective — look for connections between the past and present.", "mastery_check": "Can the student identify the main characters, explain the dual timeline structure, and discuss the themes of fate and injustice introduced in the opening chapters?"}
+      ]
+    },
+    "parent_notes": "Holes is a masterfully constructed novel that rewards careful reading. The humor makes it engaging, but the themes of injustice, racism (explored later), and the power of friendship are profound. Read along with your child if possible — the story is genuinely enjoyable for adults too. Encourage your child to resist looking ahead; Sachar designed the revelations to unfold gradually. The Texas setting and Camp Green Lake are fictional but grounded in real geography and history.",
+    "age_adaptations": null,
+    "sort_order": 5
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 30,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Research Capstone — Drafting the Introduction and First Body Section",
+    "description": "Students begin drafting their research capstone paper, focusing on crafting a compelling introduction with a hook, context, and thesis statement, then developing the first body section with evidence from their sources.",
+    "instructions": "1. Review the elements of a strong introduction: hook, background context, and thesis statement.\n2. Examine three model introductions from different types of writing.\n3. Brainstorm hook ideas: a startling fact, a question, a brief anecdote, or a vivid description.\n4. Draft an introduction paragraph, experimenting with different hooks.\n5. Transition to the first body section of the outline.\n6. Review the topic sentence concept: one sentence that states the main idea of the paragraph.\n7. Model integrating evidence: introduce the source, present the quote or paraphrase, explain how it supports the argument.\n8. Students draft the first body section using at least two sources.\n9. Read drafts aloud to check for flow and clarity.\n10. Set writing goals for the next drafting session.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Research journal and notes", "Source cards", "Lined paper or computer", "Model introduction examples", "Transition words reference sheet", "Pencils and erasers"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Research Capstone", "subheading": "Drafting Your Introduction and First Section"},
+        {"type": "materials", "items": ["Research journal and notes", "Source cards", "Lined paper or computer", "Model introductions", "Transition words sheet"], "setup_instructions": "Lay out all research notes organized by subtopic. Have the outline visible for reference. Print model introduction examples."},
+        {"type": "instruction", "step": 1, "text": "Your introduction is your reader's first impression. It needs three parts: a hook that grabs attention, background context that sets the scene, and your thesis statement that announces your argument."},
+        {"type": "instruction", "step": 2, "text": "Which hook works best for your topic? A startling statistic? A thought-provoking question? A brief story? Try writing two different hooks and choose the stronger one."},
+        {"type": "instruction", "step": 3, "text": "When you use evidence in a body paragraph, follow the sandwich method: (1) introduce the source, (2) present the evidence (quote or paraphrase), (3) explain how it supports your point. Never drop in a quote without context."},
+        {"type": "instruction", "step": 4, "text": "Read your draft aloud. If you stumble over a sentence, it probably needs revision. Does each sentence connect logically to the next? Use transition words like 'furthermore,' 'in addition,' and 'as a result.'"},
+        {"type": "activity", "prompt": "Draft your complete introduction paragraph and first body section. Your introduction should include a hook, background context, and your thesis statement. Your body section should have a topic sentence, at least two pieces of evidence from different sources, and your analysis explaining what the evidence means.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You have begun transforming your research into a real paper. Writing a first draft is about getting your ideas on paper — perfection comes later during revision. Next session, you will continue drafting the remaining body sections.", "mastery_check": "Can the student write an introduction with a hook, context, and thesis, and draft a body section that integrates evidence from multiple sources?"}
+      ]
+    },
+    "parent_notes": "First drafts are supposed to be messy — resist the urge to correct everything. The goal is getting ideas on paper. If your child is struggling to start, have them talk through their introduction verbally first, then write down what they said. The 'evidence sandwich' method (introduce, present, explain) gives a concrete structure for integrating sources. If typing, remind them to save frequently. This draft will be revised and polished in later weeks.",
+    "age_adaptations": null,
+    "sort_order": 6
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 30,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Range and Outliers — Understanding Data Spread",
+    "description": "Students learn to calculate the range of a data set and identify outliers that can skew statistical measures. They explore how removing outliers affects the mean, median, and mode, building critical thinking about data interpretation.",
+    "instructions": "1. Review mean, median, and mode from the previous lesson.\n2. Introduce range: the difference between the highest and lowest values in a data set.\n3. Calculate the range for several data sets.\n4. Define outlier: a value that is significantly different from the rest of the data.\n5. Present a data set with an outlier and calculate mean, median, and mode with and without it.\n6. Discuss how outliers affect the mean dramatically but barely change the median.\n7. Explore real-world scenarios with outliers: one billionaire in a small town changes the 'average' income.\n8. Practice identifying outliers in five different data sets.\n9. Discuss when it is appropriate to exclude outliers and when they contain important information.\n10. Create a summary chart comparing how outliers affect each measure of central tendency.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Graph paper", "Calculator", "Number line", "Data set cards", "Colored pencils", "Whiteboard and markers"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Range and Outliers", "subheading": "Understanding Data Spread"},
+        {"type": "materials", "items": ["Graph paper", "Calculator", "Number line", "Data set cards", "Colored pencils", "Whiteboard"], "setup_instructions": "Prepare five data sets on cards, each with at least one potential outlier. Have the number line visible on the whiteboard."},
+        {"type": "instruction", "step": 1, "text": "The RANGE tells you how spread out your data is. Subtract the smallest value from the largest. For the data set 12, 15, 18, 22, 45, the range is 45 - 12 = 33. A large range suggests wide variation in the data."},
+        {"type": "instruction", "step": 2, "text": "An OUTLIER is a value that does not fit with the rest. In our data set 12, 15, 18, 22, 45, the value 45 seems much higher than the others. Outliers can happen due to errors, unusual circumstances, or natural variation."},
+        {"type": "instruction", "step": 3, "text": "Watch what happens to the mean. With the outlier: (12+15+18+22+45)/5 = 22.4. Without it: (12+15+18+22)/4 = 16.75. The outlier raised the mean by almost 6! But the median barely changes."},
+        {"type": "instruction", "step": 4, "text": "Here is a real-world example: If a small town of 100 people has an average income of $50,000 and a billionaire moves in, the average income jumps to nearly $10 million. Does the town suddenly become wealthy? No — the median is a better measure here."},
+        {"type": "activity", "prompt": "For each of five data sets: (1) Find the range. (2) Identify any outliers. (3) Calculate the mean, median, and mode WITH the outlier. (4) Calculate them WITHOUT the outlier. (5) Explain which measure best represents the data in each case. Data sets: A) 78, 82, 85, 81, 79, 45; B) 100, 98, 95, 102, 97, 150; C) 3.2, 3.5, 3.1, 3.4, 3.3, 8.7; D) 25, 28, 30, 27, 26, 29; E) 1000, 1100, 950, 1050, 200, 1025.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Range and outliers help you understand the full story behind data. An outlier is not always a mistake — sometimes it is the most interesting part of the data. The key is knowing how outliers affect your statistical measures so you can choose the right one for your purpose.", "mastery_check": "Can the student calculate range, identify outliers, and explain how outliers affect mean, median, and mode differently?"}
+      ]
+    },
+    "parent_notes": "This lesson develops critical thinking about data — a skill that is increasingly important in a data-driven world. Help your child find real-world examples of outliers in news reports or sports statistics. The key insight is that the mean is sensitive to outliers while the median is resistant. This is why news reports about income or housing prices usually use the median rather than the mean. Encourage your child to ask 'Which average are they using?' when they see statistics in the media.",
+    "age_adaptations": null,
+    "sort_order": 7
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 30,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "The Digestive System — Enzymes, Peristalsis, and the Stomach",
+    "description": "Students explore the first stages of the digestive system, tracing the path of food from the mouth through the esophagus to the stomach. They learn about mechanical and chemical digestion, enzymes, and peristalsis through hands-on demonstrations.",
+    "instructions": "1. Ask students what they think happens to food after they swallow it.\n2. Introduce the digestive system as a long tube from mouth to anus — approximately 30 feet in an adult.\n3. Begin with the mouth: teeth for mechanical digestion, saliva for chemical digestion.\n4. Demonstrate the role of salivary amylase: chew a plain cracker for two minutes and notice it starts to taste sweet as starch converts to sugar.\n5. Trace the food's path to the pharynx and explain the epiglottis's role in directing food to the esophagus.\n6. Demonstrate peristalsis using a tennis ball in a stocking — squeeze behind the ball to push it forward.\n7. Describe the stomach: hydrochloric acid, pepsin, and churning action.\n8. Students label a diagram of the digestive system from mouth to stomach.\n9. Discuss the stomach lining's protective mucus and what happens when it breaks down (ulcers).\n10. Journal entry: trace a meal from mouth to stomach, describing each step.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Digestive system diagram", "Plain crackers for enzyme demonstration", "Tennis ball and knee-high stocking for peristalsis model", "Colored pencils for labeling", "Science journal", "Measuring tape to show digestive tract length"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "The Digestive System", "subheading": "From Mouth to Stomach"},
+        {"type": "materials", "items": ["Digestive system diagram", "Plain crackers", "Tennis ball and stocking", "Colored pencils", "Science journal", "Measuring tape"], "setup_instructions": "Print a blank digestive system diagram for labeling. Have the cracker and tennis ball demonstration materials ready. Measure and mark 30 feet of string to show digestive tract length."},
+        {"type": "instruction", "step": 1, "text": "Your digestive system is an amazing chemical factory. It takes something as complex as a sandwich and breaks it down into molecules your cells can use. The whole tract is about 30 feet long — let's see how far that is!"},
+        {"type": "instruction", "step": 2, "text": "Digestion starts in your mouth with two types of breakdown: MECHANICAL (your teeth crush and grind) and CHEMICAL (enzymes in saliva start dissolving starches). Chew a plain cracker for two minutes — it starts tasting sweet because the enzyme amylase is turning starch into sugar."},
+        {"type": "instruction", "step": 3, "text": "After swallowing, food travels down the esophagus. It does not just fall — muscles squeeze in waves called PERISTALSIS. That is why astronauts can eat upside down! Watch this demonstration with the tennis ball and stocking."},
+        {"type": "instruction", "step": 4, "text": "The stomach is like a churning acid bath. Hydrochloric acid is so strong it could dissolve metal, and the enzyme pepsin breaks down proteins. A thick mucus lining protects the stomach walls from digesting themselves."},
+        {"type": "activity", "prompt": "Label the digestive system diagram from mouth to stomach, including teeth, salivary glands, epiglottis, esophagus, and stomach with its three layers. Then write a detailed journal entry tracing your lunch from the first bite through the stomach, describing every mechanical and chemical process that occurs.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Today we followed food from mouth to stomach. Next time, we will continue the journey through the small intestine, where the real magic of nutrient absorption happens. Think about this: your body performs this incredible chemical process automatically, thousands of times in your lifetime.", "mastery_check": "Can the student trace the digestive path from mouth to stomach, distinguish between mechanical and chemical digestion, and explain the roles of enzymes, peristalsis, and stomach acid?"}
+      ]
+    },
+    "parent_notes": "The hands-on demonstrations make this lesson memorable. The cracker experiment genuinely works — salivary amylase breaks starch into maltose, which tastes sweet. The peristalsis demonstration with the tennis ball and stocking is a powerful visual. If your child is squeamish about body functions, frame it as engineering — the digestive system is an elegant machine. This is part of a three-week unit on body systems that prepares students for the science fair.",
+    "age_adaptations": null,
+    "sort_order": 8
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 30,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Student-Directed Art Project — Choosing Your Medium and Message",
+    "description": "Students begin a multi-week student-directed art project by selecting their medium, subject, and artistic message. They research artists who work in their chosen medium and create a project proposal with sketches and a timeline.",
+    "instructions": "1. Discuss the concept of student-directed learning: you choose the medium, subject, and meaning.\n2. Present the options: painting, drawing, sculpture, mixed media, photography, digital art, textile art, or printmaking.\n3. Students reflect on which art forms they have most enjoyed this year.\n4. Research at least two artists who work in the chosen medium.\n5. Brainstorm possible subjects and messages — what do you want your art to say?\n6. Create three thumbnail sketches exploring different compositions.\n7. Write an artist's statement draft explaining the intended meaning.\n8. List materials needed and create a three-week timeline.\n9. Peer discussion: share proposals and give constructive feedback.\n10. Finalize the project proposal and begin gathering materials.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Sketchbook", "Pencils and erasers", "Art books or internet access for research", "Project proposal template", "Examples of various art media", "Timeline planning sheet"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Student-Directed Art Project", "subheading": "Choosing Your Medium and Message"},
+        {"type": "materials", "items": ["Sketchbook", "Pencils", "Art research materials", "Project proposal template", "Examples of various media"], "setup_instructions": "Gather examples of different art media for inspiration. Print the project proposal template. Have art books or internet access available for researching artists."},
+        {"type": "instruction", "step": 1, "text": "For the next three weeks, YOU are the artist in charge. You choose what to create, what medium to use, and what message your art communicates. This is your capstone art project for the year."},
+        {"type": "instruction", "step": 2, "text": "Review the media options: painting (watercolor, acrylic, tempera), drawing (pencil, charcoal, pastel), sculpture (clay, wire, papier-mache), mixed media, photography, or textile art. Which one excites you most?"},
+        {"type": "instruction", "step": 3, "text": "Research two artists who work in your chosen medium. What subjects do they explore? What techniques do they use? How does their work make you feel? Let their work inspire but not dictate your own."},
+        {"type": "instruction", "step": 4, "text": "Every meaningful artwork has a message or feeling behind it. What do you want to communicate? It could be an emotion, an idea, a story, or a response to something you have learned this year."},
+        {"type": "activity", "prompt": "Create your project proposal: (1) State your chosen medium and why. (2) Describe your subject and message. (3) Name two artists who inspire this project. (4) Draw three thumbnail sketches exploring different compositions. (5) Draft an artist's statement. (6) List needed materials. (7) Create a three-week timeline.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You now have a plan for creating something meaningful. Professional artists always begin with research, planning, and sketching before creating their final work. Next session, you will begin the actual creation process.", "mastery_check": "Can the student articulate their chosen medium, subject, and message, and create a realistic project proposal with thumbnail sketches and a timeline?"}
+      ]
+    },
+    "parent_notes": "Student-directed projects are a hallmark of Montessori education. Your role is to facilitate, not direct. Help your child access the materials they need but let them make artistic decisions. If they are stuck choosing a medium, remind them which art activities brought them the most joy this year. The proposal and timeline teach project management skills alongside artistic expression. This project will culminate in a piece for the end-of-year art show.",
+    "age_adaptations": null,
+    "sort_order": 9
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "practical_life",
+    "week_number": 30,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Personal Finance — Budgeting and Saving",
+    "description": "Students learn fundamental personal finance skills including income, expenses, budgeting, and saving. They create a sample monthly budget, distinguish between needs and wants, and explore the concept of compound interest through a savings simulation.",
+    "instructions": "1. Discuss where money comes from: wages, allowance, gifts, entrepreneurship.\n2. Define income and expenses. Categorize expenses as needs (food, shelter, utilities) or wants (entertainment, toys, treats).\n3. Present a sample monthly income scenario appropriate for a young person (allowance plus small earnings).\n4. List typical expenses and categorize each as need or want.\n5. Introduce the 50/30/20 budgeting rule: 50% needs, 30% wants, 20% savings.\n6. Students create a monthly budget using the sample income.\n7. Introduce saving and compound interest: money grows when it earns interest on interest.\n8. Simulate compound interest over 5 years using a simple calculation.\n9. Discuss short-term savings goals versus long-term savings goals.\n10. Students set a personal savings goal and create a plan to reach it.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Budget worksheet template", "Calculator", "Play money for simulation", "Savings goal planning sheet", "Colored pencils for charts", "Graph paper"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Personal Finance", "subheading": "Budgeting and Saving"},
+        {"type": "materials", "items": ["Budget worksheet", "Calculator", "Play money", "Savings goal sheet", "Colored pencils", "Graph paper"], "setup_instructions": "Print budget worksheets and savings goal planning sheets. Set up play money in different denominations. Have the calculator ready for compound interest calculations."},
+        {"type": "instruction", "step": 1, "text": "Money management is a life skill that many adults wish they had learned earlier. Today you will learn to create a budget — a plan for how to spend and save your money wisely."},
+        {"type": "instruction", "step": 2, "text": "First, know the difference between NEEDS and WANTS. Needs are things you must have to survive and be safe: food, shelter, clothing. Wants are things that are nice to have but not essential: video games, candy, new shoes when your current ones still fit."},
+        {"type": "instruction", "step": 3, "text": "The 50/30/20 rule is a simple budgeting framework: spend 50% on needs, up to 30% on wants, and save at least 20%. If you earn $50/month, that means $25 for needs, $15 for wants, and $10 into savings."},
+        {"type": "instruction", "step": 4, "text": "Here is the magic of saving: COMPOUND INTEREST. If you save $10/month at 5% interest, after one year you have $123. But the interest earns interest too, so after 5 years you have much more than 5 x $123. This is how small amounts grow into large ones over time."},
+        {"type": "activity", "prompt": "Create a detailed monthly budget based on a $60 monthly income. Categorize all expenses as needs or wants. Apply the 50/30/20 rule. Then set a personal savings goal (something you want to buy or save for) and calculate how many months of saving it will take to reach it. Create a graph showing your savings growing month by month.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Understanding budgeting and saving gives you power over your financial future. Even small amounts saved consistently add up over time. The habits you build now will serve you for the rest of your life.", "mastery_check": "Can the student create a budget using the 50/30/20 rule, distinguish needs from wants, and calculate a savings plan with a specific goal?"}
+      ]
+    },
+    "parent_notes": "Financial literacy is often overlooked in education but is critical for life success. If your child receives an allowance, help them apply this lesson in real life. Open a savings account if appropriate and let them track their balance. The compound interest concept may need simplified examples — a jar of marbles that 'grows' can make it concrete. Avoid making money a source of stress; frame this as empowering knowledge that gives them choices.",
+    "age_adaptations": null,
+    "sort_order": 10
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 30,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Research Capstone — Drafting Body Sections and Building Arguments",
+    "description": "Students continue drafting their research capstone, focusing on the remaining body sections. They practice building coherent arguments with evidence, using transitions to connect ideas, and maintaining a consistent academic tone throughout.",
+    "instructions": "1. Review the introduction and first body section from the previous session.\n2. Read the draft aloud to check for flow and identify where the next section should begin.\n3. Discuss transitions between sections: how to connect ideas smoothly.\n4. Present a list of academic transition phrases: 'In contrast,' 'Building on this evidence,' 'A different perspective shows.'\n5. Students draft the second body section, incorporating at least two sources.\n6. Introduce counterarguments: addressing what someone who disagrees might say.\n7. Model how to acknowledge a counterargument and then refute it.\n8. Students draft the third body section, including at least one counterargument.\n9. Review all body sections for consistent tone and logical flow.\n10. Outline the conclusion based on the arguments made.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Research journal and all notes", "Draft from previous session", "Transition phrases reference sheet", "Source cards", "Lined paper or computer", "Highlighters for tracking sources"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Research Capstone", "subheading": "Building Your Arguments"},
+        {"type": "materials", "items": ["Research notes and source cards", "Previous draft", "Transition phrases sheet", "Lined paper or computer", "Highlighters"], "setup_instructions": "Lay out the previous draft alongside research notes. Have the transition phrases sheet visible for reference. Color-code source cards to match outline sections."},
+        {"type": "instruction", "step": 1, "text": "Read your introduction and first body section aloud. Does the first section prove part of your thesis? Good. Now, what is the next point you need to make? Your outline tells you the path."},
+        {"type": "instruction", "step": 2, "text": "Transitions are the bridges between your paragraphs. Do not just jump from one topic to another. Use phrases like 'Building on this evidence,' 'In contrast to this view,' or 'Another important factor is' to guide your reader."},
+        {"type": "instruction", "step": 3, "text": "Strong research papers address counterarguments — what someone who disagrees might say. This shows you have thought deeply about your topic. Acknowledge the opposing view, then explain why your evidence is more convincing."},
+        {"type": "instruction", "step": 4, "text": "Maintain an academic tone throughout. Avoid 'I think' or 'I feel.' Instead, let your evidence speak: 'The evidence suggests' or 'Research demonstrates.' This makes your writing more authoritative."},
+        {"type": "activity", "prompt": "Draft your second and third body sections. Each should have a clear topic sentence, at least two pieces of cited evidence, and your analysis. In one section, include a counterargument that you acknowledge and then refute. Use transition phrases to connect all sections smoothly.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Your paper is taking shape. You now have an introduction and three body sections with evidence and analysis. Next session, you will draft the conclusion and begin revising. Strong arguments are built brick by brick — and you are laying a solid foundation.", "mastery_check": "Can the student draft body sections with evidence from sources, use transitions effectively, and incorporate a counterargument?"}
+      ]
+    },
+    "parent_notes": "The counterargument is an advanced writing skill that shows intellectual maturity. If your child struggles with it, prompt them: 'What would someone who disagrees with you say? Why might they be wrong?' This kind of critical thinking is exactly what middle school teachers look for. Encourage your child to write imperfectly and revise later — getting stuck trying to make each sentence perfect is the biggest obstacle to completing a draft.",
+    "age_adaptations": null,
+    "sort_order": 11
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 30,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Data Displays — Bar Graphs, Line Graphs, and Histograms",
+    "description": "Students learn to create and interpret different types of data displays. They match data types to appropriate graph formats and practice reading graphs critically, including identifying misleading representations.",
+    "instructions": "1. Review mean, median, mode, and range from previous lessons.\n2. Introduce three graph types: bar graphs for comparing categories, line graphs for showing change over time, histograms for showing frequency distributions.\n3. Present the same data displayed in different graph formats — discuss which is most effective.\n4. Demonstrate how to create a bar graph with proper labels, title, and scale.\n5. Demonstrate how to create a line graph with properly plotted points and a trend line.\n6. Explain histograms: similar to bar graphs but bars touch and represent ranges of values.\n7. Present misleading graphs (truncated y-axis, manipulated scale) and discuss how they distort data.\n8. Students create all three graph types using provided data sets.\n9. Students analyze a set of graphs and identify which ones are misleading and why.\n10. Discuss: 'How can knowing about graphs protect you from being misled?'",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Graph paper", "Ruler", "Colored pencils", "Data sets for graphing", "Examples of misleading graphs", "Protractor (for future pie chart reference)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Data Displays", "subheading": "Bar Graphs, Line Graphs, and Histograms"},
+        {"type": "materials", "items": ["Graph paper", "Ruler", "Colored pencils", "Data sets", "Misleading graph examples"], "setup_instructions": "Prepare three data sets suitable for different graph types. Print or display examples of misleading graphs from real media sources."},
+        {"type": "instruction", "step": 1, "text": "Different data needs different displays. Bar graphs compare categories (favorite ice cream flavors). Line graphs show change over time (temperature over a week). Histograms show how data is distributed across ranges (test score frequencies)."},
+        {"type": "instruction", "step": 2, "text": "Every good graph has five elements: a title, labeled x-axis, labeled y-axis, consistent scale, and a key or legend if needed. Without these, the data cannot be accurately read."},
+        {"type": "instruction", "step": 3, "text": "Be a critical graph reader. If the y-axis starts at 90 instead of 0, small differences look enormous. If the bars are different widths, your eye is tricked. Advertisers and news outlets sometimes use these tricks."},
+        {"type": "instruction", "step": 4, "text": "Histograms look like bar graphs, but there are key differences: histogram bars touch (because data is continuous), and each bar represents a range of values rather than a single category."},
+        {"type": "activity", "prompt": "Create three graphs: (1) A bar graph comparing average rainfall in six cities. (2) A line graph showing a plant's growth over 10 days. (3) A histogram showing the distribution of test scores in ranges of 10 (60-69, 70-79, 80-89, 90-100). Then analyze three misleading graphs and write a sentence for each explaining how they distort the data.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Graphs are powerful communication tools, but they can also mislead. Now you know both how to create accurate graphs and how to spot deceptive ones. This is a skill that will serve you every time you read the news or see data presented visually.", "mastery_check": "Can the student create bar graphs, line graphs, and histograms with proper labels and scales, and identify at least two ways graphs can be misleading?"}
+      ]
+    },
+    "parent_notes": "Graph literacy is essential in our data-rich world. Point out graphs in newspapers, magazines, and online articles and ask your child to evaluate them. The misleading graphs section is particularly important — being able to spot manipulation in data presentation is a critical thinking skill. If your child enjoys this, let them graph data from their own interests: sports statistics, weather data, or reading habits. Making graphs by hand reinforces understanding before transitioning to digital tools.",
+    "age_adaptations": null,
+    "sort_order": 12
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 30,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Current Events — Reading the News Critically",
+    "description": "Students learn to read and analyze current news articles using critical thinking skills. They distinguish between facts and opinions, identify bias, evaluate sources, and practice summarizing complex current events in their own words.",
+    "instructions": "1. Discuss why staying informed about current events matters for engaged citizens.\n2. Select three age-appropriate news articles about different topics (local, national, international).\n3. Introduce the five Ws of journalism: Who, What, When, Where, Why.\n4. Read the first article together, identifying the five Ws.\n5. Distinguish between facts (verifiable) and opinions (personal views).\n6. Introduce media bias: how the same event can be reported differently depending on the source.\n7. Compare two articles about the same event from different sources — note differences in language and emphasis.\n8. Discuss the difference between news articles, editorials, and advertisements.\n9. Students summarize one article in their own words and identify any opinions presented as facts.\n10. Create a 'Current Events Journal' to track one news story per week.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Age-appropriate news articles (3-4 selections)", "Highlighters in two colors (facts vs. opinions)", "Current events journal", "Five Ws graphic organizer", "Comparison chart template", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Current Events", "subheading": "Reading the News Critically"},
+        {"type": "materials", "items": ["Age-appropriate news articles", "Highlighters (two colors)", "Current events journal", "Five Ws organizer", "Comparison chart"], "setup_instructions": "Select 3-4 current news articles appropriate for upper elementary students. Choose at least one local story, one national, and one international. Find two articles about the same event from different sources."},
+        {"type": "instruction", "step": 1, "text": "Being informed about the world is part of being a good citizen. But not all information is equal. Today you will learn to read the news like a detective — finding facts, spotting opinions, and recognizing bias."},
+        {"type": "instruction", "step": 2, "text": "Every news article should answer the five Ws: Who is involved? What happened? When did it happen? Where did it happen? Why did it happen? If an article cannot answer these basic questions, it may not be trustworthy."},
+        {"type": "instruction", "step": 3, "text": "Use your yellow highlighter for FACTS — statements that can be verified. Use your blue highlighter for OPINIONS — personal views or judgments. Notice how some articles blend the two. A fact: 'The city council voted 5-3.' An opinion: 'The vote was a disaster.'"},
+        {"type": "instruction", "step": 4, "text": "Now compare two articles about the same event. Notice different word choices, which details are included or left out, and what each headline emphasizes. This is BIAS — and every source has some. Recognizing it makes you a smarter reader."},
+        {"type": "activity", "prompt": "Read the assigned news article independently. Complete the Five Ws organizer. Highlight facts in one color and opinions in another. Write a one-paragraph summary in your own words. Then compare two articles about the same event and list three differences in how the event is reported.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Reading news critically does not mean distrusting everything — it means thinking carefully about what you read. Check multiple sources, look for facts over opinions, and ask who benefits from the story being told this way.", "mastery_check": "Can the student identify the five Ws in a news article, distinguish facts from opinions, and recognize differences in how multiple sources report the same event?"}
+      ]
+    },
+    "parent_notes": "News literacy is one of the most practical skills your child can develop. Select articles carefully — upper elementary students can handle real-world topics but need age-appropriate treatment. Avoid highly partisan or emotionally overwhelming content. Good sources for student news include Newsela, Time for Kids, and Scholastic News. Make reading and discussing one news article per week a family habit. Model critical thinking by sharing your own process: 'I noticed this article uses emotional language here — I wonder why.'",
+    "age_adaptations": null,
+    "sort_order": 13
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "geography",
+    "week_number": 30,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Demographic Analysis — Population Pyramids and Data",
+    "description": "Students learn to read and create population pyramids, understanding how age and gender distribution reveals a country's economic development, healthcare access, and future challenges. They compare pyramids from different countries to draw conclusions.",
+    "instructions": "1. Define demographics: the statistical study of human populations.\n2. Introduce population pyramids: bar graphs showing age and gender distribution.\n3. Explain the three pyramid shapes: expansive (wide base, young population), constrictive (narrow base, aging population), and stationary (roughly equal across ages).\n4. Examine a population pyramid of a developing country and discuss what it reveals.\n5. Examine a population pyramid of a developed country and compare.\n6. Discuss what the shape tells us about birth rates, death rates, healthcare, and economic needs.\n7. Provide data for students to construct their own population pyramid.\n8. Analyze what happens when a large generation ages: strain on healthcare and social security.\n9. Predict future trends based on current population data.\n10. Connect demographics to geography: why do populations look different in different places?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Population pyramid examples (3-4 countries)", "Graph paper", "Colored pencils (two colors for male/female)", "Ruler", "Country demographic data sheets", "World map"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Demographic Analysis", "subheading": "Reading Population Pyramids"},
+        {"type": "materials", "items": ["Population pyramid examples", "Graph paper", "Colored pencils (two colors)", "Ruler", "Demographic data sheets", "World map"], "setup_instructions": "Print population pyramids for Japan, Nigeria, the United States, and India. Prepare a data set for students to build their own pyramid. Have the world map accessible for reference."},
+        {"type": "instruction", "step": 1, "text": "A population pyramid is like an X-ray of a country. By looking at the shape, you can tell whether a country is growing quickly, growing slowly, or even shrinking. Males are on the left, females on the right, with age groups stacked from youngest at the bottom to oldest at the top."},
+        {"type": "instruction", "step": 2, "text": "A WIDE BASE means many young people — the country is growing fast. This often means high birth rates and lower access to healthcare and education. Countries like Nigeria have this shape."},
+        {"type": "instruction", "step": 3, "text": "A NARROW BASE means fewer young people — the country may be shrinking. This often means low birth rates and good healthcare. Japan has this shape, and it faces the challenge of not enough young workers to support an aging population."},
+        {"type": "instruction", "step": 4, "text": "The United States has a more rectangular shape — relatively stable population growth. But notice the bulge from the 'baby boom' generation. As they age, the need for healthcare and retirement support increases dramatically."},
+        {"type": "activity", "prompt": "Using the provided data, construct a population pyramid on graph paper. Use one color for males and another for females. Then compare three pre-printed pyramids from different countries and write a paragraph for each explaining what the shape reveals about that country's birth rate, healthcare, and future challenges.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Population pyramids transform numbers into a visual story about a country's past, present, and future. A shape that is wide at the bottom tells a very different story than one that is wide in the middle. As a geographer, you can now read these stories.", "mastery_check": "Can the student read a population pyramid, identify the three main shapes, and explain what the shape reveals about a country's demographics and future challenges?"}
+      ]
+    },
+    "parent_notes": "Population pyramids are a genuinely fascinating way to understand countries. Look up your own country's population pyramid online and discuss what it reveals. The comparison between developing and developed nations naturally leads to conversations about healthcare, education, and economic opportunity. Keep the discussion factual and geographic rather than political. This lesson connects to the capstone atlas project by adding a human data dimension to geographic understanding.",
+    "age_adaptations": null,
+    "sort_order": 14
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 30,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Holes — Chapters 11-20: Zero, Onions, and the Mystery Deepens",
+    "description": "Students continue reading 'Holes,' discovering more about the boys at Camp Green Lake, the mysterious connection to Kissin' Kate Barlow, and the growing friendship between Stanley and Zero. They analyze parallel storylines and character development.",
+    "instructions": "1. Briefly review chapters 1-10 and predictions made last session.\n2. Read chapters 11-20 aloud, pausing at key revelations.\n3. Discuss the Kissin' Kate Barlow storyline: how does it connect to the present?\n4. Analyze the character of Zero: what do we learn about him and why does he seem different from the other boys?\n5. Examine the theme of literacy and education through Zero's desire to learn to read.\n6. Discuss the symbolism of onions in the story.\n7. Track the multiple storylines: present-day camp, Kate Barlow's past, Elya Yelnats's past.\n8. Students update their character tracking charts.\n9. Discuss the theme of injustice: racial injustice in Kate Barlow's time, socioeconomic injustice in Stanley's conviction.\n10. Students make updated predictions about how the storylines will connect.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Holes by Louis Sachar", "Reading journal", "Character tracking chart", "Timeline for tracking parallel storylines", "Vocabulary notebook", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Holes — Chapters 11-20", "subheading": "Zero, Onions, and the Mystery Deepens"},
+        {"type": "materials", "items": ["Holes by Louis Sachar", "Reading journal", "Character tracking chart", "Storyline timeline", "Vocabulary notebook"], "setup_instructions": "Have the book and reading journal ready. Update the character tracking chart with new characters. Prepare a three-row timeline for tracking the three storylines."},
+        {"type": "instruction", "step": 1, "text": "Sachar is weaving three stories at once: Stanley at Camp Green Lake in the present, Kissin' Kate Barlow over a hundred years ago, and Elya Yelnats in Latvia even further back. Watch for the threads that connect them."},
+        {"type": "instruction", "step": 2, "text": "Zero is one of the most important characters in the book. What makes him different from the other boys? Why does he want Stanley to teach him to read? What does this tell us about the power of education and friendship?"},
+        {"type": "instruction", "step": 3, "text": "The story of Kate Barlow introduces themes of racial injustice. In her time, an interracial friendship led to terrible consequences. Think about how injustice in the past creates ripple effects that reach into the present."},
+        {"type": "instruction", "step": 4, "text": "Update your storyline timeline. Where are we in each of the three stories? Look for connections — names, places, objects, or themes that appear in more than one storyline. Sachar has planted clues everywhere."},
+        {"type": "activity", "prompt": "Write a literary analysis paragraph about one of these themes in 'Holes': (1) the power of friendship, (2) injustice across generations, or (3) the importance of literacy. Use at least two specific examples from the text to support your analysis. Then update your predictions about how the three storylines will connect.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The mystery is deepening. Every chapter adds new connections between past and present. Sachar is showing us that the past is never really past — actions from long ago have consequences that echo through generations. Keep reading like a detective.", "mastery_check": "Can the student track the three parallel storylines, analyze character development for Zero and Stanley, and identify themes of injustice and friendship in the text?"}
+      ]
+    },
+    "parent_notes": "The racial injustice in the Kate Barlow storyline is handled sensitively by Sachar but may prompt questions from your child. Be prepared for honest, age-appropriate conversations about racism in American history. The friendship between Stanley and Zero is the emotional heart of the book and a powerful model of mutual support and respect across differences. Encourage your child to track the connections between storylines — the satisfaction of seeing them come together is one of the great joys of this novel.",
+    "age_adaptations": null,
+    "sort_order": 15
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 30,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "Research Capstone — Writing the Conclusion and Revising",
+    "description": "Students complete the first full draft of their research capstone by writing a strong conclusion. They then begin the revision process, focusing on structure, argument strength, and evidence integration before moving to editing in the next session.",
+    "instructions": "1. Review the elements of a strong conclusion: restate thesis in new words, summarize key arguments, broader significance, call to action or forward-looking statement.\n2. Read three model conclusions and identify each element.\n3. Students draft their conclusion paragraph.\n4. Read the entire paper aloud from beginning to end.\n5. Use a revision checklist: Does the introduction hook the reader? Does each body paragraph support the thesis? Are transitions smooth? Is the conclusion satisfying?\n6. Check that every claim has cited evidence.\n7. Identify the strongest and weakest sections of the paper.\n8. Revise the weakest section, strengthening arguments or adding evidence.\n9. Get feedback from a partner or parent.\n10. Create a revision plan for remaining improvements.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Complete draft", "Revision checklist", "Red pen for markup", "Model conclusion examples", "Highlighters", "Lined paper for revisions"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Research Capstone", "subheading": "Conclusion and Revision"},
+        {"type": "materials", "items": ["Complete draft", "Revision checklist", "Red pen", "Model conclusions", "Highlighters"], "setup_instructions": "Print the revision checklist. Have the complete draft assembled in order. Set up a quiet workspace for focused revision."},
+        {"type": "instruction", "step": 1, "text": "Your conclusion is your last chance to make an impression. Do NOT simply repeat your introduction. Instead, show how your arguments have built a convincing case. Then zoom out — why does this topic matter beyond your paper?"},
+        {"type": "instruction", "step": 2, "text": "A great conclusion often ends by looking forward: What questions remain? What should happen next? What has your research inspired you to learn more about? Leave your reader thinking."},
+        {"type": "instruction", "step": 3, "text": "Now read your entire paper aloud — every word. This is the single most effective revision strategy. Your ear catches errors and awkward phrasing that your eyes skip over. Mark anything that does not sound right."},
+        {"type": "instruction", "step": 4, "text": "Use the revision checklist to evaluate your paper section by section. Revision is about BIG changes — reorganizing, strengthening arguments, adding evidence. Editing (fixing grammar and spelling) comes next time."},
+        {"type": "activity", "prompt": "Draft your conclusion paragraph. Then read your entire paper aloud and use the revision checklist to evaluate each section. Identify the two weakest areas and revise them. Finally, write a brief revision plan listing 3-5 specific improvements you still want to make.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You now have a complete first draft of a genuine research paper. This is a major accomplishment. Revision is not a sign that your first draft was bad — every professional writer revises extensively. The best writing comes from thoughtful revision.", "mastery_check": "Can the student write a conclusion that restates the thesis, summarizes arguments, and addresses broader significance, and can they identify areas needing revision?"}
+      ]
+    },
+    "parent_notes": "Completing a first draft is a huge milestone — celebrate it before diving into revision. Reading aloud is genuinely the most effective self-editing strategy at any age. If your child is reluctant, offer to read it aloud to them while they listen and mark. The distinction between revision (big changes to content and structure) and editing (fixing grammar and spelling) is important. Tackle revision first so they do not spend time perfecting a paragraph that might need to be rewritten entirely.",
+    "age_adaptations": null,
+    "sort_order": 16
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 30,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "Introduction to Probability — Likelihood and Chance",
+    "description": "Students explore the fundamentals of probability, learning to express likelihood as fractions, decimals, and percentages. They conduct experiments with coins, dice, and spinners to compare theoretical and experimental probability.",
+    "instructions": "1. Discuss the concept of probability in everyday language: impossible, unlikely, equally likely, likely, certain.\n2. Define probability as the number of favorable outcomes divided by total possible outcomes.\n3. Place events on a probability scale from 0 (impossible) to 1 (certain).\n4. Calculate the probability of simple events: flipping heads, rolling a 3, drawing a red marble.\n5. Express probability as a fraction, decimal, and percentage.\n6. Introduce theoretical probability (what should happen) versus experimental probability (what actually happens).\n7. Conduct a coin flip experiment: flip 50 times, record results, and compare to theoretical 50/50.\n8. Conduct a dice rolling experiment: roll 60 times, record frequencies.\n9. Discuss why experimental results may differ from theoretical predictions (and why they get closer with more trials).\n10. Create a probability reference page with vocabulary, formulas, and examples.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Coins for flipping", "Dice (standard six-sided)", "Spinner with equal sections", "Bag with colored marbles or counters", "Tally chart template", "Graph paper for displaying results"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Introduction to Probability", "subheading": "Likelihood and Chance"},
+        {"type": "materials", "items": ["Coins", "Dice", "Spinner", "Colored marbles in a bag", "Tally chart", "Graph paper"], "setup_instructions": "Prepare a bag with a known number of colored marbles (e.g., 3 red, 2 blue, 5 green). Have dice and coins ready for experiments. Print tally chart templates."},
+        {"type": "instruction", "step": 1, "text": "Probability measures how likely something is to happen. It ranges from 0 (impossible — rolling a 7 on a standard die) to 1 (certain — getting heads or tails on a coin flip). Most events fall somewhere in between."},
+        {"type": "instruction", "step": 2, "text": "To calculate probability: divide the number of FAVORABLE outcomes by the TOTAL possible outcomes. The probability of rolling a 3 on a die is 1/6, because there is one 3 out of six possible numbers. As a decimal, that is about 0.167, or about 16.7%."},
+        {"type": "instruction", "step": 3, "text": "THEORETICAL probability is what SHOULD happen based on math. EXPERIMENTAL probability is what ACTUALLY happens when you try it. Flip a coin 10 times — did you get exactly 5 heads? Probably not. But flip it 1000 times and you will get closer to 50%."},
+        {"type": "instruction", "step": 4, "text": "This is called the Law of Large Numbers: the more trials you do, the closer your experimental results get to the theoretical probability. That is why casinos always win in the long run — they have millions of trials."},
+        {"type": "activity", "prompt": "Conduct two probability experiments: (1) Flip a coin 50 times, recording heads and tails. Calculate the experimental probability of heads and compare it to the theoretical probability of 1/2. (2) Roll a die 60 times and record the frequency of each number. Compare your results to the expected frequency of 10 for each number. Create a bar graph of your die results.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Probability helps us understand chance and make better predictions. It is used in weather forecasting, medicine, sports, games, and insurance. Now you can express likelihood mathematically and understand why more data leads to better predictions.", "mastery_check": "Can the student calculate theoretical probability as a fraction, decimal, and percentage, conduct an experiment, and explain the difference between theoretical and experimental probability?"}
+      ]
+    },
+    "parent_notes": "Probability is inherently engaging because it involves hands-on experimentation. Let your child take the lead on the experiments. The gap between theoretical and experimental probability is the most important concept — it is why we cannot predict individual events but can predict patterns over many trials. Connect this to real life: weather forecasts give probabilities ('70% chance of rain'), sports statistics involve probability, and games of chance are designed using these exact principles.",
+    "age_adaptations": null,
+    "sort_order": 17
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 30,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "The Respiratory System — Breathing and Gas Exchange",
+    "description": "Students explore the respiratory system, learning how air travels from the nose through the trachea to the lungs, where oxygen enters the blood and carbon dioxide is expelled. They build a model lung and measure their own breathing rate.",
+    "instructions": "1. Ask students to take a deep breath and notice what happens to their chest and abdomen.\n2. Trace the path of air: nose/mouth, pharynx, larynx, trachea, bronchi, bronchioles, alveoli.\n3. Explain the role of the diaphragm: a dome-shaped muscle that controls breathing.\n4. Build a model lung using a plastic bottle (chest cavity), balloon (lung), and rubber sheet (diaphragm).\n5. Demonstrate gas exchange: oxygen from inhaled air passes into blood capillaries around alveoli, while carbon dioxide passes out.\n6. Discuss why we breathe faster during exercise (muscles need more oxygen).\n7. Measure resting breathing rate, then exercise for 2 minutes and measure again.\n8. Explain how the respiratory system connects to the circulatory system.\n9. Discuss diseases that affect the respiratory system: asthma, pneumonia, and the effects of smoking.\n10. Label a diagram of the respiratory system with all key structures.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Plastic bottle for lung model", "Balloons (2)", "Rubber sheet or cut balloon", "Rubber bands", "Respiratory system diagram", "Stopwatch for breathing rate", "Science journal"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "The Respiratory System", "subheading": "Breathing and Gas Exchange"},
+        {"type": "materials", "items": ["Plastic bottle", "Balloons", "Rubber sheet", "Rubber bands", "Respiratory diagram", "Stopwatch", "Science journal"], "setup_instructions": "Cut the bottom off a plastic bottle. Tie one balloon and place it inside the bottle as the 'lung.' Stretch the rubber sheet over the bottle opening as the 'diaphragm.' Have the diagram ready for labeling."},
+        {"type": "instruction", "step": 1, "text": "Take a deep breath. Feel your chest expand and your diaphragm push down. You just moved air through an incredibly efficient system that keeps you alive. You do this about 20,000 times every day without thinking about it."},
+        {"type": "instruction", "step": 2, "text": "Follow the air: it enters through your nose (where it is filtered, warmed, and moistened), travels down the trachea, splits into two bronchi (one for each lung), then into smaller bronchioles, and finally reaches tiny air sacs called ALVEOLI. You have about 300 million of them."},
+        {"type": "instruction", "step": 3, "text": "Watch the lung model. When you pull the diaphragm (rubber sheet) down, the lung (balloon) inflates as air rushes in. When you release it, the lung deflates. This is exactly how your real diaphragm controls breathing."},
+        {"type": "instruction", "step": 4, "text": "Gas exchange happens in the alveoli. Each one is surrounded by tiny blood vessels called capillaries. Oxygen passes from the air in the alveolus into the blood. Carbon dioxide passes from the blood back into the alveolus to be breathed out. This is where the respiratory and circulatory systems meet."},
+        {"type": "activity", "prompt": "Build and demonstrate the lung model. Then measure your resting breathing rate (breaths per minute). Do jumping jacks for 2 minutes and immediately measure again. Record both rates and explain why they differ. Label the respiratory system diagram with all key structures. Finally, write a paragraph tracing one breath of air from your nose to your alveoli and back out again.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Your respiratory system delivers the oxygen every cell in your body needs and removes the carbon dioxide waste they produce. It works in partnership with the circulatory system — the lungs bring in the oxygen, and the blood carries it everywhere. Next, we will explore that circulatory system.", "mastery_check": "Can the student trace the path of air through the respiratory system, explain gas exchange in the alveoli, demonstrate diaphragm function with the model, and explain why breathing rate increases with exercise?"}
+      ]
+    },
+    "parent_notes": "The lung model is a memorable hands-on activity. If the bottle model is difficult to construct, you can demonstrate diaphragm action by having your child put their hands on their ribcage and abdomen while breathing deeply. The breathing rate experiment is simple but powerful — kids are always surprised by how much their rate increases with exercise. This lesson naturally connects to health discussions about the dangers of smoking and the importance of aerobic exercise.",
+    "age_adaptations": null,
+    "sort_order": 18
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 30,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "Ensemble Concert Rehearsal — Finding Your Part in the Whole",
+    "description": "Students rehearse ensemble pieces for the end-of-year concert, learning to listen for balance, blend, and timing. They explore how individual parts create a unified whole and practice performance etiquette.",
+    "instructions": "1. Discuss the concept of ensemble: individuals working together to create something greater than any single person could.\n2. Select or review the concert repertoire — songs, instrumental pieces, or a combination.\n3. Warm up with vocal exercises (scales, rounds) or instrumental warm-ups.\n4. Practice individual parts slowly, ensuring accuracy before combining.\n5. Combine parts gradually: start with two parts, then add more.\n6. Focus on BALANCE: no one part should overpower another.\n7. Work on TIMING: starting together, staying together, ending together.\n8. Practice transitions between pieces.\n9. Discuss performance etiquette: posture, entering and exiting, acknowledging the audience.\n10. Do a full run-through of the concert program.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Sheet music or lyric sheets", "Instruments if applicable", "Music stand", "Audio recording device for playback review", "Performance attire discussion sheet", "Concert program draft"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Ensemble Concert Rehearsal", "subheading": "Finding Your Part in the Whole"},
+        {"type": "materials", "items": ["Sheet music or lyrics", "Instruments if available", "Music stand", "Recording device", "Concert program draft"], "setup_instructions": "Arrange the performance space. Have all music organized in concert order. Set up a recording device to capture the rehearsal for review."},
+        {"type": "instruction", "step": 1, "text": "An ensemble is about listening as much as playing. Your job is not just to perform your part correctly — it is to make the whole group sound great. That means adjusting your volume, matching the tempo, and supporting your fellow musicians."},
+        {"type": "instruction", "step": 2, "text": "Start with warm-ups. If singing, do scales and breathing exercises. If playing instruments, tune carefully and practice scales together. Good warm-ups prepare both your body and your ears."},
+        {"type": "instruction", "step": 3, "text": "Practice each piece in sections. Work on the hardest parts first while you are fresh. If a transition is rough, isolate it and practice it slowly five times before speeding up. Precision at a slow tempo builds confidence at full speed."},
+        {"type": "instruction", "step": 4, "text": "Performance etiquette matters: stand or sit with good posture, enter and exit the stage calmly, watch the conductor or lead musician for cues, and always acknowledge your audience with a bow or nod at the end."},
+        {"type": "activity", "prompt": "Complete a full run-through of the concert program from start to finish, including entrances, exits, and transitions between pieces. Record the run-through. Then listen to the recording together and identify two things that went well and two areas that need more practice.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Every great performance is built on rehearsal. What you practiced today — listening, adjusting, supporting each other — is what transforms individual musicians into an ensemble. Keep practicing your parts at home before the concert.", "mastery_check": "Can the student perform their part accurately within the ensemble, maintain appropriate balance and timing, and demonstrate proper performance etiquette?"}
+      ]
+    },
+    "parent_notes": "If your child is the only student (homeschool setting), adapt this lesson by playing along with recordings, singing harmony parts with a parent, or using a simple accompaniment app. The principles of balance, timing, and performance etiquette apply regardless of ensemble size. Record the rehearsal — listening back is one of the most effective ways to improve. If preparing for a recital or community performance, establish the date and help your child count backward to plan remaining rehearsals.",
+    "age_adaptations": null,
+    "sort_order": 19
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "practical_life",
+    "week_number": 30,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "Resume Skills — Identifying Your Strengths and Accomplishments",
+    "description": "Students learn about resumes and portfolios as tools for presenting their skills and accomplishments. They identify their own strengths, document achievements from the school year, and create a student portfolio summary that showcases their growth.",
+    "instructions": "1. Discuss what a resume is: a document that summarizes your skills, experiences, and accomplishments.\n2. Look at a sample student resume or portfolio summary.\n3. Brainstorm categories of accomplishments: academic, creative, community service, leadership, personal growth.\n4. Students list at least three accomplishments in each category from this school year.\n5. Identify personal strengths: what do others say you are good at? What comes naturally to you? What have you worked hard to improve?\n6. Discuss the difference between hard skills (reading, math, coding) and soft skills (teamwork, perseverance, communication).\n7. Practice writing accomplishment statements: 'I [action verb] [what] [result]' format.\n8. Students draft a one-page student portfolio summary.\n9. Peer review: share summaries and suggest additions.\n10. Discuss how these skills will serve them in middle school and beyond.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Sample student resume/portfolio", "Brainstorming worksheet", "Accomplishment tracking sheet", "Lined paper or computer", "Portfolio folder", "Action verb word bank"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Resume Skills", "subheading": "Identifying Your Strengths and Accomplishments"},
+        {"type": "materials", "items": ["Sample student resume", "Brainstorming worksheet", "Accomplishment sheet", "Lined paper or computer", "Action verb word bank"], "setup_instructions": "Print a sample student portfolio summary. Prepare the brainstorming worksheet with categories. Have the action verb word bank ready for writing accomplishment statements."},
+        {"type": "instruction", "step": 1, "text": "A resume or portfolio summary tells people what you can do and what you have accomplished. You might not need a formal resume yet, but the skill of identifying and articulating your strengths is valuable right now."},
+        {"type": "instruction", "step": 2, "text": "Think about this year. What have you learned? What have you created? What problems have you solved? What challenges have you overcome? These are all accomplishments worth documenting."},
+        {"type": "instruction", "step": 3, "text": "Strong accomplishment statements use ACTION VERBS: Researched, Created, Led, Designed, Solved, Built, Organized, Presented. Instead of 'I did a science project,' write 'Designed and conducted a three-week experiment on plant growth variables.'"},
+        {"type": "instruction", "step": 4, "text": "HARD SKILLS are specific abilities you can demonstrate: writing research papers, solving equations, reading maps, playing an instrument. SOFT SKILLS are personal qualities: perseverance, creativity, teamwork, leadership. Both matter enormously."},
+        {"type": "activity", "prompt": "Create a one-page Student Portfolio Summary. Include: your name and grade, three academic accomplishments (using action verbs), two creative accomplishments, one community or leadership accomplishment, and a list of your top five skills (mix of hard and soft skills). Write a brief 'About Me' paragraph that captures who you are as a learner.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Being able to identify and communicate your strengths is a lifelong skill. Your portfolio summary captures this year's growth and achievements. Update it as you accomplish new things. In middle school and beyond, this self-awareness will help you set goals and present your best self.", "mastery_check": "Can the student identify and articulate accomplishments using action verbs, distinguish hard and soft skills, and create a clear portfolio summary?"}
+      ]
+    },
+    "parent_notes": "This lesson builds self-awareness and confidence. Many children struggle to recognize their own accomplishments — they need permission and prompting to celebrate their growth. Help your child brainstorm by recalling specific projects, challenges overcome, and skills developed. The accomplishment statement format (action verb + what + result) is used in professional resumes, so your child is learning an adult skill. Keep this portfolio summary — it makes a wonderful addition to their year-end portfolio and provides a starting point for middle school applications if needed.",
+    "age_adaptations": null,
+    "sort_order": 20
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 30,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "Research Capstone — Editing and Polishing the Final Draft",
+    "description": "Students complete the editing phase of their research capstone, focusing on grammar, punctuation, spelling, and formatting. They use a proofreading checklist, peer editing, and read-aloud strategies to produce a polished final draft.",
+    "instructions": "1. Distinguish between revision (big changes) done last session and editing (polishing details) done today.\n2. Introduce the proofreading checklist: subject-verb agreement, punctuation, spelling, capitalization, paragraph indentation.\n3. Model editing a paragraph with common errors.\n4. Students edit their paper one error type at a time (first pass: spelling, second pass: punctuation, etc.).\n5. Practice reading the paper backward sentence by sentence to catch errors the brain auto-corrects when reading forward.\n6. Check formatting: consistent font, margins, headings, and page numbers.\n7. Verify the bibliography or works cited page.\n8. Peer editing: exchange papers and mark errors using proofreading symbols.\n9. Make final corrections and produce the clean final draft.\n10. Celebrate completing the research capstone with a brief sharing of thesis statements.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Revised draft", "Proofreading checklist", "Proofreading symbols reference", "Red pen", "Clean paper or computer for final copy", "Style guide for formatting"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Research Capstone", "subheading": "Editing and Polishing Your Final Draft"},
+        {"type": "materials", "items": ["Revised draft", "Proofreading checklist", "Proofreading symbols reference", "Red pen", "Clean paper or computer"], "setup_instructions": "Print the proofreading checklist and symbols reference. Set up a clean workspace. If typing the final draft, have the computer ready with a simple word processor."},
+        {"type": "instruction", "step": 1, "text": "Revision is about what you say; editing is about how you say it. Today, your ideas are set — now we polish the surface so your excellent thinking shines through without distracting errors."},
+        {"type": "instruction", "step": 2, "text": "Edit one error type at a time. First pass: read for spelling only. Second pass: check punctuation only. Third pass: verify subject-verb agreement. Focusing on one thing at a time catches more errors than trying to fix everything at once."},
+        {"type": "instruction", "step": 3, "text": "Try reading your paper backward, sentence by sentence, starting from the last sentence. This breaks your brain's tendency to auto-correct errors because it reads what it expects rather than what is actually on the page."},
+        {"type": "instruction", "step": 4, "text": "Check your bibliography. Every source cited in your paper should appear in the bibliography, and every entry in the bibliography should be cited in the paper. Format entries consistently."},
+        {"type": "activity", "prompt": "Complete three editing passes on your research paper (spelling, punctuation, grammar). Then exchange with a peer or parent for a fresh-eyes edit. Make all corrections and produce your polished final draft. Ensure proper formatting: title page, consistent margins, page numbers, and bibliography.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Congratulations — you have completed a genuine research paper from topic selection through final polish. This capstone represents months of developing research skills, critical thinking, and academic writing. Be proud of this accomplishment.", "mastery_check": "Can the student use a proofreading checklist to identify and correct grammar, spelling, and punctuation errors, and produce a properly formatted final draft?"}
+      ]
+    },
+    "parent_notes": "This is a celebratory lesson — your child has completed a substantial research project. The editing process teaches important skills, but do not let perfectionism dampen the sense of accomplishment. A few remaining errors in a student-produced research paper are perfectly acceptable. Save this paper as a centerpiece of the year-end portfolio. If your child typed the paper, print a copy for the physical portfolio as well. Consider sharing it with grandparents or other supportive adults who would appreciate seeing this work.",
+    "age_adaptations": null,
+    "sort_order": 21
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 30,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "Probability of Compound Events — And, Or, Not",
+    "description": "Students extend their probability knowledge to compound events, learning to calculate the probability of two events occurring together (and), either of two events occurring (or), and an event not occurring (complement). They apply these concepts to real-world scenarios.",
+    "instructions": "1. Review simple probability from the previous lesson.\n2. Introduce compound events: situations involving more than one event.\n3. Define 'and' probability (both events happen): multiply the individual probabilities for independent events.\n4. Calculate examples: probability of flipping two heads in a row, rolling a 6 and then a 5.\n5. Define 'or' probability (either event happens): add the individual probabilities for mutually exclusive events.\n6. Calculate examples: probability of rolling a 3 or a 5, drawing a red or blue marble.\n7. Define complement (not): the probability of an event NOT happening equals 1 minus the probability of it happening.\n8. Practice with card drawing problems: probability of drawing a face card, not drawing a heart.\n9. Students create their own probability problems for a partner to solve.\n10. Apply compound probability to a board game or card game scenario.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Dice (two)", "Deck of cards", "Coins (two or more)", "Colored marbles in a bag", "Probability worksheet", "Calculator"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Compound Probability", "subheading": "And, Or, Not"},
+        {"type": "materials", "items": ["Two dice", "Deck of cards", "Coins", "Colored marbles", "Probability worksheet", "Calculator"], "setup_instructions": "Set up a probability station with dice, cards, coins, and marbles. Print the compound probability worksheet with scaffolded problems."},
+        {"type": "instruction", "step": 1, "text": "So far you have calculated the probability of single events. But what about two events? The probability of flipping heads once is 1/2. What about flipping heads TWICE in a row? That is a compound event."},
+        {"type": "instruction", "step": 2, "text": "For 'AND' problems (both events happen), MULTIPLY the probabilities. Heads AND heads: 1/2 x 1/2 = 1/4. Rolling a 6 AND then a 3: 1/6 x 1/6 = 1/36. Notice how the probability gets smaller — it is harder for two things to happen together."},
+        {"type": "instruction", "step": 3, "text": "For 'OR' problems (either event happens), ADD the probabilities when the events cannot happen at the same time. Rolling a 3 OR a 5: 1/6 + 1/6 = 2/6 = 1/3. Notice how the probability gets larger — you have more ways to succeed."},
+        {"type": "instruction", "step": 4, "text": "The COMPLEMENT is the opposite of an event. The probability of NOT rolling a 6 is 1 minus the probability of rolling a 6: 1 - 1/6 = 5/6. This shortcut is incredibly useful for problems where listing all favorable outcomes would take too long."},
+        {"type": "activity", "prompt": "Solve these compound probability problems: (1) Probability of rolling doubles with two dice. (2) Probability of drawing a king OR a queen from a deck. (3) Probability of NOT drawing a heart. (4) Probability of flipping heads three times in a row. (5) Probability of rolling an even number AND then an odd number. Then create three original probability problems for a partner and include answer keys.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Compound probability explains why unlikely events are so exciting — they require multiple things to go right at the same time. A hole-in-one in golf, a royal flush in poker, or winning the lottery are all compound events with very small probabilities. You now have the math tools to calculate just how unlikely they are.", "mastery_check": "Can the student calculate probability for compound events using multiplication (and), addition (or), and complement (not), and explain the reasoning behind each operation?"}
+      ]
+    },
+    "parent_notes": "Compound probability is a significant step up in mathematical reasoning. The 'and means multiply, or means add' pattern helps students remember which operation to use. Playing card games and board games naturally reinforces these concepts — pause during games to calculate probabilities together. If your child finds this challenging, return to physical manipulatives: actually flip coins, roll dice, and count outcomes. Seeing the results makes the abstract formulas concrete.",
+    "age_adaptations": null,
+    "sort_order": 22
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 30,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "Young Activists Through History — Voices That Changed the World",
+    "description": "Students study young people who have made significant impacts on history and current events, from Ruby Bridges to Malala Yousafzai. They analyze how young voices have shaped movements for justice, education, and environmental protection.",
+    "instructions": "1. Discuss the idea that young people have always been agents of change.\n2. Present profiles of young activists: Ruby Bridges, Malala Yousafzai, Greta Thunberg, the Parkland students, and historical examples.\n3. For each activist, identify: the issue they addressed, the actions they took, the obstacles they faced, and the impact they had.\n4. Discuss what these young people have in common: courage, passion, persistence, and a belief that their voice matters.\n5. Connect to the civic engagement lesson: these activists used the tools of democracy.\n6. Examine primary sources: speeches, letters, or social media posts from young activists.\n7. Discuss the role of media and technology in amplifying young voices.\n8. Students select one young activist to research in depth.\n9. Write a short biography highlighting the activist's impact.\n10. Reflect: What issue would you be willing to speak up about?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Profiles of young activists", "Primary source documents (speeches, letters)", "Research materials", "Writing paper", "Timeline of youth activism", "World map to locate activists"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Young Activists Through History", "subheading": "Voices That Changed the World"},
+        {"type": "materials", "items": ["Activist profiles", "Primary source documents", "Research materials", "Writing paper", "Youth activism timeline", "World map"], "setup_instructions": "Prepare brief profiles of 5-6 young activists from different eras and countries. Print or bookmark primary source excerpts. Have the world map and timeline ready."},
+        {"type": "instruction", "step": 1, "text": "History is not only made by adults. Young people have always stood up for what they believe in, often facing enormous obstacles. Their courage has changed laws, policies, and the way the world thinks."},
+        {"type": "instruction", "step": 2, "text": "Ruby Bridges was six years old when she helped desegregate schools in New Orleans in 1960. Malala Yousafzai was fifteen when she was shot for advocating girls' education in Pakistan — and continued her fight. These are not distant stories; they are recent history."},
+        {"type": "instruction", "step": 3, "text": "What do young activists have in common? They saw something wrong. They decided to act instead of waiting for someone else. They used whatever tools were available — speeches, marches, social media, art, writing — to make their voices heard."},
+        {"type": "instruction", "step": 4, "text": "Read this primary source — an excerpt from a young activist's speech or letter. What rhetorical techniques do they use? How do they make their argument persuasive? Notice the courage it takes to speak truth to power, especially as a young person."},
+        {"type": "activity", "prompt": "Choose one young activist to research in depth. Write a short biography (one page) that includes: the issue they addressed, the specific actions they took, the obstacles they faced, the impact they had, and one quote that captures their spirit. Then write a reflection: What issue in your community or world would you be willing to speak up about, and why?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Young people do not have to wait to make a difference. The activists we studied today prove that courage and conviction can change the world at any age. Your voice matters — the question is not whether you can make a difference, but what difference you will choose to make.", "mastery_check": "Can the student describe at least three young activists, explain their impact, and articulate an issue they personally care about and could take action on?"}
+      ]
+    },
+    "parent_notes": "This lesson is deeply empowering for upper elementary students who are beginning to develop strong opinions about fairness and justice. The examples span different countries, eras, and issues, so every child can find someone they relate to. Be prepared for your child to feel passionate about an issue — channel that energy constructively. The reflection question about their own potential activism is the heart of the lesson. Help them see that civic engagement does not have to be dramatic; consistent, thoughtful action in their own community counts.",
+    "age_adaptations": null,
+    "sort_order": 23
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 30,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "The Circulatory System — Heart, Blood, and Vessels",
+    "description": "Students explore the circulatory system, learning how the heart pumps blood through arteries, veins, and capillaries to deliver oxygen and nutrients to every cell. They listen to their own heartbeat, measure pulse rates, and trace the path of blood through the body.",
+    "instructions": "1. Place your hand on your chest and feel your heartbeat. Count beats for 15 seconds and multiply by 4.\n2. Introduce the heart as a double pump: right side sends blood to lungs, left side sends blood to body.\n3. Use a diagram to show the four chambers: right atrium, right ventricle, left atrium, left ventricle.\n4. Trace blood flow: body → right atrium → right ventricle → lungs → left atrium → left ventricle → body.\n5. Explain the three types of blood vessels: arteries (carry blood away from heart), veins (carry blood to heart), capillaries (tiny vessels where exchange happens).\n6. Discuss the components of blood: red blood cells, white blood cells, platelets, plasma.\n7. Demonstrate how exercise affects heart rate: measure resting pulse, exercise, measure again.\n8. Connect the circulatory system to the respiratory system studied last lesson.\n9. Label a detailed heart diagram.\n10. Write a story from the perspective of a red blood cell traveling through the body.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Heart diagram (detailed)", "Stethoscope or empty paper towel roll", "Stopwatch", "Red and blue colored pencils", "Science journal", "Rubber tubing for vessel demonstration"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "The Circulatory System", "subheading": "Heart, Blood, and Vessels"},
+        {"type": "materials", "items": ["Heart diagram", "Stethoscope or paper towel roll", "Stopwatch", "Red and blue colored pencils", "Science journal"], "setup_instructions": "Print a large blank heart diagram for labeling. Have the stethoscope or paper towel roll ready for listening to heartbeats. Prepare for the exercise experiment."},
+        {"type": "instruction", "step": 1, "text": "Your heart beats about 100,000 times per day, pumping blood through 60,000 miles of blood vessels. That is enough blood vessel length to wrap around the Earth more than twice. Let's find your pulse and count your resting heart rate."},
+        {"type": "instruction", "step": 2, "text": "The heart is actually TWO pumps side by side. The RIGHT side pumps blood to the lungs to pick up oxygen (remember the respiratory system?). The LEFT side pumps that oxygen-rich blood to the rest of the body. The left side is thicker because it has to push blood much farther."},
+        {"type": "instruction", "step": 3, "text": "Follow the blood's journey: oxygen-poor blood returns to the RIGHT ATRIUM, drops into the RIGHT VENTRICLE, gets pumped to the LUNGS, picks up oxygen, returns to the LEFT ATRIUM, drops into the LEFT VENTRICLE, and gets pumped out to the BODY. Then it starts all over again."},
+        {"type": "instruction", "step": 4, "text": "Three types of vessels carry your blood: ARTERIES (thick, muscular, carry blood away from the heart — remember A for Away), VEINS (thinner, have valves to prevent backflow, carry blood to the heart), and CAPILLARIES (microscopic vessels where oxygen and nutrients actually pass into your cells)."},
+        {"type": "activity", "prompt": "Label the heart diagram with all four chambers, major blood vessels (aorta, vena cava, pulmonary artery, pulmonary vein), and valves. Use red for oxygenated blood and blue for deoxygenated blood. Measure your resting heart rate, exercise for 2 minutes, and measure again. Then write a creative story from the perspective of a red blood cell making one complete trip through the body — include every stop.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "The circulatory system is your body's highway system, delivering oxygen and nutrients to every cell and picking up waste for removal. Combined with the respiratory system, it keeps every cell in your 37 trillion-cell body alive and functioning.", "mastery_check": "Can the student trace the path of blood through the heart and body, explain the roles of arteries, veins, and capillaries, and describe how the circulatory and respiratory systems work together?"}
+      ]
+    },
+    "parent_notes": "The heart is endlessly fascinating to students. If you have a stethoscope, let your child listen to their own heartbeat — it makes the lesson visceral and memorable. The exercise experiment is simple but demonstrates the heart's responsiveness to the body's needs. The creative writing assignment (story from a red blood cell's perspective) reinforces the science while engaging imagination. This completes the three body systems: digestive, respiratory, and circulatory. Help your child see how all three work together as an integrated system.",
+    "age_adaptations": null,
+    "sort_order": 24
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 30,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "Student-Directed Art Project — Beginning the Creation Process",
+    "description": "Students begin creating their student-directed art project, applying the skills and techniques learned throughout the year. They work from their proposal and sketches, making artistic decisions about composition, color, and technique.",
+    "instructions": "1. Review the project proposal and thumbnail sketches from the planning session.\n2. Set up the workspace with all necessary materials for the chosen medium.\n3. Discuss the concept of 'working large': starting with big shapes and relationships before adding details.\n4. Begin the artwork using the chosen medium and approach.\n5. Encourage experimentation: try techniques from lessons throughout the year.\n6. Check in at the halfway point: Is the composition working? Does it need adjustment?\n7. Discuss 'productive struggle': when things do not go as planned, how artists adapt and problem-solve.\n8. Document the process with photographs or journal sketches.\n9. Clean up and properly store the in-progress work.\n10. Write a brief process journal entry reflecting on today's creative decisions.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Art materials for chosen medium", "Project proposal and sketches", "Protective covering for workspace", "Process journal", "Camera or phone for documentation", "Reference images if needed"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Student-Directed Art Project", "subheading": "Beginning the Creation Process"},
+        {"type": "materials", "items": ["Art materials for chosen medium", "Project proposal and sketches", "Workspace protection", "Process journal", "Camera for documentation"], "setup_instructions": "Set up the workspace with all materials gathered during the planning phase. Cover surfaces as needed. Have reference images accessible. Set a timer for check-in points."},
+        {"type": "instruction", "step": 1, "text": "Today you bring your plan to life. Review your proposal and sketches one more time. Remember — your plan is a guide, not a prison. Real artists adapt as they work, responding to what the materials and composition tell them."},
+        {"type": "instruction", "step": 2, "text": "Start with the big shapes and overall composition. Do not get lost in details too early. Establish the main forms, the balance of the piece, and the overall feeling you want to create. Details come last."},
+        {"type": "instruction", "step": 3, "text": "If something is not working, do not panic. Step back — literally. Look at your work from a distance. Sometimes a 'mistake' leads to a better idea than your original plan. This is called 'creative problem-solving' and all professional artists do it."},
+        {"type": "instruction", "step": 4, "text": "Document your process. Take photographs at key stages. Write brief notes about decisions you are making and why. This documentation becomes part of your artist's portfolio and helps you reflect on your growth."},
+        {"type": "activity", "prompt": "Work on your student-directed art project for the full activity period. Focus on establishing the overall composition and main forms. Take at least two progress photos. At the end, write a process journal entry: What decisions did you make today? What surprised you? What will you focus on next session?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Creating art is an act of courage — you are making something that did not exist before. Whatever stage you reached today, you made real creative decisions and brought your vision closer to reality. Properly store your work and we will continue next time.", "mastery_check": "Can the student apply their chosen medium effectively, make compositional decisions, demonstrate creative problem-solving, and document their artistic process?"}
+      ]
+    },
+    "parent_notes": "Step back and let your child work independently. Resist the urge to make suggestions unless asked. The student-directed nature of this project is the point — they are practicing independence, decision-making, and self-expression. If they get frustrated, encourage them to take a break and look at their reference artists for inspiration. Process documentation (photos and journal entries) teaches reflection and will be valuable for the end-of-year portfolio. Ensure the in-progress work is stored safely between sessions.",
+    "age_adaptations": null,
+    "sort_order": 25
+  }
+]

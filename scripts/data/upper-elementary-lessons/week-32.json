@@ -1,0 +1,702 @@
+[
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 32,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Year-in-Review Reflection — Examining Growth as a Reader and Writer",
+    "description": "Students reflect on their growth as readers and writers over the entire school year. They review reading logs, writing samples, and vocabulary growth to create a comprehensive self-assessment that documents their literacy journey.",
+    "instructions": "1. Gather evidence of growth: reading logs, vocabulary notebooks, writing samples from September to now.\n2. Count total books read and pages consumed over the year.\n3. Analyze reading growth: What genres did you explore? How did your reading level change? What was your favorite book and why?\n4. Analyze writing growth: Compare an early writing sample with a recent one. What specific improvements can you identify?\n5. Review vocabulary growth: How many new words did you learn? Which ones do you use regularly now?\n6. Identify your three biggest literacy accomplishments this year.\n7. Identify one area where you still want to grow.\n8. Write a reflective essay (3-4 paragraphs): 'My Year as a Reader and Writer.'\n9. Create a visual timeline of your literacy milestones.\n10. Set three literacy goals for next year.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Reading logs from the year", "Writing samples (early and recent)", "Vocabulary notebook", "Reflection essay paper", "Timeline template", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Year-in-Review Reflection", "subheading": "Your Growth as a Reader and Writer"},
+        {"type": "materials", "items": ["Reading logs", "Writing samples", "Vocabulary notebook", "Reflection paper", "Timeline template", "Colored pencils"], "setup_instructions": "Gather all reading logs, writing samples, and vocabulary work from the entire year. Organize chronologically. Print the timeline template."},
+        {"type": "instruction", "step": 1, "text": "Today we step back and look at the big picture. You have spent an entire year reading, writing, and building vocabulary. The evidence is in your hands — reading logs, writing samples, vocabulary lists. Let's see how far you have come."},
+        {"type": "instruction", "step": 2, "text": "Compare your earliest writing with your most recent. Look for specific changes: sentence variety, vocabulary richness, paragraph structure, use of evidence, voice and style. Growth that is invisible day-to-day becomes obvious in this comparison."},
+        {"type": "instruction", "step": 3, "text": "Think about your reading journey. Did you discover a new favorite author or genre? Did you tackle books that seemed too hard at first? Which book changed how you think about something? Readers grow not just in skill but in perspective."},
+        {"type": "instruction", "step": 4, "text": "Honest self-reflection means acknowledging both strengths and areas for growth. What are you most proud of? What still challenges you? Setting goals based on genuine self-assessment is the mark of a mature learner."},
+        {"type": "activity", "prompt": "Write a reflective essay (3-4 paragraphs) titled 'My Year as a Reader and Writer.' Include: specific evidence of growth, your biggest accomplishment, your favorite reading and writing experiences, one area for continued growth, and three goals for next year. Create a visual literacy milestone timeline showing key moments in your reading and writing development.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You are not the same reader and writer you were in September. The evidence proves it. Every book you read, every essay you wrote, every vocabulary word you learned added to who you are now. Carry this growth forward.", "mastery_check": "Can the student identify specific evidence of their literacy growth, write a thoughtful reflective essay, and set realistic goals for continued development?"}
+      ]
+    },
+    "parent_notes": "This reflection is deeply personal and valuable. Help your child locate early work for comparison — the contrast is usually dramatic. If they struggle to see their own growth, point out specific improvements: longer sentences, richer vocabulary, more complex ideas. The reflective essay becomes a permanent record of this year's journey. The goals for next year give them ownership of their continued learning. Consider reading the essay together and sharing your own observations about their growth.",
+    "age_adaptations": null,
+    "sort_order": 1
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 32,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Problem-Solving Strategies — A Year of Mathematical Thinking",
+    "description": "Students review and apply the problem-solving strategies they have developed throughout the year: drawing diagrams, working backward, looking for patterns, making tables, guess and check, and logical reasoning. They tackle multi-step problems that require strategic selection of approaches.",
+    "instructions": "1. Review the six major problem-solving strategies practiced this year.\n2. Present a problem and model selecting the best strategy: 'What information do I have? What am I looking for? Which strategy fits?'\n3. Solve a problem using 'Draw a Diagram.'\n4. Solve a problem using 'Work Backward.'\n5. Solve a problem using 'Look for a Pattern.'\n6. Solve a problem using 'Make a Table.'\n7. Present multi-step problems that require combining strategies.\n8. Students solve three complex problems, explaining their strategy choices.\n9. Discuss: When did a strategy not work? How did you switch to a different approach?\n10. Reflect on which strategies feel most natural and which are most challenging.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Problem-solving strategy reference cards", "Multi-step problem set", "Graph paper", "Colored pencils", "Whiteboard for modeling", "Timer for challenge problems"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Problem-Solving Strategies", "subheading": "A Year of Mathematical Thinking"},
+        {"type": "materials", "items": ["Strategy reference cards", "Problem set", "Graph paper", "Colored pencils", "Whiteboard", "Timer"], "setup_instructions": "Create or print strategy reference cards. Prepare multi-step problems at varying difficulty levels. Set up the whiteboard for modeling solutions."},
+        {"type": "instruction", "step": 1, "text": "Mathematicians do not just calculate — they think strategically. This year you have learned six powerful strategies: Draw a Diagram, Work Backward, Look for a Pattern, Make a Table, Guess and Check, and Use Logical Reasoning. Today we practice choosing the right tool for each problem."},
+        {"type": "instruction", "step": 2, "text": "Before solving, THINK. Read the problem twice. Ask: What do I know? What am I trying to find? Which strategy will help me organize the information? Sometimes more than one strategy works — start with the one that feels most natural."},
+        {"type": "instruction", "step": 3, "text": "Draw a Diagram works when spatial relationships matter. Work Backward works when you know the ending but not the beginning. Look for a Pattern works with sequences and repeated structures. Make a Table works when you need to organize lots of possibilities."},
+        {"type": "instruction", "step": 4, "text": "The most interesting problems require COMBINING strategies. You might draw a diagram to understand the problem, then make a table to organize data, then look for a pattern to find the solution. Flexible mathematical thinking uses all your tools."},
+        {"type": "activity", "prompt": "Solve these three multi-step problems, clearly identifying which strategy (or strategies) you use and why: (1) A store owner wants to display 36 cans in a triangular stack. How many rows will there be and how many cans in each row? (2) After spending half her money on books and a third of what was left on lunch, Maria had $12. How much did she start with? (3) A snail climbs 3 feet up a wall each day but slides back 1 foot each night. If the wall is 20 feet tall, on what day does the snail reach the top?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Problem-solving is the most important mathematical skill. Formulas and calculations are tools, but knowing WHEN and HOW to use them — that is mathematical thinking. You have spent a year developing this skill, and it will serve you in every math class for the rest of your life.", "mastery_check": "Can the student identify appropriate problem-solving strategies, apply them to multi-step problems, explain their reasoning, and adapt when a strategy does not work?"}
+      ]
+    },
+    "parent_notes": "Problem-solving is where math becomes truly intellectual. These problems are designed to be challenging — struggle is expected and productive. Resist giving hints too quickly; let your child wrestle with the problem and try different approaches. The snail problem is a classic 'trick' problem that teaches careful reading (the snail reaches the top during a climb, not at the end of a day, so it does not slide back). Help your child see that switching strategies is smart, not a sign of failure.",
+    "age_adaptations": null,
+    "sort_order": 2
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 32,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Year-End Timeline Presentation — Sharing Your Historical Synthesis",
+    "description": "Students finalize and present their comprehensive year-end timeline. They practice explaining historical connections, answering questions about their work, and discussing the significance of understanding history as an interconnected narrative.",
+    "instructions": "1. Add final details and touches to the timeline.\n2. Prepare a 5-minute presentation covering the major themes and connections.\n3. Practice speaking clearly and pointing to relevant sections of the timeline.\n4. Identify the three most important connections across eras and prepare to explain them.\n5. Anticipate questions an audience might ask and prepare answers.\n6. Present the timeline to a family audience.\n7. Answer questions and discuss historical connections with the audience.\n8. Reflect on what surprised you most about seeing all of history on one timeline.\n9. Discuss what you would add if you had more time.\n10. Photograph the timeline for the portfolio.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Completed timeline", "Presentation notes", "Pointer or long stick", "Camera for documentation", "Evaluation rubric", "Certificate of completion (optional)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Year-End Timeline Presentation", "subheading": "Sharing Your Historical Synthesis"},
+        {"type": "materials", "items": ["Completed timeline", "Presentation notes", "Pointer", "Camera", "Evaluation rubric"], "setup_instructions": "Display the timeline in a prominent location. Prepare presentation notes on index cards. Set up the camera for photographing. Arrange seating for the audience."},
+        {"type": "instruction", "step": 1, "text": "Add your final touches. Step back and look at the whole timeline from a distance. Does it tell a complete story? Are the most important events clearly visible? Are the cause-and-effect connections marked?"},
+        {"type": "instruction", "step": 2, "text": "Prepare your presentation. You do not need to explain every event — focus on the BIG THEMES: How did trade and communication grow? How did ideas about government evolve? How did technology accelerate change? Choose three major connection chains to highlight."},
+        {"type": "instruction", "step": 3, "text": "Good presenters speak clearly, make eye contact with the audience, point to relevant parts of their visual aid, and invite questions. Practice your presentation at least twice before the real thing."},
+        {"type": "instruction", "step": 4, "text": "Be ready for questions. If someone asks about something you do not know, it is perfectly acceptable to say, 'That is a great question — I would need to research that further.' Honest curiosity is always better than a fake answer."},
+        {"type": "activity", "prompt": "Finalize your timeline and deliver your 5-minute presentation to a family audience. Highlight three major cross-era connections and explain why understanding these connections matters for understanding the present. Answer audience questions. Then photograph the timeline from multiple angles for your portfolio.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You have accomplished something remarkable: synthesizing an entire year of history into one coherent narrative. You can now see that history is not a series of disconnected events but a flowing story where each chapter leads to the next. That perspective — seeing connections across time — is what it means to think historically.", "mastery_check": "Can the student present their timeline coherently, explain cross-era connections clearly, answer questions about their historical synthesis, and articulate why understanding historical connections matters?"}
+      ]
+    },
+    "parent_notes": "This presentation is a culminating assessment of the year's history learning. Be an engaged, encouraging audience. Ask genuine questions about connections you find interesting. The timeline itself is an impressive physical achievement — consider displaying it temporarily in your home. Photograph it thoroughly for the portfolio. If extended family can attend (in person or virtually), a larger audience makes the presentation feel more significant. Celebrate this accomplishment warmly.",
+    "age_adaptations": null,
+    "sort_order": 3
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "geography",
+    "week_number": 32,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Capstone Atlas Project — Planning Your Personal Atlas",
+    "description": "Students begin their capstone geography project: creating a personal atlas that integrates mapping skills, demographic analysis, environmental data, and cultural knowledge developed throughout the year. They select regions, plan their atlas structure, and begin creating maps.",
+    "instructions": "1. Introduce the capstone atlas project: a personally curated atlas showing what you have learned about the world.\n2. Review the geographic skills practiced this year: physical mapping, political mapping, demographic analysis, digital mapping, economic geography.\n3. Choose 6-8 regions or topics for the atlas (must include physical, political, demographic, and thematic maps).\n4. Design the atlas structure: table of contents, map types for each section, text to accompany maps.\n5. Begin creating the first two maps using appropriate cartographic elements.\n6. Include proper map elements: title, legend, compass rose, scale.\n7. Plan accompanying text for each map: What story does this map tell?\n8. Discuss atlas design: consistency in style, clear labeling, visual appeal.\n9. Create a project timeline for completing all maps.\n10. Set quality standards using a rubric.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Blank map outlines", "Atlas for reference", "Colored pencils and markers", "Ruler and compass", "Graph paper", "Atlas project planning sheet"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Capstone Atlas Project", "subheading": "Planning Your Personal Atlas"},
+        {"type": "materials", "items": ["Blank map outlines", "Reference atlas", "Colored pencils and markers", "Ruler and compass", "Graph paper", "Project planning sheet"], "setup_instructions": "Print blank map outlines for chosen regions. Have a reference atlas available for accuracy checking. Set up a dedicated workspace for this multi-session project."},
+        {"type": "instruction", "step": 1, "text": "An atlas is more than a book of maps — it is a way of understanding the world. Your personal atlas will showcase every geographic skill you have learned this year: physical features, political boundaries, demographics, economics, and environmental patterns."},
+        {"type": "instruction", "step": 2, "text": "Plan your atlas structure. You need at least: one physical map (showing landforms and water features), one political map (showing countries and capitals), one demographic map (showing population data), and one thematic map (showing climate, resources, or trade routes). You can add more."},
+        {"type": "instruction", "step": 3, "text": "Every map must include: a clear TITLE, a LEGEND explaining symbols and colors, a COMPASS ROSE showing direction, and a SCALE showing distance. These elements turn a drawing into a real map that communicates accurate information."},
+        {"type": "instruction", "step": 4, "text": "Write accompanying text for each map. A paragraph that explains what the map shows and what patterns or stories it reveals turns your atlas from a reference book into a narrative — a story of the world told through maps."},
+        {"type": "activity", "prompt": "Plan your atlas: (1) Choose 6-8 regions or topics. (2) Design the table of contents. (3) Begin creating your first two maps with all required cartographic elements (title, legend, compass rose, scale). (4) Write accompanying text for one map. (5) Create a timeline for completing all remaining maps.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Your atlas will be a personal geographic masterpiece — a culmination of everything you have learned about our planet this year. Every map you create transforms data into understanding and makes the world a little less mysterious.", "mastery_check": "Can the student plan an atlas with diverse map types, create maps with all required cartographic elements, write informative accompanying text, and manage a multi-session project timeline?"}
+      ]
+    },
+    "parent_notes": "The atlas project is the geography capstone and should be the student's most impressive geographic work. Help them plan realistically — 6-8 maps across several sessions is ambitious but achievable. The accompanying text is important because it shows understanding, not just cartographic skill. A real atlas for reference (or digital access to National Geographic or similar) will improve accuracy and inspire quality. This project connects to nearly every geography lesson from the year.",
+    "age_adaptations": null,
+    "sort_order": 4
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 32,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Wonder — Part 1: August and Via's Perspectives",
+    "description": "Students begin reading 'Wonder' by R.J. Palacio, meeting August Pullman as he enters mainstream school for the first time. They explore themes of kindness, acceptance, and seeing beyond appearances through both August's and his sister Via's perspectives.",
+    "instructions": "1. Introduce the book and the precept that guides it: 'When given the choice between being right or being kind, choose kind.'\n2. Read Part 1 (August) aloud, pausing at key emotional moments.\n3. Discuss August's facial difference and how he navigates a world that stares.\n4. Examine August's voice: How does Palacio make us see the world through his eyes?\n5. Read Part 2 (Via) and discuss how the same family looks different from a sibling's perspective.\n6. Compare August and Via's experiences: How does August's condition affect Via?\n7. Discuss the concept of empathy: truly understanding another person's experience.\n8. Vocabulary: anomaly, empathy, precept, vulnerability, resilience.\n9. Students write about a time they felt different or like an outsider.\n10. Predict how August's school experience will unfold.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Wonder by R.J. Palacio", "Reading journal", "Character tracking chart", "Vocabulary notebook", "Precepts poster paper", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Wonder by R.J. Palacio", "subheading": "August and Via's Perspectives"},
+        {"type": "materials", "items": ["Wonder by R.J. Palacio", "Reading journal", "Character tracking chart", "Vocabulary notebook", "Precepts poster"], "setup_instructions": "Have the book ready. Prepare a character tracking chart. Start a 'Precepts' poster where you will collect the precepts (wise sayings) from the book."},
+        {"type": "instruction", "step": 1, "text": "R.J. Palacio wrote 'Wonder' after seeing a child with a facial difference at an ice cream shop and realizing her own children stared. She wanted to write a book that would change how people see others. As you read, notice how your own perspective shifts."},
+        {"type": "instruction", "step": 2, "text": "August is funny, smart, brave, and ordinary in every way except his face. Pay attention to how Palacio shows us the WHOLE person, not just the difference. August loves Star Wars, hates being stared at, and just wants to be treated normally."},
+        {"type": "instruction", "step": 3, "text": "Via's section shows us that when someone in a family has significant needs, other family members are affected too. Via loves her brother fiercely but sometimes feels invisible. Both feelings are valid."},
+        {"type": "instruction", "step": 4, "text": "This book is built on PRECEPTS — wise sayings that guide how we treat each other. Mr. Browne's first precept is: 'When given the choice between being right or being kind, choose kind.' What does that mean in practice? Can you think of a time when you chose kindness?"},
+        {"type": "activity", "prompt": "Write a reading journal entry responding to one of these prompts: (1) Write about a time you felt different or like an outsider. How did others' reactions affect you? (2) Compare August and Via's perspectives on the same family. What does each sibling see that the other misses? (3) What does the precept 'choose kind' mean in your daily life? Use specific examples from the text and from your own experience.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Palacio wrote 'Wonder' to change the way we see people. Already you are seeing the world through August's eyes and Via's eyes. As we continue, you will see through many more perspectives, each one adding to your understanding of empathy and kindness.", "mastery_check": "Can the student describe August and Via's perspectives, explain how multiple points of view deepen understanding, and connect the book's themes to their own experience?"}
+      ]
+    },
+    "parent_notes": "Wonder is a deeply compassionate book that has become required reading in many schools precisely because of its impact on children's empathy. Your child may ask questions about facial differences, surgeries, and how people with visible differences are treated. Answer honestly and focus on the book's core message: everyone deserves kindness and respect. If your child connects emotionally to the book (tears are common), that is a sign of healthy empathy development. Read along if you can — it is a quick, powerful read for adults too.",
+    "age_adaptations": null,
+    "sort_order": 5
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 32,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Poetry Slam Performance — Sharing Your Voice with an Audience",
+    "description": "Students perform their original spoken word poems for an audience, applying performance skills including projection, pacing, eye contact, and emotional expression. They give and receive constructive feedback and celebrate the courage of sharing creative work publicly.",
+    "instructions": "1. Review performance tips: project your voice, make eye contact, use natural gestures, own the space.\n2. Do a group warm-up: tongue twisters, breathing exercises, vocal projection practice.\n3. Discuss the poetry slam format: each performer shares one poem, audience responds with snaps or applause.\n4. Create a supportive atmosphere: emphasize that every poem and every performance is valued.\n5. Each student performs their poem.\n6. After each performance, audience members share one specific thing they appreciated.\n7. Discuss what makes certain moments in a poem land with extra impact.\n8. Optional: students perform a second poem or do an impromptu collaborative poem.\n9. Reflect on the experience: What did it feel like to perform? What did you learn from watching others?\n10. Celebrate the courage it takes to share creative work publicly.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Original poems from writing session", "Performance space", "Chair or stool for optional seated performance", "Timer", "Feedback forms", "Celebratory atmosphere (optional refreshments)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Poetry Slam", "subheading": "Sharing Your Voice with an Audience"},
+        {"type": "materials", "items": ["Original poems", "Performance space", "Timer", "Feedback forms"], "setup_instructions": "Set up a performance area with a 'stage' space and audience seating. Create a warm, supportive atmosphere. Have the timer ready for keeping performances on track."},
+        {"type": "instruction", "step": 1, "text": "Today you step up and share your words with an audience. This takes courage. Remember: the audience is on your side. They want to hear what you have to say. Trust your words, trust your preparation, and trust your voice."},
+        {"type": "instruction", "step": 2, "text": "Before we start, let's warm up together. Take three deep breaths. Do some tongue twisters to wake up your mouth. Project your voice to the back of the room. Shake out any nervous energy. You are ready."},
+        {"type": "instruction", "step": 3, "text": "In a poetry slam, the audience responds with snaps, finger snapping, or quiet 'mmm' sounds during the poem when something lands. This is not interruption — it is encouragement. It tells the poet their words are hitting home."},
+        {"type": "instruction", "step": 4, "text": "After each performance, share ONE specific thing you appreciated: 'I loved the way you repeated that line — it really built emotion' or 'The image of the ocean in your second stanza made me feel like I was there.' Specific feedback helps everyone grow."},
+        {"type": "activity", "prompt": "Perform your original poem for the audience. Before you begin, take a breath and ground yourself. During your performance, focus on projection, pacing, eye contact, and authentic emotion. After all performances, write a reflection: What did it feel like to perform? What did you learn from hearing others' poems? What would you do differently next time?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You just did something most adults are terrified to do: you stood up and shared your creative work with an audience. That courage — the willingness to be vulnerable and authentic — is at the heart of all great art and all great communication. Remember this feeling.", "mastery_check": "Can the student perform their poem with projection, pacing, and emotional expression, provide specific constructive feedback to peers, and reflect on the performance experience?"}
+      ]
+    },
+    "parent_notes": "This is a highlight of the year for many students. Be a warm, responsive audience. Snap or nod during powerful moments. Offer genuine, specific praise after each performance. If your child is nervous, remind them that feeling nervous and doing it anyway is the definition of bravery. If they freeze mid-performance, quietly encourage them to start over or take a breath. Some children may surprise you with the depth and passion of their poems. Consider recording the performances (with permission) as a keepsake.",
+    "age_adaptations": null,
+    "sort_order": 6
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 32,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Ratio and Proportion Review — Real-World Applications",
+    "description": "Students review ratios and proportions through real-world applications including recipes, scale models, map reading, and unit rates. They practice setting up and solving proportions, connecting this essential middle school skill to everyday contexts.",
+    "instructions": "1. Review what a ratio is: a comparison of two quantities.\n2. Write ratios in three forms: a:b, a/b, and 'a to b.'\n3. Review equivalent ratios and how to find them (multiply or divide both parts by the same number).\n4. Introduce proportions: two equivalent ratios set equal to each other.\n5. Solve proportions using cross-multiplication.\n6. Apply to recipes: If a recipe serves 4 and you need to serve 10, how do you adjust?\n7. Apply to scale models and maps: If 1 inch = 50 miles, how far is 3.5 inches?\n8. Apply to unit rates: If 5 pounds of apples cost $8.75, what is the price per pound?\n9. Students solve a set of real-world proportion problems.\n10. Discuss where they encounter ratios in daily life.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Practice worksheet with real-world problems", "Recipe cards for scaling", "Map with scale bar", "Calculator", "Graph paper", "Whiteboard and markers"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Ratio and Proportion Review", "subheading": "Real-World Applications"},
+        {"type": "materials", "items": ["Practice worksheet", "Recipe cards", "Map with scale", "Calculator", "Graph paper", "Whiteboard"], "setup_instructions": "Prepare recipe cards for scaling exercises. Have a map with a clear scale bar ready. Print the real-world proportion problems worksheet."},
+        {"type": "instruction", "step": 1, "text": "A RATIO compares two quantities. If there are 12 boys and 15 girls in a class, the ratio of boys to girls is 12:15, which simplifies to 4:5. Ratios appear everywhere: speed (miles per hour), recipes (cups of flour per batch), and prices (dollars per pound)."},
+        {"type": "instruction", "step": 2, "text": "A PROPORTION says two ratios are equal. If 2 cups of flour make 12 cookies, how much flour for 30 cookies? Set up the proportion: 2/12 = x/30. Cross-multiply: 12x = 60. Solve: x = 5 cups."},
+        {"type": "instruction", "step": 3, "text": "Recipe scaling is proportional thinking in action. A recipe for 4 people uses 2 cups of rice. For 10 people: 2/4 = x/10. Cross-multiply: 4x = 20. x = 5 cups of rice. Every ingredient scales proportionally."},
+        {"type": "instruction", "step": 4, "text": "Map scales are ratios too. If 1 inch = 50 miles and two cities are 3.5 inches apart on the map, the real distance is 3.5 x 50 = 175 miles. Engineers, architects, and model builders all use scale ratios."},
+        {"type": "activity", "prompt": "Solve these real-world proportion problems: (1) Scale a recipe from 6 servings to 15 servings (adjust all 5 ingredients). (2) Using a map scale of 1 inch = 75 miles, find distances between 4 pairs of cities. (3) Calculate unit prices: which is a better deal — 3 pounds for $5.25 or 5 pounds for $8.50? (4) If a model car is 1/24 scale and is 7.5 inches long, how long is the real car? (5) If 3 workers can paint a fence in 6 hours, how long would it take 5 workers?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Ratios and proportions are the mathematical language of comparison. You use proportional thinking every time you adjust a recipe, read a map, compare prices, or scale a model. In middle school, you will use these skills in algebra, geometry, and science. You are ready.", "mastery_check": "Can the student write ratios in multiple forms, solve proportions using cross-multiplication, and apply proportional reasoning to real-world problems?"}
+      ]
+    },
+    "parent_notes": "Proportional reasoning is considered one of the most important mathematical skills for middle school readiness. Practice opportunities are everywhere: adjusting recipes, comparing unit prices while shopping, reading maps during road trips, or discussing scale in models and drawings. If your child struggles with cross-multiplication, return to equivalent ratios: if 2/12 = ?/30, think '12 times what equals 30? 2.5. So 2 times 2.5 = 5.' Both methods work; let your child use whichever clicks.",
+    "age_adaptations": null,
+    "sort_order": 7
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 32,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Science Fair — Analyzing Data and Drawing Conclusions",
+    "description": "Students analyze the data from their science fair experiments, create graphs and data displays, determine whether their hypothesis was supported, and write their conclusions. They learn that unsupported hypotheses are valuable scientific results, not failures.",
+    "instructions": "1. Review all collected data: Is it complete? Are there any gaps that need to be addressed?\n2. Organize data into tables with clear labels and units.\n3. Choose the appropriate type of graph for the data (bar graph, line graph, or scatter plot).\n4. Create neat, accurate graphs with titles, labeled axes, and scales.\n5. Calculate any relevant statistics (mean, range).\n6. Analyze the data: What patterns or trends appear?\n7. Determine whether the hypothesis was supported or not supported by the evidence.\n8. Discuss why 'not supported' is not the same as 'failed' — all honest results are valuable to science.\n9. Write the conclusion: restate hypothesis, summarize results, explain what was learned.\n10. Identify sources of error and suggest improvements for future experiments.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Experiment data", "Graph paper", "Ruler", "Colored pencils", "Calculator", "Conclusion writing template", "Science journal"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Science Fair", "subheading": "Analyzing Data and Drawing Conclusions"},
+        {"type": "materials", "items": ["Experiment data", "Graph paper", "Ruler", "Colored pencils", "Calculator", "Conclusion template"], "setup_instructions": "Spread out all data tables and observations. Have graph paper and coloring supplies ready. Print the conclusion writing template."},
+        {"type": "instruction", "step": 1, "text": "Your data holds answers — but only if you organize and analyze it carefully. A table full of numbers is raw information. Graphs and statistics transform that information into UNDERSTANDING."},
+        {"type": "instruction", "step": 2, "text": "Choose the right graph for your data. If you are comparing groups (Plant A vs. Plant B), use a BAR GRAPH. If you are showing change over time (growth over 10 days), use a LINE GRAPH. If you are looking for relationships between two measurements, use a SCATTER PLOT."},
+        {"type": "instruction", "step": 3, "text": "Was your hypothesis supported? Look at your data honestly. If your results match your prediction, great — explain why. If they do NOT match, that is EQUALLY valuable. Some of the most important discoveries in science came from hypotheses that were not supported. Penicillin, for example."},
+        {"type": "instruction", "step": 4, "text": "Every experiment has SOURCES OF ERROR — things that might have affected your results. Maybe the temperature was not perfectly controlled, or your measurements were not perfectly precise. Identifying these shows scientific maturity and suggests how to improve the experiment."},
+        {"type": "activity", "prompt": "Analyze your science fair data: (1) Create at least one graph displaying your results clearly. (2) Calculate relevant statistics (mean, range). (3) Write your conclusion: restate hypothesis, summarize key results, state whether the hypothesis was supported and why. (4) Identify at least two sources of error. (5) Suggest two improvements for a future experiment.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You have completed every step of the scientific method: question, research, hypothesis, experiment, analysis, and conclusion. Whether your hypothesis was supported or not, you practiced genuine science. The scientific method is powerful because it works regardless of the outcome.", "mastery_check": "Can the student create appropriate data displays, analyze data for patterns, write a clear conclusion that addresses the hypothesis, and identify sources of error?"}
+      ]
+    },
+    "parent_notes": "If your child's hypothesis was not supported, help them understand that this is not a failure. Many science fairs give awards to projects with clear negative results because they demonstrate honest science. The conclusion should focus on what was LEARNED, not whether they were 'right.' The sources of error section is important — it teaches humility and rigor. These are the habits of mind that distinguish scientists from casual observers. Help with graph construction if needed, but let your child write the conclusion independently.",
+    "age_adaptations": null,
+    "sort_order": 8
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 32,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Student-Directed Art Project — Completing and Reflecting",
+    "description": "Students complete their student-directed art projects and write final artist's statements reflecting on the creative process, challenges overcome, and the meaning of the finished work. They prepare their pieces for the end-of-year art show.",
+    "instructions": "1. Assess what remains to complete the artwork.\n2. Work on final details, refinements, and finishing touches.\n3. Step back and evaluate the piece from a distance and from different angles.\n4. Make any final adjustments.\n5. Clean up and prepare the artwork for display (mount, frame, or base as appropriate).\n6. Write the final artist's statement: medium, inspiration, process, message, and reflection.\n7. Create a display label: title, artist name, medium, year.\n8. Photograph the completed work from multiple angles.\n9. Compare the finished piece with the original proposal and thumbnail sketches.\n10. Reflect: What did you learn about yourself as an artist through this project?",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["In-progress artwork", "Art materials for finishing", "Mounting or framing supplies", "Artist's statement template", "Display label materials", "Camera for documentation"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Student-Directed Art Project", "subheading": "Completing and Reflecting"},
+        {"type": "materials", "items": ["In-progress artwork", "Finishing materials", "Mounting supplies", "Artist's statement template", "Label materials", "Camera"], "setup_instructions": "Retrieve the artwork carefully. Prepare finishing and mounting materials. Print the artist's statement template. Have the original proposal and sketches accessible for comparison."},
+        {"type": "instruction", "step": 1, "text": "Finishing an artwork is its own skill. Knowing when to stop is as important as knowing what to add. Step back from your piece. Look at it from across the room. Does it feel complete? Trust your artistic instinct."},
+        {"type": "instruction", "step": 2, "text": "Prepare your artwork for display. This might mean mounting on cardboard, building a base for sculpture, matting, or simply cleaning up edges. Presentation shows respect for your own work."},
+        {"type": "instruction", "step": 3, "text": "Your final artist's statement tells the viewer what they cannot see: your inspiration, your process, the challenges you overcame, and what the work means to you. It transforms your artwork from something people look at into something they understand."},
+        {"type": "instruction", "step": 4, "text": "Compare your finished piece with your original proposal and thumbnails. How did the work evolve? What changed and why? The distance between the plan and the final piece is where the real creative growth happened."},
+        {"type": "activity", "prompt": "Complete your artwork with final details and finishing touches. Prepare it for display (mount, frame, or base). Write your final artist's statement including: title, medium, inspiration, description of creative process, challenges overcome, and what the work means to you. Create a display label. Photograph the finished piece alongside your original sketches.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You have completed a student-directed artwork from conception to completion. You made every decision: the medium, the subject, the composition, the techniques. That independence is the goal of art education — not to follow instructions perfectly, but to express yourself with confidence and skill.", "mastery_check": "Can the student complete an artwork with attention to quality, prepare it for display, write a thoughtful artist's statement, and reflect on their creative process and growth?"}
+      ]
+    },
+    "parent_notes": "Completing a self-directed project is a significant accomplishment. Celebrate the finished work regardless of whether it matches the original vision — the learning is in the process. The artist's statement requires your child to articulate their creative thinking, which is a sophisticated skill. Help them find a prominent place to display the work at home before the end-of-year show. The comparison between original sketches and finished piece often sparks interesting conversations about how ideas evolve through the creative process.",
+    "age_adaptations": null,
+    "sort_order": 9
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "practical_life",
+    "week_number": 32,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Planning a Celebration Meal — From Menu to Table",
+    "description": "Students plan a complete celebration meal for their family, including menu selection, grocery budgeting, recipe scaling, table setting, and timeline creation. They integrate math skills (budgeting, proportions), language skills (writing invitations), and practical cooking skills.",
+    "instructions": "1. Discuss the significance of shared meals in community building and celebration.\n2. Choose a theme or occasion for the celebration meal.\n3. Plan a balanced menu: appetizer, main course, side dishes, dessert, and beverages.\n4. Consider dietary needs and preferences of all guests.\n5. Gather recipes for each dish and scale them for the number of guests.\n6. Create a grocery list with estimated costs and set a budget.\n7. Plan the cooking timeline: what needs to be prepared first? What can be made ahead?\n8. Design a table setting and create place cards or a centerpiece.\n9. Write invitations or a menu card for the table.\n10. Create a complete event plan from shopping to cleanup.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Recipe books or printed recipes", "Grocery list template", "Calculator for budgeting", "Table setting diagram", "Art supplies for invitations/menu cards", "Timeline planning sheet"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Planning a Celebration Meal", "subheading": "From Menu to Table"},
+        {"type": "materials", "items": ["Recipe books or recipes", "Grocery list template", "Calculator", "Table setting diagram", "Art supplies", "Timeline sheet"], "setup_instructions": "Gather recipe books or access recipe websites. Print the grocery list template and timeline planning sheet. Have art supplies ready for invitations and menu cards."},
+        {"type": "instruction", "step": 1, "text": "Throughout human history, shared meals have been how communities celebrate, honor, and connect. Planning a meal from start to finish is a real-world project that uses math, reading, writing, art, and organizational skills all at once."},
+        {"type": "instruction", "step": 2, "text": "Plan a balanced menu. Think about flavors (sweet, savory, spicy), textures (crunchy, creamy, tender), colors (a plate should look beautiful), and nutrition. A great meal appeals to all the senses."},
+        {"type": "instruction", "step": 3, "text": "Scale your recipes for the number of guests — that is proportional reasoning in action! If a recipe serves 4 and you are cooking for 7, multiply each ingredient by 7/4 (1.75). Round up for things like eggs."},
+        {"type": "instruction", "step": 4, "text": "Create a cooking timeline working BACKWARD from serving time. Dessert might need 2 hours in the oven plus cooling time. The main course might take 45 minutes. Side dishes might take 20 minutes. Plan so everything is ready at the same time."},
+        {"type": "activity", "prompt": "Plan your complete celebration meal: (1) Choose a theme and menu (appetizer, main, 2 sides, dessert, beverage). (2) Scale all recipes for the number of guests. (3) Create a grocery list with estimated costs within a budget. (4) Design a cooking timeline working backward from serving time. (5) Plan the table setting and create a handwritten menu card or place cards. (6) Write a brief invitation for your guests.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You have planned a complete event — and it took math, reading, writing, art, and organizational skills. When you cook this meal, you will practice science (cooking is chemistry), time management, and the practical life skill of feeding the people you love. That is powerful.", "mastery_check": "Can the student plan a balanced menu, scale recipes proportionally, create a budget-conscious grocery list, design a cooking timeline, and incorporate decorative elements?"}
+      ]
+    },
+    "parent_notes": "This lesson integrates nearly every subject area into one practical project. When possible, actually cook the planned meal together as a family — it transforms the plan into reality and creates lasting memories. Let your child take the lead in the kitchen as much as safely possible. The math skills (scaling recipes, budgeting) are applied authentically. The artistic elements (menu cards, table setting) bring creativity into a practical context. This is Montessori practical life at its best: real work for real purposes.",
+    "age_adaptations": null,
+    "sort_order": 10
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 32,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Summer Reading List — Building a Personal Reading Plan",
+    "description": "Students explore book recommendations across genres, evaluate reading options using reviews and previews, and create a personalized summer reading list. They practice skills of literary recommendation, peer discussion, and self-directed reading goal-setting.",
+    "instructions": "1. Discuss why reading over the summer matters: maintaining skills, discovering new interests, pure enjoyment.\n2. Reflect on favorite books and genres from this year.\n3. Present a curated list of recommended books across genres: fiction, nonfiction, fantasy, historical fiction, mystery, graphic novels, poetry.\n4. Practice evaluating books: read back cover, first page, reviews.\n5. Discuss the 'rule of 50 pages': give a book 50 pages before deciding it is not for you.\n6. Learn about different ways to discover books: librarian recommendations, award lists, friend recommendations, reading apps.\n7. Students select at least 10 books for their summer reading list.\n8. Organize the list by priority or reading order.\n9. Set a summer reading goal (number of books, pages, or minutes per day).\n10. Write book recommendations for classmates or future students.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Book recommendation lists by genre", "Access to library catalog or bookstore", "Reading journal", "Summer reading list template", "Book review examples", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Summer Reading List", "subheading": "Building Your Personal Reading Plan"},
+        {"type": "materials", "items": ["Book recommendation lists", "Library catalog access", "Reading journal", "Summer reading list template", "Book review examples"], "setup_instructions": "Prepare genre-based book recommendation lists at the upper elementary level. Access the library catalog or online book databases. Print the summer reading list template."},
+        {"type": "instruction", "step": 1, "text": "Research shows that students who read over the summer maintain their reading skills, while those who do not can lose months of progress. But more importantly — summer is the best time to read for PURE ENJOYMENT. No assignments, no deadlines, just great books."},
+        {"type": "instruction", "step": 2, "text": "Think about what you loved reading this year. Did you discover a favorite genre? A favorite author? Use that as a starting point, but also challenge yourself to try something new. The best readers have wide tastes."},
+        {"type": "instruction", "step": 3, "text": "How to evaluate a book before committing: Read the back cover or flap summary. Read the first page — does the writing grab you? Check reviews from other readers your age. Look at award lists (Newbery, National Book Award for Young People). Ask your librarian."},
+        {"type": "instruction", "step": 4, "text": "Your summer reading list should include variety: some books that feel comfortable and fun, some that stretch you, and at least one that is completely outside your usual choices. The goal is 10+ books — that is roughly one book every week of summer."},
+        {"type": "activity", "prompt": "Create your personalized summer reading list of at least 10 books. For each book, note the title, author, genre, and why you chose it. Organize them by priority (most excited to read first). Set a specific summer reading goal (pages per day, books per month, or total books). Then write a 'book recommendation card' for one book you read this year — something you would enthusiastically recommend to a friend.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "A summer reading list is a gift to your future self. Every book on that list is an adventure waiting to happen. Make reading a daily summer habit — even 20 minutes a day adds up to thousands of pages by September. Happy reading.", "mastery_check": "Can the student evaluate books using multiple criteria, create a diverse reading list, set realistic reading goals, and write a thoughtful book recommendation?"}
+      ]
+    },
+    "parent_notes": "A trip to the library or bookstore to select summer reading books is a wonderful end-of-year tradition. Let your child choose freely — summer reading should be joyful, not prescribed. If they want to read graphic novels, series books, or genres you would not choose, support their enthusiasm. The 'rule of 50 pages' gives permission to abandon books that are not working, which is important for developing confident readers. Consider setting up a family reading time where everyone reads together, modeling the habit for your child.",
+    "age_adaptations": null,
+    "sort_order": 11
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 32,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Problem-Solving Tournament — Challenge Math Competition",
+    "description": "Students participate in a fun, low-stakes math problem-solving tournament featuring puzzles, brain teasers, and multi-step challenges. This celebration of mathematical thinking rewards creativity, perseverance, and strategic reasoning rather than speed alone.",
+    "instructions": "1. Explain the tournament format: individual rounds, team rounds (if applicable), and a bonus challenge.\n2. Discuss the scoring: points for correct answers, bonus points for showing clear work and creative strategies.\n3. Round 1: Five individual problems with moderate difficulty (5 minutes each).\n4. Round 2: Three team or partner problems requiring collaboration (8 minutes each).\n5. Round 3: Two challenge problems requiring multiple strategies (10 minutes each).\n6. Bonus round: One open-ended investigation problem with multiple valid approaches.\n7. Review solutions together, discussing different approaches to the same problem.\n8. Celebrate all participants — focus on clever strategies and persistence, not just correct answers.\n9. Reflect on favorite problems and strategies used.\n10. Award certificates for various categories: Best Strategy, Most Persistent, Most Creative Solution, etc.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Tournament problem sets (tiered difficulty)", "Scrap paper", "Pencils", "Timer", "Certificates for participants", "Calculator (for checking only)", "Small prizes (optional)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Problem-Solving Tournament", "subheading": "Challenge Math Competition"},
+        {"type": "materials", "items": ["Problem sets", "Scrap paper", "Pencils", "Timer", "Certificates", "Calculator"], "setup_instructions": "Prepare problem sets at increasing difficulty. Set up individual workspaces. Print certificates for various achievement categories. Have the timer visible."},
+        {"type": "instruction", "step": 1, "text": "Today is a celebration of mathematical thinking! This tournament is about creativity and persistence, not just getting the right answer. You earn bonus points for showing your work clearly and for using creative strategies."},
+        {"type": "instruction", "step": 2, "text": "Round 1 is individual. Work carefully and show your thinking. If you are stuck, try a different strategy — draw a picture, make a table, work backward, or guess and check. Remember, multiple strategies can lead to the same answer."},
+        {"type": "instruction", "step": 3, "text": "Round 2 is collaborative. Two heads are better than one! Share your ideas, listen to your partner's approach, and combine your thinking. The best mathematical conversations happen when people with different strategies work together."},
+        {"type": "instruction", "step": 4, "text": "The bonus challenge is open-ended — there may be more than one correct answer or more than one way to solve it. Explore, experiment, and see what you discover. This is the kind of problem real mathematicians love."},
+        {"type": "activity", "prompt": "Complete the tournament rounds: Round 1 (5 individual problems, 5 minutes each), Round 2 (3 collaborative problems, 8 minutes each), Round 3 (2 challenge problems, 10 minutes each), and the Bonus Challenge (1 open-ended problem). Show all work and explain your strategies. After the tournament, review solutions and discuss different approaches to the same problems.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Mathematics is not a spectator sport — it is a creative, challenging, sometimes frustrating, always rewarding way of thinking. Whether you solved every problem or only a few, you exercised your mathematical brain today. That is what matters.", "mastery_check": "Can the student apply multiple problem-solving strategies, show clear mathematical reasoning, collaborate effectively on math challenges, and persist through difficult problems?"}
+      ]
+    },
+    "parent_notes": "This should feel like a celebration, not a test. If your child is the only participant, take the role of a fellow contestant — work alongside them and share your strategies too. The categories for certificates (Most Creative, Most Persistent) ensure that every participant feels recognized for something beyond just correct answers. If your child gets frustrated with a problem, model positive self-talk: 'This is a tough one! Let me try a different approach.' The debriefing where different strategies are discussed is as valuable as the tournament itself.",
+    "age_adaptations": null,
+    "sort_order": 12
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 32,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Oral History Narratives — Writing and Sharing Living Stories",
+    "description": "Students transform their oral history interviews into written narratives, selecting the most compelling stories and presenting them in a format that preserves the interviewee's voice and connects personal experience to historical events.",
+    "instructions": "1. Review interview notes and recordings.\n2. Identify the 2-3 most compelling stories from the interview.\n3. Discuss narrative choices: first person (using the interviewee's words) versus third person (narrator telling the story).\n4. Draft the narrative, preserving the interviewee's voice and key quotes.\n5. Add historical context: connect the personal stories to events, decades, or movements studied this year.\n6. Include sensory details that bring the stories to life.\n7. Write an introduction that sets the scene and introduces the interviewee.\n8. Peer review: share narratives and give feedback on clarity and impact.\n9. Prepare a brief oral presentation of the most interesting finding.\n10. Discuss what oral histories reveal that textbooks cannot.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Interview notes and recordings", "Narrative writing template", "Historical context reference materials", "Writing paper or computer", "Peer review checklist", "Presentation notes cards"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Oral History Narratives", "subheading": "Writing and Sharing Living Stories"},
+        {"type": "materials", "items": ["Interview notes and recordings", "Narrative template", "Historical references", "Writing paper", "Peer review checklist"], "setup_instructions": "Have all interview materials accessible. Print the narrative writing template. Gather historical references for adding context to the personal stories."},
+        {"type": "instruction", "step": 1, "text": "Your interview captured someone's living memories. Now you transform those memories into a written narrative that preserves their voice and their story for future readers. This is how oral historians work."},
+        {"type": "instruction", "step": 2, "text": "Choose your narrative approach. FIRST PERSON uses the interviewee's own words: 'I remember the day we moved. Everything we owned fit in one truck.' THIRD PERSON narrates their story: 'The family moved with everything fitting in a single truck.' First person often feels more powerful."},
+        {"type": "instruction", "step": 3, "text": "Add HISTORICAL CONTEXT around the personal stories. If your interviewee talks about growing up in the 1960s, briefly note what was happening in the country at that time. This shows how their personal experience connects to the larger sweep of history."},
+        {"type": "instruction", "step": 4, "text": "Use the interviewee's best DIRECT QUOTES. When they said something particularly vivid, funny, or moving, quote their exact words. Direct quotes bring authenticity and power that paraphrasing cannot match."},
+        {"type": "activity", "prompt": "Write a 2-3 page oral history narrative based on your interview. Include: an introduction setting the scene and introducing the person, 2-3 compelling stories told in their voice (with direct quotes), historical context connecting their experiences to events you studied, and a conclusion reflecting on what their story teaches us. Then prepare a 3-minute oral presentation of your most interesting finding.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You have done something genuinely important: you have preserved a person's memories in written form. These stories might otherwise have been lost. Oral history reminds us that behind every statistic, every historical event, and every era are real human beings living real lives.", "mastery_check": "Can the student write a narrative that preserves the interviewee's voice, incorporate direct quotes effectively, connect personal stories to historical context, and present key findings?"}
+      ]
+    },
+    "parent_notes": "If the interviewee is a family member, they may want to read the finished narrative — it can be a deeply moving experience for them. If the interview was recorded, help your child listen back for the most powerful quotes. The connection between personal stories and historical events is the most intellectually demanding part. Help your child make these connections if needed: 'When Grandma talks about rationing, that was during the Vietnam era.' Consider making copies of the finished narrative for the interviewee and other family members as a gift.",
+    "age_adaptations": null,
+    "sort_order": 13
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "geography",
+    "week_number": 32,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Capstone Atlas Project — Creating Thematic and Demographic Maps",
+    "description": "Students continue their capstone atlas by creating thematic and demographic maps. They apply data visualization skills to represent complex information geographically, including population data, climate patterns, economic activity, or environmental issues.",
+    "instructions": "1. Review progress on the atlas project and identify which maps still need to be created.\n2. Discuss thematic maps: maps that display one specific topic or theme across a region.\n3. Select data for the thematic map: climate zones, natural resources, economic activity, or language distribution.\n4. Choose appropriate symbols, colors, and patterns to represent the data clearly.\n5. Create the thematic map with all required cartographic elements.\n6. Create a demographic map using population data (population pyramid data, density, or growth rate).\n7. Write accompanying text explaining what each map reveals.\n8. Review all atlas maps for consistency in style and quality.\n9. Identify any remaining maps needed to complete the atlas.\n10. Plan the final assembly session.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Atlas project materials", "Thematic data sets", "Blank map outlines", "Colored pencils and markers", "Ruler", "Reference atlas for accuracy"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Capstone Atlas Project", "subheading": "Thematic and Demographic Maps"},
+        {"type": "materials", "items": ["Atlas materials", "Data sets", "Blank maps", "Colored pencils", "Ruler", "Reference atlas"], "setup_instructions": "Lay out all completed atlas pages. Print blank maps for new pages. Prepare data sets for thematic and demographic maps. Have the reference atlas available."},
+        {"type": "instruction", "step": 1, "text": "Thematic maps tell stories with data. A climate map shows why certain crops grow in certain places. A resource map explains trade patterns. A language map reveals cultural history. Choose a theme that interests you and that connects to what you have learned this year."},
+        {"type": "instruction", "step": 2, "text": "COLOR CHOICES matter in thematic maps. Use intuitive colors: blue for water, green for forests, red for hot temperatures. Use a gradient (light to dark) to show intensity. Keep the legend clear so anyone can read your map without explanation."},
+        {"type": "instruction", "step": 3, "text": "Your demographic map should use population data to tell a geographic story. Population density shows where people cluster. Growth rates show which areas are changing fastest. Literacy rates or life expectancy reveal quality-of-life patterns."},
+        {"type": "instruction", "step": 4, "text": "Review all your atlas maps together. Do they share a consistent style? Are labels readable? Are legends clear? Consistency makes your atlas feel professional and coherent."},
+        {"type": "activity", "prompt": "Create two new atlas maps: (1) A thematic map showing one topic of your choice (climate, resources, languages, economic activity) with appropriate symbols, colors, and a clear legend. (2) A demographic map using population data (density, growth rate, or age distribution) with a color gradient. Write accompanying text for each map explaining what geographic stories the data reveals.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Thematic maps transform abstract data into geographic understanding. When you see that certain patterns cluster in certain places, you are discovering the geographic forces that shape our world. Your atlas is becoming a genuine reference work.", "mastery_check": "Can the student create thematic and demographic maps with appropriate data visualization, include all cartographic elements, write explanatory text, and maintain stylistic consistency across the atlas?"}
+      ]
+    },
+    "parent_notes": "These maps require both artistic skill and data comprehension. If your child needs help finding data for their thematic map, the CIA World Factbook, National Geographic, and World Bank data are all accessible online sources. The color gradient technique (light to dark representing low to high values) is used in professional cartography. Encourage your child to use the reference atlas for accuracy. The accompanying text is as important as the maps — it shows analytical thinking.",
+    "age_adaptations": null,
+    "sort_order": 14
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "read_aloud",
+    "week_number": 32,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Wonder — Parts 3-5: Summer, Jack, and Justin's Perspectives",
+    "description": "Students continue reading 'Wonder,' experiencing the story through Summer, Jack, and Justin's perspectives. They analyze how each character's viewpoint adds depth to the narrative and discuss how choosing kindness requires different things from different people.",
+    "instructions": "1. Review August and Via's perspectives from last session.\n2. Read Parts 3-5 (Summer, Jack, Justin) aloud, pausing for discussion.\n3. Discuss Summer's choice to sit with August: What motivated her? What did it cost her socially?\n4. Analyze Jack's internal conflict: Why did he say what he said at Halloween? What does his guilt reveal?\n5. Examine Justin's perspective as an outsider joining this story.\n6. Discuss how each character's relationship with August changes them.\n7. Identify the precepts introduced in these sections and discuss their meanings.\n8. Compare how different characters define and practice kindness.\n9. Students write about which character's perspective resonated most with them and why.\n10. Predict how the story will resolve.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Wonder by R.J. Palacio", "Reading journal", "Character tracking chart", "Precepts poster", "Vocabulary notebook", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Wonder — Parts 3-5", "subheading": "Summer, Jack, and Justin's Perspectives"},
+        {"type": "materials", "items": ["Wonder by R.J. Palacio", "Reading journal", "Character chart", "Precepts poster", "Vocabulary notebook"], "setup_instructions": "Have the book and all tracking documents ready. Add new precepts to the poster. Update the character chart with the new perspective characters."},
+        {"type": "instruction", "step": 1, "text": "Palacio gives us the story through multiple pairs of eyes. Each perspective reveals something new — not just about the events, but about what it costs and what it means to choose kindness when it is difficult."},
+        {"type": "instruction", "step": 2, "text": "Summer chose to sit with August when no one else would. It was not because she pitied him — it was because she genuinely liked him. But her choice had social consequences. Why is doing the right thing sometimes socially risky?"},
+        {"type": "instruction", "step": 3, "text": "Jack's section is painful and honest. He said something cruel about August behind his back — and got caught. His guilt is real. Palacio shows us that even good people make terrible choices sometimes. What matters is what Jack does next."},
+        {"type": "instruction", "step": 4, "text": "Each character faces a different version of the kindness challenge. For August, it is about being brave enough to show up. For Summer, it is about defying social pressure. For Jack, it is about making amends. For Justin, it is about standing up against bullying. Kindness is not one thing — it is many things."},
+        {"type": "activity", "prompt": "Choose one of today's perspective characters (Summer, Jack, or Justin) and write a reading journal entry analyzing their experience: What did their perspective reveal that we could not see from August's point of view? What did choosing kindness cost them? What did it give them? Which character's perspective resonated most with you, and why?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Each new perspective in 'Wonder' deepens our understanding of what it means to choose kindness. It is never simple, never costless, but always transformative. As we finish the book, watch for how these individual choices create something larger than any one person.", "mastery_check": "Can the student analyze multiple character perspectives, explain how each character's experience with kindness differs, identify with a character's viewpoint, and support their analysis with textual evidence?"}
+      ]
+    },
+    "parent_notes": "Jack's section often sparks important conversations about mistakes, guilt, and making amends. If your child has ever said something they regret (and every child has), Jack's experience validates those feelings while showing a path forward. The multiple perspectives are the book's greatest strength — they teach children to consider that every person in any situation has their own full experience. Ask your child which perspective surprised them most and which they relate to most strongly.",
+    "age_adaptations": null,
+    "sort_order": 15
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 32,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "Persuasive Writing Review — Crafting a Compelling Argument",
+    "description": "Students review persuasive writing techniques by crafting a new argument on a topic of their choice. They apply all the rhetorical skills developed this year: thesis statements, evidence, counterarguments, emotional and logical appeals, and strong conclusions.",
+    "instructions": "1. Review the elements of persuasive writing: claim, evidence, reasoning, counterargument, call to action.\n2. Discuss the three types of appeal: logos (logic), ethos (credibility), pathos (emotion).\n3. Students choose a topic they feel passionately about.\n4. Write a clear thesis statement (claim).\n5. Gather at least three pieces of supporting evidence.\n6. Address at least one counterargument.\n7. Include all three types of appeal in the essay.\n8. Write a strong conclusion with a specific call to action.\n9. Peer review focusing on persuasive strength.\n10. Reflect: How has your persuasive writing improved since earlier this year?",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Persuasive writing checklist", "Three appeals reference sheet", "Research materials for evidence", "Writing paper or computer", "Peer review form", "Earlier persuasive writing for comparison"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Persuasive Writing Review", "subheading": "Crafting a Compelling Argument"},
+        {"type": "materials", "items": ["Persuasive checklist", "Appeals reference", "Research materials", "Writing paper", "Peer review form"], "setup_instructions": "Print the persuasive writing checklist and three appeals reference sheet. Have research materials available. Locate an earlier persuasive essay for growth comparison."},
+        {"type": "instruction", "step": 1, "text": "Persuasive writing is one of the most powerful skills you will ever develop. Every time you write a college application, a job cover letter, or even a social media post arguing for something, you are using persuasive writing."},
+        {"type": "instruction", "step": 2, "text": "The three appeals work together: LOGOS (logic — facts, statistics, evidence), ETHOS (credibility — expert opinions, your own experience), and PATHOS (emotion — stories, vivid language, shared values). The strongest arguments use all three."},
+        {"type": "instruction", "step": 3, "text": "Your counterargument section shows intellectual maturity. Acknowledge the strongest argument against your position, then explain why your position is still more convincing. This shows you have thought deeply, not just one-sidedly."},
+        {"type": "instruction", "step": 4, "text": "End with a specific CALL TO ACTION. Do not just conclude with 'In conclusion, I am right.' Tell your reader exactly what you want them to do: 'Contact your representative,' 'Change this habit,' 'Consider this perspective.' Make it actionable."},
+        {"type": "activity", "prompt": "Write a persuasive essay on a topic you care about. Include: (1) A clear thesis statement. (2) At least three pieces of evidence (logos). (3) At least one expert opinion or credible source (ethos). (4) At least one emotional appeal with vivid language (pathos). (5) One counterargument addressed and refuted. (6) A conclusion with a specific call to action. Then compare this essay with your earliest persuasive writing from this year.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Compare today's essay with your first persuasive writing attempt from earlier this year. The difference is your growth as a thinker and communicator. You now have the tools to argue effectively, ethically, and compellingly for the things you believe in.", "mastery_check": "Can the student construct a persuasive essay using all three appeals, address counterarguments, conclude with a call to action, and demonstrate growth compared to earlier writing?"}
+      ]
+    },
+    "parent_notes": "Persuasive writing is a life skill. Let your child choose their topic freely — passion drives the best persuasive writing. If they choose a topic you disagree with, that is fine; the skill is in the argument, not the conclusion. The comparison with earlier persuasive writing is powerful for showing growth. Consider having your child try to persuade you about something real (later bedtime, a family activity, a purchase) using these techniques — it gives authentic practice and makes the skills tangible.",
+    "age_adaptations": null,
+    "sort_order": 16
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 32,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "Real-World Math Integration — Putting It All Together",
+    "description": "Students tackle complex real-world scenarios that require integrating multiple math skills: fractions, decimals, percentages, geometry, statistics, probability, and algebra. These authentic problems mirror the kind of mathematical thinking needed in everyday life.",
+    "instructions": "1. Discuss how real-world math rarely comes in neat categories — it requires combining skills.\n2. Present Scenario 1: Planning a road trip (distance, fuel costs, budgeting, time calculations).\n3. Present Scenario 2: Redesigning a room (area, perimeter, scale drawing, cost estimation).\n4. Present Scenario 3: Analyzing sports statistics (averages, percentages, probability of outcomes).\n5. Present Scenario 4: Starting a small business (pricing, profit margins, break-even point).\n6. Students choose two scenarios and solve them completely.\n7. For each scenario, list every math skill used.\n8. Discuss how math connects to career paths: engineering, medicine, business, science, technology.\n9. Students create one original real-world math scenario.\n10. Reflect: When has math helped you solve a real problem?",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Scenario problem sets", "Calculator", "Graph paper", "Ruler", "Colored pencils", "Map for road trip scenario"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Real-World Math Integration", "subheading": "Putting It All Together"},
+        {"type": "materials", "items": ["Scenario problems", "Calculator", "Graph paper", "Ruler", "Colored pencils", "Map"], "setup_instructions": "Print the four scenario problem sets. Have calculators, graph paper, and rulers available. Display a map for the road trip scenario."},
+        {"type": "instruction", "step": 1, "text": "In school, math comes in chapters: fractions, then geometry, then statistics. In real life, a single problem might require all of them at once. Today you use EVERYTHING you have learned to solve authentic challenges."},
+        {"type": "instruction", "step": 2, "text": "Scenario 1 — Road Trip: Your family drives from New York to Orlando (1,100 miles). Your car gets 28 miles per gallon and gas costs $3.45/gallon. You budget $200/night for hotels and $75/day for food. Plan the trip and calculate total cost."},
+        {"type": "instruction", "step": 3, "text": "Scenario 2 — Room Redesign: Your room is 12 feet by 10 feet. New carpet costs $4.50 per square foot. You want to paint three walls (2 are 12x8 feet, 1 is 10x8 feet). Paint covers 350 sq ft per gallon at $32/gallon. Create a scale drawing and calculate total cost."},
+        {"type": "instruction", "step": 4, "text": "These are the kinds of calculations adults make every day. The math skills you have built this year are not just for school — they are tools for navigating real life independently and confidently."},
+        {"type": "activity", "prompt": "Choose two of the four scenarios and solve them completely, showing all work: (1) Road Trip: Calculate fuel cost, hotel cost, food cost, total cost, and cost per person for a family of 4. (2) Room Redesign: Calculate carpet cost, paint needed and cost, total cost, and create a scale drawing. (3) Sports Stats: Given a season's batting data, calculate averages, percentages, and probability of hitting in the next game. (4) Small Business: Price cookies to cover costs plus 40% profit, calculate break-even point. List every math skill used in each scenario.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You just used fractions, decimals, percentages, geometry, estimation, and algebra to solve real problems that real people solve every day. That is the purpose of all the math you have learned this year — not just to pass tests, but to navigate life with confidence and competence.", "mastery_check": "Can the student integrate multiple math skills to solve complex real-world problems, show organized work, and identify the specific skills required for each scenario?"}
+      ]
+    },
+    "parent_notes": "These integrated problems are the ultimate test of mathematical understanding because they require choosing the right tool for each step without being told which skill to use. If your child struggles, help them break the problem into smaller parts: 'What do you need to figure out first?' Real-world math is empowering — when your child can calculate a road trip budget or figure out the cost of a home improvement project, they see that math is genuinely useful. Consider actually applying one of these scenarios to a real family situation.",
+    "age_adaptations": null,
+    "sort_order": 17
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 32,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "Science Fair Presentation Board — Communicating Your Research",
+    "description": "Students create their science fair presentation boards, learning to communicate scientific findings clearly and visually. They organize their research into the standard scientific format and practice presenting their work to an audience.",
+    "instructions": "1. Review the standard science fair board layout: title, question, hypothesis, materials, procedure, data/results, conclusion.\n2. Plan the board layout: sketch where each section will go.\n3. Create clear, concise section headers.\n4. Write text for each section — brief and readable from 3 feet away.\n5. Include data displays: graphs, charts, or data tables.\n6. Add photographs from the experiment.\n7. Ensure visual appeal: consistent fonts, aligned sections, color scheme.\n8. Practice the verbal presentation: 3-5 minute overview of the project.\n9. Anticipate questions the audience might ask and prepare answers.\n10. Do a practice presentation for a family member.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["Tri-fold presentation board", "Printed text and images", "Graphs and data displays", "Glue and tape", "Scissors", "Markers for headers"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Science Fair Presentation", "subheading": "Communicating Your Research"},
+        {"type": "materials", "items": ["Tri-fold board", "Printed text and images", "Graphs and displays", "Glue and tape", "Scissors", "Markers"], "setup_instructions": "Print all text sections, graphs, and photographs in advance. Lay out the tri-fold board on a large flat surface. Have all attachment materials ready."},
+        {"type": "instruction", "step": 1, "text": "A presentation board communicates your entire scientific investigation at a glance. It should be clear enough that someone can understand your project by reading the board alone, without you explaining it."},
+        {"type": "instruction", "step": 2, "text": "Standard layout: LEFT panel has the Question, Hypothesis, and Background Research. CENTER panel has the Title (large and eye-catching), Materials, and Procedure. RIGHT panel has Data/Results, Conclusion, and Future Research."},
+        {"type": "instruction", "step": 3, "text": "Keep text brief and readable. Use bullet points, not long paragraphs. The board should be readable from 3 feet away — that means large font sizes and clear formatting. Let your graphs and images do much of the storytelling."},
+        {"type": "instruction", "step": 4, "text": "Practice your verbal presentation: introduce yourself and your project, explain your question and why it interested you, describe your method briefly, share your key results, state your conclusion, and mention what you would do differently. Aim for 3-5 minutes."},
+        {"type": "activity", "prompt": "Create your complete science fair presentation board: (1) Design the layout and attach all sections. (2) Include all required elements: title, question, hypothesis, materials, procedure, data, results, conclusion. (3) Add at least one graph and one photograph. (4) Ensure visual consistency and readability. (5) Practice your 3-5 minute verbal presentation at least twice.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Your presentation board represents the complete scientific process: curiosity led to a question, research led to a hypothesis, careful experimentation led to data, and honest analysis led to conclusions. You have practiced real science from start to finish.", "mastery_check": "Can the student create a well-organized, visually clear presentation board that communicates all aspects of their experiment, and deliver a coherent verbal presentation of their findings?"}
+      ]
+    },
+    "parent_notes": "The presentation board should be primarily student-created. Help with printing and cutting if needed, but let your child make design decisions. If a tri-fold board is not available, a large piece of cardboard or poster board works fine. The visual presentation matters — a clean, organized board communicates scientific thinking. Practice the verbal presentation together, playing the role of an interested but unfamiliar audience. Ask genuine questions about their experiment. This board will be displayed at the end-of-year show.",
+    "age_adaptations": null,
+    "sort_order": 18
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 32,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "End-of-Year Show Planning — Curating the Exhibition",
+    "description": "Students plan the end-of-year art and music show, selecting works for display, designing the exhibition layout, creating program materials, and rehearsing their musical performance. They take ownership of presenting their creative work to an audience.",
+    "instructions": "1. Discuss the purpose of an end-of-year show: celebrating growth and sharing creative work.\n2. Select artwork for display from the portfolio (including the student-directed project).\n3. Design the exhibition layout: where will each piece hang or stand? How will the space flow?\n4. Create labels for each artwork: title, medium, artist's statement excerpt.\n5. Design and write the show program: title, artist name, list of displayed works, musical performance repertoire.\n6. Plan the performance portion: order of musical pieces, who introduces them.\n7. Rehearse the musical performance one final time.\n8. Create invitations for family and friends.\n9. Set up a practice display to test the layout.\n10. Discuss how to talk about your art when visitors ask questions.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Selected artworks", "Display materials (tape, hooks, easels)", "Program paper and art supplies", "Musical instruments and sheet music", "Invitation materials", "Exhibition layout sketch paper"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "End-of-Year Show Planning", "subheading": "Curating Your Exhibition"},
+        {"type": "materials", "items": ["Selected artworks", "Display materials", "Program supplies", "Musical instruments", "Invitation materials", "Layout paper"], "setup_instructions": "Gather all artwork selected for display. Have display materials ready. Prepare paper for programs and invitations. Set up the performance area."},
+        {"type": "instruction", "step": 1, "text": "You are not just an artist and musician — today you are also a CURATOR and EVENT PLANNER. You decide how your work is presented, in what order, and how the audience experiences it. This is a real-world creative skill."},
+        {"type": "instruction", "step": 2, "text": "Exhibition design matters. Think about flow: how will viewers move through the space? What do you want them to see first? Should work be grouped by medium, by theme, or by date? The arrangement tells its own story."},
+        {"type": "instruction", "step": 3, "text": "A printed program makes the show feel professional. Include: the show title, your name, a list of displayed works with medium noted, the musical repertoire, and a brief thank you note to anyone who helped you this year."},
+        {"type": "instruction", "step": 4, "text": "When visitors ask about your art or music, speak with confidence. You know your work better than anyone. Share your inspiration, your process, and what the work means to you. Visitors genuinely want to understand."},
+        {"type": "activity", "prompt": "Plan the complete end-of-year show: (1) Select and arrange artwork for display. (2) Create labels for each piece. (3) Design and write the show program. (4) Create invitations for at least 3 guests. (5) Finalize the musical performance order. (6) Do one final music rehearsal. (7) Practice talking about 2-3 artworks as if a visitor asked about them.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You are ready to share a year of creative growth with the people who matter to you. The show is not just a display — it is a celebration of everything you have learned, created, and become as an artist and musician this year.", "mastery_check": "Can the student curate an art exhibition, design a show program, prepare for musical performance, and confidently discuss their creative work with visitors?"}
+      ]
+    },
+    "parent_notes": "The end-of-year show is a major milestone. Help your child set up the physical space for display, but let them make curatorial decisions. Invite family members, friends, or neighbors — a real audience makes the event meaningful. If a formal show is not possible, even a living room gallery and mini-concert for immediate family is wonderful. Take photographs and video of the show itself. Consider making it a tradition for future years. The confidence that comes from presenting creative work to an audience is invaluable.",
+    "age_adaptations": null,
+    "sort_order": 19
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "practical_life",
+    "week_number": 32,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "Middle School Transition — Preparing for the Next Chapter",
+    "description": "Students explore what middle school will be like, discuss the social and academic changes ahead, and develop concrete strategies for success. They create a transition plan that addresses their specific concerns and builds confidence about the next stage of their education.",
+    "instructions": "1. Discuss the student's feelings about transitioning to middle school: excitement, nervousness, curiosity.\n2. Explain key differences: multiple teachers, changing classrooms, more independence, broader social world.\n3. Share what stays the same: learning, friendships, personal strengths, family support.\n4. Discuss academic preparation: organizational skills, time management, note-taking, study habits.\n5. Create an organizational system: binder, planner, or digital tool for tracking assignments.\n6. Discuss social preparation: making new friends, navigating different social groups, handling peer pressure.\n7. Practice specific scenarios: asking a teacher for help, managing a busy schedule, resolving a conflict.\n8. Identify personal strengths that will serve them in middle school.\n9. Write a letter to their future middle school self.\n10. Create a 'Middle School Readiness' checklist.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Middle school transition guide", "Planner or organizational tool", "Scenario cards for role-playing", "Stationery for letter writing", "Readiness checklist template", "Pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Middle School Transition", "subheading": "Preparing for the Next Chapter"},
+        {"type": "materials", "items": ["Transition guide", "Planner", "Scenario cards", "Letter stationery", "Readiness checklist", "Pencils"], "setup_instructions": "Prepare the middle school transition guide with key information about the student's future school if possible. Print scenario cards and the readiness checklist template."},
+        {"type": "instruction", "step": 1, "text": "Middle school is an exciting new chapter. It can feel big and unfamiliar, but here is the truth: you have been preparing for this all year. Every research paper, every presentation, every problem you solved has built skills you will use every day."},
+        {"type": "instruction", "step": 2, "text": "What changes: You will have different teachers for different subjects, you will move between classrooms, you will have more homework, and you will meet many new people. What stays the same: your intelligence, your curiosity, your family's support, and the study skills you have built."},
+        {"type": "instruction", "step": 3, "text": "The number one middle school survival skill is ORGANIZATION. Use a planner to write down every assignment. Keep your materials organized by subject. Check your planner every evening. Students who stay organized thrive; those who do not, struggle. It is that simple."},
+        {"type": "instruction", "step": 4, "text": "Socially, middle school is more complex. You will meet people from different backgrounds and with different interests. Be yourself, be kind, and remember: everyone else is nervous too. The kids who are friendly and genuine attract the best friendships."},
+        {"type": "activity", "prompt": "Create your Middle School Transition Plan: (1) List your top 3 concerns and a strategy for each. (2) Design your organizational system (what planner or tool will you use and how). (3) Identify 5 personal strengths you are bringing to middle school. (4) Write a letter to your future middle school self with advice, encouragement, and goals. (5) Complete the Middle School Readiness Checklist.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You are ready for middle school. Not because you know everything — nobody does — but because you know how to learn, how to ask for help, how to organize yourself, and how to treat people with kindness. Those skills will carry you through anything.", "mastery_check": "Can the student identify strategies for academic and social success in middle school, create an organizational system, and articulate personal strengths and goals for the transition?"}
+      ]
+    },
+    "parent_notes": "Transition anxiety is normal and healthy — it means your child is taking the change seriously. Validate their feelings while providing reassurance. If possible, visit the middle school campus, meet a teacher, or connect with an older student who can share their experience. The organizational system should be set up before school starts — buying the planner or binder now builds anticipation rather than anxiety. The letter to their future self is a wonderful keepsake that you can give back to them a few months into middle school. Focus on what they CAN control: their attitude, their organization, and their kindness.",
+    "age_adaptations": null,
+    "sort_order": 20
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "language",
+    "week_number": 32,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "Portfolio Assembly — Showcasing Your Year of Learning",
+    "description": "Students compile their complete year-end language arts portfolio, selecting representative work from across all writing genres, reading responses, vocabulary growth, and the research capstone. They write an introduction reflecting on their growth as a learner.",
+    "instructions": "1. Gather all language arts work: research capstone, anthology, formal essays, poetry, reading journals.\n2. Select pieces that show range across genres: narrative, persuasive, informational, creative, analytical.\n3. Arrange work in a meaningful order (chronological, by genre, or by theme).\n4. Write a portfolio introduction: Who are you as a reader and writer? How did you grow?\n5. Include the writing anthology as a featured section.\n6. Include the research capstone paper.\n7. Add selected reading journal entries and book reviews.\n8. Include vocabulary growth documentation.\n9. Write a brief caption for each selected piece.\n10. Design a cover and table of contents.",
+    "duration_minutes": 60,
+    "lesson_type": "independent",
+    "materials_needed": ["All language arts work from the year", "Portfolio binder or folder", "Dividers or section markers", "Cover design materials", "Caption writing paper", "Table of contents template"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Portfolio Assembly", "subheading": "Showcasing Your Year of Learning"},
+        {"type": "materials", "items": ["All language arts work", "Portfolio binder", "Dividers", "Cover materials", "Caption paper", "Table of contents template"], "setup_instructions": "Gather ALL language arts work from the year. Set up the portfolio binder with dividers. Have cover design materials and caption paper ready."},
+        {"type": "instruction", "step": 1, "text": "Your portfolio tells the story of your year as a learner. Unlike a test score that captures one moment, a portfolio shows the JOURNEY — where you started, how you struggled, and how you grew. It is the most complete picture of your abilities."},
+        {"type": "instruction", "step": 2, "text": "Choose pieces that show RANGE: a narrative story, a persuasive essay, an informational report, a poem, a reading response, and your research capstone. Variety demonstrates that you are a versatile, well-rounded communicator."},
+        {"type": "instruction", "step": 3, "text": "Write a brief caption for each piece explaining why you included it: 'This persuasive essay shows my ability to use logos, ethos, and pathos to argue for environmental protection. It represents my strongest persuasive writing from the year.'"},
+        {"type": "instruction", "step": 4, "text": "Your portfolio introduction is the most important piece you will write. Reflect honestly: What are you most proud of? What was hardest? What surprised you about your own growth? What goals do you have for the future?"},
+        {"type": "activity", "prompt": "Assemble your complete language arts portfolio: (1) Select 10-12 pieces showing range across genres. (2) Write captions for each piece. (3) Write a portfolio introduction (2-3 paragraphs). (4) Include the writing anthology and research capstone as featured sections. (5) Design the cover. (6) Create the table of contents. (7) Arrange everything in a meaningful order.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Your portfolio is now a comprehensive record of your year as a reader, writer, and thinker. It shows not just what you know, but who you are as a learner. Keep this portfolio — it is evidence of a remarkable year of growth.", "mastery_check": "Can the student curate a diverse portfolio, write reflective captions and an introduction, organize work meaningfully, and articulate their growth as a learner?"}
+      ]
+    },
+    "parent_notes": "The year-end portfolio is the culminating product of your child's literacy education this year. Help them locate any work that may have been filed away. The introduction is especially valuable — it shows metacognitive awareness of their own learning. Consider having your child present their portfolio to you formally, explaining their selections. This portfolio can be shared with middle school teachers as evidence of the student's capabilities and can serve as a reference point for years to come.",
+    "age_adaptations": null,
+    "sort_order": 21
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "math",
+    "week_number": 32,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "Math Portfolio Presentation — Sharing Your Mathematical Growth",
+    "description": "Students finalize and present their math portfolios, explaining their growth, favorite problem-solving strategies, and goals for middle school. This culminating activity celebrates mathematical thinking and gives students ownership of their learning narrative.",
+    "instructions": "1. Finalize the math portfolio with any remaining additions.\n2. Review the portfolio from the audience's perspective: Is the growth story clear?\n3. Prepare a 5-minute presentation highlighting key sections.\n4. Present the growth comparison page: show how early struggles became later successes.\n5. Share the challenge problem and explain the strategies used.\n6. Read the mathematical autobiography excerpt.\n7. Present the skills self-assessment and middle school goals.\n8. Answer questions from the audience.\n9. Reflect on the experience of examining an entire year of math learning.\n10. Celebrate mathematical growth.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Completed math portfolio", "Presentation notes", "Display space", "Camera for documentation", "Certificate of mathematical achievement", "Celebratory elements (optional)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Math Portfolio Presentation", "subheading": "Sharing Your Mathematical Growth"},
+        {"type": "materials", "items": ["Completed portfolio", "Presentation notes", "Display space", "Camera", "Certificate"], "setup_instructions": "Finalize the portfolio. Prepare presentation notes on index cards. Set up a display area. Print a certificate of mathematical achievement."},
+        {"type": "instruction", "step": 1, "text": "Your math portfolio captures a year of growth that might otherwise be invisible. Today you share that story: where you started, what you struggled with, what you conquered, and where you are headed."},
+        {"type": "instruction", "step": 2, "text": "Focus your presentation on the STORY of your mathematical growth, not just the problems you solved. What was hard at first? What clicked? What moment made you feel proud? What strategy changed the way you think?"},
+        {"type": "instruction", "step": 3, "text": "The growth comparison page is your strongest evidence. Show the early attempt and the later success side by side. Let the audience see the difference for themselves. Growth speaks for itself."},
+        {"type": "instruction", "step": 4, "text": "Share your middle school math goals with confidence. You know what you are good at and what you still want to improve. That self-awareness puts you ahead of most students entering middle school."},
+        {"type": "activity", "prompt": "Deliver your 5-minute math portfolio presentation. Cover: (1) Your mathematical autobiography highlights. (2) Your growth comparison page with explanation. (3) The challenge problem and your solution strategy. (4) Your skills self-assessment. (5) Your three middle school math goals. Answer any audience questions. Then photograph the portfolio for permanent records.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You have done something extraordinary this year in mathematics. You have gone from where you were to where you are — and you have the evidence to prove it. Mathematics is a journey, not a destination. Carry this growth mindset into middle school and beyond.", "mastery_check": "Can the student present their math portfolio clearly, explain their growth with evidence, articulate problem-solving strategies, and communicate math goals confidently?"}
+      ]
+    },
+    "parent_notes": "Be an engaged, encouraging audience. Ask genuine questions and celebrate specific achievements. The portfolio presentation develops public speaking skills alongside mathematical confidence. Consider inviting another family member or friend to be part of the audience — a larger audience makes the presentation feel more significant. The mathematical autobiography excerpt is often surprisingly honest and revealing. This is a powerful confidence-builder, especially for children who have struggled with math in the past.",
+    "age_adaptations": null,
+    "sort_order": 22
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "history",
+    "week_number": 32,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "Legacy Project — What Mark Will You Leave on the World?",
+    "description": "Students reflect on the concept of legacy — the lasting impact a person has on the world. They examine the legacies of historical figures studied this year, consider what kind of legacy they want to create, and begin planning a concrete legacy project for their community.",
+    "instructions": "1. Define legacy: the lasting impact or contribution a person makes.\n2. Examine legacies of historical figures studied this year: inventors, leaders, artists, activists.\n3. Discuss different types of legacy: ideas, institutions, art, movements, personal impact on others.\n4. Note that legacy does not require fame — a teacher who inspires students, a neighbor who helps others, a parent who raises kind children all leave legacies.\n5. Students identify three people in their own life who have left a positive legacy.\n6. Discuss: What kind of legacy do you want to create?\n7. Brainstorm concrete legacy projects: community service, mentoring, creating something lasting, advocating for change.\n8. Students plan a personal legacy project they can begin now.\n9. Write a 'Legacy Statement': a paragraph describing the mark they want to leave on the world.\n10. Connect legacy to civic engagement: how personal actions create lasting community impact.",
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": ["Historical figures legacy chart", "Legacy project planning sheet", "Writing paper", "Brainstorming web template", "Examples of youth legacy projects", "Colored pencils"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Legacy Project", "subheading": "What Mark Will You Leave on the World?"},
+        {"type": "materials", "items": ["Legacy chart", "Project planning sheet", "Writing paper", "Brainstorming web", "Youth project examples"], "setup_instructions": "Prepare a chart with historical figures and their legacies. Print legacy project planning sheets. Gather examples of youth-led community projects."},
+        {"type": "instruction", "step": 1, "text": "Every person you have studied this year left a LEGACY — a lasting mark on the world. Some changed laws, some created art, some invented technology, some inspired movements. But legacy is not just for famous people. It is for everyone, including you."},
+        {"type": "instruction", "step": 2, "text": "Think about the people in your own life who have left a positive mark on you: a teacher, a coach, a grandparent, a friend. Their legacy lives in the way they changed you. That is the most powerful kind of legacy — changing people for the better."},
+        {"type": "instruction", "step": 3, "text": "What kind of mark do you want to leave? It does not have to be world-changing. A community garden that feeds neighbors, tutoring younger kids, cleaning up a local park, starting a book-sharing program — these are real legacies that real young people have created."},
+        {"type": "instruction", "step": 4, "text": "A legacy starts with action. Choose something you care about, make a plan, and begin. The biggest legacies started with one person who decided to do something rather than just wish something would happen."},
+        {"type": "activity", "prompt": "Write your personal Legacy Statement: a paragraph describing the kind of impact you want to have on the world. Then plan a concrete legacy project you could begin this summer: (1) Identify the need or cause. (2) Describe your plan. (3) List the steps to get started. (4) Identify who you need to involve. (5) Set a timeline. Connect your project to at least one historical figure whose legacy inspires you.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You are not too young to start building your legacy. Every act of kindness, every stand for justice, every creative contribution adds to the mark you leave on the world. The historical figures we studied this year started somewhere too. Start now.", "mastery_check": "Can the student define legacy, identify legacies of historical figures and personal role models, write a personal legacy statement, and plan a concrete community legacy project?"}
+      ]
+    },
+    "parent_notes": "The legacy project is a powerful bridge between academic learning and real-world action. If your child plans a project they are passionate about, help them take the first steps — actually beginning a legacy project over the summer can be transformative. Even a small project (reading to younger kids at the library, organizing a neighborhood cleanup, starting a kindness campaign) gives them a sense of agency and purpose. The Legacy Statement is a document worth keeping and revisiting annually as your child grows.",
+    "age_adaptations": null,
+    "sort_order": 23
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "science",
+    "week_number": 32,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "Science Fair Presentations — Sharing Your Scientific Discoveries",
+    "description": "Students present their science fair projects to an audience, explaining their research question, methodology, results, and conclusions. They practice scientific communication skills and answer questions about their investigations.",
+    "instructions": "1. Set up presentation boards in a display area.\n2. Review presentation skills: clear speaking, eye contact, organized explanation.\n3. Practice the presentation one final time.\n4. Present to the audience, following the scientific method structure.\n5. Answer audience questions knowledgeably and honestly.\n6. Evaluate other projects (if multiple presenters) using a rubric.\n7. Discuss what made certain presentations particularly effective.\n8. Celebrate the completion of genuine scientific investigations.\n9. Reflect on the entire scientific process: What would you do differently? What would you investigate next?\n10. Add the science fair project to the year-end portfolio.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["Completed presentation boards", "Display tables or easels", "Evaluation rubrics", "Science journal for reflection", "Camera for documentation", "Certificates of scientific achievement"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "Science Fair Presentations", "subheading": "Sharing Your Scientific Discoveries"},
+        {"type": "materials", "items": ["Presentation boards", "Display tables", "Evaluation rubrics", "Science journal", "Camera", "Certificates"], "setup_instructions": "Set up display tables or easels. Position presentation boards so visitors can read them easily. Arrange seating for the audience. Have the camera ready for documentation."},
+        {"type": "instruction", "step": 1, "text": "Scientists do not just conduct experiments — they communicate their findings. Sharing results is what moves science forward. Today you present your work to an audience, just as scientists present at conferences."},
+        {"type": "instruction", "step": 2, "text": "Structure your presentation: (1) What question did you investigate and why does it matter? (2) What was your hypothesis? (3) How did you test it? (4) What did you find? (5) What does it mean? (6) What would you do next?"},
+        {"type": "instruction", "step": 3, "text": "If someone asks a question you cannot answer, say, 'That is a great question — my experiment did not address that, but it would be an interesting follow-up study.' Honest uncertainty is a strength in science, not a weakness."},
+        {"type": "instruction", "step": 4, "text": "After presenting, reflect: What did you learn about the scientific process itself? Was any step harder than expected? What would you do differently? What new questions did your experiment raise?"},
+        {"type": "activity", "prompt": "Present your science fair project to the audience. Deliver a clear 3-5 minute presentation covering all sections of the scientific method. Answer audience questions. Then write a reflection in your science journal: What was the most valuable thing you learned — not about your topic, but about HOW to do science?", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "You did real science: you asked a question, made a prediction, designed a test, collected data, analyzed results, and shared your findings. That is exactly what scientists do, whether they are in a university laboratory or a kitchen table. You are a scientist.", "mastery_check": "Can the student present their science fair project clearly and confidently, answer questions accurately, reflect on the scientific process, and identify areas for improvement and future investigation?"}
+      ]
+    },
+    "parent_notes": "The science fair presentation is a major confidence-builder. Be an enthusiastic audience and ask genuine questions. If possible, invite extended family to attend. Document the presentation with photos and video. Celebrate the completion regardless of results — the process is the point. If your child says their experiment 'failed' because the hypothesis was not supported, reframe it: they discovered something unexpected, which is how real science works. Save the presentation board or photographs for the portfolio.",
+    "age_adaptations": null,
+    "sort_order": 24
+  },
+  {
+    "level_name": "upper_elementary",
+    "subject_name": "art_music",
+    "week_number": 32,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "End-of-Year Show — Performing and Celebrating Creative Achievement",
+    "description": "Students host their end-of-year art exhibition and musical performance for family and friends. They present their artwork, perform their concert repertoire, and celebrate a year of creative growth with their community.",
+    "instructions": "1. Set up the art exhibition space with all selected pieces and labels.\n2. Arrange the musical performance area.\n3. Welcome guests and hand out programs.\n4. Begin with the art exhibition: walk visitors through the display, sharing artist's statements.\n5. Answer questions about individual artworks.\n6. Transition to the musical performance.\n7. Perform the complete concert program.\n8. Accept applause and acknowledge the audience.\n9. Mingle with guests who want to discuss the artwork.\n10. Take photographs and celebrate the achievement.",
+    "duration_minutes": 60,
+    "lesson_type": "collaborative",
+    "materials_needed": ["All displayed artwork with labels", "Musical instruments and sheet music", "Programs for guests", "Refreshments (optional)", "Camera for documentation", "Guest book (optional)"],
+    "slide_content": {
+      "slides": [
+        {"type": "title", "heading": "End-of-Year Show", "subheading": "Performing and Celebrating Creative Achievement"},
+        {"type": "materials", "items": ["Displayed artwork", "Instruments and music", "Programs", "Camera", "Guest book"], "setup_instructions": "Complete the exhibition setup. Test the performance space. Have programs ready to hand out. Set up refreshments if planned. Place the guest book at the entrance."},
+        {"type": "instruction", "step": 1, "text": "This is your moment. You have planned, created, rehearsed, and prepared. Now you share it all. Welcome your guests warmly and be proud of what you are showing them — it represents a year of hard work and creative growth."},
+        {"type": "instruction", "step": 2, "text": "Walk your guests through the art exhibition. Share the story behind your favorite pieces. Read your artist's statements. Let visitors linger — art is meant to be experienced, not rushed through."},
+        {"type": "instruction", "step": 3, "text": "For the musical performance: take a deep breath, focus on the music, and play from the heart. If something goes wrong, keep going. The audience came to support you, not to judge you. Enjoy the experience."},
+        {"type": "instruction", "step": 4, "text": "After the show, talk with your guests. Accept compliments graciously — a simple 'Thank you, I worked hard on that' is perfect. This is your celebration. Soak it in."},
+        {"type": "activity", "prompt": "Host the complete end-of-year show: (1) Welcome guests and distribute programs. (2) Guide visitors through the art exhibition, sharing stories and artist's statements. (3) Perform the complete musical program. (4) Mingle with guests and discuss your work. (5) Have someone take photographs of you with your artwork and during performance.", "duration_minutes": 25},
+        {"type": "wrap_up", "text": "Tonight you shared your creative spirit with the people who matter most to you. Every piece of art, every note of music represented growth, courage, and self-expression. This is what Montessori education is about: developing the whole person — mind, heart, and creative spirit.", "mastery_check": "Can the student present their artwork confidently, perform their musical repertoire successfully, interact graciously with guests, and celebrate their creative achievements?"}
+      ]
+    },
+    "parent_notes": "This is a highlight of the year — treat it as a genuine event. Dress up a little, invite people who care about your child, and create a special atmosphere. The guest book is a wonderful touch that your child will treasure. Take plenty of photos and video. After the event, have a private conversation celebrating your child's growth and courage. This experience builds confidence that extends far beyond art and music into every area of life.",
+    "age_adaptations": null,
+    "sort_order": 25
+  }
+]
