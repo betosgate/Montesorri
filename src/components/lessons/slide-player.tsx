@@ -11,6 +11,8 @@ import ActivitySlide from './slides/activity-slide';
 import CheckUnderstandingSlide from './slides/check-understanding-slide';
 import WrapUpSlide from './slides/wrap-up-slide';
 import ParentGuide from './parent-guide';
+import MascotGuide from './mascot-guide';
+import { getMascot } from '@/lib/mascot/config';
 
 // ---------------------------------------------------------------------------
 // Exported types for parent-guide and lesson page
@@ -33,6 +35,7 @@ interface SlidePlayerProps {
   audioUrl?: string;
   lessonTitle: string;
   subjectName?: string;
+  gradeBand?: string;
   parentNotes?: string | null;
   materialsNeeded?: string[];
   materialsInventory?: MaterialInventoryItem[];
@@ -52,6 +55,8 @@ function normalizeSlide(raw: any): Slide {
         title: raw.title || raw.heading || '',
         subtitle: raw.subtitle || raw.subheading || null,
         image_url: raw.image_url || null,
+        mascot_explanation: raw.mascot_explanation || null,
+        mascot_audio_url: raw.mascot_audio_url || null,
       };
     case 'materials':
       return {
@@ -59,6 +64,8 @@ function normalizeSlide(raw: any): Slide {
         title: raw.title || 'Materials Needed',
         materials: raw.materials || raw.items || [],
         image_url: raw.image_url || null,
+        mascot_explanation: raw.mascot_explanation || null,
+        mascot_audio_url: raw.mascot_audio_url || null,
       };
     case 'instruction':
       return {
@@ -67,6 +74,8 @@ function normalizeSlide(raw: any): Slide {
         content: raw.content || raw.text || '',
         image_url: raw.image_url || null,
         demonstration_notes: raw.demonstration_notes || null,
+        mascot_explanation: raw.mascot_explanation || null,
+        mascot_audio_url: raw.mascot_audio_url || null,
       };
     case 'activity':
       return {
@@ -75,6 +84,8 @@ function normalizeSlide(raw: any): Slide {
         instructions: raw.instructions || raw.prompt || '',
         duration_minutes: raw.duration_minutes ?? null,
         image_url: raw.image_url || null,
+        mascot_explanation: raw.mascot_explanation || null,
+        mascot_audio_url: raw.mascot_audio_url || null,
       };
     case 'check_understanding':
       return {
@@ -82,6 +93,8 @@ function normalizeSlide(raw: any): Slide {
         title: raw.title || 'Check Understanding',
         questions: raw.questions || [],
         expected_responses: raw.expected_responses || [],
+        mascot_explanation: raw.mascot_explanation || null,
+        mascot_audio_url: raw.mascot_audio_url || null,
       };
     case 'wrap_up':
       return {
@@ -90,6 +103,8 @@ function normalizeSlide(raw: any): Slide {
         summary: raw.summary || raw.text || '',
         next_steps: raw.next_steps || raw.mastery_check || null,
         extension_activities: raw.extension_activities || [],
+        mascot_explanation: raw.mascot_explanation || null,
+        mascot_audio_url: raw.mascot_audio_url || null,
       };
     default:
       return raw as Slide;
@@ -130,11 +145,15 @@ export default function SlidePlayer({
   audioUrl,
   lessonTitle,
   subjectName,
+  gradeBand,
   parentNotes,
   materialsInventory,
   onComplete,
 }: SlidePlayerProps) {
   const slides = useMemo(() => normalizeSlides(rawSlides), [rawSlides]);
+
+  // Mascot
+  const mascot = useMemo(() => getMascot(gradeBand), [gradeBand]);
 
   // Theme
   const theme = useMemo(() => getSubjectTheme(subjectName), [subjectName]);
@@ -478,7 +497,7 @@ export default function SlidePlayer({
       {/* ---- Slide content ----------------------------------------------- */}
       <div
         className={clsx(
-          'flex-1 overflow-y-auto',
+          'relative flex-1 overflow-y-auto',
           isFullscreen ? 'min-h-0' : 'min-h-[420px]'
         )}
         style={{ backgroundColor: 'var(--slide-bg)' }}
@@ -489,6 +508,15 @@ export default function SlidePlayer({
         >
           {renderSlide()}
         </div>
+
+        {/* Mascot guide overlay */}
+        {mascot && (
+          <MascotGuide
+            mascot={mascot}
+            explanation={currentSlide.mascot_explanation}
+            audioUrl={currentSlide.mascot_audio_url}
+          />
+        )}
       </div>
 
       {/* ---- Bottom navigation bar --------------------------------------- */}

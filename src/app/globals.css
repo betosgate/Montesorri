@@ -141,6 +141,42 @@ body {
   overflow: hidden;
 }
 
+/* ── Mascot Animations ───────────────────────────────────────── */
+
+@keyframes mascotIdle {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-4px); }
+}
+
+@keyframes mascotTalking {
+  0%, 100% { transform: scale(1) rotate(0deg); }
+  25% { transform: scale(1.08) rotate(-3deg); }
+  75% { transform: scale(1.08) rotate(3deg); }
+}
+
+@keyframes mascotBubbleIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px) scale(0.95);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0) scale(1);
+  }
+}
+
+.mascot-idle {
+  animation: mascotIdle 2.5s ease-in-out infinite;
+}
+
+.mascot-talking {
+  animation: mascotTalking 0.4s ease-in-out infinite;
+}
+
+.mascot-bubble-in {
+  animation: mascotBubbleIn 0.25s ease-out;
+}
+
 /* Display font utility for slide headings */
 .font-display {
   font-family: var(--font-display);

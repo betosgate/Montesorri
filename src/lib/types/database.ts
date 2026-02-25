@@ -66,6 +66,8 @@ export interface TitleSlide {
   title: string;
   subtitle: string | null;
   image_url: string | null;
+  mascot_explanation?: string | null;
+  mascot_audio_url?: string | null;
 }
 
 export interface MaterialsSlide {
@@ -73,6 +75,8 @@ export interface MaterialsSlide {
   title: string;
   materials: string[];
   image_url: string | null;
+  mascot_explanation?: string | null;
+  mascot_audio_url?: string | null;
 }
 
 export interface InstructionSlide {
@@ -81,6 +85,8 @@ export interface InstructionSlide {
   content: string;
   image_url: string | null;
   demonstration_notes: string | null;
+  mascot_explanation?: string | null;
+  mascot_audio_url?: string | null;
 }
 
 export interface ActivitySlide {
@@ -89,6 +95,8 @@ export interface ActivitySlide {
   instructions: string;
   duration_minutes: number | null;
   image_url: string | null;
+  mascot_explanation?: string | null;
+  mascot_audio_url?: string | null;
 }
 
 export interface CheckUnderstandingSlide {
@@ -96,6 +104,8 @@ export interface CheckUnderstandingSlide {
   title: string;
   questions: string[];
   expected_responses: string[];
+  mascot_explanation?: string | null;
+  mascot_audio_url?: string | null;
 }
 
 export interface WrapUpSlide {
@@ -104,6 +114,8 @@ export interface WrapUpSlide {
   summary: string;
   next_steps: string | null;
   extension_activities: string[];
+  mascot_explanation?: string | null;
+  mascot_audio_url?: string | null;
 }
 
 export type Slide =

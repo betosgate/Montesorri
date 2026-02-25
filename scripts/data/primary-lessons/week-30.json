@@ -29,7 +29,8 @@
           "type": "title",
           "heading": "Independent Cooking",
           "subheading": "Following a Recipe Card",
-          "image_url": "https://images.pexels.com/photos/4259140/pexels-photo-4259140.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/4259140/pexels-photo-4259140.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Wow, look at this! Today, we get to be super chefs and make something yummy all by ourselves. This is called \"Independent Cooking\" because *you* get to follow the recipe and make the food!"
         },
         {
           "type": "materials",
@@ -42,32 +43,38 @@
             "Spoon",
             "Apron"
           ],
-          "setup_instructions": "Write or print the recipe card with clear steps. Lay out all ingredients and tools. The child should be able to find everything they need."
+          "setup_instructions": "Write or print the recipe card with clear steps. Lay out all ingredients and tools. The child should be able to find everything they need.",
+          "mascot_explanation": "Let's see what we need for our yummy fruit salad! We have a special card with the steps, some yummy fruits like strawberries and bananas, a safe knife for cutting, a board to cut on, a big bowl to mix everything in, and a spoon. You'll also wear an apron to keep your clothes clean! Can you go find all these things with a grown-up?"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Today you are the chef! This recipe card tells you exactly how to make fruit salad. Read each step carefully, then do it.'"
+          "text": "'Today you are the chef! This recipe card tells you exactly how to make fruit salad. Read each step carefully, then do it.'",
+          "mascot_explanation": "Hello, Chef! This card is like a secret map to making the best fruit salad ever. It has all the steps you need to follow, just like in a game! We're going to read each step together and then you'll do it all by yourself."
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Start at Step 1. When you finish that step, check it off and move to Step 2. Take your time and do each step carefully.'"
+          "text": "'Start at Step 1. When you finish that step, check it off and move to Step 2. Take your time and do each step carefully.'",
+          "mascot_explanation": "Now, we start with Step 1! When you finish what Step 1 tells you to do, you get to put a little checkmark next to it. Then, we look at Step 2 and do that one. We go one step at a time, just like climbing stairs!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'If you are not sure about a step, read it again. The recipe card is your guide. You can do this!'"
+          "text": "'If you are not sure about a step, read it again. The recipe card is your guide. You can do this!'",
+          "mascot_explanation": "Sometimes, instructions can be a little tricky, and that's okay! If you're not sure about a step, just read it again super carefully. The recipe card is your helper, and I know you can figure it out!"
         },
         {
           "type": "activity",
           "prompt": "Follow the recipe card from Step 1 to the final step. Work independently. Check off each step as you complete it. Serve the finished fruit salad!",
-          "duration_minutes": 25
+          "duration_minutes": 25,
+          "mascot_explanation": "It's time to make the fruit salad! Follow each step on your recipe card, one by one, and put a checkmark when you finish. You are doing so great being a chef all by yourself! When it's all done, you get to share your yummy creation with everyone!"
         },
         {
           "type": "wrap_up",
           "text": "'You read a recipe and made a real dish all by yourself! That takes reading, following directions, and cooking skills — and you have all three!'",
-          "mastery_check": "Can the child independently read and follow a multi-step recipe card, completing all steps in order with minimal adult intervention?"
+          "mastery_check": "Can the child independently read and follow a multi-step recipe card, completing all steps in order with minimal adult intervention?",
+          "mascot_explanation": "You did it! You followed all the steps on the recipe card and made a delicious fruit salad all by yourself! That shows you are a super reader and a super cook. Making that fruit salad was the coolest, wasn't it?"
         }
       ]
     },
@@ -100,7 +107,8 @@
           "type": "title",
           "heading": "Parts of Speech Review",
           "subheading": "All About Nouns",
-          "image_url": "https://images.pexels.com/photos/247819/pexels-photo-247819.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/247819/pexels-photo-247819.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Wow, look at this! It says \"Parts of Speech Review\" and \"All About Nouns.\" This means we're going to learn all about special words called nouns today!"
         },
         {
           "type": "materials",
@@ -111,37 +119,44 @@
             "Sentence strips",
             "Pencil"
           ],
-          "setup_instructions": "Prepare noun cards with a mix of common (dog, city, book) and proper nouns (Max, Paris, Harry Potter). Prepare sentence strips."
+          "setup_instructions": "Prepare noun cards with a mix of common (dog, city, book) and proper nouns (Max, Paris, Harry Potter). Prepare sentence strips.",
+          "mascot_explanation": "We need some fun things for our noun adventure! See this triangle? It's a special symbol for nouns. We also have cards with words on them and a special mat to put them on, like a game! Ask a grown-up to help you find these things."
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'The black triangle is the NOUN — the most solid, stable part of speech. Nouns name everything: people, places, and things!'"
+          "text": "'The black triangle is the NOUN — the most solid, stable part of speech. Nouns name everything: people, places, and things!'",
+          "mascot_explanation": "This big black triangle is super important! It's our symbol for a noun, and nouns are like the building blocks of sentences because they name people, places, and things!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Common nouns name ANY person, place, or thing: girl, park, ball. Proper nouns name a SPECIFIC one: Sarah, Central Park, Earth. Proper nouns start with a capital letter!'"
+          "text": "'Common nouns name ANY person, place, or thing: girl, park, ball. Proper nouns name a SPECIFIC one: Sarah, Central Park, Earth. Proper nouns start with a capital letter!'",
+          "mascot_explanation": "Nouns can be tricky! Some are common, like *any* dog or *any* city, but some are proper, like *your* dog's name or *your* city's name, and proper nouns always start with a big, fancy letter!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "Sort the noun cards: 'Is dog common or proper? What about Rover?' Place each card in the correct column."
+          "text": "Sort the noun cards: 'Is dog common or proper? What about Rover?' Place each card in the correct column.",
+          "mascot_explanation": "Now we get to play a sorting game with our word cards! We'll look at each word and decide if it's a common noun, like \"dog,\" or a proper noun, like \"Fido,\" and put it in the right pile."
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Articles are tiny words that come before nouns: the, a, an. They have a small light blue triangle. Find the articles AND nouns in this sentence.'"
+          "text": "'Articles are tiny words that come before nouns: the, a, an. They have a small light blue triangle. Find the articles AND nouns in this sentence.'",
+          "mascot_explanation": "Oh, look at these little words like \"the,\" \"a,\" and \"an\"! They are like tiny helpers that come before nouns, and they have their own special symbol, a little light blue triangle. We'll find these words and the nouns in some sentences together."
         },
         {
           "type": "activity",
           "prompt": "Sort 15 noun cards into common and proper. Then find all the nouns and articles in 4 sentences. Go on a noun hunt: name 10 nouns in the room!",
-          "duration_minutes": 12
+          "duration_minutes": 12,
+          "mascot_explanation": "Let's do some fun noun activities! We'll sort more word cards, find the nouns and little helper words in sentences, and then we'll go on a special \"noun hunt\" all around the room to find things that are nouns!"
         },
         {
           "type": "wrap_up",
           "text": "'You are a noun expert! You can find nouns everywhere — everything you can see, touch, or name is a noun.'",
-          "mastery_check": "Can the child distinguish between common and proper nouns, identify articles, and find nouns in sentences?"
+          "mastery_check": "Can the child distinguish between common and proper nouns, identify articles, and find nouns in sentences?",
+          "mascot_explanation": "You did such a great job today! You found so many nouns and learned all about common and proper ones, and those little article words too! You're a super noun expert now!"
         }
       ]
     },
@@ -173,7 +188,8 @@
           "type": "title",
           "heading": "Division Board",
           "subheading": "Sharing Equally",
-          "image_url": "https://images.pexels.com/photos/6692940/pexels-photo-6692940.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/6692940/pexels-photo-6692940.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look at this! We're going to learn about something super fun called \"Division.\" Division is like sharing your toys with your friends so everyone gets the same amount!"
         },
         {
           "type": "materials",
@@ -183,37 +199,44 @@
             "Beads or counters",
             "Paper and pencil"
           ],
-          "setup_instructions": "Set up the division board. If using cups, place 2-5 cups in a row. Have at least 30 beads ready."
+          "setup_instructions": "Set up the division board. If using cups, place 2-5 cups in a row. Have at least 30 beads ready.",
+          "mascot_explanation": "Wow, look at all these cool things we get to use! We have this special board, some little people called skittles, and shiny beads. We'll use these to practice sharing. Can you ask a grown-up to help you find these things for our game?"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'You know how to add, subtract, and multiply. Now: DIVISION! Division is about sharing things EQUALLY. Fair shares for everyone!'"
+          "text": "'You know how to add, subtract, and multiply. Now: DIVISION! Division is about sharing things EQUALLY. Fair shares for everyone!'",
+          "mascot_explanation": "You are so smart! You already know how to add, take away, and do times. Today, we're learning the fourth way to do math, called division, and it's all about making sure everyone gets a fair share!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Here are 3 people.' Place 3 skittles. 'They want to share 12 beads equally. Let's give them out one at a time.'"
+          "text": "'Here are 3 people.' Place 3 skittles. 'They want to share 12 beads equally. Let's give them out one at a time.'",
+          "mascot_explanation": "See these three little friends? They want to share some beads. We need to make sure they each get the same number of beads, just like when you share cookies with your siblings!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "Distribute: 'One for you, one for you, one for you. Back to the first person: one for you...' Continue until all 12 are distributed."
+          "text": "Distribute: 'One for you, one for you, one for you. Back to the first person: one for you...' Continue until all 12 are distributed.",
+          "mascot_explanation": "Now, let's share the beads! We give one bead to the first friend, then one to the second, then one to the third. We keep going around and around until all the beads are gone, making sure everyone gets some!"
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'How many does each person have? Count: 4! So 12 divided by 3 equals 4. We write it: 12 / 3 = 4.'"
+          "text": "'How many does each person have? Count: 4! So 12 divided by 3 equals 4. We write it: 12 / 3 = 4.'",
+          "mascot_explanation": "Yay, we did it! Let's count how many beads each friend got. Wow, they each got 4 beads! That means when we share 12 beads with 3 friends, everyone gets 4."
         },
         {
           "type": "activity",
           "prompt": "Use the division board to solve: 10 / 2, 15 / 5, 8 / 4, 20 / 4, 9 / 3. Write each equation and answer.",
-          "duration_minutes": 12
+          "duration_minutes": 12,
+          "mascot_explanation": "Now it's your turn to be the sharer! We have some new sharing problems to solve, like sharing 10 beads with 2 friends. You get to use the board and the little friends to figure out how many each person gets!"
         },
         {
           "type": "wrap_up",
           "text": "'Division is sharing equally! When you divide, everyone gets the same amount. You now know ALL FOUR math operations!'",
-          "mastery_check": "Can the child use the division board to distribute beads equally and correctly determine the quotient for at least 4 of 5 problems?"
+          "mastery_check": "Can the child use the division board to distribute beads equally and correctly determine the quotient for at least 4 of 5 problems?",
+          "mascot_explanation": "You did such a great job sharing today! You learned that division means sharing equally, and now you know all four big math games: adding, subtracting, multiplying, and dividing! High five!"
         }
       ]
     },
@@ -245,7 +268,8 @@
           "type": "title",
           "heading": "Mapping My Body",
           "subheading": "Geography Meets Anatomy",
-          "image_url": "https://images.pexels.com/photos/8926461/pexels-photo-8926461.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/8926461/pexels-photo-8926461.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look at this! It says \"Mapping My Body,\" which means we're going to make a special map. This map will be all about YOU and the amazing parts that make up your body!"
         },
         {
           "type": "materials",
@@ -255,37 +279,44 @@
             "Colored pencils",
             "Body part labels"
           ],
-          "setup_instructions": "Roll out paper on the floor. Have the child lie down in a comfortable position for tracing. Prepare body part label cards."
+          "setup_instructions": "Roll out paper on the floor. Have the child lie down in a comfortable position for tracing. Prepare body part label cards.",
+          "mascot_explanation": "We need some special things to make our map! See this big roll of paper? That's where we'll draw you. We also have fun markers and colorful pencils to make your map super special. There are also little cards with names of body parts, like \"head\" and \"foot,\" to help us! Ask your grown-up to help you get these ready."
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'You are an expert map maker! You have mapped continents, oceans, and the whole world. Today we map the most important place of all — YOUR body!'"
+          "text": "'You are an expert map maker! You have mapped continents, oceans, and the whole world. Today we map the most important place of all — YOUR body!'",
+          "mascot_explanation": "You are such a super map maker! Remember how we made maps of far-away places? Well, today we get to make a map of the most important place ever – your very own body!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Lie down on this paper. I will trace around you with a marker.' Trace carefully. 'Stand up and look — it is YOU on paper!'"
+          "text": "'Lie down on this paper. I will trace around you with a marker.' Trace carefully. 'Stand up and look — it is YOU on paper!'",
+          "mascot_explanation": "Now, I need you to lie down right here on this big paper, like a sleepy bear. I'm going to draw all around you with this marker, like I'm giving you a big hug with lines! When you stand up, you'll see a picture of YOU right here!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Now let's label your body map, just like we label continents. Where is your head? Your shoulders? Your elbows? Your knees?'"
+          "text": "'Now let's label your body map, just like we label continents. Where is your head? Your shoulders? Your elbows? Your knees?'",
+          "mascot_explanation": "This paper is now your body map! Just like a map shows where a park or a house is, this map shows where all your parts are. Let's point to your head, your shoulders, and your knees – where do you think those go on the map?"
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'A map of the world shows what is ON the surface. But what is INSIDE your body? Bones! Muscles! Organs! This week we explore what is inside.'"
+          "text": "'A map of the world shows what is ON the surface. But what is INSIDE your body? Bones! Muscles! Organs! This week we explore what is inside.'",
+          "mascot_explanation": "Maps usually show us what's on the outside, right? But guess what? Inside your body, there are super cool things like bones that help you stand up tall and muscles that help you run and jump! We're going to learn all about them this week."
         },
         {
           "type": "activity",
           "prompt": "Label at least 12 body parts on your map. Add details: eyes, mouth, hair, clothing. This is YOUR personal body map!",
-          "duration_minutes": 18
+          "duration_minutes": 18,
+          "mascot_explanation": "Now it's time to make your map extra special! Let's draw your happy eyes, your smiling mouth, and your wonderful hair. You can even draw your favorite shirt or pants on your paper self! Let's try to name and draw at least 12 different body parts."
         },
         {
           "type": "wrap_up",
           "text": "'Your body map shows the outside. This week we will learn about what is inside — starting with the amazing skeleton that holds you up!'",
-          "mastery_check": "Can the child correctly label at least 12 external body parts on their body map?"
+          "mastery_check": "Can the child correctly label at least 12 external body parts on their body map?",
+          "mascot_explanation": "Wow, look at your amazing body map! You showed us all the outside parts, and this week we're going to discover what's inside. We'll learn all about your skeleton, which is like the strong frame that holds you up so you can play! You did such a great job!"
         }
       ]
     },
@@ -314,39 +345,46 @@
           "type": "title",
           "heading": "Read-Aloud",
           "subheading": "Bones by Steve Jenkins",
-          "image_url": "https://images.pexels.com/photos/6437505/pexels-photo-6437505.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/6437505/pexels-photo-6437505.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look! This is the cover of our special book. It has a very cool title: \"Bones\"! It's going to teach us all about the hard parts inside our bodies that help us stand up tall."
         },
         {
           "type": "materials",
           "items": [
             "Bones by Steve Jenkins or similar"
           ],
-          "setup_instructions": "Set up the reading area. Preview the book to note key comparison pages."
+          "setup_instructions": "Set up the reading area. Preview the book to note key comparison pages.",
+          "mascot_explanation": "We need our special book for our activity today! See? It's right here, ready for us to look at. We'll use it to learn all about bones."
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Inside your body right now, 206 bones are holding you up, protecting your organs, and helping you move. Let's learn about them!'"
+          "text": "'Inside your body right now, 206 bones are holding you up, protecting your organs, and helping you move. Let's learn about them!'",
+          "mascot_explanation": "Wow, inside you right now, you have so many bones! They are like a super strong frame that holds you up so you can run and play. They also keep your important parts, like your heart, safe and sound."
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "Read aloud. At each page, pause: 'Feel your own skull. It is hard — it protects your brain! Feel your ribs. They protect your heart and lungs!'"
+          "text": "Read aloud. At each page, pause: 'Feel your own skull. It is hard — it protects your brain! Feel your ribs. They protect your heart and lungs!'",
+          "mascot_explanation": "Now we're going to read our book together! When we see a picture, we'll feel our own bodies. Feel your head – that's your skull, and it keeps your brain super safe. Feel your tummy – your ribs are like a little cage protecting your heart!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'This book compares human bones to animal bones. A giraffe has the SAME number of neck bones as you — just much bigger!'"
+          "text": "'This book compares human bones to animal bones. A giraffe has the SAME number of neck bones as you — just much bigger!'",
+          "mascot_explanation": "This part of the book shows how our bones are like animal bones! Imagine this: a super tall giraffe has the same number of bones in its long neck as you do in yours! Isn't that silly and amazing?"
         },
         {
           "type": "activity",
           "prompt": "Feel the bones in your hand. How many finger bones can you count on one hand? (14!) What other bones can you feel? Elbows, knees, spine!",
-          "duration_minutes": 5
+          "duration_minutes": 5,
+          "mascot_explanation": "Let's feel our hands! Can you feel all the little bones in your fingers? You have 14 bones in your fingers, and two in your thumb! Can you feel your elbow or your knees? Those are bones too!"
         },
         {
           "type": "wrap_up",
           "text": "'Bones are amazing — they are strong, they grow with you, and they protect your most important organs. This week we learn more!'",
-          "mastery_check": "Can the child name at least 3 functions of bones (support, protection, movement) and identify bones in their own body by touch?"
+          "mastery_check": "Can the child name at least 3 functions of bones (support, protection, movement) and identify bones in their own body by touch?",
+          "mascot_explanation": "Our bones are so cool! They help us stand, they keep us safe, and they help us move all around. We learned so much about our amazing bones today!"
         }
       ]
     },
@@ -378,7 +416,8 @@
           "type": "title",
           "heading": "Constructive Triangles",
           "subheading": "Building Complex Shapes",
-          "image_url": "https://images.pexels.com/photos/4491703/pexels-photo-4491703.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/4491703/pexels-photo-4491703.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Wow, look at this! We're going to play with special triangles and build all sorts of amazing shapes, like a super builder!"
         },
         {
           "type": "materials",
@@ -389,32 +428,38 @@
             "Pencil",
             "Colored pencils"
           ],
-          "setup_instructions": "Lay out the constructive triangle set. Have a large work mat and paper ready for tracing discoveries."
+          "setup_instructions": "Lay out the constructive triangle set. Have a large work mat and paper ready for tracing discoveries.",
+          "mascot_explanation": "Let's get our special triangle shapes ready! We have colorful triangles, a soft mat to put them on, and paper and crayons to draw the cool shapes we make. Ask a grown-up to help you find them all!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'The triangle is the most powerful shape in geometry. Every shape with straight sides can be built from triangles!'"
+          "text": "'The triangle is the most powerful shape in geometry. Every shape with straight sides can be built from triangles!'",
+          "mascot_explanation": "Did you know that triangles are like the magic LEGOs of shapes? Even big shapes with straight sides are made up of little triangles, just like you can build a big tower with small blocks!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'You have built rectangles and bigger triangles. Can you build a HEXAGON? It has 6 sides. How many triangles do you need?' (6!)"
+          "text": "'You have built rectangles and bigger triangles. Can you build a HEXAGON? It has 6 sides. How many triangles do you need?' (6!)",
+          "mascot_explanation": "We know triangles can make rectangles and bigger triangles, right? Now, let's try something super fun: can you put some triangles together to make a hexagon, which is a shape with six sides? It takes six triangles to make one!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Try a parallelogram — a shape with opposite sides that are parallel. How many triangles? What about a rhombus?'"
+          "text": "'Try a parallelogram — a shape with opposite sides that are parallel. How many triangles? What about a rhombus?'",
+          "mascot_explanation": "Now, let's try making some other tricky shapes! Can you put the triangles together to make a parallelogram, which is like a slanted rectangle, or a rhombus, which looks like a diamond?"
         },
         {
           "type": "activity",
           "prompt": "Build as many different shapes as you can using triangles. Trace each shape you create. How many different shapes can you make?",
-          "duration_minutes": 12
+          "duration_minutes": 12,
+          "mascot_explanation": "It's time to be a shape explorer! Let's use our triangles to build as many different shapes as we can, and then trace them on our paper to keep a picture of our amazing creations. How many new shapes can you discover?"
         },
         {
           "type": "wrap_up",
           "text": "'You discovered that triangles are the building blocks of all straight-sided shapes. Architects and engineers use this knowledge to build strong structures!'",
-          "mastery_check": "Can the child construct at least 4 different polygons from triangles and explain that triangles are the basic geometric building block?"
+          "mastery_check": "Can the child construct at least 4 different polygons from triangles and explain that triangles are the basic geometric building block?",
+          "mascot_explanation": "You did it! You showed how triangles can build all sorts of shapes, just like builders use special pieces to make houses and bridges. You're a super geometry star!"
         }
       ]
     },
@@ -446,7 +491,8 @@
           "type": "title",
           "heading": "Parts of Speech Review",
           "subheading": "Verbs — The Action Words",
-          "image_url": "https://images.pexels.com/photos/8613089/pexels-photo-8613089.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/8613089/pexels-photo-8613089.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Wow, look at this! We're going to learn all about \"verbs,\" which are like the super-duper action words that make sentences exciting. They tell us what someone or something is *doing*!"
         },
         {
           "type": "materials",
@@ -457,37 +503,44 @@
             "Paper",
             "Pencil"
           ],
-          "setup_instructions": "Write 10-12 action verbs on cards. Prepare sentence strips with verbs to identify. Clear space for acting out verbs!"
+          "setup_instructions": "Write 10-12 action verbs on cards. Prepare sentence strips with verbs to identify. Clear space for acting out verbs!",
+          "mascot_explanation": "We have some special things to help us today! See this red circle? That's our special marker for verbs. We also have cards with fun action words on them, and paper and a pencil for writing. Let's ask a grown-up to help us get them ready!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'The red circle is the VERB — the energy word! It tells what someone DOES. Without a verb, nothing happens in a sentence!'"
+          "text": "'The red circle is the VERB — the energy word! It tells what someone DOES. Without a verb, nothing happens in a sentence!'",
+          "mascot_explanation": "This red circle is super important! It's like a little stamp for our \"verb\" words. Verbs are the words that show energy and tell us what's happening, like running or jumping. Without them, sentences are a little bit sleepy!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Let's play the verb game! Draw a card and ACT IT OUT. I will guess the verb!' Child draws: 'jump' and jumps!"
+          "text": "'Let's play the verb game! Draw a card and ACT IT OUT. I will guess the verb!' Child draws: 'jump' and jumps!",
+          "mascot_explanation": "Yay, time to play a game! We'll pick a card, and when you see the word, you get to show me what it means by doing the action! If you pick \"jump,\" you can show me your best jump! It's like a fun charades game!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Most verbs are actions you can see: run, eat, sing. But some are quiet verbs: think, feel, is, was. Your brain is THINKING right now — that is a verb too!'"
+          "text": "'Most verbs are actions you can see: run, eat, sing. But some are quiet verbs: think, feel, is, was. Your brain is THINKING right now — that is a verb too!'",
+          "mascot_explanation": "Sometimes verbs are super exciting actions, like running and hopping! But other verbs are quieter, like when you are thinking hard or feeling happy. Those quiet words are verbs too, and they help us understand how people feel or what they are doing inside their heads."
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Find the verb in these sentences: The dog barked loudly. She was tired. He reads every night. Place the red circle above each verb.'"
+          "text": "'Find the verb in these sentences: The dog barked loudly. She was tired. He reads every night. Place the red circle above each verb.'",
+          "mascot_explanation": "Now, let's find the verb in these sentences! Remember, it's the action word or the word that tells us how something *is*. We'll put our red circle right on top of that special verb word."
         },
         {
           "type": "activity",
           "prompt": "Act out 5 verb cards. Then find and mark verbs in 5 sentences. Finally, write 5 sentences of your own — underline the verb in each one!",
-          "duration_minutes": 15
+          "duration_minutes": 15,
+          "mascot_explanation": "Today, we're going to be super verb detectives! First, we'll act out some fun action words, then we'll find the secret verb words in sentences, and finally, we get to make up our very own sentences with exciting verbs! You can do it!"
         },
         {
           "type": "wrap_up",
           "text": "'Verbs make sentences come alive! Every sentence needs at least one verb. You can spot them, act them, and write them!'",
-          "mastery_check": "Can the child identify verbs in sentences (including simple being verbs), act out verbs, and use verbs correctly in original sentences?"
+          "mastery_check": "Can the child identify verbs in sentences (including simple being verbs), act out verbs, and use verbs correctly in original sentences?",
+          "mascot_explanation": "You did such a fantastic job finding and using verbs today! You showed me how to jump, you found the action words in sentences, and you even made up your own! Verbs are the best for making sentences jump and play!"
         }
       ]
     },
@@ -520,7 +573,8 @@
           "type": "title",
           "heading": "Division Board",
           "subheading": "Practice and Remainders",
-          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/31864404/pexels-photo-31864404.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look at this fun page! It has a big title that says \"Division Board,\" and it tells us we're going to practice and learn about something called \"remainders.\" That means we'll get to do some super fun math together!"
         },
         {
           "type": "materials",
@@ -531,37 +585,44 @@
             "Paper",
             "Pencil"
           ],
-          "setup_instructions": "Set up the division board. Prepare problems including some that result in remainders."
+          "setup_instructions": "Set up the division board. Prepare problems including some that result in remainders.",
+          "mascot_explanation": "Wow, look at all the cool things we need for our math adventure! We have the special division board, some colorful Skittles, little beads, and paper and a pencil to write with. Can you ask a grown-up to help you find all these things so we can start playing?"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Let's do more division! Remember: division means sharing equally.' Solve 16 / 4 together on the board."
+          "text": "'Let's do more division! Remember: division means sharing equally.' Solve 16 / 4 together on the board.",
+          "mascot_explanation": "Okay, let's play a sharing game with our division board! We're going to share 16 beads into 4 groups, and see how many beads each group gets. Remember, sharing equally is what division is all about!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Now try 7 / 2. Share 7 beads between 2 people.' Child distributes: 3 each... with 1 left over! 'That extra one is called a REMAINDER.'"
+          "text": "'Now try 7 / 2. Share 7 beads between 2 people.' Child distributes: 3 each... with 1 left over! 'That extra one is called a REMAINDER.'",
+          "mascot_explanation": "Now, let's try sharing 7 beads between 2 friends. We'll give one to you, one to me, one to you, one to me... oh look! There's one bead left over that we can't share equally. That leftover bead is special, and we call it a \"remainder\"!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Not every number divides evenly! 7 / 2 = 3 remainder 1. We can write it: 7 / 2 = 3 R1.'"
+          "text": "'Not every number divides evenly! 7 / 2 = 3 remainder 1. We can write it: 7 / 2 = 3 R1.'",
+          "mascot_explanation": "So, when we share 7 beads with 2 friends, each friend gets 3 beads, and there's 1 bead left over. We can write this like a secret code: 7 divided by 2 equals 3 with a remainder of 1, or 3 R1!"
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Here is a secret: division and multiplication are RELATED! If 3 x 5 = 15, then 15 / 3 = 5 and 15 / 5 = 3. They are fact family members!'"
+          "text": "'Here is a secret: division and multiplication are RELATED! If 3 x 5 = 15, then 15 / 3 = 5 and 15 / 5 = 3. They are fact family members!'",
+          "mascot_explanation": "Here's a super cool secret about math: division and multiplication are like best friends! If we know that 3 times 5 makes 15, then we also know that 15 divided by 3 is 5, and 15 divided by 5 is 3! They help each other out!"
         },
         {
           "type": "activity",
           "prompt": "Solve on the board: 18 / 3, 20 / 5, 14 / 2, 9 / 4, 11 / 3. Write each answer. Circle any that have remainders.",
-          "duration_minutes": 12
+          "duration_minutes": 12,
+          "mascot_explanation": "Let's solve some more fun division problems together on the board! We'll figure out 18 shared by 3, 20 shared by 5, and 14 shared by 2. Then we'll try sharing 9 by 4 and 11 by 3, and we'll circle the ones that have a leftover remainder!"
         },
         {
           "type": "wrap_up",
           "text": "'You can divide, find remainders, AND connect division to multiplication! You know ALL four operations now: addition, subtraction, multiplication, and division!'",
-          "mastery_check": "Can the child solve division problems with and without remainders and explain the relationship between multiplication and division?"
+          "mastery_check": "Can the child solve division problems with and without remainders and explain the relationship between multiplication and division?",
+          "mascot_explanation": "Yay, you did it! You are a super math star! You learned how to share numbers equally, find the special leftovers called remainders, and even saw how division and multiplication are like a team. You know addition, subtraction, multiplication, AND division now – that's amazing!"
         }
       ]
     },
@@ -594,7 +655,8 @@
           "type": "title",
           "heading": "The Skeletal System",
           "subheading": "Your Amazing Bones",
-          "image_url": "https://images.pexels.com/photos/8471886/pexels-photo-8471886.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/8471886/pexels-photo-8471886.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Wow, look at this! It says \"The Skeletal System\" and \"Your Amazing Bones.\" That means we're going to learn all about the special parts inside your body that help you stand up tall and move around. Aren't your bones amazing?"
         },
         {
           "type": "materials",
@@ -605,37 +667,44 @@
             "White crayon/chalk",
             "Science journal"
           ],
-          "setup_instructions": "Display the skeleton reference. Lay out the child's body map from Day 1. Prepare bone name labels."
+          "setup_instructions": "Display the skeleton reference. Lay out the child's body map from Day 1. Prepare bone name labels.",
+          "mascot_explanation": "Let's get our tools ready for our bone adventure! We have a picture of a skeleton to look at, a map of a body like yours, and little papers with bone names on them. We'll also use a white crayon to draw, and our science journal for special notes."
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Inside you right now, 206 bones are working together! Let's learn the names of the most important ones.'"
+          "text": "'Inside you right now, 206 bones are working together! Let's learn the names of the most important ones.'",
+          "mascot_explanation": "Guess what? Your body has lots and lots of bones, even more than 200! They all work together like a super team to help you run, jump, and play. Today, we're going to learn the names of some of the most important ones."
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'This is the SKULL or cranium.' Touch your head. 'Feel how hard it is? It protects the most important organ — your brain!'"
+          "text": "'This is the SKULL or cranium.' Touch your head. 'Feel how hard it is? It protects the most important organ — your brain!'",
+          "mascot_explanation": "See this round part on top of the skeleton? That's your SKULL! It's like a hard helmet for your head, and it keeps your brain super safe inside. Can you feel your own skull? It's nice and hard, right?"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Run your fingers down your back. Those bumps are your SPINE — also called vertebrae. 33 small bones stacked like a tower!'"
+          "text": "'Run your fingers down your back. Those bumps are your SPINE — also called vertebrae. 33 small bones stacked like a tower!'",
+          "mascot_explanation": "Now, let's feel down the middle of your back. Those little bumps you feel are your SPINE! It's like a strong tower made of lots of little bones all stacked up, and it helps you stand up straight."
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Feel your ribs — they curve around your chest like a cage, protecting your heart and lungs. Your FEMUR, the thigh bone, is the longest bone in your body!'"
+          "text": "'Feel your ribs — they curve around your chest like a cage, protecting your heart and lungs. Your FEMUR, the thigh bone, is the longest bone in your body!'",
+          "mascot_explanation": "Feel your chest, right here. Those are your RIBS, and they make a cozy cage to protect your heart and lungs, which help you breathe and keep you healthy. And guess what? The big bone in your leg, your THIGH bone, is the longest bone in your whole body!"
         },
         {
           "type": "activity",
           "prompt": "Draw the major bones on your body map using white crayon: skull, spine, ribs, pelvis, femur, humerus. Label each one. Feel the real bone on your body!",
-          "duration_minutes": 12
+          "duration_minutes": 12,
+          "mascot_explanation": "Now for the fun part! We're going to use our white crayon to draw these bones on your body map. First, draw the skull on your head, then the spine down your back, and the ribs around your chest. We'll also draw the long thigh bone and the bone in your upper arm. Then, we'll write the names next to them!"
         },
         {
           "type": "wrap_up",
           "text": "'You can name and locate 6 major bones! Your skeleton is your body's framework — without it, you would be like a jellyfish!'",
-          "mastery_check": "Can the child name and locate at least 5 of 6 major bones (skull, spine, ribs, femur, humerus, pelvis) on their body and on the diagram?"
+          "mastery_check": "Can the child name and locate at least 5 of 6 major bones (skull, spine, ribs, femur, humerus, pelvis) on their body and on the diagram?",
+          "mascot_explanation": "You did it! You learned about six super important bones in your body: your skull, spine, ribs, thigh bone, arm bone, and pelvis! Your skeleton is like the strong frame of a house, helping you stand tall and move. You're a super scientist!"
         }
       ]
     },
@@ -668,7 +737,8 @@
           "type": "title",
           "heading": "Skeleton Art",
           "subheading": "Cotton Swab Skeleton",
-          "image_url": "https://images.pexels.com/photos/1047540/pexels-photo-1047540.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/1047540/pexels-photo-1047540.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Wow, look at this! We're going to make a super cool skeleton picture using fluffy white cotton swabs! It's going to be a fun art project where we learn about our bodies."
         },
         {
           "type": "materials",
@@ -680,37 +750,44 @@
             "White crayon",
             "Skeleton diagram"
           ],
-          "setup_instructions": "Pre-cut some cotton swabs into shorter pieces for ribs, fingers, and toes. Have the skeleton diagram visible for reference."
+          "setup_instructions": "Pre-cut some cotton swabs into shorter pieces for ribs, fingers, and toes. Have the skeleton diagram visible for reference.",
+          "mascot_explanation": "Let's get our art supplies ready! We need black paper to make our skeleton stand out, soft cotton swabs for bones, sticky white glue, scissors to cut some swabs, and a white crayon to draw a head. We also have a picture of a real skeleton to help us!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'We learned about bones in science. Now let's BUILD a skeleton with cotton swabs! The white swabs on black paper will look just like an X-ray.'"
+          "text": "'We learned about bones in science. Now let's BUILD a skeleton with cotton swabs! The white swabs on black paper will look just like an X-ray.'",
+          "mascot_explanation": "We learned about our bones in science class, didn't we? Now we get to be like doctors and artists and build our very own skeleton using these cotton swabs! It will look like a special picture that shows our bones."
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Start with the skull — draw a circle at the top with white crayon. Then the spine: glue cotton swabs going down the middle.'"
+          "text": "'Start with the skull — draw a circle at the top with white crayon. Then the spine: glue cotton swabs going down the middle.'",
+          "mascot_explanation": "First, let's make the head, the skull! We'll draw a big circle at the top of our black paper with the white crayon. Then, we'll put glue down the middle and stick cotton swabs going up and down to make the backbone, called the spine."
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Now the ribs: shorter pieces going outward from the spine, curving slightly. How many pairs of ribs should we add? Look at the diagram!'"
+          "text": "'Now the ribs: shorter pieces going outward from the spine, curving slightly. How many pairs of ribs should we add? Look at the diagram!'",
+          "mascot_explanation": "Next are the ribs, like a cage around our chest! We'll use shorter cotton swab pieces and glue them going out from the spine, making a nice curve. We can look at our skeleton picture to see how many ribs we need."
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Add the arms and legs. The femur is long — use a whole cotton swab. The fingers and toes need tiny pieces.'"
+          "text": "'Add the arms and legs. The femur is long — use a whole cotton swab. The fingers and toes need tiny pieces.'",
+          "mascot_explanation": "Now we get to make the arms and legs! We'll use a whole cotton swab for the big leg bone, and then cut up tiny pieces to make all the little fingers and toes. It’s like building with sticks!"
         },
         {
           "type": "activity",
           "prompt": "Build your complete cotton swab skeleton on black paper. Include: skull, spine, ribs, pelvis, arms with hands, legs with feet. Use the diagram for reference!",
-          "duration_minutes": 20
+          "duration_minutes": 20,
+          "mascot_explanation": "Let's put it all together! We'll make the head, the long spine, the ribs, and then the arms and legs with hands and feet. Use the skeleton picture to help you put everything in the right spot, just like a real skeleton!"
         },
         {
           "type": "wrap_up",
           "text": "'Your skeleton artwork looks like a real X-ray! You learned the bones AND created art at the same time. Science and art go together beautifully.'",
-          "mastery_check": "Does the skeleton artwork show correct general placement of major bones: skull at top, spine centered, ribs on sides, arms from shoulders, legs from pelvis?"
+          "mastery_check": "Does the skeleton artwork show correct general placement of major bones: skull at top, spine centered, ribs on sides, arms from shoulders, legs from pelvis?",
+          "mascot_explanation": "Yay! Look at your amazing skeleton art! It looks like a real X-ray, showing all the bones we learned about. You did such a great job putting all the pieces together and making something so special!"
         }
       ]
     },
@@ -742,7 +819,8 @@
           "type": "title",
           "heading": "Meal Planning",
           "subheading": "Planning a Day of Meals",
-          "image_url": "https://images.pexels.com/photos/4108660/pexels-photo-4108660.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/4108660/pexels-photo-4108660.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Wow, look at this! Today, we get to be the boss of breakfast, lunch, and dinner! We're going to plan out all the yummy food for one whole day."
         },
         {
           "type": "materials",
@@ -752,37 +830,44 @@
             "Pencil",
             "Colored pencils"
           ],
-          "setup_instructions": "Create or print food picture cards. Prepare a planning sheet with 4 meal sections and columns for protein, grain, fruit/vegetable."
+          "setup_instructions": "Create or print food picture cards. Prepare a planning sheet with 4 meal sections and columns for protein, grain, fruit/vegetable.",
+          "mascot_explanation": "Look at all these fun pictures! These are our food cards, and we’ll use them to pick out yummy things to eat. We also have a special paper and a pencil to write down our amazing food plan."
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Every day someone plans what your family eats. Today YOU are the meal planner! You will plan breakfast, lunch, a snack, and dinner.'"
+          "text": "'Every day someone plans what your family eats. Today YOU are the meal planner! You will plan breakfast, lunch, a snack, and dinner.'",
+          "mascot_explanation": "Grown-ups plan meals all the time, but guess what? Today, YOU are the meal planner! We're going to plan breakfast, lunch, a snack, and dinner for the whole day."
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Good meals have balance: protein gives you energy, grains give you fuel, and fruits and vegetables keep you healthy.'"
+          "text": "'Good meals have balance: protein gives you energy, grains give you fuel, and fruits and vegetables keep you healthy.'",
+          "mascot_explanation": "It's super important to eat foods that help our bodies grow strong! We need foods like eggs or beans for energy, bread or rice to keep us going, and colorful fruits and veggies to stay healthy."
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'For breakfast, choose one protein, one grain, and one fruit. Maybe: scrambled eggs, toast, and an orange!'"
+          "text": "'For breakfast, choose one protein, one grain, and one fruit. Maybe: scrambled eggs, toast, and an orange!'",
+          "mascot_explanation": "For breakfast, let's pick something yummy from each group! How about some fluffy eggs, a piece of toast, and a sweet orange? That sounds delicious!"
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Now plan lunch, snack, and dinner the same way. Think about what you like AND what is healthy.'"
+          "text": "'Now plan lunch, snack, and dinner the same way. Think about what you like AND what is healthy.'",
+          "mascot_explanation": "Now it's time to plan lunch, snack, and dinner! We'll pick a protein, a grain, and a fruit or veggie for each one, just like we did for breakfast. Let's pick foods we really love!"
         },
         {
           "type": "activity",
           "prompt": "Complete your meal plan for the whole day. Draw or write each food item. Circle one meal you could help cook. Make a shopping list if you need ingredients!",
-          "duration_minutes": 15
+          "duration_minutes": 15,
+          "mascot_explanation": "Now we get to make our very own menu! You can draw or write the foods you picked for each meal. Then, pick one meal that you think you can help make and give it a big circle! If we need any special foods, we can make a list to ask for them."
         },
         {
           "type": "wrap_up",
           "text": "'You planned nutritious meals for an entire day! Maybe your family can actually eat YOUR menu. Planning is a powerful skill.'",
-          "mastery_check": "Can the child plan 4 meals/snacks that include items from at least 2 food categories each and identify one meal they could help prepare?"
+          "mastery_check": "Can the child plan 4 meals/snacks that include items from at least 2 food categories each and identify one meal they could help prepare?",
+          "mascot_explanation": "You did it! You planned a whole day of healthy and super yummy meals all by yourself! That’s a really big job, and you are such a great planner. Maybe your family will even eat the menu you made today!"
         }
       ]
     },
@@ -816,7 +901,8 @@
           "type": "title",
           "heading": "Adjectives and Adverbs",
           "subheading": "Words That Describe",
-          "image_url": "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/256417/pexels-photo-256417.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look! Today we're going to learn about special words that make our talking and writing more fun! These words help us describe things and actions, like telling me what color something is or how fast you can run."
         },
         {
           "type": "materials",
@@ -827,37 +913,44 @@
             "Objects",
             "Pencil"
           ],
-          "setup_instructions": "Prepare adjective cards (red, big, soft, three, old) and adverb cards (quickly, softly, gently, loudly, carefully). Have objects ready."
+          "setup_instructions": "Prepare adjective cards (red, big, soft, three, old) and adverb cards (quickly, softly, gently, loudly, carefully). Have objects ready.",
+          "mascot_explanation": "Wow, we have lots of fun things to play with today! We have some picture cards with words on them, like \"red\" or \"quickly,\" and some real things to look at. We also have a special pencil and some paper with lines. We'll use all of these to practice our new words!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Adjectives describe NOUNS. Watch: here is a ball. Now: a RED ball. A SMALL red ball. A SMALL, RED, BOUNCY ball! Adjectives add details!'"
+          "text": "'Adjectives describe NOUNS. Watch: here is a ball. Now: a RED ball. A SMALL red ball. A SMALL, RED, BOUNCY ball! Adjectives add details!'",
+          "mascot_explanation": "See this ball? It's just a ball, right? But watch what happens when we add describing words! We can say it's a *red* ball, or a *big, red* ball, or even a *big, red, bouncy* ball! These words tell us *more* about the ball."
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'The blue triangle is smaller than the noun's black triangle because adjectives DEPEND on nouns. They cannot exist without a noun to describe.'"
+          "text": "'The blue triangle is smaller than the noun's black triangle because adjectives DEPEND on nouns. They cannot exist without a noun to describe.'",
+          "mascot_explanation": "This little blue triangle is like a helper for the noun, which is our ball. The triangle is smaller because it needs the ball to tell us about it. It’s like saying, \"This is the *blue* ball!\" The word \"blue\" tells us about the ball."
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Now meet the ADVERB! An adverb describes a VERB — it tells HOW you do something. Walk. Now walk SLOWLY. Now walk QUICKLY!'"
+          "text": "'Now meet the ADVERB! An adverb describes a VERB — it tells HOW you do something. Walk. Now walk SLOWLY. Now walk QUICKLY!'",
+          "mascot_explanation": "Now let's talk about how we *do* things! Imagine you are walking. Now, let's try walking *slowly*. See how that word \"slowly\" tells us *how* you are walking? Or maybe you can walk *quickly*! That tells us too!"
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Many adverbs end in -ly: softly, loudly, gently, carefully. The adverb gets an orange circle because it adds energy to the verb's action.'"
+          "text": "'Many adverbs end in -ly: softly, loudly, gently, carefully. The adverb gets an orange circle because it adds energy to the verb's action.'",
+          "mascot_explanation": "Many of these words that tell us *how* we do things end with a \"lee\" sound, like \"softly\" or \"loudly.\" We use a special orange circle for these words because they add so much energy to our actions! They make our sentences more exciting!"
         },
         {
           "type": "activity",
           "prompt": "Find adjectives and adverbs in 4 sentences and mark them with the correct symbols. Then write 3 sentences that each have at least one adjective AND one adverb.",
-          "duration_minutes": 12
+          "duration_minutes": 12,
+          "mascot_explanation": "Now it's your turn to be a word detective! We're going to look at some sentences and find the describing words and the action words. Then, we'll write our own sentences using these special words to make them super interesting!"
         },
         {
           "type": "wrap_up",
           "text": "'Adjectives and adverbs make your language more precise and interesting. Instead of The dog ran, you can say The big brown dog ran quickly!'",
-          "mastery_check": "Can the child identify adjectives and adverbs in sentences and use both in original sentences?"
+          "mastery_check": "Can the child identify adjectives and adverbs in sentences and use both in original sentences?",
+          "mascot_explanation": "You did such a great job today being a word detective! You learned how to use words like \"big\" and \"softly\" to make your sentences much more exciting. Instead of just saying \"the dog ran,\" you can say \"the fluffy dog ran quickly!\" That's amazing!"
         }
       ]
     },
@@ -888,7 +981,8 @@
           "type": "title",
           "heading": "Word Problems",
           "subheading": "Which Operation Do I Use?",
-          "image_url": "https://images.pexels.com/photos/6693302/pexels-photo-6693302.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/6693302/pexels-photo-6693302.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Wow, look at this! We're going to be super detectives today, figuring out tricky stories called \"word problems.\" We'll learn how to pick the right math tool for each story, like picking the right crayon to color a picture!"
         },
         {
           "type": "materials",
@@ -899,37 +993,44 @@
             "Pencil",
             "Operation cards"
           ],
-          "setup_instructions": "Write 8-10 word problems on cards, mixing all four operations. Have counters and operation symbol cards available."
+          "setup_instructions": "Write 8-10 word problems on cards, mixing all four operations. Have counters and operation symbol cards available.",
+          "mascot_explanation": "Let's see what fun things we need for our math adventure! We have special cards with stories on them, little toys called counters to help us count, and paper and a pencil to write our answers. We also have cards with math signs on them. Ask a grown-up to help you find these so we can get started!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'The tricky part of word problems is figuring out WHICH operation to use. Listen for clue words!'"
+          "text": "'The tricky part of word problems is figuring out WHICH operation to use. Listen for clue words!'",
+          "mascot_explanation": "Sometimes, figuring out a math story can be a little like a puzzle! The secret is to listen for special \"clue words\" in the story. These words are like little hints that tell us if we need to add, subtract, multiply, or divide."
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Clue words for addition: total, altogether, combined, in all. For subtraction: left, remaining, fewer, gave away.'"
+          "text": "'Clue words for addition: total, altogether, combined, in all. For subtraction: left, remaining, fewer, gave away.'",
+          "mascot_explanation": "Listen closely for these! If a story talks about things being \"total,\" \"altogether,\" or \"in all,\" it usually means we need to add things up. If it says something was \"left,\" \"remaining,\" or \"gave away,\" we know we'll be taking some away, which is subtraction!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Clue words for multiplication: groups of, each, times, rows. For division: share equally, split, divide, each person gets.'"
+          "text": "'Clue words for multiplication: groups of, each, times, rows. For division: share equally, split, divide, each person gets.'",
+          "mascot_explanation": "And here are more clues! If a story says \"groups of,\" \"each,\" or \"times,\" that's a hint for multiplication, like making many groups of the same size. If it says \"share equally\" or \"split,\" we know we'll be dividing things up fairly."
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Read each problem. Ask yourself: Am I combining? Taking away? Making groups? Sharing equally? Then choose the operation!'"
+          "text": "'Read each problem. Ask yourself: Am I combining? Taking away? Making groups? Sharing equally? Then choose the operation!'",
+          "mascot_explanation": "So, when we read a story, we just have to ask ourselves: are we putting things together, taking some away, making lots of little groups, or sharing fairly? Thinking about that will help us pick the right math operation, like choosing the right key to unlock a door!"
         },
         {
           "type": "activity",
           "prompt": "Solve 6 word problems. For each: write the operation, write the equation, find the answer. Then create one word problem for each of the four operations!",
-          "duration_minutes": 15
+          "duration_minutes": 15,
+          "mascot_explanation": "Now it's our turn to be math wizards! We'll read each story, find the clue words to pick our operation, write down our math sentence, and then find the answer using our counters if we need to. After that, we get to make up our *own* stories for each kind of math! You can do it!"
         },
         {
           "type": "wrap_up",
           "text": "'You can figure out which operation to use just from the story! That is mathematical thinking — and it helps you solve real problems every day.'",
-          "mastery_check": "Can the child correctly identify the operation and solve at least 5 of 6 mixed-operation word problems?"
+          "mastery_check": "Can the child correctly identify the operation and solve at least 5 of 6 mixed-operation word problems?",
+          "mascot_explanation": "Yay! You did it! You are so good at figuring out which math tool to use for each story, all by yourself! That's like being a super smart math detective, and it helps us solve real-life puzzles every single day. You were amazing!"
         }
       ]
     },
@@ -961,7 +1062,8 @@
           "type": "title",
           "heading": "Dance Around the World",
           "subheading": "Bodies in Motion",
-          "image_url": "https://images.pexels.com/photos/2187605/pexels-photo-2187605.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/2187605/pexels-photo-2187605.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look at this fun title! It says \"Dance Around the World\" and \"Bodies in Motion.\" That means we're going to learn about how people all over the world move their bodies and dance!"
         },
         {
           "type": "materials",
@@ -971,37 +1073,44 @@
             "World map",
             "Optional music and scarves"
           ],
-          "setup_instructions": "Clear a space for dancing. Have videos or pictures ready. Mark dance origins on the world map."
+          "setup_instructions": "Clear a space for dancing. Have videos or pictures ready. Mark dance origins on the world map.",
+          "mascot_explanation": "Wow, we have some special things for our dancing adventure! We have pictures or videos of different dances, a big empty space to move, and a map to see where they come from. We can even use music and colorful scarves to make it extra fun!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Every culture in the world has dance! Dancing is one of the oldest ways humans celebrate, tell stories, and express feelings.'"
+          "text": "'Every culture in the world has dance! Dancing is one of the oldest ways humans celebrate, tell stories, and express feelings.'",
+          "mascot_explanation": "It's true! Every single person in the world can dance. Dancing is a super old and happy way for people to share stories, show how they feel, and celebrate!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'In Hawaii, hula dancers tell stories with their HANDS. Each hand movement means something: rain, ocean, flowers. Let's try!'"
+          "text": "'In Hawaii, hula dancers tell stories with their HANDS. Each hand movement means something: rain, ocean, flowers. Let's try!'",
+          "mascot_explanation": "In a place called Hawaii, people do a special dance called Hula. They use their hands to tell stories, like telling us about the rain or the pretty flowers. Let's try to move our hands like they do!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Ballet from Europe focuses on BALANCE and GRACE. Stand on your toes — feel your leg bones and foot bones working! Capoeira from Brazil is POWERFUL — kicks and spins!'"
+          "text": "'Ballet from Europe focuses on BALANCE and GRACE. Stand on your toes — feel your leg bones and foot bones working! Capoeira from Brazil is POWERFUL — kicks and spins!'",
+          "mascot_explanation": "Now we're going to see two more cool dances! Ballet is from a place called Europe, and it's all about being graceful and balanced, like standing on your tippy-toes! Then there's Capoeira from Brazil, which is full of strong kicks and spins!"
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'When you dance, your skeleton is the frame that moves. Your femur lets your legs kick, your spine lets you twist, your arms swing from your shoulder bones!'"
+          "text": "'When you dance, your skeleton is the frame that moves. Your femur lets your legs kick, your spine lets you twist, your arms swing from your shoulder bones!'",
+          "mascot_explanation": "When we dance, our bones are like the building blocks that help us move. Your leg bones help you kick, your back bone helps you twist, and your arm bones help you swing! It's like your skeleton is the frame for your amazing dance moves!"
         },
         {
           "type": "activity",
           "prompt": "Try movements from at least 3 dance traditions. Find each dance's country on the map. Then create your OWN dance that uses movements from different traditions!",
-          "duration_minutes": 12
+          "duration_minutes": 12,
+          "mascot_explanation": "Now it's time for us to be dancers! Let's try some moves from the dances we learned, find their countries on the map, and then you can make up your very own special dance! You can even mix up the moves!"
         },
         {
           "type": "wrap_up",
           "text": "'Your body is an incredible instrument for expression! People everywhere use movement to celebrate life. What was your favorite dance?'",
-          "mastery_check": "Can the child name 3 dance traditions and their countries of origin, and connect dance movement to the skeletal system?"
+          "mastery_check": "Can the child name 3 dance traditions and their countries of origin, and connect dance movement to the skeletal system?",
+          "mascot_explanation": "You did such a great job dancing today! Your body is amazing for showing feelings and telling stories through movement. What was your very favorite dance move that you did?"
         }
       ]
     },
@@ -1032,7 +1141,8 @@
           "type": "title",
           "heading": "Read-Aloud",
           "subheading": "The Skeleton Inside You",
-          "image_url": "https://images.pexels.com/photos/5604251/pexels-photo-5604251.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/5604251/pexels-photo-5604251.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look! This is the cover of our special book for today! It's called \"The Skeleton Inside You,\" and it's going to teach us all about the bones that make up our bodies. We're going to learn so many cool things together!"
         },
         {
           "type": "materials",
@@ -1041,32 +1151,38 @@
             "Body map",
             "White crayon"
           ],
-          "setup_instructions": "Set up reading area near the body map so new information can be added during or after reading."
+          "setup_instructions": "Set up reading area near the body map so new information can be added during or after reading.",
+          "mascot_explanation": "Wow, look at all the things we need for our fun learning time! We have our special book about bones, a big picture of a body, and a white crayon. We'll use the crayon to draw on our body picture later, so ask a grown-up to help you find all these things!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'This book goes even deeper into the skeleton. Listen for new facts we can add to your body map!'"
+          "text": "'This book goes even deeper into the skeleton. Listen for new facts we can add to your body map!'",
+          "mascot_explanation": "We're going to read a super interesting book about our bones today. While we read, we'll listen carefully for new and exciting facts about our skeleton. We can even add these new facts to our body picture later, so let's pay close attention!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "Read aloud. At each body section, pause to locate and feel the bones: skull, jaw, collarbones, shoulder blades."
+          "text": "Read aloud. At each body section, pause to locate and feel the bones: skull, jaw, collarbones, shoulder blades.",
+          "mascot_explanation": "Now we get to read our book and feel our bones! When the book talks about a bone, like your head bone or your shoulder bone, we'll stop and gently touch that part of your body. It's like a treasure hunt for your own bones!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'The book talks about JOINTS — places where bones meet and can bend. Find your joints: elbow, knee, wrist, ankle, shoulder, hip.'"
+          "text": "'The book talks about JOINTS — places where bones meet and can bend. Find your joints: elbow, knee, wrist, ankle, shoulder, hip.'",
+          "mascot_explanation": "This part of the book talks about special places called \"joints.\" Joints are like hinges that let our bones bend and move, like when you bend your arm or your leg. Can you find your elbow or your knee and feel how it bends? That's a joint!"
         },
         {
           "type": "activity",
           "prompt": "Find 5 joints on your body and bend them. Add any new bones or joints to your body map. Write one surprising fact in your science journal.",
-          "duration_minutes": 8
+          "duration_minutes": 8,
+          "mascot_explanation": "It's time to be a bone detective! We need to find five of our joints, like our elbows and knees, and bend them to see how they work. Then, we can use our white crayon to draw any new bones or joints we learned about on our body picture, and write down something surprising we learned in our special notebook."
         },
         {
           "type": "wrap_up",
           "text": "'Every day your bones grow and get stronger, just like you! Drink your milk, eat your vegetables, and stay active to keep your bones healthy.'",
-          "mastery_check": "Can the child locate at least 5 joints on their body and explain what joints do (allow bones to move)?"
+          "mastery_check": "Can the child locate at least 5 joints on their body and explain what joints do (allow bones to move)?",
+          "mascot_explanation": "Great job learning about your amazing body today! Just like you grow bigger and stronger every day, your bones do too! Remember to drink your yummy milk and eat your healthy foods to keep your bones super strong and happy."
         }
       ]
     },
@@ -1096,7 +1212,8 @@
           "type": "title",
           "heading": "Binomial Cube",
           "subheading": "Pattern and Precision",
-          "image_url": "https://images.pexels.com/photos/3661335/pexels-photo-3661335.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/3661335/pexels-photo-3661335.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Wow, look at this big, special puzzle! It's called the Binomial Cube, and it's like a beautiful block that has special patterns all over it. We're going to work with it today to be super careful and make it look just right."
         },
         {
           "type": "materials",
@@ -1105,37 +1222,44 @@
             "Work mat",
             "Optional timer"
           ],
-          "setup_instructions": "Place the binomial cube on the work mat. The child should be familiar with the basic assembly."
+          "setup_instructions": "Place the binomial cube on the work mat. The child should be familiar with the basic assembly.",
+          "mascot_explanation": "Here are the special things we need for our building fun! We have our big Binomial Cube puzzle, and a nice soft mat to build on so nothing gets lost. If you want to be extra speedy, we can even use a timer, but the most important thing is to build it with care."
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'The binomial cube is one of the most beautiful puzzles in the classroom. You know how to build it — today let's focus on PRECISION.'"
+          "text": "'The binomial cube is one of the most beautiful puzzles in the classroom. You know how to build it — today let's focus on PRECISION.'",
+          "mascot_explanation": "This cube puzzle is so pretty, isn't it? You're already so good at putting it together! Today, our special mission is to build it extra, extra carefully, making sure every piece fits perfectly, just like magic."
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Take all the pieces out and mix them up. Now rebuild it — carefully matching the colors and sizes exactly.'"
+          "text": "'Take all the pieces out and mix them up. Now rebuild it — carefully matching the colors and sizes exactly.'",
+          "mascot_explanation": "Now, let's take all the colorful pieces out of the box and make a little pile. After we mix them up, we'll put them back together, but this time we have to look super close at the colors and sizes to make sure they match up perfectly."
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Remember: the colors on the inside faces must match. Red touches red, blue touches blue, black touches black.'"
+          "text": "'Remember: the colors on the inside faces must match. Red touches red, blue touches blue, black touches black.'",
+          "mascot_explanation": "It's like a color game! Remember, when we put the pieces together, the colors on the sides that touch each other have to be the same. Red needs to touch red, blue needs to touch blue, and black needs to touch black."
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Challenge: can you build it OUTSIDE the box — without the walls to guide you? That takes real mastery!'"
+          "text": "'Challenge: can you build it OUTSIDE the box — without the walls to guide you? That takes real mastery!'",
+          "mascot_explanation": "Here's a super tricky challenge! Can you build the whole cube without the box walls helping you keep it in place? This is like being a master builder, and it shows how amazing you are at putting things together."
         },
         {
           "type": "activity",
           "prompt": "Build the binomial cube 3 times: once in the box, once outside the box, and once with your eyes closed (if you dare!). How fast can you do it?",
-          "duration_minutes": 15
+          "duration_minutes": 15,
+          "mascot_explanation": "Let's build this amazing cube three times today! First, we'll build it in the box, then we'll try building it outside the box, and if you're feeling brave, we can even try with our eyes closed! Let's see how fast we can do it while still being super careful."
         },
         {
           "type": "wrap_up",
           "text": "'You have mastered the binomial cube! In elementary school, you will learn the mathematical formula this cube represents. For now, enjoy its beauty and precision.'",
-          "mastery_check": "Can the child assemble the binomial cube independently, outside the box, with all color faces correctly matched?"
+          "mastery_check": "Can the child assemble the binomial cube independently, outside the box, with all color faces correctly matched?",
+          "mascot_explanation": "Yay, you did it! You built the Binomial Cube so perfectly, both inside and outside the box! You are a master builder, and when you're older, you'll learn even more about this cool cube. For now, just remember how beautiful and neat you made it!"
         }
       ]
     },
@@ -1167,7 +1291,8 @@
           "type": "title",
           "heading": "Parts of Speech",
           "subheading": "Prepositions — Where Is It?",
-          "image_url": "https://images.pexels.com/photos/278888/pexels-photo-278888.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/278888/pexels-photo-278888.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look at this big title! It says \"Parts of Speech,\" and today we're going to learn about special little words called \"prepositions.\" They help us know where things are, like \"Where is my teddy bear?\""
         },
         {
           "type": "materials",
@@ -1178,37 +1303,44 @@
             "Sentence strips",
             "Paper"
           ],
-          "setup_instructions": "Set up the toy and box on a table. Prepare preposition word cards: on, in, under, beside, behind, between, over, through, near."
+          "setup_instructions": "Set up the toy and box on a table. Prepare preposition word cards: on, in, under, beside, behind, between, over, through, near.",
+          "mascot_explanation": "Wow, look at all these fun things we get to use for our lesson! We have a green swirly thing called a crescent, a little toy, and a box. We also have some cards with words on them and paper to write, so maybe ask a grown-up to help you get these ready!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'The preposition is a sneaky little word that tells WHERE something is or WHERE it is going. Watch this toy!'"
+          "text": "'The preposition is a sneaky little word that tells WHERE something is or WHERE it is going. Watch this toy!'",
+          "mascot_explanation": "This special green swirly thing is called a preposition symbol, and it's like a secret code for these important words. They tell us where something is, like if it's on top of something or inside something. Let's watch how this little toy moves!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "Place toy ON box. 'Where is it? ON the box! ON is a preposition.' Move it IN. 'Now? IN the box! IN is a preposition.'"
+          "text": "Place toy ON box. 'Where is it? ON the box! ON is a preposition.' Move it IN. 'Now? IN the box! IN is a preposition.'",
+          "mascot_explanation": "See how the toy is sitting right ON top of the box? \"On\" is a preposition! Now, let's put the toy INSIDE the box. \"In\" is another preposition that tells us where the toy is."
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Under, beside, behind, between, over, through, near — these are all prepositions. They show POSITION and DIRECTION.'"
+          "text": "'Under, beside, behind, between, over, through, near — these are all prepositions. They show POSITION and DIRECTION.'",
+          "mascot_explanation": "We learned \"on\" and \"in,\" but there are even more! Words like \"under,\" \"beside,\" \"behind,\" \"between,\" \"over,\" and \"through\" are all prepositions too. They help us know if something is below, next to, or even going through something else."
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Let's play Preposition Simon Says! Put your hand UNDER the table. Stand BETWEEN two chairs. Jump OVER the pillow!'"
+          "text": "'Let's play Preposition Simon Says! Put your hand UNDER the table. Stand BETWEEN two chairs. Jump OVER the pillow!'",
+          "mascot_explanation": "Yay, it's time to play a game! We're going to play \"Simon Says\" with our prepositions. Listen carefully, and do what Simon says, like putting your hand UNDER the table or standing BETWEEN two chairs. It's a super fun way to practice!"
         },
         {
           "type": "activity",
           "prompt": "Find the preposition in 5 sentences and mark it with the green crescent. Then write 5 sentences using different prepositions. Underline each preposition.",
-          "duration_minutes": 12
+          "duration_minutes": 12,
+          "mascot_explanation": "Now we get to be detectives and find the preposition words in some sentences. After we find them, we'll put our green crescent symbol next to them. Then, we'll write our very own sentences using these new words, like \"The cat is sleeping ON the rug.\""
         },
         {
           "type": "wrap_up",
           "text": "'Prepositions are small but powerful! They tell exactly WHERE things are. Without them, we could not give directions or describe positions.'",
-          "mastery_check": "Can the child identify prepositions in sentences and use at least 5 different prepositions correctly in original sentences?"
+          "mastery_check": "Can the child identify prepositions in sentences and use at least 5 different prepositions correctly in original sentences?",
+          "mascot_explanation": "You did such a great job learning about prepositions today! We learned that these little words tell us exactly WHERE things are, which is super helpful for giving directions. Remember how you found all the prepositions and wrote your own sentences? That was amazing!"
         }
       ]
     },
@@ -1239,7 +1371,8 @@
           "type": "title",
           "heading": "Create Your Own Word Problems",
           "subheading": "Mathematician and Author",
-          "image_url": "https://images.pexels.com/photos/311269/pexels-photo-311269.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/311269/pexels-photo-311269.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look at this fun title! It says \"Create Your Own Word Problems.\" That means today, *you* get to be the super smart math person who makes up stories with numbers, and the awesome writer who tells those stories! It's like being a math detective and a story wizard all at once!"
         },
         {
           "type": "materials",
@@ -1249,37 +1382,44 @@
             "Counters",
             "Operation cards"
           ],
-          "setup_instructions": "Provide paper divided into 4 sections, one for each operation. Have counters available for solving."
+          "setup_instructions": "Provide paper divided into 4 sections, one for each operation. Have counters available for solving.",
+          "mascot_explanation": "Wow, look at all the cool things we need for our math adventure today! We have paper to write our stories on, a pencil to draw the words, and these little counters are like tiny friends that help us count. We also have special cards for each math idea we'll use. Ask your grown-up to help you find these things so we can get started!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'You have been solving word problems all week. Now it is time to WRITE them! You are the mathematician AND the author.'"
+          "text": "'You have been solving word problems all week. Now it is time to WRITE them! You are the mathematician AND the author.'",
+          "mascot_explanation": "You know how we've been solving stories with numbers? Well, guess what? Today, *you* get to be the one to make up those stories! You're going to be a super smart mathematician and a fantastic author, writing your very own math adventures. Get ready to use your amazing brain!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'For addition, think of a story where things COME TOGETHER. For subtraction, a story where things GO AWAY.'"
+          "text": "'For addition, think of a story where things COME TOGETHER. For subtraction, a story where things GO AWAY.'",
+          "mascot_explanation": "For our first math story, let's think about adding! That's when things come together, like when you get more toys or when friends join your game. So, for addition, we'll make a story where things are getting bigger or joining up."
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'For multiplication, think about GROUPS of the same number. For division, think about SHARING equally.'"
+          "text": "'For multiplication, think about GROUPS of the same number. For division, think about SHARING equally.'",
+          "mascot_explanation": "Now, for our next math stories, let's think about subtraction and other ideas! For subtraction, we'll make a story where things go away, like when you eat a yummy cookie. For multiplication, we’ll think about groups of the same thing, and for division, we’ll make a story about sharing fairly with friends."
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Write your problem clearly so someone else can understand and solve it. Include a question at the end!'"
+          "text": "'Write your problem clearly so someone else can understand and solve it. Include a question at the end!'",
+          "mascot_explanation": "When you write your math story, make sure it's super clear so someone else can understand it, just like the stories we read! You need to write down what happens and then ask a question at the very end. That way, your grown-up can try to solve your puzzle!"
         },
         {
           "type": "activity",
           "prompt": "Write 4 word problems — one for each operation. Then trade with your parent and solve each other's problems. Check your answers together!",
-          "duration_minutes": 18
+          "duration_minutes": 18,
+          "mascot_explanation": "Now for the super fun part! We're going to write four math stories, one for each math idea we talked about. Then, we'll swap them with your grown-up, and you'll solve their stories, and they'll solve yours! It's like a math game where we help each other."
         },
         {
           "type": "wrap_up",
           "text": "'Writing word problems is HARDER than solving them because you have to think about the math AND the story. You did it!'",
-          "mastery_check": "Can the child create a solvable word problem for each of the four operations with correct mathematical reasoning?"
+          "mastery_check": "Can the child create a solvable word problem for each of the four operations with correct mathematical reasoning?",
+          "mascot_explanation": "Wow, you did it! You made up your very own math stories, which is even trickier than solving them! You had to think about the numbers *and* make a good story. That shows you're a super strong mathematician and a brilliant author. You should be so proud of yourself!"
         }
       ]
     },
@@ -1312,7 +1452,8 @@
           "type": "title",
           "heading": "Joints and Movement",
           "subheading": "Where Bones Meet",
-          "image_url": "https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/2280547/pexels-photo-2280547.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Wow, look at this! It says \"Joints and Movement,\" and \"Where Bones Meet.\" That means we're going to learn about the special places in our bodies that help us move and wiggle!"
         },
         {
           "type": "materials",
@@ -1323,37 +1464,44 @@
             "Science journal",
             "Door hinge and ball for comparison"
           ],
-          "setup_instructions": "Prepare colored stickers: red for hinge joints, blue for ball-and-socket, yellow for pivot, green for gliding. Have the body map accessible."
+          "setup_instructions": "Prepare colored stickers: red for hinge joints, blue for ball-and-socket, yellow for pivot, green for gliding. Have the body map accessible.",
+          "mascot_explanation": "We need some fun things to help us learn about our joints today! We have a big picture of a body called a \"body map,\" and colorful stickers to put on it. We also have a picture that shows how joints work, and a special journal. And look, we have a real door hinge and a ball to help us see how some joints move! Ask a grown-up to help you find these."
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Without joints, your body would be one stiff piece — like a robot made of wood! Joints let your bones MOVE in different ways.'"
+          "text": "'Without joints, your body would be one stiff piece — like a robot made of wood! Joints let your bones MOVE in different ways.'",
+          "mascot_explanation": "Imagine if you were a stiff wooden robot! You couldn't even bend your arms or legs. Our joints are super important because they let us bend and twist and move all around, not just be stuck like a robot!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'HINGE joints move ONE way, like a door. Bend your elbow — it only goes back and forth! Your knee is a hinge too.' Show a real door hinge."
+          "text": "'HINGE joints move ONE way, like a door. Bend your elbow — it only goes back and forth! Your knee is a hinge too.' Show a real door hinge.",
+          "mascot_explanation": "See this picture? It's showing a hinge joint, like on a door! Try bending your elbow right now. See how it only goes one way, back and forth? That's a hinge joint, just like a door opening and closing. Your knee does that too!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'BALL-AND-SOCKET joints move in CIRCLES. Rotate your arm from the shoulder — it goes around and around! Your hip is a ball-and-socket too.'"
+          "text": "'BALL-AND-SOCKET joints move in CIRCLES. Rotate your arm from the shoulder — it goes around and around! Your hip is a ball-and-socket too.'",
+          "mascot_explanation": "Now, let's try moving our shoulder. Swish, swish, swish! See how your arm can go all the way around in a big circle? That's called a ball-and-socket joint, and it lets you make big circles with your arm, kind of like moving a joystick! Your hip works the same way."
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'PIVOT joints let you ROTATE. Turn your head left and right — that is your neck's pivot joint. GLIDING joints in your wrist let bones slide over each other.'"
+          "text": "'PIVOT joints let you ROTATE. Turn your head left and right — that is your neck's pivot joint. GLIDING joints in your wrist let bones slide over each other.'",
+          "mascot_explanation": "Let's try turning our head side to side. This is called a pivot joint, and it lets you twist your head like you're saying \"no\" or looking around. And when you wiggle your wrist, those bones are sliding over each other in a gliding joint!"
         },
         {
           "type": "activity",
           "prompt": "Place colored stickers on your body map: red for hinge joints (elbow, knee), blue for ball-and-socket (shoulder, hip), yellow for pivot (neck), green for gliding (wrist, ankle).",
-          "duration_minutes": 10
+          "duration_minutes": 10,
+          "mascot_explanation": "Now for the fun part! We get to put stickers on our body map to show where all the different joints are. We'll use red stickers for the hinge joints in our elbows and knees, blue for the ball-and-socket joints in our shoulders and hips, yellow for the pivot joint in our neck, and green for the gliding joints in our wrists."
         },
         {
           "type": "wrap_up",
           "text": "'You have 4 types of joints working together so you can move, dance, run, and play. Your body is an amazing machine!'",
-          "mastery_check": "Can the child name and demonstrate at least 3 types of joints and identify examples of each on their own body?"
+          "mastery_check": "Can the child name and demonstrate at least 3 types of joints and identify examples of each on their own body?",
+          "mascot_explanation": "Yay, we did it! You learned all about the amazing joints in your body that help you run, jump, dance, and play! You found hinge joints, ball-and-socket joints, pivot joints, and gliding joints and put them on the map – you're a super scientist!"
         }
       ]
     },
@@ -1388,7 +1536,8 @@
           "type": "title",
           "heading": "Articulated Skeleton Puppet",
           "subheading": "A Skeleton That Moves!",
-          "image_url": "https://images.pexels.com/photos/164743/pexels-photo-164743.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/164743/pexels-photo-164743.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look at this cool title! We're going to make a special puppet today, a skeleton that can move and dance! It's going to be so much fun to build our own moving friend."
         },
         {
           "type": "materials",
@@ -1400,37 +1549,44 @@
             "Black marker",
             "Optional craft stick"
           ],
-          "setup_instructions": "Pre-draw or pre-cut skeleton parts for younger children. Older children can cut their own. Have the hole punch and fasteners ready."
+          "setup_instructions": "Pre-draw or pre-cut skeleton parts for younger children. Older children can cut their own. Have the hole punch and fasteners ready.",
+          "mascot_explanation": "Wow, look at all the things we need to make our moving skeleton! We have white paper for the body parts, scissors to cut them out, and these little metal things called paper fasteners that help things move. We also have a marker to draw a face and maybe even a stick to hold our puppet. Can you help a grown-up find all these things?"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'We are going to make a skeleton puppet with REAL MOVING JOINTS! The paper fasteners will work like joints.'"
+          "text": "'We are going to make a skeleton puppet with REAL MOVING JOINTS! The paper fasteners will work like joints.'",
+          "mascot_explanation": "This is the first step for our super cool skeleton! We're going to make a puppet that can move its arms and legs all by itself, just like you! We'll use these special little fasteners to make its joints work."
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Cut out the body parts: skull, chest, upper arms, lower arms, upper legs, lower legs, hands, and feet.'"
+          "text": "'Cut out the body parts: skull, chest, upper arms, lower arms, upper legs, lower legs, hands, and feet.'",
+          "mascot_explanation": "Now it's time to make our skeleton's body! We need to cut out all the different parts, like the head, the body, arms, and legs. Be careful with the scissors, or ask a grown-up to help you cut them out."
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Now punch holes where the joints are: shoulders, elbows, hips, knees. Push a paper fastener through to connect the pieces.'"
+          "text": "'Now punch holes where the joints are: shoulders, elbows, hips, knees. Push a paper fastener through to connect the pieces.'",
+          "mascot_explanation": "We're putting our skeleton together now! We need to poke little holes where the arms and legs connect to the body, and then use the paper fasteners to connect them. This is how we make the parts move, like magic!"
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Move your puppet! The paper fastener at the elbow works like a HINGE joint — it bends one way. The shoulder fastener moves in more directions!'"
+          "text": "'Move your puppet! The paper fastener at the elbow works like a HINGE joint — it bends one way. The shoulder fastener moves in more directions!'",
+          "mascot_explanation": "See how our skeleton can move? The fasteners we put in are like its real joints, helping its arms and legs bend and move. Some joints bend just one way, like a door, and others can move all around!"
         },
         {
           "type": "activity",
           "prompt": "Complete your articulated skeleton puppet. Make all joints moveable. Test each joint: does it move like a hinge or a ball-and-socket? Make your skeleton dance!",
-          "duration_minutes": 20
+          "duration_minutes": 20,
+          "mascot_explanation": "Let's finish making our amazing skeleton puppet! We want to make sure all the joints can move, so try bending its arms and legs. Can you make your skeleton dance and wiggle all around? You did such a great job!"
         },
         {
           "type": "wrap_up",
           "text": "'Your skeleton puppet moves at the joints, just like you do! The fasteners act like real joints — connecting bones and allowing movement.'",
-          "mastery_check": "Does the puppet have at least 6 movable joints in anatomically correct locations, and can the child identify the joint types?"
+          "mastery_check": "Does the puppet have at least 6 movable joints in anatomically correct locations, and can the child identify the joint types?",
+          "mascot_explanation": "Yay! You made a skeleton puppet that can move its joints, just like you! Those little paper fasteners worked like real body joints to help your puppet bend and dance. You're a fantastic builder!"
         }
       ]
     },
@@ -1463,7 +1619,8 @@
           "type": "title",
           "heading": "Independent Cooking",
           "subheading": "A New Recipe Card",
-          "image_url": "https://images.pexels.com/photos/4262010/pexels-photo-4262010.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/4262010/pexels-photo-4262010.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look at this! Today we get to be super chefs and make a new yummy snack all by ourselves using a special recipe card. It's like a treasure map for making food!"
         },
         {
           "type": "materials",
@@ -1473,32 +1630,38 @@
             "Bowls, utensils",
             "Apron"
           ],
-          "setup_instructions": "Write or print the recipe card with numbered steps. Ensure all ingredients are accessible. The child should gather their own materials."
+          "setup_instructions": "Write or print the recipe card with numbered steps. Ensure all ingredients are accessible. The child should gather their own materials.",
+          "mascot_explanation": "Wow, look at all these important things we need for our cooking adventure! We have our new recipe card, all the yummy food bits, some bowls to mix things in, and even a fun apron to keep our clothes clean. Can you help mommy or daddy find all these things?"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Here is a brand new recipe! Before you start cooking, read the ENTIRE recipe card first. Know what you will be doing before you begin.'"
+          "text": "'Here is a brand new recipe! Before you start cooking, read the ENTIRE recipe card first. Know what you will be doing before you begin.'",
+          "mascot_explanation": "This first step is super important for our cooking fun! Before we touch anything, let's look at the whole recipe card together. Reading it all first helps us know exactly what yummy food we're going to make!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'What ingredients do you need? Find them and set them on the counter. What tools do you need? Get those ready too.'"
+          "text": "'What ingredients do you need? Find them and set them on the counter. What tools do you need? Get those ready too.'",
+          "mascot_explanation": "Now, let's be detectives and find all the ingredients and tools! Look at the recipe card and find all the food bits and the special tools we need to make our snack. Let's put them all on the counter so they're ready to go!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Now follow each step. Check off each one as you finish. If you are unsure, read the step again. You have got this!'"
+          "text": "'Now follow each step. Check off each one as you finish. If you are unsure, read the step again. You have got this!'",
+          "mascot_explanation": "Hooray, it's time to cook! We get to follow each step on the recipe card, just like a super chef. We can even put a little check mark next to each step when we finish it. You can do it!"
         },
         {
           "type": "activity",
           "prompt": "Read the recipe, gather ingredients and tools, follow each step, and serve the finished snack to your family. Clean up when done!",
-          "duration_minutes": 25
+          "duration_minutes": 25,
+          "mascot_explanation": "Let's get cooking! We're going to read our recipe, find all our ingredients and tools, and then follow each step to make a super yummy snack. When we're all done, we get to share our special treat with our family, and then we'll clean up our cooking space!"
         },
         {
           "type": "wrap_up",
           "text": "'You read a recipe and made a delicious snack all by yourself! Each time you cook independently, it gets easier. You are a capable, independent person.'",
-          "mastery_check": "Can the child read a new recipe, gather materials, follow steps independently, serve, and clean up with minimal assistance?"
+          "mastery_check": "Can the child read a new recipe, gather materials, follow steps independently, serve, and clean up with minimal assistance?",
+          "mascot_explanation": "You did it! You read the recipe, found everything, and made a delicious snack all by yourself! You are such a great cook, and you are getting better and better at making yummy treats all on your own. I'm so proud of you!"
         }
       ]
     },
@@ -1531,7 +1694,8 @@
           "type": "title",
           "heading": "Sentence Diagramming",
           "subheading": "Subject and Predicate",
-          "image_url": "https://images.pexels.com/photos/256468/pexels-photo-256468.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/256468/pexels-photo-256468.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Wow, look at the big words on this slide! It says \"Sentence Diagramming,\" and that means we're going to learn how to make pictures of our sentences. We'll learn about the \"subject\" and the \"predicate,\" which are like the most important parts of every sentence."
         },
         {
           "type": "materials",
@@ -1543,37 +1707,44 @@
             "Pencil",
             "Ruler"
           ],
-          "setup_instructions": "Write 5 simple sentences on strips. Prepare the whiteboard for demonstrating sentence diagrams."
+          "setup_instructions": "Write 5 simple sentences on strips. Prepare the whiteboard for demonstrating sentence diagrams.",
+          "mascot_explanation": "Oh, look at all these fun things we get to use for our sentence pictures! We have a big whiteboard or paper, some special markers that have two colors, and paper and pencils for writing. We also have these long strips of paper for writing our sentences on. Ask your grown-up to help you get all these ready so we can start our game!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Every sentence has two main parts. The SUBJECT tells WHO or WHAT the sentence is about. The PREDICATE tells WHAT THE SUBJECT DOES.'"
+          "text": "'Every sentence has two main parts. The SUBJECT tells WHO or WHAT the sentence is about. The PREDICATE tells WHAT THE SUBJECT DOES.'",
+          "mascot_explanation": "Every sentence is like a little story, and every story has two main parts! The \"subject\" tells us *who* or *what* the story is about, like if we're talking about a puppy or a toy car. The \"predicate\" tells us *what* that person or thing is doing, like \"the puppy barked\" or \"the toy car zoomed!\""
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'The dog ran. WHO ran? The dog — that is the subject! WHAT DID the dog do? Ran — that is the predicate!'"
+          "text": "'The dog ran. WHO ran? The dog — that is the subject! WHAT DID the dog do? Ran — that is the predicate!'",
+          "mascot_explanation": "Let's look at this sentence together: \"The dog ran.\" Can you guess who this sentence is about? Yes, it's about \"the dog\"! So, \"the dog\" is our subject. Now, what did the dog do? He \"ran\"! So, \"ran\" is the predicate."
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'We draw a line to separate them: The dog | ran. This is called a sentence diagram — a picture of how the sentence works!'"
+          "text": "'We draw a line to separate them: The dog | ran. This is called a sentence diagram — a picture of how the sentence works!'",
+          "mascot_explanation": "Now we get to make a picture of our sentence! We write the subject, then draw a straight line down, and then write the predicate. See? \"The dog | ran.\" This line is like a fence that keeps the subject and predicate separate, and it shows us how the sentence is built, like building with blocks!"
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'Try this one: Mom baked cookies. WHO? Mom = subject. What did Mom DO? Baked cookies = predicate. Mom | baked cookies.'"
+          "text": "'Try this one: Mom baked cookies. WHO? Mom = subject. What did Mom DO? Baked cookies = predicate. Mom | baked cookies.'",
+          "mascot_explanation": "Let's try another one! This sentence says, \"Mom baked cookies.\" Who is this sentence about? That's right, it's about \"Mom\"! So \"Mom\" is our subject. And what did Mom do? She \"baked cookies\"! So, \"baked cookies\" is the predicate. We would draw it like this: Mom | baked cookies."
         },
         {
           "type": "activity",
           "prompt": "Identify the subject and predicate in 5 sentences. Draw a diagram for each. Then write and diagram 3 of your own sentences!",
-          "duration_minutes": 15
+          "duration_minutes": 15,
+          "mascot_explanation": "Now it's your turn to be the sentence detective! We're going to look at some sentences and find the subject (who or what) and the predicate (what they do). Then, we'll draw our special lines to make our sentence diagrams. After that, you get to be super creative and write and draw three of your very own sentences!"
         },
         {
           "type": "wrap_up",
           "text": "'You can now see the STRUCTURE of a sentence! Every sentence has a subject and a predicate — that is the skeleton of language. See how language has bones too!'",
-          "mastery_check": "Can the child correctly identify the subject and predicate in at least 4 of 5 sentences and diagram them?"
+          "mastery_check": "Can the child correctly identify the subject and predicate in at least 4 of 5 sentences and diagram them?",
+          "mascot_explanation": "You did such a great job making pictures of our sentences! You found the subject and the predicate, and you drew the lines just right. You learned that every sentence has a special \"skeleton,\" just like you do, and now you can see how words fit together like magic!"
         }
       ]
     },
@@ -1607,7 +1778,8 @@
           "type": "title",
           "heading": "Four Operations Review",
           "subheading": "Math Celebration Day!",
-          "image_url": "https://images.pexels.com/photos/6037812/pexels-photo-6037812.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/6037812/pexels-photo-6037812.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Wow, look at this! It says \"Math Celebration Day!\" That means we get to play some super fun math games today because you are so good at numbers!"
         },
         {
           "type": "materials",
@@ -1619,37 +1791,44 @@
             "Self-assessment sheet",
             "Pencil"
           ],
-          "setup_instructions": "Set up 4 stations around the room, one for each operation. Each station should have materials and 3-5 problems to solve."
+          "setup_instructions": "Set up 4 stations around the room, one for each operation. Each station should have materials and 3-5 problems to solve.",
+          "mascot_explanation": "We need some special things for our math games today! We have cards with numbers, a board with strips, shiny bead bars, and another board for sharing. We also need a paper and a pencil to write down how smart you are feeling! Ask your grown-up to help you find them all!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Welcome to Math Celebration Day! You have learned addition, subtraction, multiplication, AND division. Today we celebrate by visiting all four!'"
+          "text": "'Welcome to Math Celebration Day! You have learned addition, subtraction, multiplication, AND division. Today we celebrate by visiting all four!'",
+          "mascot_explanation": "Yay, welcome to our Math Celebration Day! Remember all those amazing things you learned about adding, taking away, making groups, and sharing? Well, today we get to play with all of them! We'll visit four special spots to practice."
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Station 1: Addition! Answer flash cards as fast as you can. Station 2: Subtraction! Solve 5 problems on the strip board.'"
+          "text": "'Station 1: Addition! Answer flash cards as fast as you can. Station 2: Subtraction! Solve 5 problems on the strip board.'",
+          "mascot_explanation": "First, we're going to Station 1 to play with addition cards super fast! Then, we'll go to Station 2 and do some taking away problems on that strip board. You're going to do great!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'Station 3: Multiplication! Build 3 facts with bead bars. Station 4: Division! Share beads equally for 3 problems.'"
+          "text": "'Station 3: Multiplication! Build 3 facts with bead bars. Station 4: Division! Share beads equally for 3 problems.'",
+          "mascot_explanation": "Next up is Station 3, where we'll use the colorful bead bars to make groups for multiplication. After that, at Station 4, we'll use beads to share things equally with division. So many fun things to do!"
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'After all four stations, fill out your self-assessment: How confident do you feel with each operation? Star, check, or circle!'"
+          "text": "'After all four stations, fill out your self-assessment: How confident do you feel with each operation? Star, check, or circle!'",
+          "mascot_explanation": "When we finish all four stations, we get to do a special paper. It's like telling us how much you loved each math game! We'll use stars or circles to show how super-duper confident you feel about each one."
         },
         {
           "type": "activity",
           "prompt": "Visit all 4 math stations. Complete the work at each one. Then fill out your self-assessment. Which operation is your strength? Which needs more practice?",
-          "duration_minutes": 22
+          "duration_minutes": 22,
+          "mascot_explanation": "Now it's time to be a math explorer and visit all the stations! Do your very best at each one, and then we'll fill out that special paper together. We'll see which math game was your super-duper favorite!"
         },
         {
           "type": "wrap_up",
           "text": "'You have traveled through all four operations! From counting to adding, subtracting, multiplying, and dividing — look how far you have come. You are a mathematician!'",
-          "mastery_check": "Can the child demonstrate proficiency in all four operations using appropriate materials and honestly self-assess their confidence level?"
+          "mastery_check": "Can the child demonstrate proficiency in all four operations using appropriate materials and honestly self-assess their confidence level?",
+          "mascot_explanation": "You did it! You visited all four math stations and learned so much! From adding to dividing, you are a super math star. Look at how much you know now – you are a real mathematician!"
         }
       ]
     },
@@ -1680,7 +1859,8 @@
           "type": "title",
           "heading": "Sign Language",
           "subheading": "Communication with Our Bodies",
-          "image_url": "https://images.pexels.com/photos/2034335/pexels-photo-2034335.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/2034335/pexels-photo-2034335.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look at this fun title! It says \"Sign Language\" and \"Communication with Our Bodies.\" That means we're going to learn a super cool way to talk using our hands and our bodies, not just our voices!"
         },
         {
           "type": "materials",
@@ -1690,37 +1870,44 @@
             "Mirror",
             "Optional video"
           ],
-          "setup_instructions": "Print or display ASL signs for common words. Have the alphabet chart visible. Set up a mirror so the child can watch themselves sign."
+          "setup_instructions": "Print or display ASL signs for common words. Have the alphabet chart visible. Set up a mirror so the child can watch themselves sign.",
+          "mascot_explanation": "Wow, look at all these things we need for our signing adventure! We have some charts with pictures of signs, a poster with letters made by hands, and a mirror so we can see ourselves practice. These will help us learn and remember all the new signs we're going to make!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Your body can communicate without your voice! Sign language uses hands, facial expressions, and body movement to share words and ideas.'"
+          "text": "'Your body can communicate without your voice! Sign language uses hands, facial expressions, and body movement to share words and ideas.'",
+          "mascot_explanation": "Isn't it amazing? Your body can talk! Even without making a sound, your hands and face can tell stories and share your feelings. We're going to learn how to use our bodies to say words!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "'Let's learn some signs. HELLO: wave your hand. THANK YOU: touch your chin and move your hand outward. PLEASE: rub your chest in a circle.'"
+          "text": "'Let's learn some signs. HELLO: wave your hand. THANK YOU: touch your chin and move your hand outward. PLEASE: rub your chest in a circle.'",
+          "mascot_explanation": "Let's try some first signs together! For \"hello,\" we wave our hand like this! For \"thank you,\" we touch our chin and then move our hand out. And for \"please,\" we rub our tummy in a circle!"
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "'FRIEND: hook your index fingers together. I LOVE YOU: hold up your hand with thumb, index finger, and pinky extended.'"
+          "text": "'FRIEND: hook your index fingers together. I LOVE YOU: hold up your hand with thumb, index finger, and pinky extended.'",
+          "mascot_explanation": "We're learning even more signs! For \"friend,\" we hook our pointer fingers together like this! And for \"I love you,\" we make a special hand shape with our thumb, pointer finger, and pinky sticking out!"
         },
         {
           "type": "instruction",
           "step": 4,
-          "text": "'People who are Deaf use sign language as their main language. It is beautiful and expressive — just like spoken language!'"
+          "text": "'People who are Deaf use sign language as their main language. It is beautiful and expressive — just like spoken language!'",
+          "mascot_explanation": "Did you know that some people can't hear very well, or can't hear at all? They use sign language to talk to each other, and it's a beautiful way to share ideas and feelings. It's a real language, just like when we talk with our voices!"
         },
         {
           "type": "activity",
           "prompt": "Practice all 7 signs. Learn to finger-spell your first name using the ASL alphabet. Teach at least 3 signs to a family member.",
-          "duration_minutes": 10
+          "duration_minutes": 10,
+          "mascot_explanation": "Now it's time to be a super signer! Let's practice all the signs we learned, and then we can try spelling your name with your fingers, like a secret code! After that, can you show a grown-up at home at least three of the signs?"
         },
         {
           "type": "wrap_up",
           "text": "'You learned a new way to communicate using your amazing body! Sign language shows that language is not just about sound — it is about connection.'",
-          "mastery_check": "Can the child demonstrate at least 5 ASL signs correctly and finger-spell their first name?"
+          "mastery_check": "Can the child demonstrate at least 5 ASL signs correctly and finger-spell their first name?",
+          "mascot_explanation": "You did such a great job learning sign language today! You learned that your amazing body can talk without making a sound, and you can connect with others using your hands. You are such a wonderful communicator!"
         }
       ]
     },
@@ -1750,7 +1937,8 @@
           "type": "title",
           "heading": "Read-Aloud",
           "subheading": "Dem Bones by Bob Barner",
-          "image_url": "https://images.pexels.com/photos/3890481/pexels-photo-3890481.jpeg?auto=compress&cs=tinysrgb&w=800"
+          "image_url": "https://images.pexels.com/photos/3890481/pexels-photo-3890481.jpeg?auto=compress&cs=tinysrgb&w=800",
+          "mascot_explanation": "Look! This is the cover of our fun book for today. It's called \"Dem Bones,\" and it's all about our amazing bodies!"
         },
         {
           "type": "materials",
@@ -1758,32 +1946,38 @@
             "Dem Bones or similar book",
             "Body map for reference"
           ],
-          "setup_instructions": "This book is best read standing up so the child can touch each bone as it is named. Have the body map nearby for reference."
+          "setup_instructions": "This book is best read standing up so the child can touch each bone as it is named. Have the body map nearby for reference.",
+          "mascot_explanation": "We need our special \"Dem Bones\" book and a picture of a body to help us. The book is best when we stand up, so we can point to our bones as we sing!"
         },
         {
           "type": "instruction",
           "step": 1,
-          "text": "'Stand up for this read-aloud! We are going to SING about our bones. Touch each bone as we name it!'"
+          "text": "'Stand up for this read-aloud! We are going to SING about our bones. Touch each bone as we name it!'",
+          "mascot_explanation": "Let's all stand up super tall! We're going to sing a song about our bones and touch each one as we sing its name. It's going to be so much fun!"
         },
         {
           "type": "instruction",
           "step": 2,
-          "text": "Read/sing: 'The toe bone connected to the foot bone!' Touch toes, then foot. 'The foot bone connected to the ankle bone!' Touch ankle."
+          "text": "Read/sing: 'The toe bone connected to the foot bone!' Touch toes, then foot. 'The foot bone connected to the ankle bone!' Touch ankle.",
+          "mascot_explanation": "Listen to this part of the song: \"The toe bone connected to the foot bone!\" So, we'll touch our toes, then our feet, and then our ankles."
         },
         {
           "type": "instruction",
           "step": 3,
-          "text": "Continue through the whole skeleton: ankle to leg, leg to knee, knee to thigh, thigh to hip, hip to backbone, backbone to shoulder, shoulder to neck, neck to head."
+          "text": "Continue through the whole skeleton: ankle to leg, leg to knee, knee to thigh, thigh to hip, hip to backbone, backbone to shoulder, shoulder to neck, neck to head.",
+          "mascot_explanation": "We'll keep singing and touching all the way up our bodies, from our ankles to our legs, then our knees, our hips, our back, our shoulders, our neck, and all the way to our head!"
         },
         {
           "type": "activity",
           "prompt": "Sing the song on your own! Touch each bone as you name it. Can you do it without looking at the book? Teach the song to someone in your family!",
-          "duration_minutes": 5
+          "duration_minutes": 5,
+          "mascot_explanation": "Now it's your turn to be the singer! Let's try singing the song and touching your bones all by yourself. Can you remember all the parts? Maybe you can even teach it to someone else!"
         },
         {
           "type": "wrap_up",
           "text": "'Every bone in your body is connected to another bone. Your skeleton is one amazing, connected system. You learned so much about your body this week!'",
-          "mastery_check": "Can the child sing or recite the bone connections in order and explain that the skeleton is a connected system?"
+          "mastery_check": "Can the child sing or recite the bone connections in order and explain that the skeleton is a connected system?",
+          "mascot_explanation": "Wow, you did it! You learned that all your bones are connected, like a super team that helps you move. Your skeleton is so cool and strong, and you know all about it now!"
         }
       ]
     },

@@ -14,6 +14,9 @@ interface LessonWithSubject extends Lesson {
     display_name: string
     color: string | null
   }
+  curriculum_levels: {
+    name: string
+  } | null
 }
 
 export default function LessonDetailPage() {
@@ -40,12 +43,20 @@ export default function LessonDetailPage() {
             name,
             display_name,
             color
+          ),
+          curriculum_levels!level_id (
+            name
           )
         `)
         .eq('id', lessonId)
         .single()
 
-      const lessonData = data as LessonWithSubject | null
+      // Supabase FK joins may return arrays; normalize to single object
+      const raw = data as unknown as (LessonWithSubject & { curriculum_levels: { name: string } | { name: string }[] | null }) | null
+      if (raw && Array.isArray(raw.curriculum_levels)) {
+        raw.curriculum_levels = raw.curriculum_levels[0] ?? null
+      }
+      const lessonData = raw as LessonWithSubject | null
       setLesson(lessonData)
 
       // Fetch matching materials inventory items
@@ -144,6 +155,7 @@ export default function LessonDetailPage() {
             audioUrl={lesson.audio_url || undefined}
             lessonTitle={lesson.title}
             subjectName={lesson.subjects?.name}
+            gradeBand={lesson.curriculum_levels?.name}
             parentNotes={lesson.parent_notes}
             materialsNeeded={lesson.materials_needed as string[]}
             materialsInventory={materialsInventory}
