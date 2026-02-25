@@ -1,18 +1,37 @@
 'use client';
 
 import type { TitleSlide as TitleSlideType } from '@/lib/types/database';
+import type { LightboxImage } from '../slide-player';
 
 interface TitleSlideProps {
   slide: TitleSlideType;
   subjectDisplayName?: string;
+  onImageClick?: (img: LightboxImage) => void;
 }
 
-export default function TitleSlide({ slide, subjectDisplayName }: TitleSlideProps) {
+export default function TitleSlide({ slide, subjectDisplayName, onImageClick }: TitleSlideProps) {
   return (
     <div className="relative overflow-hidden">
       {slide.image_url ? (
         /* Hero image with gradient overlay */
-        <div className="relative min-h-[380px]">
+        <div
+          className="relative min-h-[380px] cursor-pointer"
+          onClick={() =>
+            onImageClick?.({
+              src: slide.image_url!,
+              alt: slide.title,
+            })
+          }
+          role="button"
+          tabIndex={0}
+          aria-label={`Enlarge image: ${slide.title}`}
+          onKeyDown={(e) => {
+            if (e.key === 'Enter' || e.key === ' ') {
+              e.preventDefault();
+              onImageClick?.({ src: slide.image_url!, alt: slide.title });
+            }
+          }}
+        >
           <img
             src={slide.image_url}
             alt={slide.title}
@@ -20,6 +39,13 @@ export default function TitleSlide({ slide, subjectDisplayName }: TitleSlideProp
           />
           {/* Gradient overlay */}
           <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/30 to-black/10" />
+
+          {/* Expand hint */}
+          <div className="absolute right-4 top-4 flex h-8 w-8 items-center justify-center rounded-full bg-black/30 text-white opacity-0 transition-opacity group-hover:opacity-100 hover:opacity-100 [div:hover>&]:opacity-100">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-4 w-4">
+              <path d="M13.28 7.78l3.22-3.22v2.69a.75.75 0 001.5 0v-4.5a.75.75 0 00-.75-.75h-4.5a.75.75 0 000 1.5h2.69l-3.22 3.22a.75.75 0 001.06 1.06zM2 17.25v-4.5a.75.75 0 011.5 0v2.69l3.22-3.22a.75.75 0 011.06 1.06L4.56 16.5h2.69a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75zM12.22 13.28l3.22 3.22h-2.69a.75.75 0 000 1.5h4.5a.75.75 0 00.75-.75v-4.5a.75.75 0 00-1.5 0v2.69l-3.22-3.22a.75.75 0 00-1.06 1.06zM3.5 4.56l3.22 3.22a.75.75 0 001.06-1.06L4.56 3.5h2.69a.75.75 0 000-1.5h-4.5a.75.75 0 00-.75.75v4.5a.75.75 0 001.5 0V4.56z" />
+            </svg>
+          </div>
 
           {/* Subject badge */}
           {subjectDisplayName && (

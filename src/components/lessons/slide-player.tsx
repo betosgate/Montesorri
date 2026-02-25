@@ -12,7 +12,19 @@ import CheckUnderstandingSlide from './slides/check-understanding-slide';
 import WrapUpSlide from './slides/wrap-up-slide';
 import ParentGuide from './parent-guide';
 import MascotGuide from './mascot-guide';
+import ImageLightbox from './image-lightbox';
 import { getMascot } from '@/lib/mascot/config';
+
+// ---------------------------------------------------------------------------
+// Lightbox state type
+// ---------------------------------------------------------------------------
+
+export interface LightboxImage {
+  src: string;
+  alt: string;
+  productCode?: string;
+  productName?: string;
+}
 
 // ---------------------------------------------------------------------------
 // Exported types for parent-guide and lesson page
@@ -162,6 +174,11 @@ export default function SlidePlayer({
     () => getSubjectDisplayName(subjectName),
     [subjectName]
   );
+
+  // ---- Lightbox state -----------------------------------------------------
+  const [lightboxImage, setLightboxImage] = useState<LightboxImage | null>(null);
+  const openLightbox = useCallback((img: LightboxImage) => setLightboxImage(img), []);
+  const closeLightbox = useCallback(() => setLightboxImage(null), []);
 
   // ---- Navigation state ---------------------------------------------------
   const [currentSlideIndex, setCurrentSlideIndex] = useState(0);
@@ -318,6 +335,7 @@ export default function SlidePlayer({
           <TitleSlide
             slide={currentSlide}
             subjectDisplayName={subjectDisplayName}
+            onImageClick={openLightbox}
           />
         );
 
@@ -328,6 +346,7 @@ export default function SlidePlayer({
             checkedItems={materialsChecked}
             onToggleItem={toggleMaterial}
             materialsInventory={materialsInventory}
+            onImageClick={openLightbox}
           />
         );
 
@@ -336,6 +355,7 @@ export default function SlidePlayer({
           <InstructionSlide
             slide={currentSlide}
             stepNumber={getInstructionStepNumber(slides, currentSlideIndex)}
+            onImageClick={openLightbox}
           />
         );
 
@@ -345,6 +365,7 @@ export default function SlidePlayer({
             slide={currentSlide}
             timerSeconds={activityTimerSeconds}
             onTimerChange={handleTimerChange}
+            onImageClick={openLightbox}
           />
         );
 
@@ -492,6 +513,9 @@ export default function SlidePlayer({
         materialsInventory={materialsInventory}
         isOpen={showParentGuide}
         onClose={() => setShowParentGuide(false)}
+        lessonTitle={lessonTitle}
+        subjectName={subjectDisplayName}
+        slides={slides}
       />
 
       {/* ---- Slide content ----------------------------------------------- */}
@@ -518,6 +542,17 @@ export default function SlidePlayer({
           />
         )}
       </div>
+
+      {/* ---- Lightbox overlay --------------------------------------------- */}
+      {lightboxImage && (
+        <ImageLightbox
+          src={lightboxImage.src}
+          alt={lightboxImage.alt}
+          productCode={lightboxImage.productCode}
+          productName={lightboxImage.productName}
+          onClose={closeLightbox}
+        />
+      )}
 
       {/* ---- Bottom navigation bar --------------------------------------- */}
       <div

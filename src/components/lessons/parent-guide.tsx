@@ -1,5 +1,7 @@
 'use client';
 
+import { useCallback } from 'react';
+import type { Slide } from '@/lib/types/database';
 import type { MaterialInventoryItem } from './slide-player';
 
 interface ParentGuideProps {
@@ -7,6 +9,58 @@ interface ParentGuideProps {
   materialsInventory?: MaterialInventoryItem[];
   isOpen: boolean;
   onClose: () => void;
+  lessonTitle?: string;
+  subjectName?: string;
+  slides?: Slide[];
+}
+
+/** Extract all text from slides into a readable lesson summary */
+function buildLessonText(slides: Slide[], lessonTitle: string, subjectName?: string, parentNotes?: string | null): string {
+  const parts: string[] = [];
+
+  parts.push(`LESSON: ${lessonTitle}`);
+  if (subjectName) parts.push(`SUBJECT: ${subjectName}`);
+  if (parentNotes) parts.push(`\nPARENT NOTES:\n${parentNotes}`);
+
+  for (const slide of slides) {
+    switch (slide.type) {
+      case 'title':
+        parts.push(`\n--- ${slide.title} ---`);
+        if (slide.subtitle) parts.push(slide.subtitle);
+        break;
+      case 'materials':
+        parts.push(`\nMATERIALS NEEDED:`);
+        for (const m of slide.materials) parts.push(`- ${m}`);
+        break;
+      case 'instruction':
+        parts.push(`\nINSTRUCTION: ${slide.title}`);
+        parts.push(slide.content);
+        if (slide.demonstration_notes) parts.push(`(Demo note: ${slide.demonstration_notes})`);
+        break;
+      case 'activity':
+        parts.push(`\nACTIVITY: ${slide.title}`);
+        parts.push(slide.instructions);
+        if (slide.duration_minutes) parts.push(`(Duration: ${slide.duration_minutes} minutes)`);
+        break;
+      case 'check_understanding':
+        parts.push(`\nCHECK UNDERSTANDING:`);
+        for (let i = 0; i < slide.questions.length; i++) {
+          parts.push(`Q: ${slide.questions[i]}`);
+          if (slide.expected_responses[i]) parts.push(`Expected: ${slide.expected_responses[i]}`);
+        }
+        break;
+      case 'wrap_up':
+        parts.push(`\nWRAP UP: ${slide.summary}`);
+        if (slide.next_steps) parts.push(`Next steps: ${slide.next_steps}`);
+        if (slide.extension_activities.length > 0) {
+          parts.push('Extension activities:');
+          for (const ea of slide.extension_activities) parts.push(`- ${ea}`);
+        }
+        break;
+    }
+  }
+
+  return parts.join('\n');
 }
 
 export default function ParentGuide({
@@ -14,7 +68,67 @@ export default function ParentGuide({
   materialsInventory,
   isOpen,
   onClose,
+  lessonTitle,
+  subjectName,
+  slides,
 }: ParentGuideProps) {
+  const handleAskClaude = useCallback(() => {
+    if (!slides || !lessonTitle) return;
+
+    const lessonText = buildLessonText(slides, lessonTitle, subjectName, parentNotes);
+
+    const prompt = `I'm a homeschool parent using a Montessori curriculum. I'm about to teach the lesson below to my child and I need your help to make sure I understand it well enough to guide them effectively. I am NOT a trained Montessori teacher, so please assume I need everything explained clearly.
+
+Here is the full lesson content:
+
+${lessonText}
+
+Please create a comprehensive Parent Teaching Guide with these sections:
+
+## 1. THE BIG PICTURE (Why This Lesson Matters)
+- What specific skill or concept is this lesson building?
+- How does this connect to what the child already knows and what comes next in the Montessori sequence?
+- What is the deeper Montessori purpose behind this activity (e.g., developing concentration, order, independence, fine motor control)?
+
+## 2. BEFORE YOU START (Preparation Checklist)
+- Exactly how to set up the workspace and materials before calling the child over
+- What to practice or rehearse yourself first so the demonstration looks smooth
+- The ideal environment (quiet? music? clear table?) and any setup tips
+
+## 3. WORD-FOR-WORD TEACHING SCRIPT
+- For each instruction step, give me the exact words I should say to the child — written as natural, warm dialogue
+- Include the precise hand movements and gestures I should use during demonstration
+- Mark where I should PAUSE and let the child observe vs where I should invite them to try
+- In Montessori, the teacher speaks less and shows more — remind me where to stay quiet and just demonstrate
+
+## 4. ANSWER KEY & EXPECTED OUTCOMES
+- For every question in the lesson, give me the correct answer and how the child might phrase it at their level
+- What does a successful completion of each activity look like? Be specific (e.g., "they can pour without spilling more than a few drops" not just "they can pour")
+- What does partial understanding look like vs full mastery?
+
+## 5. WHEN THINGS GO SIDEWAYS (Troubleshooting)
+- The 3-4 most common mistakes or struggles children have with THIS specific lesson
+- For each one: what it looks like, why it happens, and exactly what to say or do (Montessori approach — no correcting, guide them to self-discover)
+- What to do if the child gets frustrated, loses interest, or says "I can't do it"
+- What to do if the child races through without care or attention
+
+## 6. READINESS SIGNALS
+- Clear signs the child has mastered this and is ready to move on
+- Signs they need this lesson repeated (and how to re-present it so it feels fresh, not like failure)
+- How many times is normal to repeat before expecting mastery?
+
+## 7. MAKE IT MAGICAL (Extension Ideas)
+- 2-3 ways to make this lesson more engaging or connect it to real life
+- A simple follow-up activity for later in the day that reinforces the same concept
+- How to casually reference this lesson's concept during everyday moments (cooking, walks, play)
+
+Please write this in a warm, encouraging tone — like a experienced Montessori mentor coaching a new homeschool parent. Use bullet points and clear headers so I can reference it quickly while teaching.`;
+
+    // Open Claude.ai with the prompt pre-filled
+    const url = `https://claude.ai/new?q=${encodeURIComponent(prompt)}`;
+    window.open(url, '_blank', 'noopener,noreferrer');
+  }, [slides, lessonTitle, subjectName, parentNotes]);
+
   if (!isOpen) return null;
 
   const diyItems = materialsInventory?.filter((m) => m.diy_alternative) ?? [];
@@ -107,6 +221,22 @@ export default function ParentGuide({
             </div>
           )}
         </div>
+
+        {/* Ask Claude for Help button */}
+        {slides && slides.length > 0 && (
+          <div className="mt-4 flex justify-center">
+            <button
+              type="button"
+              onClick={handleAskClaude}
+              className="inline-flex items-center gap-2 rounded-lg border-2 border-[#D97706] bg-gradient-to-r from-amber-50 to-orange-50 px-5 py-2.5 text-sm font-bold text-amber-900 shadow-sm transition-all hover:from-amber-100 hover:to-orange-100 hover:shadow-md"
+            >
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-5 w-5 text-amber-700">
+                <path fillRule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a.75.75 0 000 1.5h.253a.25.25 0 01.244.304l-.459 2.066A1.75 1.75 0 0010.747 15H11a.75.75 0 000-1.5h-.253a.25.25 0 01-.244-.304l.459-2.066A1.75 1.75 0 009.253 9H9z" clipRule="evenodd" />
+              </svg>
+              Need extra help? Ask Claude AI
+            </button>
+          </div>
+        )}
       </div>
     </div>
   );

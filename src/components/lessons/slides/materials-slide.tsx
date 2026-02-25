@@ -3,13 +3,14 @@
 import { useState } from 'react';
 import clsx from 'clsx';
 import type { MaterialsSlide as MaterialsSlideType } from '@/lib/types/database';
-import type { MaterialInventoryItem } from '../slide-player';
+import type { MaterialInventoryItem, LightboxImage } from '../slide-player';
 
 interface MaterialsSlideProps {
   slide: MaterialsSlideType;
   checkedItems: Set<string>;
   onToggleItem: (item: string) => void;
   materialsInventory?: MaterialInventoryItem[];
+  onImageClick?: (img: LightboxImage) => void;
 }
 
 /** Fuzzy match: check if material name roughly matches an inventory item */
@@ -19,11 +20,38 @@ function findInventoryMatch(
 ): MaterialInventoryItem | undefined {
   if (!inventory) return undefined;
   const lower = materialName.toLowerCase();
-  return inventory.find(
+
+  // Exact match first
+  const exact = inventory.find(
+    (inv) => inv.name.toLowerCase() === lower
+  );
+  if (exact) return exact;
+
+  // Substring match (either direction)
+  const substring = inventory.find(
     (inv) =>
       inv.name.toLowerCase().includes(lower) ||
       lower.includes(inv.name.toLowerCase())
   );
+  if (substring) return substring;
+
+  // Word overlap match — if ≥2 significant words match
+  const materialWords = lower.split(/\s+/).filter((w) => w.length > 2);
+  let bestMatch: MaterialInventoryItem | undefined;
+  let bestScore = 0;
+
+  for (const inv of inventory) {
+    const invWords = inv.name.toLowerCase().split(/\s+/).filter((w) => w.length > 2);
+    const overlap = materialWords.filter((w) =>
+      invWords.some((iw) => iw.includes(w) || w.includes(iw))
+    ).length;
+    if (overlap >= 2 && overlap > bestScore) {
+      bestScore = overlap;
+      bestMatch = inv;
+    }
+  }
+
+  return bestMatch;
 }
 
 export default function MaterialsSlide({
@@ -31,6 +59,7 @@ export default function MaterialsSlide({
   checkedItems,
   onToggleItem,
   materialsInventory,
+  onImageClick,
 }: MaterialsSlideProps) {
   const allChecked =
     slide.materials.length > 0 &&
@@ -103,9 +132,37 @@ export default function MaterialsSlide({
                 )}
               </div>
 
-              {/* Inventory image thumbnail */}
+              {/* Inventory image thumbnail — clickable for lightbox */}
               {inventoryMatch?.image_url && (
-                <div className="h-12 w-12 shrink-0 overflow-hidden rounded-lg border" style={{ borderColor: 'var(--slide-border)' }}>
+                <div
+                  className="h-16 w-16 shrink-0 cursor-pointer overflow-hidden rounded-lg border transition-transform hover:scale-105"
+                  style={{ borderColor: 'var(--slide-border)' }}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    onImageClick?.({
+                      src: inventoryMatch.image_url!,
+                      alt: inventoryMatch.name,
+                      productCode: inventoryMatch.code,
+                      productName: inventoryMatch.name,
+                    });
+                  }}
+                  role="button"
+                  tabIndex={0}
+                  aria-label={`Enlarge image: ${inventoryMatch.name}`}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter' || e.key === ' ') {
+                      e.preventDefault();
+                      e.stopPropagation();
+                      onImageClick?.({
+                        src: inventoryMatch.image_url!,
+                        alt: inventoryMatch.name,
+                        productCode: inventoryMatch.code,
+                        productName: inventoryMatch.name,
+                      });
+                    }
+                  }}
+                >
                   <img
                     src={inventoryMatch.image_url}
                     alt={inventoryMatch.name}
@@ -124,6 +181,18 @@ export default function MaterialsSlide({
                 >
                   {item}
                 </span>
+                {/* Product code badge */}
+                {inventoryMatch?.code && (
+                  <span
+                    className="ml-2 inline-block rounded px-1.5 py-0.5 text-[10px] font-bold tracking-wider"
+                    style={{
+                      backgroundColor: 'var(--slide-bg-muted)',
+                      color: 'var(--slide-text-light)',
+                    }}
+                  >
+                    {inventoryMatch.code}
+                  </span>
+                )}
               </div>
 
               {/* DIY badge */}

@@ -3,17 +3,20 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
 import clsx from 'clsx';
 import type { ActivitySlide as ActivitySlideType } from '@/lib/types/database';
+import type { LightboxImage } from '../slide-player';
 
 interface ActivitySlideProps {
   slide: ActivitySlideType;
   timerSeconds: number;
   onTimerChange: (seconds: number) => void;
+  onImageClick?: (img: LightboxImage) => void;
 }
 
 export default function ActivitySlide({
   slide,
   timerSeconds,
   onTimerChange,
+  onImageClick,
 }: ActivitySlideProps) {
   const [isRunning, setIsRunning] = useState(false);
   const intervalRef = useRef<ReturnType<typeof setInterval> | null>(null);
@@ -87,7 +90,25 @@ export default function ActivitySlide({
       </p>
 
       {slide.image_url && (
-        <div className="mb-8 overflow-hidden rounded-xl border" style={{ borderColor: 'var(--slide-border)' }}>
+        <div
+          className="mb-8 cursor-pointer overflow-hidden rounded-xl border transition-transform hover:scale-[1.01]"
+          style={{ borderColor: 'var(--slide-border)' }}
+          onClick={() =>
+            onImageClick?.({
+              src: slide.image_url!,
+              alt: slide.title,
+            })
+          }
+          role="button"
+          tabIndex={0}
+          aria-label={`Enlarge image: ${slide.title}`}
+          onKeyDown={(e) => {
+            if (e.key === 'Enter' || e.key === ' ') {
+              e.preventDefault();
+              onImageClick?.({ src: slide.image_url!, alt: slide.title });
+            }
+          }}
+        >
           <img
             src={slide.image_url}
             alt={slide.title}
