@@ -89,7 +89,23 @@
     },
     "parent_notes": "Reading a recipe is a real-world literacy activity that combines reading, math (measurements), and sequencing. In Montessori, practical life activities should be purposeful — the child reads the recipe because they WILL cook from it later. Choose a recipe appropriate for your child's skill level: banana muffins, pancakes, or simple cookies all work well. Print it in large text so the child can read it independently. The ingredient hunt in the kitchen is engaging and teaches where things are stored. This lesson introduces functional reading — reading for a purpose beyond the story.",
     "age_adaptations": null,
-    "sort_order": 1
+    "sort_order": 1,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Child-safe knife or butter knife",
+      "Cutting board",
+      "Ingredients as listed in the lesson",
+      "Apron",
+      "Mixing bowls and utensils",
+      "Hand washing supplies"
+    ],
+    "preparation_steps": "Wash hands first. Set out all ingredients and tools before calling the child. Pre-wash produce.",
+    "control_of_error": "The finished food item shows the result. Taste-testing is the best self-check!",
+    "extension_ideas": [
+      "Let the child serve the food to family",
+      "Draw or write about what you made",
+      "Try a variation with different ingredients"
+    ]
   },
   {
     "level_name": "primary",
@@ -179,7 +195,11 @@
     },
     "parent_notes": "Consonant blends are different from digraphs (sh, ch, th) which the child already knows. In a digraph, two letters make one NEW sound. In a blend, both letters keep their own sounds but are said quickly together. This distinction is important. Children who have mastered CVC words and silent e patterns are ready for blends because they already understand how to segment sounds. If the child struggles, slow the blend down dramatically: 'b...l...ack' and gradually speed up until the sounds merge. Practice with real-world words the child knows makes the learning meaningful.",
     "age_adaptations": null,
-    "sort_order": 2
+    "sort_order": 2,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-02-letter-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -270,7 +290,11 @@
     },
     "parent_notes": "The chain of 4 is significantly longer than the chains of 2 and 3, which makes it more challenging but also more impressive when completed. The child may not memorize the entire sequence immediately, and that's fine — the goal is familiarity and understanding the pattern. Point out the square (16 = 4 x 4) as a landmark. Some children notice patterns: 4, 8, 12, 16 — the ones digit alternates between 4, 8, 2, 6, 0. Don't force this observation, but celebrate it if the child notices. The physical chain makes abstract skip counting concrete and beautiful. Let the child admire the completed chain with all arrows — it's a mathematical work of art.",
     "age_adaptations": null,
-    "sort_order": 3
+    "sort_order": 3,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-03-bead-bars.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -362,7 +386,11 @@
     },
     "parent_notes": "The Montessori puzzle maps give children a physical, tactile experience of geography. Each country is a separate puzzle piece, so the child literally handles the shape of each nation. Africa is particularly important to teach with respect and richness — avoid reducing the continent to stereotypes. Emphasize Africa's incredible diversity: 54 countries, over 2,000 languages, every type of landscape from desert to rainforest, ancient civilizations (Egypt, Ethiopia), and vibrant modern cities. Use the globe to show Africa's location relative to where you live. Over time, the child will memorize country locations through repeated puzzle work.",
     "age_adaptations": null,
-    "sort_order": 4
+    "sort_order": 4,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-04-puzzle-map.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -444,7 +472,19 @@
     },
     "parent_notes": "Ann Morris's photo-essay books are wonderful for Montessori cultural studies because they show real people from real places — not illustrations or stereotypes. 'Bread, Bread, Bread' demonstrates that a universal human need (food) is met in beautifully diverse ways across cultures. This builds respect and curiosity about other people. The map in the back of the book is valuable — help the child locate each country. You might extend this by trying different breads: buy naan, pita, or tortillas from the store, or bake simple bread together. The connection to this week's cooking project is natural and motivating.",
     "age_adaptations": null,
-    "sort_order": 5
+    "sort_order": 5,
+    "conversion_type": "NONE",
+    "household_substitutes": [
+      "The book mentioned in the lesson",
+      "Comfortable reading area"
+    ],
+    "preparation_steps": "Choose a cozy spot. Preview the book before reading it aloud.",
+    "control_of_error": "Discussion-based — ask open-ended questions about the story.",
+    "extension_ideas": [
+      "Draw a favorite scene",
+      "Retell the story in your own words",
+      "Act out a scene together"
+    ]
   },
   {
     "level_name": "primary",
@@ -532,7 +572,19 @@
     },
     "parent_notes": "The binomial cube is one of Montessori's most ingenious materials. It physically represents the algebraic formula (a+b)^3 = a^3 + 3a^2b + 3ab^2 + b^3, but the child doesn't need to know this! At the primary level, it's a sensorial puzzle that develops visual discrimination, spatial reasoning, and fine motor skills. The child matches blocks by color and size, building a perfect cube. The indirect preparation for algebra is profound: years later, when they encounter the binomial formula, they'll have a concrete memory to anchor the abstraction. Don't explain the algebra — just let the child enjoy the puzzle. Repeated building develops mastery and confidence.",
     "age_adaptations": null,
-    "sort_order": 6
+    "sort_order": 6,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Montessori binomial cube",
+      "Work mat"
+    ],
+    "preparation_steps": "Review the lesson steps. Gather all materials before calling your child to the work area.",
+    "control_of_error": "Observe the child — can they complete the activity independently?",
+    "extension_ideas": [
+      "Repeat the lesson another day",
+      "Let the child show a family member what they learned",
+      "Connect this activity to daily life"
+    ]
   },
   {
     "level_name": "primary",
@@ -622,7 +674,11 @@
     },
     "parent_notes": "With nine blends now in the child's toolkit, they can decode a vast number of English words. The key to blend mastery is hearing the two distinct sounds within the blend. Some children find certain blends harder than others — dr and gr can be tricky because the sounds are made in nearby mouth positions. If the child struggles with a specific blend, slow it down dramatically and have them feel the mouth position change: '/d/... now add /r/... dr.' Practice with real-world examples: 'The FROG is on the GREEN GRASS.' Making silly sentences with blend words is engaging and memorable.",
     "age_adaptations": null,
-    "sort_order": 7
+    "sort_order": 7,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-07-letter-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -713,7 +769,11 @@
     },
     "parent_notes": "The chain of 5 has 25 bars (5 x 5 x 5 = 125 beads total on the short chain, but the short chain actually shows the square: 5 x 5 = 25 bars, going to 125 is the cube chain). For the short chain, you'll go to 5 x 5 = 25. The connection to telling time and counting money makes skip counting by 5s especially relevant. Children often master the 5s sequence faster than other sequences because of the simple alternating pattern (5, 0, 5, 0 in the ones place). Encourage the child to practice counting by 5s during daily life: counting nickels, reading the clock, counting by fives during exercise. The more contexts they encounter 5s, the more fluent they become.",
     "age_adaptations": null,
-    "sort_order": 8
+    "sort_order": 8,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-08-bead-bars.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -806,7 +866,11 @@
     },
     "parent_notes": "This is the culmination of the butterfly life cycle study. The moment of emergence is deeply moving — if you can show a time-lapse video, it's unforgettable. The circular nature of the life cycle is an important concept: it never truly ends, because the adult butterfly lays eggs for the next generation. Creating a life cycle wheel (rather than a line) helps the child visualize this. If you ordered a butterfly garden kit, your real butterflies may be close to emerging — the timing of this lesson with real observation is powerful. When the butterflies emerge, the child can compare real observation to what they learned. Release them together and discuss the butterfly's new life.",
     "age_adaptations": null,
-    "sort_order": 9
+    "sort_order": 9,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-09-science-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -904,7 +968,22 @@
     },
     "parent_notes": "This art project beautifully integrates science (butterfly study), math (symmetry), and creative expression. The paint-fold technique naturally creates symmetry, giving children a concrete, visual understanding of the concept. You can extend the math by folding other shapes symmetrically and discussing lines of symmetry in everyday objects (faces, leaves, buildings). The element of surprise when opening the folded paper delights children every time. Consider making several butterflies in different color combinations. These make wonderful decorations and gifts. The connection between butterfly biology (bilateral symmetry) and the art technique deepens understanding of both.",
     "age_adaptations": null,
-    "sort_order": 10
+    "sort_order": 10,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Paper (drawing, watercolor, or construction)",
+      "Crayons, colored pencils, or markers",
+      "Watercolor paints and brush",
+      "Smock or old shirt",
+      "Cup of water and paper towels"
+    ],
+    "preparation_steps": "Cover the work surface. Set out materials in order of use. Demonstrate technique first.",
+    "control_of_error": "Art is self-expressive — focus on the process, not the product.",
+    "extension_ideas": [
+      "Display the artwork proudly",
+      "Try the same subject with a different medium",
+      "Look at famous artwork for inspiration"
+    ]
   },
   {
     "level_name": "primary",
@@ -1003,7 +1082,23 @@
     },
     "parent_notes": "Measuring is where cooking meets math. The child discovers that 2 half-cups equal 1 cup — this is a concrete fraction lesson! Montessori fraction work with the fraction circles prepares for this, and now the child sees fractions in a real-world context. The leveling technique (scraping a straight edge across the top of the cup) is a genuine cooking skill that adults use. For liquids, getting down to eye level teaches precision. Let the child make mistakes — if they overfill or underfill, discuss what would happen: 'Too much flour makes the muffins dry and crumbly.' This cause-and-effect thinking is valuable scientific reasoning applied to everyday life.",
     "age_adaptations": null,
-    "sort_order": 11
+    "sort_order": 11,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Child-safe knife or butter knife",
+      "Cutting board",
+      "Ingredients as listed in the lesson",
+      "Apron",
+      "Mixing bowls and utensils",
+      "Hand washing supplies"
+    ],
+    "preparation_steps": "Wash hands first. Set out all ingredients and tools before calling the child. Pre-wash produce.",
+    "control_of_error": "The finished food item shows the result. Taste-testing is the best self-check!",
+    "extension_ideas": [
+      "Let the child serve the food to family",
+      "Draw or write about what you made",
+      "Try a variation with different ingredients"
+    ]
   },
   {
     "level_name": "primary",
@@ -1093,7 +1188,11 @@
     },
     "parent_notes": "Sentence composition with the moveable alphabet is a pivotal Montessori language moment. The child transitions from building isolated words to expressing complete thoughts. The moveable alphabet removes the fine motor challenge of pencil writing, freeing the child to focus on composing. Spelling will be phonetic — accept 'the cat sat on the rug' even if 'rug' is spelled 'rug' or 'rugg.' The important thing is the THINKING: choosing words, putting them in order, expressing an idea. If the child can also copy their sentences onto paper, wonderful — but don't require it if pencil writing is still laborious. Sentence composition is THINKING; handwriting is a separate skill.",
     "age_adaptations": null,
-    "sort_order": 12
+    "sort_order": 12,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-12-letter-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -1183,7 +1282,11 @@
     },
     "parent_notes": "Squaring is introduced concretely in Montessori: the child literally builds squares from bead bars and sees that the arrangement is a perfect geometric square. This is why it's called 'squaring' — the result is a square shape! Children find it satisfying to build these squares and count the beads. The visual pattern is memorable: 2² = 4 (tiny square), 3² = 9, 4² = 16, 5² = 25 (bigger and bigger). Some children notice the pattern of differences: 4, 9, 16, 25 — the gaps are 5, 7, 9 (odd numbers). Don't force this observation, but celebrate it if it comes. This concrete work lays the foundation for algebraic squaring years later.",
     "age_adaptations": null,
-    "sort_order": 13
+    "sort_order": 13,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-13-bead-bars.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -1275,7 +1378,11 @@
     },
     "parent_notes": "Europe's puzzle map is challenging because of the many small countries, but children love the detail. The boot shape of Italy is always a hit and gives children a mnemonic for remembering the country. Connecting fairy tales to their countries of origin makes geography come alive — the child suddenly realizes that the stories they love came from real places. If your family has European heritage, this is a wonderful time to explore it: 'Our family came from ___. Let's find it!' The many languages of Europe fascinate children and can lead to learning basic greetings in French, Spanish, German, or Italian.",
     "age_adaptations": null,
-    "sort_order": 14
+    "sort_order": 14,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-14-puzzle-map.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -1355,7 +1462,19 @@
     },
     "parent_notes": "This classic addresses picky eating with humor and wisdom. Frances's parents model excellent gentle parenting — they don't force, they simply give her what she asks for until she's ready for variety. This connects beautifully to Montessori food preparation lessons and the practical life emphasis on trying new experiences. Russell Hoban's Frances books are all wonderful.",
     "age_adaptations": null,
-    "sort_order": 15
+    "sort_order": 15,
+    "conversion_type": "NONE",
+    "household_substitutes": [
+      "The book mentioned in the lesson",
+      "Comfortable reading area"
+    ],
+    "preparation_steps": "Choose a cozy spot. Preview the book before reading it aloud.",
+    "control_of_error": "Discussion-based — ask open-ended questions about the story.",
+    "extension_ideas": [
+      "Draw a favorite scene",
+      "Retell the story in your own words",
+      "Act out a scene together"
+    ]
   },
   {
     "level_name": "primary",
@@ -1445,7 +1564,21 @@
     },
     "parent_notes": "The sound cylinders isolate the auditory sense just as the color tablets isolate visual sense. The matching activity requires intense concentration — the child must hold one sound in memory while testing others. This develops auditory discrimination, which is essential for phonics (hearing the difference between /b/ and /d/, for example). Grading from loud to soft develops the concept of gradation, which underlies much of mathematics. If you don't have Montessori sound cylinders, you can make your own using identical opaque containers filled with different materials: rice (loud), salt (medium), cotton (soft). Make two of each for matching.",
     "age_adaptations": null,
-    "sort_order": 16
+    "sort_order": 16,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "6 identical small containers with lids (film canisters, pill bottles, or small jars)",
+      "Filling materials: rice, beans, sand, bells, paper clips, beads",
+      "Tape to seal lids",
+      "Matching colored stickers for pairs"
+    ],
+    "preparation_steps": "Fill pairs of containers with the same material. Seal with tape. Mark matching pairs with same-colored stickers on the bottom (hidden from child).",
+    "control_of_error": "Child flips containers to check if sticker colors match.",
+    "extension_ideas": [
+      "Grade sounds from quiet to loud",
+      "Make more pairs with new materials",
+      "Play a memory game with the sound pairs"
+    ]
   },
   {
     "level_name": "primary",
@@ -1537,7 +1670,11 @@
     },
     "parent_notes": "Ending blends complete the child's blend knowledge. Words like 'stamp' and 'drink' with blends at both ends are advanced but achievable for a child who has mastered beginning blends. The progression from beginning blends to ending blends to both is logical and builds confidence. When reading sentences with blend words, the child is doing real reading — decoding multiple phonics patterns in context. If the child struggles, go back to individual words before attempting sentences. The 'circle the blends' activity makes it a game and reinforces pattern recognition. By now, the child's phonics toolkit is remarkably comprehensive: short vowels, long vowels (magic e), digraphs, and blends.",
     "age_adaptations": null,
-    "sort_order": 17
+    "sort_order": 17,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-17-letter-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -1637,7 +1774,11 @@
     },
     "parent_notes": "This lesson reviews three operations and gently introduces the fourth: division. In Montessori, division is presented as 'sharing equally' — the most intuitive understanding for young children. The act of dealing stamps one at a time to cups mirrors how children naturally share: 'one for you, one for you, one for you.' Keep division problems simple at first: sharing 12, 15, or 20 among 2, 3, or 4 groups. The child should see that everyone gets the same amount — that's what 'equally' means. Don't introduce the division symbol (÷) yet; just use the language 'shared among' or 'divided by.' The concept must be solid before the notation.",
     "age_adaptations": null,
-    "sort_order": 18
+    "sort_order": 18,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-18-number-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -1733,7 +1874,22 @@
     },
     "parent_notes": "Flower dissection is a classic Montessori botany activity. The child gets to see inside something beautiful and discover its hidden structure. Use a simple flower with easily identifiable parts — lilies and tulips are ideal because their parts are large and distinct. Avoid daisies and sunflowers, which are actually composite flowers (many tiny flowers together) and are confusing for a first dissection. The vocabulary (sepals, petals, stamen, pistil) introduces scientific terminology naturally. Children are usually amazed to discover pollen — let them touch it and see the yellow powder on their fingers. This connects beautifully to the butterfly study: butterflies visit flowers for nectar and spread pollen in the process.",
     "age_adaptations": null,
-    "sort_order": 19
+    "sort_order": 19,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Paper (drawing, watercolor, or construction)",
+      "Crayons, colored pencils, or markers",
+      "Watercolor paints and brush",
+      "Smock or old shirt",
+      "Cup of water and paper towels"
+    ],
+    "preparation_steps": "Cover the work surface. Set out materials in order of use. Demonstrate technique first.",
+    "control_of_error": "Art is self-expressive — focus on the process, not the product.",
+    "extension_ideas": [
+      "Display the artwork proudly",
+      "Try the same subject with a different medium",
+      "Look at famous artwork for inspiration"
+    ]
   },
   {
     "level_name": "primary",
@@ -1832,7 +1988,22 @@
     },
     "parent_notes": "Collage is an excellent art medium for young children because there's no 'wrong' way to do it. The child practices composition (arrangement), texture awareness (smooth paper vs. rough leaf), color choices, and creative decision-making. The important step of arranging BEFORE gluing teaches planning and revision — the child can experiment with different layouts before committing. Using nature items connects art to science and outdoor experience. If you don't have pressed nature items, the child can use magazine cutouts of flowers, animals, and landscapes. Display the finished collage and discuss what the child created — 'Tell me about your art' is always better than 'What is it?'",
     "age_adaptations": null,
-    "sort_order": 20
+    "sort_order": 20,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Paper (drawing, watercolor, or construction)",
+      "Crayons, colored pencils, or markers",
+      "Watercolor paints and brush",
+      "Smock or old shirt",
+      "Cup of water and paper towels"
+    ],
+    "preparation_steps": "Cover the work surface. Set out materials in order of use. Demonstrate technique first.",
+    "control_of_error": "Art is self-expressive — focus on the process, not the product.",
+    "extension_ideas": [
+      "Display the artwork proudly",
+      "Try the same subject with a different medium",
+      "Look at famous artwork for inspiration"
+    ]
   },
   {
     "level_name": "primary",
@@ -1941,7 +2112,23 @@
     },
     "parent_notes": "This is the culmination of the week's cooking project. The child has read the recipe, practiced measuring, and now executes the full process. Let them do as much as possible independently — pouring, measuring, stirring, spooning. Adult handles the oven, of course. The sequential nature of cooking (reading a step, doing the step, reading the next) reinforces literacy and executive function. The cleanup is part of the work — in Montessori, the cycle of activity always includes restoration of the environment. Sharing the muffins with family builds pride and social connection. This is meaningful work: the child has created something real and useful.",
     "age_adaptations": null,
-    "sort_order": 21
+    "sort_order": 21,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Child-safe knife or butter knife",
+      "Cutting board",
+      "Ingredients as listed in the lesson",
+      "Apron",
+      "Mixing bowls and utensils",
+      "Hand washing supplies"
+    ],
+    "preparation_steps": "Wash hands first. Set out all ingredients and tools before calling the child. Pre-wash produce.",
+    "control_of_error": "The finished food item shows the result. Taste-testing is the best self-check!",
+    "extension_ideas": [
+      "Let the child serve the food to family",
+      "Draw or write about what you made",
+      "Try a variation with different ingredients"
+    ]
   },
   {
     "level_name": "primary",
@@ -2033,7 +2220,11 @@
     },
     "parent_notes": "The transition from moveable alphabet to pencil writing is significant. The moveable alphabet freed the child from the physical demands of writing so they could focus on composition. Now they integrate both skills. Expect that pencil writing will be slower and the child may write less. That's normal — the fine motor demands are real. Accept phonetic spelling enthusiastically. If the child writes 'the green frawg swimd,' celebrate the content and the blend words used. Conventional spelling develops through reading exposure, not correction. Wide-ruled paper helps with letter size. If the child's hand tires, alternate between moveable alphabet and pencil writing — both are valid forms of composition.",
     "age_adaptations": null,
-    "sort_order": 22
+    "sort_order": 22,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-22-letter-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -2125,7 +2316,11 @@
     },
     "parent_notes": "Building all squares from 1 to 10 is ambitious but deeply satisfying. The child creates a visual staircase of increasingly larger squares, which is beautiful and mathematically significant. The square number sequence (1, 4, 9, 16, 25...) appears throughout mathematics, and this concrete experience gives the child a foundation. Patterns they might notice: all square numbers end in 1, 4, 5, 6, 9, or 0; the differences between consecutive squares are odd numbers (3, 5, 7, 9, 11...); 10² = 100 connects to the hundred board. Don't worry if the child doesn't notice these patterns — the physical building and counting are the primary goals. The patterns will emerge through repeated work.",
     "age_adaptations": null,
-    "sort_order": 23
+    "sort_order": 23,
+    "printable_pdfs": [
+      "/printables/primary/week-20-lesson-23-bead-bars.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -2217,7 +2412,19 @@
     },
     "parent_notes": "Food is one of the most accessible and engaging ways to explore world cultures with children. Every culture's cuisine reflects its geography (what grows there), history (trade routes, migration), and values (communal eating, hospitality). This lesson should emphasize appreciation and curiosity, not exoticism. Saying 'people in Japan eat sushi, just like we eat sandwiches' normalizes cultural differences. If possible, extend this lesson by actually preparing a simple dish from another culture: sushi rolls are fun to make, quesadillas are easy, or try making simple dumplings. Eating with chopsticks is both fun and develops fine motor skills. The key message: different is not strange; it's wonderful.",
     "age_adaptations": null,
-    "sort_order": 24
+    "sort_order": 24,
+    "conversion_type": "NONE",
+    "household_substitutes": [
+      "The book mentioned in the lesson",
+      "Comfortable reading area"
+    ],
+    "preparation_steps": "Choose a cozy spot. Preview the book before reading it aloud.",
+    "control_of_error": "Discussion-based — ask open-ended questions about the story.",
+    "extension_ideas": [
+      "Draw a favorite scene",
+      "Retell the story in your own words",
+      "Act out a scene together"
+    ]
   },
   {
     "level_name": "primary",
@@ -2297,6 +2504,18 @@
     },
     "parent_notes": "This beloved book wraps up the cooking week with pure fun and imagination. The story structure teaches a lesson about excess — even the best thing (free food!) becomes a problem when there's too much. Children naturally discuss whether this could really happen, which develops critical thinking about fantasy vs. reality. The frame story (a grandfather telling the tale at breakfast) is sophisticated narrative structure. The illustrations by Ron Barrett are wonderfully detailed and reward close looking. You can extend by having the child create their own 'weather report' of food falling from the sky, write a menu for a day in Chewandswallow, or compare to real weather patterns studied earlier in the year.",
     "age_adaptations": null,
-    "sort_order": 25
+    "sort_order": 25,
+    "conversion_type": "NONE",
+    "household_substitutes": [
+      "The book mentioned in the lesson",
+      "Comfortable reading area"
+    ],
+    "preparation_steps": "Choose a cozy spot. Preview the book before reading it aloud.",
+    "control_of_error": "Discussion-based — ask open-ended questions about the story.",
+    "extension_ideas": [
+      "Draw a favorite scene",
+      "Retell the story in your own words",
+      "Act out a scene together"
+    ]
   }
 ]

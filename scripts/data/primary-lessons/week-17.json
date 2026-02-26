@@ -94,7 +94,22 @@
     },
     "parent_notes": "Woodworking is an authentic Montessori practical life activity that builds tremendous confidence. Children are capable of using real tools with proper instruction and supervision. Large-headed roofing nails are safest because the child is less likely to miss. Soft wood (balsa, pine, or thick cork) requires less force. Always clamp the wood to a stable surface — the child needs both hands free. Safety goggles are non-negotiable. Start with just hammering nails straight in; later lessons will add sanding, drilling, and simple construction. The concentration and hand-eye coordination required rival any fine motor exercise. Many children find the rhythmic hammering deeply satisfying. This work gives real competence with real tools — a core Montessori principle.",
     "age_adaptations": null,
-    "sort_order": 1
+    "sort_order": 1,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Small piece of soft wood (balsa or pine)",
+      "Sandpaper (fine and coarse grit)",
+      "Non-toxic paint and brush",
+      "Drop cloth or newspaper",
+      "Apron"
+    ],
+    "preparation_steps": "Cover the work surface. Pre-cut wood to child-safe size. Demonstrate sanding with the grain.",
+    "control_of_error": "The child can feel if the wood is smooth by running fingers over it.",
+    "extension_ideas": [
+      "Make a gift for someone",
+      "Paint a design or pattern",
+      "Try different sandpaper grits and compare results"
+    ]
   },
   {
     "level_name": "primary",
@@ -187,7 +202,11 @@
     },
     "parent_notes": "Montessori grammar uses visual symbols to make parts of speech concrete and memorable. Each part of speech has a unique shape and color. The article is a small light blue triangle — small because it is a minor word, triangular because in Montessori tradition all noun family words (noun, article, adjective) are triangles. The child is not expected to memorize grammar rules — they learn through physical manipulation (placing symbols) and pattern recognition. Articles are taught before adjectives because the child already knows 'the' and 'a' as puzzle words. This simply gives those familiar words a grammatical identity. You can cut triangles from light blue card stock or use commercial Montessori grammar symbols.",
     "age_adaptations": null,
-    "sort_order": 2
+    "sort_order": 2,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-02-letter-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -279,7 +298,11 @@
     },
     "parent_notes": "Stamp game multiplication follows the exact same principle as golden bead multiplication: build the number on multiple trays (or rows), then combine. The transition from golden beads to stamps is a step toward abstraction — each stamp represents a quantity rather than physically embodying it. Problems that require exchange are important: 124 x 3 yields 12 units, which must be exchanged for 1 ten and 2 units. If the child finds this challenging, go back to a simpler problem (like 111 x 3 = 333, no exchange needed) and build complexity gradually. The stamp game prepares for long multiplication on paper by making the process of 'carrying' concrete.",
     "age_adaptations": null,
-    "sort_order": 3
+    "sort_order": 3,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-03-number-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -373,7 +396,11 @@
     },
     "parent_notes": "Building geography knowledge incrementally — adding a few countries each session — prevents overwhelm and builds lasting memory. Cultural facts make countries memorable: Swedish meatballs, Greek Olympics, Russian nesting dolls. These connections give the child mental hooks for remembering. If you have objects from these countries (a matryoshka doll, a Greek olive oil bottle, a Swedish Dala horse), bring them out as concrete connections. Flags add another visual element. Some children become passionate about particular countries and want to learn more — follow this interest with library books, cooking projects, or music. The Europe map has many small pieces; do not rush to learn them all. Depth over breadth is the Montessori approach.",
     "age_adaptations": null,
-    "sort_order": 4
+    "sort_order": 4,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-04-puzzle-map.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -453,7 +480,19 @@
     },
     "parent_notes": "Virginia Lee Burton's classic pairs wonderfully with the woodworking introduction. Both involve real tools doing real work. The story has multiple layers: perseverance, the passage of time (old vs. new technology), creative problem-solving, and the value of loyal partnership. The ending — Mary Anne becoming the furnace of the building she helped create — can be read as either happy or bittersweet, and children often have interesting reactions. The illustrations show the passage of time beautifully, with the town growing around Mike and Mary Anne. This is a book many children want to hear multiple times. Burton's other books (The Little House, Katy and the Big Snow) make excellent follow-ups.",
     "age_adaptations": null,
-    "sort_order": 5
+    "sort_order": 5,
+    "conversion_type": "NONE",
+    "household_substitutes": [
+      "The book mentioned in the lesson",
+      "Comfortable reading area"
+    ],
+    "preparation_steps": "Choose a cozy spot. Preview the book before reading it aloud.",
+    "control_of_error": "Discussion-based — ask open-ended questions about the story.",
+    "extension_ideas": [
+      "Draw a favorite scene",
+      "Retell the story in your own words",
+      "Act out a scene together"
+    ]
   },
   {
     "level_name": "primary",
@@ -547,7 +586,11 @@
     },
     "parent_notes": "This lesson deepens geometric understanding by introducing mathematical vocabulary: face (flat surface), edge (where two faces meet), and vertex (corner point, plural: vertices; apex for the top of a cone or pyramid). Tracing the base of each solid connects 3D shapes to 2D shapes — the child sees that a cube has square faces, a cylinder has circular faces, and a pyramid has a square base with triangular sides. This is foundational for understanding surface area and nets in later math. The sphere is unique because it has no faces, edges, or vertices — it is entirely curved. Let the child discover this by trying to find a flat spot to trace. If they cannot, ask, 'Why not?'",
     "age_adaptations": null,
-    "sort_order": 6
+    "sort_order": 6,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-06-geometry-shapes.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -640,7 +683,11 @@
     },
     "parent_notes": "The Montessori adjective lesson is brilliantly experiential. By asking for 'a ball' when two are present, the child EXPERIENCES the need for an adjective — it is not an abstract grammar rule but a practical necessity. The detective game (bring me the ___ ball) can continue throughout the day. The grammar symbol hierarchy is logical: nouns are large black triangles (the most important words — things), adjectives are medium dark blue triangles (they describe nouns, so same family but different), and articles are small light blue triangles (minor words that introduce nouns). This visual system makes grammar tangible. The child physically places symbols above words, turning grammar analysis into a hands-on activity.",
     "age_adaptations": null,
-    "sort_order": 7
+    "sort_order": 7,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-07-grammar-symbols.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -732,7 +779,11 @@
     },
     "parent_notes": "Fractions are one of the most challenging math concepts, and Montessori's concrete approach makes them accessible to young children. The fraction circles (also called fraction insets) are color-coded and fit into frames, making them self-correcting — pieces from different fractions do not fit in the wrong frame. The key insight at this stage is that more pieces means smaller pieces: 1/4 is smaller than 1/3, which is smaller than 1/2. This is counterintuitive (4 is bigger than 2, but 1/4 is smaller than 1/2) and needs many concrete experiences to internalize. Connect fractions to real life: cutting a pizza, sharing an apple, dividing playdough. Use fraction language throughout the day: 'You ate half your sandwich!'",
     "age_adaptations": null,
-    "sort_order": 8
+    "sort_order": 8,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-08-fraction-circles.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -829,7 +880,11 @@
     },
     "parent_notes": "Montessori zoology explores each animal class in depth through external parts (what you can see), internal parts (skeleton, organs — in later years), and ecology (habitat, diet). Beak adaptation is a wonderful introduction to the concept of adaptation — each species is uniquely designed for its way of life. If you have access to a real feather, the magnifying glass observation is unforgettable: the child sees the intricate barbs and barbules that make a feather both strong and light. Bird watching is a natural extension: set up a simple bird feeder and observe which birds visit and what their beaks look like. Field guides for children (like those by Sibley) make great reference materials.",
     "age_adaptations": null,
-    "sort_order": 9
+    "sort_order": 9,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-09-science-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -923,7 +978,11 @@
     },
     "parent_notes": "Observational drawing teaches children to LOOK carefully — a skill that transfers to science, reading, and everyday life. Breaking a complex subject (a bird) into simple shapes (oval, circle, triangle) makes drawing accessible and non-intimidating. The child learns that everything can be drawn if you see the shapes within it. Do not correct the child's proportions harshly — instead, redirect attention to the reference: 'Look at the bird again — how big is the head compared to the body?' This teaches self-correction. Connecting art to science (bird anatomy) shows that learning areas overlap — a core Montessori principle. Display the finished drawing alongside the labeled bird diagram from the science lesson.",
     "age_adaptations": null,
-    "sort_order": 10
+    "sort_order": 10,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-10-science-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -1019,7 +1078,22 @@
     },
     "parent_notes": "Sanding develops the tactile sense (feeling the progressive smoothness is deeply satisfying), patience (it takes time and repetition), and understanding of process (coarse to fine, rough to smooth). Sand WITH the grain — this is a real woodworking principle that produces a better finish. A dust mask is recommended, especially for sensitive children. If sanding indoors, work over a tray to catch dust and wipe with a damp cloth frequently. The three-grit progression parallels the Montessori principle of graded difficulty: start rough, refine, perfect. Some children become meditative during sanding — the rhythmic motion is calming. The finished smooth wood piece can be used in a later project (a painted sign, a small shelf, a toy).",
     "age_adaptations": null,
-    "sort_order": 11
+    "sort_order": 11,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Small piece of soft wood (balsa or pine)",
+      "Sandpaper (fine and coarse grit)",
+      "Non-toxic paint and brush",
+      "Drop cloth or newspaper",
+      "Apron"
+    ],
+    "preparation_steps": "Cover the work surface. Pre-cut wood to child-safe size. Demonstrate sanding with the grain.",
+    "control_of_error": "The child can feel if the wood is smooth by running fingers over it.",
+    "extension_ideas": [
+      "Make a gift for someone",
+      "Paint a design or pattern",
+      "Try different sandpaper grits and compare results"
+    ]
   },
   {
     "level_name": "primary",
@@ -1111,7 +1185,11 @@
     },
     "parent_notes": "The noun completes the first grammar trio: article (small light blue triangle), adjective (medium dark blue triangle), noun (large black triangle). All three are triangles because they belong to the noun family. The size hierarchy reflects importance: the noun is the core word, the adjective describes it, and the article introduces it. In Montessori grammar, children learn parts of speech through physical manipulation — placing symbols, sorting words, playing games. This is far more effective than memorizing definitions. The noun game (naming everything in the room) makes the concept tangible. Children often become excited about grammar when it is presented this way — 'Everything has a name!' Verbs will come next, represented by a red circle, symbolizing the energy of action.",
     "age_adaptations": null,
-    "sort_order": 12
+    "sort_order": 12,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-12-grammar-symbols.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -1203,7 +1281,11 @@
     },
     "parent_notes": "Fraction equivalence is a concept many older students struggle with because they learned it abstractly. The Montessori approach makes it physical: the child literally sees and feels that two fourths and one half are the same size. This sensory experience creates lasting understanding. Let the child explore freely — they may discover equivalences you did not plan to teach. Combining different fractions to make a whole is early preparation for adding fractions, though we do not use that terminology yet. The child is simply putting pieces together like a puzzle. Drawing their discoveries creates a record they can refer to later and reinforces the visual understanding. Take photographs of interesting combinations.",
     "age_adaptations": null,
-    "sort_order": 13
+    "sort_order": 13,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-13-fraction-circles.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -1297,7 +1379,22 @@
     },
     "parent_notes": "This lesson connects directly to the woodworking practical life work — the child has been using the same tools that professional builders use. Emphasize that building is both a physical skill and an intellectual one — it requires planning, measurement, problem-solving, and teamwork. The design-before-building exercise (drawing a plan first) introduces the concept of architectural planning and connects to math (measurement, spatial reasoning). If possible, visit a construction site (from a safe distance) or watch a time-lapse video of a building being constructed. Children are often fascinated by the transformation from empty lot to finished building. The block-building activity with a plan gives practice in executing a design.",
     "age_adaptations": null,
-    "sort_order": 14
+    "sort_order": 14,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Pictures of construction sites and workers",
+      "Toy construction tools or real tools",
+      "Building blocks",
+      "Paper and pencil for drawing a plan",
+      "Hard hat (toy or real, optional)"
+    ],
+    "preparation_steps": "Review the lesson steps. Gather all materials before calling your child to the work area.",
+    "control_of_error": "Observe the child — can they complete the activity independently?",
+    "extension_ideas": [
+      "Repeat the lesson another day",
+      "Let the child show a family member what they learned",
+      "Connect this activity to daily life"
+    ]
   },
   {
     "level_name": "primary",
@@ -1379,7 +1476,19 @@
     },
     "parent_notes": "The Three Little Pigs is a perfect companion to the construction/woodworking theme. The story teaches about material strength, planning, and the value of hard work — all relevant to practical life. Building actual mini-structures from straw, sticks, and blocks makes the science concrete: children can test the strength of each material. This is informal materials science! There are many retellings — the traditional version teaches the clearest moral. For a fun alternative perspective, read 'The True Story of the 3 Little Pigs' by Jon Scieszka (told from the wolf's perspective) to discuss point of view. Children love the dramatic huffing and puffing — encourage them to join in.",
     "age_adaptations": null,
-    "sort_order": 15
+    "sort_order": 15,
+    "conversion_type": "NONE",
+    "household_substitutes": [
+      "The book mentioned in the lesson",
+      "Comfortable reading area"
+    ],
+    "preparation_steps": "Choose a cozy spot. Preview the book before reading it aloud.",
+    "control_of_error": "Discussion-based — ask open-ended questions about the story.",
+    "extension_ideas": [
+      "Draw a favorite scene",
+      "Retell the story in your own words",
+      "Act out a scene together"
+    ]
   },
   {
     "level_name": "primary",
@@ -1467,7 +1576,11 @@
     },
     "parent_notes": "The trinomial cube is one of Montessori's most fascinating materials. At the primary level, it is presented as a sensorial puzzle — the child matches colors and sizes without knowing it represents the algebraic formula (a + b + c) cubed. The cube contains exactly 27 blocks: cubes and prisms in red, blue, yellow, and black. The pattern on the box serves as a control of error. The child works through spatial reasoning, visual discrimination, and fine motor precision. Do not explain the algebra — the child is preparing for it sensorially, just as they prepared for writing through the metal insets. This material is typically repeated many times, and children often develop deep concentration while building it.",
     "age_adaptations": null,
-    "sort_order": 16
+    "sort_order": 16,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-16-geometry-shapes.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -1560,7 +1673,11 @@
     },
     "parent_notes": "Reading comprehension is a separate skill from decoding. Many children can sound out words perfectly but struggle to remember or understand what they read, especially when they are concentrating hard on decoding. This lesson gently introduces the habit of thinking ABOUT the text. The key questions (who, what, where, when) are the foundation of all comprehension. If the child cannot answer, do not criticize — simply say, 'Let us read it again together and look for the answer.' Rereading is a legitimate and important reading strategy. Keep the stories short and phonetically decodable so the child's energy goes toward understanding, not struggling with unfamiliar words. Drawing a picture of the story is a powerful comprehension check — if they can draw it, they understood it.",
     "age_adaptations": null,
-    "sort_order": 17
+    "sort_order": 17,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-17-generic-printable.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -1652,7 +1769,11 @@
     },
     "parent_notes": "Tenths are particularly important because they connect to the decimal system the child already understands from golden beads and the stamp game. One tenth (1/10) is the fraction equivalent of the base-10 system. You do not need to make this connection explicitly yet, but it will click naturally later. The discovery that 2/10 = 1/5 and 5/10 = 1/2 is an exciting moment — the child sees that fractions that look different can represent the same amount. Let the child explore freely: 'What equals 1/2? How many tenths? How many fourths?' Every discovery the child makes independently is more valuable than one you tell them. Photograph the fraction combinations — children love seeing their mathematical discoveries documented.",
     "age_adaptations": null,
-    "sort_order": 18
+    "sort_order": 18,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-18-fraction-circles.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -1747,7 +1868,11 @@
     },
     "parent_notes": "Studying fish alongside birds helps children develop the skill of comparison — noting similarities and differences between vertebrate classes. If you can obtain a real whole fish from a fish market or grocery store, the hands-on experience is invaluable. The child can feel the scales, look at the gills up close with a magnifying glass, and examine the fins. This may feel unusual but is deeply educational. The child learns that gills function like our lungs (extracting oxygen) but from water instead of air. The comparison chart (fish vs. bird) builds scientific thinking: both are vertebrates, both have eyes and mouths, but they breathe differently, move differently, and live in different environments.",
     "age_adaptations": null,
-    "sort_order": 19
+    "sort_order": 19,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-19-science-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -1839,7 +1964,21 @@
     },
     "parent_notes": "The Montessori bells are the primary sensorial material for musical education. They develop the child's ability to discriminate pitch — a skill essential for singing, playing instruments, and appreciating music. If you do not have Montessori bells, alternatives work well: fill glasses with different water levels and tap them, use a xylophone or glockenspiel, or even use a keyboard. The grading activity (arranging from low to high) mirrors other sensorial grading work (color tablets, brown stair) — the child finds order through careful sensory discrimination. Playing a melody from low to high is a scale (do, re, mi...). Let the child experiment freely after the structured lesson — musical creativity emerges from exploration.",
     "age_adaptations": null,
-    "sort_order": 20
+    "sort_order": 20,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Pots, pans, wooden spoons for rhythm",
+      "Homemade shakers (rice in sealed containers)",
+      "Singing voice",
+      "Recorded music to listen to"
+    ],
+    "preparation_steps": "Gather sound-making objects. Choose a space where noise is okay.",
+    "control_of_error": "Can the child repeat a rhythm pattern? Can they keep a steady beat?",
+    "extension_ideas": [
+      "Create a simple song together",
+      "Clap rhythm patterns for each other to copy",
+      "Listen to different genres and compare"
+    ]
   },
   {
     "level_name": "primary",
@@ -1943,7 +2082,23 @@
     },
     "parent_notes": "Vegetable soup is the culmination of the food preparation progression: from pouring to spreading to slicing to peeling and now to actual cooking. The child does all preparation; the adult manages heat safety. This is not about perfection — unevenly cut vegetables cook just fine and taste delicious. The waiting time while soup cooks is valuable: the child learns patience, and the cleanup during cooking mirrors real kitchen workflow. Making soup connects to Stone Soup (read-aloud from Week 16), community helpers (nourishing others), and science (heat changes food, raw to cooked). Send some soup to a neighbor or family member to practice generosity. This recipe can become a weekly tradition.",
     "age_adaptations": null,
-    "sort_order": 21
+    "sort_order": 21,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Child-safe knife or butter knife",
+      "Cutting board",
+      "Ingredients as listed in the lesson",
+      "Apron",
+      "Mixing bowls and utensils",
+      "Hand washing supplies"
+    ],
+    "preparation_steps": "Wash hands first. Set out all ingredients and tools before calling the child. Pre-wash produce.",
+    "control_of_error": "The finished food item shows the result. Taste-testing is the best self-check!",
+    "extension_ideas": [
+      "Let the child serve the food to family",
+      "Draw or write about what you made",
+      "Try a variation with different ingredients"
+    ]
   },
   {
     "level_name": "primary",
@@ -2037,7 +2192,11 @@
     },
     "parent_notes": "This review lesson consolidates the week's grammar learning. The child should now be able to identify three parts of speech and use the correct Montessori symbols for each. The progression from single words to phrases to sentences follows the Montessori principle of building complexity gradually. When the child creates their own phrases, they are applying grammar knowledge creatively. Some children enjoy making silly phrases (a purple elephant, the tiny dinosaur) — this is wonderful because it shows they understand the structure while having fun. Save the child's phrase strips with symbols — these make a great portfolio piece showing language development. The preview of verbs creates anticipation for next week's learning.",
     "age_adaptations": null,
-    "sort_order": 22
+    "sort_order": 22,
+    "printable_pdfs": [
+      "/printables/primary/week-17-lesson-22-letter-cards.pdf"
+    ],
+    "conversion_type": "PRINTABLE"
   },
   {
     "level_name": "primary",
@@ -2131,7 +2290,23 @@
     },
     "parent_notes": "This lesson bridges the gap between Montessori materials and real life — the whole point of the concrete-to-abstract progression. Children who can manipulate fraction circles may not realize that cutting a sandwich in half IS fractions. Making this connection explicit is powerful. Use fraction language naturally throughout the day: 'Eat half your vegetables,' 'It is a quarter past three,' 'Share the grapes equally among four people.' Paper folding is particularly rich: fold in half (2 sections), fold again (4 sections), fold again (8 sections). The child can color each section and count: 'I colored 3 out of 8 sections — that is 3/8!' The scavenger hunt turns the whole house into a math classroom.",
     "age_adaptations": null,
-    "sort_order": 23
+    "sort_order": 23,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "Child-safe knife or butter knife",
+      "Cutting board",
+      "Ingredients as listed in the lesson",
+      "Apron",
+      "Mixing bowls and utensils",
+      "Hand washing supplies"
+    ],
+    "preparation_steps": "Wash hands first. Set out all ingredients and tools before calling the child. Pre-wash produce.",
+    "control_of_error": "The finished food item shows the result. Taste-testing is the best self-check!",
+    "extension_ideas": [
+      "Let the child serve the food to family",
+      "Draw or write about what you made",
+      "Try a variation with different ingredients"
+    ]
   },
   {
     "level_name": "primary",
@@ -2227,7 +2402,18 @@
     },
     "parent_notes": "Table setting is a wonderful convergence of practical life, grace and courtesy, and geometry (spatial arrangement). The left/right placement of utensils is a genuine life skill that many adults do not know confidently. The trick 'fork has four letters, left has four letters' helps children remember. Using cloth napkins and real dishes (child-safe) elevates the experience and builds responsibility. The greeting practice (opening the door, welcoming the guest, showing them to their seat) is role-played first with stuffed animals or family members. Make this a regular responsibility — the child sets the table for dinner each night. This gives them a meaningful contribution to family life, which builds belonging and self-worth. In Montessori, hospitality is taught as a form of love in action.",
     "age_adaptations": null,
-    "sort_order": 24
+    "sort_order": 24,
+    "conversion_type": "DIRECT",
+    "household_substitutes": [
+      "No materials needed — this is a role-play and discussion lesson"
+    ],
+    "preparation_steps": "Think of scenarios to role-play. Keep it playful and positive.",
+    "control_of_error": "Practice in real situations throughout the day.",
+    "extension_ideas": [
+      "Role-play at a pretend restaurant",
+      "Write thank-you notes",
+      "Practice with stuffed animals or dolls"
+    ]
   },
   {
     "level_name": "primary",
@@ -2305,6 +2491,18 @@
     },
     "parent_notes": "Arnold Lobel's 'Owl at Home' is an I Can Read book with five short stories perfect for read-aloud. The stories gently explore emotions — fear, sadness, hospitality, curiosity. 'Tear-Water Tea' is a remarkable story about allowing yourself to feel sad. This connects to Montessori's emphasis on emotional intelligence and self-awareness.",
     "age_adaptations": null,
-    "sort_order": 25
+    "sort_order": 25,
+    "conversion_type": "NONE",
+    "household_substitutes": [
+      "The book mentioned in the lesson",
+      "Comfortable reading area"
+    ],
+    "preparation_steps": "Choose a cozy spot. Preview the book before reading it aloud.",
+    "control_of_error": "Discussion-based — ask open-ended questions about the story.",
+    "extension_ideas": [
+      "Draw a favorite scene",
+      "Retell the story in your own words",
+      "Act out a scene together"
+    ]
   }
 ]

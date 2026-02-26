@@ -128,6 +128,13 @@ export type Slide =
 
 export interface SlideContent {
   slides: Slide[];
+  // Print-based materials conversion fields
+  conversion_type?: 'PRINTABLE' | 'DIRECT' | 'NONE';
+  printable_pdfs?: string[];
+  household_substitutes?: string[];
+  preparation_steps?: string;
+  control_of_error?: string;
+  extension_ideas?: string[];
 }
 
 // ============================================================================

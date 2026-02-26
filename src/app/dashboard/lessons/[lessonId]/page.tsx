@@ -159,6 +159,12 @@ export default function LessonDetailPage() {
             parentNotes={lesson.parent_notes}
             materialsNeeded={lesson.materials_needed as string[]}
             materialsInventory={materialsInventory}
+            conversionType={slideContent?.conversion_type}
+            printablePdfs={slideContent?.printable_pdfs}
+            householdSubstitutes={slideContent?.household_substitutes}
+            preparationSteps={slideContent?.preparation_steps}
+            controlOfError={slideContent?.control_of_error}
+            extensionIdeas={slideContent?.extension_ideas}
             onComplete={studentId ? handleComplete : undefined}
           />
         ) : (

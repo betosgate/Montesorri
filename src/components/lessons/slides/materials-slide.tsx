@@ -11,6 +11,10 @@ interface MaterialsSlideProps {
   onToggleItem: (item: string) => void;
   materialsInventory?: MaterialInventoryItem[];
   onImageClick?: (img: LightboxImage) => void;
+  conversionType?: 'PRINTABLE' | 'DIRECT' | 'NONE';
+  printablePdfs?: string[];
+  householdSubstitutes?: string[];
+  preparationSteps?: string;
 }
 
 /** Fuzzy match: check if material name roughly matches an inventory item */
@@ -60,6 +64,10 @@ export default function MaterialsSlide({
   onToggleItem,
   materialsInventory,
   onImageClick,
+  conversionType,
+  printablePdfs,
+  householdSubstitutes,
+  preparationSteps,
 }: MaterialsSlideProps) {
   const allChecked =
     slide.materials.length > 0 &&
@@ -227,6 +235,75 @@ export default function MaterialsSlide({
           );
         })}
       </div>
+
+      {/* Print Materials / Household Substitutes section */}
+      {conversionType === 'PRINTABLE' && printablePdfs && printablePdfs.length > 0 && (
+        <div className="mt-6 rounded-xl border-2 border-dashed p-4" style={{ borderColor: 'var(--slide-accent)', backgroundColor: 'var(--slide-bg-muted)' }}>
+          <div className="mb-3 flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-5 w-5" style={{ color: 'var(--slide-accent)' }}>
+              <path fillRule="evenodd" d="M4.5 2A1.5 1.5 0 003 3.5v13A1.5 1.5 0 004.5 18h11a1.5 1.5 0 001.5-1.5V7.621a1.5 1.5 0 00-.44-1.06l-4.12-4.122A1.5 1.5 0 0011.378 2H4.5zm4.75 9.5a.75.75 0 00-1.5 0v2.19l-.72-.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l2-2a.75.75 0 10-1.06-1.06l-.72.72V11.5z" clipRule="evenodd" />
+            </svg>
+            <span className="text-sm font-bold" style={{ color: 'var(--slide-text)' }}>
+              Printable Materials Available
+            </span>
+          </div>
+          <p className="mb-3 text-xs" style={{ color: 'var(--slide-text-light)' }}>
+            Print these on cardstock for best results. Cut along dashed lines.
+          </p>
+          <div className="flex flex-wrap gap-2">
+            {printablePdfs.map((pdf) => {
+              const filename = pdf.split('/').pop() || pdf;
+              return (
+                <a
+                  key={pdf}
+                  href={pdf}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-1.5 rounded-lg px-3 py-2 text-xs font-semibold text-white shadow-sm transition-transform hover:scale-105"
+                  style={{ backgroundColor: 'var(--slide-accent)' }}
+                >
+                  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" className="h-3.5 w-3.5">
+                    <path d="M8.75 2.75a.75.75 0 00-1.5 0v5.69L5.03 6.22a.75.75 0 00-1.06 1.06l3.5 3.5a.75.75 0 001.06 0l3.5-3.5a.75.75 0 00-1.06-1.06L8.75 8.44V2.75z" />
+                    <path d="M3.5 9.75a.75.75 0 00-1.5 0v1.5A2.75 2.75 0 004.75 14h6.5A2.75 2.75 0 0014 11.25v-1.5a.75.75 0 00-1.5 0v1.5c0 .69-.56 1.25-1.25 1.25h-6.5c-.69 0-1.25-.56-1.25-1.25v-1.5z" />
+                  </svg>
+                  {filename.replace('.pdf', '').replace(/-/g, ' ')}
+                </a>
+              );
+            })}
+          </div>
+        </div>
+      )}
+
+      {conversionType === 'DIRECT' && householdSubstitutes && householdSubstitutes.length > 0 && (
+        <div className="mt-6 rounded-xl border-2 p-4" style={{ borderColor: 'var(--slide-accent)', backgroundColor: 'var(--slide-bg-muted)' }}>
+          <div className="mb-3 flex items-center gap-2">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-5 w-5" style={{ color: 'var(--slide-accent)' }}>
+              <path fillRule="evenodd" d="M9.293 2.293a1 1 0 011.414 0l7 7A1 1 0 0117 11h-1v6a1 1 0 01-1 1h-2a1 1 0 01-1-1v-3a1 1 0 00-1-1H9a1 1 0 00-1 1v3a1 1 0 01-1 1H5a1 1 0 01-1-1v-6H3a1 1 0 01-.707-1.707l7-7z" clipRule="evenodd" />
+            </svg>
+            <span className="text-sm font-bold" style={{ color: 'var(--slide-text)' }}>
+              Household Substitutes
+            </span>
+          </div>
+          <ul className="mb-3 space-y-1.5">
+            {householdSubstitutes.map((item) => (
+              <li key={item} className="flex items-center gap-2 text-sm" style={{ color: 'var(--slide-text)' }}>
+                <span className="h-1.5 w-1.5 shrink-0 rounded-full" style={{ backgroundColor: 'var(--slide-accent)' }} />
+                {item}
+              </li>
+            ))}
+          </ul>
+          {preparationSteps && (
+            <div className="rounded-lg border bg-white p-3" style={{ borderColor: 'var(--slide-border)' }}>
+              <span className="text-xs font-bold uppercase tracking-wider" style={{ color: 'var(--slide-accent)' }}>
+                Setup
+              </span>
+              <p className="mt-1 text-sm" style={{ color: 'var(--slide-text-light)' }}>
+                {preparationSteps}
+              </p>
+            </div>
+          )}
+        </div>
+      )}
     </div>
   );
 }

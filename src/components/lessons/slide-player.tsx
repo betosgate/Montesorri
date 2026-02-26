@@ -51,6 +51,13 @@ interface SlidePlayerProps {
   parentNotes?: string | null;
   materialsNeeded?: string[];
   materialsInventory?: MaterialInventoryItem[];
+  // Print-based conversion props
+  conversionType?: 'PRINTABLE' | 'DIRECT' | 'NONE';
+  printablePdfs?: string[];
+  householdSubstitutes?: string[];
+  preparationSteps?: string;
+  controlOfError?: string;
+  extensionIdeas?: string[];
   onComplete?: () => void;
 }
 
@@ -160,6 +167,12 @@ export default function SlidePlayer({
   gradeBand,
   parentNotes,
   materialsInventory,
+  conversionType,
+  printablePdfs,
+  householdSubstitutes,
+  preparationSteps,
+  controlOfError,
+  extensionIdeas,
   onComplete,
 }: SlidePlayerProps) {
   const slides = useMemo(() => normalizeSlides(rawSlides), [rawSlides]);
@@ -347,6 +360,10 @@ export default function SlidePlayer({
             onToggleItem={toggleMaterial}
             materialsInventory={materialsInventory}
             onImageClick={openLightbox}
+            conversionType={conversionType}
+            printablePdfs={printablePdfs}
+            householdSubstitutes={householdSubstitutes}
+            preparationSteps={preparationSteps}
           />
         );
 
@@ -516,6 +533,12 @@ export default function SlidePlayer({
         lessonTitle={lessonTitle}
         subjectName={subjectDisplayName}
         slides={slides}
+        conversionType={conversionType}
+        householdSubstitutes={householdSubstitutes}
+        preparationSteps={preparationSteps}
+        controlOfError={controlOfError}
+        extensionIdeas={extensionIdeas}
+        printablePdfs={printablePdfs}
       />
 
       {/* ---- Slide content ----------------------------------------------- */}

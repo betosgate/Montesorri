@@ -12,6 +12,12 @@ interface ParentGuideProps {
   lessonTitle?: string;
   subjectName?: string;
   slides?: Slide[];
+  conversionType?: 'PRINTABLE' | 'DIRECT' | 'NONE';
+  householdSubstitutes?: string[];
+  preparationSteps?: string;
+  controlOfError?: string;
+  extensionIdeas?: string[];
+  printablePdfs?: string[];
 }
 
 /** Extract key text from slides into a compact lesson summary */
@@ -53,6 +59,12 @@ export default function ParentGuide({
   lessonTitle,
   subjectName,
   slides,
+  conversionType,
+  householdSubstitutes,
+  preparationSteps,
+  controlOfError,
+  extensionIdeas,
+  printablePdfs,
 }: ParentGuideProps) {
   const handleAskClaude = useCallback(() => {
     if (!slides || !lessonTitle) return;
@@ -174,6 +186,99 @@ Keep it warm and encouraging, like a mentor helping a friend.`;
             </div>
           )}
         </div>
+
+        {/* Conversion-specific guidance */}
+        {(controlOfError || extensionIdeas || preparationSteps) && (
+          <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {/* Preparation Steps */}
+            {preparationSteps && (
+              <div className="rounded-lg border border-orange-100 bg-white p-4">
+                <div className="mb-2 flex items-center gap-2">
+                  <span className="flex h-7 w-7 items-center justify-center rounded-full bg-orange-100 text-sm">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-4 w-4 text-orange-700">
+                      <path fillRule="evenodd" d="M6 3.75A2.75 2.75 0 018.75 1h2.5A2.75 2.75 0 0114 3.75v.443c.572.055 1.14.122 1.706.2C17.053 4.582 18 5.75 18 7.07v3.469c0 1.126-.694 2.191-1.83 2.54-1.952.599-4.024.921-6.17.921s-4.219-.322-6.17-.921C2.694 12.73 2 11.665 2 10.539V7.07c0-1.321.947-2.489 2.294-2.676A41.047 41.047 0 016 4.193V3.75zm6.5 0v.325a41.622 41.622 0 00-5 0V3.75c0-.69.56-1.25 1.25-1.25h2.5c.69 0 1.25.56 1.25 1.25zM10 10a1 1 0 00-1 1v.01a1 1 0 001 1h.01a1 1 0 001-1V11a1 1 0 00-1-1H10z" clipRule="evenodd" />
+                      <path d="M3 15.055v-.684c.126.053.255.1.39.142 2.092.642 4.313.987 6.61.987 2.297 0 4.518-.345 6.61-.987.135-.041.264-.089.39-.142v.684c0 1.347-.985 2.53-2.363 2.686A41.454 41.454 0 0110 18c-1.572 0-3.118-.12-4.637-.26C3.985 17.586 3 16.402 3 15.056z" />
+                    </svg>
+                  </span>
+                  <span className="text-sm font-bold text-orange-800">Before You Start</span>
+                </div>
+                <p className="text-sm leading-relaxed text-stone-600">{preparationSteps}</p>
+              </div>
+            )}
+
+            {/* Control of Error */}
+            {controlOfError && (
+              <div className="rounded-lg border border-purple-100 bg-white p-4">
+                <div className="mb-2 flex items-center gap-2">
+                  <span className="flex h-7 w-7 items-center justify-center rounded-full bg-purple-100 text-sm">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-4 w-4 text-purple-700">
+                      <path fillRule="evenodd" d="M16.403 12.652a3 3 0 000-5.304 3 3 0 00-3.75-3.751 3 3 0 00-5.305 0 3 3 0 00-3.751 3.75 3 3 0 000 5.305 3 3 0 003.75 3.751 3 3 0 005.305 0 3 3 0 003.751-3.75zm-2.546-4.46a.75.75 0 00-1.214-.883l-3.483 4.79-1.88-1.88a.75.75 0 10-1.06 1.061l2.5 2.5a.75.75 0 001.137-.089l4-5.5z" clipRule="evenodd" />
+                    </svg>
+                  </span>
+                  <span className="text-sm font-bold text-purple-800">Self-Check</span>
+                </div>
+                <p className="text-sm leading-relaxed text-stone-600">{controlOfError}</p>
+              </div>
+            )}
+
+            {/* Extension Ideas */}
+            {extensionIdeas && extensionIdeas.length > 0 && (
+              <div className="rounded-lg border border-teal-100 bg-white p-4">
+                <div className="mb-2 flex items-center gap-2">
+                  <span className="flex h-7 w-7 items-center justify-center rounded-full bg-teal-100 text-sm">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-4 w-4 text-teal-700">
+                      <path d="M10 1a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 0110 1zM5.05 3.05a.75.75 0 011.06 0l1.062 1.06a.75.75 0 11-1.06 1.061L5.05 4.11a.75.75 0 010-1.06zm9.9 0a.75.75 0 010 1.06l-1.06 1.061a.75.75 0 01-1.062-1.06l1.061-1.06a.75.75 0 011.06 0zM10 7a3 3 0 100 6 3 3 0 000-6zm-6.25 3a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5H3a.75.75 0 01.75.75zm14.5 0a.75.75 0 01-.75.75h-1.5a.75.75 0 010-1.5H17a.75.75 0 01.75.75zm-12.14 4.89a.75.75 0 010 1.06l-1.06 1.06a.75.75 0 11-1.06-1.06l1.06-1.06a.75.75 0 011.06 0zm8.28 0a.75.75 0 011.06 0l1.06 1.06a.75.75 0 01-1.06 1.06l-1.06-1.06a.75.75 0 010-1.06zM10 15a.75.75 0 01.75.75v1.5a.75.75 0 01-1.5 0v-1.5A.75.75 0 0110 15z" />
+                    </svg>
+                  </span>
+                  <span className="text-sm font-bold text-teal-800">Extension Ideas</span>
+                </div>
+                <ul className="space-y-1.5 text-sm text-stone-600">
+                  {extensionIdeas.map((idea) => (
+                    <li key={idea} className="flex items-start gap-2">
+                      <span className="mt-1.5 h-1.5 w-1.5 shrink-0 rounded-full bg-teal-400" />
+                      {idea}
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+          </div>
+        )}
+
+        {/* Printable PDFs in parent guide */}
+        {printablePdfs && printablePdfs.length > 0 && (
+          <div className="mt-4 rounded-lg border border-indigo-100 bg-white p-4">
+            <div className="mb-2 flex items-center gap-2">
+              <span className="flex h-7 w-7 items-center justify-center rounded-full bg-indigo-100 text-sm">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" className="h-4 w-4 text-indigo-700">
+                  <path fillRule="evenodd" d="M4.5 2A1.5 1.5 0 003 3.5v13A1.5 1.5 0 004.5 18h11a1.5 1.5 0 001.5-1.5V7.621a1.5 1.5 0 00-.44-1.06l-4.12-4.122A1.5 1.5 0 0011.378 2H4.5zm4.75 9.5a.75.75 0 00-1.5 0v2.19l-.72-.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l2-2a.75.75 0 10-1.06-1.06l-.72.72V11.5z" clipRule="evenodd" />
+                </svg>
+              </span>
+              <span className="text-sm font-bold text-indigo-800">Printable Materials</span>
+            </div>
+            <p className="mb-2 text-xs text-stone-500">Print on cardstock for durability. Cut along dashed lines.</p>
+            <div className="flex flex-wrap gap-2">
+              {printablePdfs.map((pdf) => {
+                const filename = pdf.split('/').pop() || pdf;
+                return (
+                  <a
+                    key={pdf}
+                    href={pdf}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-1.5 rounded-lg bg-indigo-600 px-3 py-1.5 text-xs font-semibold text-white shadow-sm transition-transform hover:scale-105 hover:bg-indigo-700"
+                  >
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" className="h-3.5 w-3.5">
+                      <path d="M8.75 2.75a.75.75 0 00-1.5 0v5.69L5.03 6.22a.75.75 0 00-1.06 1.06l3.5 3.5a.75.75 0 001.06 0l3.5-3.5a.75.75 0 00-1.06-1.06L8.75 8.44V2.75z" />
+                      <path d="M3.5 9.75a.75.75 0 00-1.5 0v1.5A2.75 2.75 0 004.75 14h6.5A2.75 2.75 0 0014 11.25v-1.5a.75.75 0 00-1.5 0v1.5c0 .69-.56 1.25-1.25 1.25h-6.5c-.69 0-1.25-.56-1.25-1.25v-1.5z" />
+                    </svg>
+                    {filename.replace('.pdf', '').replace(/-/g, ' ')}
+                  </a>
+                );
+              })}
+            </div>
+          </div>
+        )}
 
         {/* Ask Claude for Help button */}
         {slides && slides.length > 0 && (

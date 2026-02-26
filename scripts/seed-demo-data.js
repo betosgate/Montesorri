@@ -270,23 +270,34 @@ async function main() {
     for (const file of files) {
       const raw = JSON.parse(fs.readFileSync(path.join(dir, file), 'utf-8'));
 
-      const lessons = raw.map(r => ({
-        level_id: levelId,
-        subject_id: subjectMap[r.subject_name],
-        week_number: r.week_number,
-        day_of_week: r.day_of_week,
-        quarter: r.quarter,
-        title: r.title,
-        description: r.description,
-        instructions: r.instructions,
-        duration_minutes: r.duration_minutes,
-        lesson_type: lessonTypeMap[r.lesson_type] || 'guided',
-        materials_needed: r.materials_needed,
-        slide_content: r.slide_content,
-        parent_notes: r.parent_notes,
-        age_adaptations: r.age_adaptations,
-        sort_order: r.sort_order,
-      })).filter(l => l.subject_id);
+      const lessons = raw.map(r => {
+        // Pack conversion fields into slide_content alongside slides
+        const sc = r.slide_content ? { ...r.slide_content } : { slides: [] };
+        if (r.conversion_type) sc.conversion_type = r.conversion_type;
+        if (r.printable_pdfs) sc.printable_pdfs = r.printable_pdfs;
+        if (r.household_substitutes) sc.household_substitutes = r.household_substitutes;
+        if (r.preparation_steps) sc.preparation_steps = r.preparation_steps;
+        if (r.control_of_error) sc.control_of_error = r.control_of_error;
+        if (r.extension_ideas) sc.extension_ideas = r.extension_ideas;
+
+        return {
+          level_id: levelId,
+          subject_id: subjectMap[r.subject_name],
+          week_number: r.week_number,
+          day_of_week: r.day_of_week,
+          quarter: r.quarter,
+          title: r.title,
+          description: r.description,
+          instructions: r.instructions,
+          duration_minutes: r.duration_minutes,
+          lesson_type: lessonTypeMap[r.lesson_type] || 'guided',
+          materials_needed: r.materials_needed,
+          slide_content: sc,
+          parent_notes: r.parent_notes,
+          age_adaptations: r.age_adaptations,
+          sort_order: r.sort_order,
+        };
+      }).filter(l => l.subject_id);
 
       await batchInsert('lessons', lessons, 50);
       levelCount += lessons.length;
