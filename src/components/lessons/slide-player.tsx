@@ -442,7 +442,7 @@ export default function SlidePlayer({
 
         <div className="flex items-center gap-1.5">
           {/* Parent's Guide button */}
-          {(parentNotes || (materialsInventory && materialsInventory.length > 0)) && (
+          {slides.length > 0 && (
             <button
               type="button"
               onClick={() => setShowParentGuide(!showParentGuide)}

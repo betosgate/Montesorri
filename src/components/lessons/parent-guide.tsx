@@ -14,48 +14,30 @@ interface ParentGuideProps {
   slides?: Slide[];
 }
 
-/** Extract all text from slides into a readable lesson summary */
-function buildLessonText(slides: Slide[], lessonTitle: string, subjectName?: string, parentNotes?: string | null): string {
+/** Extract key text from slides into a compact lesson summary */
+function buildLessonText(slides: Slide[], lessonTitle: string, subjectName?: string): string {
   const parts: string[] = [];
 
-  parts.push(`LESSON: ${lessonTitle}`);
-  if (subjectName) parts.push(`SUBJECT: ${subjectName}`);
-  if (parentNotes) parts.push(`\nPARENT NOTES:\n${parentNotes}`);
+  parts.push(`${lessonTitle}${subjectName ? ` (${subjectName})` : ''}`);
 
   for (const slide of slides) {
     switch (slide.type) {
-      case 'title':
-        parts.push(`\n--- ${slide.title} ---`);
-        if (slide.subtitle) parts.push(slide.subtitle);
-        break;
       case 'materials':
-        parts.push(`\nMATERIALS NEEDED:`);
-        for (const m of slide.materials) parts.push(`- ${m}`);
+        parts.push(`Materials: ${slide.materials.join(', ')}`);
         break;
       case 'instruction':
-        parts.push(`\nINSTRUCTION: ${slide.title}`);
-        parts.push(slide.content);
-        if (slide.demonstration_notes) parts.push(`(Demo note: ${slide.demonstration_notes})`);
+        parts.push(`Step: ${slide.title} - ${slide.content}`);
         break;
       case 'activity':
-        parts.push(`\nACTIVITY: ${slide.title}`);
-        parts.push(slide.instructions);
-        if (slide.duration_minutes) parts.push(`(Duration: ${slide.duration_minutes} minutes)`);
+        parts.push(`Activity: ${slide.title} - ${slide.instructions}`);
         break;
       case 'check_understanding':
-        parts.push(`\nCHECK UNDERSTANDING:`);
         for (let i = 0; i < slide.questions.length; i++) {
-          parts.push(`Q: ${slide.questions[i]}`);
-          if (slide.expected_responses[i]) parts.push(`Expected: ${slide.expected_responses[i]}`);
+          parts.push(`Q: ${slide.questions[i]}${slide.expected_responses[i] ? ` A: ${slide.expected_responses[i]}` : ''}`);
         }
         break;
       case 'wrap_up':
-        parts.push(`\nWRAP UP: ${slide.summary}`);
-        if (slide.next_steps) parts.push(`Next steps: ${slide.next_steps}`);
-        if (slide.extension_activities.length > 0) {
-          parts.push('Extension activities:');
-          for (const ea of slide.extension_activities) parts.push(`- ${ea}`);
-        }
+        parts.push(`Summary: ${slide.summary}`);
         break;
     }
   }
@@ -75,33 +57,25 @@ export default function ParentGuide({
   const handleAskClaude = useCallback(() => {
     if (!slides || !lessonTitle) return;
 
-    const lessonText = buildLessonText(slides, lessonTitle, subjectName, parentNotes);
+    const lessonText = buildLessonText(slides, lessonTitle, subjectName);
 
-    const prompt = `IMPORTANT: Please respond with plain text only. Do NOT create any documents, artifacts, code blocks, files, or formatted outputs. I am a non-technical parent reading this on my phone or laptop — just write me a clear, readable response in regular conversational text. Use simple numbered lists and short paragraphs. No markdown headers, no code, no special formatting.
+    const prompt = `Please respond with plain text only — no documents, artifacts, or code. Use **bold** for section titles. Keep it concise and practical. I'm a homeschool parent (not a trained teacher) preparing to teach this Montessori lesson to my child.
 
-I'm a homeschool parent using a Montessori curriculum app to teach my child. I'm about to do the lesson below and I want to make sure I understand it well enough to guide my child through it. I am NOT a trained Montessori teacher — I'm learning as I go. Please talk to me like a friendly, experienced Montessori mentor who is helping me prepare.
+Lesson: ${lessonText}
 
-Here is the lesson I'm about to teach:
+Please give me a short, helpful guide with these sections:
 
-${lessonText}
+**Why This Matters** — What is my child learning and why? One paragraph.
 
-Please walk me through everything I need to know to teach this lesson well. Specifically:
+**Setup** — How to prepare the workspace and materials. Quick bullet list.
 
-1. WHY THIS LESSON MATTERS - What skill or concept is my child building here? How does it fit into the bigger Montessori picture? Why did Montessori include this?
+**Teaching Script** — Walk me through it step by step. What should I say and do? Where should I pause and let my child try? Keep it brief and natural.
 
-2. HOW TO PREPARE - What should I set up before calling my child over? Should I practice the demonstration myself first? What kind of environment works best?
+**If My Child Struggles** — 2-3 common issues and what to say. Montessori style — guide, don't correct.
 
-3. WHAT TO SAY AND DO - Walk me through the lesson step by step. Give me the actual words I can say to my child. Tell me what to do with my hands during demonstrations. Tell me where to pause and let my child just watch, and where to invite them to try. Remember — in Montessori, we show more than we tell.
+**Signs of Mastery** — How do I know they got it vs need to repeat?
 
-4. ANSWERS AND WHAT SUCCESS LOOKS LIKE - For any questions in the lesson, what are the right answers? What does it look like when my child "gets it"? Be specific — not just "they understand" but what I should actually see them do. What does partial understanding look like vs full mastery?
-
-5. WHAT TO DO WHEN MY CHILD STRUGGLES - What are the most common mistakes kids make with this lesson? For each one, tell me what it looks like and what I should say or do. In Montessori we don't correct directly — how do I gently guide them? What if they get frustrated or lose interest?
-
-6. IS MY CHILD READY TO MOVE ON? - What are clear signs of mastery? What are signs we should repeat this lesson? How do I repeat it without making my child feel like they failed?
-
-7. FUN EXTENSIONS - A couple ways to make this more engaging, a follow-up activity for later in the day, and ways to connect this concept to everyday life (cooking, walks, play).
-
-Please keep your response warm, encouraging, and practical. Write it like you're talking to a friend who is new to Montessori and just wants to do a great job teaching their kid today.`;
+Keep it warm and encouraging, like a mentor helping a friend.`;
 
     // Open Claude.ai with the prompt pre-filled
     const url = `https://claude.ai/new?q=${encodeURIComponent(prompt)}`;
