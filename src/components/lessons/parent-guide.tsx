@@ -77,52 +77,31 @@ export default function ParentGuide({
 
     const lessonText = buildLessonText(slides, lessonTitle, subjectName, parentNotes);
 
-    const prompt = `I'm a homeschool parent using a Montessori curriculum. I'm about to teach the lesson below to my child and I need your help to make sure I understand it well enough to guide them effectively. I am NOT a trained Montessori teacher, so please assume I need everything explained clearly.
+    const prompt = `IMPORTANT: Please respond with plain text only. Do NOT create any documents, artifacts, code blocks, files, or formatted outputs. I am a non-technical parent reading this on my phone or laptop — just write me a clear, readable response in regular conversational text. Use simple numbered lists and short paragraphs. No markdown headers, no code, no special formatting.
 
-Here is the full lesson content:
+I'm a homeschool parent using a Montessori curriculum app to teach my child. I'm about to do the lesson below and I want to make sure I understand it well enough to guide my child through it. I am NOT a trained Montessori teacher — I'm learning as I go. Please talk to me like a friendly, experienced Montessori mentor who is helping me prepare.
+
+Here is the lesson I'm about to teach:
 
 ${lessonText}
 
-Please create a comprehensive Parent Teaching Guide with these sections:
+Please walk me through everything I need to know to teach this lesson well. Specifically:
 
-## 1. THE BIG PICTURE (Why This Lesson Matters)
-- What specific skill or concept is this lesson building?
-- How does this connect to what the child already knows and what comes next in the Montessori sequence?
-- What is the deeper Montessori purpose behind this activity (e.g., developing concentration, order, independence, fine motor control)?
+1. WHY THIS LESSON MATTERS - What skill or concept is my child building here? How does it fit into the bigger Montessori picture? Why did Montessori include this?
 
-## 2. BEFORE YOU START (Preparation Checklist)
-- Exactly how to set up the workspace and materials before calling the child over
-- What to practice or rehearse yourself first so the demonstration looks smooth
-- The ideal environment (quiet? music? clear table?) and any setup tips
+2. HOW TO PREPARE - What should I set up before calling my child over? Should I practice the demonstration myself first? What kind of environment works best?
 
-## 3. WORD-FOR-WORD TEACHING SCRIPT
-- For each instruction step, give me the exact words I should say to the child — written as natural, warm dialogue
-- Include the precise hand movements and gestures I should use during demonstration
-- Mark where I should PAUSE and let the child observe vs where I should invite them to try
-- In Montessori, the teacher speaks less and shows more — remind me where to stay quiet and just demonstrate
+3. WHAT TO SAY AND DO - Walk me through the lesson step by step. Give me the actual words I can say to my child. Tell me what to do with my hands during demonstrations. Tell me where to pause and let my child just watch, and where to invite them to try. Remember — in Montessori, we show more than we tell.
 
-## 4. ANSWER KEY & EXPECTED OUTCOMES
-- For every question in the lesson, give me the correct answer and how the child might phrase it at their level
-- What does a successful completion of each activity look like? Be specific (e.g., "they can pour without spilling more than a few drops" not just "they can pour")
-- What does partial understanding look like vs full mastery?
+4. ANSWERS AND WHAT SUCCESS LOOKS LIKE - For any questions in the lesson, what are the right answers? What does it look like when my child "gets it"? Be specific — not just "they understand" but what I should actually see them do. What does partial understanding look like vs full mastery?
 
-## 5. WHEN THINGS GO SIDEWAYS (Troubleshooting)
-- The 3-4 most common mistakes or struggles children have with THIS specific lesson
-- For each one: what it looks like, why it happens, and exactly what to say or do (Montessori approach — no correcting, guide them to self-discover)
-- What to do if the child gets frustrated, loses interest, or says "I can't do it"
-- What to do if the child races through without care or attention
+5. WHAT TO DO WHEN MY CHILD STRUGGLES - What are the most common mistakes kids make with this lesson? For each one, tell me what it looks like and what I should say or do. In Montessori we don't correct directly — how do I gently guide them? What if they get frustrated or lose interest?
 
-## 6. READINESS SIGNALS
-- Clear signs the child has mastered this and is ready to move on
-- Signs they need this lesson repeated (and how to re-present it so it feels fresh, not like failure)
-- How many times is normal to repeat before expecting mastery?
+6. IS MY CHILD READY TO MOVE ON? - What are clear signs of mastery? What are signs we should repeat this lesson? How do I repeat it without making my child feel like they failed?
 
-## 7. MAKE IT MAGICAL (Extension Ideas)
-- 2-3 ways to make this lesson more engaging or connect it to real life
-- A simple follow-up activity for later in the day that reinforces the same concept
-- How to casually reference this lesson's concept during everyday moments (cooking, walks, play)
+7. FUN EXTENSIONS - A couple ways to make this more engaging, a follow-up activity for later in the day, and ways to connect this concept to everyday life (cooking, walks, play).
 
-Please write this in a warm, encouraging tone — like a experienced Montessori mentor coaching a new homeschool parent. Use bullet points and clear headers so I can reference it quickly while teaching.`;
+Please keep your response warm, encouraging, and practical. Write it like you're talking to a friend who is new to Montessori and just wants to do a great job teaching their kid today.`;
 
     // Open Claude.ai with the prompt pre-filled
     const url = `https://claude.ai/new?q=${encodeURIComponent(prompt)}`;
