@@ -1,0 +1,416 @@
+[
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 24,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Editorial Writing: Fact-Based Persuasive Arguments with Evidence",
+    "description": "Students learn to construct compelling editorial arguments using factual evidence and logical reasoning. This lesson focuses on distinguishing opinion from fact and building persuasive cases for their class newspaper project.",
+    "instructions": [
+      "Review the difference between facts, opinions, and evidence-supported arguments with your child.",
+      "Have your child select a school or community issue they feel strongly about for their editorial topic.",
+      "Guide them through researching 3-4 credible sources to gather factual evidence supporting their position.",
+      "Help them organize their argument using the editorial structure: hook, position statement, evidence paragraphs, counterargument acknowledgment, and call to action.",
+      "Practice writing strong topic sentences that clearly state sub-arguments supported by evidence.",
+      "Review their draft for logical flow and encourage them to strengthen weak arguments with additional facts.",
+      "Have them practice reading their editorial aloud to check for clarity and persuasive impact.",
+      "Discuss how their editorial fits into the broader journalism project and newspaper layout."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Computer or tablet with internet access",
+      "Notebook for research notes",
+      "Editorial structure template",
+      "Local newspaper examples",
+      "Timer"
+    ],
+    "sort_order": 11,
+    "parent_notes": "This lesson embodies Montessori's emphasis on connecting learning to real-world applications and social responsibility. By writing editorials about issues they care about, students engage in meaningful work that develops both their writing skills and civic awareness. Encourage independence in research while providing guidance on evaluating source credibility. The editorial format naturally develops logical thinking and the ability to construct evidence-based arguments—essential skills for academic and life success.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Editorial Writing: Fact-Based Persuasive Arguments",
+          "subheading": "Building Strong Arguments with Evidence for Our Class Newspaper",
+          "mascot_explanation": "Hello, young journalists! Today we're diving into editorial writing, where you get to share your opinions BUT back them up with solid facts and evidence. Think of me as your fact-checking fox friend who'll help you build arguments that really persuade people!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Computer or tablet with internet access",
+            "Notebook for research notes",
+            "Editorial structure template",
+            "Local newspaper examples",
+            "Timer"
+          ],
+          "setup_instructions": "Set up your research station with your device ready for internet searching. Have your notebook open for taking notes, and keep the editorial examples nearby for reference throughout the lesson.",
+          "mascot_explanation": "Let's get your journalist workspace ready! You'll be doing some detective work today, gathering facts and evidence like a clever fox tracking down the truth. Having everything organized will help you focus on crafting a powerful editorial that could really make a difference in your community!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Choose a school or community issue you feel passionate about, such as lunch options, playground equipment, recycling programs, or local environmental concerns. Write your topic and explain in 2-3 sentences why this issue matters to you personally.",
+          "mascot_explanation": "Pick something that really fires you up! When you care deeply about an issue, your passion shows through in your writing and makes it much more convincing. Remember, the best editorials come from writers who genuinely want to see positive change happen."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Research your topic using at least three credible sources (school websites, local news, government sites, educational organizations). Take notes on key facts, statistics, and expert opinions that support your position, and note your sources for citations.",
+          "mascot_explanation": "Time to put on your detective hat and hunt for solid evidence! Just like I carefully gather information before making decisions, you need facts and expert opinions to make your editorial convincing. Remember to check that your sources are trustworthy and up-to-date!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your editorial following this structure: 1) Hook (interesting opening), 2) Clear position statement, 3) Three evidence-based paragraphs supporting your argument, 4) Brief acknowledgment of opposing views, 5) Strong call to action. Aim for 300-400 words total.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Now comes the exciting part - putting it all together! Follow the structure like a roadmap, and don't forget to make your opening grab the reader's attention. I love how editorials give you the power to influence positive change in your community through well-reasoned arguments!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Does your editorial have a clear position statement that readers can easily identify?",
+            "Have you included at least three pieces of factual evidence from credible sources to support your argument?",
+            "Does your call to action give readers specific steps they can take to address the issue?"
+          ],
+          "mascot_explanation": "Let's make sure your editorial has all the key ingredients for maximum persuasive power! These questions will help you spot any areas that need strengthening. A great editorial not only states opinions but gives readers the facts and motivation to take action!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Read your editorial aloud to check for flow and impact. Consider how it will fit into your class newspaper layout and what headline would best capture your argument. Save your work and be prepared to potentially revise based on peer feedback in future lessons.",
+          "mastery_check": "Student can write a structured editorial with clear position, factual evidence from credible sources, and actionable conclusion.",
+          "mascot_explanation": "Fantastic work, young editor! You've created a piece of writing that could actually influence people and create positive change. That's the real power of journalism - using words backed by facts to make the world a better place. I'm proud of the responsible journalist you're becoming!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 24,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Box Plot Construction: Analyzing Data Distribution with Quartiles",
+    "description": "Students learn to create and interpret box plots by finding quartiles, identifying outliers, and analyzing data distribution patterns. This lesson focuses on understanding how box plots reveal data spread and central tendencies.",
+    "instructions": [
+      "Review the concepts of median, quartiles, and range using a simple data set your child can manipulate physically.",
+      "Demonstrate how to order data from least to greatest and find the median (Q2), then find Q1 and Q3.",
+      "Show your child how to calculate the interquartile range (IQR) and identify potential outliers using the 1.5 × IQR rule.",
+      "Guide them through drawing their first box plot on graph paper, labeling all five key values (min, Q1, median, Q3, max).",
+      "Have them create box plots for 2-3 different data sets and compare the shapes and spreads.",
+      "Practice interpreting box plots by discussing what different shapes tell us about data distribution.",
+      "Connect box plots to real-world scenarios like test scores, sports statistics, or weather data.",
+      "Challenge them to create a box plot from a larger data set and explain what story the data tells."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Graph paper",
+      "Ruler",
+      "Calculator",
+      "Colored pencils or markers",
+      "Sample data sets handout",
+      "Small objects for hands-on sorting (beans, coins, etc.)"
+    ],
+    "sort_order": 12,
+    "parent_notes": "Box plots represent abstract statistical concepts that benefit greatly from hands-on manipulation and visual representation, core principles of Montessori education. Allow your child to physically sort and arrange data before moving to the abstract representation. The progression from concrete (sorting objects) to abstract (drawing box plots) follows Montessori's developmental approach. Encourage your child to see patterns and make connections between different data sets, fostering the mathematical mind that seeks order and relationships.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Box Plot Construction: Analyzing Data Distribution",
+          "subheading": "Using Quartiles to Understand How Data Spreads",
+          "mascot_explanation": "Hey there, data detectives! Today we're learning about box plots - they're like special maps that show us how data is spread out and clustered. Think of me as your guide helping you decode these fascinating data stories that are hiding in numbers!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Graph paper",
+            "Ruler",
+            "Calculator",
+            "Colored pencils or markers",
+            "Sample data sets handout",
+            "Small objects for hands-on sorting (beans, coins, etc.)"
+          ],
+          "setup_instructions": "Arrange your materials with graph paper in the center and small objects ready for sorting activities. Have your calculator nearby and colored pencils organized for creating clear, labeled box plots.",
+          "mascot_explanation": "Let's set up your data analysis station! We'll start with hands-on sorting using real objects before moving to drawing our box plots. Having everything organized will help you see the patterns more clearly - just like how I organize my den to find everything quickly!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Take this data set: [12, 15, 18, 22, 25, 28, 30, 35, 40, 45, 50]. First, verify it's in order from least to greatest, then find the median (Q2) by locating the middle value. With 11 values, the median is the 6th value.",
+          "mascot_explanation": "Finding the median is like finding the perfect balance point of your data! Since we have 11 numbers, the middle one (6th position) is our median. This becomes the center line of our box plot, showing us where the heart of our data lies."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Now find Q1 (the median of the lower half: 12, 15, 18, 22, 25) and Q3 (the median of the upper half: 30, 35, 40, 45, 50). Calculate the IQR (Interquartile Range) by subtracting Q1 from Q3. These quartiles will form the boundaries of your box.",
+          "mascot_explanation": "Think of quartiles as dividing your data into four equal groups, like splitting a pizza into four slices! Q1 and Q3 become the sides of our box, and the IQR tells us how spread out the middle 50% of our data is. The bigger the box, the more spread out the middle data!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create box plots for three different data sets: test scores [78, 82, 85, 88, 90, 92, 95, 96, 98], temperatures [45, 52, 58, 61, 67, 72, 75, 78, 81, 85], and ages [8, 12, 14, 16, 18, 25, 35, 42, 55, 68]. Compare the shapes and discuss what each box plot reveals about its data distribution.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Now for the fun part - creating your own box plots! Each data set will tell a different story through its shape and spread. Pay attention to how some boxes are wider or narrower, and how the whiskers extend differently - these details reveal fascinating patterns in the data!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you correctly identify all five key values (minimum, Q1, median, Q3, maximum) in a box plot?",
+            "Do you understand what the length of the box tells you about data spread in the middle 50%?",
+            "Can you explain what it means when one whisker is much longer than the other?"
+          ],
+          "mascot_explanation": "Let's make sure you've mastered reading these data stories! Box plots are like fingerprints - each one is unique and tells us something special about the data. Understanding these key concepts will help you become a skilled data detective who can uncover hidden patterns!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Practice interpreting your box plots by writing 2-3 sentences about what each one reveals about its data set's distribution, central tendency, and variability. Consider real-world contexts where box plots would be useful for comparing groups or tracking changes over time.",
+          "mastery_check": "Student can construct accurate box plots, identify quartiles, and interpret what the plot reveals about data distribution and spread.",
+          "mascot_explanation": "Excellent detective work! You've learned to transform numbers into visual stories that reveal important patterns about data. Box plots are incredibly powerful tools used by scientists, businesses, and researchers to understand the world around us. Keep practicing, and you'll become a master data storyteller!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "history",
+    "week_number": 24,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Space Race Achievements: Sputnik to Moon Landing Competition",
+    "description": "Students explore the major milestones of the Space Race between the US and Soviet Union, from early satellite launches to the Apollo moon landing. This lesson examines how Cold War competition drove rapid technological advancement.",
+    "instructions": [
+      "Create a timeline template spanning 1957-1969 and introduce the concept of the Space Race as Cold War competition.",
+      "Research and discuss Sputnik (1957) and its impact on American fears about Soviet technological superiority.",
+      "Explore key Soviet achievements: first human in space (Gagarin, 1961), first woman in space (Tereshkova, 1963), first spacewalk.",
+      "Examine American responses: NASA formation, Mercury and Gemini programs, Kennedy's moon landing pledge.",
+      "Analyze the Apollo program progression, focusing on Apollo 11's moon landing and its global significance.",
+      "Discuss the costs and benefits of the Space Race: technological innovations, scientific discoveries, national pride vs. enormous expense.",
+      "Connect Space Race technologies to modern innovations your child uses today (GPS, satellite communications, computer miniaturization).",
+      "Have your child evaluate whether the Space Race was worth the investment and competition involved."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Large timeline paper or poster board",
+      "Colored markers or pencils",
+      "Space Race achievement cards or handout",
+      "Calculator for budget comparisons",
+      "Access to video clips of moon landing"
+    ],
+    "sort_order": 13,
+    "parent_notes": "This lesson demonstrates how competition and human curiosity drive innovation and exploration, connecting to Montessori's emphasis on cosmic education and understanding humanity's role in the universe. Encourage your child to see the Space Race not just as political competition but as an example of human ingenuity and the desire to explore beyond our immediate environment. The lesson naturally integrates science, technology, economics, and international relations, showing how historical events affect multiple aspects of society.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Space Race Achievements: Sputnik to Moon Landing",
+          "subheading": "How Cold War Competition Launched Humanity to the Stars",
+          "mascot_explanation": "Welcome, future astronauts! Today we're blasting off to explore one of the most exciting competitions in history - the Space Race! Just like how I'm curious about exploring new territories, humans in the 1950s and 60s were determined to explore the final frontier of outer space."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Large timeline paper or poster board",
+            "Colored markers or pencils",
+            "Space Race achievement cards or handout",
+            "Calculator for budget comparisons",
+            "Access to video clips of moon landing"
+          ],
+          "setup_instructions": "Lay out your timeline paper horizontally and gather your colored markers. Have the achievement cards ready for sorting and your calculator nearby for comparing space program costs to today's spending.",
+          "mascot_explanation": "Let's prepare for our space exploration mission! We'll be creating a colorful timeline that shows how quickly humans went from launching tiny satellites to walking on the moon in just 12 years. It's amazing what determination and competition can achieve!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Create a timeline from 1957-1969 and mark October 4, 1957 - the launch of Sputnik 1, the first artificial satellite. Research why this basketball-sized Soviet satellite terrified Americans and sparked the Space Race. Consider how it related to Cold War fears about missile technology.",
+          "mascot_explanation": "Imagine the shock when people looked up and saw a Soviet satellite beeping overhead! Americans realized that if the Soviets could put something in orbit, they could potentially send missiles anywhere on Earth. This tiny satellite changed everything and kicked off the greatest exploration race in human history!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Add major Soviet space achievements to your timeline: Yuri Gagarin's first human spaceflight (1961), Valentina Tereshkova as first woman in space (1963), and Alexei Leonov's first spacewalk (1965). Research how these 'firsts' maintained Soviet leadership in the early Space Race.",
+          "mascot_explanation": "The Soviets were like the clever foxes of space exploration, achieving one amazing first after another! Each success showed the world their technological capabilities and kept America scrambling to catch up. These brave cosmonauts were true pioneers venturing into the complete unknown!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Research and add American space milestones to your timeline: NASA formation (1958), Alan Shepard's first American in space (1961), John Glenn's orbital flight (1962), and the progression through Mercury, Gemini, and Apollo programs leading to Apollo 11's moon landing (July 20, 1969). Calculate and compare the costs of both space programs.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now let's see how America responded to the Soviet challenge! The US went from being behind to achieving the ultimate prize - landing humans on the moon and bringing them home safely. It's incredible how competition pushed both nations to achieve things that seemed impossible just years before!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How did Cold War tensions drive the rapid pace of space exploration and technological development?",
+            "What were the costs and benefits of spending enormous amounts of money on space programs during the 1960s?",
+            "Which Space Race technologies do you still use in your daily life today (GPS, satellites, computers, etc.)?"
+          ],
+          "mascot_explanation": "Let's make sure you understand how this amazing competition changed our world! The Space Race shows us how human curiosity and rivalry can lead to incredible achievements that benefit everyone. It's fascinating how trying to reach the stars also improved life here on Earth!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect on whether the Space Race was worth the enormous cost and effort invested by both superpowers. Consider both the immediate achievements and the long-term benefits to science, technology, and human understanding of our place in the cosmos.",
+          "mastery_check": "Student can identify major Space Race milestones, explain how Cold War competition drove technological advancement, and evaluate the costs and benefits of space exploration.",
+          "mascot_explanation": "What an incredible journey we've taken from Sputnik to the moon! The Space Race shows us that when humans are determined to explore and discover, we can achieve amazing things. Those brave astronauts and cosmonauts opened up an entirely new frontier for all of humanity to explore and understand!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "geography",
+    "week_number": 24,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Carbon Footprint Mapping: Tracking Greenhouse Gas Sources Globally",
+    "description": "Students explore the geographic distribution of carbon emissions worldwide, examining how different countries, industries, and human activities contribute to global greenhouse gas production. This lesson connects local actions to global climate patterns.",
+    "instructions": [
+      "Introduce the concept of carbon footprint and greenhouse gases, explaining how human activities release CO2 and other gases into the atmosphere.",
+      "Use a world map to identify the top carbon-emitting countries and discuss why certain regions produce more emissions than others.",
+      "Explore different sources of carbon emissions: energy production, transportation, industry, agriculture, and deforestation by geographic region.",
+      "Have your child calculate their family's approximate carbon footprint using online calculators, focusing on transportation, energy use, and consumption patterns.",
+      "Map renewable energy adoption worldwide and identify geographic factors that favor solar, wind, hydroelectric, and other clean energy sources.",
+      "Research and discuss carbon offset programs and reforestation efforts, locating major projects on a world map.",
+      "Create an action plan for reducing your family's carbon footprint with specific, measurable goals.",
+      "Connect local environmental actions to global climate impact, emphasizing how individual choices aggregate to worldwide effects."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "World map or atlas",
+      "Colored pencils or markers",
+      "Computer or tablet with internet access",
+      "Calculator",
+      "Carbon footprint worksheet",
+      "Sticky notes for mapping"
+    ],
+    "sort_order": 14,
+    "parent_notes": "This lesson exemplifies Montessori's cosmic education by helping children understand their connection to global systems and their responsibility as global citizens. The geographic approach allows children to see patterns and relationships between human activity and environmental impact across different regions. Encourage your child to think critically about lifestyle choices while avoiding overwhelming them with climate anxiety. Focus on empowerment through knowledge and actionable steps they can take to make a positive difference.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Carbon Footprint Mapping: Tracking Greenhouse Gas Sources",
+          "subheading": "Understanding Global Patterns of Climate Impact",
+          "mascot_explanation": "Hello, eco-explorers! Today we're becoming climate detectives, tracking invisible greenhouse gases around our planet. Just like how I follow tracks through the forest, we'll follow carbon emissions across continents to understand how human activities affect our shared atmosphere!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World map or atlas",
+            "Colored pencils or markers",
+            "Computer or tablet with internet access",
+            "Calculator",
+            "Carbon footprint worksheet",
+            "Sticky notes for mapping"
+          ],
+          "setup_instructions": "Spread out your world map and organize colored markers by categories: red for high-emission areas, green for renewable energy regions, blue for ocean carbon absorption. Have your device ready for carbon footprint calculations.",
+          "mascot_explanation": "Let's set up our global carbon tracking station! We'll use different colors to show how carbon emissions vary around the world, just like how weather maps use colors to show temperature patterns. This visual approach will help us see the big picture of climate impact!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Research and mark the world's top 10 carbon-emitting countries on your map using red markers. Include China, United States, India, Russia, and Japan. Discuss why these countries produce the most emissions, considering factors like population size, industrial development, and energy sources.",
+          "mascot_explanation": "Let's identify the biggest carbon producers on our planet! It's important to understand that high emissions often come from countries with large populations or lots of industry - they're not necessarily being careless, but their size and development create more impact. Geography and development stage play huge roles!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Use different colored markers to identify major sources of carbon emissions by region: coal power plants in China and India, oil production in the Middle East, deforestation in Brazil and Indonesia, and transportation networks in developed countries. Create a map legend explaining your color system.",
+          "mascot_explanation": "Now we're becoming true carbon detectives! Each region of the world contributes to emissions in different ways based on their geography, resources, and economy. It's fascinating how the physical features of places - like forests, coal deposits, or sunny areas perfect for solar panels - affect their carbon impact!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Calculate your family's approximate annual carbon footprint using an online calculator, including transportation, home energy use, food choices, and consumption habits. Then research and map renewable energy success stories worldwide - mark countries leading in solar, wind, and hydroelectric power with green markers.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Time to investigate your own family's carbon trail! Don't worry - this isn't about feeling guilty, but about understanding how our daily choices connect to global patterns. Then we'll explore the exciting green energy solutions happening around the world - there's so much hope and innovation out there!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you explain why carbon emissions vary so dramatically between different countries and regions?",
+            "How do geographic factors like climate, natural resources, and terrain influence both emissions and renewable energy potential?",
+            "What's the connection between your family's daily choices and global carbon emissions patterns?"
+          ],
+          "mascot_explanation": "Let's make sure you understand these important global connections! Carbon emissions aren't random - they follow patterns based on geography, development, and human choices. Understanding these patterns helps us see where the biggest opportunities are for positive change around the world!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Create a family action plan with 3-5 specific steps to reduce your carbon footprint, such as energy conservation, transportation choices, or consumption changes. Research how your actions connect to global emission reduction goals and climate commitments by different countries.",
+          "mastery_check": "Student can identify global patterns of carbon emissions, explain geographic factors affecting climate impact, and connect personal actions to global environmental outcomes.",
+          "mascot_explanation": "Fantastic detective work! You've learned to see the invisible connections between daily life and global climate patterns. Remember, every positive action you take joins millions of others around the world working toward the same goal. You're part of a global community caring for our shared planet!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 24,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Brown Girl Dreaming: Poetry as Memory and Identity Formation",
+    "description": "Students explore how Jacqueline Woodson uses poetic language and structure to convey childhood memories and the development of racial and cultural identity. This lesson focuses on analyzing specific poems that show the intersection of personal and historical experience.",
+    "instructions": [
+      "Read aloud 3-4 selected poems from Brown Girl Dreaming that focus on identity and belonging, such as 'second daughter's second day on earth' or 'the woodsons of ohio.'",
+      "Discuss how Woodson uses specific details and sensory language to bring memories to life through poetry.",
+      "Explore how the author weaves historical context (Civil Rights era) into personal family stories and childhood experiences.",
+      "Analyze how verse structure, line breaks, and spacing affect the rhythm and meaning of the poems.",
+      "Have your child identify moments where Woodson shows rather than tells about experiences of racism, family love, or cultural pride.",
+      "Discuss how the author presents complex themes like discrimination and identity in age-appropriate ways through poetry.",
+      "Connect Woodson's experience as a young Black girl in the 1960s-70s to broader themes of identity formation and belonging.",
+      "Encourage your child to reflect on their own identity formation and what childhood memories might be meaningful to preserve in poetry."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Brown Girl Dreaming by Jacqueline Woodson",
+      "Notebook for poetry analysis notes",
+      "Highlighters or colored pens",
+      "Family photos or memory objects for inspiration",
+      "Poetry analysis chart"
+    ],
+    "sort_order": 15,
+    "parent_notes": "This memoir in verse provides an excellent opportunity to discuss identity, belonging, and historical context in an age-appropriate way. Woodson's poetic approach makes complex themes accessible while maintaining emotional authenticity. Use this as an opportunity to discuss your own family's history and cultural identity with your child. The Montessori approach values helping children understand their place in the world and their cultural heritage, making this book particularly valuable for developing cultural awareness and empathy.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Brown Girl Dreaming: Poetry as Memory and Identity",
+          "subheading": "How Jacqueline Woodson Uses Verse to Tell Her Life Story",
+          "mascot_explanation": "Welcome, young poets and storytellers! Today we're diving into a beautiful memoir written entirely in poems. Just like how I remember special moments in my fox adventures, Jacqueline Woodson captures her childhood memories through the magic of poetry, showing us how words can paint pictures of our lives!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Brown Girl Dreaming by Jacqueline Woodson",
+            "Notebook for poetry analysis notes",
+            "Highlighters or colored pens",
+            "Family photos or memory objects for inspiration",
+            "Poetry analysis chart"
+          ],
+          "setup_instructions": "Have the book open to today's selected poems with your notebook ready for jotting down observations. Keep highlighters nearby for marking powerful phrases and your family photos within reach for making personal connections.",
+          "mascot_explanation": "Let's set up our poetry exploration space! We'll be like memory collectors today, noticing how Woodson turns ordinary childhood moments into extraordinary poems. Having your own family memories nearby will help you connect with her experiences and understand how everyone's story matters!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Listen as we read 'second daughter's second day on earth' and discuss how Woodson immediately establishes her identity and place in history (born in Ohio, February 12, 1963). Notice how she connects her personal birth story to the larger Civil Rights movement happening at the same time.",
+          "mascot_explanation": "What a powerful way to start a life story! Woodson shows us right from the beginning that she's not just telling personal stories, but showing how her life fits into the bigger picture of American history. Every person's story connects to the larger world around them!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Analyze how Woodson uses poetic techniques like line breaks, spacing, and specific word choices to create rhythm and emphasis. Look at poems like 'the woodsons of ohio' to see how she uses verse structure to control how we read and feel the story.",
+          "mascot_explanation": "Poetry is like music made of words! Notice how Woodson doesn't just tell us facts, but uses the shape and sound of her poems to make us feel the emotions and rhythms of memory. Those line breaks aren't accidents - they guide us through her thoughts and feelings!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Read and analyze 2-3 additional poems that show Woodson's developing sense of identity and belonging, such as 'brooklyn rain' or 'gifted.' Create a chart tracking how she shows (rather than tells) her experiences with family love, cultural pride, and encounters with discrimination. Note specific examples of sensory details and imagery.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now you're becoming poetry detectives! Look for those moments where Woodson makes you see, hear, or feel her memories rather than just reading about them. Great poets like her know that the best way to share an experience is to help readers

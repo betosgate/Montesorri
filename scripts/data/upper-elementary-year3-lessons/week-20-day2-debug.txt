@@ -1,0 +1,428 @@
+[
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 20,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Journalism Project: Writing Interview Questions for Community Leaders",
+    "description": "Students learn to craft effective interview questions for their journalism project by exploring open-ended vs. closed questions and sequencing techniques. This lesson focuses on preparing for interviews with local community members for their class newspaper or blog.",
+    "instructions": [
+      "Review the difference between open-ended and closed questions using the provided examples.",
+      "Help your child brainstorm 3-5 potential interview subjects from your community (local business owner, teacher, volunteer, etc.).",
+      "Guide them through creating 8-10 interview questions using the question stem handout.",
+      "Practice role-playing an interview with your child, taking turns as interviewer and subject.",
+      "Have them sequence their questions from general to specific, saving sensitive topics for later.",
+      "Review active listening techniques and note-taking strategies for capturing quotes.",
+      "Help them contact one potential interview subject to schedule a real interview for next week.",
+      "Encourage them to prepare follow-up questions based on anticipated responses."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Interview question worksheet",
+      "Notebook or paper for practice",
+      "Sample interview transcript",
+      "Contact information for potential interview subjects",
+      "Timer"
+    ],
+    "sort_order": 6,
+    "parent_notes": "This lesson develops critical thinking and communication skills essential for young journalists. Following Montessori principles, we connect learning to the real community, making the work meaningful and practical. Encourage your child to choose interview subjects they're genuinely curious about, as intrinsic motivation leads to better questions and engagement. The hands-on practice of role-playing interviews builds confidence before the real experience.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Journalism Project: Writing Interview Questions for Community Leaders",
+          "subheading": "Learning to ask the right questions at the right time",
+          "mascot_explanation": "Hey there, future journalist! Today I'm going to help you become a master question-asker. Great journalists know that the best stories come from asking thoughtful, well-planned questions that help people share their most interesting experiences and insights."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Interview question worksheet",
+            "Notebook or paper for practice",
+            "Sample interview transcript",
+            "Contact information for potential interview subjects",
+            "Timer"
+          ],
+          "setup_instructions": "Set up a quiet workspace where you can practice interviewing. Have your materials ready and think about who in your community you'd like to interview for your journalism project.",
+          "mascot_explanation": "Let's gather everything we need to become interview experts! These materials will help you practice the art of asking great questions. Remember, good preparation leads to amazing conversations and stories."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Study the difference between open-ended questions (that invite detailed answers) and closed questions (yes/no or short answers). Practice converting closed questions into open-ended ones using question stems like 'How did...?', 'What was it like when...?', 'Can you describe...?'",
+          "mascot_explanation": "Think of questions like doors - closed questions are like narrow doors that only let short answers through, while open-ended questions are like wide doors that let full stories flow out! The magic happens when people feel invited to share their experiences in detail."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Brainstorm potential interview subjects in your community and choose one person you're genuinely curious about. Research their background and role to create informed questions. Develop 8-10 questions that progress from general ('Tell me about your work') to specific ('What was your biggest challenge last year?').",
+          "mascot_explanation": "The best interviews happen when you're truly interested in learning about someone! When you research your subject first, you can ask questions that go beyond the basics and really get to the heart of their story."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice conducting a mock interview with a family member or parent, taking turns as interviewer and subject. Focus on asking follow-up questions based on their answers, taking notes to capture exact quotes, and maintaining eye contact while listening actively. Time yourself to practice managing a 10-15 minute conversation.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now for the fun part - practice time! Don't worry if it feels awkward at first; even professional journalists practice their interviewing skills. Pay attention to how good follow-up questions can lead to the most interesting stories and surprising details."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you explain the difference between an open-ended and closed question and give examples of each?",
+            "How do you sequence interview questions to build rapport and get the best information?",
+            "What active listening techniques help you ask better follow-up questions during an interview?"
+          ],
+          "mascot_explanation": "Let's make sure you've mastered the art of great interviewing! These questions will help you reflect on what makes interviews successful. Remember, the goal is to help people tell their stories in their own words."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you've learned to craft interview questions that invite detailed, interesting responses from community members. You've practiced sequencing questions, active listening, and note-taking skills that will help you gather compelling quotes and stories for your journalism project.",
+          "mastery_check": "Student can create 8-10 well-sequenced interview questions, demonstrate the difference between open and closed questions, and successfully conduct a practice interview using active listening techniques.",
+          "mascot_explanation": "Congratulations, you're well on your way to becoming a skilled interviewer! Remember, great journalism starts with genuine curiosity about people and their stories. Your community is full of fascinating people with amazing experiences to share - and now you know how to help them tell those stories."
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 20,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Box Plot Construction: Analyzing Sports Statistics Data Sets",
+    "description": "Students learn to construct and interpret box plots using real sports statistics data, focusing on finding quartiles and identifying outliers. This lesson connects statistical analysis to athletic performance data that students find engaging and relevant.",
+    "instructions": [
+      "Review the five-number summary concept (minimum, Q1, median, Q2, maximum) using the sports data provided.",
+      "Help your child organize the basketball scoring data from least to greatest and find the median.",
+      "Guide them through finding Q1 (median of lower half) and Q3 (median of upper half) step by step.",
+      "Show them how to construct a box plot using graph paper, marking the five key points and drawing the box and whiskers.",
+      "Teach them to identify outliers using the 1.5 × IQR rule and mark them as separate points.",
+      "Compare two different data sets by creating side-by-side box plots.",
+      "Have them interpret what the box plot reveals about the data's distribution and variability.",
+      "Connect the analysis to real-world applications in sports performance evaluation."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Graph paper",
+      "Sports statistics data sheets",
+      "Ruler",
+      "Calculator",
+      "Colored pencils or markers"
+    ],
+    "sort_order": 7,
+    "parent_notes": "Box plots help students visualize data distribution in a concrete way that builds statistical reasoning skills. This Montessori approach uses real, meaningful data that connects to students' interests in sports and competition. Take time to let your child discover patterns in the data before explaining the mathematical procedures. The visual nature of box plots makes abstract statistical concepts more concrete and understandable for this age group.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Box Plot Construction: Analyzing Sports Statistics Data Sets",
+          "subheading": "Visualizing data distribution through quartiles and outliers",
+          "mascot_explanation": "Ready to become a sports statistician? Today we're going to learn how to create box plots using real basketball and soccer data! Box plots are like data portraits that show us the whole story of how numbers are spread out, from the lowest scores to the highest."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Graph paper",
+            "Sports statistics data sheets",
+            "Ruler",
+            "Calculator",
+            "Colored pencils or markers"
+          ],
+          "setup_instructions": "Organize your workspace with graph paper and ruler ready for drawing. Have the sports data sheets visible and your calculator handy for finding quartiles and checking outliers.",
+          "mascot_explanation": "Let's get our data analysis toolkit ready! We'll be working with real numbers from basketball games and soccer matches. The graph paper will help us create neat, accurate box plots that clearly show the data patterns."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Start with the basketball scoring data and arrange the numbers from least to greatest. Find the median (middle value) by locating the center of your ordered data set. If you have an even number of values, the median is the average of the two middle numbers.",
+          "mascot_explanation": "Ordering data is like lining up players by height - it helps us see the pattern! Finding the median is like finding the player right in the middle of the line. This middle value will be the center line of our box plot."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Find Q1 (first quartile) by finding the median of the lower half of your data, and Q3 (third quartile) by finding the median of the upper half. Mark the minimum value, Q1, median, Q3, and maximum value - these five numbers are your 'five-number summary' that will create your box plot.",
+          "mascot_explanation": "Think of quartiles as dividing your data into four equal teams! Q1 shows where the bottom 25% ends, the median shows the halfway point, and Q3 shows where the top 25% begins. These five special numbers tell the complete story of your data."
+        },
+        {
+          "type": "activity",
+          "prompt": "Using graph paper, construct a box plot for the basketball data by drawing a number line, marking your five-number summary points, drawing a box from Q1 to Q3 with a line at the median, and extending whiskers to the minimum and maximum. Check for outliers using the 1.5 × IQR rule and mark any outliers as separate dots. Then create a second box plot for the soccer data and compare the two distributions.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now for the artistic part of statistics! You're creating a visual story of the data that anyone can read at a glance. Take your time making clean, clear drawings - a good box plot should show the data's personality, whether it's spread out evenly or has some extreme values that stand out."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify and calculate the five-number summary for any given data set?",
+            "How do you determine if a data point is an outlier using the 1.5 × IQR rule?",
+            "What can you tell about a data set's distribution by looking at its box plot shape and whisker lengths?"
+          ],
+          "mascot_explanation": "Let's see how well you understand the language of box plots! These questions will help you think about what box plots reveal about data patterns. Remember, each part of the box plot tells us something important about how the data behaves."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've successfully learned to construct box plots using real sports data, finding quartiles and identifying outliers through the five-number summary method. Box plots provide a powerful visual tool for comparing data sets and understanding distribution patterns in statistics.",
+          "mastery_check": "Student can correctly calculate a five-number summary, construct an accurate box plot with proper scaling, identify outliers using the 1.5 × IQR rule, and interpret what the box plot reveals about data distribution.",
+          "mascot_explanation": "Fantastic work, data detective! You now know how to turn a bunch of numbers into a clear picture that tells a story. Box plots are used everywhere - from analyzing test scores to studying weather patterns to evaluating athlete performance. You've got a powerful new tool for understanding the world through data!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "science",
+    "week_number": 20,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Chemical Reactions: Observing Reactants Transform into Products",
+    "description": "Students conduct safe chemical reaction experiments to observe how reactants combine and transform into products with different properties. This hands-on lesson introduces the concept of conservation of mass during chemical changes using household materials.",
+    "instructions": [
+      "Set up the workspace with safety equipment and review lab safety rules for chemical experiments.",
+      "Demonstrate the baking soda and vinegar reaction, having your child observe and record the properties of reactants before mixing.",
+      "Guide them through measuring equal amounts of reactants and predicting what might happen during the reaction.",
+      "Conduct the experiment while your child records observations about color changes, gas production, temperature, and other evidence of chemical change.",
+      "Introduce the concept that atoms are rearranged but not destroyed - the same atoms exist before and after, just in new combinations.",
+      "Try a second reaction using Epsom salt and ammonia (or alternative safe reactions) to compare different types of chemical changes.",
+      "Help them identify the reactants and products in each experiment and discuss how properties changed.",
+      "Connect the observations to real-world chemical reactions like cooking, digestion, and photosynthesis."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Baking soda",
+      "White vinegar",
+      "Measuring cups and spoons",
+      "Safety goggles",
+      "Observation recording sheet",
+      "Clear containers for mixing"
+    ],
+    "sort_order": 8,
+    "parent_notes": "This lesson introduces fundamental chemistry concepts through direct observation and experimentation, following Montessori principles of hands-on discovery. Safety is paramount - ensure proper ventilation and supervise all mixing activities. Encourage your child to make detailed observations before explaining the science, allowing them to notice patterns and draw conclusions from evidence. The concrete experience of watching reactants transform builds understanding of abstract atomic concepts.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Chemical Reactions: Observing Reactants Transform into Products",
+          "subheading": "Discovering how substances change at the atomic level",
+          "mascot_explanation": "Get ready to be a chemistry detective! Today we're going to watch atoms do an amazing dance where they break apart from their old partners and find new ones, creating completely different substances with new properties. It's like molecular musical chairs!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Baking soda",
+            "White vinegar",
+            "Measuring cups and spoons",
+            "Safety goggles",
+            "Observation recording sheet",
+            "Clear containers for mixing"
+          ],
+          "setup_instructions": "Set up in a well-ventilated area, preferably near a sink. Put on safety goggles and have towels ready for cleanup. Arrange materials so you can measure carefully and observe changes clearly.",
+          "mascot_explanation": "Safety first in our chemistry lab! These simple household materials are going to show us some amazing chemical transformations. Having clear containers helps us see exactly what's happening when atoms rearrange themselves into new substances."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Before mixing anything, carefully observe and record the properties of your reactants: baking soda (sodium bicarbonate) and vinegar (acetic acid). Note their color, texture, smell, and physical state. Make predictions about what you think might happen when they combine.",
+          "mascot_explanation": "Being a good scientist means noticing everything about your starting materials! These observations will help you recognize the amazing changes that happen when atoms rearrange. Your predictions show scientific thinking, even if they turn out differently than expected."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Measure 2 tablespoons of baking soda into a clear container. Slowly add 1/4 cup of vinegar while observing carefully. Record everything you notice: bubbling, color changes, temperature changes, new smells, or any other evidence that a chemical reaction is occurring.",
+          "mascot_explanation": "This is where the magic happens! Watch closely as the atoms in baking soda and vinegar break their old bonds and form new ones. The bubbles you see are actually carbon dioxide gas - a completely new product that wasn't there before the atoms rearranged!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Conduct the baking soda and vinegar reaction while making detailed observations. Record the properties of the products formed and compare them to your original reactants. Try to identify what evidence proves a chemical change occurred rather than just a physical change. Discuss why the same atoms exist before and after, just in new arrangements (conservation of mass).",
+          "duration_minutes": 25,
+          "mascot_explanation": "You're witnessing atoms doing their incredible rearrangement dance! The fizzing, temperature change, and new substances prove that chemical bonds broke and reformed. Even though everything looks different now, the same number of atoms are still there - they just found new partners to bond with."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What evidence showed you that a chemical reaction occurred rather than just a physical change?",
+            "How can the same atoms create products with completely different properties than the reactants?",
+            "Why do we say mass is conserved even when the products look and behave differently than the reactants?"
+          ],
+          "mascot_explanation": "Let's make sure you understand the amazing science behind what you just observed! These questions help you think about the difference between atoms just moving around versus actually breaking and forming new chemical bonds. Understanding this difference is key to chemistry!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've successfully observed a chemical reaction where reactants (baking soda and vinegar) combined to form products (carbon dioxide gas, water, and sodium acetate) with completely different properties. You've learned that while atoms rearrange during chemical reactions, they are conserved - no atoms are created or destroyed.",
+          "mastery_check": "Student can identify evidence of chemical change, distinguish reactants from products, explain that atoms are rearranged but conserved during reactions, and connect observations to the concept that new substances form with different properties.",
+          "mascot_explanation": "Congratulations, chemistry explorer! You've discovered one of the most important ideas in science - that all matter is made of atoms that can break old bonds and form new ones to create different substances. This same process happens when you bake cookies, digest food, or even when plants make their own food through photosynthesis!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "culture",
+    "week_number": 20,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Cold War Geography: Mapping the Iron Curtain and Divided Cities",
+    "description": "Students explore the geographical impact of the Cold War by mapping the Iron Curtain boundary and examining how political divisions physically separated communities. This lesson focuses on understanding how ideology can reshape physical and human geography.",
+    "instructions": [
+      "Begin by locating Europe on a world map and reviewing the post-WWII division between Western and Eastern blocs.",
+      "Help your child trace the Iron Curtain boundary from the Baltic Sea to the Adriatic Sea, identifying countries on each side.",
+      "Examine detailed maps of divided cities like Berlin, showing how walls and barriers separated neighborhoods and families.",
+      "Research and map three specific border crossings, discussing the experiences of people trying to cross between East and West.",
+      "Compare the economic and social development on both sides of the Iron Curtain using photos and statistics from the era.",
+      "Create a timeline showing key Cold War events and their geographic consequences (Berlin Wall construction, Hungarian Revolution, etc.).",
+      "Discuss how the fall of the Berlin Wall in 1989 began to reunite divided communities and countries.",
+      "Connect this historical example to current global issues where political divisions affect geography and communities."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "World map and detailed map of Europe",
+      "Cold War timeline worksheet",
+      "Photos of divided Berlin and other border areas",
+      "Colored pencils or markers",
+      "Ruler for map work"
+    ],
+    "sort_order": 9,
+    "parent_notes": "This lesson helps students understand how political ideologies can have profound geographical consequences, dividing communities and reshaping landscapes. Following Montessori principles, we begin with the concrete experience of mapping and visual evidence before discussing abstract concepts about political systems. Encourage your child to think about how geography affects people's daily lives, not just political boundaries. This topic connects to current events and helps develop global awareness and empathy.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Cold War Geography: Mapping the Iron Curtain and Divided Cities",
+          "subheading": "How political divisions reshaped the map of Europe",
+          "mascot_explanation": "Today we're going to explore one of the most dramatic examples of how politics can literally divide the world! The Iron Curtain wasn't made of actual iron, but it was a very real barrier that split Europe in half and separated millions of families and communities for decades."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World map and detailed map of Europe",
+            "Cold War timeline worksheet",
+            "Photos of divided Berlin and other border areas",
+            "Colored pencils or markers",
+            "Ruler for map work"
+          ],
+          "setup_instructions": "Spread out your maps on a large workspace where you can trace boundaries and mark important locations. Have photos ready to compare life on both sides of the Iron Curtain.",
+          "mascot_explanation": "We'll be doing some serious geographic detective work today! These maps and photos will help us understand how an invisible political line became a very visible barrier that changed how people lived, worked, and even visited their own family members."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Using your map of Europe, trace the Iron Curtain boundary that separated Western Europe (democratic countries) from Eastern Europe (communist countries controlled by the Soviet Union). Start from the Baltic Sea in the north and follow the line south to the Adriatic Sea, marking major countries on each side.",
+          "mascot_explanation": "Imagine drawing a line that suddenly made it nearly impossible for people to travel from one side to the other! This invisible political boundary became very real with walls, fences, guards, and checkpoints that divided not just countries, but cities, neighborhoods, and even families."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Focus on Berlin, Germany's capital, which was uniquely divided into East Berlin (communist) and West Berlin (democratic) with a physical wall running through the middle. Study photos of the Berlin Wall and checkpoint areas, noting how this division affected people's daily lives, work, and family relationships.",
+          "mascot_explanation": "Berlin was like a city with a giant fence running right down the middle! Families who lived on different sides couldn't visit each other, people couldn't go to their jobs if they were on the wrong side, and the city that was once connected became two separate worlds with very different ways of life."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a detailed map showing the Iron Curtain division, marking at least 6 countries on each side and identifying 3 major divided cities. Research and write brief descriptions of what life was like on both sides, comparing economic conditions, travel freedoms, and daily life experiences. Include information about famous escape attempts and border crossing stories.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now you get to be both a cartographer and a historian! Your map will tell the story of how political ideas created real physical barriers. The stories of people trying to cross the Iron Curtain show incredible courage and the human desire for freedom and family connection."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What countries and regions were separated by the Iron Curtain, and how did this division affect trade and communication?",
+            "How did the physical barriers in divided cities like Berlin impact the daily lives of ordinary people?",
+            "What were some of the key differences between life in Western Europe versus Eastern Europe during the Cold War?"
+          ],
+          "mascot_explanation": "These questions help you think about how geography and politics connect in real ways that affect people's lives! Understanding this history helps us appreciate the freedoms we have today and think critically about how political decisions can have long-lasting geographic consequences."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've learned how the Cold War created one of history's most significant geographical divisions, splitting Europe with the Iron Curtain and dividing cities like Berlin. This lesson shows how political ideologies can reshape physical geography and dramatically impact human communities and relationships.",
+          "mastery_check": "Student can accurately map the Iron Curtain boundary, identify major divided countries and cities, explain how political divisions affected daily life, and connect this historical example to broader concepts about geography and politics.",
+          "mascot_explanation": "What an incredible journey through Cold War geography! You've seen how political disagreements can literally reshape maps and divide communities. Remember this lesson when you hear about current events - geography and politics are always connected, and understanding both helps us make sense of our complex world."
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 20,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Brown Girl Dreaming: Identity Formation Through Geographic Movement",
+    "description": "Students explore how Jacqueline Woodson's childhood moves between Ohio, South Carolina, and New York shaped her developing sense of identity and belonging. This lesson examines how place and movement influence personal growth and cultural identity formation.",
+    "instructions": [
+      "Read the selected poems about Jacqueline's moves between different states and her feelings about each place.",
+      "Help your child create a map showing Jacqueline's geographic journey and the different family connections in each location.",
+      "Discuss how each place (Ohio, South Carolina, New York) offered different aspects of identity and belonging for young Jacqueline.",
+      "Explore the theme of 'home' - how Jacqueline defines home and how it changes throughout her childhood.",
+      "Compare Jacqueline's experience of moving to your child's own experiences with different places or communities they've known.",
+      "Analyze specific poems that show how place influences identity, particularly the contrast between rural South and urban North.",
+      "Discuss how poetry captures feelings about place and belonging that might be hard to express in regular prose.",
+      "Connect Jacqueline's story to broader themes about how geography, family, and culture shape who we become."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Brown Girl Dreaming book",
+      "Map of the United States",
+      "Journal or notebook",
+      "Colored pencils or markers",
+      "Sticky notes for marking passages"
+    ],
+    "sort_order": 10,
+    "parent_notes": "This lesson connects literature to geography and identity development in ways that resonate with young adolescents exploring their own sense of place and belonging. Woodson's poetry provides a model for how children can process complex feelings about home, family, and identity. Encourage your child to share their own experiences with different places and how location has influenced their sense of self. The geographic movement in the book offers opportunities to discuss how place shapes culture, opportunity, and belonging.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Brown Girl Dreaming: Identity Formation Through Geographic Movement",
+          "subheading": "How place and movement shape who we become",
+          "mascot_explanation": "Today we're going on a journey with young Jacqueline Woodson as she moves between Ohio, South Carolina, and New York, discovering how each place helps shape who she becomes. We'll explore how geography isn't just about maps - it's about belonging, identity, and finding your place in the world."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Brown Girl Dreaming book",
+            "Map of the United States",
+            "Journal or notebook",
+            "Colored pencils or markers",
+            "Sticky notes for marking passages"
+          ],
+          "setup_instructions": "Have your map spread out so you can trace Jacqueline's journey between states. Keep your journal ready for recording thoughts about identity and place, and use sticky notes to mark powerful poems that speak to you.",
+          "mascot_explanation": "We're going to be literary travelers today, following Jacqueline's path and thinking deeply about how different places feel like home in different ways. Your journal will capture your own thoughts about place and belonging as we explore her beautiful poetry."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read the poems about Jacqueline's early childhood in Ohio and her family's move to South Carolina. On your map, mark these locations and note what each place means to her family - Ohio as her birthplace, South Carolina as her mother's childhood home and connection to extended family and culture.",
+          "mascot_explanation": "Notice how Jacqueline's feelings about each place are tied to the people and memories there! Ohio represents her beginning, while South Carolina connects her to deep family roots and southern culture. Each location holds different pieces of her developing identity."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Focus on the poems describing South Carolina and how Jacqueline experiences both belonging and difference there. Pay attention to how she describes the landscape, the pace of life, her relationship with her grandparents, and her growing awareness of racial history and civil rights in the South.",
+          "mascot_explanation": "South Carolina becomes a place where Jacqueline discovers important parts of her heritage and identity, but also where she learns about difficult histories. Notice how Woodson uses poetry to capture complex feelings - love for family and place mixed with awareness of injustice and struggle."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a journey map of Jacqueline's geographic and emotional travels, marking each significant location and writing brief descriptions of what each place contributed to her identity formation. Include quotes from specific poems that capture her feelings about each location. Reflect on your own experiences with different places and how they've influenced who you are.",
+          "duration_minutes": 25,
+          "mascot_explanation": "You're creating a visual story of how place shapes identity! Think about how each location offered Jacqueline different gifts - family connections, cultural roots, new experiences, challenges to grow from. Your own reflection helps you understand how geography shapes all of us."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does each geographic location (Ohio, South Carolina, New York) contribute differently to Jacqueline's developing sense of identity?",
+            "What role does family history and cultural connection play in making a place feel like 'home' for Jacqueline?",
+            "How does Woodson use poetry to capture complex feelings about place, belonging, and identity that might be difficult to express in other ways?"
+          ],
+          "mascot_explanation": "These questions help you think deeply about the connections between place, family, culture, and identity that make this memoir so powerful. Understanding how Jacqueline navigates these complex feelings can help you think about your own relationship with place and belonging."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Through Jacqueline Woodson's geographic and emotional journey, you've explored how movement between places contributes to identity formation, cultural understanding, and personal growth. Her poetry demonstrates how each location offers different gifts and challenges that help shape who we become.",
+          "mastery_check":

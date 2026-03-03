@@ -1,0 +1,427 @@
+[
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Feature Article Writing: Conducting Background Research and Fact-Checking",
+    "description": "Students learn essential journalism skills by conducting thorough background research for their feature articles. This lesson focuses on verifying facts, gathering multiple perspectives, and building credibility through reliable sources.",
+    "instructions": [
+      "Set up research stations with various materials and ensure internet access is available for supervised research.",
+      "Begin by reviewing the difference between feature articles and news articles, emphasizing the importance of accuracy in both.",
+      "Demonstrate fact-checking techniques using a sample article with intentional errors for students to identify.",
+      "Guide students through creating a research plan for their chosen feature article topic, including primary and secondary source identification.",
+      "Have students practice the 'five W's and H' questioning technique to ensure comprehensive coverage of their topic.",
+      "Support students as they begin gathering and organizing their research using a structured note-taking system.",
+      "Conclude with students presenting one verified fact they discovered and explaining their verification process.",
+      "Assign students to continue their research and bring three verified facts with sources to the next journalism session."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Sample newspaper or magazine articles",
+      "Research planning worksheets",
+      "Access to computer or tablet for research",
+      "Fact-checking checklist",
+      "Notebooks or research journals"
+    ],
+    "sort_order": 11,
+    "parent_notes": "This lesson embodies the Montessori principle of connecting learning to real-world applications. By engaging in authentic journalism practices, students develop critical thinking skills and learn to question and verify information—essential skills in our digital age. Encourage your child to approach their research with curiosity and skepticism, always asking 'How do I know this is true?' The collaborative nature of journalism also supports the Montessori emphasis on community and communication.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Feature Article Writing: Background Research and Fact-Checking",
+          "subheading": "Becoming Detective Journalists",
+          "mascot_explanation": "Hey there, future journalists! I'm Finn Fox, and today we're going to become detective journalists, learning how to dig deep and verify the facts for amazing feature articles. Just like how I investigate interesting scents in the forest, you'll learn to investigate information to make sure it's absolutely true!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sample newspaper or magazine articles",
+            "Research planning worksheets", 
+            "Access to computer or tablet for research",
+            "Fact-checking checklist",
+            "Notebooks or research journals"
+          ],
+          "setup_instructions": "Arrange materials at workstations with easy access to research tools. Have sample articles ready for analysis and ensure internet access is supervised and appropriate for research purposes.",
+          "mascot_explanation": "Look at all these fantastic tools we have for our journalism investigation! These materials will help you become a fact-finding expert, just like how I use my sharp senses to explore and understand my surroundings. Let's get everything organized so we can dive into some serious research work!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the characteristics of feature articles versus news articles, focusing on how both require absolute accuracy and thorough research to build reader trust.",
+          "mascot_explanation": "Understanding different types of articles is like knowing the difference between tracking a rabbit versus following a deer trail - each requires different approaches! Feature articles let us explore topics more deeply, but they still need to be completely accurate and trustworthy."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Practice fact-checking skills by examining sample articles with intentional errors, learning to identify questionable claims and verify information through multiple sources.",
+          "mascot_explanation": "This is where we become information detectives! Just like how I double-check suspicious sounds in the forest, we need to double-check every fact in our articles. Learning to spot errors and verify information will make you a super reliable journalist!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a detailed research plan for your feature article topic, identifying at least three primary sources and three secondary sources you will use. Use the five W's and H (Who, What, When, Where, Why, How) to ensure comprehensive coverage of your topic.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now it's time to map out your research adventure! Creating a solid plan is like charting the best path through the woods - it helps you stay focused and make sure you don't miss any important details. Your research plan will be your guide to gathering amazing, accurate information!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What is the difference between primary and secondary sources, and why do journalists need both?",
+            "How can you verify if a piece of information is accurate and reliable?",
+            "Why is thorough background research essential for feature article writing?"
+          ],
+          "mascot_explanation": "Let's make sure you've got all the key concepts down pat! These questions will help you think like a professional journalist. Remember, great journalists never stop asking questions and always verify their facts - that's what makes their writing trustworthy and powerful!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you've learned the foundation skills of journalism research and fact-checking. You've created research plans and practiced verifying information like professional journalists. Remember that thorough, accurate research is what separates great journalism from simple opinion writing.",
+          "mastery_check": "Student can create a comprehensive research plan using primary and secondary sources and demonstrate basic fact-checking techniques for their feature article topic.",
+          "mascot_explanation": "Wow, you've really stepped up your journalism game today! You're developing the careful, thorough approach that all great journalists need. Keep up that curiosity and dedication to truth - these skills will serve you well not just in writing, but in understanding the world around you!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Box Plot Construction: Analyzing Sports Statistics Data Sets",
+    "description": "Students create and interpret box plots using real sports statistics, learning to identify quartiles, outliers, and data distribution patterns. This lesson connects statistical analysis to athletic performance data that students can relate to and understand.",
+    "instructions": [
+      "Prepare sports statistics data sets (basketball scores, soccer goals, track times) with 15-20 data points each for analysis.",
+      "Review the five-number summary concept and demonstrate how to find minimum, Q1, median, Q3, and maximum values.",
+      "Guide students through the process of ordering data and calculating quartiles using the median-of-medians method.",
+      "Show students how to construct box plots on graph paper, emphasizing proper scale and accurate quartile placement.",
+      "Teach students to identify outliers using the 1.5 × IQR rule and how to represent them on box plots.",
+      "Have students create their own box plots from provided sports data sets and compare different team or player performances.",
+      "Facilitate discussion about what box plots reveal about data distribution, variability, and central tendency.",
+      "Assign students to collect their own sports data from home (family game scores, exercise times) to create a box plot for tomorrow."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Sports statistics data sheets",
+      "Graph paper with grid lines",
+      "Rulers or straightedges",
+      "Calculators",
+      "Colored pencils or markers"
+    ],
+    "sort_order": 12,
+    "parent_notes": "This lesson exemplifies Montessori's emphasis on concrete learning by using real-world data that students can connect to their experiences. Box plots provide a visual way to understand data distribution, supporting the Montessori principle of moving from concrete to abstract concepts. The use of sports statistics makes mathematics relevant and engaging while developing critical analytical skills. Encourage your child to look for patterns and ask questions about what the data reveals—this curiosity-driven approach aligns perfectly with Montessori philosophy.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Box Plot Construction: Analyzing Sports Statistics Data Sets",
+          "subheading": "Visualizing Athletic Performance Through Data",
+          "mascot_explanation": "Hello, data athletes! I'm Finn Fox, and today we're going to explore how mathematics helps us understand sports performance through something called box plots. Just like how I can quickly assess the best hunting spots by observing patterns in nature, you'll learn to spot patterns in sports data!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sports statistics data sheets",
+            "Graph paper with grid lines",
+            "Rulers or straightedges",
+            "Calculators",
+            "Colored pencils or markers"
+          ],
+          "setup_instructions": "Organize materials so each student has access to data sheets and graphing supplies. Ensure calculators are available for quartile calculations and that graph paper is properly oriented for box plot construction.",
+          "mascot_explanation": "These tools will help us transform numbers into visual stories about athletic performance! Just like how I use different senses to understand my environment, we'll use these materials to see patterns in data that might be hidden when we just look at lists of numbers."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn to find the five-number summary (minimum, Q1, median, Q3, maximum) by ordering your sports data from least to greatest and systematically finding quartiles using the median-of-medians method.",
+          "mascot_explanation": "Finding these five special numbers is like identifying the most important landmarks in a territory! These five numbers will tell us almost everything we need to know about how the data is spread out and where most of the values cluster together."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Construct accurate box plots on graph paper using proper scale, clearly marking the median line, quartile boundaries, and whiskers extending to minimum and maximum values (excluding outliers).",
+          "mascot_explanation": "Now we're building a visual map of our data! Think of the box plot like a special diagram that shows where most players perform (the box) and how far the extreme performances stretch (the whiskers). It's like creating a picture that tells the whole story of the data!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Using the provided basketball scoring data from three different teams, create box plots for each team on the same graph. Calculate the five-number summary, identify any outliers using the 1.5 × IQR rule, and write three observations about how the teams' performances compare.",
+          "duration_minutes": 30,
+          "mascot_explanation": "This is where the magic happens! You'll create visual comparisons between teams that reveal which team is more consistent, which has higher scores, and which might have some unusually high or low performances. It's like being a sports analyst using mathematical tools!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How do you calculate the interquartile range (IQR) and why is it important for identifying outliers?",
+            "What does the length of the box in a box plot tell you about the data distribution?",
+            "How can you use box plots to compare the performance consistency of different teams or players?"
+          ],
+          "mascot_explanation": "These questions help ensure you understand the deeper meaning behind box plots! Remember, we're not just drawing pretty pictures - we're using mathematics to understand real patterns in sports performance. This kind of thinking helps coaches, players, and fans make better decisions!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you've mastered creating and interpreting box plots using real sports data. You can now identify quartiles, spot outliers, and use these visual tools to compare different data sets. Box plots are powerful tools used by professional sports analysts to understand performance patterns.",
+          "mastery_check": "Student can independently calculate a five-number summary, construct an accurate box plot with proper scale, and identify outliers using the 1.5 × IQR rule.",
+          "mascot_explanation": "Fantastic work, sports statisticians! You've learned to see data in a completely new way, turning lists of numbers into meaningful visual stories. These skills will help you understand not just sports, but any situation where you need to analyze and compare groups of numbers. Keep up that analytical thinking!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "history",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Berlin Wall Construction and Symbolism: Dividing a City During Cold War",
+    "description": "Students explore the construction of the Berlin Wall in 1961 as a concrete symbol of Cold War division. This lesson examines the human impact of political barriers and how physical walls reflected ideological conflicts between East and West.",
+    "instructions": [
+      "Set up a map activity showing Berlin's location within East Germany and the post-WWII occupation zones.",
+      "Begin with a timeline activity showing key events from 1945 Berlin division through 1961 wall construction.",
+      "Show photographs and survivor accounts of families separated overnight when the wall was built.",
+      "Create a classroom simulation where students experience the impact of sudden division using masking tape to 'divide' the room.",
+      "Discuss the wall's construction details: barbed wire to concrete blocks to sophisticated barrier system with guard towers.",
+      "Analyze primary sources including Kennedy's 'Ich bin ein Berliner' speech and East German propaganda justifying the wall.",
+      "Have students write diary entries from perspectives of East Berliners, West Berliners, and border guards during wall construction.",
+      "Connect to modern examples of political barriers and walls around the world, discussing similarities and differences."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Map of divided Berlin and Germany",
+      "Historical photographs of Berlin Wall construction",
+      "Primary source excerpts and quotes",
+      "Masking tape for classroom simulation",
+      "Timeline template worksheets"
+    ],
+    "sort_order": 13,
+    "parent_notes": "This lesson embodies Montessori education's commitment to understanding human experiences and developing empathy across cultures and time periods. By examining the Berlin Wall's impact on individual families, students connect with history on a personal level while understanding larger geopolitical concepts. The simulation activity helps students experience the emotional impact of division, fostering the Montessori value of peace education. Encourage discussions about how physical barriers affect human relationships and community bonds.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Berlin Wall Construction and Symbolism: Dividing a City During Cold War",
+          "subheading": "How Politics Built Barriers Between Families",
+          "mascot_explanation": "Greetings, young historians! I'm Finn Fox, and today we're exploring one of the most dramatic moments of the Cold War - when a city was literally split in half overnight. Imagine waking up and finding a wall blocking you from visiting friends and family just across the street!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Map of divided Berlin and Germany",
+            "Historical photographs of Berlin Wall construction", 
+            "Primary source excerpts and quotes",
+            "Masking tape for classroom simulation",
+            "Timeline template worksheets"
+          ],
+          "setup_instructions": "Display the Berlin map prominently and prepare photo materials for examination. Have masking tape ready for the room division simulation and ensure primary source materials are age-appropriate excerpts.",
+          "mascot_explanation": "These materials will help us step back in time to understand what it felt like when Berlin became a divided city. The photos and maps will show us the physical reality, while the primary sources let us hear from people who actually lived through this incredible and heartbreaking time in history."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Study the post-WWII division of Berlin and Germany, understanding how the city became an island of Western democracy surrounded by communist East Germany, creating unique tensions and opportunities.",
+          "mascot_explanation": "Berlin's situation was like having a den in the middle of someone else's territory - very complicated! The city was split between the winners of World War II, but it sat entirely within communist East Germany, making it a constant source of tension and a symbol of freedom."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Experience the impact of sudden division through a classroom simulation, then examine how the Berlin Wall evolved from barbed wire to a sophisticated barrier system with guard towers and death strips.",
+          "mascot_explanation": "We'll feel what it was like when families were suddenly separated, then learn how the wall grew from simple wire into a complex fortress. It's amazing and sad to see how much effort went into keeping people apart instead of bringing them together!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Write three diary entries from different perspectives during the first week of Berlin Wall construction: an East Berlin teenager separated from friends, a West Berlin parent worried about relatives, and a border guard following orders. Use historical details to make each perspective authentic and emotionally realistic.",
+          "duration_minutes": 25,
+          "mascot_explanation": "This is your chance to step into history and understand how real people felt during this dramatic time! Writing from different viewpoints helps us see how the same event affected people in completely different ways, depending on where they stood and what they believed."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Why did East Germany decide to build the Berlin Wall in 1961, and what problem were they trying to solve?",
+            "How did the Berlin Wall serve as a physical symbol of the larger Cold War conflict between democracy and communism?",
+            "What were the immediate and long-term impacts on Berlin families and communities when the wall was constructed?"
+          ],
+          "mascot_explanation": "These questions help you think about both the big political picture and the personal human cost of the Berlin Wall. Understanding both levels - the global conflict and individual experiences - gives you a complete picture of this important historical moment."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you've explored how the Berlin Wall became the most visible symbol of Cold War division, understanding both its political purpose and devastating human impact. The wall stood for 28 years, dividing families and representing the broader ideological conflict between East and West until its fall in 1989.",
+          "mastery_check": "Student can explain why the Berlin Wall was built, describe its evolution and symbolism, and articulate the human impact on divided Berlin families and communities.",
+          "mascot_explanation": "You've done excellent work understanding this complex and emotional period in history! The Berlin Wall teaches us about the power of political ideas to divide people, but also about human resilience and the eventual triumph of freedom and family connections over barriers."
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "geography",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Renewable Energy Geography: Solar Power Distribution and Climate Patterns",
+    "description": "Students explore the geographic factors that determine solar energy potential around the world, analyzing latitude, climate patterns, and seasonal variations. This lesson connects physical geography with sustainable energy solutions and environmental decision-making.",
+    "instructions": [
+      "Display a world map showing global solar irradiance levels and have students identify patterns based on latitude and climate zones.",
+      "Introduce the concept of solar potential by examining how the Earth's tilt and orbit affect sunlight distribution throughout the year.",
+      "Compare solar energy production data from different countries and regions, analyzing why some areas are more suitable for solar power than others.",
+      "Conduct a hands-on experiment using flashlights and globes to demonstrate how angle of sunlight affects energy intensity at different latitudes.",
+      "Research specific examples of successful solar energy projects in different climates (desert installations, northern European initiatives, tropical applications).",
+      "Create a decision-making activity where students choose optimal locations for solar installations based on geographic and climate data.",
+      "Discuss challenges and opportunities for solar energy in various geographic regions, including seasonal storage and grid connections.",
+      "Have students design a proposal for solar energy implementation in their own geographic region, considering local climate and geographic factors."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "World solar irradiance map",
+      "Small globe or sphere",
+      "Flashlights for light angle experiment",
+      "Solar energy data charts by country",
+      "Regional climate maps"
+    ],
+    "sort_order": 14,
+    "parent_notes": "This lesson exemplifies Montessori education's integration of scientific concepts with real-world problem-solving and environmental stewardship. Students explore the intersection of physical geography and human innovation, developing critical thinking about sustainable solutions. The hands-on experiments support the Montessori principle of learning through discovery and manipulation of materials. Encourage your child to observe and question patterns in nature and human adaptation, fostering the Montessori values of cosmic education and environmental responsibility.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Renewable Energy Geography: Solar Power Distribution and Climate Patterns",
+          "subheading": "Mapping the Sun's Energy Potential Across Earth",
+          "mascot_explanation": "Hello, energy explorers! I'm Finn Fox, and today we're going to discover how geography and climate determine where the sun's energy can best be captured for human use. Just like how I know the sunniest spots in the forest are perfect for warming up, we'll learn where on Earth solar energy works best!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World solar irradiance map",
+            "Small globe or sphere",
+            "Flashlights for light angle experiment",
+            "Solar energy data charts by country",
+            "Regional climate maps"
+          ],
+          "setup_instructions": "Display the solar irradiance map prominently for reference throughout the lesson. Prepare flashlights and globes for the angle experiment demonstration. Have data charts organized for easy comparison between different countries and regions.",
+          "mascot_explanation": "These tools will help us understand how sunlight travels from space to different parts of Earth! We'll use maps to see patterns, experiments to understand angles, and real data to see how geography affects our ability to harness the sun's incredible energy."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Analyze the world solar irradiance map to identify patterns in solar energy potential, noting how latitude, proximity to equator, and major climate zones affect the amount of usable sunlight different regions receive throughout the year.",
+          "mascot_explanation": "Looking at this map is like reading a treasure map for sunshine! You'll notice that some areas get consistently strong sunlight while others have more variation. The patterns we see are connected to Earth's shape, its tilt, and how our planet moves around the sun."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Conduct flashlight experiments with globes to demonstrate how the angle of sunlight affects energy intensity, showing why equatorial regions typically have higher solar potential than polar regions throughout the year.",
+          "mascot_explanation": "This experiment shows us why the sun feels stronger at some times and places than others! When light hits straight on, it's concentrated and powerful, but when it hits at an angle, it spreads out and becomes weaker - just like how I feel warmer when facing the sun directly!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Using solar irradiance maps and climate data, create a recommendation report for the best locations to build large solar energy installations. Choose three different continents and justify your location choices based on solar potential, climate stability, and seasonal variations. Include challenges each location might face.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now you get to be energy planning experts! You'll use everything you've learned about geography and climate to make smart decisions about where solar power would work best. Remember to think about both the advantages and challenges each location offers."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Why do desert regions often have excellent solar energy potential despite extreme temperatures?",
+            "How do seasonal changes affect solar energy production differently at various latitudes?",
+            "What geographic factors besides sunlight intensity affect the success of solar energy projects?"
+          ],
+          "mascot_explanation": "These questions help you think like a real renewable energy planner! You're connecting what you know about geography, climate, and physics to solve real-world energy challenges. This kind of thinking is exactly what scientists and engineers use to build a more sustainable world."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you've discovered how Earth's geography and climate patterns determine solar energy potential around the world. You've learned that successful solar installations depend on understanding latitude effects, seasonal variations, weather patterns, and regional geographic advantages and challenges.",
+          "mastery_check": "Student can identify optimal locations for solar energy based on geographic and climatic factors, and explain how latitude and seasonal changes affect solar power potential in different regions.",
+          "mascot_explanation": "Excellent work, solar geographers! You've learned to see the world through the lens of renewable energy, understanding how natural patterns can help us build a more sustainable future. This knowledge connects geography, science, and environmental problem-solving in really meaningful ways!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Brown Girl Dreaming: Jacqueline's Family Migration and Identity Formation",
+    "description": "Students explore Jacqueline Woodson's memoir-in-verse as the author describes her family's migration from South to North and how geographic movement shapes personal identity. This lesson focuses on how place and family history contribute to self-understanding and belonging.",
+    "instructions": [
+      "Begin by reading selected poems that describe Jacqueline's movement between South Carolina and New York, noting her different feelings about each place.",
+      "Create a discussion about how the author uses poetry to describe complex emotions about family, place, and belonging.",
+      "Have students create a simple map showing Jacqueline's family migration pattern and the places that shaped her identity.",
+      "Read poems about her grandmother's influence and discuss how family stories and traditions travel with families during migration.",
+      "Explore how Jacqueline describes racial identity and civil rights experiences differently in South Carolina versus New York.",
+      "Connect the author's experiences to student's own family migration stories or connections to different places that feel like 'home.'",
+      "Discuss how Jacqueline uses specific sensory details and memories to make places come alive in her poetry.",
+      "Have students choose one place that's important to their identity and write a short poem or paragraph describing it using sensory details like Jacqueline does."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Brown Girl Dreaming by Jacqueline Woodson",
+      "Simple outline map of eastern United States",
+      "Poetry notebooks or writing journals",
+      "Colored pencils for mapping activity",
+      "Sticky notes for marking favorite passages"
+    ],
+    "sort_order": 15,
+    "parent_notes": "This lesson aligns with Montessori's emphasis on understanding human diversity and developing cultural sensitivity. By exploring Jacqueline Woodson's memoir-in-verse, students learn about the African American experience while connecting to universal themes of family, place, and identity formation. The poetry format supports multiple learning styles and allows for deep emotional connection to the text. Encourage your child to share their own family stories and connections to place, fostering the Montessori value of honoring each child's unique background and experiences.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Brown Girl Dreaming: Jacqueline's Family Migration and Identity Formation",
+          "subheading": "How Places and Family Shape Who We Become",
+          "mascot_explanation": "Welcome, thoughtful readers! I'm Finn Fox, and today we're diving into Jacqueline Woodson's beautiful memoir-in-verse about growing up between two very different places. Just like how I feel different in various parts of the forest, Jacqueline shows us how the places we live help shape who we are!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Brown Girl Dreaming by Jacqueline Woodson",
+            "Simple outline map of eastern United States",
+            "Poetry notebooks or writing journals",
+            "Colored pencils for mapping activity",
+            "Sticky notes for marking favorite passages"
+          ],
+          "setup_instructions": "Have books ready for shared reading, maps available for the migration activity, and writing materials prepared for student responses. Ensure sticky notes are available for students to mark passages that resonate with them.",
+          "mascot_explanation": "These materials will help us follow Jacqueline's journey from South Carolina to New York and back again! We'll map her travels, explore her beautiful poetry, and think about how places influence our own sense of identity and belonging."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read selected poems describing Jacqueline's experiences moving between South Carolina and New York, paying attention to how she describes her different feelings about each place and what makes each location feel like 'home.'",
+          "mascot_explanation": "Jacqueline's poetry helps us understand how complex our feelings about places can be! Sometimes she loves being in the South with her grandmother, and sometimes she feels more at home in New York with her mother - it's okay to have complicated feelings about the places that shape us."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Explore how Jacqueline uses specific sensory details - what she sees, hears, smells, and feels - to bring her memories of different places to life in her poetry, making readers feel like they're experiencing her childhood alongside her.",
+          "mascot_explanation": "Jacqueline is amazing at using all her senses to paint pictures with words! When she describes the smell of her grandmother's cooking or the sounds of Harlem streets, we can almost feel like we're right there with her experiencing those special moments."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a migration map showing Jacqueline's movement between South Carolina and New York, then write a poem or detailed paragraph about a place that's important to your own identity. Use sensory details like Jacqueline does to help readers understand why this place matters to you and how it has shaped who you are.",
+          "duration_minutes": 25,
+          "mascot_explanation": "This is your chance to be like Jacqueline, using beautiful words to capture the places that have made you who you are! Think about the special places in your life - maybe where grandparents live, a favorite vacation spot, or even just your own backyard - and help us see and feel them through your writing."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does Jacqueline's identity change and develop as she moves between South Carolina and New York?",
+            "What role do family stories and traditions play in helping Jacqueline understand who she is?",
+            "How does Jacqueline use poetry to express complex feelings about race, family, and belonging?"
+          ],
+          "mascot_explanation": "These questions help us think deeply about Jacqueline's journey of self-discovery! Her story shows us that identity isn't simple - it's shaped by family, place, experiences, and the stories we tell about ourselves. Understanding her journey helps us think about our own!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today we've explored how Jacqueline Woodson uses memoir-in-verse to show us how family migration, place, and identity are all connected. Her beautiful poetry helps us understand that our sense of self comes from the places we've been, the people who love us, and the stories that connect us to our heritage.",
+          "mastery_check": "Student can identify how geographic movement affects Jacqueline's identity development and can articulate how family stories and places contribute to personal identity formation.",
+          "mascot_explanation": "What beautiful thinking you've done today about identity, place, and family! Jacqueline Woodson's story reminds us that we all have important stories about the places and people that have

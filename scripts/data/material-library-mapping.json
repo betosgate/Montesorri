@@ -1,0 +1,451 @@
+{
+  "materials": {
+    "number-rods": {
+      "category": "math",
+      "files": ["number-rods.pdf"],
+      "description": "10 graded rods in red/blue alternating segments",
+      "pages": 3
+    },
+    "number-cards": {
+      "category": "math",
+      "files": ["number-cards-1-10.pdf", "number-cards-teens.pdf", "place-value-cards.pdf", "stamp-game.pdf"],
+      "description": "Number cards for counting, teens, place value, and stamp game",
+      "pages": 8
+    },
+    "bead-bars": {
+      "category": "math",
+      "files": ["bead-bars.pdf"],
+      "description": "Bead bar representations 1-10 with Montessori colors",
+      "pages": 2
+    },
+    "numeral-cards": {
+      "category": "math",
+      "files": ["numeral-cards.pdf"],
+      "description": "Large traceable digits 0-9 with stroke direction arrows",
+      "pages": 2
+    },
+    "seguin-board": {
+      "category": "math",
+      "files": ["seguin-board.pdf"],
+      "description": "Teen Board + Ten Board + digit overlay cards",
+      "pages": 3
+    },
+    "hundred-board": {
+      "category": "math",
+      "files": ["hundred-board.pdf"],
+      "description": "10x10 grid + 100 cut-out number tiles",
+      "pages": 2
+    },
+    "strip-board": {
+      "category": "math",
+      "files": ["strip-board.pdf"],
+      "description": "Addition strip board (1-18) + colored strips",
+      "pages": 3
+    },
+    "fraction-circles": {
+      "category": "math",
+      "files": ["fraction-circles.pdf"],
+      "description": "8 circles: whole through tenths with labeled wedges",
+      "pages": 2
+    },
+    "operation-board": {
+      "category": "math",
+      "files": ["operation-board.pdf"],
+      "description": "Multiplication board 10x10 + recording sheet + division board",
+      "pages": 3
+    },
+    "clock-face": {
+      "category": "math",
+      "files": ["clock-face.pdf"],
+      "description": "Large clock with moveable hands + practice clocks",
+      "pages": 2
+    },
+    "spindle-box": {
+      "category": "math",
+      "files": ["spindle-box.pdf"],
+      "description": "Compartment template 0-9 for spindle counting",
+      "pages": 1
+    },
+    "letter-cards": {
+      "category": "language",
+      "files": ["letter-cards.pdf", "phonogram-cards.pdf"],
+      "description": "Full moveable alphabet + phonogram cards (sh, ch, th, etc.)",
+      "pages": 4
+    },
+    "word-cards": {
+      "category": "language",
+      "files": ["word-cards.pdf"],
+      "description": "CVC words, phonogram words, blend words, sight words",
+      "pages": 5
+    },
+    "handwriting-practice": {
+      "category": "language",
+      "files": ["handwriting-practice.pdf"],
+      "description": "Montessori-style ruled pages with letter formation models",
+      "pages": 4
+    },
+    "grammar-symbols": {
+      "category": "language",
+      "files": ["grammar-symbols.pdf"],
+      "description": "6 Montessori grammar symbols + sentence strips for analysis",
+      "pages": 2
+    },
+    "phonemic-awareness": {
+      "category": "language",
+      "files": ["phonemic-awareness.pdf"],
+      "description": "I Spy picture mats for initial sounds + sorting mats",
+      "pages": 4
+    },
+    "color-tablets": {
+      "category": "sensorial",
+      "files": ["color-tablets.pdf"],
+      "description": "Color matching pairs for Box 1, 2, and 3",
+      "pages": 2
+    },
+    "cylinder-blocks": {
+      "category": "sensorial",
+      "files": ["cylinder-blocks.pdf"],
+      "description": "4 block worksheets with graduated circles",
+      "pages": 4
+    },
+    "geometry-shapes": {
+      "category": "sensorial",
+      "files": ["geometry-shapes.pdf"],
+      "description": "Constructive triangles, geometric cabinet shapes, solids matching",
+      "pages": 4
+    },
+    "graded-series": {
+      "category": "sensorial",
+      "files": ["graded-series.pdf"],
+      "description": "Pink Tower, Brown Stair, Red Rods graduated pieces",
+      "pages": 3
+    },
+    "puzzle-map": {
+      "category": "geography",
+      "files": ["puzzle-map.pdf"],
+      "description": "World map + continental maps + land/water forms",
+      "pages": 10
+    },
+    "flag-cards": {
+      "category": "geography",
+      "files": ["flag-cards.pdf"],
+      "description": "30 world flags + blank template for coloring",
+      "pages": 3
+    },
+    "science-cards": {
+      "category": "science",
+      "files": ["science-cards.pdf"],
+      "description": "Life cycles, plant parts, animal classification, anatomy diagrams",
+      "pages": 6
+    },
+    "three-part-cards": {
+      "category": "science",
+      "files": ["three-part-cards.pdf"],
+      "description": "Nomenclature cards for animals, plants, and geometry",
+      "pages": 4
+    },
+    "writing-templates": {
+      "category": "language",
+      "files": ["writing-templates.pdf"],
+      "description": "Five senses chart, story planner, book report, letter-writing",
+      "pages": 4
+    },
+    "cultural-activity-sheets": {
+      "category": "culture",
+      "files": ["cultural-activity-sheets.pdf"],
+      "description": "Cultural celebration activity pages",
+      "pages": 3
+    },
+    "math-review-sheets": {
+      "category": "math",
+      "files": ["math-review-sheets.pdf"],
+      "description": "Quarterly math review recording pages",
+      "pages": 4
+    },
+    "reading-practice": {
+      "category": "language",
+      "files": ["reading-practice.pdf"],
+      "description": "CVC word lists, phonetic sentences, reading passages",
+      "pages": 4
+    },
+    "work-log": {
+      "category": "practical_life",
+      "files": ["work-log.pdf"],
+      "description": "Independent work tracking sheet",
+      "pages": 1
+    },
+    "timeline": {
+      "category": "history",
+      "files": ["timeline.pdf"],
+      "description": "Blank timeline strips for history lessons",
+      "pages": 3
+    },
+    "graph-paper": {
+      "category": "math",
+      "files": ["graph-paper.pdf"],
+      "description": "Coordinate grid, graph paper, number line for upper math",
+      "pages": 2
+    },
+    "lab-report": {
+      "category": "science",
+      "files": ["lab-report.pdf"],
+      "description": "Scientific method lab report template",
+      "pages": 2
+    },
+    "map-skills": {
+      "category": "geography",
+      "files": ["map-skills.pdf"],
+      "description": "Blank continent outlines, lat/long grid, map legend practice",
+      "pages": 4
+    },
+    "essay-templates": {
+      "category": "language",
+      "files": ["essay-templates.pdf"],
+      "description": "Paragraph organizer, essay outline, research notes template",
+      "pages": 3
+    }
+  },
+  "template_to_material": {
+    "number-rods": "number-rods",
+    "number-cards": "number-cards",
+    "bead-bars": "bead-bars",
+    "numeral-cards": "numeral-cards",
+    "seguin-board": "seguin-board",
+    "hundred-board": "hundred-board",
+    "strip-board": "strip-board",
+    "fraction-circles": "fraction-circles",
+    "operation-board": "operation-board",
+    "clock-face": "clock-face",
+    "spindle-box": "spindle-box",
+    "letter-cards": "letter-cards",
+    "word-cards": "word-cards",
+    "handwriting-practice": "handwriting-practice",
+    "grammar-symbols": "grammar-symbols",
+    "phonemic-awareness": "phonemic-awareness",
+    "color-tablets": "color-tablets",
+    "cylinder-blocks": "cylinder-blocks",
+    "geometry-shapes": "geometry-shapes",
+    "graded-series": "graded-series",
+    "puzzle-map": "puzzle-map",
+    "flag-cards": "flag-cards",
+    "science-cards": "science-cards",
+    "three-part-cards": "three-part-cards",
+    "writing-templates": "writing-templates",
+    "cultural-activity-sheets": "cultural-activity-sheets",
+    "math-review-sheets": "math-review-sheets",
+    "reading-practice": "reading-practice",
+    "work-log": "work-log",
+    "generic-printable": "writing-templates"
+  },
+  "level_classifiers": {
+    "primary": {
+      "math": {
+        "default_template": "number-cards",
+        "keyword_overrides": {
+          "clock|telling time|half.hour|quarter.hour|reading time|hour hand|minute hand": "clock-face",
+          "racks? and tubes|division with rack": "operation-board",
+          "number rod|red rod": "number-rods",
+          "bead bar|bead stair|short chain|long chain|skip count": "bead-bars",
+          "spindle|spindles": "spindle-box",
+          "sandpaper numeral|tracing numeral|writing numeral": "numeral-cards",
+          "hundred board|1-100|100 board": "hundred-board",
+          "teen board|teens|11-19": "seguin-board",
+          "ten board|10-90|tens board": "seguin-board",
+          "strip board|addition strip|subtraction strip|addition fact|subtraction fact": "strip-board",
+          "fraction|half(?!.hour)|third(?! great)|quarter(?!.hour)|fourth(?! great)|fifth|tenth": "fraction-circles",
+          "multiplication board|division board|multiplication table|division table": "operation-board",
+          "stamp game": "number-cards",
+          "place value|golden bead|decimal system|bank game": "number-cards",
+          "money|coin|penny|nickel|dime|dollar": "number-cards"
+        }
+      },
+      "language": {
+        "default_template": "letter-cards",
+        "keyword_overrides": {
+          "parts of speech|grammar symbol|grammar review": "grammar-symbols",
+          "grammar|noun|verb|adjective|article|adverb|preposition|conjunction|pronoun": "grammar-symbols",
+          "book report|research report|revision and sharing|report project": "writing-templates",
+          "story|creative writing|journal|narrative|letter writing|five sense|my book|poem": "writing-templates",
+          "handwriting|cursive|writing practice|metal inset|tracing": "handwriting-practice",
+          "read aloud|nursery rhyme|finger play|song|rhyme": "reading-practice",
+          "word card|sight word|puzzle word|pink series|blue series|green series|reading": "word-cards",
+          "sandpaper letter|letter sound|phonetic sound|letter -|i spy|beginning sound": "letter-cards",
+          "moveable alphabet|movable alphabet|word building|cvc|spelling": "letter-cards",
+          "phonogram|digraph|sh |ch |th |blend|consonant blend": "letter-cards"
+        }
+      },
+      "sensorial": {
+        "default_template": "graded-series",
+        "keyword_overrides": {
+          "pink tower|brown stair|broad stair|red rod|long rod": "graded-series",
+          "color tablet|color box|colour|color mix|secondary color|tertiary color": "color-tablets",
+          "cylinder|knobbed|knobless": "cylinder-blocks",
+          "geometric|constructive triangle|binomial|trinomial|geometric solid|geometric cabinet": "geometry-shapes"
+        }
+      },
+      "geography": {
+        "default_template": "puzzle-map",
+        "keyword_overrides": {
+          "puzzle map|continent|world map|globe|land and water|land form|landform": "puzzle-map",
+          "flag|flags": "flag-cards"
+        }
+      },
+      "science": {
+        "default_template": "science-cards",
+        "keyword_overrides": {
+          "life cycle|plant part|animal class|vertebrate|invertebrate|living|non-living|magnet|sink|float|five sense|body part": "science-cards",
+          "three.part|nomenclature|3.part": "three-part-cards"
+        }
+      },
+      "culture": {
+        "default_template": "cultural-activity-sheets",
+        "keyword_overrides": {
+          "flag": "flag-cards",
+          "map|continent|globe": "puzzle-map"
+        }
+      },
+      "practical_life": {
+        "default_template": "work-log"
+      },
+      "art_music": {
+        "default_template": null
+      },
+      "read_aloud": {
+        "default_template": null
+      }
+    },
+    "lower_elementary": {
+      "math": {
+        "default_template": "number-cards",
+        "keyword_overrides": {
+          "stamp game": "number-cards",
+          "bead|bead frame|golden bead": "bead-bars",
+          "checkerboard|checker board": "operation-board",
+          "rack|tube|long division": "operation-board",
+          "fraction|decimal|mixed number": "fraction-circles",
+          "strip board": "strip-board",
+          "clock|time|elapsed": "clock-face",
+          "graph|data|chart|coordinate": "graph-paper",
+          "money|coin|budget|finance": "number-cards",
+          "measurement|ruler|scale|perimeter|area|volume": "graph-paper",
+          "review|assessment|test": "math-review-sheets"
+        }
+      },
+      "language": {
+        "default_template": "word-cards",
+        "keyword_overrides": {
+          "creative writing|narrative writing|expository writing|persuasive writing|report writing": "essay-templates",
+          "essay|paragraph|writing project|research|persuasive|narrative|creative|journal|letter writing|poetry|poem": "essay-templates",
+          "cursive|handwriting|penmanship": "handwriting-practice",
+          "grammar|noun|verb|adjective|article|adverb|preposition|conjunction|pronoun|part of speech": "grammar-symbols",
+          "spelling|word study|prefix|suffix|root": "word-cards",
+          "reading|comprehension|vocabulary|literature|book|chapter": "reading-practice"
+        }
+      },
+      "history": {
+        "default_template": "timeline",
+        "keyword_overrides": {
+          "essay|report project|writing project|book report": "essay-templates",
+          "timeline|great lesson|time line": "timeline",
+          "map|geography": "map-skills"
+        }
+      },
+      "science": {
+        "default_template": "science-cards",
+        "keyword_overrides": {
+          "lab|experiment|method|hypothesis": "lab-report",
+          "life cycle|classification|anatomy|body system|plant|animal|cell": "science-cards",
+          "three.part|nomenclature": "three-part-cards"
+        }
+      },
+      "geography": {
+        "default_template": "map-skills",
+        "keyword_overrides": {
+          "puzzle map|continent map|country": "puzzle-map",
+          "flag": "flag-cards",
+          "land.+water|landform": "puzzle-map"
+        }
+      },
+      "geometry": {
+        "default_template": "geometry-shapes",
+        "keyword_overrides": {
+          "graph|coordinate|plot": "graph-paper"
+        }
+      },
+      "practical_life": {
+        "default_template": null
+      },
+      "art_music": {
+        "default_template": null
+      },
+      "read_aloud": {
+        "default_template": null
+      },
+      "culture": {
+        "default_template": "cultural-activity-sheets"
+      }
+    },
+    "upper_elementary": {
+      "math": {
+        "default_template": "graph-paper",
+        "keyword_overrides": {
+          "fraction|decimal|percent|ratio|proportion": "fraction-circles",
+          "graph|coordinate|plot|data|statistics|probability": "graph-paper",
+          "algebra|equation|variable|expression": "graph-paper",
+          "geometry|angle|area|volume|perimeter|transformation": "graph-paper",
+          "review|assessment": "math-review-sheets",
+          "money|budget|finance|credit|interest": "graph-paper"
+        }
+      },
+      "language": {
+        "default_template": "essay-templates",
+        "keyword_overrides": {
+          "narrative writing|creative writing|expository writing|persuasive writing|editing": "essay-templates",
+          "essay|writing|paragraph|research|persuasive|narrative|expository|report|debate": "essay-templates",
+          "grammar|part of speech|clause|phrase|sentence structure": "grammar-symbols",
+          "vocabulary|root|latin|greek|prefix|suffix": "word-cards",
+          "reading|comprehension|literature|analysis|poetry|poem": "reading-practice",
+          "spelling|word study": "word-cards"
+        }
+      },
+      "history": {
+        "default_template": "timeline",
+        "keyword_overrides": {
+          "essay|report|writing project|civilization essay": "essay-templates",
+          "timeline|era|period|century|chronolog": "timeline",
+          "map|geography|trade route": "map-skills"
+        }
+      },
+      "science": {
+        "default_template": "lab-report",
+        "keyword_overrides": {
+          "lab|experiment|method|hypothesis|variable": "lab-report",
+          "classification|taxonomy|anatomy|cell|organ": "science-cards",
+          "life cycle|ecosystem|biome|habitat": "science-cards"
+        }
+      },
+      "geography": {
+        "default_template": "map-skills",
+        "keyword_overrides": {
+          "flag": "flag-cards",
+          "continent|country|region": "map-skills"
+        }
+      },
+      "geometry": {
+        "default_template": "graph-paper"
+      },
+      "practical_life": {
+        "default_template": null
+      },
+      "art_music": {
+        "default_template": null
+      },
+      "read_aloud": {
+        "default_template": null
+      },
+      "culture": {
+        "default_template": "cultural-activity-sheets"
+      }
+    }
+  }
+}

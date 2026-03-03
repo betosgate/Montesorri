@@ -1,0 +1,394 @@
+[
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 19,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Interview Techniques: Preparing Questions for Primary Sources",
+    "description": "Students learn the fundamentals of journalistic interviewing by developing thoughtful questions and practicing active listening skills. This lesson focuses on preparing for interviews with community members as primary sources for their journalism project.",
+    "instructions": [
+      "1. Begin by discussing what makes a good interview question versus a simple yes/no question.",
+      "2. Review the difference between open-ended questions that encourage storytelling and closed questions that gather facts.",
+      "3. Have your child brainstorm potential interview subjects from your community (neighbors, local business owners, family members with interesting experiences).",
+      "4. Practice the 5 W's and H technique (Who, What, When, Where, Why, How) to develop comprehensive questions.",
+      "5. Role-play interviewing scenarios where your child practices asking follow-up questions based on responses.",
+      "6. Discuss active listening techniques like maintaining eye contact, taking notes, and asking clarifying questions.",
+      "7. Have your child prepare a list of 8-10 questions for a practice interview with a family member.",
+      "8. Conclude by discussing interview etiquette and the importance of respecting the interviewee's time and comfort level."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Notebook or paper for question preparation",
+      "Pen or pencil",
+      "Timer",
+      "Sample interview questions from newspapers or magazines",
+      "Voice recorder or phone (optional for practice)"
+    ],
+    "sort_order": 21,
+    "parent_notes": "This lesson embodies the Montessori principle of connecting learning to real-world experiences. By preparing for actual interviews with community members, your child develops both communication skills and cultural awareness. The emphasis on respectful questioning and active listening builds character alongside academic skills. Encourage your child to view interviews as opportunities for genuine human connection and learning, not just information gathering.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Interview Techniques: Preparing Questions for Primary Sources",
+          "subheading": "Learning to gather stories through thoughtful questioning",
+          "mascot_explanation": "Hello, young journalists! I'm Finn Fox, and today we're going to learn how to be excellent interviewers. Just like how I'm curious about everything in the forest, you'll learn to ask questions that help people share their amazing stories!"
+        },
+        {
+          "type": "materials",
+          "items": ["Notebook or paper for question preparation", "Pen or pencil", "Timer", "Sample interview questions from newspapers or magazines", "Voice recorder or phone (optional for practice)"],
+          "setup_instructions": "Find a comfortable space where you can spread out your materials and have quiet conversation practice. Have your notebook ready for writing questions and your sample interviews nearby for reference.",
+          "mascot_explanation": "Let's gather our reporter's toolkit! These materials will help you become a skilled interviewer who can capture interesting stories from people in your community. Think of your notebook as your treasure chest for collecting amazing stories!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn the difference between open-ended questions (that encourage storytelling) and closed questions (that gather specific facts). Open-ended questions start with words like 'How,' 'What,' 'Why,' 'Tell me about...' while closed questions can be answered with yes/no or short facts.",
+          "mascot_explanation": "Great questions are like keys that unlock amazing stories! Open-ended questions give people room to share their experiences and feelings, while closed questions help you gather specific details. Both types are important for different reasons!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Practice using the 5 W's and H technique (Who, What, When, Where, Why, How) to develop comprehensive questions about any topic. This ensures you gather complete information during your interviews.",
+          "mascot_explanation": "The 5 W's and H are like a journalist's compass - they help you navigate through any story! When you cover all these areas, you make sure you understand the full picture of what someone is sharing with you."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose a potential interview subject (family member, neighbor, or community member) and create 8-10 thoughtful questions using a mix of open-ended and closed questions. Include at least one question from each of the 5 W's and H categories. Then practice your interview with a family member, focusing on active listening and asking follow-up questions based on their responses.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Now comes the exciting part - putting your skills into action! Remember, the best interviewers are genuinely curious about people's stories and listen carefully to ask great follow-up questions. You're going to discover some fascinating things about people you thought you knew well!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you explain the difference between open-ended and closed questions and give examples of each?",
+            "What are some active listening techniques that help make interviews more successful?",
+            "How do the 5 W's and H help you prepare comprehensive interview questions?"
+          ],
+          "mascot_explanation": "Let's make sure you're ready to be an amazing interviewer! These questions will help you think about the key skills you've learned today. Great interviewers are always reflecting on how to improve their technique!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you've learned the foundation skills of journalistic interviewing: preparing thoughtful questions, practicing active listening, and showing respect for your interview subjects. These skills will serve you well as you gather stories for your journalism project and throughout your life as you connect with others.",
+          "mastery_check": "Student can create appropriate open-ended and closed questions, demonstrates active listening during practice interview, and shows understanding of respectful interview etiquette.",
+          "mascot_explanation": "Congratulations on becoming a skilled interviewer! Remember, every person has fascinating stories to share - your job is to ask the right questions and listen with your whole heart. I can't wait to hear about the amazing stories you'll discover in your community!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 19,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Box Plot Construction: Visualizing Data Distribution and Quartiles",
+    "description": "Students learn to create and interpret box plots (box-and-whisker plots) by finding quartiles, median, and identifying outliers in data sets. This lesson emphasizes understanding data distribution through visual representation.",
+    "instructions": [
+      "1. Start by reviewing how to find the median of a data set and explain that box plots show five key numbers.",
+      "2. Introduce the concept of quartiles by dividing ordered data into four equal parts (Q1, Q2, Q3).",
+      "3. Work together to find the five-number summary: minimum, Q1, median (Q2), Q3, and maximum using a sample data set.",
+      "4. Show how to construct a box plot by drawing a number line and plotting the five-number summary.",
+      "5. Practice identifying outliers using the 1.5 × IQR (Interquartile Range) rule.",
+      "6. Have your child create box plots for two different data sets and compare their distributions.",
+      "7. Discuss what box plots reveal about data: spread, center, skewness, and outliers.",
+      "8. Connect box plots to real-world examples like test scores, sports statistics, or weather data."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Graph paper or ruler",
+      "Pencil and eraser",
+      "Calculator",
+      "Pre-prepared data sets (test scores, temperatures, etc.)",
+      "Colored pencils or markers"
+    ],
+    "sort_order": 22,
+    "parent_notes": "Box plots represent a sophisticated level of statistical thinking that builds on your child's understanding of median and data organization. This visual tool helps students see patterns in data that might not be obvious in lists of numbers. The Montessori approach values concrete-to-abstract learning, so encourage your child to physically manipulate the data by writing numbers on cards and arranging them before creating the plot. This hands-on approach builds deeper understanding of quartiles and distribution concepts.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Box Plot Construction: Visualizing Data Distribution and Quartiles",
+          "subheading": "Learning to create and interpret box-and-whisker plots",
+          "mascot_explanation": "Hello, data detectives! I'm Finn Fox, and today we're going to learn about box plots - a super cool way to visualize data that shows us so much information at once. Think of box plots as a special window that lets us see the story hidden in our numbers!"
+        },
+        {
+          "type": "materials",
+          "items": ["Graph paper or ruler", "Pencil and eraser", "Calculator", "Pre-prepared data sets (test scores, temperatures, etc.)", "Colored pencils or markers"],
+          "setup_instructions": "Set up your workspace with graph paper and writing materials. Have your calculator ready for finding quartiles and checking your work. Organize your data sets where you can easily reference them throughout the lesson.",
+          "mascot_explanation": "Let's get our data visualization toolkit ready! These materials will help you create clear, accurate box plots that tell the story of your data. The colored pencils will make your plots extra clear and professional-looking!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn about quartiles by understanding how they divide ordered data into four equal parts. Q1 (first quartile) is the median of the lower half, Q2 is the overall median, and Q3 (third quartile) is the median of the upper half.",
+          "mascot_explanation": "Quartiles are like dividing a group of forest animals into four equal-sized groups from smallest to largest! Each quartile tells us something special about where most of our data falls and how spread out it is."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Master the five-number summary by finding the minimum, Q1, median (Q2), Q3, and maximum values in your ordered data set. These five numbers contain the key information needed to construct your box plot.",
+          "mascot_explanation": "The five-number summary is like having five important landmarks on a map - they show us the most important points in our data journey! Once we know these five numbers, we can build our entire box plot."
+        },
+        {
+          "type": "activity",
+          "prompt": "Using the provided data sets, find the five-number summary for each set and construct complete box plots on graph paper. Include proper scaling on your number line, clearly marked quartiles, and check for any outliers using the 1.5 × IQR rule. Compare the two box plots and describe what they tell you about the differences between the data sets.",
+          "duration_minutes": 40,
+          "mascot_explanation": "Now for the exciting part - building your box plots! Take your time to be accurate with your measurements and calculations. Remember, each box plot is like creating a portrait of your data that shows its personality and characteristics!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify and calculate all parts of the five-number summary for any ordered data set?",
+            "How do you determine if a data point is an outlier using the IQR method?",
+            "What can you tell about a data set's distribution by looking at its box plot shape and quartile spacing?"
+          ],
+          "mascot_explanation": "Let's make sure you've mastered the art of box plot creation and interpretation! These questions will help you demonstrate your understanding of how these powerful visual tools reveal the secrets hidden in data sets."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you've learned to construct and interpret box plots, a powerful tool for visualizing data distribution. Box plots help us quickly see the center, spread, and shape of data, as well as identify unusual values. This skill will be valuable for analyzing data in science, sports, economics, and many other fields.",
+          "mastery_check": "Student can accurately find five-number summary, construct properly scaled box plots, identify outliers using IQR rule, and interpret what box plots reveal about data distribution.",
+          "mascot_explanation": "Fantastic work becoming a box plot expert! You now have a powerful tool for making sense of data and comparing different groups. Remember, every box plot tells a story - and now you know how to read and write those stories with numbers!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "art_music",
+    "week_number": 19,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Protest Songs and Social Change: Music as a Voice for Justice",
+    "description": "Students explore how music has been used throughout history to inspire social movements and express calls for justice. They will analyze protest songs from different eras and cultures, then create their own song addressing a current issue they care about.",
+    "instructions": [
+      "1. Begin by discussing how music can be a powerful tool for expressing emotions and ideas about social issues.",
+      "2. Listen to excerpts from famous protest songs like 'We Shall Overcome,' 'Blowin' in the Wind,' or 'What's Going On' and discuss their historical context.",
+      "3. Analyze the lyrical techniques used in protest songs: repetition, metaphor, call-and-response, and emotional appeal.",
+      "4. Explore how musical elements (rhythm, melody, dynamics) enhance the message of social justice songs.",
+      "5. Research protest songs from different cultures and time periods to see universal themes of seeking justice and equality.",
+      "6. Have your child choose a current social issue they care about (environment, bullying, fairness, etc.).",
+      "7. Guide them in writing lyrics for their own protest song using techniques learned from the examples.",
+      "8. Help them create a simple melody or choose an existing tune to carry their message, then perform their song."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Computer or device with internet access for listening to songs",
+      "Paper and pencil for writing lyrics",
+      "Optional: simple instrument (keyboard, guitar, or phone app)",
+      "Printed lyrics of famous protest songs",
+      "Recording device (phone or computer) for final performance"
+    ],
+    "sort_order": 23,
+    "parent_notes": "This lesson connects music to social consciousness, allowing your child to explore how artists use their creativity to advocate for change. The Montessori approach values the child's natural sense of justice and desire to contribute to their community. Encourage your child to choose issues they genuinely care about, and support their authentic voice rather than pushing particular viewpoints. This creative expression builds confidence in using art as a tool for positive change while developing critical thinking about social issues.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Protest Songs and Social Change: Music as a Voice for Justice",
+          "subheading": "Exploring how music inspires movements and expresses calls for change",
+          "mascot_explanation": "Hello, young musicians and changemakers! I'm Finn Fox, and today we're going to discover how music can be a powerful voice for justice and positive change. Just like how I use my voice to communicate with other forest creatures, humans have used songs to bring communities together and speak up for what's right!"
+        },
+        {
+          "type": "materials",
+          "items": ["Computer or device with internet access for listening to songs", "Paper and pencil for writing lyrics", "Optional: simple instrument (keyboard, guitar, or phone app)", "Printed lyrics of famous protest songs", "Recording device (phone or computer) for final performance"],
+          "setup_instructions": "Set up your listening station with internet access and have your writing materials ready. If you have any musical instruments available, keep them nearby for experimenting with melodies. Create a comfortable space where you can both listen thoughtfully and write creatively.",
+          "mascot_explanation": "Let's gather our tools for creating meaningful music! These materials will help you explore how songs can carry important messages and inspire people to work together for positive change. Your voice and creativity are the most important instruments you'll use today!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Analyze the lyrical and musical techniques used in famous protest songs. Listen for repetition (which makes songs easy to sing together), metaphors (which make complex ideas accessible), call-and-response patterns, and how the melody and rhythm support the emotional message.",
+          "mascot_explanation": "Great protest songs use special techniques that make them stick in our hearts and minds! Listen carefully to how the words and music work together to create something powerful that people want to sing along with and remember."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Research protest songs from different cultures and time periods to understand how music has been used universally to seek justice, equality, and positive change. Notice common themes while appreciating different musical styles and cultural contexts.",
+          "mascot_explanation": "People all around the world and throughout history have used music to stand up for what's right! You'll discover that even though the languages and styles are different, the desire for fairness and justice is something all humans share."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose a current social issue you care about and write your own protest song. Use the techniques you've learned: meaningful lyrics with metaphors or repetition, a melody that supports your message, and a structure that would be easy for others to learn and sing. Practice performing your song and record a final version to share.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Now it's time to become a songwriter for change! Think about something in the world that you'd like to see improved, and let your creativity flow. Remember, your song doesn't have to be perfect - it just needs to come from your heart and express what you truly believe in!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify the key techniques that make protest songs effective and memorable?",
+            "How do musical elements (melody, rhythm, dynamics) enhance the message of social justice songs?",
+            "What social issue did you choose for your song and why is it important to you?"
+          ],
+          "mascot_explanation": "Let's reflect on what you've learned about music as a tool for positive change! These questions will help you think about both the technical aspects of songwriting and the personal passion that drives meaningful music."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you've discovered how music serves as a powerful voice for justice and social change throughout history and across cultures. You've created your own protest song, learning to combine musical techniques with meaningful messages. Remember that your voice and creativity can contribute to making the world a better place.",
+          "mastery_check": "Student can identify techniques used in protest songs, demonstrates understanding of how music supports social movements, and creates an original song addressing a social issue with appropriate lyrical and musical elements.",
+          "mascot_explanation": "What an amazing job using your musical talents to speak up for positive change! You've learned that music isn't just entertainment - it can be a force for making the world more fair and just. Keep using your voice and creativity to inspire others and work toward the changes you want to see!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 19,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Brown Girl Dreaming: Poetry as Personal History and Identity Formation",
+    "description": "Students explore Jacqueline Woodson's memoir in verse, focusing on how poetry can capture personal experiences and the development of identity. This lesson examines how the author uses poetic techniques to convey childhood memories and growing awareness of race and place.",
+    "instructions": [
+      "1. Begin by discussing memoir as a genre and how 'Brown Girl Dreaming' is unique as a memoir written in verse form.",
+      "2. Read aloud selected poems from the book that show Jacqueline's early childhood experiences and family relationships.",
+      "3. Analyze how Woodson uses specific poetic techniques like imagery, line breaks, and repetition to convey emotion and memory.",
+      "4. Discuss how the author presents her growing awareness of identity, particularly related to race, family history, and geographic location.",
+      "5. Explore how the poems show the author's development as a writer and her early love of storytelling.",
+      "6. Compare the verse memoir format to traditional prose memoir, discussing the advantages of poetry for expressing personal experience.",
+      "7. Have your child identify themes that resonate with their own life experiences or family stories.",
+      "8. Encourage your child to write a short poem about one of their own meaningful childhood memories, inspired by Woodson's style."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Copy of 'Brown Girl Dreaming' by Jacqueline Woodson",
+      "Notebook for writing responses and observations",
+      "Pencil or pen",
+      "Sticky notes for marking meaningful passages",
+      "Paper for writing original poetry"
+    ],
+    "sort_order": 24,
+    "parent_notes": "This memoir in verse offers rich opportunities to discuss identity, family history, and the power of poetry to capture personal experience. Woodson's gentle but honest treatment of racial themes provides age-appropriate exposure to important social realities. The Montessori emphasis on respecting the child's developing consciousness aligns well with how this book presents complex topics through a child's perspective. Encourage your child to connect Woodson's experiences with their own family stories and developing sense of identity, while being sensitive to any differences in their backgrounds.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Brown Girl Dreaming: Poetry as Personal History and Identity Formation",
+          "subheading": "Exploring Jacqueline Woodson's memoir in verse and the power of poetry to capture personal experience",
+          "mascot_explanation": "Hello, young poets and storytellers! I'm Finn Fox, and today we're exploring a very special book that tells a life story through beautiful poems. Just like how I have memories of growing up in my forest home, Jacqueline Woodson shares her childhood memories through the magic of poetry!"
+        },
+        {
+          "type": "materials",
+          "items": ["Copy of 'Brown Girl Dreaming' by Jacqueline Woodson", "Notebook for writing responses and observations", "Pencil or pen", "Sticky notes for marking meaningful passages", "Paper for writing original poetry"],
+          "setup_instructions": "Find a comfortable reading space where you can sit together with the book. Have your notebook and sticky notes ready for marking passages that stand out to you. Keep extra paper nearby for any poetry writing you'll do during or after reading.",
+          "mascot_explanation": "Let's set up our poetry exploration station! These materials will help you dive deep into Jacqueline Woodson's beautiful words and maybe discover your own poetic voice along the way. Remember, the best poetry comes from the heart and personal experience!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Explore how Jacqueline Woodson uses poetic techniques like imagery, line breaks, and repetition to convey childhood memories and emotions. Notice how she breaks lines at meaningful moments and uses concrete details to help readers visualize and feel her experiences.",
+          "mascot_explanation": "Poetry has special tools that make memories come alive on the page! Watch how Woodson paints pictures with words and uses the shape of poems to make us feel what she felt as a child. It's like she's sharing her heart through carefully chosen words."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Analyze how the author presents her developing understanding of identity, particularly related to race, family history, and the different places she lived. Notice how her awareness grows throughout the poems as she gets older.",
+          "mascot_explanation": "Growing up means gradually understanding more about yourself and the world around you. Jacqueline shows us how she slowly learned about her family's history, her identity, and how others saw her. It's like watching someone put together the pieces of who they are!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Read several poems from 'Brown Girl Dreaming' together, discussing how Woodson uses poetry to capture specific memories and emotions. Identify themes that connect to universal childhood experiences as well as those specific to her identity and time period. Then write your own poem about a meaningful childhood memory, inspired by Woodson's style of using concrete details and emotional honesty.",
+          "duration_minutes": 40,
+          "mascot_explanation": "Now you get to be both a poetry detective and a poet yourself! As you read Jacqueline's poems, think about your own special memories and how you might capture them in verse. Remember, the best poems tell the truth about what it feels like to be you!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does writing memoir in verse form differ from traditional prose memoir, and what are the advantages?",
+            "What poetic techniques does Woodson use to make her childhood memories vivid and emotional for readers?",
+            "How do the poems show Jacqueline's growing awareness of her identity and place in the world?"
+          ],
+          "mascot_explanation": "Let's think deeply about how poetry can tell life stories in a special way! These questions will help you understand both the craft of memoir writing and the unique power that poems have to capture human experience."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you've explored how Jacqueline Woodson uses poetry to create a powerful memoir that captures both personal experience and broader themes of identity, family, and growing up. You've seen how verse can be an effective way to convey emotion and memory, and you've tried writing your own memory poem. Poetry offers a unique lens for understanding both ourselves and others.",
+          "mastery_check": "Student can identify poetic techniques used in memoir verse, discusses themes of identity and personal growth, and creates original poetry inspired by personal memory and experience.",
+          "mascot_explanation": "What a wonderful journey through poetry and personal storytelling! You've discovered how poems can hold our most important memories and help us understand who we are. Keep exploring your own experiences through writing - you have important stories to tell too!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "culture",
+    "week_number": 19,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Renewable Energy Solutions: Wind, Solar, and Hydroelectric Power Systems",
+    "description": "Students investigate different renewable energy technologies and their environmental benefits compared to fossil fuels. This lesson explores how wind turbines, solar panels, and hydroelectric dams work, along with their advantages and limitations for sustainable development.",
+    "instructions": [
+      "1. Begin by reviewing the environmental problems associated with burning fossil fuels and the need for cleaner energy alternatives.",
+      "2. Explore how wind turbines work by discussing air movement, blade design, and the conversion of kinetic energy to electrical energy.",
+      "3. Investigate solar energy by examining how photovoltaic cells convert sunlight into electricity and discuss optimal conditions for solar power.",
+      "4. Study hydroelectric power by learning how flowing water turns turbines and the role of dams in controlling water flow.",
+      "5. Compare the advantages and limitations of each renewable energy source, including cost, reliability, and environmental impact.",
+      "6. Research which renewable energy sources work best in different geographic locations and climates.",
+      "7. Examine real-world examples of communities or countries that have successfully transitioned to renewable energy.",
+      "8. Discuss what individuals and families can do to support renewable energy adoption in their own communities."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Computer or tablet with internet access for research",
+      "World map or atlas",
+      "Notebook for recording information",
+      "Colored pencils or markers for creating diagrams",
+      "Calculator for comparing energy statistics"
+    ],
+    "sort_order": 25,
+    "parent_notes": "This lesson connects environmental science with practical solutions, embodying the Montessori principle of cosmic education where children see themselves as part of the interconnected world. Encourage your child to think critically about energy choices and their long-term consequences for the planet. The focus on renewable energy solutions empowers children to see themselves as agents of positive change rather than feeling helpless about environmental challenges. Connect this learning to your own family's energy choices and local renewable energy initiatives when possible.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Renewable Energy Solutions: Wind, Solar, and Hydroelectric Power Systems",
+          "subheading": "Exploring clean energy technologies for a sustainable future",
+          "mascot_explanation": "Hello, future environmental stewards! I'm Finn Fox, and today we're going to explore amazing technologies that harness nature's power to create clean energy. Just like how I rely on the natural world around me, humans are learning to work with wind, sun, and water to power our lives sustainably!"
+        },
+        {
+          "type": "materials",
+          "items": ["Computer or tablet with internet access for research", "World map or atlas", "Notebook for recording information", "Colored pencils or markers for creating diagrams", "Calculator for comparing energy statistics"],
+          "setup_instructions": "Set up your research station with internet access and reference materials. Have your notebook ready for taking detailed notes about different energy technologies. Keep your map accessible for identifying optimal locations for different renewable energy sources.",
+          "mascot_explanation": "Let's prepare our renewable energy research lab! These materials will help you investigate how different clean energy technologies work and where they're most effective around the world. You're about to become an expert on solutions that can help protect our planet!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn how wind turbines convert kinetic energy from moving air into electrical energy. Study the design of turbine blades, the role of generators, and why certain locations are better for wind farms than others based on consistent wind patterns.",
+          "mascot_explanation": "Wind turbines are like giant pinwheels that capture the power of moving air! It's amazing how something as simple as wind can be transformed into electricity to power homes and schools. The clever design of these machines shows how humans can work with nature's forces!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Investigate how solar panels work through photovoltaic cells that convert sunlight directly into electricity. Explore factors that affect solar efficiency like sun angle, weather conditions, and geographic location, plus learn about solar thermal systems that heat water.",
+          "mascot_explanation": "Solar panels are like magic windows that turn sunshine into electricity! It's incredible that we can capture the same energy that helps plants grow and use it to power our technology. The sun gives us free energy every day - we just need to know how to collect it!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Research and compare the three main renewable energy sources: wind, solar, and hydroelectric power. Create detailed diagrams showing how each system works, then investigate which regions of the world are best suited for each type based on natural resources. Calculate and compare the environmental benefits of renewable energy versus fossil fuels, including carbon emissions reduction.",
+          "duration_minutes": 40,
+          "mascot_explanation": "Now you get to be a renewable energy detective! You'll discover how different parts of the world can use their natural resources - whether it's sunny deserts, windy coasts, or flowing rivers - to create clean electricity. This research will show you how geography and technology work together for environmental solutions!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How do wind turbines, solar panels, and hydroelectric dams each convert natural energy into electricity?",
+            "What are the main advantages and limitations of each renewable energy source?",
+            "Which geographic and climate conditions make different renewable energy sources most effective?"
+          ],
+          "mascot_explanation": "Let's make sure you understand these important clean energy technologies! These questions will help you think about how different renewable energy sources work and when each one is the best choice for powering communities sustainably."
+        },
+        {
+          "type": "wrap_up",

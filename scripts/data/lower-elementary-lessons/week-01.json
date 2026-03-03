@@ -98,7 +98,11 @@
     },
     "parent_notes": "This first language lesson serves a dual purpose: it assesses your child's current reading level while establishing the Reading Journal as a year-long practice. In Montessori elementary, children are expected to read independently for extended periods. If 15 minutes is too long, start with 10 and build up. The key is that the child CHOOSES their book — intrinsic motivation is central to Montessori. Good chapter book series for this age: Magic Tree House, Junie B. Jones, Cam Jansen, Mercy Watson, The Boxcar Children. Don't correct during silent reading; note struggles for later phonics or vocabulary work. The Reading Journal should feel like THEIR book, not a chore — let them decorate it however they wish.",
     "age_adaptations": null,
-    "sort_order": 1
+    "sort_order": 1,
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
   },
   {
     "level_name": "lower_elementary",
@@ -190,7 +194,14 @@
     },
     "parent_notes": "The stamp game is the bridge between concrete (golden beads) and abstract (paper math). Your child used it in primary for 2-3 digit operations. Now we extend to 4 digits and will soon use the bead frame, which is even more abstract. The key concept is that each column is 10x the previous one. If your child breezes through this, great — it means primary gave them a solid foundation. If they struggle with 4-digit numbers, spend extra time here before moving to operations. The 'zero placeholder' concept (like 3,047 having no hundreds... wait, it has zero tens) is particularly important and often tricky.",
     "age_adaptations": null,
-    "sort_order": 2
+    "sort_order": 2,
+    "printable_pdfs": [
+      "/printables/materials/math/number-cards-1-10.pdf",
+      "/printables/materials/math/number-cards-teens.pdf",
+      "/printables/materials/math/place-value-cards.pdf",
+      "/printables/materials/math/stamp-game.pdf"
+    ],
+    "printable_template": "number-cards"
   },
   {
     "level_name": "lower_elementary",
@@ -297,7 +308,11 @@
     },
     "parent_notes": "THIS IS THE MOST IMPORTANT LESSON IN MONTESSORI ELEMENTARY. The First Great Lesson sets the tone for the entire year and the entire elementary experience. It must be told dramatically, with awe and reverence. Maria Montessori called it 'God Who Has No Hands' because the laws of nature work without anyone directing them — particles obey laws of attraction, repulsion, and transformation on their own. You don't need to be religious to tell this story; the 'God' in the title refers to the mystery and order of the universe. The demonstrations are key — children this age need to SEE the principles, not just hear about them. Practice the demos beforehand. The balloon-pop is dramatic and memorable. The food coloring and oil demonstrate that matter follows laws. This lesson sparks months of follow-up research in science, geography, and history. Don't rush it. Let the child sit in wonder.",
     "age_adaptations": null,
-    "sort_order": 3
+    "sort_order": 3,
+    "printable_pdfs": [
+      "/printables/materials/history/timeline.pdf"
+    ],
+    "printable_template": "timeline"
   },
   {
     "level_name": "lower_elementary",
@@ -391,7 +406,11 @@
     },
     "parent_notes": "This geography lesson flows directly from the First Great Lesson, which is exactly how Montessori elementary works — the Great Lessons are the trunk of the tree, and all subjects branch from them. The solar system connects to the story of how Earth formed. The scale model is important because children cannot grasp cosmic distances from pictures alone. If you can, do this outdoors: place the 'Sun' (a beach ball) at one end of a field and walk the planets out to scale — Mercury would be about 10 paces away, but Neptune would be nearly 1,000! This visceral experience of scale is unforgettable. The 'cosmic address' concept helps children feel connected to the universe — a core Montessori elementary goal called 'cosmic education.'",
     "age_adaptations": null,
-    "sort_order": 4
+    "sort_order": 4,
+    "printable_pdfs": [
+      "/printables/materials/geography/map-skills.pdf"
+    ],
+    "printable_template": "map-skills"
   },
   {
     "level_name": "lower_elementary",
@@ -577,7 +596,11 @@
     },
     "parent_notes": "Montessori grammar uses a brilliant system of geometric symbols to make abstract grammar concepts concrete and visual. The triangle family represents the noun family — all triangles, but different sizes and colors. This is a REVIEW from primary, where children were introduced to the first 3-4 parts of speech. In Lower Elementary, we deepen understanding and work toward all 8 parts of speech. The physical act of placing symbols above words makes grammar tangible. If you don't have official Montessori grammar symbols, you can easily make them from construction paper or cardstock. The colors and sizes matter because they encode relationships: all noun-family words are triangles, all verb-family words are circles. This system helps children see patterns in language structure.",
     "age_adaptations": null,
-    "sort_order": 6
+    "sort_order": 6,
+    "printable_pdfs": [
+      "/printables/materials/language/grammar-symbols.pdf"
+    ],
+    "printable_template": "grammar-symbols"
   },
   {
     "level_name": "lower_elementary",
@@ -669,7 +692,11 @@
     },
     "parent_notes": "The bead frame (also called the Montessori abacus) is a step MORE abstract than the stamp game. With stamps, each unit is a separate tile. On the bead frame, beads represent quantities by position — this is closer to how our number system actually works. Static addition (no carrying) lets the child learn the TOOL before tackling the harder CONCEPT of exchanging/carrying. If you don't have a Montessori bead frame, you can use a standard 4-row abacus or even make one with pipe cleaners and pony beads (10 beads per row: green, blue, red, green). The recording paper has columns for each place value — you can make this by drawing vertical lines on paper and labeling columns Th, H, T, U.",
     "age_adaptations": null,
-    "sort_order": 7
+    "sort_order": 7,
+    "printable_pdfs": [
+      "/printables/materials/math/bead-bars.pdf"
+    ],
+    "printable_template": "bead-bars"
   },
   {
     "level_name": "lower_elementary",
@@ -767,7 +794,11 @@
     },
     "parent_notes": "This lesson directly extends the First Great Lesson — the laws that particles follow include the rules about states of matter. This connection is intentional: in Montessori elementary, EVERYTHING connects back to the Great Lessons. The 'particle dance' is a powerful kinesthetic model that helps children understand an invisible process. The ice-to-steam experiment should be done with real heat and real observation — this is real science, not a worksheet. Safety note: supervise the hot plate/stove carefully, but don't do it FOR the child. They should observe closely (with appropriate distance from steam). The science journal is launched here and will be used all year. Encourage detailed drawings with labels — scientific illustration is a real skill.",
     "age_adaptations": null,
-    "sort_order": 8
+    "sort_order": 8,
+    "printable_pdfs": [
+      "/printables/materials/science/science-cards.pdf"
+    ],
+    "printable_template": "science-cards"
   },
   {
     "level_name": "lower_elementary",
@@ -1058,7 +1089,11 @@
     },
     "parent_notes": "Writing in Montessori elementary is always connected to content the child has experienced — never isolated 'writing practice.' By writing about the First Great Lesson, the child processes the story more deeply AND practices paragraph structure. The graphic organizer (hamburger paragraph) is a scaffold that helps children organize their thoughts before writing. Don't skip the planning step — children who plan write better paragraphs. During the writing phase, resist correcting every error. Focus on CONTENT first (Did they say something meaningful?), then STRUCTURE (paragraph format), then MECHANICS (spelling, punctuation). If your child learned cursive in primary, encourage it here. If not, print is fine — cursive can be introduced later. The reading journal and writing journal are SEPARATE — one records reading responses, the other is for original writing.",
     "age_adaptations": null,
-    "sort_order": 11
+    "sort_order": 11,
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
   },
   {
     "level_name": "lower_elementary",
@@ -1150,7 +1185,11 @@
     },
     "parent_notes": "Dynamic addition (carrying) is the same concept whether done with golden beads, stamp game, bead frame, or pencil and paper. The beauty of Montessori math is that by the time a child writes the algorithm on paper, they have already DONE the carrying with their hands dozens of times. They understand WHY we 'carry the 1' — because 10 units literally becomes 1 ten. The bead frame makes this visible: when you have 10 beads and slide them all back, then slide 1 forward on the next row, the child SEES the exchange happen. This kinesthetic understanding prevents the common confusion of 'just memorize the carrying procedure.' If your child struggles, go back to the stamp game for a few problems — stamps are more concrete because each unit is a separate piece. Then return to the bead frame.",
     "age_adaptations": null,
-    "sort_order": 12
+    "sort_order": 12,
+    "printable_pdfs": [
+      "/printables/materials/math/bead-bars.pdf"
+    ],
+    "printable_template": "bead-bars"
   },
   {
     "level_name": "lower_elementary",
@@ -1247,7 +1286,11 @@
     },
     "parent_notes": "Part 2 of the First Great Lesson completes the cosmic creation story by bringing it home to Earth. The volcano demonstration is always a hit with this age group and connects science (chemical reactions) to history (Earth's formation). The Timeline of the Universe is a critical Montessori material — it gives children a visual sense of deep time. If you don't have the official Montessori timeline, you can make one on a long roll of paper (butcher paper works well). The scale exercise (universe as a 24-hour clock, with humans appearing at 11:59:59 PM) is profoundly humbling and is a key element of Montessori's 'cosmic education' — the idea that we are a tiny but significant part of an enormous story. This sense of cosmic perspective is what distinguishes Montessori elementary from conventional education.",
     "age_adaptations": null,
-    "sort_order": 13
+    "sort_order": 13,
+    "printable_pdfs": [
+      "/printables/materials/history/timeline.pdf"
+    ],
+    "printable_template": "timeline"
   },
   {
     "level_name": "lower_elementary",
@@ -1340,7 +1383,11 @@
     },
     "parent_notes": "This lesson is a beautiful example of Montessori's approach to cultural education. By presenting creation stories from diverse cultures alongside the scientific Big Bang narrative, we show children that ALL humans share the same fundamental questions. This is NOT about promoting any particular religion or dismissing any tradition — it's about building respect for human diversity while recognizing our shared humanity. Choose stories from cultures that are relevant to your family and community, and also include traditions that are unfamiliar. The map component is important — it grounds abstract stories in real places. If your family has a specific religious tradition, include it naturally alongside the others. Maria Montessori believed that cosmic education should cultivate gratitude and wonder, not competition between worldviews.",
     "age_adaptations": null,
-    "sort_order": 14
+    "sort_order": 14,
+    "printable_pdfs": [
+      "/printables/materials/culture/cultural-activity-sheets.pdf"
+    ],
+    "printable_template": "cultural-activity-sheets"
   },
   {
     "level_name": "lower_elementary",
@@ -1527,7 +1574,11 @@
     },
     "parent_notes": "This lesson pushes into abstract thinking, which is exactly what 6-9 year olds are developmentally ready for. Maria Montessori observed that the 'second plane' child (ages 6-12) is intensely interested in classification, rules, and abstract concepts. Concrete vs. abstract nouns satisfies this need beautifully. The 'edge cases' (music, wind, time) are intentionally provocative — they spark the kind of philosophical discussion that elementary children love. Don't resolve these debates definitively; let the child wrestle with them. Some linguists actually classify these differently! The connection between abstract nouns and human values (love, courage, justice) previews the moral reasoning that is central to the second plane of development. These children are deeply concerned with fairness and 'what's right' — abstract nouns give them language for these concepts.",
     "age_adaptations": null,
-    "sort_order": 16
+    "sort_order": 16,
+    "printable_pdfs": [
+      "/printables/materials/language/grammar-symbols.pdf"
+    ],
+    "printable_template": "grammar-symbols"
   },
   {
     "level_name": "lower_elementary",
@@ -1619,7 +1670,11 @@
     },
     "parent_notes": "Subtraction with borrowing (regrouping) is one of the most commonly misunderstood operations in elementary math. The bead frame makes the 'WHY' behind borrowing crystal clear: when you don't have enough beads in a row, you literally trade 1 bead from the next row for 10 beads in the current row. This is the SAME exchange as carrying in addition, just in reverse. Problem 3 (7,000 - 3,456) is intentionally challenging because borrowing across zeros requires multiple exchanges. If your child finds this overwhelming, break it into steps and do each exchange one at a time. There's no rush — the concrete understanding must be solid before moving to abstract paper algorithms. Some children will want to check their subtraction by adding the answer to the subtrahend — encourage this! It builds number sense and is a real mathematical practice.",
     "age_adaptations": null,
-    "sort_order": 17
+    "sort_order": 17,
+    "printable_pdfs": [
+      "/printables/materials/math/bead-bars.pdf"
+    ],
+    "printable_template": "bead-bars"
   },
   {
     "level_name": "lower_elementary",
@@ -1715,7 +1770,11 @@
     },
     "parent_notes": "This lesson uses the scientific method in an age-appropriate way: observe, test, record, conclude. The three-station setup gives the child hands-on experience with each state rather than just hearing about properties. The syringe demonstration is particularly powerful — children are often surprised that air can be compressed but water cannot. The 'challenge' question about sand is brilliant for this age group: sand is a solid that FLOWS like a liquid. This edge case (called a 'granular material') sparks exactly the kind of thinking Montessori elementary cultivates — questioning categories, looking for exceptions, and refining understanding. Don't give them the answer; let them debate and research. The comparison chart introduces a key scientific skill: organizing data for comparison. This format will be used throughout the year.",
     "age_adaptations": null,
-    "sort_order": 18
+    "sort_order": 18,
+    "printable_pdfs": [
+      "/printables/materials/science/lab-report.pdf"
+    ],
+    "printable_template": "lab-report"
   },
   {
     "level_name": "lower_elementary",
@@ -1812,7 +1871,11 @@
     },
     "parent_notes": "Montessori geometry begins with the most basic elements and builds systematically. Lines come before angles, angles before shapes. The etymology of each term (horizontal from horizon, vertical from vertex, diagonal from Greek) is intentional — Montessori education always connects vocabulary to its roots, building word consciousness and aiding memory. The 'scavenger hunt' for lines in the environment is a key Montessori technique: it transfers abstract knowledge to the real world. After this lesson, your child will start SEEING lines everywhere — in architecture, in nature, in art. This is exactly the goal. The geometry notebook is separate from other journals because geometry work involves a lot of drawing and construction that benefits from its own dedicated space.",
     "age_adaptations": null,
-    "sort_order": 19
+    "sort_order": 19,
+    "printable_pdfs": [
+      "/printables/materials/sensorial/geometry-shapes.pdf"
+    ],
+    "printable_template": "geometry-shapes"
   },
   {
     "level_name": "lower_elementary",
@@ -1999,7 +2062,11 @@
     },
     "parent_notes": "This lesson reviews primary phonics skills while extending them. Most children entering Lower Elementary can decode CVC words but may still struggle with blends and digraphs. The moveable alphabet (or letter tiles) keeps the work hands-on — physically building words is more engaging and memorable than worksheets. The personal spelling dictionary is a Montessori tool that gives children ownership of their vocabulary growth. Unlike a class spelling list, the personal dictionary contains words that are relevant to THIS child. When they encounter a tricky word in science (atmosphere), history (civilization), or reading (mysterious), they add it to their dictionary. The dictation exercise tests encoding (spelling from hearing), which is harder than decoding (reading). Read each word clearly, use it in a sentence, and give the child time to write it. Don't mark wrong — let them self-correct by checking the word card afterward.",
     "age_adaptations": null,
-    "sort_order": 21
+    "sort_order": 21,
+    "printable_pdfs": [
+      "/printables/materials/language/word-cards.pdf"
+    ],
+    "printable_template": "word-cards"
   },
   {
     "level_name": "lower_elementary",
@@ -2091,7 +2158,14 @@
     },
     "parent_notes": "Word problems bridge abstract math and real-world application. Many children who can add and subtract fluently on the bead frame struggle with word problems because they require READING COMPREHENSION, REASONING about which operation to use, and COMMUNICATION of the answer. This is why we practice all three skills together. The contexts in these problems are intentionally connected to the Great Lessons (stars, volcanoes, mountains) — in Montessori, everything connects. The complete sentence answer is important because it forces the child to interpret the number: '5,834 stars' means something different from '5,834 books.' When your child writes their own word problem, they must think about all three components (context, numbers, operation), which deepens understanding. If your child struggles to identify the operation, teach the keywords approach: 'total,' 'altogether,' 'sum' = addition; 'left,' 'remaining,' 'difference' = subtraction. But also discuss that keywords aren't always reliable — reasoning about the SITUATION is more important.",
     "age_adaptations": null,
-    "sort_order": 22
+    "sort_order": 22,
+    "printable_pdfs": [
+      "/printables/materials/math/number-cards-1-10.pdf",
+      "/printables/materials/math/number-cards-teens.pdf",
+      "/printables/materials/math/place-value-cards.pdf",
+      "/printables/materials/math/stamp-game.pdf"
+    ],
+    "printable_template": "number-cards"
   },
   {
     "level_name": "lower_elementary",
@@ -2187,7 +2261,11 @@
     },
     "parent_notes": "The globe and flashlight demonstration is one of the most powerful geography lessons in Montessori elementary. Darkening the room and physically seeing light and shadow on the globe makes the abstract concept of day/night concrete and memorable. The revolution demonstration (walking the globe around the lamp) helps children understand why we have years and seasons. The Earth's tilt (23.5 degrees) is the key to understanding seasons — it's not about distance from the Sun (a common misconception). When the Northern Hemisphere tilts toward the Sun, sunlight hits more directly = summer. When it tilts away, sunlight hits at an angle = winter. This is subtle and may need revisiting. The 'trips around the Sun' birthday calculation is a Montessori classic — it personalizes the astronomical concept and connects to the child's own life. Some classrooms do a 'Sun birthday' walk where the child carries the globe around a candle (Sun) once for each year of their age.",
     "age_adaptations": null,
-    "sort_order": 23
+    "sort_order": 23,
+    "printable_pdfs": [
+      "/printables/materials/geography/map-skills.pdf"
+    ],
+    "printable_template": "map-skills"
   },
   {
     "level_name": "lower_elementary",
@@ -2282,7 +2360,11 @@
     },
     "parent_notes": "Cultural studies in Montessori elementary serve a profound purpose: they build respect for human diversity while revealing our shared humanity. By studying how different cultures celebrate new beginnings, children discover that despite surface differences, all human beings share fundamental needs and values — community, hope, gratitude, and renewal. This lesson is intentionally placed in Week 1 to set the tone for the year: we are global citizens who respect and learn from all cultures. Be sensitive to your own family's religious or cultural background — include your traditions alongside others, neither above nor below. If you celebrate any of these holidays, share your personal experience! If not, approach them all with equal curiosity and respect. The comparison chart is a thinking tool that helps children move from 'this is exotic' to 'this is human.' The key insight: different customs, same human heart.",
     "age_adaptations": null,
-    "sort_order": 24
+    "sort_order": 24,
+    "printable_pdfs": [
+      "/printables/materials/culture/cultural-activity-sheets.pdf"
+    ],
+    "printable_template": "cultural-activity-sheets"
   },
   {
     "level_name": "lower_elementary",

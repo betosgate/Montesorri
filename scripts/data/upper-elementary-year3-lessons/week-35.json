@@ -1,0 +1,2219 @@
+[
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 35,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Portfolio Curation: Selecting and Ranking Best Writing Pieces",
+    "description": "Students begin their capstone writing portfolio by reviewing all their writing from the year and selecting their strongest pieces across different genres. They practice critical self-evaluation and develop criteria for quality writing.",
+    "instructions": [
+      "Gather all writing samples from throughout the year, organizing them by genre (argumentative, comparative analysis, memoir, journalism, creative writing).",
+      "Review the portfolio requirements together: best work from all years, variety of genres, evidence of growth over time.",
+      "Have your child read through 3-4 pieces from each genre, taking notes on strengths and areas for improvement in each piece.",
+      "Work together to develop evaluation criteria (clear thesis, strong evidence, engaging voice, proper mechanics, creativity).",
+      "Guide your child in ranking their top 2-3 pieces from each genre using the criteria you developed.",
+      "Have them write brief reflection notes explaining why each selected piece represents their best work.",
+      "Create a preliminary portfolio organization system with folders or sections for each type of writing.",
+      "End by having your child identify 1-2 pieces they want to revise before final portfolio submission."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "All writing samples from the school year",
+      "Notebook for reflection notes",
+      "Folders or binders for organization",
+      "Evaluation criteria checklist",
+      "Colored pens for ranking"
+    ],
+    "sort_order": 1,
+    "parent_notes": "This lesson embodies the Montessori principle of self-reflection and ownership of learning. Allow your child to make the primary decisions about which pieces best represent their growth, offering guidance rather than directing choices. The portfolio process helps students recognize their development as writers and take pride in their journey. Encourage honest self-assessment while celebrating the progress they've made throughout their elementary years.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Portfolio Curation: Selecting Your Best Writing",
+          "subheading": "Beginning Your Capstone Writing Portfolio",
+          "mascot_explanation": "Hello, young authors! I'm so excited to help you look back at all the amazing writing you've done this year. Today we're going to be like curators in a museum, carefully choosing your very best pieces to showcase in your special portfolio!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "All writing samples from the school year",
+            "Notebook for reflection notes",
+            "Folders or binders for organization",
+            "Evaluation criteria checklist",
+            "Colored pens for ranking"
+          ],
+          "setup_instructions": "Organize all writing samples by genre in separate piles. Set up a comfortable workspace with good lighting for reading and note-taking.",
+          "mascot_explanation": "Let's gather all your writing treasures from this year! Think of each piece as a snapshot of your growth as a writer. We'll need our materials organized so we can really focus on finding those gems that show off your best work."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Sort all your writing pieces by genre: argumentative essays, comparative analysis, memoir writing, journalism pieces, and creative writing. Count how many pieces you have in each category.",
+          "mascot_explanation": "Just like organizing a library, we need to group similar types of writing together! This will help you see the variety of writing you've mastered and make it easier to compare pieces within each genre."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Create evaluation criteria by listing 5-6 qualities that make writing excellent (such as clear main ideas, strong evidence, engaging voice, proper grammar, and creativity). Rate each quality on a 1-4 scale.",
+          "mascot_explanation": "Now we're becoming writing critics! By creating our own standards, you'll have a fair way to judge which pieces truly represent your best work. This helps you think like a real editor or publisher who needs to choose the strongest writing."
+        },
+        {
+          "type": "activity",
+          "prompt": "Read through 3-4 pieces from each genre, using your evaluation criteria to score each piece. Write reflection notes about what makes each piece strong or what could be improved. Rank your top 2-3 pieces in each genre.",
+          "duration_minutes": 35,
+          "mascot_explanation": "This is the heart of our detective work! As you read your own writing, you might be surprised by how much you've grown. Take your time with each piece - you're not just reading, you're discovering the author you've become!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Which genre contains your strongest writing and why?",
+            "What criteria did you find most important when evaluating your work?",
+            "How has your writing voice changed from your earliest pieces to your most recent ones?"
+          ],
+          "mascot_explanation": "These questions help you think deeply about your journey as a writer! There are no wrong answers - this is all about understanding your own growth and recognizing the unique voice you've developed."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've completed the first crucial step in creating your capstone portfolio by identifying your strongest writing pieces and understanding what makes them effective. Tomorrow we'll begin the revision process for your selected pieces.",
+          "mastery_check": "Student can identify 2-3 top pieces in each genre and explain their selection using specific criteria.",
+          "mascot_explanation": "What an accomplishment! You've just done something many professional writers do - you've critically evaluated your own work and made thoughtful choices about what represents you best. Your portfolio is going to be amazing!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 35,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Distance Between Coordinate Points: Using the Distance Formula",
+    "description": "Students learn to calculate the exact distance between any two points on a coordinate plane using the distance formula. They connect this to the Pythagorean theorem and practice with real-world mapping scenarios.",
+    "instructions": [
+      "Review plotting points on a coordinate plane and remind your child how to find horizontal and vertical distances between points.",
+      "Introduce the distance formula: d = √[(x₂-x₁)² + (y₂-y₁)²], explaining how it relates to the Pythagorean theorem.",
+      "Work through 2-3 examples together, starting with points that form right triangles to show the connection to a² + b² = c².",
+      "Have your child practice calculating distances between various point pairs, checking answers by drawing and measuring when possible.",
+      "Apply the distance formula to real-world scenarios like finding distances between cities on a coordinate map.",
+      "Challenge your child to find points that are exactly a specific distance apart from a given point.",
+      "Have them create their own coordinate plane problems with points representing locations meaningful to them.",
+      "Review by having them explain when and why we use the distance formula instead of just counting grid squares."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Coordinate plane graph paper",
+      "Calculator",
+      "Ruler for verification",
+      "Colored pencils",
+      "Practice worksheet with point pairs"
+    ],
+    "sort_order": 2,
+    "parent_notes": "This lesson connects abstract algebra with concrete geometry, embodying Montessori's principle of moving from concrete to abstract understanding. The distance formula may seem complex, but by relating it to the familiar Pythagorean theorem, students can grasp the underlying logic. Encourage your child to visualize the right triangle formed by any two points before applying the formula. This spatial reasoning will serve them well in advanced mathematics and helps them see math as a tool for solving real problems.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Distance Between Coordinate Points",
+          "subheading": "Using the Distance Formula with Real-World Applications",
+          "mascot_explanation": "Hey there, math explorers! Today we're going to become mathematical navigators, learning how to find the exact distance between any two points on a coordinate plane. This is like having a super-precise measuring tool that works anywhere on a map!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Coordinate plane graph paper",
+            "Calculator",
+            "Ruler for verification",
+            "Colored pencils",
+            "Practice worksheet with point pairs"
+          ],
+          "setup_instructions": "Set up a workspace with graph paper and calculator easily accessible. Have colored pencils ready for drawing triangles and highlighting different parts of calculations.",
+          "mascot_explanation": "We'll need our trusty graph paper and calculator for this mathematical adventure! The ruler will help us double-check our work, and the colored pencils will make our coordinate triangles really pop off the page."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn the distance formula: d = √[(x₂-x₁)² + (y₂-y₁)²]. This formula finds the length of the hypotenuse of a right triangle formed by connecting two points on a coordinate plane.",
+          "mascot_explanation": "This might look scary at first, but it's really just the Pythagorean theorem in disguise! The (x₂-x₁) part finds the horizontal distance, and (y₂-y₁) finds the vertical distance - just like the legs of our right triangle."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Practice with the points A(1,2) and B(4,6). Draw these points, connect them, and draw the right triangle formed. Calculate: horizontal distance = 4-1 = 3, vertical distance = 6-2 = 4, so d = √(3² + 4²) = √(9 + 16) = √25 = 5.",
+          "mascot_explanation": "See how we're building that right triangle? The horizontal leg is 3 units, the vertical leg is 4 units, and our hypotenuse (the direct distance) is 5 units. It's like taking a shortcut instead of walking along the grid lines!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Calculate the distances between these point pairs: C(0,0) to D(3,4), E(-2,1) to F(1,5), and G(-3,-2) to H(2,1). For each pair, draw the triangle, identify the legs, and apply the distance formula. Then create your own problem using coordinates that represent real places.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now it's your turn to be the mathematician! Remember to take it step by step - plot the points, draw your triangle, find those leg lengths, and then use our formula. Don't forget that negative coordinates just mean we're going in the opposite direction!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does the distance formula relate to the Pythagorean theorem?",
+            "What would be the distance between points (0,0) and (5,12)?",
+            "Why can't we just count grid squares to find distance between diagonal points?"
+          ],
+          "mascot_explanation": "These questions help you connect the dots between different math concepts! The distance formula is really just our old friend the Pythagorean theorem wearing a coordinate plane costume. Pretty clever, right?"
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've mastered finding exact distances between any two points on a coordinate plane using the distance formula. This skill connects geometry, algebra, and real-world navigation, showing how mathematics provides precise tools for measuring our world.",
+          "mastery_check": "Student can correctly apply the distance formula to find distances between coordinate points and explain its connection to the Pythagorean theorem.",
+          "mascot_explanation": "Fantastic work, mathematical navigator! You now have a powerful tool that can measure distances anywhere on a coordinate plane. Whether you're planning a trip or designing a video game, you'll know exactly how to calculate those precise distances!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "history",
+    "week_number": 35,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Digital Revolution and Global Communication: Internet's Impact on Society",
+    "description": "Students explore how the development of the internet and digital technology transformed global communication, commerce, and daily life. They examine both positive impacts and challenges of our interconnected digital world.",
+    "instructions": [
+      "Begin by having your child imagine a day without internet, phones, or computers, and discuss how different life would be.",
+      "Create a timeline together showing key developments: ARPANET (1969), personal computers (1980s), World Wide Web (1990s), social media (2000s), smartphones (2010s).",
+      "Explore how the internet changed different aspects of life: education, shopping, entertainment, work, and relationships.",
+      "Discuss both benefits (instant communication, access to information, global connections) and challenges (privacy concerns, misinformation, digital divide).",
+      "Research how the internet has impacted a specific country or region, looking at economic and social changes.",
+      "Have your child interview family members about how technology has changed during their lifetimes.",
+      "Examine current digital issues: cybersecurity, online safety, digital citizenship, and the role of social media in democracy.",
+      "Conclude by predicting future technological developments and their potential impact on society."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Timeline template or poster paper",
+      "Internet access for research",
+      "Interview questions worksheet",
+      "World map for tracking digital divide",
+      "Chart paper for comparing benefits and challenges"
+    ],
+    "sort_order": 3,
+    "parent_notes": "This lesson connects historical change to students' lived experience, helping them understand they are part of ongoing history. The Montessori approach emphasizes helping children see themselves as part of the larger human story. Encourage your child to think critically about technology's role in their own life while appreciating the rapid pace of change. This topic naturally leads to discussions about digital citizenship and responsible technology use, which are crucial life skills for this generation.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Digital Revolution and Global Communication",
+          "subheading": "How the Internet Transformed Our World",
+          "mascot_explanation": "Welcome, digital natives! Today we're exploring one of the most incredible transformations in human history - how the internet changed everything about how we communicate, learn, work, and live. You're actually part of this amazing story!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Timeline template or poster paper",
+            "Internet access for research",
+            "Interview questions worksheet",
+            "World map for tracking digital divide",
+            "Chart paper for comparing benefits and challenges"
+          ],
+          "setup_instructions": "Prepare a large timeline space and have interview questions ready for family members. Set up computer access for research activities.",
+          "mascot_explanation": "We're going to be digital historians today! Our materials will help us track this incredible transformation from the early days of computers to the amazing connected world you know today. Get ready to discover how recent and revolutionary these changes really are!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Create a timeline of digital revolution milestones: ARPANET (1969), first personal computers (1970s-80s), World Wide Web public launch (1991), Google (1998), Facebook (2004), iPhone (2007), and current developments.",
+          "mascot_explanation": "It's amazing to think that the internet is younger than your parents or grandparents! This timeline will show you just how incredibly fast this transformation happened. Many of these inventions are newer than some of your favorite movies!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Compare life before and after the internet in key areas: how people shopped, found information, communicated with distant friends, worked, and entertained themselves. Create a 'then and now' chart with specific examples.",
+          "mascot_explanation": "Imagine having to go to a physical store for everything, or looking up facts in heavy encyclopedia books! This comparison will help you understand just how dramatically the internet has changed daily life for people around the world."
+        },
+        {
+          "type": "activity",
+          "prompt": "Interview a family member who lived before the internet was common (born before 1980). Ask them about their first computer, first time using the internet, and how technology changed their work or daily life. Record their responses and compare their experiences to your own digital life.",
+          "duration_minutes": 25,
+          "mascot_explanation": "This is like being a historical detective! The person you interview lived through one of the biggest changes in human history. Their stories will help you understand that you're part of an ongoing technological revolution that's still happening right now!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What are three major benefits of global internet connectivity?",
+            "What challenges or problems has the digital revolution created?",
+            "How has the internet affected democracy and the spread of information worldwide?"
+          ],
+          "mascot_explanation": "These questions help you think like a historian about the modern world! The digital revolution, like all major historical changes, brought both wonderful opportunities and serious challenges that we're still figuring out how to handle."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've explored how the internet and digital technology created our modern interconnected world in just a few decades. Understanding this rapid transformation helps you appreciate both the opportunities and responsibilities that come with living in the digital age.",
+          "mastery_check": "Student can identify key milestones in digital development and explain both positive and negative impacts of global connectivity.",
+          "mascot_explanation": "What an incredible journey through recent history! You've learned about one of the most dramatic changes humans have ever experienced, and you're living right in the middle of it. The choices your generation makes about technology will shape the future of our connected world!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/history/timeline.pdf"
+    ],
+    "printable_template": "timeline"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "geography",
+    "week_number": 35,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "Research Project Planning: Choosing and Narrowing Global Issues Focus",
+    "description": "Students begin their independent geography research project by exploring various global issues, selecting a topic that interests them, and learning to narrow their focus to create a manageable research question.",
+    "instructions": [
+      "Present a variety of current global issues for your child to explore: climate change, migration patterns, water scarcity, urbanization, food security, or biodiversity loss.",
+      "Have your child spend 15-20 minutes doing preliminary research on 3-4 different issues to gauge their interest level.",
+      "Guide them in selecting one issue that genuinely interests them and connects to their personal concerns or curiosities.",
+      "Help them narrow their chosen topic by focusing on a specific region, time period, or aspect of the issue.",
+      "Work together to develop 2-3 potential research questions that are specific enough to research but broad enough to be interesting.",
+      "Research what types of sources will be available for their chosen topic and create a preliminary source list.",
+      "Discuss different perspectives they should consider and identify potential stakeholders affected by their issue.",
+      "Create a basic project timeline and outline the final presentation requirements including map visuals."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "List of global issues with brief descriptions",
+      "Internet access for preliminary research",
+      "Research question planning worksheet",
+      "Project timeline template",
+      "World atlas or online maps"
+    ],
+    "sort_order": 4,
+    "parent_notes": "This lesson embodies the Montessori principle of following the child's interests while providing structure for independent learning. Allow your child to choose a topic they genuinely care about, as this intrinsic motivation will drive deeper learning. The research project develops critical thinking, source evaluation, and presentation skills while exploring real-world issues. Guide them toward a manageable scope - it's better to explore one aspect deeply than to tackle something too broad. This project helps students see themselves as global citizens who can understand and potentially contribute to solving world problems.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Research Project Planning: Choosing Your Global Issue",
+          "subheading": "Beginning Your Independent Geography Investigation",
+          "mascot_explanation": "Hello, young global researchers! Today starts an exciting journey where you become the expert on a global issue that matters to you. You'll choose something you really care about and dig deep to understand it from multiple perspectives - just like real geographers do!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "List of global issues with brief descriptions",
+            "Internet access for preliminary research",
+            "Research question planning worksheet",
+            "Project timeline template",
+            "World atlas or online maps"
+          ],
+          "setup_instructions": "Set up a comfortable research space with easy computer access. Have the global issues list and planning worksheets ready for review and selection.",
+          "mascot_explanation": "We're setting up your research command center! You'll need these tools to explore different global challenges and find the one that really sparks your curiosity. Think of yourself as a detective about to choose your most important case!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the list of global issues: climate change impacts, international migration, water scarcity, rapid urbanization, food security, and biodiversity loss. Spend 5-7 minutes reading basic information about each issue to understand what it involves.",
+          "mascot_explanation": "Each of these issues affects millions of people around the world right now! As you read about them, pay attention to which ones make you think 'I want to know more about this' or 'This seems really important to understand better.'"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Select 3-4 issues that interest you most and do 15-20 minutes of preliminary research on each. Look for recent news articles, basic facts, and examples of how these issues affect different countries or regions.",
+          "mascot_explanation": "This is like trying on different detective cases to see which one fits you best! Don't worry about becoming an expert yet - just get a feel for what kinds of information are available and what aspects seem most fascinating to explore."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose your final research topic and narrow it down by focusing on a specific region, time period, or aspect. For example, instead of 'climate change,' you might choose 'rising sea levels in Pacific Island nations' or 'drought impacts on East African agriculture.' Write 2-3 specific research questions you want to answer.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now comes the exciting part - making it yours! A good research project is like zooming in with a camera lens. Instead of trying to capture everything, you're focusing on one important piece that you can really understand deeply. What aspect makes you most curious?"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What specific aspect of your chosen global issue will you focus on and why?",
+            "What are two different perspectives or stakeholder groups you should consider in your research?",
+            "What types of sources do you think will be most helpful for your topic?"
+          ],
+          "mascot_explanation": "These questions help you think like a real researcher! Good research always considers multiple viewpoints and uses reliable sources. You're building the foundation for becoming a true expert on your chosen topic."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've successfully chosen your research focus and begun planning your independent geography investigation. Over the coming weeks, you'll research from multiple perspectives, analyze data, and create presentations that help others understand this important global issue.",
+          "mastery_check": "Student has selected a specific, researchable aspect of a global issue and formulated 2-3 clear research questions to guide their investigation.",
+          "mascot_explanation": "Congratulations on choosing your research adventure! You've taken the first important step toward becoming an expert on a real global challenge. I'm excited to see what fascinating discoveries you'll make as you dive deeper into your chosen topic!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/geography/map-skills.pdf"
+    ],
+    "printable_template": "map-skills"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 35,
+    "day_of_week": 1,
+    "quarter": 4,
+    "title": "The Crossover Opening: Basketball Poetry and Family Dynamics Introduction",
+    "description": "Students are introduced to Kwame Alexander's novel in verse format, exploring how basketball becomes a metaphor for life and family relationships. They analyze the unique poetic style and begin understanding the main characters' world.",
+    "instructions": [
+      "Introduce the book and author, explaining that this is a 'novel in verse' - a story told through poetry rather than traditional prose paragraphs.",
+      "Read the opening poems aloud, including 'Dribbling' and 'At the top of my lungs,' paying attention to rhythm and basketball terminology.",
+      "Discuss how the author uses basketball language and rhythms to tell the story, making connections between sports and poetry.",
+      "Introduce the main characters: Josh (the narrator), his twin brother Jordan, and their father Chuck 'Da Man' Bell.",
+      "Explore the family dynamics presented in the early poems, particularly the relationship between the twins and their basketball legacy.",
+      "Have your child identify specific basketball terms and discuss how they might work as metaphors for life experiences.",
+      "Analyze the poem structure and word choice, noting how Alexander uses white space and line breaks for emphasis.",
+      "End by predicting what conflicts or challenges might arise in this basketball-centered family story."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "The Crossover by Kwame Alexander",
+      "Basketball vocabulary list",
+      "Poetry analysis worksheet",
+      "Notebook for character observations",
+      "Basketball (optional, for demonstration)"
+    ],
+    "sort_order": 5,
+    "parent_notes": "This novel in verse format offers a unique opportunity to explore how poetry can tell compelling stories while addressing themes relevant to middle school students. The Montessori approach values exposing children to diverse literary forms and helping them make connections between different art forms. The basketball setting may particularly engage students who connect with sports, while the family dynamics provide universal themes. Pay attention to the rhythm and musicality of Alexander's verse - reading aloud with expression will help your child appreciate the poetic craft while following the story.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "The Crossover: Basketball Poetry and Family",
+          "subheading": "Introduction to Kwame Alexander's Novel in Verse",
+          "mascot_explanation": "Hey there, literature lovers! Today we're starting an exciting new book that tells its story through poetry instead of regular paragraphs. Get ready to experience basketball, family, and growing up in a completely new way - through the rhythm and flow of verse!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "The Crossover by Kwame Alexander",
+            "Basketball vocabulary list",
+            "Poetry analysis worksheet",
+            "Notebook for character observations",
+            "Basketball (optional, for demonstration)"
+          ],
+          "setup_instructions": "Set up in a comfortable reading area with good lighting. Have the vocabulary list ready to reference unfamiliar basketball terms during reading.",
+          "mascot_explanation": "We've got everything we need to dive into this unique story! The basketball vocabulary will help us understand both the sport and how the author uses basketball language to describe life. Even if you don't play basketball, you'll love how this story moves and flows!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn about 'novel in verse' format - a complete story told through connected poems rather than traditional chapters. Notice how Kwame Alexander uses short lines, white space, and rhythm to create both poetry and narrative storytelling.",
+          "mascot_explanation": "This is like discovering a whole new way to tell stories! Instead of long paragraphs, each page looks almost like song lyrics. The author chose this style because basketball itself has rhythm and flow, just like good poetry does."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the opening poems 'Dribbling' and 'At the top of my lungs' aloud, paying attention to the rhythm and basketball terminology. Notice how the narrator Josh introduces himself and his relationship with basketball.",
+          "mascot_explanation": "Listen to how these poems almost bounce like a basketball when you read them out loud! Josh is showing us right away that basketball isn't just a game for him - it's part of who he is and how he sees the world."
+        },
+        {
+          "type": "activity",
+          "prompt": "Read the next several poems that introduce Josh's twin brother Jordan and their father Chuck 'Da Man' Bell. Create character notes about each family member, including their relationship to basketball and to each other. Look for basketball terms that might also describe family relationships or emotions.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now you're meeting Josh's family, and you'll see that basketball runs deep in their blood! Pay attention to how each character has their own relationship with the game, and notice how the author uses basketball words to describe feelings and relationships too."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does the novel in verse format affect the way you experience this story?",
+            "What can you tell about the relationship between Josh and his twin brother Jordan?",
+            "How does basketball serve as more than just a sport in this family?"
+          ],
+          "mascot_explanation": "These questions help you think about both the unique way this story is told and what's happening with the characters! You're learning to read poetry and follow a story at the same time - that's pretty impressive literary detective work!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've been introduced to a unique storytelling format and begun understanding how basketball serves as both setting and metaphor in this family story. Tomorrow we'll continue exploring Josh's world and the challenges that begin to emerge in his basketball-centered life.",
+          "mastery_check": "Student can explain the novel in verse format and identify key characters and their relationships to basketball and each other.",
+          "mascot_explanation": "What a fantastic start to this unique story! You've discovered how poetry and storytelling can work together, and you're getting to know Josh and his basketball-loving family. I can't wait to see what happens next in their world of crossovers, both on and off the court!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 35,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Capstone Portfolio: Author's Reflection on Writing Growth",
+    "description": "Students create thoughtful author's reflections for their capstone writing portfolio. They analyze their own writing development across three years and identify specific strengths and areas for continued growth.",
+    "instructions": [
+      "Have your child review 2-3 pieces from their writing collection spanning different years or quarters",
+      "Guide them to identify specific improvements they notice in their writing over time",
+      "Help them draft an author's reflection using the provided template questions",
+      "Encourage honest self-assessment of both strengths and growth areas",
+      "Have them revise their reflection for clarity and specific examples",
+      "Allow time for them to share one insight from their reflection with you",
+      "Save the completed reflection as part of their portfolio collection",
+      "Celebrate their growth as a writer and their thoughtful self-analysis"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Student's collected writing pieces from multiple time periods",
+      "Author reflection template or guiding questions",
+      "Writing paper or digital document",
+      "Colored pens for editing"
+    ],
+    "sort_order": 6,
+    "parent_notes": "This reflection process honors the Montessori principle of self-assessment and metacognition. Guide your child to be honest but kind in their self-evaluation, focusing on growth rather than perfection. The portfolio represents their authentic learning journey, and the reflection demonstrates their developing ability to think critically about their own work. Encourage specific examples rather than general statements about improvement.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Capstone Portfolio: Author's Reflection on Writing Growth",
+          "subheading": "Looking back at your amazing writing journey",
+          "mascot_explanation": "Hey there, thoughtful writer! Today we're going to look back at all the amazing writing you've done over the years. It's like being a detective, but instead of solving mysteries, you're discovering how much you've grown as a writer!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Student's collected writing pieces from multiple time periods",
+            "Author reflection template or guiding questions",
+            "Writing paper or digital document",
+            "Colored pens for editing"
+          ],
+          "setup_instructions": "Gather writing samples from different quarters or years. Set up a comfortable writing space with reflection questions nearby.",
+          "mascot_explanation": "Let's gather up your writing treasures from different times! Think of these materials as your tools for exploring your own amazing growth story. Your past writing pieces are like snapshots of your journey as a writer."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read through 2-3 writing pieces from different time periods, noticing changes in your style, voice, organization, and vocabulary use.",
+          "mascot_explanation": "As you read your older work, be kind to your past self while noticing all the ways you've grown! Look for things like stronger word choices, better organization, or more confident voice in your newer pieces."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Use the reflection template to write about specific improvements you notice, citing examples from your actual writing pieces.",
+          "mascot_explanation": "Now comes the exciting part - writing about your own growth! Use specific examples from your writing to show how you've improved. It's like being your own biggest fan and supporter!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Draft your author's reflection, answering questions about your strengths, growth areas, favorite writing experiences, and goals for future writing. Include specific examples from your work.",
+          "duration_minutes": 35,
+          "mascot_explanation": "This is your chance to really think deeply about your writing journey! Be honest about both your strengths and areas where you want to keep growing. Remember, all great writers are always learning and improving!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify at least 2 specific ways your writing has improved over time?",
+            "Have you included concrete examples from your actual writing pieces?",
+            "Does your reflection show both pride in your growth and goals for the future?"
+          ],
+          "mascot_explanation": "Let's make sure your reflection really captures your growth story! These questions will help you see if you've created a thoughtful, honest look at your writing journey."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've completed a thoughtful analysis of your own writing development, demonstrating the metacognitive skills that mark mature writers. Your portfolio reflection shows your growth mindset and commitment to continuous improvement.",
+          "mastery_check": "Student writes a detailed reflection with specific examples of growth and demonstrates pride in their development as a writer",
+          "mascot_explanation": "What an incredible accomplishment! You've not only become a better writer, but you can actually see and explain your own growth. That's the mark of a truly thoughtful and mature writer who will keep getting better and better!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 35,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Coordinate Geometry: Calculating Distance Between Points Using Distance Formula",
+    "description": "Students learn to calculate the distance between two points on a coordinate plane using the distance formula. They connect this concept to the Pythagorean theorem and apply it to real-world mapping scenarios.",
+    "instructions": [
+      "Review plotting points on coordinate planes and the Pythagorean theorem",
+      "Introduce the distance formula as an application of the Pythagorean theorem",
+      "Work through 2-3 examples together, showing the step-by-step process",
+      "Have your child practice calculating distances between various point pairs",
+      "Connect the concept to real-world applications like GPS navigation or city planning",
+      "Allow them to create their own coordinate map with distance calculations",
+      "Check their work and discuss any calculation errors or conceptual questions",
+      "Have them explain the connection between distance formula and Pythagorean theorem"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Coordinate grid paper or printed coordinate planes",
+      "Calculator",
+      "Ruler for drawing",
+      "Distance formula reference sheet",
+      "Colored pencils for mapping"
+    ],
+    "sort_order": 7,
+    "parent_notes": "This lesson builds on previous knowledge of the Pythagorean theorem, showing students how mathematical concepts connect and apply to new situations. Encourage your child to visualize the right triangle formed by any two points before applying the formula. The concrete-to-abstract progression honors Montessori principles by starting with visual representation before moving to algebraic calculation. Celebrate their ability to use advanced mathematical tools for practical problem-solving.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Coordinate Geometry: Calculating Distance Between Points Using Distance Formula",
+          "subheading": "Measuring distances on the coordinate plane like a math detective",
+          "mascot_explanation": "Hello, coordinate explorers! Today we're going to learn how to measure the exact distance between any two points on a coordinate plane. It's like having a super-precise ruler that works in any direction!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Coordinate grid paper or printed coordinate planes",
+            "Calculator",
+            "Ruler for drawing",
+            "Distance formula reference sheet",
+            "Colored pencils for mapping"
+          ],
+          "setup_instructions": "Set up your workspace with coordinate grids and have your calculator ready. Keep the distance formula reference sheet visible for easy reference.",
+          "mascot_explanation": "Let's get our math detective tools ready! These materials will help you become an expert at measuring distances on coordinate planes. Think of the calculator as your trusty sidekick for the more complex calculations!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review that the distance between two points creates a right triangle, where the distance is the hypotenuse and the differences in x and y coordinates are the legs.",
+          "mascot_explanation": "Remember our friend the Pythagorean theorem? Well, it's about to help us solve a new type of problem! Every time we measure distance between points, we're secretly making a right triangle."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn the distance formula: d = √[(x₂-x₁)² + (y₂-y₁)²] and practice applying it step-by-step with given point pairs.",
+          "mascot_explanation": "Here's our powerful distance formula! It might look a bit intimidating at first, but it's really just the Pythagorean theorem in disguise. Let's break it down step by step so it becomes your friend!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Calculate the distances between at least 5 pairs of points, showing all your work. Then create your own coordinate map with 4-5 locations and find distances between them.",
+          "duration_minutes": 40,
+          "mascot_explanation": "Now it's time to put your new skills to work! Start with the practice problems, then get creative and make your own coordinate world. You could map out your neighborhood, a fantasy kingdom, or even plan a treasure hunt!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you correctly substitute coordinates into the distance formula?",
+            "Do you show all calculation steps clearly, including squaring and taking square root?",
+            "Can you explain how the distance formula connects to the Pythagorean theorem?"
+          ],
+          "mascot_explanation": "Let's make sure you've mastered this powerful tool! These questions will help you check that you understand both the calculations and the bigger mathematical connections. You're doing some seriously advanced math here!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've successfully learned to calculate exact distances between any two points on a coordinate plane. This skill connects geometry, algebra, and real-world applications like navigation systems and engineering.",
+          "mastery_check": "Student accurately applies distance formula to find distances between points and explains the connection to Pythagorean theorem",
+          "mascot_explanation": "Congratulations, distance calculator extraordinaire! You now have a mathematical superpower that engineers, architects, and GPS systems use every day. You've connected algebra, geometry, and real-world problem solving - that's pretty amazing!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "science",
+    "week_number": 35,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Electromagnetic Induction: Building Simple Motors and Generators",
+    "description": "Students explore the relationship between electricity and magnetism by constructing simple motors and generators. They investigate how moving magnets create electricity and how electricity can create motion through electromagnetic fields.",
+    "instructions": [
+      "Review the relationship between electricity and magnetism from previous lessons",
+      "Demonstrate electromagnetic induction using a magnet and coil of wire",
+      "Guide your child in building a simple motor using wire, battery, and magnet",
+      "Help them construct a basic generator by moving a magnet through a coil",
+      "Have them test both devices and observe the energy transformations",
+      "Discuss real-world applications like power plants and electric vehicles",
+      "Encourage them to experiment with different magnet strengths or coil sizes",
+      "Have them document their observations and explain the energy conversions"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Insulated copper wire (several feet)",
+      "Strong neodymium magnets",
+      "D-cell battery",
+      "Small LED light or galvanometer",
+      "Wire strippers",
+      "Tape for securing connections"
+    ],
+    "sort_order": 8,
+    "parent_notes": "This hands-on exploration embodies Montessori's emphasis on concrete learning experiences that reveal abstract principles. Safety is important with strong magnets - supervise handling and keep them away from electronic devices. Allow your child to experiment and make discoveries, guiding them to see the reciprocal relationship between electricity and magnetism. This lesson connects to real-world technologies they use daily, making physics relevant and exciting.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Electromagnetic Induction: Building Simple Motors and Generators",
+          "subheading": "Discovering how electricity and magnetism work together to power our world",
+          "mascot_explanation": "Hey there, future engineers! Today we're going to explore one of the most amazing discoveries in science - how electricity and magnetism are like dance partners, always working together. We'll build actual motors and generators!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Insulated copper wire (several feet)",
+            "Strong neodymium magnets",
+            "D-cell battery",
+            "Small LED light or galvanometer",
+            "Wire strippers",
+            "Tape for securing connections"
+          ],
+          "setup_instructions": "Clear a workspace away from computers and phones (magnets can affect them). Have wire strippers ready and ensure magnets are handled carefully.",
+          "mascot_explanation": "These materials are going to help us become electricity wizards! Be extra careful with those strong magnets - they're powerful enough to build real working machines. Keep them away from phones and computers, okay?"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Create a coil of wire and connect it to an LED or galvanometer. Move a strong magnet quickly in and out of the coil to generate electricity and light the LED.",
+          "mascot_explanation": "This is like magic, but it's actually science! When you move that magnet through the coil, you're creating electricity out of motion. That's exactly how the power plant makes electricity for your home!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Build a simple motor by wrapping wire around a battery, positioning magnets to create a magnetic field, and observing how electric current creates rotational motion.",
+          "mascot_explanation": "Now we're flipping the process around! Instead of making electricity from motion, we're using electricity to create motion. This is the same principle that makes electric cars zoom down the road!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Experiment with your motor and generator setups. Try different magnet positions, coil sizes, or battery orientations. Record what happens and try to explain the energy transformations you observe.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Time to be a scientific explorer! Try changing different parts of your setup and see what happens. You're doing the same kind of experiments that led to the invention of electric motors and power generators!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you explain how moving a magnet through a coil generates electricity?",
+            "Do you understand how electric current in a magnetic field creates motion?",
+            "Can you identify real-world examples of motors and generators?"
+          ],
+          "mascot_explanation": "Let's make sure you've captured the amazing science behind these inventions! These concepts power so much of our modern world, from wind turbines to electric toothbrushes!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've successfully built working models of motors and generators, demonstrating electromagnetic induction - the principle behind most of our electrical technology. You've seen how energy transforms between electrical and mechanical forms.",
+          "mastery_check": "Student successfully demonstrates electromagnetic induction with their constructions and explains the energy transformations involved",
+          "mascot_explanation": "You've just mastered one of the most important discoveries in all of science! The motors and generators you built work on the same principles as the huge machines that power cities and move trains. You're officially an electromagnetic engineer!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/science/lab-report.pdf"
+    ],
+    "printable_template": "lab-report"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "culture",
+    "week_number": 35,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "Globalization and Cultural Exchange: Technology's Impact on World Traditions",
+    "description": "Students examine how globalization and technology have influenced cultural traditions worldwide. They analyze both positive and negative effects of cultural exchange and consider how communities preserve heritage while adapting to global changes.",
+    "instructions": [
+      "Discuss with your child what globalization means and how technology connects cultures",
+      "Explore examples of how traditions have changed due to global influences",
+      "Research one specific cultural tradition that has been affected by globalization",
+      "Have them create a comparison showing traditional vs. modern versions",
+      "Discuss the benefits and challenges of cultural mixing and preservation",
+      "Encourage them to interview family members about cultural changes they've witnessed",
+      "Help them identify examples from their own community or family experience",
+      "Have them propose ways to balance cultural preservation with global connection"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "World map or atlas",
+      "Internet access for research",
+      "Large paper for comparison charts",
+      "Markers or colored pencils",
+      "Family photos or cultural artifacts if available"
+    ],
+    "sort_order": 9,
+    "parent_notes": "This lesson encourages critical thinking about cultural change in our interconnected world. Help your child see both positive aspects (increased understanding, access to diverse ideas) and concerns (loss of traditional ways, cultural homogenization). The Montessori approach values cultural diversity and global citizenship. Encourage personal connections by discussing your own family's cultural traditions and how they may have evolved over generations.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Globalization and Cultural Exchange: Technology's Impact on World Traditions",
+          "subheading": "Exploring how our connected world changes the way people live and celebrate",
+          "mascot_explanation": "Hello, global citizens! Today we're going to explore how our super-connected world is changing cultures and traditions everywhere. It's like watching how rivers mix when they flow together - sometimes creating something new and beautiful!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World map or atlas",
+            "Internet access for research",
+            "Large paper for comparison charts",
+            "Markers or colored pencils",
+            "Family photos or cultural artifacts if available"
+          ],
+          "setup_instructions": "Set up a research space with map access and materials for creating comparison charts. Have family cultural items nearby if available for personal connection.",
+          "mascot_explanation": "We're going to be cultural detectives today! These tools will help us explore how traditions change when cultures meet and mix. If you have special family items or photos, they might give us clues about cultural changes too!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Define globalization and identify how technology (internet, social media, travel, trade) helps cultures connect and influence each other worldwide.",
+          "mascot_explanation": "Globalization is like the world becoming one big neighborhood where everyone can visit, share ideas, and learn from each other. Technology is the bridge that makes it all possible - pretty amazing, right?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Research one specific cultural tradition (food, music, clothing, celebrations) and investigate how it has changed due to global influences and technology.",
+          "mascot_explanation": "Pick a tradition that interests you - maybe it's how birthdays are celebrated, traditional music, or special foods. You'll be amazed to see how these traditions travel and change as they meet new cultures!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a detailed comparison showing your chosen tradition in its original form versus how it appears in different parts of the world today. Include both positive changes and potential concerns about cultural preservation.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Now comes the fun part - creating your cultural change detective report! Show how traditions can grow and change while thinking about what might be gained or lost along the way. Every tradition has such an interesting story!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you explain how technology has facilitated cultural exchange?",
+            "Do you understand both benefits and challenges of globalization for cultures?",
+            "Can you give specific examples of how traditions change through global contact?"
+          ],
+          "mascot_explanation": "Let's check if you've become a real expert on cultural change! These questions will help you show off all the interesting discoveries you've made about how our connected world affects traditions."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've analyzed the complex effects of globalization on world cultures, developing critical thinking skills about cultural preservation and change. This understanding helps you appreciate both diversity and connection in our modern world.",
+          "mastery_check": "Student demonstrates understanding of how globalization affects cultural traditions and can discuss both benefits and challenges of cultural exchange",
+          "mascot_explanation": "What thoughtful work you've done understanding our complex, connected world! You've learned to think like a cultural anthropologist, seeing how traditions can both change and stay strong. That's wisdom that will help you navigate our amazing global community!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/culture/cultural-activity-sheets.pdf"
+    ],
+    "printable_template": "cultural-activity-sheets"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 35,
+    "day_of_week": 2,
+    "quarter": 4,
+    "title": "The Crossover: Basketball as Metaphor for Life's Rhythms and Changes",
+    "description": "Students explore how Kwame Alexander uses basketball terminology and rhythms to represent life experiences in The Crossover. They analyze the verse novel format and discuss how sports metaphors help express complex emotions and relationships.",
+    "instructions": [
+      "Read the selected section from The Crossover aloud with expression",
+      "Discuss how basketball terms are used to describe life situations in the poems",
+      "Help your child identify the rhythm and flow in Alexander's verse novel style",
+      "Explore how the format mirrors the rhythm of basketball itself",
+      "Discuss the relationship between the twin brothers and their different approaches",
+      "Connect the sports metaphors to universal experiences your child might relate to",
+      "Have them try writing a short poem using sports or activity metaphors for life",
+      "Encourage discussion about how poetry can express feelings differently than prose"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "The Crossover by Kwame Alexander",
+      "Paper for writing poetry attempts",
+      "Pens or pencils",
+      "Basketball or sports equipment (optional for demonstration)"
+    ],
+    "sort_order": 10,
+    "parent_notes": "This verse novel offers rich opportunities to discuss both literary techniques and life themes. The Montessori approach values connecting literature to students' lived experiences. Encourage your child to see how poets use familiar activities (like sports) to explore deeper emotions and relationships. The rhythm and flow of Alexander's writing make it particularly engaging when read aloud. Don't worry if your family isn't sports-oriented - focus on the metaphorical connections to any activities or interests your child has.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "The Crossover: Basketball as Metaphor for Life's Rhythms and Changes",
+          "subheading": "Discovering how sports language becomes poetry about growing up",
+          "mascot_explanation": "Hey there, poetry explorers! Today we're diving into a really cool book that uses basketball to talk about life, family, and growing up. Even if you're not a sports fan, you'll love how this author makes words dance and flow like a great game!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "The Crossover by Kwame Alexander",
+            "Paper for writing poetry attempts",
+            "Pens or pencils",
+            "Basketball or sports equipment (optional for demonstration)"
+          ],
+          "setup_instructions": "Have the book ready at the selected reading section. Set up a comfortable listening space with writing materials nearby for poetry exploration.",
+          "mascot_explanation": "Let's get ready for a literary adventure! This book is written in verse, which means it's like a whole story told in poems. We'll need our thinking caps and maybe some creative writing energy for this one!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Listen as we read sections that show how basketball terms describe life experiences - notice how 'crossover', 'assist', and 'rebound' mean more than just basketball moves.",
+          "mascot_explanation": "Pay attention to how the author takes words from basketball and makes them tell us about feelings, relationships, and life challenges. It's like he's speaking two languages at once - basketball and life!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Analyze the rhythm and flow of Alexander's verse novel format, noticing how the poems mimic the pace and energy of a basketball game.",
+          "mascot_explanation": "This writing has rhythm just like music or sports! Sometimes the words move fast and exciting, sometimes they slow down for important moments. It's like reading the rhythm of a basketball game!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose an activity you know well (sports, music, art, gaming) and try writing a short poem that uses terms from that activity to describe a life experience or feeling.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now it's your turn to be a metaphor poet! Pick something you love doing and see if you can use words from that activity to tell about life. You might be surprised at how creative you can be!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify specific basketball terms that represent life experiences in the novel?",
+            "Do you understand how the verse format creates rhythm that mirrors basketball?",
+            "Can you explain why poets might use sports or activity metaphors to express emotions?"
+          ],
+          "mascot_explanation": "Let's see how well you've caught on to Alexander's clever poetry tricks! These questions will help you show off your understanding of how he mixes basketball and life so brilliantly."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've explored how skillful authors use familiar activities as metaphors for life experiences, creating connections that help readers understand complex emotions and relationships through verse novel format.",
+          "mastery_check": "Student identifies basketball metaphors for life experiences and understands how the verse format enhances the storytelling",
+          "mascot_explanation": "What a fantastic job understanding how poetry can make life experiences come alive! You've discovered how authors like Kwame Alexander can take something as familiar as sports and turn it into beautiful, meaningful poetry about growing up and family."
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 35,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Shakespeare's Romeo and Juliet: Understanding Elizabethan Language and Timeless Themes",
+    "description": "Students explore excerpts from Shakespeare's Romeo and Juliet, focusing on translating Elizabethan language into modern English and identifying universal themes. This lesson builds appreciation for classical literature while developing translation and interpretation skills.",
+    "instructions": [
+      "1. Read the selected Romeo and Juliet passages aloud together, emphasizing the rhythm and flow of Shakespeare's language.",
+      "2. Work together to translate challenging phrases into modern English using context clues and provided glossary.",
+      "3. Discuss the themes of love, conflict, and family loyalty, connecting them to modern situations your child can relate to.",
+      "4. Have your child rewrite one speech in their own words while maintaining the emotional meaning.",
+      "5. Explore how Shakespeare's word choices create mood and emotion through specific examples from the text.",
+      "6. Compare the language patterns and themes to contemporary young adult literature your child has read.",
+      "7. Have your child reflect in writing on how classical literature can speak to modern readers.",
+      "8. Create a vocabulary list of interesting Shakespearean words and their modern equivalents for future reference."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Romeo and Juliet excerpts (Act 2, Scene 2 - balcony scene)",
+      "Shakespearean glossary or dictionary",
+      "Writing paper and pencils",
+      "Highlighters for marking text",
+      "Timer for activities"
+    ],
+    "sort_order": 11,
+    "parent_notes": "This lesson introduces your child to the beauty and complexity of Shakespeare's language in an accessible way. The Montessori approach emphasizes making connections between classical and contemporary literature, helping children see the universality of human experiences. Encourage your child to read passages aloud to hear the musical quality of Shakespeare's verse. Allow them to struggle productively with difficult language before offering help - this builds resilience and analytical thinking skills essential for advanced literary study.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Shakespeare's Romeo and Juliet: Understanding Elizabethan Language and Timeless Themes",
+          "subheading": "Exploring the beauty and meaning of classical literature",
+          "mascot_explanation": "Hello, literary explorers! I'm Finn Fox, and today we're going on an adventure into the world of William Shakespeare. We'll discover how a 400-year-old play can still speak to your heart today!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Romeo and Juliet excerpts (Act 2, Scene 2 - balcony scene)",
+            "Shakespearean glossary or dictionary",
+            "Writing paper and pencils",
+            "Highlighters for marking text",
+            "Timer for activities"
+          ],
+          "setup_instructions": "Arrange materials at a comfortable reading space with good lighting. Have the glossary easily accessible for quick reference during reading.",
+          "mascot_explanation": "Let's gather our detective tools for this language investigation! We'll use these materials to unlock the secrets of Shakespeare's beautiful but sometimes puzzling words. Think of the glossary as your translation guide for this literary adventure."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read the selected Romeo and Juliet passages aloud together, emphasizing the rhythm and flow of Shakespeare's language.",
+          "mascot_explanation": "Reading Shakespeare aloud is like music - the words have a special rhythm and melody! Don't worry if you don't understand every word at first; just enjoy the sound and flow of this beautiful language."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Work together to translate challenging phrases into modern English using context clues and provided glossary.",
+          "mascot_explanation": "Now we become language detectives! Use clues from the surrounding words and your glossary to figure out what Shakespeare meant. It's like solving a beautiful puzzle where every piece reveals more meaning."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose Romeo's most famous speech from the balcony scene and rewrite it in your own modern words while keeping the same emotional meaning and romantic feeling. Then compare your version with the original to see how Shakespeare's word choices create special effects.",
+          "duration_minutes": 25,
+          "mascot_explanation": "This is your chance to be a translator and a poet! Try to capture Romeo's feelings in words that feel natural to you, then marvel at how Shakespeare did it with such beauty and power."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What themes from Romeo and Juliet do you see in modern movies, books, or real life?",
+            "How does Shakespeare's choice of words create emotion differently than modern writing?",
+            "What made translating the Elizabethan language challenging, and what strategies helped you?"
+          ],
+          "mascot_explanation": "Let's reflect on our Shakespeare journey! These questions help us see how this old play connects to your world today. Great literature always speaks across time and cultures."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you discovered that Shakespeare's 400-year-old words can still express feelings and conflicts that matter today. Classical literature offers us beautiful language and timeless insights about human nature that connect across centuries.",
+          "mastery_check": "Student can translate basic Shakespearean phrases into modern English and identify at least two universal themes that connect to contemporary life.",
+          "mascot_explanation": "Congratulations on becoming a Shakespeare explorer! You've proven that great literature isn't locked in the past - it lives and breathes in every generation that discovers its magic. Keep this curiosity alive as we explore more world literature!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 35,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Coordinate Geometry: Finding Distance Between Points Using the Distance Formula",
+    "description": "Students learn to calculate the exact distance between two points on a coordinate plane using the distance formula. This lesson connects geometry and algebra while building practical measurement skills.",
+    "instructions": [
+      "1. Review plotting points on a coordinate plane and identifying coordinates of given points.",
+      "2. Start with points that form right triangles to visually demonstrate why we need the distance formula.",
+      "3. Introduce the distance formula as an application of the Pythagorean theorem: d = √[(x₂-x₁)² + (y₂-y₁)²].",
+      "4. Work through several examples together, showing each step of substitution and calculation clearly.",
+      "5. Have your child practice with points that create both integer and decimal distances.",
+      "6. Connect this skill to real-world applications like finding distances on maps or between cities.",
+      "7. Challenge your child to create their own coordinate problems and solve them.",
+      "8. Review and check all calculations, emphasizing the importance of careful arithmetic with square roots."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Graph paper or coordinate plane worksheets",
+      "Calculator with square root function",
+      "Ruler for measuring",
+      "Colored pencils for marking points",
+      "Examples of real coordinate problems"
+    ],
+    "sort_order": 12,
+    "parent_notes": "This lesson bridges geometry and algebra, showing your child how mathematical concepts connect and build upon each other. The Montessori approach emphasizes understanding the 'why' behind formulas, not just memorizing them. Help your child see the distance formula as a logical extension of the Pythagorean theorem they already know. Encourage estimation before calculating to develop number sense. This skill has many real-world applications, from GPS navigation to engineering design, so help your child make these connections.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Coordinate Geometry: Finding Distance Between Points Using the Distance Formula",
+          "subheading": "Connecting the Pythagorean theorem to coordinate plane measurements",
+          "mascot_explanation": "Hey there, mathematical navigators! I'm Finn Fox, and today we're going to become distance detectives. We'll learn how to find the exact distance between any two points on a coordinate plane using some algebra magic!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Graph paper or coordinate plane worksheets",
+            "Calculator with square root function",
+            "Ruler for measuring",
+            "Colored pencils for marking points",
+            "Examples of real coordinate problems"
+          ],
+          "setup_instructions": "Set up a workspace with good lighting for detailed graph work. Have the calculator ready for square root calculations and keep colored pencils organized for clear point marking.",
+          "mascot_explanation": "We're setting up our mathematical laboratory today! These tools will help us plot points precisely and calculate distances accurately. The graph paper is our map, and the calculator is our computation helper."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review plotting points on a coordinate plane and identifying coordinates of given points, then examine points that form right triangles to understand why we need a special formula for diagonal distances.",
+          "mascot_explanation": "Let's start by remembering our coordinate basics! When we connect two points that aren't on the same horizontal or vertical line, we create a diagonal that needs special mathematical treatment to find its length."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn the distance formula: d = √[(x₂-x₁)² + (y₂-y₁)²] and understand how it connects to the Pythagorean theorem you already know.",
+          "mascot_explanation": "This formula might look complex, but it's really just the Pythagorean theorem in disguise! The differences in x and y coordinates become the legs of a right triangle, and we're finding the hypotenuse."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice calculating distances between these point pairs: A(1,2) to B(5,5), C(-2,1) to D(3,-2), and E(0,4) to F(6,0). Show all substitution steps clearly, then verify one answer by measuring with a ruler on your graph.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now it's time to put the formula to work! Take your time with each step of the calculation - careful arithmetic now will build your confidence for more complex problems later."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does the distance formula relate to the Pythagorean theorem?",
+            "What happens when you calculate distance between points on the same horizontal or vertical line?",
+            "How would you use this skill to find distances on a map or in real-world navigation?"
+          ],
+          "mascot_explanation": "These questions help us see the big picture of coordinate geometry! Understanding these connections will help you remember and apply the formula in many different situations."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've mastered an important tool that combines algebra and geometry to solve real-world distance problems. The distance formula will serve you well in advanced mathematics, science, and practical applications like navigation and design.",
+          "mastery_check": "Student can correctly apply the distance formula to find distances between coordinate points and explain the connection to the Pythagorean theorem.",
+          "mascot_explanation": "Fantastic work, distance calculators! You've learned a powerful tool that mathematicians, engineers, and even video game designers use every day. Keep practicing, and soon this formula will feel as natural as basic arithmetic!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "history",
+    "week_number": 35,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Climate Change: Historical Patterns and Modern Global Response",
+    "description": "Students examine the historical development of climate science and international cooperation efforts to address climate change. This lesson connects environmental science with global politics and economic decision-making.",
+    "instructions": [
+      "1. Begin by reviewing what your child knows about climate vs. weather and the greenhouse effect.",
+      "2. Explore the historical timeline of climate science discoveries from the 1800s to today.",
+      "3. Discuss how climate change became a global political issue, starting with early environmental movements.",
+      "4. Examine major international climate agreements: Kyoto Protocol, Paris Agreement, and their challenges.",
+      "5. Analyze how different countries balance economic growth with environmental protection.",
+      "6. Research current climate change impacts your child can observe locally or in the news.",
+      "7. Discuss individual and collective actions that can address climate change.",
+      "8. Have your child create a timeline connecting scientific discoveries to political responses."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Climate science timeline materials",
+      "World map for marking international agreements",
+      "Recent climate news articles",
+      "Chart paper for creating timelines",
+      "Access to current climate data or graphics"
+    ],
+    "sort_order": 13,
+    "parent_notes": "This lesson helps your child understand climate change as both a scientific and political challenge that requires global cooperation. The Montessori approach emphasizes understanding multiple perspectives and the interconnectedness of human actions and natural systems. Encourage your child to think critically about the balance between economic development and environmental protection. This is a complex topic without simple answers, so help your child appreciate the nuanced decision-making involved in addressing global challenges.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Climate Change: Historical Patterns and Modern Global Response",
+          "subheading": "Understanding the science, politics, and international cooperation around our changing climate",
+          "mascot_explanation": "Hello, future environmental leaders! I'm Finn Fox, and today we're exploring one of the most important challenges of our time. We'll discover how scientists, politicians, and citizens around the world are working together to understand and address climate change."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Climate science timeline materials",
+            "World map for marking international agreements",
+            "Recent climate news articles",
+            "Chart paper for creating timelines",
+            "Access to current climate data or graphics"
+          ],
+          "setup_instructions": "Arrange materials for timeline creation and have the world map accessible for marking locations of climate agreements and impacts. Keep news articles organized chronologically.",
+          "mascot_explanation": "We're gathering our research tools to become climate historians! These materials will help us trace how our understanding of climate change has evolved and how the world is responding to this global challenge."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Explore the historical timeline of climate science discoveries, from early greenhouse effect research in the 1800s to modern satellite monitoring and computer modeling.",
+          "mascot_explanation": "Scientists have been studying our climate for over 150 years! We'll trace how their discoveries built upon each other, creating our current understanding of how human activities affect Earth's climate systems."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Examine major international climate agreements like the Kyoto Protocol and Paris Agreement, understanding the challenges of getting nearly 200 countries to work together on environmental goals.",
+          "mascot_explanation": "Imagine trying to get all the countries in the world to agree on anything - that's the challenge of international climate cooperation! We'll see how diplomats and leaders try to balance their country's needs with global environmental goals."
+        },
+        {
+          "type": "activity",
+          "prompt": "Research one specific example of climate change impact in your region or a place you're interested in. Create a brief report connecting local changes to global climate patterns, and identify what actions individuals, communities, and governments are taking to respond.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now you become a climate reporter! Choose a place that interests you and investigate how climate change is affecting real people and environments. This helps us understand that climate change isn't just about polar bears - it affects communities everywhere."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How has scientific understanding of climate change evolved over the past 150 years?",
+            "What makes international cooperation on climate change challenging?",
+            "What roles can individuals, communities, and governments play in addressing climate change?"
+          ],
+          "mascot_explanation": "These questions help us think about climate change as a complex challenge that requires scientific knowledge, political cooperation, and individual action. There's a role for everyone in addressing this global issue!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Climate change represents humanity's greatest collaborative challenge, requiring scientific understanding, international cooperation, and individual action. By studying how the world is responding to this challenge, you're preparing to be part of the solution.",
+          "mastery_check": "Student can explain the historical development of climate science and identify multiple approaches to addressing climate change at local and global levels.",
+          "mascot_explanation": "Excellent work, climate scholars! You've learned about one of the most important issues of our time and how people around the world are working together to address it. Remember, every generation has faced big challenges - and every generation has found ways to solve them!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/history/timeline.pdf"
+    ],
+    "printable_template": "timeline"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "geography",
+    "week_number": 35,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "Global Issue Research Project: Migration Patterns and Refugee Movements",
+    "description": "Students begin their independent research project by investigating global migration and refugee movements, examining causes, patterns, and impacts. This lesson develops research skills while building understanding of contemporary global challenges.",
+    "instructions": [
+      "1. Help your child choose a specific aspect of global migration to focus their research (climate refugees, economic migration, or conflict displacement).",
+      "2. Demonstrate how to use multiple reliable sources including international organizations, news outlets, and academic sources.",
+      "3. Guide your child in creating research questions that explore causes, patterns, and impacts of their chosen migration topic.",
+      "4. Practice taking notes from different sources and identifying key statistics and trends.",
+      "5. Begin creating a world map showing migration routes and destination countries for their chosen focus.",
+      "6. Discuss the importance of considering multiple perspectives when researching sensitive topics like migration.",
+      "7. Help your child organize their research into categories: causes, patterns, impacts, and potential solutions.",
+      "8. Plan the timeline for completing their research and preparing their final presentation with map visuals."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "World map for marking migration patterns",
+      "Access to reliable online sources and databases",
+      "Research notebook and organizational tools",
+      "Colored pencils for map work",
+      "Timer for research sessions"
+    ],
+    "sort_order": 14,
+    "parent_notes": "This independent research project allows your child to explore a topic that interests them while developing advanced research and presentation skills. The Montessori approach emphasizes following the child's interests while building academic rigor. Help your child choose credible sources and think critically about bias in reporting on migration issues. This topic requires sensitivity - encourage empathy while maintaining objectivity in research. The map component helps visualize complex global patterns and makes abstract concepts more concrete.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Global Issue Research Project: Migration Patterns and Refugee Movements",
+          "subheading": "Beginning independent research on contemporary global challenges",
+          "mascot_explanation": "Welcome, global researchers! I'm Finn Fox, and today we're starting your very own investigation into one of the world's most important and complex issues. You'll become an expert on migration and refugee movements around our interconnected world!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World map for marking migration patterns",
+            "Access to reliable online sources and databases",
+            "Research notebook and organizational tools",
+            "Colored pencils for map work",
+            "Timer for research sessions"
+          ],
+          "setup_instructions": "Create a dedicated research workspace with easy access to both digital and physical materials. Organize the research notebook with clear sections for different aspects of the topic.",
+          "mascot_explanation": "We're setting up your research command center! These tools will help you gather information from around the world and organize it clearly. Think of yourself as a journalist investigating one of today's most important global stories."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Choose your specific research focus within global migration: climate refugees, economic migration patterns, or conflict displacement. Develop 3-4 research questions that will guide your investigation.",
+          "mascot_explanation": "Every great researcher needs a clear focus! By choosing one specific aspect of migration, you'll be able to dive deep and become a real expert. Your research questions will be your compass on this investigation journey."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn to identify and use reliable sources including UN reports, reputable news organizations, and academic research. Practice evaluating sources for credibility and potential bias.",
+          "mascot_explanation": "Just like a detective needs reliable witnesses, a researcher needs trustworthy sources! We'll learn how to tell the difference between high-quality information and less reliable sources, especially on complex topics like migration."
+        },
+        {
+          "type": "activity",
+          "prompt": "Begin your research by finding three different types of sources about your chosen migration topic. Take organized notes and start creating your world map showing key migration routes, origin countries, and destination regions. Use different colors to show different types of migration patterns.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Now the real detective work begins! As you research, you'll start to see patterns emerge on your map that tell the story of human movement around our planet. Each color and route represents real people and their journeys."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What are three main causes driving the type of migration you're researching?",
+            "How do you evaluate whether a source is reliable and unbiased?",
+            "What patterns are emerging on your world map of migration routes?"
+          ],
+          "mascot_explanation": "These questions help you think like a real researcher! Good research isn't just about collecting information - it's about understanding patterns, evaluating sources, and drawing meaningful conclusions from what you discover."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've begun an important independent research project that will deepen your understanding of global interconnections and human movement. Your research skills and geographic knowledge will serve you well in advanced studies and informed citizenship.",
+          "mastery_check": "Student can formulate focused research questions, identify reliable sources, and begin mapping global migration patterns related to their chosen focus area.",
+          "mascot_explanation": "Congratulations on starting your journey as an independent researcher! You're developing skills that real geographers, journalists, and policy makers use every day. Keep up this excellent investigative work!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/geography/map-skills.pdf"
+    ],
+    "printable_template": "map-skills"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 35,
+    "day_of_week": 3,
+    "quarter": 4,
+    "title": "The Crossover: Basketball Poetry and Family Conflict Resolution",
+    "description": "Students explore how Kwame Alexander uses basketball metaphors and verse novel format to tell a story about family relationships and conflict resolution. This lesson examines how sports can reflect life's larger challenges.",
+    "instructions": [
+      "1. Read several poems from The Crossover that show the relationship between Josh and his twin brother Jordan.",
+      "2. Discuss how basketball serves as both the setting and a metaphor for life's challenges and relationships.",
+      "3. Examine how the verse novel format affects the reading experience compared to traditional prose.",
+      "4. Analyze specific poems that show family conflict and how the characters work through their problems.",
+      "5. Connect the themes of sibling rivalry, family loyalty, and growing up to your child's own experiences.",
+      "6. Explore how the author uses basketball terminology to create double meanings in his poetry.",
+      "7. Have your child write their own short poem using sports or activity metaphors to describe a relationship or challenge.",
+      "8. Discuss how the father's health crisis brings the family together despite their conflicts."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "The Crossover by Kwame Alexander",
+      "Basketball terms glossary",
+      "Writing materials for poetry creation",
+      "Examples of metaphor and symbolism",
+      "Family conflict discussion prompts"
+    ],
+    "sort_order": 15,
+    "parent_notes": "This verse novel combines sports excitement with deep family themes that resonate with middle school students. The Montessori approach values literature that speaks to children's real experiences and challenges. Help your child see how Alexander uses basketball not just as a sport but as a language for describing relationships and emotions. The family dynamics in this book - sibling rivalry, parental expectations, health crises - offer rich opportunities for discussion about how families navigate difficult times together.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "The Crossover: Basketball Poetry and Family Conflict Resolution",
+          "subheading": "Exploring how sports metaphors illuminate family relationships and life challenges",
+          "mascot_explanation": "Hey there, poetry players! I'm Finn Fox, and today we're diving into a book that proves poetry can be just as exciting as any basketball game. We'll see how Kwame Alexander uses sports to tell a powerful story about family, friendship, and growing up."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "The Crossover by Kwame Alexander",
+            "Basketball terms glossary",
+            "Writing materials for poetry creation",
+            "Examples of metaphor and symbolism",
+            "Family conflict discussion prompts"
+          ],
+          "setup_instructions": "Have the book marked at key poems that show family relationships. Keep writing materials ready for poetry creation and have the basketball glossary available for reference.",
+          "mascot_explanation": "We're gearing up for a literary game that combines poetry, sports, and family drama! These materials will help us understand both the basketball action and the deeper meanings Alexander weaves throughout his verses."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read poems that showcase the relationship between Josh and Jordan, paying attention to how their basketball partnership reflects their brotherhood both on and off the court.",
+          "mascot_explanation": "These twin brothers are like two players who know each other's moves perfectly - until life throws them some unexpected challenges! Watch how their basketball connection mirrors their emotional bond as brothers."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Examine how Alexander uses basketball terminology to create double meanings - words that describe both the sport and the characters' emotional experiences.",
+          "mascot_explanation": "This is where Alexander shows his poetry magic! A 'steal' isn't just taking the ball - it might also describe how someone steals your thunder. Look for these clever double meanings throughout the book."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your own short poem (8-12 lines) using terminology from a sport or activity you know well to describe a relationship or challenge in your life. Use the same technique Alexander uses - let the activity words carry both literal and emotional meanings.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now you get to be the poet-athlete! Choose any activity you love - soccer, dance, video games, cooking - and use its special language to tell a story about your own experiences or relationships."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does the verse novel format change your reading experience compared to regular prose?",
+            "What basketball terms does Alexander use as metaphors for family relationships or emotions?",
+            "How do the family conflicts in the book get resolved, and what role does basketball play in bringing people together?"
+          ],
+          "mascot_explanation": "These questions help us appreciate Alexander's artistic choices and see how sports can be a powerful way to talk about life's bigger challenges. Great literature always works on multiple levels!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "The Crossover shows us how poetry can capture the rhythm and excitement of sports while telling deep truths about family, loyalty, and growing up. Alexander proves that verse novels can be just as powerful as traditional stories in exploring complex themes.",
+          "mastery_check": "Student can identify how Alexander uses basketball metaphors to explore family relationships and can create their own metaphorical poetry using familiar activities.",
+          "mascot_explanation": "Fantastic work, poetry champions! You've discovered how a skilled author can use something as familiar as basketball to explore the complex game of family relationships. Keep looking for these creative connections in everything you read!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 35,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "Portfolio Reflections: Analyzing Growth Through Writing Evolution",
+    "description": "Students examine their writing samples from across all three years to identify patterns of growth and improvement. They write reflective paragraphs analyzing their development as writers and thinkers.",
+    "instructions": [
+      "Gather your child's writing samples from across their elementary years, organizing them chronologically by year and quarter.",
+      "Have your child read through 3-4 pieces from each year, noting differences in vocabulary, sentence structure, and complexity of ideas.",
+      "Guide them to create a growth timeline, marking specific improvements they notice in their writing development.",
+      "Support them in writing a 2-paragraph reflection analyzing their evolution as a writer, using specific examples from their work.",
+      "Help them identify their strongest writing skills and areas they want to continue developing in middle school.",
+      "Encourage them to select their top 5 pieces for their final capstone portfolio, explaining their choices.",
+      "Have them practice presenting one reflection aloud, preparing for their portfolio presentation next week."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Collection of student's writing samples from all years",
+      "Timeline template or large paper",
+      "Colored pens or markers",
+      "Reflection worksheet",
+      "Portfolio folder or binder"
+    ],
+    "sort_order": 16,
+    "parent_notes": "This lesson embodies the Montessori principle of self-reflection and metacognition, allowing students to see their own learning journey. The child takes ownership of their growth by analyzing their own work rather than being told about their progress. This process builds confidence and helps them understand that learning is a continuous process of development and refinement.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Portfolio Reflections: Analyzing Growth Through Writing Evolution",
+          "subheading": "Celebrating Your Journey as a Writer",
+          "mascot_explanation": "Hi there! I'm Finn Fox, and today we're going on a special journey through time - looking at how amazing your writing has become over the years! It's like watching yourself grow up through your words and ideas."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Collection of student's writing samples from all years",
+            "Timeline template or large paper",
+            "Colored pens or markers",
+            "Reflection worksheet",
+            "Portfolio folder or binder"
+          ],
+          "setup_instructions": "Organize writing samples chronologically by year and have reflection materials ready at your workspace.",
+          "mascot_explanation": "Let's gather all your writing treasures from over the years! Think of me as your writing archaeologist helper - we're going to discover how much you've grown as a writer by examining the evidence in your own work."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read through 3-4 writing pieces from each year, taking notes on vocabulary, sentence structure, and complexity of ideas you observe.",
+          "mascot_explanation": "As you read your old work, you're becoming a detective of your own learning! Notice how your word choices got more sophisticated and your sentences became more complex - it's truly amazing to see."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Create a growth timeline marking specific improvements you notice, such as better transitions, stronger evidence, or more creative descriptions.",
+          "mascot_explanation": "Your timeline is like a map of your writing adventure! Each improvement you mark shows a moment when you became an even better writer - those are victories worth celebrating."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write a 2-paragraph reflection analyzing your evolution as a writer, using specific examples from your work to support your observations about your growth.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now comes the really exciting part - writing about your writing! Use those detective skills to explain how you've grown, and don't forget to give yourself credit for all the hard work you've put in."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify at least 3 specific ways your writing has improved over the years?",
+            "Have you used concrete examples from your work to support your reflection?",
+            "Can you explain what writing skills you want to continue developing?"
+          ],
+          "mascot_explanation": "Let's make sure you can see just how much you've accomplished! These questions help you recognize your growth and think about your future as a writer."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Select your top 5 writing pieces for your final portfolio and practice explaining why you chose each one, preparing for your portfolio presentation.",
+          "mastery_check": "Student can articulate specific examples of their writing growth and thoughtfully select pieces that represent their best work.",
+          "mascot_explanation": "You should feel so proud of the writer you've become! Choosing your best pieces and getting ready to share them shows how confident and reflective you are about your own learning journey."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 35,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "Linear Equations on Coordinate Plane: Graphing y = mx + b Patterns",
+    "description": "Students explore linear equations by graphing lines using the slope-intercept form and identifying patterns in how slope and y-intercept affect the line's appearance. They connect algebraic expressions to visual representations on coordinate grids.",
+    "instructions": [
+      "Set up coordinate grid paper and review how to plot points using (x,y) coordinates, practicing with a few example points.",
+      "Introduce the slope-intercept form y = mx + b, explaining that m represents slope and b represents the y-intercept.",
+      "Start with simple examples like y = x + 2 and y = x - 1, having your child create a table of values and plot the points.",
+      "Guide them to graph several lines with the same slope but different y-intercepts, observing what happens to the lines.",
+      "Have them experiment with different slopes (positive, negative, steep, gentle) while keeping the y-intercept constant.",
+      "Challenge them to predict what a line will look like before graphing it, then check their prediction by plotting points.",
+      "Connect this work to real-world scenarios like tracking savings growth or temperature changes over time."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Coordinate grid paper",
+      "Ruler or straightedge",
+      "Colored pencils or pens",
+      "Calculator",
+      "Linear equation worksheets"
+    ],
+    "sort_order": 17,
+    "parent_notes": "This lesson connects abstract algebraic thinking to concrete visual representations, supporting the Montessori approach of moving from concrete to abstract understanding. Allow your child to discover patterns through exploration rather than simply memorizing rules. The hands-on graphing work helps them internalize the relationship between equations and their visual representations, building strong foundations for advanced mathematics.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Linear Equations on Coordinate Plane: Graphing y = mx + b Patterns",
+          "subheading": "Discovering How Equations Create Visual Patterns",
+          "mascot_explanation": "Hello mathematicians! I'm Finn Fox, and today we're going to be mathematical artists, turning equations into beautiful straight lines on our coordinate grids! You'll discover how numbers in equations control what the lines look like."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Coordinate grid paper",
+            "Ruler or straightedge",
+            "Colored pencils or pens",
+            "Calculator",
+            "Linear equation worksheets"
+          ],
+          "setup_instructions": "Set up your coordinate grid paper in landscape orientation and have colored pencils ready for graphing different equations.",
+          "mascot_explanation": "We're setting up our mathematical art studio! Each tool has a special purpose - the grid paper is our canvas, the ruler helps us draw perfect lines, and those colored pencils will help us see patterns between different equations."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review plotting points on coordinate grids and introduce y = mx + b form, where m is slope and b is the y-intercept.",
+          "mascot_explanation": "Think of y = mx + b as a recipe for making lines! The 'm' tells us how steep our line should be, and the 'b' tells us where to start on the y-axis - it's like having directions for drawing the perfect line."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Start with y = x + 2, create a table of x and y values, then plot the points and connect them to form a line.",
+          "mascot_explanation": "We're starting with a friendly equation that's easy to work with! As you plot each point and connect them, you'll see the magic happen - those individual dots become a perfect straight line."
+        },
+        {
+          "type": "activity",
+          "prompt": "Graph three different linear equations with the same slope but different y-intercepts, then observe and describe the patterns you notice about how the lines relate to each other.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now you get to be a pattern detective! When you graph these equations, you'll discover something really cool about how changing just one number in the equation affects where the line appears on your grid."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you explain what slope and y-intercept mean in your own words?",
+            "Can you predict what a line will look like before graphing it?",
+            "Can you identify the slope and y-intercept from looking at a graphed line?"
+          ],
+          "mascot_explanation": "Let's check if you've become a linear equation expert! These questions help make sure you understand both the math and the visual patterns we've been exploring together."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Practice predicting line appearances from equations and connect linear relationships to real-world scenarios like savings growth or temperature changes.",
+          "mastery_check": "Student can graph linear equations using slope-intercept form and explain how changes in m and b affect the line's appearance.",
+          "mascot_explanation": "You've learned to speak two mathematical languages - equations and graphs! Being able to predict what lines will look like and connect them to real life shows you truly understand how math works in our world."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "science",
+    "week_number": 35,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "Sound Waves and Frequency: Investigating Pitch Through Vibration Experiments",
+    "description": "Students explore how sound waves work by investigating the relationship between frequency and pitch through hands-on experiments. They observe how vibrations create different sounds and measure wave properties using simple materials.",
+    "instructions": [
+      "Set up stations with rubber bands, rulers, and different containers to explore how vibrations create sound waves.",
+      "Have your child pluck rubber bands of different thicknesses and lengths, observing how pitch changes with these variables.",
+      "Demonstrate wave properties using a slinky or rope, showing how waves have peaks, troughs, and wavelengths.",
+      "Guide them to create sound waves in water using tuning forks or by tapping containers, observing the ripple patterns.",
+      "Explore how different materials affect sound transmission by having them speak through various substances.",
+      "Have them measure and compare the frequency of different sounds using a smartphone app or by counting vibrations per second.",
+      "Connect their observations to real-world applications like musical instruments, hearing, and sound engineering."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Rubber bands of various sizes",
+      "Rulers or wooden boards",
+      "Clear containers with water",
+      "Tuning fork or metal spoons",
+      "Smartphone with sound frequency app"
+    ],
+    "sort_order": 18,
+    "parent_notes": "This hands-on exploration allows children to discover wave properties through direct manipulation and observation, following Montessori principles of learning through experience. Encourage your child to make predictions before each experiment and draw conclusions from their observations. The concrete experience of creating and observing sound waves will help them understand abstract concepts about frequency and wavelength.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Sound Waves and Frequency: Investigating Pitch Through Vibration Experiments",
+          "subheading": "Discovering How Vibrations Create the Sounds We Hear",
+          "mascot_explanation": "Hi there, sound scientists! I'm Finn Fox, and today we're going to become sound wave detectives! We'll discover how tiny vibrations travel through the air to create all the amazing sounds around us."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Rubber bands of various sizes",
+            "Rulers or wooden boards",
+            "Clear containers with water",
+            "Tuning fork or metal spoons",
+            "Smartphone with sound frequency app"
+          ],
+          "setup_instructions": "Arrange materials at different stations and fill containers with water for wave observation experiments.",
+          "mascot_explanation": "We're setting up our sound laboratory with some really cool tools! Each material will help us see or hear different aspects of how sound waves work - it's like having a toolkit for exploring invisible waves."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Pluck rubber bands of different thicknesses and lengths, carefully listening to how pitch changes with these variables.",
+          "mascot_explanation": "Listen closely as you pluck those rubber bands - you're creating sound waves! Notice how thicker bands make lower sounds and thinner ones make higher sounds - that's frequency in action!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Use a slinky or rope to demonstrate wave properties, showing peaks, troughs, and wavelengths by creating visible wave motions.",
+          "mascot_explanation": "Now we get to see what sound waves would look like if we could see them! When you move that slinky, you're creating the same kind of wave pattern that sound makes in the air."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create sound waves in water using tuning forks and observe the ripple patterns, then measure and compare frequencies of different sounds using the smartphone app.",
+          "duration_minutes": 35,
+          "mascot_explanation": "This is where the magic happens! You'll actually see sound waves moving through water, and then use technology to measure how fast those waves are vibrating - you're doing real scientist work!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you explain the relationship between frequency and pitch?",
+            "Can you identify the parts of a wave (peak, trough, wavelength)?",
+            "Can you predict what will change the pitch of a vibrating object?"
+          ],
+          "mascot_explanation": "Let's make sure you've mastered the science of sound! These questions check if you understand how vibrations become the sounds we hear and how we can predict and control those sounds."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Connect your observations to musical instruments, human hearing, and sound technology, discussing how engineers use wave properties to design audio equipment.",
+          "mastery_check": "Student can explain how vibrations create sound waves and describe the relationship between frequency and pitch using evidence from experiments.",
+          "mascot_explanation": "You've uncovered the secrets of how sound works! Now when you hear music or any sound around you, you'll know about the invisible waves traveling through the air to reach your ears - that's pretty amazing!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/science/lab-report.pdf"
+    ],
+    "printable_template": "lab-report"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 35,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "The Crossover: Basketball Metaphors for Life's Challenges and Changes",
+    "description": "Students analyze how Kwame Alexander uses basketball terminology and metaphors to explore themes of growing up, family relationships, and facing loss. They examine the verse novel format and its impact on storytelling.",
+    "instructions": [
+      "Read aloud the next section of The Crossover, focusing on poems that use basketball metaphors to describe life situations.",
+      "Pause to discuss how specific basketball terms (like 'crossover,' 'slam dunk,' 'foul') relate to the characters' experiences.",
+      "Guide your child to identify examples where Josh's relationship with basketball mirrors his relationships with family members.",
+      "Explore how the verse novel format affects the pacing and emotional impact compared to traditional prose.",
+      "Have your child create their own metaphor poem using a sport or activity they know well to describe a personal experience.",
+      "Discuss how the author uses rhythm and word choice to create the feeling of basketball movement in the poetry.",
+      "Connect the themes of change and growth in the story to your child's own experiences with transitions."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "The Crossover by Kwame Alexander",
+      "Notebook for literary analysis",
+      "Poetry writing paper",
+      "Highlighters or colored pencils",
+      "Basketball terms reference sheet"
+    ],
+    "sort_order": 19,
+    "parent_notes": "This lesson supports deep literary analysis while honoring the emotional themes of growing up and family relationships. Allow time for your child to make personal connections to the story's themes. The verse novel format provides an excellent opportunity to discuss how form affects meaning, and the sports metaphors make abstract concepts more concrete and relatable for this age group.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "The Crossover: Basketball Metaphors for Life's Challenges and Changes",
+          "subheading": "How Sports Language Tells Life Stories",
+          "mascot_explanation": "Hey literary explorers! I'm Finn Fox, and today we're diving into how Kwame Alexander uses basketball like a special language to tell us about growing up and family! It's amazing how sports can become poetry."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "The Crossover by Kwame Alexander",
+            "Notebook for literary analysis",
+            "Poetry writing paper",
+            "Highlighters or colored pencils",
+            "Basketball terms reference sheet"
+          ],
+          "setup_instructions": "Have your copy of The Crossover bookmarked and your analysis notebook ready for tracking metaphors and themes.",
+          "mascot_explanation": "We're setting up our literary detective kit! Today we'll be hunting for basketball metaphors and seeing how they help us understand Josh's world - it's like decoding a secret language that uses sports to talk about life."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Listen to the next section while identifying basketball terms that Alexander uses to describe life situations and relationships.",
+          "mascot_explanation": "As we read, keep your ears open for basketball words that aren't really about basketball! The author is using the language of sports to help us understand feelings and relationships in a really creative way."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Discuss how Josh's relationship with basketball reflects and mirrors his relationships with his brother, father, and mother.",
+          "mascot_explanation": "Notice how basketball isn't just a game for Josh - it's connected to everyone he loves! The way he plays and thinks about basketball tells us so much about his family relationships."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own metaphor poem using a sport, hobby, or activity you know well to describe a personal experience or relationship in your life.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now it's your turn to be a poet like Kwame Alexander! Choose something you love doing and use its language to write about your own life - you might be surprised by the connections you discover."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify at least three basketball metaphors and explain what they represent in Josh's life?",
+            "How does the verse novel format affect your reading experience?",
+            "What themes about growing up and family do you see in these sections?"
+          ],
+          "mascot_explanation": "Let's check how well you're reading between the lines! Understanding these metaphors and themes shows you're really getting the deeper meaning of this beautiful story."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect on how Alexander's use of rhythm and basketball language creates the feeling of being on the court while exploring serious life themes.",
+          "mastery_check": "Student can identify and explain basketball metaphors and discuss how the verse format enhances the story's themes about family and growing up.",
+          "mascot_explanation": "You've discovered how powerful it is when authors use familiar things like sports to help us understand complex emotions and experiences! That's what makes The Crossover such a special and moving story."
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "geography",
+    "week_number": 35,
+    "day_of_week": 4,
+    "quarter": 4,
+    "title": "Global Issue Research Presentation: Communicating Findings with Visual Evidence",
+    "description": "Students finalize their independent global issue research projects by creating presentation materials that effectively communicate their findings to multiple audiences. They practice synthesizing complex information and supporting arguments with visual evidence.",
+    "instructions": [
+      "Review your child's research notes and help them organize their findings into clear main points with supporting evidence.",
+      "Guide them to create visual aids (maps, charts, graphs, or infographics) that effectively illustrate their key findings.",
+      "Have them practice explaining their issue from multiple perspectives, acknowledging different viewpoints and stakeholder interests.",
+      "Help them develop transitions between main points and create an engaging introduction that hooks their audience.",
+      "Support them in preparing for questions by anticipating what their audience might want to know more about.",
+      "Practice their presentation timing and encourage them to use their visual aids effectively while speaking.",
+      "Discuss how to adapt their presentation for different audiences (peers, adults, community members)."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Research notes and sources",
+      "Large poster paper or presentation boards",
+      "Markers and colored pencils",
+      "Printed maps or graphs",
+      "Glue sticks and tape"
+    ],
+    "sort_order": 20,
+    "parent_notes": "This culminating activity embodies the Montessori approach of allowing children to become experts on topics they're passionate about and share their knowledge with others. Support your child in organizing their thoughts clearly while encouraging them to maintain their own voice and perspective. The presentation skills they develop here will serve them well in middle school and beyond, building confidence in public speaking and visual communication.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Global Issue Research Presentation: Communicating Findings with Visual Evidence",
+          "subheading": "Sharing Your Expertise with the World",
+          "mascot_explanation": "Hello global researchers! I'm Finn Fox, and I'm so excited to see you transform into experts who can teach others about important world issues! Today we're turning all your hard work into a presentation that will really make people think."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Research notes and sources",
+            "Large poster paper or presentation boards",
+            "Markers and colored pencils",
+            "Printed maps or graphs",
+            "Glue sticks and tape"
+          ],
+          "setup_instructions": "Organize research materials and set up a workspace for creating visual presentation aids with plenty of room to spread out.",
+          "mascot_explanation": "We're setting up your presentation workshop! All these materials will help you turn your research into something people can see, understand, and remember - you're becoming a communication expert!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Organize your research findings into 3-4 main points with supporting evidence, ensuring each point flows logically to the next.",
+          "mascot_explanation": "Think of your presentation like telling a story about your global issue! Each main point should build on the last one, helping your audience understand the problem and possible solutions step by step."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Create visual aids that effectively illustrate your key findings, using maps, charts, or infographics to make complex information accessible.",
+          "mascot_explanation": "Your visuals are like windows that help people see what you're talking about! A good map or chart can make complicated information suddenly clear and memorable for your audience."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice presenting your research while using your visual aids effectively, focusing on explaining your issue from multiple perspectives and preparing responses to potential audience questions.",
+          "duration_minutes": 35,
+          "mascot_explanation": "This is where you get to shine as an expert! Practice speaking clearly and confidently about your research - remember, you know more about this topic than most people in the room, so trust yourself!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you clearly explain your global issue and why it matters?",
+            "Do your visual aids effectively support your main points?",
+            "Can you discuss multiple perspectives on your issue and potential solutions?"
+          ],
+          "mascot_explanation": "Let's make sure you're ready to teach others about your important topic! These questions check that you can communicate clearly and help people understand why your global issue matters to all of us."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Finalize presentation materials and practice adapting your explanation for different audiences, preparing for your final presentation next week.",
+          "mastery_check": "Student can effectively communicate their research findings using visual aids and explain their global issue from multiple perspectives with supporting evidence.",
+          "mascot_explanation": "You've become a real expert on your global issue and learned to share that knowledge powerfully with others! Your research and presentation skills show how much you've grown as a student and global citizen."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/geography/map-skills.pdf"
+    ],
+    "printable_template": "map-skills"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 35,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "Portfolio Reflection Essay: Analyzing Three Years of Writing Growth",
+    "description": "Students craft a comprehensive reflection essay examining their writing development from Year 1 through Year 3. They analyze specific pieces from their portfolio to demonstrate growth in voice, technique, and understanding.",
+    "instructions": [
+      "Help your child organize their portfolio pieces chronologically from Years 1-3, selecting 3-4 representative samples from each year.",
+      "Guide them through creating a simple timeline showing their writing journey and major milestones.",
+      "Support them in identifying specific improvements they can observe (vocabulary, sentence structure, ideas, organization).",
+      "Encourage them to write an introduction paragraph explaining their overall growth as a writer.",
+      "Assist them in writing 2-3 body paragraphs, each analyzing specific portfolio pieces and connecting them to their development.",
+      "Help them craft a conclusion that looks forward to their continued growth as a writer.",
+      "Review their draft together, focusing on clear examples and personal insights rather than perfect grammar.",
+      "Have them create a final clean copy for their capstone portfolio."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Writing portfolio from all three years",
+      "Notebook or computer",
+      "Pencil/pen",
+      "Sticky notes for marking important pieces",
+      "Timeline template or paper"
+    ],
+    "sort_order": 21,
+    "parent_notes": "This capstone reflection represents the culmination of your child's elementary writing journey. In Montessori philosophy, self-reflection and metacognition are crucial for deep learning and personal growth. Encourage your child to be honest about both their struggles and achievements - this authenticity will make their reflection more meaningful. The goal is not perfection but rather genuine self-awareness and appreciation for their learning journey.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Portfolio Reflection Essay: Analyzing Three Years of Writing Growth",
+          "subheading": "Looking back on your amazing writing journey!",
+          "mascot_explanation": "Hi there! I'm so excited to help you look back at all the incredible writing you've done over three years. Today we're going to write a special essay that shows how much you've grown as a writer - it's like being a detective investigating your own learning!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Writing portfolio from all three years",
+            "Notebook or computer",
+            "Pencil/pen",
+            "Sticky notes for marking important pieces",
+            "Timeline template or paper"
+          ],
+          "setup_instructions": "Gather all your writing pieces from Years 1, 2, and 3. Create a comfortable workspace where you can spread out your portfolio and easily flip through different pieces.",
+          "mascot_explanation": "Let's set up your detective workspace! You'll need all your writing treasures from the past three years spread out so you can easily compare them. Think of your sticky notes as little flags to mark the pieces that really show your growth."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Organize your portfolio pieces chronologically and select 3-4 representative samples from each year that show different types of writing or significant moments in your development.",
+          "mascot_explanation": "Time to become a writing archaeologist! Look through each year and pick pieces that tell the story of your growth - maybe a struggling early piece that shows your effort, or a later piece where you really found your voice."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Create a timeline of your writing journey, marking major improvements you notice in areas like vocabulary, sentence structure, organization, and development of ideas.",
+          "mascot_explanation": "Now we're mapping your writing adventure! Look for those 'aha!' moments where you can see yourself getting better - maybe when your sentences got more interesting, or when you started using stronger vocabulary words."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your reflection essay with an introduction about your overall growth, 2-3 body paragraphs analyzing specific portfolio pieces, and a conclusion about your future as a writer. Include specific examples and quotes from your own work to support your observations.",
+          "duration_minutes": 35,
+          "mascot_explanation": "This is where the magic happens! You get to tell the story of your own learning journey. Use your own writing as evidence - quote yourself to show how your voice has changed and grown over these three amazing years."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify at least three specific areas where your writing has improved?",
+            "Do you include concrete examples from your portfolio pieces as evidence?",
+            "Does your essay show genuine reflection about your growth as a writer?"
+          ],
+          "mascot_explanation": "Let's make sure your reflection really captures your incredible journey! Check that you're not just saying you got better, but showing exactly how with real examples from your own work."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Complete your reflection essay and prepare a clean final copy for your capstone portfolio. Consider what goals you have for continuing to grow as a writer in the future.",
+          "mastery_check": "Student demonstrates thoughtful self-analysis of their writing development with specific examples from portfolio pieces and clear awareness of their growth areas.",
+          "mascot_explanation": "Wow! You've just created something really special - a thoughtful look at your own learning journey. This reflection shows not just how much you've grown, but how aware you are of your own learning process. That's a skill that will help you keep growing as a writer forever!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 35,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "Coordinate Plane Distance Formula: Pythagorean Applications in Real Coordinates",
+    "description": "Students apply the Pythagorean theorem to find distances between points on the coordinate plane using the distance formula. They solve real-world problems involving coordinate geometry and distance calculations.",
+    "instructions": [
+      "Review plotting points on coordinate plane and help your child identify coordinates of various points accurately.",
+      "Introduce the concept that distance between two points creates the hypotenuse of a right triangle.",
+      "Show how to find horizontal and vertical distances between points as the legs of the right triangle.",
+      "Guide them through applying the Pythagorean theorem: d² = (x₂-x₁)² + (y₂-y₁)²",
+      "Practice with several coordinate pairs, having them draw the right triangles to visualize the concept.",
+      "Work through real-world problems using coordinate distance (map distances, city planning, etc.).",
+      "Have them create their own coordinate distance problems using familiar locations or scenarios.",
+      "Review their work and discuss how this connects geometry to practical applications."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Coordinate plane graph paper",
+      "Ruler",
+      "Calculator",
+      "Pencil",
+      "Colored pencils for drawing triangles"
+    ],
+    "sort_order": 22,
+    "parent_notes": "This lesson beautifully demonstrates the interconnectedness of mathematical concepts that Montessori education emphasizes. Your child is seeing how the Pythagorean theorem, coordinate geometry, and real-world problem solving all connect. Encourage them to visualize the right triangles formed by coordinate points - this concrete visualization helps make the abstract distance formula more meaningful. Allow them to discover patterns and make connections at their own pace.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Coordinate Plane Distance Formula: Pythagorean Applications in Real Coordinates",
+          "subheading": "Using the Pythagorean theorem to find distances on the coordinate plane!",
+          "mascot_explanation": "Hey mathematician! Today we're going on a coordinate adventure where we'll use our old friend the Pythagorean theorem in a brand new way. We'll discover how to find the exact distance between any two points on a coordinate plane - it's like having a super-precise measuring tool!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Coordinate plane graph paper",
+            "Ruler",
+            "Calculator",
+            "Pencil",
+            "Colored pencils for drawing triangles"
+          ],
+          "setup_instructions": "Set up your workspace with coordinate plane paper and have your calculator ready. You'll be drawing right triangles on the coordinate plane to visualize distance calculations.",
+          "mascot_explanation": "Let's get ready to explore the coordinate plane like never before! Your colored pencils will help you draw the hidden right triangles that exist between any two points. It's going to be like mathematical treasure hunting!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Plot several pairs of points on your coordinate plane and identify their exact coordinates. Practice finding the horizontal and vertical distances between points by counting or subtracting coordinates.",
+          "mascot_explanation": "Start by becoming a coordinate detective! When you plot two points, you can always make a right triangle by drawing horizontal and vertical lines between them. The horizontal distance is how far apart they are left-to-right, and the vertical distance is how far apart they are up-and-down."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn the distance formula: d = √[(x₂-x₁)² + (y₂-y₁)²]. Recognize this as the Pythagorean theorem where the horizontal distance is one leg, vertical distance is the other leg, and the direct distance is the hypotenuse.",
+          "mascot_explanation": "Here's where the magic happens! The distance formula is really just our trusty Pythagorean theorem in disguise. The difference in x-coordinates gives us one leg, the difference in y-coordinates gives us the other leg, and we're solving for that direct distance hypotenuse!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve distance problems using coordinate pairs like (2,3) to (8,11), (-4,1) to (5,-3), and (0,0) to (6,8). For each problem, draw the right triangle, identify the legs, and calculate the hypotenuse distance. Then create a real-world scenario using coordinates (like finding distance between two cities on a map grid).",
+          "duration_minutes": 35,
+          "mascot_explanation": "Time to put your skills to the test! For each problem, draw that right triangle so you can see exactly what you're calculating. Then think about how this could help in real life - maybe finding the shortest route between two locations or calculating distances for planning purposes."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you correctly identify the legs of the right triangle formed by any two coordinate points?",
+            "Do you accurately apply the distance formula and calculate correct distances?",
+            "Can you create real-world problems that use coordinate distance calculations?"
+          ],
+          "mascot_explanation": "Let's make sure you've mastered this powerful tool! Check that you can see those right triangles hiding in the coordinate plane and that your distance calculations are spot-on. Most importantly, can you imagine how this helps solve real problems?"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Practice the distance formula with various coordinate pairs and explore how this concept applies to navigation, engineering, and design problems in the real world.",
+          "mastery_check": "Student accurately applies the Pythagorean theorem through the distance formula to find distances between coordinate points and can explain the connection between the geometric and algebraic representations.",
+          "mascot_explanation": "Fantastic work connecting the Pythagorean theorem to coordinate geometry! You now have a powerful tool for solving distance problems in math and in the real world. Whether you're planning routes, designing buildings, or just curious about distances, you've got the formula for success!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "art_music",
+    "week_number": 35,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "Contemporary Art Portfolio: Digital Age Expression and Mixed Media Reflection",
+    "description": "Students explore contemporary art movements from the 1990s to present, focusing on digital art, street art, and mixed media. They create a final portfolio piece that reflects their artistic journey and incorporates contemporary techniques.",
+    "instructions": [
+      "Show your child examples of contemporary artists like Banksy, Kehinde Wiley, or digital artists, discussing how they respond to current issues.",
+      "Help them identify characteristics of contemporary art: use of technology, social commentary, diverse media, and global perspectives.",
+      "Guide them in brainstorming a theme for their portfolio piece that reflects something important to them or their generation.",
+      "Encourage them to experiment with mixed media, combining traditional materials with modern elements (photos, magazine cutouts, digital prints).",
+      "Support them in creating a contemporary-style artwork that represents their artistic growth over the year.",
+      "Help them write an artist statement explaining their choice of materials, techniques, and message.",
+      "Assist them in photographing or scanning their work to create a digital portfolio presentation.",
+      "Have them reflect on how their artistic voice has developed and what contemporary art means to them."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Mixed art supplies (paint, markers, colored pencils)",
+      "Magazine cutouts or printed images",
+      "Glue stick",
+      "Canvas paper or poster board",
+      "Camera or scanner for documentation"
+    ],
+    "sort_order": 23,
+    "parent_notes": "Contemporary art encourages students to think critically about their world and express their unique perspectives - perfectly aligned with Montessori's emphasis on developing independent thinkers. This lesson allows your child to synthesize their entire year of art learning while exploring how art continues to evolve with society. Encourage them to take risks and express authentic ideas rather than worrying about technical perfection. The goal is developing their artistic voice and understanding art as a form of communication.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Contemporary Art Portfolio: Digital Age Expression and Mixed Media Reflection",
+          "subheading": "Creating art that speaks to our modern world!",
+          "mascot_explanation": "Hello, future artist! Today we're diving into the exciting world of contemporary art - the art being made right now, in your lifetime! We'll explore how modern artists use everything from spray paint to computers to express what matters to them, and you'll create your own contemporary masterpiece."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Mixed art supplies (paint, markers, colored pencils)",
+            "Magazine cutouts or printed images",
+            "Glue stick",
+            "Canvas paper or poster board",
+            "Camera or scanner for documentation"
+          ],
+          "setup_instructions": "Gather a variety of materials including both traditional art supplies and modern elements like magazine images or printed photos. Set up a workspace where you can experiment freely with different combinations.",
+          "mascot_explanation": "Let's set up your contemporary art studio! Contemporary artists love mixing old and new materials - you might use ancient painting techniques alongside photos from magazines. The key is having lots of options so you can experiment and discover what works best for your artistic vision."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Explore contemporary art examples from the 1990s to present, noting how artists use technology, mixed media, and address current social issues. Identify techniques and themes that inspire you.",
+          "mascot_explanation": "Let's become art detectives investigating what makes contemporary art special! Notice how these artists aren't afraid to mix different materials and techniques, and how they often talk about things happening in the world right now. What catches your eye and makes you want to try something similar?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Choose a theme for your portfolio piece that reflects something meaningful to you - it could be environmental issues, technology in your life, your community, or your personal growth as an artist.",
+          "mascot_explanation": "Now it's time to find your artistic voice! Contemporary artists create work about things they care deeply about. Think about what matters to you - what do you want to say through your art? Your theme will guide all your creative choices."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a contemporary-style mixed media artwork that represents your chosen theme and showcases techniques you've learned this year. Experiment with combining traditional art materials with modern elements like photographs, digital prints, or collage materials. Write an artist statement explaining your creative choices.",
+          "duration_minutes": 40,
+          "mascot_explanation": "This is where all your artistic learning comes together! Don't be afraid to experiment - contemporary art is all about trying new combinations and pushing boundaries. Remember, your artist statement is just as important as your artwork - it helps others understand your creative thinking."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Does your artwork incorporate both traditional and contemporary techniques?",
+            "Can you clearly explain your theme and artistic choices in your artist statement?",
+            "Does your piece reflect your personal artistic growth and voice?"
+          ],
+          "mascot_explanation": "Let's make sure your contemporary masterpiece really represents you as an artist! Check that you're mixing different techniques creatively and that you can explain why you made the choices you did. Most importantly, does it feel authentically yours?"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Complete your contemporary art piece and artist statement, then document your work digitally. Reflect on how your artistic voice has developed this year and what role art plays in expressing ideas about our modern world.",
+          "mastery_check": "Student creates a thoughtful mixed media artwork that demonstrates understanding of contemporary art characteristics and can articulate their artistic choices and growth through written reflection.",
+          "mascot_explanation": "Congratulations on creating a piece of contemporary art that's uniquely yours! You've learned that art isn't just about making pretty pictures - it's a powerful way to communicate ideas and respond to the world around you. Your artistic voice is growing stronger every day!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 35,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "The Crossover Character Analysis: Brotherhood Through Basketball Poetry",
+    "description": "Students analyze the complex relationship between Josh and Jordan Bell in The Crossover, exploring how Kwame Alexander uses basketball and poetry to portray sibling rivalry, jealousy, and ultimately love. They examine specific poems that reveal character development.",
+    "instructions": [
+      "Read aloud 2-3 key poems from The Crossover that showcase the tension between Josh and Jordan (such as 'Showoff' or 'The Nosebleed Section').",
+      "Help your child identify specific examples of sibling rivalry and jealousy in the text, noting how basketball serves as both connection and competition.",
+      "Guide them in analyzing how Kwame Alexander uses basketball terminology and metaphors to describe family relationships.",
+      "Discuss how the verse novel format allows us to see Josh's internal thoughts and emotions more clearly than traditional prose.",
+      "Encourage them to compare Josh and Jordan's different personalities and how their relationship changes throughout the story.",
+      "Help them identify the deeper themes about family loyalty, growing up, and finding individual identity within a close relationship.",
+      "Have them select their favorite poem from today's reading and explain why it effectively shows the brothers' relationship.",
+      "Connect the sports rivalry to broader themes about competition and cooperation in families and friendships."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "The Crossover by Kwame Alexander",
+      "Notebook for character analysis",
+      "Pencil",
+      "Sticky notes for marking important passages"
+    ],
+    "sort_order": 24,
+    "parent_notes": "The Crossover offers rich opportunities to discuss complex family dynamics and emotional growth, which aligns with Montessori's focus on social-emotional development. The verse novel format makes poetry accessible while addressing themes that resonate with pre-teens navigating their own identity and relationships. Encourage your child to connect Josh's experiences with their own feelings about competition, jealousy, and family relationships. This book beautifully demonstrates how literature can help us understand and process our own emotions.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "The Crossover Character Analysis: Brotherhood Through Basketball Poetry",
+          "subheading": "Exploring sibling relationships through Josh's eyes and Kwame Alexander's poetry",
+          "mascot_explanation": "Hey there, literary explorer! Today we're diving deep into The Crossover to understand one of the most realistic sibling relationships in literature. Josh and Jordan's story shows us how love and rivalry can exist at the same time - just like real families!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "The Crossover by Kwame Alexander",
+            "Notebook for character analysis",
+            "Pencil",
+            "Sticky notes for marking important passages"
+          ],
+          "setup_instructions": "Have The Crossover ready with sticky notes to mark powerful poems about the brothers' relationship. Set up your notebook to track character observations and relationship changes.",
+          "mascot_explanation": "Let's set up our literary detective workspace! We'll be analyzing some amazing poetry that shows the complicated feelings between brothers. Your sticky notes will help you mark the poems that really capture their relationship perfectly."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Listen to key poems that showcase Josh and Jordan's relationship dynamics, noting specific examples of both their closeness and their conflicts. Pay attention to basketball metaphors that describe their emotions.",
+          "mascot_explanation": "Get ready to see how Kwame Alexander uses basketball language to talk about feelings! Notice how the game becomes a way for the brothers to connect but also compete. The poetry helps us feel exactly what Josh is experiencing."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Analyze how the verse novel format allows us to see Josh's internal thoughts and emotions more clearly than traditional storytelling, especially regarding his relationship with Jordan.",
+          "mascot_explanation": "The cool thing about this verse novel is how we get inside Josh's head through poetry! Each poem is like a window into his thoughts and feelings - we can understand his jealousy, love, and confusion in a way that feels really authentic."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a character analysis comparing Josh and Jordan's personalities, relationship dynamics, and how their individual growth affects their brotherhood. Choose one specific poem that best captures their relationship and explain how Alexander uses basketball imagery to convey deeper emotional truths.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now you get to be the relationship expert! Think about how these brothers are similar and different, and how their relationship changes as they grow up. Pick that one poem that really shows their bond - there are so many powerful ones to choose from!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify specific examples of both love and rivalry between Josh and Jordan?",
+            "Do you understand how basketball metaphors reveal deeper emotions in the story?",
+            "Can you explain how the verse novel format enhances our understanding of the characters?"
+          ],
+          "mascot_explanation": "Let's make sure you're catching all the layers in this amazing story! Check that you can see how the brothers' relationship is complex - not just good or bad, but real and messy like actual family relationships."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect on how The Crossover uses basketball and poetry to explore universal themes of family, identity, and growing up. Consider how Josh's perspective helps us understand the challenges of sibling relationships.",
+          "mastery_check": "Student demonstrates understanding of character complexity and can analyze how Alexander uses basketball metaphors and verse format to convey emotional depth in sibling relationships.",
+          "mascot_explanation": "What an incredible journey through brotherhood and basketball poetry! You've discovered how Kwame Alexander makes us feel like we really know Josh and Jordan. The best literature helps us understand ourselves and our own relationships better - just like The Crossover does!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "culture",
+    "week_number": 35,
+    "day_of_week": 5,
+    "quarter": 4,
+    "title": "Global Democracy Challenges: Authoritarianism vs Democratic Values in Modern Nations",
+    "description": "Students examine current global challenges to democratic governance, comparing authoritarian trends with democratic principles. They analyze case studies of nations experiencing democratic backsliding or strengthening and discuss the importance of civic engagement.",
+    "instructions": [
+      "Introduce the concepts of democracy and authoritarianism, helping your child understand key differences in how leaders gain and use power.",
+      "Show examples of democratic principles (free elections, rule of law, individual rights) versus authoritarian characteristics (restricted media, limited opposition, centralized power).",
+      "Guide them through examining 2-3 current case studies of countries experiencing democratic challenges or growth (appropriate examples for their age).",
+      "Discuss how citizens can protect and strengthen democratic institutions through voting, civic participation, and staying informed.",
+      "Help them understand the role of free press, independent courts, and peaceful transitions of power in healthy democracies.",
+      "Encourage them to think about what democratic values mean in their own community and school settings.",
+      "Have them create a simple comparison chart showing democratic vs authoritarian characteristics they've learned about.",
+      "Connect this learning to their role as future citizens and the importance of civic engagement."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "World map",
+      "Current events articles (age-appropriate)",
+      "Chart paper",
+      "Colored pencils",
+      "Notebook for civic engagement ideas"
+    ],
+    "sort_order": 25,
+    "parent_notes": "This lesson introduces complex but crucial concepts about governance and civic responsibility, core to Montessori's vision of developing engaged global citizens. Present information in an age-appropriate way that emphasizes the positive role young people can play in democratic society. Focus on empowering your child to see themselves as a future participant in democracy rather than creating anxiety about current challenges. The goal is developing critical thinking about governance while fostering hope and civic engagement.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Global Democracy Challenges: Authoritarianism vs Democratic Values in Modern Nations",
+          "subheading": "Understanding different types of government and the importance of civic participation",
+          "mascot_explanation": "Hello, future citizen! Today we're exploring one of the most important topics for your generation - how different countries are governed and what that means for the people who live there. We'll learn about democracy and why citizen participation is so vital for a free society."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World map",
+            "Current events articles (age-appropriate)",
+            "Chart paper",
+            "Colored pencils",
+            "Notebook for civic engagement ideas"
+          ],
+          "setup_instructions": "Set up your workspace with a world map visible and age-appropriate current events materials ready. Prepare chart paper for comparing different government systems.",
+          "mascot_explanation": "Let's set up our civic learning center! We'll be looking at different countries around the world and learning about how their governments work. Your map will help us visualize where these different systems exist, and your chart will help organize what we discover."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn the key characteristics of democratic government (free elections, individual rights, rule of law, free press) and contrast them with authoritarian systems (restricted freedoms, limited opposition, centralized power).",
+          "mascot_explanation": "Let's become government system experts! Think of democracy like a team sport where everyone gets to participate and have their voice heard, while authoritarianism is more like one person making all the rules for everyone else. Both have real impacts on people's daily lives."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Examine age-appropriate case studies of countries that have strengthened or faced challenges to their democratic institutions, focusing on the role of citizens in these changes.",
+          "mascot_explanation": "Now we'll look at real examples from around the world! Some countries have made their democracies stronger through citizen action, while others have faced challenges. The amazing thing is that ordinary people often make the biggest difference in these stories."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a comparison chart showing democratic vs authoritarian characteristics, then brainstorm ways that young people and citizens can support democratic values in their communities. Research one positive example of youth civic engagement and present your findings.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Time to organize your learning and think about your own role! Create that comparison chart to make the differences crystal clear, then put on your future citizen hat and think about how you can make a positive difference. There are so many inspiring examples of young people strengthening democracy!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you clearly explain the key differences between democratic and authoritarian government systems?",
+            "Do you understand how citizens can participate in strengthening democratic institutions?",
+            "Can you identify ways that young people can practice civic engagement in their communities?"
+          ],
+          "mascot_explanation": "Let's make sure you've got these important civic concepts down! Check that you understand not just what different government systems look like, but also how citizens - including future citizens like you - can make a real difference in supporting democracy."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect on the importance of democratic values and civic participation, considering your own role as a future citizen in supporting democratic institutions and community engagement.",
+          "mastery_check": "Student demonstrates understanding of democratic vs authoritarian government characteristics and can articulate specific ways citizens can participate in supporting democratic values and institutions.",
+          "mascot_explanation": "Congratulations on becoming a more informed future citizen! Understanding different government systems and the importance of civic participation is one of the most valuable things you can learn. Democracy isn't just something that happens - it requires active, engaged citizens like you will be!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/culture/cultural-activity-sheets.pdf"
+    ],
+    "printable_template": "cultural-activity-sheets"
+  }
+]

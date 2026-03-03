@@ -1,0 +1,2234 @@
+[
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "language",
+    "week_number": 20,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "MLA Citations: Introducing In-Text Citations",
+    "description": "Students learn the basics of MLA in-text citations as they begin their research paper journey. This lesson introduces the concept of crediting sources within the text of their writing.",
+    "instructions": [
+      "1. Review what plagiarism means and why we cite sources to give credit to authors",
+      "2. Introduce the basic format of MLA in-text citations using author's last name and page number",
+      "3. Show examples of direct quotes with proper citations using sample texts",
+      "4. Practice identifying where citations are needed in a sample paragraph",
+      "5. Have students practice writing simple in-text citations using provided examples",
+      "6. Create a reference sheet of citation formats for future use",
+      "7. Discuss when to use citations (quotes, specific facts, ideas that aren't common knowledge)",
+      "8. Review and check understanding with citation practice exercises"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Sample article printouts",
+      "MLA citation reference sheet",
+      "Practice worksheets",
+      "Notebook for reference notes"
+    ],
+    "sort_order": 1,
+    "parent_notes": "This lesson introduces formal academic citation, building independence in research skills. Allow your child to discover citation patterns through concrete examples before abstract rules. The Montessori approach emphasizes understanding the 'why' behind citations - respecting other people's work and ideas. Encourage questions about academic integrity and model proper attribution in daily life when referencing books, articles, or other sources.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "MLA Citations: Giving Credit Where Credit is Due",
+          "subheading": "Learning to properly cite our sources in research writing",
+          "mascot_explanation": "Hi there! I'm Finn Fox, and today we're learning something really important for research writers. Think of citations like saying 'thank you' to the authors whose ideas help make our writing stronger and more credible!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sample article printouts",
+            "MLA citation reference sheet",
+            "Practice worksheets",
+            "Notebook for reference notes"
+          ],
+          "setup_instructions": "Arrange materials on workspace with the reference sheet easily visible. Have sample articles ready for citation practice.",
+          "mascot_explanation": "Let's get our detective tools ready! Today we're going to be citation detectives, learning how to properly give credit to authors. Having everything organized will help us focus on mastering this important skill."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the concept of plagiarism and discuss why citing sources shows respect for authors' work and ideas.",
+          "mascot_explanation": "Just like we wouldn't want someone taking credit for our artwork or ideas, we need to make sure we give proper credit to authors. Citations are like a polite way of saying 'this great idea came from this person' - it's all about being fair and honest!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn the basic MLA in-text citation format: (Author's Last Name page number). Practice with simple examples from provided texts.",
+          "mascot_explanation": "The MLA format is like a secret code that all researchers understand! It's actually quite simple - just the author's last name and the page number in parentheses. Once you learn this pattern, you'll be able to cite like a pro!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Using the sample articles, practice writing three different in-text citations. Then identify two places in a provided paragraph where citations should be added.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now it's time to put your new skills to work! Remember, every time you use someone else's specific ideas or words, you need to give them credit. Don't worry if it feels tricky at first - even professional writers had to practice this skill!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "When do we need to use in-text citations in our writing?",
+            "What information goes inside the parentheses for a basic MLA citation?",
+            "Why is it important to cite our sources rather than just using ideas without credit?"
+          ],
+          "mascot_explanation": "Let's make sure we've got these citation basics down solid! These questions will help you think about not just how to cite, but when and why we do it. Remember, good researchers always give credit where it's due!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Create a personal reference sheet with MLA citation format and examples. Discuss how proper citations will be essential for the upcoming research paper project.",
+          "mastery_check": "Student can correctly format a basic MLA in-text citation and identify when citations are needed in a paragraph.",
+          "mascot_explanation": "Great work learning about citations today! Keep that reference sheet handy because you'll be using these skills a lot in your research paper. Remember, every time you cite a source, you're showing respect for other writers and building your credibility as a researcher!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "math",
+    "week_number": 20,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Order of Operations: PEMDAS with Parentheses",
+    "description": "Students master the order of operations using PEMDAS, focusing particularly on the importance of parentheses in mathematical expressions. They will solve multi-step problems following the correct sequence.",
+    "instructions": [
+      "1. Review the PEMDAS acronym and what each letter represents",
+      "2. Demonstrate why order matters by solving the same expression incorrectly and correctly",
+      "3. Focus on parentheses as the first step, showing how they group operations together",
+      "4. Work through several examples step-by-step, writing out each stage clearly",
+      "5. Have students practice with expressions containing parentheses and multiple operations",
+      "6. Create expressions where changing parentheses placement changes the answer",
+      "7. Challenge students to write their own expressions following PEMDAS rules",
+      "8. Review common mistakes and how to avoid them"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "PEMDAS reference chart",
+      "Calculator for checking work",
+      "Practice worksheet with expressions",
+      "Colored pencils for step tracking",
+      "Notebook for problem solving"
+    ],
+    "sort_order": 2,
+    "parent_notes": "Order of operations builds logical thinking and prepares students for algebraic reasoning. Allow your child to work through problems methodically, emphasizing the process over speed. The Montessori approach values understanding patterns and rules through concrete experience. Encourage your child to verbalize their thinking as they work through each step, and celebrate when they catch their own errors - this builds mathematical independence and confidence.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Order of Operations: Following PEMDAS Rules",
+          "subheading": "Learning the correct sequence for solving mathematical expressions",
+          "mascot_explanation": "Hello, mathematicians! I'm Finn Fox, and today we're learning about a very important rule in math - the order of operations! Think of it like following a recipe - if you don't do the steps in the right order, you won't get the right answer!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "PEMDAS reference chart",
+            "Calculator for checking work",
+            "Practice worksheet with expressions",
+            "Colored pencils for step tracking",
+            "Notebook for problem solving"
+          ],
+          "setup_instructions": "Set up workspace with reference chart visible and colored pencils organized. Have calculator nearby for verification but encourage mental math first.",
+          "mascot_explanation": "Let's gather our math tools! The colored pencils will help you track each step of PEMDAS, and the reference chart will be your guide. Remember, we'll use the calculator to check our work, not to do the thinking for us!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review PEMDAS: Parentheses, Exponents, Multiplication/Division (left to right), Addition/Subtraction (left to right). Understand why this order prevents confusion.",
+          "mascot_explanation": "PEMDAS is like the traffic rules for math! Just like cars need to follow traffic signals to avoid crashes, numbers need to follow PEMDAS rules to get the right answer. Each letter has a job, and parentheses always go first because they're like VIPs!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Work through the expression 2 + 3 × 4 both incorrectly (left to right) and correctly (multiplication first), comparing the different results.",
+          "mascot_explanation": "This is where the magic happens! Watch how doing the same problem in different orders gives us completely different answers. That's why mathematicians around the world agreed on PEMDAS - so we all get the same correct answer every time!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these expressions using PEMDAS: (8 + 2) × 3, 15 - 2 × 4 + 1, and (12 ÷ 3) + 2 × 5. Show each step clearly and use different colors for each operation type.",
+          "duration_minutes": 20,
+          "mascot_explanation": "Now it's your turn to be a PEMDAS expert! Take your time with each step and use those colored pencils to track your work. Remember, parentheses first, then work your way through the other operations. You've got this!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What does each letter in PEMDAS represent?",
+            "Why do we do operations inside parentheses before anything else?",
+            "If you see 6 + 4 × 2, which operation do you perform first and why?"
+          ],
+          "mascot_explanation": "Let's check that you've mastered these PEMDAS rules! These questions will help make sure you understand not just what to do, but why we do it. Understanding the 'why' makes you a stronger mathematician!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Practice additional PEMDAS problems and discuss how this foundation will be crucial for solving algebraic equations. Create a personal strategy for remembering the order.",
+          "mastery_check": "Student can correctly solve multi-step expressions using PEMDAS, showing clear work for each step and explaining why the order matters.",
+          "mascot_explanation": "Excellent work mastering PEMDAS today! This skill is going to be super important as you move into more advanced math. Keep practicing with different expressions, and soon following the order of operations will become as natural as brushing your teeth!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/fraction-circles.pdf"
+    ],
+    "printable_template": "fraction-circles"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "history",
+    "week_number": 20,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Westward Expansion: The Louisiana Purchase",
+    "description": "Students explore the Louisiana Purchase of 1803, understanding its massive impact on American expansion and the concept of Manifest Destiny. They will examine the deal with France and its consequences for the nation.",
+    "instructions": [
+      "1. Review the size of the United States in 1803 before the Louisiana Purchase",
+      "2. Explain the situation with France and Napoleon's need for money during European wars",
+      "3. Discuss President Jefferson's dilemma about constitutional authority for the purchase",
+      "4. Show maps comparing the U.S. before and after the purchase, emphasizing the doubled size",
+      "5. Calculate the cost per acre and compare to modern land values for perspective",
+      "6. Examine how this purchase made Lewis and Clark's expedition possible and necessary",
+      "7. Discuss the impact on Native American tribes already living in these territories",
+      "8. Connect this event to the growing idea of Manifest Destiny"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Maps of U.S. in 1803 and 1804",
+      "Calculator for cost calculations",
+      "Timeline of westward expansion",
+      "Primary source excerpts from Jefferson"
+    ],
+    "sort_order": 3,
+    "parent_notes": "This lesson connects geography, economics, and political decision-making in early American history. Encourage your child to think critically about the perspectives of different groups affected by westward expansion. The Montessori approach emphasizes understanding cause and effect relationships in history. Help your child see connections between this historical event and modern territorial or land use decisions. Discuss the complex nature of historical 'progress' and who benefits from major changes.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "The Louisiana Purchase: Doubling the Nation",
+          "subheading": "How America acquired 828,000 square miles in 1803",
+          "mascot_explanation": "Hey there, history explorers! I'm Finn Fox, and today we're learning about one of the biggest real estate deals in history! Imagine if your country suddenly became twice as big overnight - that's exactly what happened to America in 1803!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Maps of U.S. in 1803 and 1804",
+            "Calculator for cost calculations",
+            "Timeline of westward expansion",
+            "Primary source excerpts from Jefferson"
+          ],
+          "setup_instructions": "Place maps side by side for easy comparison. Have calculator ready for cost analysis. Keep timeline visible for historical context.",
+          "mascot_explanation": "Let's get our history detective tools ready! These maps will help you see just how dramatically America changed, and we'll use the calculator to figure out what an amazing deal this really was. Get ready to explore one of the most important purchases ever made!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Examine the map of the United States in 1803, noting its boundaries and discussing why Americans wanted access to western territories and the Mississippi River.",
+          "mascot_explanation": "Look at how small America was back then compared to today! The Mississippi River was like a superhighway for trade, and Americans really needed access to it. Can you imagine how different our country would look if this purchase had never happened?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn about Napoleon's situation in France - fighting expensive European wars and needing money quickly - which made him willing to sell this vast territory.",
+          "mascot_explanation": "Sometimes timing is everything! Napoleon needed money for his wars in Europe, and America needed land. It was like a perfect match, even though Jefferson wasn't sure he had the power to make such a huge purchase. History is full of these surprising moments!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Calculate the cost per acre of the Louisiana Purchase ($15 million for 828,000 square miles) and compare it to current land prices. Then examine the before and after maps to identify what modern states were included.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Time to put on your mathematician hat! You're going to discover just what an incredible bargain this was. After you do the math, use the maps to see which states exist today because of this purchase. It's amazing to think about how different America might have been!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Why was Napoleon willing to sell the Louisiana Territory to the United States?",
+            "How did the Louisiana Purchase change the size of the United States?",
+            "What constitutional concerns did Jefferson have about making this purchase?"
+          ],
+          "mascot_explanation": "Let's make sure you've got all the important details about this amazing historical event! These questions will help you think about the different people involved and why this purchase was both exciting and complicated for America."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Discuss how the Louisiana Purchase set the stage for Lewis and Clark's expedition and the concept of Manifest Destiny. Consider the impact on Native Americans already living in these territories.",
+          "mastery_check": "Student can explain the circumstances of the Louisiana Purchase, calculate its cost significance, and identify its impact on American expansion.",
+          "mascot_explanation": "What an incredible story of how America grew! This purchase didn't just add land - it changed the whole future of our country. Remember, history affects different people in different ways, and it's important to think about all perspectives when we study the past."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/history/timeline.pdf"
+    ],
+    "printable_template": "timeline"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "geography",
+    "week_number": 20,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Population Geography: Understanding Migration Patterns",
+    "description": "Students explore how and why populations move from place to place, examining historical and contemporary migration patterns. They will analyze push and pull factors that influence human movement across the globe.",
+    "instructions": [
+      "1. Define migration and distinguish between immigration, emigration, and internal migration",
+      "2. Introduce push factors (reasons people leave places) and pull factors (reasons people choose destinations)",
+      "3. Examine historical U.S. migration patterns including westward movement and Great Migration",
+      "4. Study contemporary migration patterns including rural-to-urban movement globally",
+      "5. Create a personal migration map showing family movement over generations if applicable",
+      "6. Analyze case studies of current migration including climate refugees and economic migrants",
+      "7. Discuss how migration affects both origin and destination communities",
+      "8. Connect migration patterns to population density and distribution worldwide"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "World map for tracking migration routes",
+      "Push/pull factors worksheet",
+      "Historical migration timeline",
+      "Colored pencils for mapping",
+      "Migration case study examples"
+    ],
+    "sort_order": 4,
+    "parent_notes": "This lesson helps students understand human geography and the forces that shape where people live. Encourage your child to think about their own family's migration story if applicable, while being sensitive to diverse family experiences. The Montessori approach emphasizes understanding human needs and adaptations. Help your child see connections between geography, economics, and human decision-making. This topic builds empathy for people in different circumstances and understanding of global interconnectedness.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Population Geography: Why People Move",
+          "subheading": "Exploring migration patterns and the forces that shape human movement",
+          "mascot_explanation": "Hi, geography explorers! I'm Finn Fox, and today we're going to discover why people move from place to place around our world. Just like how I might move to find better food sources, humans migrate for many important reasons too!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World map for tracking migration routes",
+            "Push/pull factors worksheet",
+            "Historical migration timeline",
+            "Colored pencils for mapping",
+            "Migration case study examples"
+          ],
+          "setup_instructions": "Spread out world map for easy access. Organize colored pencils for route tracing. Have case studies ready for analysis.",
+          "mascot_explanation": "Let's gather our geography tools to track human movement across our planet! We'll use the colored pencils to trace different migration routes, and our case studies will help us understand real people's stories. Get ready to see the world through the eyes of people on the move!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn the vocabulary: migration, immigration, emigration, and internal migration. Understand that migration can be voluntary or forced, temporary or permanent.",
+          "mascot_explanation": "These geography words help us talk precisely about different types of human movement! Think of immigration as 'moving in' and emigration as 'moving out' - the same journey looks different depending on which end you're viewing from. Pretty clever, right?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Explore push factors (war, poverty, natural disasters, persecution) and pull factors (jobs, safety, family, better climate) that influence migration decisions.",
+          "mascot_explanation": "Push and pull factors are like invisible forces that influence where people choose to live! Push factors make people want to leave a place, while pull factors attract them somewhere new. Often people are experiencing both at the same time when they decide to migrate."
+        },
+        {
+          "type": "activity",
+          "prompt": "Using the world map and colored pencils, trace three major historical migration routes (such as Irish to America, Great Migration within U.S., or rural-to-urban movement in China). Identify push and pull factors for each.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now you get to be migration detectives! As you trace these routes on your map, think about what might have pushed people to leave and what pulled them to their new homes. Each colored line represents millions of individual decisions and stories!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What's the difference between a push factor and a pull factor in migration?",
+            "Can you give an example of voluntary migration and forced migration?",
+            "How might migration affect both the places people leave and the places they move to?"
+          ],
+          "mascot_explanation": "These questions will help you think deeply about human migration! Remember, behind every migration statistic are real people making difficult decisions about their lives. Understanding these patterns helps us better understand our interconnected world."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Discuss how migration continues today with climate refugees, economic migrants, and urbanization trends. Consider how migration shapes cultural diversity and economic development worldwide.",
+          "mastery_check": "Student can identify push and pull factors in migration, trace major historical migration routes, and explain the impacts of population movement on communities.",
+          "mascot_explanation": "Great work exploring human migration patterns today! People have been moving around our planet for thousands of years, and understanding these patterns helps us see how our modern world developed. Migration is one of the most important forces shaping our global community!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/geography/map-skills.pdf"
+    ],
+    "printable_template": "map-skills"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "read_aloud",
+    "week_number": 20,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Tuck Everlasting: Introduction and Setting",
+    "description": "Students begin their journey with Natalie Babbitt's Tuck Everlasting, exploring themes of immortality and the natural order. This introduction focuses on establishing the mysterious setting and meeting young Winnie Foster.",
+    "instructions": [
+      "1. Introduce the author Natalie Babbitt and the book's publication background",
+      "2. Preview the central theme of immortality and what it means to live forever",
+      "3. Read aloud the prologue and first chapter, emphasizing the mysterious tone",
+      "4. Discuss the setting of Treegap and how it's described as a place 'time forgot'",
+      "5. Analyze Winnie Foster's character and her feelings about her controlled life",
+      "6. Explore the symbolism of the woods and the fence around Winnie's house",
+      "7. Make predictions about what Winnie might discover in the woods",
+      "8. Connect the theme of natural order to students' own observations about life cycles"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Tuck Everlasting book",
+      "Reading journal for responses",
+      "Character analysis worksheet",
+      "Prediction chart",
+      "Discussion question prompts"
+    ],
+    "sort_order": 5,
+    "parent_notes": "Tuck Everlasting introduces profound philosophical questions about mortality and the meaning of life cycles. Allow your child to grapple with these big ideas at their own pace, encouraging thoughtful discussion rather than quick answers. The Montessori approach values deep thinking about life's mysteries. This book provides opportunities to discuss natural cycles, family expectations, and the concept of freedom. Encourage your child to share their predictions and reactions as the story develops.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Tuck Everlasting: A Story About Forever",
+          "subheading": "Beginning our journey with Winnie Foster and the mystery of eternal life",
+          "mascot_explanation": "Hello, book lovers! I'm Finn Fox, and today we're starting an amazing story that asks a really big question: What if you could live forever? Get ready to meet Winnie Foster and discover a secret that will change everything she knows about life!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Tuck Everlasting book",
+            "Reading journal for responses",
+            "Character analysis worksheet",
+            "Prediction chart",
+            "Discussion question prompts"
+          ],
+          "setup_instructions": "Have book ready for read-aloud with bookmarks for stopping points. Set up journals for note-taking and predictions during reading.",
+          "mascot_explanation": "Let's get ready for a thoughtful reading experience! Your journal will be perfect for capturing your thoughts and predictions as we explore this mysterious story. Keep your prediction chart handy - this book is full of surprises!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn about author Natalie Babbitt and discuss the central question of the book: Is living forever a blessing or a curse?",
+          "mascot_explanation": "Natalie Babbitt wrote this story to explore one of life's biggest mysteries - what makes life precious? Before we meet the characters, think about this question: If you could live forever, would you want to? There's no right answer, just your honest thoughts!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the prologue and first chapter aloud, paying attention to the mysterious, timeless tone and the description of Treegap as a forgotten place.",
+          "mascot_explanation": "Listen carefully to how the author sets up this magical, mysterious world! The way she describes Treegap makes it sound like a place where time moves differently. Can you hear the mysterious tone in her words? That's the author preparing us for something extraordinary!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Analyze Winnie Foster's character and situation. Create a character map showing her feelings about her controlled life and her desire for freedom. Make predictions about her adventure.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now let's dive deep into understanding Winnie! Think about how she feels trapped by all the rules and expectations in her life. Have you ever felt like that? Use your character map to explore her personality and then make some predictions about what might happen to her!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does the author describe Treegap and why does it seem like a special place?",
+            "What does Winnie Foster want that she doesn't have in her current life?",
+            "What do you predict Winnie will discover when she ventures into the woods?"
+          ],
+          "mascot_explanation": "These questions will help you think deeply about what we've read so far! Pay attention to how the author uses description to create mood, and think about Winnie's motivations. Your predictions might change as we read more - and that's perfectly fine!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Discuss the symbolism of boundaries (Winnie's fence, the woods) and natural cycles. Reflect on what makes life meaningful and precious.",
+          "mastery_check": "Student can describe Winnie's character and motivation, identify the mysterious tone of the setting, and make thoughtful predictions about the story's development.",
+          "mascot_explanation": "What a thoughtful start to this incredible story! We've met Winnie and begun to think about some really big questions about life and freedom. Keep your predictions in mind as we continue reading - this story is going to take us on quite an adventure!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "language",
+    "week_number": 20,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Crafting Strong In-Text Citations",
+    "description": "Students learn to properly integrate in-text citations using MLA format within their research writing. This lesson focuses on when and how to cite sources effectively while maintaining natural flow in writing.",
+    "instructions": [
+      "1. Review what plagiarism means and why proper citation prevents it",
+      "2. Demonstrate the difference between direct quotes and paraphrased information",
+      "3. Show examples of proper MLA in-text citation format (Author page#)",
+      "4. Practice identifying when citations are needed in sample paragraphs",
+      "5. Have your child write 2-3 sentences incorporating a citation from a provided source",
+      "6. Review their work together, checking citation placement and format",
+      "7. Discuss how citations help readers find original sources",
+      "8. Save examples in their research writing folder for reference"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Sample research articles or encyclopedia entries",
+      "MLA citation format reference sheet",
+      "Writing paper or computer",
+      "Pencil or pen",
+      "Student research folder"
+    ],
+    "sort_order": 6,
+    "parent_notes": "This lesson builds essential academic integrity skills that will serve your child throughout their educational journey. In Montessori philosophy, we emphasize respect for the work of others, and proper citation demonstrates this respect. Allow your child to practice with familiar topics first, as this helps them focus on the citation mechanics rather than struggling with difficult content. Encourage precision in following the format, as attention to detail is a key Montessori principle.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Crafting Strong In-Text Citations",
+          "subheading": "Learning to Give Credit Where Credit is Due",
+          "mascot_explanation": "Hi there! I'm Finn Fox, and today we're going to become citation detectives! We'll learn how to properly give credit to the amazing researchers and writers whose work helps us learn new things."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sample research articles or encyclopedia entries",
+            "MLA citation format reference sheet",
+            "Writing paper or computer",
+            "Pencil or pen",
+            "Student research folder"
+          ],
+          "setup_instructions": "Set up a comfortable writing space with good lighting. Have the reference sheet easily visible and sample articles within reach.",
+          "mascot_explanation": "Let's gather our citation toolkit! These materials will help you become a master at showing respect for other writers' hard work. Think of citations like giving a friendly wave to say 'thank you' to the original author!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review what plagiarism means and examine examples of proper vs improper use of sources. Discuss why giving credit protects both the original author and the student writer.",
+          "mascot_explanation": "Plagiarism is like taking someone's homework and putting your name on it - not cool! When we use citations, we're being honest detectives who always reveal our sources. It's the right thing to do!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn the basic MLA in-text citation format: (Author's Last Name page#). Practice identifying the author and page number from sample sources.",
+          "mascot_explanation": "MLA citations are like a secret code that all researchers understand! It's actually pretty simple - just the author's last name and the page number in parentheses. Easy peasy, lemon squeezy!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Using provided sample sources, write 3-4 sentences about a topic of your choice, incorporating at least two proper in-text citations. Focus on making the citations flow naturally within your sentences.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now it's time to put your citation skills to the test! Write about something that interests you, and remember to give credit where credit is due. Your sentences should flow smoothly, like a river with helpful signposts along the way."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you explain when an in-text citation is needed?",
+            "What information goes inside the parentheses for MLA format?",
+            "How do citations show respect for other writers?"
+          ],
+          "mascot_explanation": "Let's make sure you've got this citation business figured out! These questions will help you check that you're ready to be a responsible researcher. You've got this!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Review the importance of academic integrity and how proper citations strengthen research writing by showing credible sources. Celebrate the development of ethical research habits.",
+          "mastery_check": "Student can correctly format basic MLA in-text citations and explain when they are needed.",
+          "mascot_explanation": "Congratulations on becoming a citation champion! You now have the superpower of being an honest, respectful researcher. Remember, every time you cite a source, you're building trust with your readers and showing what a thoughtful scholar you are!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "math",
+    "week_number": 20,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Mastering Order of Operations with Variables",
+    "description": "Students apply PEMDAS (Parentheses, Exponents, Multiplication/Division, Addition/Subtraction) to expressions containing variables and numbers. This lesson bridges arithmetic and algebraic thinking through systematic problem-solving.",
+    "instructions": [
+      "1. Review the PEMDAS acronym and what each letter represents",
+      "2. Work through 2-3 numerical expressions step-by-step to reinforce the order",
+      "3. Introduce expressions with variables, showing that the same rules apply",
+      "4. Practice evaluating expressions like 3x + 2 when x = 4, following order of operations",
+      "5. Create expressions with parentheses and variables for added complexity",
+      "6. Have your child solve 5-6 problems independently, checking their work together",
+      "7. Discuss common mistakes and how careful attention to order prevents errors",
+      "8. Connect this skill to real-world formulas they might encounter"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Order of operations reference chart",
+      "Calculator for checking",
+      "Graph paper or lined paper",
+      "Colored pencils or markers",
+      "Practice problems worksheet"
+    ],
+    "sort_order": 7,
+    "parent_notes": "Order of operations is a fundamental skill that requires precision and systematic thinking - hallmarks of Montessori education. Allow your child to work through problems methodically, encouraging them to show each step clearly. This builds both mathematical accuracy and logical reasoning skills. If your child makes errors, guide them to find the mistake themselves rather than simply providing the correct answer, as this develops self-correction abilities that are essential in Montessori learning.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Mastering Order of Operations with Variables",
+          "subheading": "Following the Mathematical Rules of the Road",
+          "mascot_explanation": "Hey there, math explorer! I'm Finn Fox, and today we're going to learn the special rules that help mathematicians around the world solve problems the same way. Think of PEMDAS as traffic rules for math - everyone needs to follow the same order!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Order of operations reference chart",
+            "Calculator for checking",
+            "Graph paper or lined paper",
+            "Colored pencils or markers",
+            "Practice problems worksheet"
+          ],
+          "setup_instructions": "Create a organized workspace with the reference chart prominently displayed. Keep colored pencils handy for highlighting different operations in order.",
+          "mascot_explanation": "Let's set up our math command center! The colored pencils will help us highlight each step in a different color - it's like creating a rainbow path through each problem. How fun is that?"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review PEMDAS: Parentheses first, then Exponents, then Multiplication and Division (left to right), finally Addition and Subtraction (left to right). Use the memory device 'Please Excuse My Dear Aunt Sally.'",
+          "mascot_explanation": "PEMDAS is like a recipe that mathematicians everywhere follow! Just like you wouldn't put frosting on a cake before baking it, we have to do math operations in the right order. Please Excuse My Dear Aunt Sally will help you remember!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Practice with expressions containing variables. Show that when x = 3, the expression 2x + 5 becomes 2(3) + 5, and we follow PEMDAS to get 6 + 5 = 11.",
+          "mascot_explanation": "Variables are like mystery boxes - once we know what's inside, we can solve the puzzle! When we substitute the number for the variable, we just follow our trusty PEMDAS rules to find the answer."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve 6 expressions with variables using PEMDAS, such as '3x + 2(x - 1) when x = 4' and '2x² + 5x - 3 when x = 2'. Show each step clearly and use different colors for each operation type.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Time to become an order of operations detective! Use your colors to highlight each step - maybe red for parentheses, blue for multiplication, and green for addition. This helps you see the pattern and catch any mistakes along the way!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What does PEMDAS stand for and why is order important?",
+            "When you see 2x + 3 and x = 5, what's your first step?",
+            "How would you solve 4(x + 2) - 3x when x = 3?"
+          ],
+          "mascot_explanation": "Let's make sure you've got the hang of this mathematical dance! These questions will help you show off your PEMDAS skills. Remember, every step counts, and order matters!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Celebrate mastery of systematic problem-solving and connect order of operations to future algebra success. Emphasize how following rules creates consistency in mathematics worldwide.",
+          "mastery_check": "Student can correctly apply PEMDAS to expressions with variables, showing clear step-by-step work.",
+          "mascot_explanation": "Wow, you've become a true order of operations champion! Now you can solve complex expressions just like mathematicians and scientists do all around the world. You're building the foundation for amazing mathematical adventures ahead!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/fraction-circles.pdf"
+    ],
+    "printable_template": "fraction-circles"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "science",
+    "week_number": 20,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Exploring Earth's Layers Through Models",
+    "description": "Students investigate the structure of Earth's interior by creating physical models and analyzing how scientists discovered information about layers they cannot directly observe. This lesson emphasizes scientific inference and evidence-based conclusions.",
+    "instructions": [
+      "1. Discuss how scientists study Earth's interior without being able to dig that deep",
+      "2. Introduce the four main layers: crust, mantle, outer core, and inner core",
+      "3. Create a clay or play dough model showing the relative thickness of each layer",
+      "4. Research and record the temperature, composition, and state of matter for each layer",
+      "5. Demonstrate how seismic waves help scientists 'see' inside Earth using a simple analogy",
+      "6. Compare Earth's layers to a hard-boiled egg or other familiar layered object",
+      "7. Discuss how the layers formed during Earth's early history",
+      "8. Connect layer properties to surface phenomena like volcanoes and earthquakes"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Modeling clay or play dough in 4 different colors",
+      "Plastic knife for cutting",
+      "Ruler or measuring tape",
+      "Earth layers reference chart",
+      "Hard-boiled egg for comparison",
+      "Drawing paper and colored pencils"
+    ],
+    "sort_order": 8,
+    "parent_notes": "This hands-on lesson embodies Montessori principles by allowing children to construct their understanding through tactile exploration and model-making. Encourage your child to think like a scientist, asking questions about how we know what we cannot directly observe. The model-making satisfies the elementary child's need for concrete experiences while building abstract understanding. Allow time for your child to make predictions and test ideas, as this develops scientific reasoning skills that are central to Montessori science education.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Exploring Earth's Layers Through Models",
+          "subheading": "Building Our Planet from the Inside Out",
+          "mascot_explanation": "Hello, earth scientists! I'm Finn Fox, and today we're going on an incredible journey to the center of our planet! We'll build models to understand what's happening deep beneath our feet - it's like being geological detectives!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Modeling clay or play dough in 4 different colors",
+            "Plastic knife for cutting",
+            "Ruler or measuring tape",
+            "Earth layers reference chart",
+            "Hard-boiled egg for comparison",
+            "Drawing paper and colored pencils"
+          ],
+          "setup_instructions": "Prepare a clean work surface and have reference materials easily accessible. Keep the hard-boiled egg for comparison during the layer discussion.",
+          "mascot_explanation": "Let's gather our geological toolkit! We're going to use these colorful clays to build our own planet Earth - just like the real scientists do when they create models to help us understand complex ideas. The egg will be our special helper too!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn about Earth's four main layers: crust (thin, solid, where we live), mantle (hot, mostly solid rock), outer core (liquid iron and nickel), and inner core (solid iron and nickel under extreme pressure).",
+          "mascot_explanation": "Our Earth is like a giant onion with different layers! The crust where we live is super thin compared to the other layers - it's like the skin on an apple. Each layer has its own special job in keeping our planet working!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Create a scale model using different colored clay, making the inner core smallest, then outer core, then the thick mantle, and finally the very thin crust. Cut the model in half to reveal all layers.",
+          "mascot_explanation": "Now for the fun part - we're going to build our own Earth! Make sure your crust layer is really thin because that's where all life lives. When we cut it open, it'll be like having X-ray vision into our planet!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Research and create a detailed diagram of Earth's layers, including temperature ranges, composition, and thickness measurements. Compare your clay model to the hard-boiled egg structure.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Time to be a real earth scientist! Investigate each layer and discover amazing facts - like how the inner core is as hot as the sun's surface! See how our egg comparison helps us understand the layered structure too."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Which layer is thickest and what is it made of?",
+            "How do scientists study Earth's interior without digging down?",
+            "Why is the inner core solid while the outer core is liquid?"
+          ],
+          "mascot_explanation": "Let's see how well you know our planet's interior! These questions will help you show off all the amazing facts you've discovered about what's beneath our feet. You're becoming a real earth expert!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Review how Earth's layered structure affects surface processes and connects to upcoming lessons on plate tectonics, earthquakes, and volcanoes. Appreciate the ingenuity of scientists in studying the unseen.",
+          "mastery_check": "Student can identify and describe the four layers of Earth and explain how scientists gather evidence about Earth's interior.",
+          "mascot_explanation": "What an incredible journey to the center of our planet! You've learned how scientists use creative thinking to study places no one can visit. Your new knowledge about Earth's layers will help us understand earthquakes, volcanoes, and so much more!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/science/lab-report.pdf"
+    ],
+    "printable_template": "lab-report"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "culture",
+    "week_number": 20,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "The Great Migration and Population Patterns",
+    "description": "Students explore the movement of African Americans from the rural South to northern industrial cities between 1910-1970, examining push and pull factors that drive human migration. This lesson connects historical events to broader geographic concepts of population movement.",
+    "instructions": [
+      "1. Introduce the Great Migration as one of the largest internal migrations in US history",
+      "2. Identify push factors (Jim Crow laws, economic hardship, violence) and pull factors (jobs, freedom, education)",
+      "3. Use maps to trace major migration routes from South to North and West",
+      "4. Research how this migration changed both the places people left and where they moved",
+      "5. Connect to modern migration patterns and reasons people move today",
+      "6. Examine primary sources like letters, photographs, or interviews from migrants",
+      "7. Discuss the cultural impact, including music, literature, and community formation",
+      "8. Create a simple chart comparing migration patterns then and now"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "US map showing migration routes",
+      "Primary source documents or photographs",
+      "Chart paper or large paper",
+      "Colored pencils or markers",
+      "Timeline reference sheet"
+    ],
+    "sort_order": 9,
+    "parent_notes": "This lesson addresses both historical content and geographic concepts, embodying the Montessori approach of showing interconnections between subjects. Help your child understand that migration is driven by human needs and desires for better opportunities, connecting past and present experiences. The primary sources help make abstract historical concepts concrete and personal, which aligns with elementary children's need for stories and human connections. Encourage empathy by discussing how difficult it must have been to leave familiar places and start over somewhere new.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "The Great Migration and Population Patterns",
+          "subheading": "Understanding Why People Move: Then and Now",
+          "mascot_explanation": "Hi there, fellow explorers! I'm Finn Fox, and today we're going to learn about one of the biggest movements of people in American history. We'll discover why millions of people made brave decisions to leave their homes and start new lives in unfamiliar places!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "US map showing migration routes",
+            "Primary source documents or photographs",
+            "Chart paper or large paper",
+            "Colored pencils or markers",
+            "Timeline reference sheet"
+          ],
+          "setup_instructions": "Spread out the map where it can be easily referenced throughout the lesson. Have primary sources organized for easy viewing and discussion.",
+          "mascot_explanation": "Let's set up our migration research station! Our map will help us follow the incredible journeys of millions of people, and these photos and documents will help us understand their real stories. It's like being history detectives!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn about the Great Migration (1910-1970): approximately 6 million African Americans moved from the rural South to cities in the North, Midwest, and West seeking better opportunities and escaping discrimination.",
+          "mascot_explanation": "Imagine if six million people - that's like the entire population of some countries - decided to pack up and move to find better lives! This amazing movement of people changed America forever and took incredible courage."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Examine push factors (Jim Crow laws, economic hardship, limited opportunities) and pull factors (industrial jobs, better wages, more freedoms, educational opportunities) using the map to trace common routes.",
+          "mascot_explanation": "People don't usually leave their homes unless they have really good reasons! Push factors are like things that push you away from home, while pull factors are like magnets drawing you somewhere new. Let's see what made this movement so powerful."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a comparison chart showing migration patterns of the Great Migration versus modern migration patterns. Include push/pull factors, destinations, and impacts on communities. Use primary sources to add personal stories to your chart.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now you get to be migration experts! Compare the past and present to see how some things about human movement stay the same while others change. The real stories from people who lived through this will make history come alive!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What were three push factors that caused people to leave the South?",
+            "How did the Great Migration change northern cities?",
+            "What similarities do you see between past and present migration patterns?"
+          ],
+          "mascot_explanation": "Let's check how well you understand this amazing chapter in American history! These questions will help you think about the big picture of why people move and how it affects everyone involved."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect on how the Great Migration demonstrates universal human desires for opportunity, safety, and dignity. Connect this historical movement to ongoing global migration patterns and the importance of understanding multiple perspectives in history.",
+          "mastery_check": "Student can explain push and pull factors of the Great Migration and make connections to modern population movements.",
+          "mascot_explanation": "You've learned about one of the most important movements in American history! Understanding why people move helps us be more empathetic and see how brave individuals can change entire communities and countries. These lessons about courage and hope are still important today!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/culture/cultural-activity-sheets.pdf"
+    ],
+    "printable_template": "cultural-activity-sheets"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "read_aloud",
+    "week_number": 20,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Tuck Everlasting: The Weight of Forever",
+    "description": "Students engage with chapters focusing on Winnie's growing understanding of the Tucks' dilemma and the concept of immortality. This lesson explores themes of mortality, natural cycles, and the value of choice in human experience.",
+    "instructions": [
+      "1. Read aloud the selected chapters with attention to mood and character emotions",
+      "2. Pause for discussion about Winnie's reactions to learning about immortality",
+      "3. Explore the metaphor of the wheel and the cycle of life that Tuck describes",
+      "4. Discuss the pros and cons of living forever as presented in the story",
+      "5. Have your child share their thoughts about whether they would drink the water",
+      "6. Connect the themes to natural cycles they observe in their own environment",
+      "7. Examine how Babbitt uses descriptive language to create mood and atmosphere",
+      "8. Predict how Winnie's newfound knowledge might change her perspective"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Tuck Everlasting book",
+      "Discussion questions sheet",
+      "Journal or notebook for responses",
+      "Pencil or pen",
+      "Bookmark"
+    ],
+    "sort_order": 10,
+    "parent_notes": "This story addresses profound philosophical questions that resonate with elementary children's growing awareness of life's complexities. In Montessori tradition, we honor children's ability to grapple with big ideas when presented thoughtfully. Allow natural pauses for your child to process and respond to the themes, as this supports their developing moral reasoning. The book's exploration of choice and consequence aligns with Montessori emphasis on personal responsibility and thoughtful decision-making. Encourage your child to share their genuine thoughts and feelings without judgment.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Tuck Everlasting: The Weight of Forever",
+          "subheading": "Exploring Life's Most Profound Questions",
+          "mascot_explanation": "Hello, thoughtful readers! I'm Finn Fox, and today we're diving deep into one of literature's most fascinating questions - would you want to live forever? Winnie Foster is about to learn some life-changing secrets that will make us all think differently about time and life!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Tuck Everlasting book",
+            "Discussion questions sheet",
+            "Journal or notebook for responses",
+            "Pencil or pen",
+            "Bookmark"
+          ],
+          "setup_instructions": "Create a comfortable reading space with good lighting. Have the discussion questions easily accessible for natural conversation breaks during reading.",
+          "mascot_explanation": "Let's create the perfect thinking space for our deep reading adventure! Keep your journal handy because this story is going to give you so many ideas and feelings to capture. Sometimes the best thoughts come when we're reading!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read the chapters where Tuck explains the family's situation to Winnie, paying special attention to his metaphor about the wheel of life and being stuck on the side while everything else moves on.",
+          "mascot_explanation": "Tuck has such a beautiful but sad way of explaining what it's like to live forever. Listen carefully to his wheel metaphor - it's one of the most powerful ways to think about life and death that you'll ever hear!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Discuss Winnie's emotional reactions to learning the Tucks' secret. Consider how this knowledge changes her understanding of life, death, and the natural order of things.",
+          "mascot_explanation": "Poor Winnie's whole world just got turned upside down! Imagine learning that some people can't die - how would that make you feel? Would you be excited, scared, confused, or maybe all of those things at once?"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a two-column chart listing the advantages and disadvantages of immortality as presented in the story. Then write a journal reflection about whether you would choose to drink from the spring and why.",
+          "duration_minutes": 25,
+          "mascot_explanation": "This is your chance to really think like a philosopher! There are no right or wrong answers here - just your honest thoughts about one of life's biggest questions. What matters most to you about being human?"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What does Tuck mean when he talks about being stuck on the side of the wheel?",
+            "How has learning the secret changed Winnie's perspective on her own life?",
+            "What natural cycles does the story suggest are important parts of life?"
+          ],
+          "mascot_explanation": "These questions will help you think about the deep meanings in this amazing story. Natalie Babbitt didn't just write an adventure - she wrote about the most important questions humans ask themselves!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect on how the story encourages us to value the time we have and see death not as an ending but as part of life's natural rhythm. Consider how Winnie's encounter with the Tucks might change how she lives her life.",
+          "mastery_check": "Student can articulate the main themes of mortality and choice in the story and connect them to larger questions about the value of life.",
+          "mascot_explanation": "What an incredible journey we're taking with Winnie! This story helps us appreciate every moment we have and think about what makes life precious. You're reading like real literary scholars, finding the big meanings hidden in beautiful stories!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "language",
+    "week_number": 20,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Mastering In-Text Citations for Research Writing",
+    "description": "Students will learn the fundamentals of MLA in-text citations, practicing how to properly credit sources within their research writing. This lesson focuses on integrating quoted and paraphrased material seamlessly into paragraphs.",
+    "instructions": [
+      "Set up workspace with sample research sources and citation examples",
+      "Review the difference between quoting and paraphrasing from previous lessons",
+      "Introduce MLA in-text citation format using the provided examples",
+      "Practice identifying where citations are needed in sample paragraphs",
+      "Guide student through creating their own in-text citations using practice sources",
+      "Have student revise a paragraph by adding proper in-text citations",
+      "Review all citation work and discuss common mistakes to avoid",
+      "Preview tomorrow's lesson on Works Cited pages"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Sample research articles",
+      "MLA citation reference sheet",
+      "Practice paragraphs worksheet",
+      "Pencil and paper",
+      "Timer"
+    ],
+    "sort_order": 11,
+    "parent_notes": "This lesson emphasizes the Montessori principle of preparing children for real-world academic skills while maintaining their natural curiosity about learning. The concrete practice with citation formats helps students understand the importance of giving credit to authors and researchers. Encourage your child to see citations not as complicated rules, but as a way to honor the work of others and strengthen their own arguments.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Mastering In-Text Citations for Research Writing",
+          "subheading": "Learning to Give Credit Where Credit is Due",
+          "mascot_explanation": "Hey there, researcher! I'm Finn Fox, and today we're going to learn one of the most important skills for academic writing - how to properly cite your sources. Think of citations like giving a friendly wave to the authors who helped you learn something new!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sample research articles",
+            "MLA citation reference sheet",
+            "Practice paragraphs worksheet",
+            "Pencil and paper",
+            "Timer"
+          ],
+          "setup_instructions": "Arrange materials on your workspace with the MLA reference sheet easily visible. Have the sample articles and worksheets ready to use throughout the lesson.",
+          "mascot_explanation": "Let's gather our detective tools for citation work! These materials will help you become a citation expert, just like how I use my keen fox senses to track down the best information in the forest."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the MLA in-text citation format: (Author's Last Name page#). Examine examples of both quoted and paraphrased material with proper citations.",
+          "mascot_explanation": "Citations are like little breadcrumbs that lead readers back to your sources! The format is simple - just the author's last name and the page number in parentheses, like a tiny address for finding information."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Practice identifying sentences in sample paragraphs that need citations. Look for facts, statistics, quotes, and ideas that came from research sources.",
+          "mascot_explanation": "Now we're becoming citation detectives! Just like I can spot which tracks belong to which forest animals, you'll learn to spot which ideas need citations to show where they came from."
+        },
+        {
+          "type": "activity",
+          "prompt": "Using the practice sources provided, write three sentences about your research topic: one with a direct quote, one with paraphrased information, and one with your own analysis. Add proper in-text citations to the first two sentences.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Time to put your citation skills into action! Remember, your own brilliant ideas don't need citations, but anything you learned from someone else does. You've got this - I believe in your research abilities!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What information goes inside the parentheses for an in-text citation?",
+            "When do you need to include a citation in your writing?",
+            "What's the difference between citing a quote versus citing paraphrased information?"
+          ],
+          "mascot_explanation": "Let's make sure you've mastered these citation concepts! These questions will help you check your understanding, and don't worry if you need to review anything - even the smartest foxes sometimes need to double-check their work."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you learned the essential skill of MLA in-text citations, practicing how to give proper credit to sources in your research writing. Remember that citations strengthen your arguments by showing readers where to find your supporting evidence.",
+          "mastery_check": "Student can correctly format in-text citations and identify when citations are needed in research writing.",
+          "mascot_explanation": "Fantastic work today, young scholar! You've taken a big step toward becoming a responsible researcher who honors other people's work while building your own strong arguments. Tomorrow we'll learn about Works Cited pages!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "math",
+    "week_number": 20,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Solving One-Step Equations with Variables",
+    "description": "Students will learn to solve simple one-step equations using inverse operations, building on their understanding of variables and algebraic expressions. This lesson emphasizes the balance concept of equations and introduces systematic problem-solving strategies.",
+    "instructions": [
+      "Set up balance scale or drawing materials to demonstrate equation balance",
+      "Review what variables represent and how expressions differ from equations",
+      "Introduce the concept that equations show two equal expressions",
+      "Demonstrate solving addition and subtraction equations using inverse operations",
+      "Practice solving multiplication and division equations with inverse operations",
+      "Work through mixed practice problems, checking solutions by substitution",
+      "Have student create and solve their own one-step equations",
+      "Discuss real-world applications where solving equations is useful"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Balance scale or balance drawings",
+      "Algebra tiles or small objects",
+      "Equation practice worksheet",
+      "Calculator",
+      "Graph paper"
+    ],
+    "sort_order": 12,
+    "parent_notes": "This lesson introduces abstract mathematical thinking while keeping it concrete through manipulatives and visual representations. The Montessori approach emphasizes understanding the 'why' behind mathematical procedures, not just memorizing steps. Allow your child to use manipulatives as long as needed - this concrete foundation will support their abstract thinking later. Encourage them to check their answers by substituting back into the original equation.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Solving One-Step Equations with Variables",
+          "subheading": "Finding the Mystery Number Using Inverse Operations",
+          "mascot_explanation": "Hello, math detectives! I'm Finn Fox, and today we're going on a treasure hunt to find mystery numbers hidden in equations. Think of variables as treasure chests that we need to unlock using special mathematical keys!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Balance scale or balance drawings",
+            "Algebra tiles or small objects",
+            "Equation practice worksheet",
+            "Calculator",
+            "Graph paper"
+          ],
+          "setup_instructions": "Set up your balance scale in the center of your workspace. Keep algebra tiles or small objects nearby for hands-on problem solving. Have worksheet and calculator within easy reach.",
+          "mascot_explanation": "Our math detective kit is ready! The balance scale will help us understand that equations are like perfectly balanced see-saws, and our tiles will represent the numbers and variables we're working with."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Understand that an equation shows two expressions that are equal, like a balanced scale. Use the balance scale to demonstrate that whatever you do to one side, you must do to the other side to keep it balanced.",
+          "mascot_explanation": "Equations are like nature's perfect balance - just like how I balance on tree branches! When we solve equations, we need to keep both sides equal, just like keeping a scale perfectly level."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn to solve addition and subtraction equations by using inverse operations. For x + 5 = 12, subtract 5 from both sides. For x - 3 = 8, add 3 to both sides.",
+          "mascot_explanation": "Inverse operations are like opposite actions that cancel each other out! If someone adds 5, we subtract 5 to undo it. It's like retracing your steps when you're lost in the forest."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve these one-step equations and check your answers by substituting back into the original equation: x + 7 = 15, y - 4 = 9, 3z = 21, w ÷ 5 = 8. Show all your work and verify each solution.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Time to become equation-solving experts! Remember to use inverse operations and always check your work by plugging your answer back into the original equation. Take your time - good mathematicians are careful and thorough!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What does it mean for an equation to be balanced?",
+            "Which inverse operation would you use to solve x + 8 = 20?",
+            "How can you check if your solution to an equation is correct?"
+          ],
+          "mascot_explanation": "Let's make sure you've got these equation-solving strategies down pat! These questions will help you think through the process, and remember - understanding the 'why' is just as important as getting the right answer."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you learned to solve one-step equations using inverse operations while maintaining balance between both sides. You practiced with addition, subtraction, multiplication, and division equations, always checking your solutions.",
+          "mastery_check": "Student can solve one-step equations using appropriate inverse operations and verify solutions by substitution.",
+          "mascot_explanation": "Outstanding detective work today! You've unlocked the mystery of solving equations, and now you have the keys to find any unknown variable. Keep practicing these skills - they'll be super helpful as we tackle more complex equations ahead!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "history",
+    "week_number": 20,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "The Trail of Tears: A Dark Chapter in Westward Expansion",
+    "description": "Students will examine the forced removal of Native American tribes during westward expansion, focusing on the Cherokee Nation and the Trail of Tears. This lesson explores the impact of Manifest Destiny on indigenous peoples and develops empathy for different historical perspectives.",
+    "instructions": [
+      "Set up maps showing Cherokee territory before and after removal",
+      "Review the concept of Manifest Destiny from previous lessons",
+      "Introduce the Indian Removal Act of 1830 and its consequences",
+      "Trace the route of the Trail of Tears using maps and primary sources",
+      "Read excerpts from Cherokee accounts and government documents",
+      "Discuss the perspectives of different groups involved in these events",
+      "Have student create a timeline of key events in Cherokee removal",
+      "Reflect on the long-term impact of these policies on Native Americans"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "US historical maps",
+      "Primary source excerpts",
+      "Timeline template",
+      "Colored pencils",
+      "Cherokee Nation fact sheet"
+    ],
+    "sort_order": 13,
+    "parent_notes": "This sensitive topic requires careful handling to help children understand historical injustices while developing critical thinking skills. The Montessori approach encourages students to examine multiple perspectives and understand cause-and-effect relationships in history. Help your child process difficult emotions that may arise from learning about historical tragedies, and emphasize how understanding the past helps us make better decisions in the present.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "The Trail of Tears: A Dark Chapter in Westward Expansion",
+          "subheading": "Understanding the Impact of Manifest Destiny on Native Americans",
+          "mascot_explanation": "Hello, young historians. I'm Finn Fox, and today we're learning about a very serious and sad part of American history. We'll explore what happened to Native American families when the government wanted their land, and why it's important to remember their stories."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "US historical maps",
+            "Primary source excerpts",
+            "Timeline template",
+            "Colored pencils",
+            "Cherokee Nation fact sheet"
+          ],
+          "setup_instructions": "Lay out the maps to show the Cherokee territory changes over time. Have primary sources ready to read together, and prepare the timeline template for student use.",
+          "mascot_explanation": "These materials will help us understand what really happened during this difficult time in history. The maps and documents are like puzzle pieces that help us see the complete picture of these important events."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Examine maps showing Cherokee territory in the Southeast before 1830. Learn about Cherokee society, government, and their adaptation to European-style farming and education.",
+          "mascot_explanation": "The Cherokee people had built a rich civilization with their own government, schools, and even a newspaper! They lived in harmony with the land, much like how forest animals have their own territories and ways of life."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Study the Indian Removal Act of 1830 and President Andrew Jackson's role in forcing Native Americans to move west. Understand how the discovery of gold in Georgia increased pressure for removal.",
+          "mascot_explanation": "President Jackson and many settlers wanted the Cherokee land, especially when gold was discovered there. This created a conflict between what was fair to the Cherokee people and what the government decided to do."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a timeline of Cherokee removal from 1830-1839, including key events like the Treaty of New Echota, the Cherokee resistance, and the forced march west. Include both Cherokee and government perspectives for each event.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Creating this timeline helps us understand how these events unfolded over time. Try to imagine how different people felt during each event - the Cherokee families, the soldiers, and the government officials who made these decisions."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Why did the U.S. government want Cherokee land in the 1830s?",
+            "How did the Cherokee Nation try to resist removal?",
+            "What made the journey west so difficult and deadly for Cherokee families?"
+          ],
+          "mascot_explanation": "These questions help us think deeply about this important history. Understanding different perspectives and the reasons behind historical events helps us learn from the past and make better choices in the future."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you learned about the tragic forced removal of the Cherokee people and how westward expansion came at a great cost to Native Americans. This history reminds us to consider the perspectives of all people affected by government policies.",
+          "mastery_check": "Student can explain the causes and consequences of the Trail of Tears and demonstrate understanding of multiple historical perspectives.",
+          "mascot_explanation": "You've learned about a difficult but important part of our history today. Remembering the Cherokee people's story helps us understand how we can treat all people with respect and fairness. Their courage and resilience continue to inspire people today."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/history/timeline.pdf"
+    ],
+    "printable_template": "timeline"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "geography",
+    "week_number": 20,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Migration Patterns: Why People Move Around the World",
+    "description": "Students will explore human migration patterns throughout history and today, examining push and pull factors that cause people to move. This lesson connects to current events and helps students understand the geographic and economic forces behind population movement.",
+    "instructions": [
+      "Set up world map and migration tracking materials",
+      "Define migration and distinguish between voluntary and forced movement",
+      "Introduce push factors (war, poverty, disaster) and pull factors (jobs, freedom, family)",
+      "Trace historical migration patterns using the world map",
+      "Examine current migration trends and refugee movements",
+      "Discuss how migration affects both origin and destination communities",
+      "Have student research and map a specific migration example",
+      "Connect migration patterns to economic and political geography"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "World political map",
+      "Colored yarn or string",
+      "Migration examples worksheet",
+      "Atlas or geography reference",
+      "Sticky notes"
+    ],
+    "sort_order": 14,
+    "parent_notes": "This lesson helps children understand human movement patterns while developing empathy for migrants and refugees. The Montessori emphasis on global citizenship is particularly relevant here, as students learn how geographic factors influence human decisions and experiences. Encourage your child to think about their own family's migration history and connect these concepts to current events in an age-appropriate way.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Migration Patterns: Why People Move Around the World",
+          "subheading": "Exploring the Geographic Forces Behind Human Movement",
+          "mascot_explanation": "Hi there, fellow explorers! I'm Finn Fox, and today we're going to discover why people move from one place to another around our amazing planet. Just like how animals migrate for better food or weather, humans have fascinating reasons for their journeys too!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World political map",
+            "Colored yarn or string",
+            "Migration examples worksheet",
+            "Atlas or geography reference",
+            "Sticky notes"
+          ],
+          "setup_instructions": "Spread the world map on a large surface where you can trace routes with yarn. Keep the atlas nearby for reference, and have sticky notes ready to mark important locations.",
+          "mascot_explanation": "Our exploration kit is ready! We'll use these materials like a geographer uses tools to track human movement patterns. The yarn will help us see the amazing journeys people have taken across our world."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn the difference between voluntary migration (choosing to move) and forced migration (having to move). Understand push factors that make people want to leave and pull factors that attract them to new places.",
+          "mascot_explanation": "Migration is like when I decide to move to a new part of the forest! Sometimes I'm pushed away by bad weather, and sometimes I'm pulled toward a place with better food. People have similar reasons for moving."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Examine historical migration patterns including the Great Migration of African Americans, European immigration to America, and the movement of people during the California Gold Rush.",
+          "mascot_explanation": "Throughout history, people have moved for amazing opportunities and to escape difficult situations. Each migration story teaches us about the hopes and challenges that families faced when starting new lives."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose one current migration pattern (such as Syrian refugees, rural-to-urban migration in China, or climate migration in the Pacific Islands). Use the map and yarn to trace this movement, then identify three push factors and three pull factors involved.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now you get to be a migration detective! Pick a current example that interests you and trace the journey people are making. Think about what would make you want to leave home and what would attract you to a new place."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What's the difference between a push factor and a pull factor in migration?",
+            "Name two historical migrations and explain why they happened.",
+            "How does migration affect both the places people leave and the places they move to?"
+          ],
+          "mascot_explanation": "These questions help you think like a geographer about human movement! Understanding migration patterns helps us appreciate the courage it takes to start over in a new place and how movement shapes our world."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you explored the complex factors that drive human migration patterns around the world. You learned how geographic, economic, and political forces influence where and why people move, connecting past and present migration trends.",
+          "mastery_check": "Student can identify push and pull factors in migration and explain how geographic factors influence human movement patterns.",
+          "mascot_explanation": "Excellent work exploring human migration today! Understanding why people move helps us appreciate the diversity in our communities and the courage of families who start new lives in unfamiliar places. Every migration story is a tale of hope and resilience!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/geography/map-skills.pdf"
+    ],
+    "printable_template": "map-skills"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "read_aloud",
+    "week_number": 20,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Tuck Everlasting Chapter Analysis: Choices and Consequences",
+    "description": "Students will engage with Natalie Babbitt's Tuck Everlasting, analyzing character motivations and the central theme of mortality versus immortality. This lesson focuses on Winnie's developing understanding of the Tuck family's dilemma and her own moral choices.",
+    "instructions": [
+      "Create a comfortable reading space with the book and discussion materials",
+      "Review previous chapters and Winnie's discovery of the Tuck family secret",
+      "Read aloud the selected chapters with expression and pacing",
+      "Pause for student predictions and reactions during reading",
+      "Discuss the moral dilemma presented by the spring water",
+      "Analyze character motivations, especially Mae and Angus Tuck's perspectives",
+      "Have student complete character analysis organizer",
+      "Preview upcoming chapters and encourage predictions about Winnie's choice"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Tuck Everlasting book",
+      "Character analysis worksheet",
+      "Bookmark",
+      "Discussion questions sheet",
+      "Comfortable seating"
+    ],
+    "sort_order": 15,
+    "parent_notes": "This profound novel explores deep themes about life, death, and the natural order that resonate with Montessori values about appreciating the cycles of nature. Encourage your child to think critically about the characters' choices while processing the philosophical questions the book raises. The discussions about mortality should be handled sensitively, focusing on how the story helps us appreciate life's precious moments rather than fear death.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Tuck Everlasting Chapter Analysis: Choices and Consequences",
+          "subheading": "Exploring Winnie's Moral Dilemma and the Gift of Mortality",
+          "mascot_explanation": "Hello, thoughtful readers! I'm Finn Fox, and today we're diving deeper into Tuck Everlasting, one of the most thought-provoking stories about life and choices. Just like how every creature in the forest has its natural lifespan, this book makes us think about what makes life precious."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Tuck Everlasting book",
+            "Character analysis worksheet",
+            "Bookmark",
+            "Discussion questions sheet",
+            "Comfortable seating"
+          ],
+          "setup_instructions": "Arrange comfortable seating in your reading area. Have the book marked at today's starting chapter, with the character analysis worksheet and discussion questions easily accessible.",
+          "mascot_explanation": "Let's create the perfect thinking space for our deep dive into this amazing story! Having our materials organized helps us focus on the important ideas and characters we'll be exploring together."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review Winnie's discovery of the Tuck family's immortality and their explanation of why they must keep the spring water secret. Discuss her initial reactions and growing understanding.",
+          "mascot_explanation": "Winnie has learned an incredible secret - imagine discovering a family that has lived forever! Let's think about how overwhelming and confusing this discovery must be for a young girl like her."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read today's selected chapters aloud, paying attention to the dialogue between Winnie and different Tuck family members. Notice how each character views their immortality differently.",
+          "mascot_explanation": "As we read together, listen carefully to how Mae, Angus, Jesse, and Miles each feel about living forever. Their different perspectives will help us understand the complexity of their situation."
+        },
+        {
+          "type": "activity",
+          "prompt": "Complete a character analysis comparing how Mae Tuck and Angus Tuck each view their immortality. Include quotes from the text that show their different attitudes toward living forever, and explain how their perspectives might influence Winnie's decision.",
+          "duration_minutes": 25,
+          "mascot_explanation": "This analysis will help you understand the heart of the story! Mae and Angus have very different feelings about their endless lives, and understanding their perspectives will help you predict what Winnie might choose to do."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does Angus Tuck explain the natural cycle of life to Winnie?",
+            "Why does Mae Tuck worry about people discovering their secret?",
+            "What moral dilemma is Winnie beginning to face regarding the spring water?"
+          ],
+          "mascot_explanation": "These questions help us dig deeper into the story's most important themes. Understanding what each character believes about life and death helps us appreciate the difficult choice that Winnie must eventually make."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today's reading revealed the complexity of the Tuck family's immortality and how it affects each member differently. You analyzed how their perspectives on eternal life create the central conflict that Winnie must navigate.",
+          "mastery_check": "Student can analyze character motivations and explain the moral dilemma central to the novel's theme.",
+          "mascot_explanation": "What thoughtful analysis of this beautiful story! You're really understanding the deep questions that Natalie Babbitt wants us to consider about what makes life meaningful. Keep thinking about these ideas as we continue reading tomorrow!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "language",
+    "week_number": 20,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "MLA In-Text Citations: Integrating Sources into Research Papers",
+    "description": "Students learn proper MLA format for in-text citations and practice incorporating quoted and paraphrased material into their research writing. This lesson focuses on the mechanics of crediting sources while maintaining writing flow.",
+    "instructions": [
+      "1. Review the difference between direct quotes and paraphrases using the example texts provided",
+      "2. Demonstrate proper MLA in-text citation format for both author-page citations and signal phrases",
+      "3. Have your child practice identifying where citations are needed in sample paragraphs",
+      "4. Guide them through rewriting sentences to properly integrate citations",
+      "5. Practice creating citations for different source types (books, websites, articles)",
+      "6. Have your child write three sentences incorporating sources with proper MLA citations",
+      "7. Review their work and discuss common citation mistakes to avoid",
+      "8. Preview tomorrow's lesson on Works Cited page formatting"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "MLA style guide or reference sheet",
+      "sample research paragraphs",
+      "notebook and pen",
+      "timer",
+      "highlighters or colored pens"
+    ],
+    "sort_order": 16,
+    "parent_notes": "This lesson supports the Montessori principle of precision and order by teaching students the exact format for academic citations. The concrete practice of citation format prepares students for abstract thinking about intellectual honesty and scholarly discourse. Allow your child to work methodically through each citation format, as this attention to detail builds confidence in academic writing. Remember that mastering these technical skills empowers students to engage more freely with complex research topics.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "MLA In-Text Citations",
+          "subheading": "Giving Credit to Our Sources",
+          "mascot_explanation": "Hello, researchers! I'm Finn Fox, and today we're learning how to properly credit the sources we use in our research papers. Think of citations like giving a friend credit for a great idea - it's the honest and respectful thing to do!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "MLA style guide or reference sheet",
+            "sample research paragraphs",
+            "notebook and pen",
+            "timer",
+            "highlighters or colored pens"
+          ],
+          "setup_instructions": "Set up your workspace with your materials within easy reach. Have your MLA reference sheet visible as you work.",
+          "mascot_explanation": "Let's gather our detective tools for tracking down proper citation format! Having everything organized will help us focus on learning these important academic skills. I like to keep my reference sheet handy - even experienced researchers need to check the rules sometimes!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn the basic MLA in-text citation format: (Author's Last Name Page Number) with no comma between them.",
+          "mascot_explanation": "This is like writing a mini-address that points readers to exactly where you found your information! The author's name and page number work together like a GPS coordinate for your source."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Practice using signal phrases to introduce quotes, such as 'According to Smith,' or 'Johnson argues that,' followed by the page number in parentheses.",
+          "mascot_explanation": "Signal phrases are like introducing a friend before they speak - it's polite and helps your reader know who's talking! This makes your writing flow more smoothly while still giving proper credit."
+        },
+        {
+          "type": "activity",
+          "prompt": "Rewrite three provided paragraph examples, adding proper MLA in-text citations where sources are referenced but not credited.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now it's time to be citation detectives! Look for places where someone else's ideas or words are being used, then add the proper citations. Remember, when in doubt, it's better to cite than not to cite!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Where does the period go when you end a sentence with a citation?",
+            "What's the difference between a signal phrase citation and a parenthetical citation?",
+            "When do you need to include a page number in your citation?"
+          ],
+          "mascot_explanation": "Let's make sure we've mastered these citation rules! These questions cover the most important details that even college students sometimes forget. Don't worry if you need to check your reference sheet - that's what it's for!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you learned the fundamental rules of MLA in-text citations, which are essential for ethical research writing. Tomorrow we'll learn how to create a complete Works Cited page.",
+          "mastery_check": "Student can correctly format at least 2 out of 3 in-text citations and explain when citations are needed.",
+          "mascot_explanation": "Fantastic work learning these important academic skills! Proper citations show that you're a serious researcher who respects other people's ideas. Tomorrow we'll learn how to create the complete bibliography that goes with these in-text citations!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "math",
+    "week_number": 20,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "One-Step Equations with Addition and Subtraction",
+    "description": "Students learn to solve one-step equations involving addition and subtraction using inverse operations. They practice identifying the variable, the operation, and determining what operation will isolate the variable.",
+    "instructions": [
+      "1. Review the concept of variables as unknown numbers using concrete examples",
+      "2. Introduce the balance concept: what you do to one side, you must do to the other",
+      "3. Demonstrate solving x + 5 = 12 by subtracting 5 from both sides",
+      "4. Show solving x - 7 = 10 by adding 7 to both sides",
+      "5. Have your child practice 8-10 one-step equations with your guidance",
+      "6. Introduce checking solutions by substituting back into the original equation",
+      "7. Let them solve 5 equations independently, checking their work",
+      "8. Discuss real-world situations that can be represented by one-step equations"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "algebra tiles or small objects",
+      "balance scale or drawing of balance",
+      "worksheet with equations",
+      "pencil and eraser",
+      "calculator for checking"
+    ],
+    "sort_order": 17,
+    "parent_notes": "This lesson introduces abstract algebraic thinking through concrete manipulation and visual representation, following Montessori's concrete-to-abstract progression. The balance concept helps students understand the fundamental property of equality in mathematics. Encourage your child to verbalize their thinking process as they work through each equation - this helps solidify their understanding of inverse operations. Remember that this is their first formal introduction to algebra, so patience and encouragement are key to building confidence.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "One-Step Equations",
+          "subheading": "Solving for the Mystery Number",
+          "mascot_explanation": "Hey there, math detectives! I'm Finn Fox, and today we're going to solve mathematical mysteries called equations. We'll find the value of x, which is like discovering a hidden treasure in math!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "algebra tiles or small objects",
+            "balance scale or drawing of balance",
+            "worksheet with equations",
+            "pencil and eraser",
+            "calculator for checking"
+          ],
+          "setup_instructions": "Place the balance scale or drawing in front of you. Have your manipulatives and worksheet ready for hands-on equation solving.",
+          "mascot_explanation": "We're setting up like scientists in a lab! The balance scale will help us understand that equations are like balanced scales - whatever we do to one side, we must do to the other. These tools will make abstract algebra much clearer!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Understand that an equation shows two expressions that are equal, like a balanced scale. The variable (x) represents an unknown number we need to find.",
+          "mascot_explanation": "Think of an equation like a perfectly balanced seesaw at the playground! Both sides weigh exactly the same, and our job is to figure out what number x represents to keep everything balanced."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn inverse operations: addition and subtraction are opposites. To solve x + 5 = 12, subtract 5 from both sides. To solve x - 7 = 10, add 7 to both sides.",
+          "mascot_explanation": "Inverse operations are like opposite actions - if someone takes 5 steps forward, they need 5 steps backward to get back to start! We use these opposite operations to 'undo' what's been done to x and get it by itself."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve 8 one-step equations using the balance method, then check each answer by substituting back into the original equation.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now you're ready to be equation-solving champions! Take your time with each problem, and remember to check your answers - it's like double-checking that you solved the mystery correctly. Don't worry if you make mistakes; that's how we learn!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "If x + 8 = 15, what operation do you use to solve for x?",
+            "How do you check if your solution to an equation is correct?",
+            "In the equation x - 12 = 20, what is the first step to isolate x?"
+          ],
+          "mascot_explanation": "Let's make sure you've got the hang of these equation-solving strategies! These questions test the most important concepts we've learned today. Remember, there's a logical reason for each step we take!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've learned to solve one-step equations with addition and subtraction using inverse operations and the balance principle. Tomorrow we'll tackle equations with multiplication and division.",
+          "mastery_check": "Student can solve at least 3 out of 4 one-step addition/subtraction equations and successfully check their answers.",
+          "mascot_explanation": "Wonderful work becoming equation detectives today! You've learned one of the most important skills in algebra - finding unknown values. Tomorrow we'll learn even more ways to solve mathematical mysteries with multiplication and division!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "science",
+    "week_number": 20,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Volcanic Activity and Types of Volcanoes",
+    "description": "Students explore different types of volcanoes, learn about magma vs. lava, and understand how volcanic activity relates to plate tectonics. They create models to demonstrate different eruption styles.",
+    "instructions": [
+      "1. Review the connection between volcanoes and plate boundaries from previous lessons",
+      "2. Explain the difference between magma (underground) and lava (surface)",
+      "3. Introduce three main types: shield, composite (stratovolcano), and cinder cone volcanoes",
+      "4. Demonstrate each type using clay or playdough models, showing their shapes and formation",
+      "5. Create a simple 'eruption' using baking soda and vinegar to show how gas pressure works",
+      "6. Have your child build their own volcano model showing one of the three types",
+      "7. Discuss famous volcanoes around the world and their types (Kilauea, Mt. St. Helens, etc.)",
+      "8. Connect volcanic activity to the Ring of Fire and plate tectonics"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "clay or playdough",
+      "baking soda and vinegar",
+      "small plastic bottle",
+      "funnel",
+      "food coloring",
+      "volcano diagram or pictures"
+    ],
+    "sort_order": 18,
+    "parent_notes": "This hands-on lesson embodies the Montessori approach of learning through manipulation and experimentation. Building volcano models helps students understand abstract geological concepts through concrete experience. The eruption demonstration satisfies their natural curiosity while teaching scientific principles. Allow your child to lead the model-making process, asking questions to guide their thinking rather than directing every step. This builds both scientific understanding and confidence in independent learning.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Volcanic Activity and Types",
+          "subheading": "Mountains of Fire and Their Secrets",
+          "mascot_explanation": "Greetings, young geologists! I'm Finn Fox, and today we're exploring some of Earth's most powerful features - volcanoes! We'll learn about different types and even create our own erupting models. It's going to be an explosive lesson!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "clay or playdough",
+            "baking soda and vinegar",
+            "small plastic bottle",
+            "funnel",
+            "food coloring",
+            "volcano diagram or pictures"
+          ],
+          "setup_instructions": "Lay out newspapers or work on a surface that can get messy. Have your clay ready for modeling and set up the eruption materials in a safe area.",
+          "mascot_explanation": "We're setting up like real volcanologists in the field! Make sure you have plenty of space for our messy volcano experiments. The clay will help us build models, and our eruption materials will show us how real volcanoes work!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn the difference between magma (melted rock underground) and lava (melted rock that reaches the surface). Understand that pressure and gas cause eruptions.",
+          "mascot_explanation": "It's like the difference between soup in a pot and soup that's overflowed onto the stove! Magma is the hot, melted rock waiting underground, and lava is what we see when it finally breaks free to the surface."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Study three main volcano types: shield volcanoes (wide and gentle), composite volcanoes (tall and steep), and cinder cone volcanoes (small and cone-shaped).",
+          "mascot_explanation": "Each type of volcano has its own personality! Shield volcanoes are like gentle giants, composite volcanoes are the dramatic mountain peaks we often picture, and cinder cones are like little volcanic hills. Each forms differently based on the type of lava and eruption style!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Build clay models of all three volcano types, then create a baking soda and vinegar eruption to demonstrate volcanic activity.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Now for the fun part - becoming volcano architects! Take your time building each type, thinking about their different shapes and what makes them unique. Then we'll create our own 'eruption' to see how pressure builds up underground!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What's the difference between magma and lava?",
+            "Which type of volcano is the widest and most gently sloped?",
+            "How do volcanoes relate to plate tectonics and the Ring of Fire?"
+          ],
+          "mascot_explanation": "Let's check how well you understand these fiery mountains! These questions cover the key concepts that help explain why volcanoes exist and how they differ from each other. Remember, each volcano type tells a story about the forces deep inside Earth!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you learned about different volcano types and their relationship to plate tectonics. Next time we'll explore earthquakes and how they connect to volcanic activity.",
+          "mastery_check": "Student can identify the three main volcano types, explain magma vs. lava, and connect volcanic activity to plate boundaries.",
+          "mascot_explanation": "Excellent work exploring Earth's volcanic wonders today! You've learned how these incredible geological features form and why they're found in certain places around the world. Next lesson, we'll discover how earthquakes and volcanoes are connected in Earth's dynamic system!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/science/lab-report.pdf"
+    ],
+    "printable_template": "lab-report"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "read_aloud",
+    "week_number": 20,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Tuck Everlasting: The Natural Order and Life Cycles",
+    "description": "Students explore themes of mortality and the natural order in Tuck Everlasting, focusing on how the author uses the wheel metaphor to represent life's cycles. They discuss the consequences of immortality versus natural death.",
+    "instructions": [
+      "1. Read aloud the selected chapter where Angus Tuck explains the wheel of life to Winnie",
+      "2. Pause to discuss Tuck's metaphor of life as a wheel that keeps turning",
+      "3. Ask your child to identify examples from nature that show life cycles",
+      "4. Discuss the consequences of the Tuck family being 'stuck' off the wheel of life",
+      "5. Have your child compare Winnie's dilemma to real-life difficult choices they might face",
+      "6. Create a visual representation of the wheel metaphor using drawings or a graphic organizer",
+      "7. Predict what choice Winnie will make and justify their reasoning",
+      "8. Connect the theme to other stories or experiences involving difficult moral choices"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Tuck Everlasting book",
+      "paper and colored pencils",
+      "discussion questions sheet",
+      "graphic organizer template"
+    ],
+    "sort_order": 19,
+    "parent_notes": "This lesson addresses profound philosophical questions appropriate for upper elementary students developing abstract thinking skills. The Montessori approach values treating children as capable of grappling with meaningful concepts about life and death. Guide discussions with sensitivity, allowing your child to express their thoughts without judgment. The wheel metaphor provides a concrete way to understand abstract concepts about mortality and natural order. Encourage personal connections while maintaining focus on literary analysis.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Tuck Everlasting",
+          "subheading": "The Wheel of Life and Natural Order",
+          "mascot_explanation": "Hello, thoughtful readers! I'm Finn Fox, and today we're diving deep into one of the most important parts of Tuck Everlasting. We'll explore Angus Tuck's wisdom about life's natural cycles and what it means to be part of the great wheel of life."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Tuck Everlasting book",
+            "paper and colored pencils",
+            "discussion questions sheet",
+            "graphic organizer template"
+          ],
+          "setup_instructions": "Find a comfortable reading spot with good lighting. Have your drawing materials ready to create visual representations of the wheel metaphor.",
+          "mascot_explanation": "Let's create a cozy space for some deep thinking and meaningful discussion! We'll be doing both listening and creating today, so having everything ready will help us focus on these important ideas. Get comfortable - we're exploring some of life's biggest questions!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Listen carefully as we read Angus Tuck's explanation of the wheel of life and why being immortal feels like a curse to his family.",
+          "mascot_explanation": "Angus Tuck is sharing some very wise thoughts with Winnie - and with us! Pay attention to how he describes life as a wheel and why the Tucks feel stuck. His words help us understand the story's deepest meaning."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Discuss the wheel metaphor: how life moves in cycles of birth, growth, aging, and death, and why each stage is important to the natural order.",
+          "mascot_explanation": "The wheel metaphor is such a beautiful way to think about life! Just like the seasons change and trees grow and eventually fall, all living things are part of this great cycle. It helps us understand why every part of life - even the sad parts - has meaning."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a visual representation of the wheel of life, showing different stages and including examples from nature. Then write about what choice you think Winnie should make.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now it's time to make Tuck's beautiful metaphor come to life through your own artwork and thinking! Consider all the examples of life cycles you see around you, and really think about Winnie's difficult decision. There's no single right answer - it's about thoughtful reasoning!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Why does Angus Tuck compare life to a wheel?",
+            "What are the consequences of the Tuck family being immortal?",
+            "What factors should Winnie consider when deciding whether to drink from the spring?"
+          ],
+          "mascot_explanation": "These questions help us dig deeper into the story's most important themes! Think about both the literal events in the story and the bigger ideas about life and death that the author wants us to consider. Your thoughtful answers show you understand the story's deeper meaning!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today we explored one of literature's most profound themes - the value of mortality and natural life cycles. We'll continue reading to see what choice Winnie makes and how the story concludes.",
+          "mastery_check": "Student can explain the wheel metaphor, discuss the consequences of immortality, and articulate their opinion about Winnie's dilemma with supporting reasons.",
+          "mascot_explanation": "What wonderful, deep thinking you've done today! These are the kinds of big questions that great literature helps us explore. Remember, the beauty of this story is that it makes us think carefully about what makes life precious and meaningful."
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "geography",
+    "week_number": 20,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Migration Patterns: Push and Pull Factors",
+    "description": "Students analyze the reasons people migrate by examining push factors (reasons to leave) and pull factors (reasons to move somewhere new). They study historical and contemporary migration examples.",
+    "instructions": [
+      "1. Define migration as the movement of people from one place to another, either within countries or internationally",
+      "2. Introduce push factors (war, poverty, natural disasters, persecution) and pull factors (jobs, safety, climate, family)",
+      "3. Use the Irish Potato Famine as a historical example of push/pull factors causing migration",
+      "4. Examine a contemporary example like rural-to-urban migration or immigration to the United States",
+      "5. Have your child create a T-chart listing push and pull factors for different migration scenarios",
+      "6. Discuss your own family's migration history if applicable, or research a local migration pattern",
+      "7. Analyze how migration affects both origin and destination communities",
+      "8. Connect migration patterns to population density and cultural diversity concepts"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "world map or atlas",
+      "migration examples worksheet",
+      "T-chart template",
+      "colored pencils",
+      "family photos or local history resources"
+    ],
+    "sort_order": 20,
+    "parent_notes": "This lesson helps students understand human movement patterns through both historical and personal lenses, reflecting Montessori's emphasis on connecting learning to real life. The push/pull factor framework provides concrete categories for analyzing abstract concepts about human migration. Encourage your child to make connections to their own family history or community changes they've observed. Be sensitive to any family migration experiences that might be difficult to discuss, while celebrating the diversity that migration brings to communities.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Migration Patterns",
+          "subheading": "Understanding Why People Move",
+          "mascot_explanation": "Hello, world explorers! I'm Finn Fox, and today we're learning about one of humanity's most important stories - migration! People have been moving from place to place throughout history, and we'll discover the reasons why. Every family has a migration story!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "world map or atlas",
+            "migration examples worksheet",
+            "T-chart template",
+            "colored pencils",
+            "family photos or local history resources"
+          ],
+          "setup_instructions": "Spread out your world map where you can easily see it. Have your worksheets and colored pencils ready to track different migration patterns and examples.",
+          "mascot_explanation": "We're setting up like human geographers studying population movements around the world! The map will help us visualize where people move, and our charts will help us organize the reasons why. Having everything ready means we can focus on these fascinating human stories!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn about push factors (negative conditions that make people want to leave a place) and pull factors (positive attractions that draw people to a new place).",
+          "mascot_explanation": "Think of push and pull factors like a tug-of-war with a person in the middle! Push factors are problems that make someone want to leave their home, while pull factors are good things that attract them somewhere new. Usually, it takes both kinds of factors to make someone migrate."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Study the Irish Potato Famine (1845-1852) as an example: push factors included starvation and poverty, pull factors included jobs and land opportunities in America.",
+          "mascot_explanation": "The Irish Potato Famine is a powerful example of how push and pull factors work together! When disease destroyed the potato crops, millions of Irish people faced starvation - that's a huge push factor. Meanwhile, America offered hope for jobs, land, and a new life - strong pull factors that drew them across the ocean."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create T-charts analyzing push and pull factors for three different migration examples: historical (like the Irish Famine), contemporary international, and internal migration within a country.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now you're going to be migration detectives, analyzing why people move in different situations! Take your time thinking about each example - sometimes the same factor can be both a push and a pull depending on your perspective. Look for patterns in what motivates human movement!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What's the difference between a push factor and a pull factor?",
+            "Why do most migrations involve both push and pull factors working together?",
+            "How does migration affect both the places people leave and the places they move to?"
+          ],
+          "mascot_explanation": "Let's make sure you understand these important concepts about human movement! These questions cover the key ideas that help explain migration patterns throughout history and today. Remember, migration is a natural part of human experience that has shaped our world!"
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you learned how push and pull factors drive human migration throughout history and today. Next lesson, we'll explore how urbanization is creating new migration patterns around the world.",
+          "mastery_check": "Student can identify and categorize push and pull factors, explain how they work together to cause migration, and analyze specific migration examples.",
+          "mascot_explanation": "Excellent work understanding these important patterns of human movement! You've learned to think like a geographer about why people migrate - skills that help us understand both history and current events. Next time, we'll see how cities are becoming migration magnets around the world!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/geography/map-skills.pdf"
+    ],
+    "printable_template": "map-skills"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "language",
+    "week_number": 20,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "MLA Citations and Works Cited Page Practice",
+    "description": "Students will learn the fundamental components of MLA format, focusing on creating proper in-text citations and a Works Cited page. This lesson reinforces research skills by practicing citation formats for different source types.",
+    "instructions": [
+      "Gather sample sources including a book, website article, and magazine article for citation practice",
+      "Review the basic structure of MLA format with your child, emphasizing author-page format for in-text citations",
+      "Practice creating in-text citations using the provided examples, starting with direct quotes",
+      "Work together to format a Works Cited page, paying attention to alphabetical order and hanging indents",
+      "Have your child create citations for three different source types using the templates provided",
+      "Review common mistakes in MLA format and check your child's work together",
+      "Complete the citation matching activity to reinforce proper format recognition",
+      "Discuss how proper citations help readers find sources and avoid plagiarism"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Sample book",
+      "Printed website article",
+      "Magazine or newspaper article",
+      "MLA format guide handout",
+      "Practice worksheets",
+      "Computer or tablet for online examples"
+    ],
+    "sort_order": 21,
+    "parent_notes": "This lesson supports the Montessori principle of practical life skills by teaching real-world research and academic writing conventions. Allow your child to work independently after demonstrating each citation type, intervening only when necessary. The concrete examples will help your child internalize the abstract concept of academic integrity through hands-on practice with actual sources.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "MLA Citations and Works Cited Page Practice",
+          "subheading": "Learning to give proper credit to our sources",
+          "mascot_explanation": "Hi there! I'm Finn Fox, and today we're going to become citation detectives! Learning MLA format is like following a recipe - once you know the ingredients and steps, you can create perfect citations every time."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sample book",
+            "Printed website article",
+            "Magazine or newspaper article",
+            "MLA format guide handout",
+            "Practice worksheets",
+            "Computer or tablet for online examples"
+          ],
+          "setup_instructions": "Arrange materials on your workspace with the MLA guide easily accessible. Have examples of different source types ready for hands-on practice.",
+          "mascot_explanation": "Let's gather our research tools! These different types of sources will help us practice creating citations just like real researchers do. Each source type has its own special format to follow."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the basic MLA in-text citation format: (Author's Last Name Page#). Practice with sample sentences using direct quotes from your book source.",
+          "mascot_explanation": "Think of in-text citations like leaving breadcrumbs for your readers! They show exactly where you found your information so others can follow your research trail."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn the Works Cited format for books: Author's Last Name, First Name. Title of Book. Publisher, Year of Publication. Practice creating one entry using your sample book.",
+          "mascot_explanation": "Works Cited entries are like detailed addresses for your sources! Each piece of information helps readers find exactly the same source you used in your research."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a complete Works Cited page with at least three different source types (book, website, magazine). Include proper formatting with alphabetical order and hanging indents.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now it's time to put your citation skills to work! Remember, attention to detail is key - every comma and period has a purpose in MLA format."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What information comes first in a Works Cited entry?",
+            "How do you format an in-text citation for a direct quote?",
+            "Why is it important to use proper citations in research papers?"
+          ],
+          "mascot_explanation": "Let's check how well you've mastered these citation skills! These questions will help make sure you're ready to use MLA format in your own research papers."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Proper MLA citations show respect for other people's work and help readers verify your research. Practice these skills with every research project to build strong academic habits.",
+          "mastery_check": "Student can correctly format basic in-text citations and create a Works Cited entry for at least two different source types.",
+          "mascot_explanation": "Great job learning these important research skills! Using proper citations shows that you're a responsible researcher who respects other people's ideas and hard work."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "math",
+    "week_number": 20,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Solving One-Step Equations with Variables",
+    "description": "Students will explore solving simple algebraic equations by isolating variables using inverse operations. This lesson builds on their understanding of variables and expressions to introduce equation-solving strategies.",
+    "instructions": [
+      "Begin with a balance scale demonstration using household items to show the concept of keeping equations balanced",
+      "Introduce the concept that solving equations means finding what number makes the equation true",
+      "Practice identifying the operation being performed on the variable in simple equations",
+      "Demonstrate using inverse operations to isolate the variable on one side of the equation",
+      "Work through several examples together, showing each step of the solution process",
+      "Have your child solve equations independently, checking their work by substituting answers back into original equations",
+      "Create word problems that can be solved using one-step equations",
+      "Review the importance of checking solutions and discuss common mistakes"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Balance scale or makeshift balance",
+      "Small household items for weighing",
+      "Algebra tiles or colored blocks",
+      "Practice worksheet",
+      "Calculator for checking",
+      "Whiteboard or large paper"
+    ],
+    "sort_order": 22,
+    "parent_notes": "This lesson introduces abstract algebraic thinking through concrete manipulatives, following Montessori's progression from concrete to abstract learning. Allow your child to physically manipulate the balance and tiles before moving to paper-and-pencil work. Encourage them to explain their thinking process aloud, as verbalization helps solidify understanding. The checking step is crucial for building confidence and understanding of the equation-solving process.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Solving One-Step Equations with Variables",
+          "subheading": "Finding the mystery number that makes equations true",
+          "mascot_explanation": "Hello, equation explorers! I'm Finn Fox, and today we're going on a treasure hunt to find mystery numbers! Solving equations is like being a math detective - we use clues and inverse operations to uncover the value of our variable."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Balance scale or makeshift balance",
+            "Small household items for weighing",
+            "Algebra tiles or colored blocks",
+            "Practice worksheet",
+            "Calculator for checking",
+            "Whiteboard or large paper"
+          ],
+          "setup_instructions": "Set up your balance scale in a clear workspace. Have algebra tiles or blocks sorted by color. Keep the calculator nearby for checking solutions.",
+          "mascot_explanation": "Our materials today are like a math detective's toolkit! The balance will help us understand why equations need to stay equal, and our tiles will make abstract algebra feel more concrete and fun."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Use the balance scale to demonstrate equation balance. Show that whatever you do to one side, you must do to the other side to keep it balanced.",
+          "mascot_explanation": "Just like a seesaw needs equal weight on both sides to balance, equations need to stay equal on both sides! This balance principle is the secret to solving any equation correctly."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Practice with simple equations like x + 5 = 12. Identify what operation is being done to the variable, then use the inverse operation to isolate x.",
+          "mascot_explanation": "Think of the variable as being trapped by an operation! To free it, we use the opposite operation - if it's trapped by addition, we use subtraction to set it free."
+        },
+        {
+          "type": "activity",
+          "prompt": "Solve at least 8 one-step equations involving addition, subtraction, multiplication, and division. Check each solution by substituting it back into the original equation.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Time to put your equation-solving skills to the test! Remember to always check your answers - if your solution makes the original equation true, you've solved the mystery correctly!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What is the inverse operation of multiplication?",
+            "How do you check if your solution to an equation is correct?",
+            "Why must you perform the same operation on both sides of an equation?"
+          ],
+          "mascot_explanation": "Let's make sure you've mastered these equation-solving strategies! These questions cover the key concepts that will help you tackle any one-step equation with confidence."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Solving equations is about maintaining balance while isolating the variable. Always check your solutions by substituting them back into the original equation to verify they make it true.",
+          "mastery_check": "Student can solve one-step equations involving all four operations and verify solutions by substitution.",
+          "mascot_explanation": "Fantastic work becoming equation detectives! You now have the tools to solve mathematical mysteries by finding those hidden variable values. Keep practicing, and soon these will feel like fun puzzles to solve!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "art_music",
+    "week_number": 20,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Renaissance Perspective Drawing Techniques",
+    "description": "Students will explore linear perspective drawing methods used by Renaissance artists to create depth and dimension. They will practice one-point perspective while studying famous Renaissance artworks that demonstrate these techniques.",
+    "instructions": [
+      "Begin by examining Renaissance paintings that demonstrate perspective, such as works by Leonardo da Vinci or Brunelleschi",
+      "Discuss how Renaissance artists discovered mathematical methods to create realistic depth on flat surfaces",
+      "Introduce the concept of vanishing points and horizon lines using simple diagrams",
+      "Practice drawing basic shapes in one-point perspective, starting with simple boxes and rectangles",
+      "Guide your child through drawing a simple street scene or hallway using one-point perspective",
+      "Add details like windows, doors, and architectural elements to enhance the three-dimensional effect",
+      "Compare your child's perspective drawing to Renaissance examples, noting similarities in technique",
+      "Reflect on how perspective changed art forever and made paintings look more realistic"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Drawing paper",
+      "Ruler",
+      "Pencils (various hardnesses)",
+      "Eraser",
+      "Renaissance art examples (printed or digital)",
+      "Colored pencils or markers"
+    ],
+    "sort_order": 23,
+    "parent_notes": "This lesson connects mathematical concepts with artistic expression, embodying the Montessori approach of integrated learning. Allow your child to experiment with perspective techniques at their own pace, providing guidance when needed but encouraging independent discovery. The Renaissance masters took years to perfect these techniques, so celebrate your child's efforts and progress. This work develops spatial reasoning skills that benefit both mathematical and artistic thinking.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Renaissance Perspective Drawing Techniques",
+          "subheading": "Creating depth and dimension like the master artists",
+          "mascot_explanation": "Greetings, young artists! I'm Finn Fox, and today we're traveling back to the Renaissance to learn the amazing techniques that made paintings look incredibly realistic! We'll discover how artists used math and observation to create the illusion of three dimensions on flat paper."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Drawing paper",
+            "Ruler",
+            "Pencils (various hardnesses)",
+            "Eraser",
+            "Renaissance art examples (printed or digital)",
+            "Colored pencils or markers"
+          ],
+          "setup_instructions": "Arrange your drawing materials on a flat surface with good lighting. Have Renaissance art examples readily visible for reference throughout the lesson.",
+          "mascot_explanation": "Let's set up our Renaissance artist studio! These tools will help us create drawings with amazing depth, just like Leonardo da Vinci and other master artists did hundreds of years ago."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Study Renaissance paintings and identify how artists made flat surfaces appear to have depth. Look for lines that seem to disappear into the distance at a single point.",
+          "mascot_explanation": "Look closely at these masterpieces! Notice how the artists tricked your eyes into seeing depth and distance. The secret is in how they drew lines that all meet at one special point."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn the basics of one-point perspective: draw a horizon line across your paper and mark a vanishing point in the center. All parallel lines will appear to meet at this point.",
+          "mascot_explanation": "This vanishing point is like a magnet for all the lines in your drawing! It's the mathematical secret that Renaissance artists discovered to make their artwork look incredibly realistic."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a one-point perspective drawing of a simple scene, such as a hallway, street, or tunnel. Add architectural details and use shading to enhance the three-dimensional effect.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Now you get to be a Renaissance master! Take your time and let the vanishing point guide your lines. Watch as your flat paper transforms into a scene with incredible depth and dimension!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What is a vanishing point and where should it be located?",
+            "How do parallel lines appear different in perspective drawing?",
+            "Why was the discovery of perspective so important for Renaissance art?"
+          ],
+          "mascot_explanation": "Let's check how well you understand these Renaissance secrets! These concepts will help you create amazing artwork that looks three-dimensional and realistic."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Renaissance artists revolutionized art by applying mathematical principles to create realistic depth and dimension. Perspective drawing techniques are still used by artists and architects today.",
+          "mastery_check": "Student can create a basic one-point perspective drawing with correctly converging lines and can identify perspective techniques in Renaissance artwork.",
+          "mascot_explanation": "Amazing work, Renaissance artist! You've learned the same techniques that master artists used to create some of the world's most famous paintings. Keep practicing these skills, and your artwork will have incredible depth and realism!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "read_aloud",
+    "week_number": 20,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Tuck Everlasting: Exploring Immortality and Natural Order",
+    "description": "Students will engage with themes of mortality, choice, and the natural order while reading from Tuck Everlasting. This lesson focuses on character analysis and philosophical discussions about life cycles and making difficult decisions.",
+    "instructions": [
+      "Read selected chapters from Tuck Everlasting, focusing on Winnie's interactions with the Tuck family",
+      "Discuss the concept of immortality presented in the book and how it affects each character differently",
+      "Explore Winnie's dilemma about whether to drink from the spring and live forever",
+      "Analyze how the author uses the natural setting to reinforce themes about life cycles",
+      "Encourage your child to consider what they would do in Winnie's situation and why",
+      "Examine the relationship between the Tuck family members and how immortality has changed their perspectives",
+      "Connect the story's themes to real-world concepts of aging, growth, and change",
+      "Reflect on the author's message about the importance of life's natural progression"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Copy of Tuck Everlasting by Natalie Babbitt",
+      "Reading journal or notebook",
+      "Pencils or pens",
+      "Sticky notes for marking important passages",
+      "Character analysis worksheet"
+    ],
+    "sort_order": 24,
+    "parent_notes": "This philosophical story provides rich opportunities for deep thinking and moral reasoning, core elements of Montessori education. Allow your child to grapple with the complex themes at their own pace, asking open-ended questions rather than providing immediate answers. The book's exploration of mortality may prompt important conversations about life and death - approach these discussions with sensitivity and openness. Encourage your child to connect the story's themes to their own observations about nature and growing up.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Tuck Everlasting: Exploring Immortality and Natural Order",
+          "subheading": "Discovering deep themes about life, choice, and nature's cycles",
+          "mascot_explanation": "Hello, thoughtful readers! I'm Finn Fox, and today we're diving deep into one of the most thought-provoking stories ever written. Tuck Everlasting will make us think about some big questions about life, growing up, and the choices we make."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Copy of Tuck Everlasting by Natalie Babbitt",
+            "Reading journal or notebook",
+            "Pencils or pens",
+            "Sticky notes for marking important passages",
+            "Character analysis worksheet"
+          ],
+          "setup_instructions": "Create a comfortable reading space with good lighting. Have your journal and sticky notes ready to capture important thoughts and mark significant passages as you read.",
+          "mascot_explanation": "Let's prepare for a reading adventure that will make us think deeply! These materials will help us track our thoughts and mark the most important moments in this incredible story."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read the assigned chapters carefully, paying special attention to how each Tuck family member feels about their immortality. Notice their different perspectives and attitudes.",
+          "mascot_explanation": "Each character in the Tuck family has lived with immortality for a long time, but they all feel differently about it! Pay attention to these differences - they tell us a lot about what immortality really means."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Analyze Winnie's character development and the difficult choice she faces. Consider what factors influence her decision-making process throughout the story.",
+          "mascot_explanation": "Winnie has to make one of the biggest decisions anyone could ever face! Think about how she changes throughout the story and what helps her figure out what's right for her."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a character analysis comparing how immortality affects different members of the Tuck family. Then write a reflection on what you would do in Winnie's situation and explain your reasoning.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now it's time to really think deeply about these characters and their impossible situation! There are no easy answers here, so take your time and think carefully about what you believe is right."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does immortality affect each member of the Tuck family differently?",
+            "What does the natural setting teach us about life cycles?",
+            "Why might living forever not be as wonderful as it seems?"
+          ],
+          "mascot_explanation": "These questions will help us explore the deeper meanings in this amazing story! Think carefully about each one - the answers aren't simple, and that's what makes this book so special."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Tuck Everlasting challenges us to think about the value of mortality and the importance of life's natural progression. The story suggests that growing, changing, and even dying are essential parts of what makes life meaningful.",
+          "mastery_check": "Student can articulate the main themes of immortality and natural order, and can analyze how different characters respond to their immortal condition.",
+          "mascot_explanation": "What an incredible journey through this thought-provoking story! You've wrestled with some of the biggest questions humans can ask, and that kind of deep thinking is what makes reading so powerful and important."
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year2",
+    "subject_name": "culture",
+    "week_number": 20,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Migration Patterns and Cultural Exchange",
+    "description": "Students will explore historical and contemporary migration patterns around the world, examining how human movement shapes cultural diversity and exchange. This lesson connects geography, history, and cultural studies to understand modern demographics.",
+    "instructions": [
+      "Begin by mapping major historical migration routes using a world map, including early human migration, European colonization, and modern refugee movements",
+      "Discuss push and pull factors that cause people to migrate, using specific historical and contemporary examples",
+      "Explore how migration creates cultural diversity in communities, examining food, language, traditions, and art",
+      "Research a specific migration pattern (such as the Great Migration in the US or contemporary Syrian refugee movement)",
+      "Analyze how migration has shaped your own community's demographics and cultural landscape",
+      "Create a visual presentation showing the journey and cultural contributions of a specific migrant group",
+      "Discuss the challenges and benefits of migration for both migrants and receiving communities",
+      "Connect migration patterns to current events and ongoing global movements of people"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "World map or atlas",
+      "Colored pencils or markers",
+      "Research materials (books, internet access)",
+      "Large poster paper",
+      "Sticky notes",
+      "Timeline template"
+    ],
+    "sort_order": 25,
+    "parent_notes": "This lesson addresses complex social issues with sensitivity while developing global awareness and empathy, key components of Montessori peace education. Encourage your child to see migration as a natural part of human history rather than a modern problem. Help them understand that cultural diversity enriches communities while acknowledging that change can be challenging. Guide discussions to focus on human dignity and shared experiences rather than political debates. This topic builds cultural competence and prepares students to be thoughtful global citizens.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Migration Patterns and Cultural Exchange",
+          "subheading": "Understanding how human movement shapes our world",
+          "mascot_explanation": "Hello, global explorers! I'm Finn Fox, and today we're going to discover how people have always been on the move throughout history! We'll learn how migration creates the beautiful cultural diversity we see in communities around the world today."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World map or atlas",
+            "Colored pencils or markers",
+            "Research materials (books, internet access)",
+            "Large poster paper",
+            "Sticky notes",
+            "Timeline template"
+          ],
+          "setup_instructions": "Spread out your world map in a central location where you can easily mark migration routes. Have research materials organized and poster paper ready for your final presentation.",
+          "mascot_explanation": "These materials will help us trace the amazing journeys people have taken throughout history! We'll use our map like detectives following clues to understand how human movement has shaped our world."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Study major historical migration patterns on your world map. Trace routes and identify push factors (reasons to leave) and pull factors (reasons to go somewhere new) for each movement.",
+          "mascot_explanation": "People have always moved around our planet for many different reasons! Sometimes they had to leave their homes because of problems, and sometimes they were attracted to new opportunities somewhere else."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Research how migration has contributed to cultural diversity in communities. Look for examples of how food, music, art, and traditions have spread through human movement.",
+          "mascot_explanation": "Migration is like a giant cultural recipe exchange! When people move, they bring their traditions, foods, and customs with them, making their new communities richer and more diverse."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose one specific migration pattern to research in depth. Create a visual presentation showing the journey, reasons for migration, challenges faced, and cultural contributions made by this group.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now you get to become an expert on one amazing migration story! Show the human side of migration - the hopes, dreams, challenges, and incredible contributions people make when they move to new places."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What are push and pull factors in migration?",
+            "How does migration contribute to cultural diversity?",
+            "What challenges and opportunities does migration create for communities?"
+          ],
+          "mascot_explanation": "Let's check how well you understand these important patterns of human movement! Understanding migration helps us appreciate the diversity in our own communities and around the world."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Migration has been a constant throughout human history, creating the cultural diversity we see today. Understanding migration patterns helps us appreciate how interconnected our world is and how human movement enriches communities.",
+          "mastery_check": "Student can identify major migration patterns, explain push and pull factors, and describe how migration contributes to cultural diversity and exchange.",
+          "mascot_explanation": "Fantastic work exploring these important human stories! Understanding migration helps us see how connected we all are and appreciate the amazing diversity that makes our world so interesting and vibrant."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/culture/cultural-activity-sheets.pdf"
+    ],
+    "printable_template": "cultural-activity-sheets"
+  }
+]

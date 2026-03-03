@@ -1,0 +1,2226 @@
+[
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 23,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Editorial Writing: Crafting a Compelling School Policy Argument",
+    "description": "Students learn the structure and persuasive techniques of editorial writing by examining published editorials and drafting their own opinion piece about a school policy. This lesson focuses on developing a clear thesis, supporting arguments, and addressing counterarguments within the editorial format.",
+    "instructions": [
+      "1. Begin by reading 2-3 short newspaper editorials together, identifying the thesis statement, main arguments, and persuasive language used.",
+      "2. Discuss the structure of editorials: hook, thesis, 2-3 supporting arguments, acknowledgment of opposing views, and call to action.",
+      "3. Have your child brainstorm 3-4 school policies they have opinions about (dress code, homework policy, lunch rules, technology use).",
+      "4. Guide them to choose one topic and write a clear thesis statement expressing their position.",
+      "5. Help them outline 2-3 main supporting arguments with specific examples or evidence from their school experience.",
+      "6. Have them draft their editorial, focusing on persuasive language and addressing at least one counterargument.",
+      "7. Review their draft together, checking for clear thesis, logical flow, and compelling conclusion with call to action.",
+      "8. Have them revise one paragraph based on your feedback, focusing on strengthening their argument or improving clarity."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "3 printed newspaper editorials",
+      "notebook or paper",
+      "pencil",
+      "highlighter",
+      "dictionary"
+    ],
+    "sort_order": 1,
+    "parent_notes": "This lesson allows your child to express their authentic voice while learning formal persuasive writing structures. In Montessori philosophy, we honor the child's natural desire to improve their environment and have their voice heard. Encourage them to choose a topic they genuinely care about, as intrinsic motivation leads to more powerful writing. Guide rather than direct their argument development, asking questions that help them think more deeply about their position.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Editorial Writing: Crafting a Compelling School Policy Argument",
+          "subheading": "Learning to persuade through structured opinion writing",
+          "mascot_explanation": "Hi there! I'm Finn Fox, and today we're diving into editorial writing - where you get to share your opinions and try to convince others to see things your way! Editorials are like being a detective and a lawyer rolled into one - you gather evidence and make your case."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "3 printed newspaper editorials",
+            "notebook or paper",
+            "pencil",
+            "highlighter",
+            "dictionary"
+          ],
+          "setup_instructions": "Find a comfortable reading space with good lighting. Have the newspaper editorials ready to read and analyze, with highlighting materials to mark important parts.",
+          "mascot_explanation": "Let's gather our detective tools! We'll be reading real editorials to see how professional writers make their arguments, then you'll create your own. Think of the highlighter as your evidence-gathering tool!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read 2-3 short newspaper editorials together, identifying the thesis statement, main arguments, and persuasive language used.",
+          "mascot_explanation": "Time to be editorial detectives! As we read these pieces, look for the writer's main opinion (that's the thesis) and notice how they use strong, convincing words to make their point stick in your mind."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Discuss the structure of editorials: hook, thesis, 2-3 supporting arguments, acknowledgment of opposing views, and call to action.",
+          "mascot_explanation": "Every good editorial follows a recipe, just like baking a cake! It starts with a hook to grab attention, states the main opinion clearly, gives solid reasons, admits the other side has some points too, then tells readers what to do about it."
+        },
+        {
+          "type": "activity",
+          "prompt": "Brainstorm school policies you have strong opinions about, choose one topic, write a thesis statement, and outline your supporting arguments with specific examples from your school experience.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now it's your turn to be the voice of change! Think about school rules that make you think 'this should be different' - those passionate feelings will fuel your best writing. Remember, the strongest arguments come from real experiences you've lived through."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify the thesis statement in your draft?",
+            "Do you have at least 2 strong supporting arguments with examples?",
+            "Have you addressed what people who disagree might say?"
+          ],
+          "mascot_explanation": "Let's make sure your editorial has all the powerful pieces it needs! A strong editorial is like a three-legged stool - it needs all its parts to stand up and support your argument effectively."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Review your editorial draft, checking for clear thesis, logical argument flow, and compelling call to action. Revise one paragraph to strengthen your persuasive impact.",
+          "mastery_check": "Student can write a clear thesis statement and support it with at least two logical arguments that include specific examples.",
+          "mascot_explanation": "Fantastic work becoming an editorial writer today! Remember, the best editorials don't just complain about problems - they inspire people to create solutions. Your voice matters, and now you know how to make it heard clearly and persuasively!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 23,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Box Plots: Visualizing Survey Data Distribution and Quartiles",
+    "description": "Students learn to create and interpret box plots using real survey data, focusing on identifying quartiles, median, and outliers. This lesson connects statistical representation to meaningful data analysis through hands-on construction and interpretation.",
+    "instructions": [
+      "1. Begin by collecting data through a simple class survey (favorite subject, hours of sleep, number of pets, etc.) and recording 15-20 data points.",
+      "2. Arrange the data in order from least to greatest, then identify the median (middle value).",
+      "3. Find the first quartile (Q1) by finding the median of the lower half of data, and third quartile (Q3) by finding the median of the upper half.",
+      "4. Identify any outliers using the rule: outliers are more than 1.5 × IQR beyond Q1 or Q3.",
+      "5. Draw a number line that encompasses all data points including outliers.",
+      "6. Construct the box plot by drawing the box from Q1 to Q3, marking the median line, and extending whiskers to the furthest non-outlier points.",
+      "7. Have your child interpret what the box plot reveals about the data distribution and variability.",
+      "8. Compare their box plot to a different data set to practice reading and comparing distributions."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "ruler",
+      "graph paper",
+      "pencil",
+      "calculator",
+      "colored pencils"
+    ],
+    "sort_order": 2,
+    "parent_notes": "Box plots provide a powerful visual summary of data that helps children understand distribution and variability concepts. This aligns with Montessori's emphasis on moving from concrete to abstract - we start with real, collected data before creating the visual representation. Encourage your child to make connections between what the box plot shows and what they know about the actual data. Let them discover patterns rather than telling them what to see.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Box Plots: Visualizing Survey Data Distribution and Quartiles",
+          "subheading": "Creating visual summaries of data spread and central tendencies",
+          "mascot_explanation": "Hey there! I'm Finn Fox, and today we're turning numbers into pictures that tell amazing stories! Box plots are like treasure maps that show us where most of our data likes to hang out and where the unusual pieces hide."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "ruler",
+            "graph paper",
+            "pencil",
+            "calculator",
+            "colored pencils"
+          ],
+          "setup_instructions": "We're about to become data artists! Graph paper will be our canvas, and we'll use colors to make our box plot clear and beautiful. Think of this as building a house for our data - everything needs to be measured and placed just right."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Collect survey data with 15-20 responses, then arrange all values in order from least to greatest and identify the median.",
+          "mascot_explanation": "First, let's gather our data family and line them up from smallest to biggest - just like organizing foxes by height! The median is our middle fox, the one who splits the group perfectly in half."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Find the first quartile (Q1) from the lower half of data and third quartile (Q3) from the upper half, then identify any outliers using the 1.5 × IQR rule.",
+          "mascot_explanation": "Now we're finding the special foxes! Q1 and Q3 are like the quarter-marks in our line-up, and outliers are the foxes who wandered way too far from the group - they're interesting but need special attention in our plot."
+        },
+        {
+          "type": "activity",
+          "prompt": "Draw a number line encompassing all data points, then construct your box plot by drawing the box from Q1 to Q3, marking the median line, and extending whiskers to the furthest non-outlier points.",
+          "duration_minutes": "Time to build your data house! The box is like the main room where most of your data lives comfortably, the median line is the center beam, and the whiskers are like arms reaching out to welcome the data that lives a bit further away."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify all five key values (min, Q1, median, Q3, max) on your box plot?",
+            "What does the size of your box tell you about your data?",
+            "Are there any outliers, and what might they represent in your survey?"
+          ],
+          "mascot_explanation": "Let's make sure your box plot is telling its data story clearly! Each part has something important to say about how your survey responses are spread out and where most people's answers cluster together."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Interpret what your box plot reveals about data distribution and variability, then compare it with a different data set to practice reading distributions.",
+          "mastery_check": "Student can correctly construct a box plot with all five key values and explain what the plot reveals about data distribution.",
+          "mascot_explanation": "Amazing work creating your data visualization! Box plots are like windows into the personality of your data - they show you not just what happened, but how spread out and consistent your results were. You're now a data storyteller!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "history",
+    "week_number": 23,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Korean War: Proxy Conflict and the 38th Parallel Division",
+    "description": "Students explore the Korean War as the first major military confrontation of the Cold War, examining how ideological divisions led to a divided nation. This lesson focuses on understanding proxy wars and the lasting impact of the Korean conflict on international relations.",
+    "instructions": [
+      "1. Begin by reviewing the post-WWII division of Korea at the 38th parallel and the establishment of communist North Korea and capitalist South Korea.",
+      "2. Explain the concept of a 'proxy war' where superpowers fight through allied nations rather than directly confronting each other.",
+      "3. Use a map to trace the major phases of the Korean War: North Korean invasion, UN/US intervention, Chinese involvement, and the stalemate.",
+      "4. Discuss key figures including Kim Il-sung, Syngman Rhee, General MacArthur, and President Truman, focusing on their conflicting strategies.",
+      "5. Examine primary sources such as newspaper headlines, soldiers' letters, or UN Security Council resolutions from 1950-1953.",
+      "6. Analyze the armistice agreement and why Korea remains technically at war today with the DMZ (Demilitarized Zone).",
+      "7. Connect the Korean War to the broader Cold War pattern of containment policy and superpower rivalry.",
+      "8. Have your child create a cause-and-effect chain showing how WWII decisions led to the Korean conflict and its ongoing legacy."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "world map or atlas",
+      "timeline template",
+      "primary source documents",
+      "colored pencils",
+      "notebook"
+    ],
+    "sort_order": 3,
+    "parent_notes": "The Korean War introduces the complex concept of proxy conflicts that defined much of the Cold War era. Help your child understand how ideological differences between communism and capitalism played out through real military conflicts affecting millions of people. In Montessori tradition, we examine how human choices and decisions create lasting consequences across generations. Encourage empathy for the families divided by the 38th parallel while maintaining analytical thinking about the political forces involved.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Korean War: Proxy Conflict and the 38th Parallel Division",
+          "subheading": "Understanding the first hot war of the Cold War era",
+          "mascot_explanation": "Hello! I'm Finn Fox, and today we're exploring a war that was really part of a much bigger disagreement between superpowers. The Korean War shows us how global tensions can tear apart individual countries and families - it's a powerful lesson about how big politics affect real people."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "world map or atlas",
+            "timeline template",
+            "primary source documents",
+            "colored pencils",
+            "notebook"
+          ],
+          "setup_instructions": "Set up your workspace with the map prominently displayed to reference Korea's location and the 38th parallel. Have primary sources ready to examine after learning the basic conflict structure.",
+          "mascot_explanation": "We're going to be historical detectives today, using maps to understand geography and real documents from the 1950s to see how people experienced this conflict. Maps help us understand why location mattered so much in this war!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the post-WWII division of Korea at the 38th parallel and explain the concept of proxy wars where superpowers fight through allied nations.",
+          "mascot_explanation": "Imagine if two kids were angry with each other but instead of fighting directly, they got their friends to fight for them - that's kind of what proxy wars are like! The US and Soviet Union were too scared to fight each other directly because of nuclear weapons, so they supported opposite sides in Korea."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Use the map to trace the major war phases and discuss key figures including Kim Il-sung, Syngman Rhee, General MacArthur, and President Truman, focusing on their conflicting strategies.",
+          "mascot_explanation": "Each leader had very different ideas about how to win this war! Some wanted to fight harder and bigger, while others worried about starting World War III. These disagreements between leaders show us how complex wartime decisions really are."
+        },
+        {
+          "type": "activity",
+          "prompt": "Examine primary sources from 1950-1953 (newspaper headlines, letters, UN resolutions) and analyze why the armistice created a lasting division that continues today with the DMZ.",
+          "duration_minutes": 25,
+          "mascot_explanation": "These real documents from the 1950s are like time machines - they show us exactly what people were thinking and feeling during this scary time. Notice how different newspapers might tell the same story in very different ways!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What made the Korean War a 'proxy war' between the US and Soviet Union?",
+            "Why did the war end in an armistice rather than a peace treaty?",
+            "How does the Korean War connect to the broader Cold War containment policy?"
+          ],
+          "mascot_explanation": "Let's make sure we understand how this conflict fits into the bigger Cold War picture! The Korean War was like the opening act of a long drama that would play out in many other countries over the next decades."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Create a cause-and-effect chain showing how WWII decisions led to the Korean conflict and examine how this war established patterns for Cold War proxy conflicts worldwide.",
+          "mastery_check": "Student can explain the Korean War as a proxy conflict and identify its connection to Cold War containment policy.",
+          "mascot_explanation": "You've done excellent work understanding this complex conflict! The Korean War teaches us that when big powers disagree, smaller countries often pay the price. Remember, Korea is still divided today - this history isn't just about the past, it's still shaping our world now."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/history/timeline.pdf"
+    ],
+    "printable_template": "timeline"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "geography",
+    "week_number": 23,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Solar Energy Distribution: Mapping Global Renewable Potential and Implementation",
+    "description": "Students analyze global solar energy potential through climate maps and examine how geography influences renewable energy adoption. This lesson connects physical geography concepts to sustainable development challenges and solutions worldwide.",
+    "instructions": [
+      "1. Begin by examining a world map showing average annual solar radiation levels (solar insolation) and identifying regions with highest and lowest potential.",
+      "2. Compare the solar potential map with current solar energy installation maps to identify gaps between potential and actual usage.",
+      "3. Discuss geographic factors that affect solar energy viability: latitude, climate patterns, seasonal variation, and weather systems.",
+      "4. Research 3-4 countries with high solar potential and analyze their current solar energy policies and installation rates.",
+      "5. Examine case studies of successful solar projects in different climates: desert installations, rooftop programs in cities, and floating solar farms.",
+      "6. Identify barriers to solar adoption including economic, political, and geographic challenges in different world regions.",
+      "7. Have your child calculate solar potential for your local area using online solar calculators and compare it to regional averages.",
+      "8. Create a proposal for improving solar energy access in one developing nation, considering geographic and economic factors."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "world atlas",
+      "solar radiation maps",
+      "calculator",
+      "computer/tablet with internet",
+      "colored pencils",
+      "notebook"
+    ],
+    "sort_order": 4,
+    "parent_notes": "This lesson connects physical geography with environmental sustainability and global development issues. In Montessori education, we emphasize the interconnectedness of natural systems and human needs. Help your child see how geographic location creates both opportunities and challenges for sustainable energy development. Encourage them to think critically about why some countries with excellent solar potential haven't fully developed this resource yet - this leads to important discussions about economics, politics, and global inequality.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Solar Energy Distribution: Mapping Global Renewable Potential and Implementation",
+          "subheading": "Connecting geography to sustainable energy solutions worldwide",
+          "mascot_explanation": "Hi there! I'm Finn Fox, and today we're becoming solar detectives! We'll discover why some places on Earth are perfect for solar power while others face big challenges, and explore how geography shapes our clean energy future."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "world atlas",
+            "solar radiation maps",
+            "calculator",
+            "computer/tablet with internet",
+            "colored pencils",
+            "notebook"
+          ],
+          "setup_instructions": "Set up with good access to both physical maps and online resources. Have the solar radiation map ready to compare with political and climate maps throughout the lesson.",
+          "mascot_explanation": "We're going to be energy explorers today! These maps will show us where the sun shines strongest and longest, while our online tools will help us see what countries are actually doing with all that solar potential. It's like comparing a treasure map with where people are actually digging!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Examine world solar radiation maps to identify regions with highest and lowest potential, then compare with current solar installation maps to find gaps between potential and actual usage.",
+          "mascot_explanation": "Look at these colorful maps - the bright yellow and red areas get the most sunshine for solar power! But here's the mystery: some of the sunniest places aren't using much solar energy yet. Can you spot these puzzling gaps?"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Discuss geographic factors affecting solar viability (latitude, climate, seasons, weather) and research 3-4 countries with high solar potential to analyze their current policies and installation rates.",
+          "mascot_explanation": "Geography is like a recipe for solar success! Countries near the equator get more direct sunlight, while desert areas have fewer cloudy days. But having great sun doesn't automatically mean great solar programs - let's investigate why!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Examine case studies of successful solar projects in different climates (desert installations, city rooftops, floating solar farms) and identify barriers to adoption in various world regions.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Time to explore some amazing solar success stories! From huge solar farms in deserts to floating panels on lakes, humans are getting creative about capturing sunshine. But we'll also discover what obstacles different countries face in going solar."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Which geographic factors make a location ideal for solar energy?",
+            "Why might a country with high solar potential have low solar usage?",
+            "How do economic and political factors interact with geographic advantages?"
+          ],
+          "mascot_explanation": "Let's make sure we understand the full solar energy puzzle! It's not just about sunshine - money, government policies, and geography all work together to determine whether a place can successfully use solar power."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Calculate solar potential for your local area using online tools and create a proposal for improving solar energy access in one developing nation, considering both geographic and economic factors.",
+          "mastery_check": "Student can identify geographic factors affecting solar energy potential and explain why potential doesn't always match implementation.",
+          "mascot_explanation": "Fantastic work becoming a solar energy expert! You've learned that our planet has incredible potential for clean energy, but turning that potential into reality requires understanding both nature's gifts and human challenges. You're now equipped to think about solutions for a more sustainable world!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/geography/map-skills.pdf"
+    ],
+    "printable_template": "map-skills"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 23,
+    "day_of_week": 1,
+    "quarter": 3,
+    "title": "Brown Girl Dreaming: Exploring Memoir Through Verse - Family Stories and Identity",
+    "description": "Students begin exploring Jacqueline Woodson's memoir in verse, focusing on how poetry can tell personal and family stories. This lesson introduces the unique format of memoir-as-poetry and examines themes of family, place, and early childhood memories.",
+    "instructions": [
+      "1. Introduce the book and explain that this memoir is written entirely in verse - poetry that tells a true life story.",
+      "2. Read the dedication and opening poems aloud, paying attention to the rhythm and line breaks that create meaning.",
+      "3. Discuss the concept of memoir versus autobiography, emphasizing how memoir focuses on specific themes and memories rather than complete life chronology.",
+      "4. Read the first several poems together, stopping to discuss how Woodson uses imagery and sensory details to bring memories to life.",
+      "5. Explore the historical context: the Civil Rights era, the Great Migration, and what life was like for African American families in the 1960s-70s.",
+      "6. Have your child identify specific poetic techniques Woodson uses: repetition, line breaks, metaphors, and sensory language.",
+      "7. Discuss the theme of family stories and oral tradition - how families pass down their histories through storytelling.",
+      "8. Begin a personal response journal where your child can reflect on their own family stories and early memories inspired by the reading."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Brown Girl Dreaming by Jacqueline Woodson",
+      "notebook for response journal",
+      "pencil",
+      "sticky notes",
+      "world map"
+    ],
+    "sort_order": 5,
+    "parent_notes": "This memoir in verse offers rich opportunities to discuss both literary craft and important social history. Woodson's poetic style makes complex themes accessible while maintaining emotional authenticity. In Montessori spirit, encourage your child to make personal connections to their own family stories and cultural identity. The book handles themes of racism, family separation, and identity formation with age-appropriate sensitivity. Allow natural conversations about these topics to emerge from the text rather than forcing discussion.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Brown Girl Dreaming: Exploring Memoir Through Verse - Family Stories and Identity",
+          "subheading": "Beginning Jacqueline Woodson's poetic life story",
+          "mascot_explanation": "Hello! I'm Finn Fox, and today we're starting a very special book that tells a true life story through beautiful poetry! Jacqueline Woodson shows us how our family stories and memories can become art that touches other people's hearts."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Brown Girl Dreaming by Jacqueline Woodson",
+            "notebook for response journal",
+            "pencil",
+            "sticky notes",
+            "world map"
+          ],
+          "setup_instructions": "Create a comfortable reading space where you can read aloud clearly. Have the world map nearby to locate places mentioned in the memoir, and keep sticky notes handy for marking meaningful passages.",
+          "mascot_explanation": "We're setting up for a journey through someone's real memories! The sticky notes will help us mark beautiful lines or important moments, and the map will help us follow Jacqueline's family as they move between different places that shaped her life."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Introduce the memoir-in-verse format and read the dedication and opening poems aloud, paying attention to rhythm and how line breaks create meaning.",
+          "mascot_explanation": "This book is like a magical combination - it's poetry AND a true story at the same time! Notice how Jacqueline arranges her words on the page - sometimes she breaks lines in surprising places to make us pause and think more deeply about what she's saying."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read the first several poems together, discussing how Woodson uses imagery and sensory details to bring childhood memories to life, and explore the historical context of the Civil Rights era.",
+          "mascot_explanation": "As we read, notice how Jacqueline helps us see, hear, and feel her memories through her words! She was growing up during a time when African American families faced many challenges, and her personal story connects to much bigger events happening in America."
+        },
+        {
+          "type": "activity",
+          "prompt": "Identify specific poetic techniques Woodson uses (repetition, line breaks, metaphors, sensory language) and discuss how families pass down their histories through storytelling and oral tradition.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now let's become poetry detectives! Look for the special techniques that make these poems so powerful - maybe words that repeat for emphasis, or comparisons that help us understand feelings. Notice too how much family storytelling matters in Jacqueline's world."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How is memoir different from other types of life stories?",
+            "What poetic techniques help bring Woodson's memories to life?",
+            "What role do family stories play in shaping identity?"
+          ],
+          "mascot_explanation": "Let's make sure we're understanding both the poetry and the powerful themes! This book shows us how our family stories help make us who we are, and how beautiful language can make memories feel real for readers who weren't even there."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Begin a personal response journal to reflect on your own family stories and early memories inspired by the reading, noting connections between your experiences and Woodson's themes.",
+          "mastery_check": "Student can identify memoir-in-verse format and explain how Woodson uses poetic techniques to convey personal memories and family history.",
+          "mascot_explanation": "What a beautiful start to this memoir journey! Jacqueline Woodson reminds us that everyone's family story matters and deserves to be told with care and artistry. As you keep reading, think about your own memories and the stories your family tells - they're just as valuable and meaningful!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 23,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Newspaper Interview Preparation: Question Development and Research Techniques",
+    "description": "Students learn to craft effective interview questions and conduct preliminary research on their interview subject. This lesson focuses on developing open-ended questions that elicit detailed responses for their journalism project.",
+    "instructions": [
+      "Help your child identify a person they would like to interview for their newspaper article (family member, neighbor, local community member).",
+      "Guide them through researching background information about their interview subject using appropriate sources.",
+      "Support them in brainstorming potential interview topics and angles that would interest readers.",
+      "Assist in developing 8-10 open-ended questions that encourage detailed responses rather than yes/no answers.",
+      "Practice the difference between primary questions and follow-up questions through role-playing.",
+      "Have them organize questions in a logical sequence that creates a natural conversation flow.",
+      "Review proper interview etiquette and note-taking strategies.",
+      "Schedule the actual interview for later in the week and discuss recording options if appropriate."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "notebook or paper",
+      "pen/pencil",
+      "computer or tablet for research",
+      "interview question template",
+      "timer"
+    ],
+    "sort_order": 6,
+    "parent_notes": "This lesson embodies the Montessori principle of connecting learning to real life by having students interact with their community through journalism. Encourage independence by allowing your child to choose their interview subject and develop their own questions. The preparation phase is crucial for building confidence and ensuring a successful interview experience that will contribute meaningfully to their class newspaper project.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Newspaper Interview Preparation: Question Development and Research Techniques",
+          "subheading": "Learning to craft questions that unlock great stories",
+          "mascot_explanation": "Hey there, future journalists! I'm Finn Fox, and I'm so excited to help you become interview experts today. We're going to learn how to ask the kinds of questions that help people share their most interesting stories and experiences!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "notebook or paper",
+            "pen/pencil",
+            "computer or tablet for research",
+            "interview question template",
+            "timer"
+          ],
+          "setup_instructions": "Set up a quiet workspace with your research materials easily accessible. Have your notebook open and ready for question writing.",
+          "mascot_explanation": "Let's gather our journalist tools! These materials will help you become a thorough researcher and thoughtful interviewer. Remember, great journalists always come prepared with the right questions!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Choose your interview subject and conduct 15 minutes of background research to learn about their experiences, interests, or expertise.",
+          "mascot_explanation": "Think of research as detective work - the more you know about someone beforehand, the better questions you can ask! This helps you discover what makes their story unique and interesting to others."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Identify 2-3 main topics or angles you want to explore during your interview, considering what would be most interesting to your newspaper readers.",
+          "mascot_explanation": "Great interviews have focus! By choosing specific topics, you'll be able to dive deep into the most compelling parts of your subject's story instead of just scratching the surface."
+        },
+        {
+          "type": "activity",
+          "prompt": "Develop 8-10 open-ended interview questions using the 5 W's and H framework (Who, What, When, Where, Why, How). Practice distinguishing between primary questions and follow-up questions through role-play with your parent.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now comes the fun part - crafting questions that will unlock amazing stories! Remember, open-ended questions that start with 'How' and 'Why' often lead to the most interesting answers because they invite people to share details and emotions."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you explain the difference between an open-ended and closed-ended question?",
+            "What makes a good follow-up question?",
+            "How does background research improve your interview questions?"
+          ],
+          "mascot_explanation": "Let's make sure you've got the journalist skills down pat! These questions will help confirm that you're ready to conduct an interview that will result in a fascinating newspaper article."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Review your final list of interview questions and arrange them in logical order. Schedule your interview and discuss note-taking or recording methods with your parent.",
+          "mastery_check": "Student can demonstrate the difference between open and closed questions and has developed 8-10 thoughtful questions organized in logical sequence.",
+          "mascot_explanation": "You're well on your way to becoming an excellent interviewer! With your carefully crafted questions and solid preparation, you're going to uncover some wonderful stories that your newspaper readers will love to learn about."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 23,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Box Plots Construction: Analyzing Sports Team Performance Data",
+    "description": "Students learn to construct and interpret box plots using real sports statistics data. They will identify quartiles, median, and outliers while analyzing team performance patterns.",
+    "instructions": [
+      "Provide your child with a dataset of sports statistics (points scored by a basketball team over 20 games, for example).",
+      "Guide them through organizing the data in ascending order to prepare for quartile calculations.",
+      "Help them identify the median, first quartile (Q1), and third quartile (Q3) using the data set.",
+      "Show them how to calculate the interquartile range (IQR) and identify any outliers using the 1.5×IQR rule.",
+      "Support them in constructing a box plot by hand on graph paper, marking all five key values.",
+      "Have them create a second box plot using a different sports dataset for comparison.",
+      "Discuss what the box plot reveals about the team's consistency and performance patterns.",
+      "Challenge them to make predictions about future performance based on their box plot analysis."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "graph paper",
+      "ruler",
+      "calculator",
+      "sports statistics datasets",
+      "colored pencils"
+    ],
+    "sort_order": 7,
+    "parent_notes": "This lesson connects abstract statistical concepts to real-world sports data that students can relate to and understand. The Montessori approach emphasizes hands-on construction before using digital tools, so encourage your child to create box plots by hand first. This tactile experience helps solidify understanding of quartiles and data distribution in a concrete way before moving to more abstract interpretations.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Box Plots Construction: Analyzing Sports Team Performance Data",
+          "subheading": "Using statistics to understand team consistency and performance",
+          "mascot_explanation": "Hi there, math athletes! I'm Finn Fox, and today we're combining sports and statistics in a really cool way. We're going to learn how box plots can help us understand how consistent a team's performance really is!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "graph paper",
+            "ruler",
+            "calculator",
+            "sports statistics datasets",
+            "colored pencils"
+          ],
+          "setup_instructions": "Organize your workspace with graph paper in front of you and sports data readily available. Keep your calculator nearby for quartile calculations.",
+          "mascot_explanation": "We're setting up like real sports analysts! These tools will help you create professional-looking box plots that reveal hidden patterns in team performance data."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Order your sports dataset from least to greatest values, then identify the median (middle value) of the entire dataset.",
+          "mascot_explanation": "Just like lining up players by height, we need to arrange our data in order first! The median shows us the typical performance right in the middle of all the games."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Find the first quartile (Q1) by identifying the median of the lower half of data, and the third quartile (Q3) by finding the median of the upper half.",
+          "mascot_explanation": "Now we're finding the 'quarter marks' of our data! Q1 shows us the bottom 25% line, while Q3 shows where the top 25% begins - this helps us see the spread of performance."
+        },
+        {
+          "type": "activity",
+          "prompt": "Construct your box plot on graph paper by marking the minimum, Q1, median, Q3, and maximum values. Use the 1.5×IQR rule to identify and mark any outliers with separate dots. Create a second box plot with different data for comparison.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Time to build your box plot masterpiece! Remember, the 'box' shows where the middle 50% of performances fall, while the 'whiskers' extend to show the range. Outliers are like those amazing or unusually poor games that stand out from the typical pattern!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What does the length of the box tell you about the team's consistency?",
+            "How do you identify outliers in a dataset?",
+            "What would a very narrow box plot indicate about a team's performance?"
+          ],
+          "mascot_explanation": "Let's make sure you can read the story that box plots tell! These questions help you interpret what all those lines and boxes really mean about athletic performance and consistency."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Compare your two box plots and write 3-4 sentences describing what they reveal about each team's consistency and performance patterns. Make one prediction about future performance based on your analysis.",
+          "mastery_check": "Student can correctly construct box plots with all five key values and explain what the plot reveals about data distribution and consistency.",
+          "mascot_explanation": "You've become a real sports statistician today! Box plots are powerful tools that help coaches, fans, and players understand performance patterns - and now you know how to create and read them like a pro!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "science",
+    "week_number": 23,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Chemical Reactions Laboratory: Observing Reactants Transform into Products",
+    "description": "Students conduct safe chemical reactions at home to observe how reactants combine and transform into entirely new products. They will document evidence of chemical change and apply the law of conservation of mass.",
+    "instructions": [
+      "Set up three simple chemical reaction stations using household materials: baking soda + vinegar, steel wool + water + oxygen, and milk + lemon juice.",
+      "Have your child make predictions about what will happen in each reaction before beginning.",
+      "Guide them through conducting each reaction while carefully observing and recording all changes they notice.",
+      "Help them identify the reactants (starting materials) and products (new substances formed) in each reaction.",
+      "Discuss the evidence that proves a chemical reaction occurred (color change, gas production, temperature change, precipitate formation).",
+      "Introduce the concept of conservation of mass - matter is neither created nor destroyed during reactions.",
+      "Have them create a data table recording reactants, products, and evidence of change for each reaction.",
+      "Connect these observations to real-world examples of chemical reactions they encounter daily."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "baking soda",
+      "white vinegar",
+      "steel wool pad",
+      "whole milk",
+      "lemon juice",
+      "observation journal"
+    ],
+    "sort_order": 8,
+    "parent_notes": "This hands-on chemistry lesson embodies Montessori's emphasis on concrete experiences before abstract concepts. Allow your child to make observations and discoveries independently while ensuring safety. The reactions chosen are safe for home use but still demonstrate key chemical principles. Encourage detailed observation and questioning - this builds the scientific thinking skills that will serve them throughout their science education.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Chemical Reactions Laboratory: Observing Reactants Transform into Products",
+          "subheading": "Discovering how substances combine to create something entirely new",
+          "mascot_explanation": "Welcome to our home chemistry lab! I'm Finn Fox, and I'm thrilled to explore chemical reactions with you today. We're going to witness some amazing transformations using everyday materials - it's like magic, but it's science!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "baking soda",
+            "white vinegar",
+            "steel wool pad",
+            "whole milk",
+            "lemon juice",
+            "observation journal"
+          ],
+          "setup_instructions": "Set up three separate areas for your reactions with good lighting and ventilation. Have your journal ready to record observations from each experiment.",
+          "mascot_explanation": "These simple household items are about to become the stars of some fascinating chemical reactions! Each one will show us different types of evidence that new substances are being formed."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Begin with the baking soda and vinegar reaction. Measure 2 tablespoons of baking soda and slowly add 1/4 cup vinegar while observing all changes.",
+          "mascot_explanation": "This classic reaction is going to bubble and fizz! Watch carefully - that gas being produced is carbon dioxide, a completely new substance that wasn't there before the reaction started."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "For the oxidation reaction, dampen steel wool and observe changes over 10-15 minutes. Note any color changes, temperature differences, or other evidence of change.",
+          "mascot_explanation": "This reaction happens more slowly, but it's just as amazing! The iron in steel wool is combining with oxygen from the air to create rust - that's a chemical reaction happening right before your eyes."
+        },
+        {
+          "type": "activity",
+          "prompt": "Conduct the milk and lemon juice reaction by adding 1 tablespoon of lemon juice to 1/2 cup of milk. Record detailed observations of all three reactions in your journal, identifying reactants, products, and evidence of chemical change for each.",
+          "duration_minutes": 25,
+          "mascot_explanation": "The acid in lemon juice will cause proteins in milk to clump together - another chemical reaction! As you observe all three reactions, you're learning to think like a real chemist by documenting evidence and identifying what's happening at the molecular level."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What evidence proves that a chemical reaction has occurred?",
+            "Can you identify the reactants and products in each experiment?",
+            "How does the law of conservation of mass apply to these reactions?"
+          ],
+          "mascot_explanation": "Let's make sure you can recognize chemical reactions like a true scientist! These questions help you understand the fundamental principles that govern how matter behaves during chemical changes."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Complete your reaction data table and identify two real-world examples of chemical reactions you encounter in daily life. Explain how conservation of mass applies to one of your experiments.",
+          "mastery_check": "Student can identify reactants and products in each reaction and explain at least two types of evidence that indicate a chemical change has occurred.",
+          "mascot_explanation": "You've conducted real chemistry experiments today and learned to observe like a scientist! Chemical reactions are happening all around us every day - from cooking food to digesting it, and now you know how to recognize and understand them."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/science/lab-report.pdf"
+    ],
+    "printable_template": "lab-report"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "culture",
+    "week_number": 23,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Cold War Space Race: Scientific Competition Between Superpowers",
+    "description": "Students explore how the United States and Soviet Union competed through space exploration during the Cold War. They will analyze key milestones and understand how scientific achievement became a measure of national power.",
+    "instructions": [
+      "Create a timeline of major Space Race events from 1957-1975, including Sputnik, Yuri Gagarin, John Glenn, and the moon landing.",
+      "Help your child understand the political context - why space exploration became important during the Cold War tensions.",
+      "Research and compare the Soviet and American space programs, including key figures like Sergei Korolev and Wernher von Braun.",
+      "Discuss how the Space Race drove technological innovation that we still use today (satellites, computers, materials science).",
+      "Examine primary sources like newspaper headlines and speeches from Kennedy about reaching the moon.",
+      "Analyze how both countries used space achievements for propaganda and national pride.",
+      "Explore the eventual cooperation between former rivals with the Apollo-Soyuz mission in 1975.",
+      "Connect the Space Race to current international cooperation on the International Space Station."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "world map",
+      "timeline template",
+      "printed primary sources",
+      "colored pencils",
+      "notebook"
+    ],
+    "sort_order": 9,
+    "parent_notes": "This lesson demonstrates how scientific progress can be motivated by competition while ultimately benefiting all humanity. Help your child understand that while the Space Race was driven by Cold War rivalry, it led to incredible innovations and eventual international cooperation. The Montessori approach encourages looking at historical events from multiple perspectives - consider both the American and Soviet viewpoints of these achievements.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Cold War Space Race: Scientific Competition Between Superpowers",
+          "subheading": "How rivalry in space led to humanity's greatest achievements",
+          "mascot_explanation": "Greetings, space explorers! I'm Finn Fox, and today we're blasting off to learn about one of the most exciting competitions in history. The Space Race showed how countries competing can actually help all of humanity reach for the stars!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "world map",
+            "timeline template",
+            "printed primary sources",
+            "colored pencils",
+            "notebook"
+          ],
+          "setup_instructions": "Spread out your world map to see the Soviet Union and United States. Have your timeline template ready to track the major space achievements chronologically.",
+          "mascot_explanation": "We're setting up our mission control center! These materials will help you track the amazing space achievements and understand how two countries on opposite sides of Earth were racing to reach the same destination - space!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Begin your Space Race timeline with Sputnik in 1957, marking it as the Soviet Union's first major victory and explaining why this surprised the world.",
+          "mascot_explanation": "Sputnik was like a wake-up call that echoed around the world! This little beeping satellite showed that the Soviet Union could launch objects into space, which made everyone realize the space age had truly begun."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Add major milestones for both countries: Yuri Gagarin's first human spaceflight (1961), John Glenn's orbit (1962), and the Apollo 11 moon landing (1969).",
+          "mascot_explanation": "Each achievement was like scoring points in a cosmic game! The Soviets took early leads with the first human in space, but the Americans had their sights set on an even bigger prize - the moon itself."
+        },
+        {
+          "type": "activity",
+          "prompt": "Research and analyze President Kennedy's 1961 speech about reaching the moon. Create a comparison chart showing Soviet vs. American space program achievements, key figures, and motivations. Consider how both countries used space success for national pride.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Kennedy's moon speech was like throwing down the ultimate challenge! By comparing both space programs, you'll see how competition pushed both countries to achieve things that seemed impossible - and how scientific rivalry can actually benefit everyone."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Why did space exploration become important during the Cold War?",
+            "How did the Space Race drive technological innovation?",
+            "What changed when the Apollo-Soyuz mission brought former rivals together?"
+          ],
+          "mascot_explanation": "Let's make sure you understand how competition in space connected to the bigger Cold War story! These questions help you see how scientific achievement became a way for countries to show their strength and eventually learn to cooperate."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Complete your Space Race timeline through the Apollo-Soyuz cooperation in 1975. Write a paragraph explaining how competition led to cooperation and identify two space technologies we still use today.",
+          "mastery_check": "Student can explain the connection between Cold War politics and space exploration and identify how the Space Race evolved from competition to cooperation.",
+          "mascot_explanation": "You've explored how humanity's greatest space achievements came from countries pushing each other to reach higher! The Space Race shows us that even when nations compete, the discoveries they make can benefit everyone on Earth - and beyond!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/culture/cultural-activity-sheets.pdf"
+    ],
+    "printable_template": "cultural-activity-sheets"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 23,
+    "day_of_week": 2,
+    "quarter": 3,
+    "title": "Brown Girl Dreaming: Poetry as Memory and Identity Expression",
+    "description": "Students explore how Jacqueline Woodson uses free verse poetry to capture childhood memories and express her developing identity. They analyze specific poems that show the author's relationship with place and belonging.",
+    "instructions": [
+      "Read aloud 3-4 poems from the 'South Carolina' section, focusing on Woodson's descriptions of her grandmother's house and southern roots.",
+      "Pause after each poem to discuss the vivid sensory details and how they help readers experience the author's memories.",
+      "Guide your child to notice how Woodson uses line breaks and spacing to create rhythm and emphasis in free verse.",
+      "Discuss how the author presents both positive and challenging aspects of growing up as an African American girl in the 1960s-70s.",
+      "Have your child identify specific poems that show Woodson's connection to place and family heritage.",
+      "Explore how poetry allows the author to capture moments and feelings that might be difficult to express in regular sentences.",
+      "Connect Woodson's experience of moving between North and South to themes of identity and belonging.",
+      "Begin planning how your child might write their own memory poem using similar techniques."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Brown Girl Dreaming book",
+      "notebook",
+      "highlighters",
+      "pencil",
+      "poetry analysis worksheet"
+    ],
+    "sort_order": 10,
+    "parent_notes": "This memoir in verse offers rich opportunities to discuss identity, family heritage, and the power of poetry to preserve memories. Use this as a chance to talk about your own family stories and places that hold special meaning. Woodson's honest portrayal of both joy and challenges in her childhood can open conversations about different perspectives and experiences. Encourage your child to notice the author's craft - how she chooses specific details and uses poetic devices to make readers feel present in her memories.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Brown Girl Dreaming: Poetry as Memory and Identity Expression",
+          "subheading": "Discovering how poets capture childhood and belonging in verse",
+          "mascot_explanation": "Hello, poetry lovers! I'm Finn Fox, and today we're exploring something really special - how Jacqueline Woodson turns her childhood memories into beautiful poems. We'll discover how poetry can capture feelings and experiences in ways that regular writing sometimes can't!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Brown Girl Dreaming book",
+            "notebook",
+            "highlighters",
+            "pencil",
+            "poetry analysis worksheet"
+          ],
+          "setup_instructions": "Find a comfortable reading spot with good lighting. Have your notebook open for jotting down observations about Woodson's poetic techniques and themes.",
+          "mascot_explanation": "Let's create our poetry exploration station! These tools will help you dive deep into Woodson's beautiful memoir and understand how she crafts poems that make her memories come alive for readers."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Listen carefully to 'I am born' and 'Names' from the opening section, paying attention to how Woodson introduces herself and her family through poetry.",
+          "mascot_explanation": "These opening poems are like meeting Woodson for the first time! Notice how she uses poetry to tell us not just facts about her birth, but also about the love and hopes that surrounded her arrival in the world."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Read 'South Carolina Smells Like...' and 'Grandmama's Garden,' highlighting sensory details that help you experience the author's connection to place.",
+          "mascot_explanation": "Woodson is like a memory artist, painting pictures with words that help us smell, see, and feel what it was like to be in her grandmother's world. These sensory details make her poems incredibly vivid and real!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose your favorite poem from today's reading and analyze how Woodson uses line breaks, repetition, or specific word choices to create meaning. Write notes about how this poem reveals something important about her identity or family relationships.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now you get to be poetry detectives! Look closely at how Woodson crafts her poems - every line break and word choice is intentional and helps create the emotional impact that makes these memories so powerful and relatable."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does Woodson use sensory details to bring memories to life?",
+            "What do these poems reveal about the author's relationship with her Southern roots?",
+            "How does free verse poetry allow for different expression than regular sentences?"
+          ],
+          "mascot_explanation": "Let's make sure you're catching all the wonderful ways Woodson uses poetry as her storytelling tool! These questions help you understand both the craft of poetry and the deeper themes about identity and belonging."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect on a special place from your own childhood and brainstorm sensory details, emotions, and specific moments you associate with it. Begin planning a memory poem using techniques you noticed in Woodson's writing.",
+          "mastery_check": "Student can identify specific poetic techniques Woodson uses and explain how poetry helps express memories and identity in unique ways.",
+          "mascot_explanation": "You're beginning to see how powerful poetry can be for preserving and sharing our most important memories! Jacqueline Woodson shows us that our personal stories and family heritage are worthy of beautiful, thoughtful poetry that helps others understand our experiences."
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Editorial Writing: Structuring Arguments with Evidence and Examples",
+    "description": "Students learn the specific structure and persuasive techniques used in newspaper editorials. They will analyze professional editorial examples and practice organizing their own arguments with supporting evidence.",
+    "instructions": [
+      "1. Read aloud two contrasting editorials on the same topic from different newspapers or websites",
+      "2. Guide your child to identify the main argument, supporting evidence, and persuasive language in each editorial",
+      "3. Have them create a graphic organizer showing the structure: hook, thesis statement, supporting paragraphs, counterargument, conclusion",
+      "4. Discuss how editorials differ from news articles in purpose and tone",
+      "5. Help them choose a school or community issue they feel strongly about",
+      "6. Support them in outlining their own editorial using the identified structure",
+      "7. Have them write the first paragraph (hook and thesis statement) of their editorial",
+      "8. Review their work and discuss how to strengthen their argument with specific examples"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Two editorials on the same topic from different sources",
+      "Graphic organizer template or blank paper",
+      "Writing notebook or computer",
+      "Highlighters or colored pencils"
+    ],
+    "sort_order": 11,
+    "parent_notes": "This lesson emphasizes the Montessori principle of real-world connection by engaging students with authentic newspaper editorials. Allow your child to choose an issue they genuinely care about, as intrinsic motivation leads to more powerful writing. The focus on structure provides the concrete framework upper elementary students need while still allowing creative expression. Encourage critical thinking by discussing how different newspapers might present the same issue differently.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Editorial Writing: Structuring Arguments with Evidence and Examples",
+          "subheading": "Learn to write persuasive editorials like real journalists",
+          "mascot_explanation": "Hey there! Today we're going to become editorial writers - the journalists who share their opinions to persuade readers. I'm excited to help you learn how to structure powerful arguments that can actually change people's minds about important issues!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Two editorials on the same topic from different sources",
+            "Graphic organizer template or blank paper",
+            "Writing notebook or computer",
+            "Highlighters or colored pencils"
+          ],
+          "setup_instructions": "Find a quiet workspace with good lighting. Have the editorial examples ready to read, and prepare your graphic organizer template.",
+          "mascot_explanation": "Let's gather our journalist toolkit! We'll need those editorial examples to see how the pros do it, plus our organizers to map out the structure. Think of yourself as a detective studying how great editorials are built!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read aloud two contrasting editorials on the same topic, then identify the main argument, supporting evidence, and persuasive language in each.",
+          "mascot_explanation": "Time to put on our analyst hats! As we read these editorials, notice how each writer tries to convince you of their viewpoint. Look for the clever ways they use facts, examples, and emotional language to make their case."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Create a graphic organizer showing editorial structure: hook, thesis statement, supporting paragraphs, counterargument, and conclusion.",
+          "mascot_explanation": "Now we're mapping the editorial like an architect studies a building! Each part has a special job - the hook grabs attention, the thesis states the main point, and the supporting paragraphs pile on the evidence. This structure is your writing blueprint!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose a school or community issue you care about, then outline your own editorial using the structure you identified. Write your opening paragraph with a strong hook and clear thesis statement.",
+          "duration_minutes": 35,
+          "mascot_explanation": "This is where you become the editorial writer! Pick something that really matters to you - maybe school lunch options, playground equipment, or environmental issues in your community. Your passion will make your writing more convincing and authentic."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify the main components of an editorial's structure?",
+            "How does your chosen issue affect your school or community?",
+            "What evidence or examples will best support your argument?"
+          ],
+          "mascot_explanation": "Let's make sure we've got this editorial structure down pat! These questions will help you think like a real journalist who needs to persuade readers with solid arguments and compelling evidence."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you analyzed professional editorials and began crafting your own persuasive piece. You've learned the essential structure that makes editorials effective and started developing your voice as an opinion writer.",
+          "mastery_check": "Student can identify editorial structure components and has written a clear thesis statement with supporting hook for their chosen issue.",
+          "mascot_explanation": "Fantastic work today! You've taken the first big step toward becoming a persuasive writer who can influence others through well-structured arguments. Keep developing your editorial - your voice and opinions matter in making the world a better place!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Box Plot Construction: Analyzing Five-Number Summary from Sports Data",
+    "description": "Students learn to create box plots by finding the five-number summary (minimum, Q1, median, Q3, maximum) from real sports statistics. They will construct box plots by hand and interpret the data distribution patterns.",
+    "instructions": [
+      "1. Provide your child with a dataset of 15-20 sports statistics (player scores, game points, etc.)",
+      "2. Guide them to order the data from least to greatest",
+      "3. Help them find the five-number summary: minimum, first quartile (Q1), median, third quartile (Q3), and maximum",
+      "4. Show them how to draw a number line with appropriate scale for their data range",
+      "5. Demonstrate how to mark the five key points and draw the box plot with whiskers",
+      "6. Have them create their own box plot using a different sports dataset",
+      "7. Guide them to interpret what the box plot reveals about the data distribution",
+      "8. Compare their box plot to the original example and discuss similarities and differences"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Sports statistics datasets printed on paper",
+      "Graph paper or ruler",
+      "Pencil and eraser",
+      "Calculator",
+      "Colored pencils for marking quartiles"
+    ],
+    "sort_order": 12,
+    "parent_notes": "Box plots provide a powerful visual way to understand data distribution, supporting the Montessori emphasis on concrete-to-abstract learning. Start with real sports data that interests your child, as this makes the mathematics meaningful and engaging. Allow them to work through finding the quartiles step-by-step, as this process builds number sense and statistical reasoning. The visual nature of box plots helps students see patterns in data that pure numbers might not reveal clearly.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Box Plot Construction: Analyzing Five-Number Summary from Sports Data",
+          "subheading": "Create visual summaries of data using box and whisker plots",
+          "mascot_explanation": "Hey sports fans! Today we're going to learn how to create box plots - these cool graphs that show us the story hidden in sports statistics. We'll use real player data to build these visual summaries that coaches and analysts use all the time!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sports statistics datasets printed on paper",
+            "Graph paper or ruler",
+            "Pencil and eraser",
+            "Calculator",
+            "Colored pencils for marking quartiles"
+          ],
+          "setup_instructions": "Set up your workspace with the datasets and graph paper. Have your calculator ready for finding medians and quartiles.",
+          "mascot_explanation": "Let's get our data analysis station ready! We'll be working like real sports statisticians today, so having everything organized will help us create accurate and beautiful box plots. Those colored pencils will help us highlight the different parts of our five-number summary!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Order your sports data from least to greatest, then find the five-number summary: minimum, first quartile (Q1), median, third quartile (Q3), and maximum.",
+          "mascot_explanation": "Think of this like organizing players by their performance from lowest to highest! The five-number summary gives us the most important landmarks in our data - it's like finding the key players who represent different levels of performance."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Draw a number line with appropriate scale, then mark your five key points and construct the box plot with the box showing the middle 50% of data and whiskers extending to the extremes.",
+          "mascot_explanation": "Now we're building our visual story! The box shows where most players perform (that middle 50%), while the whiskers stretch out to show the highest and lowest performers. It's like creating a map of the entire team's abilities!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create your own box plot using a different sports dataset. Find the five-number summary, draw the plot, and write 2-3 sentences describing what the plot reveals about the data distribution.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Time to become the data analyst! Choose your favorite sport and create a box plot that tells the story of those statistics. Remember, you're not just drawing a graph - you're revealing patterns that could help coaches make important decisions!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you identify all five components of the five-number summary?",
+            "What does the size of the box tell you about your data?",
+            "How do the whiskers help you understand the data's spread?"
+          ],
+          "mascot_explanation": "Let's make sure we can read these box plots like expert analysts! Understanding what each part tells us about the data is the key to using box plots as a powerful tool for understanding any kind of statistics."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've successfully learned to construct box plots from raw data and interpret what they reveal about data distribution. This skill will help you analyze any dataset and communicate findings visually.",
+          "mastery_check": "Student can find five-number summary, construct accurate box plot, and explain what the plot reveals about data distribution.",
+          "mascot_explanation": "Amazing work today! You've learned to create one of the most useful graphs in statistics. Box plots help us see patterns in data quickly - whether it's sports scores, weather temperatures, or scientific measurements. You're thinking like a real data scientist!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "history",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Korean War: Cold War's First Hot Conflict and the 38th Parallel",
+    "description": "Students explore the Korean War as the first major military confrontation of the Cold War era. They will examine the division of Korea, the roles of major powers, and the lasting impact of this 'forgotten war.'",
+    "instructions": [
+      "1. Show your child a map of Korea before and after 1953, highlighting the 38th parallel division",
+      "2. Explain how Korea became divided after World War II between Soviet and American zones",
+      "3. Discuss the invasion of South Korea by North Korea in 1950 and the UN response led by the US",
+      "4. Explore China's entry into the war and how it changed the conflict's dynamics",
+      "5. Help them understand why it's called a 'proxy war' - superpowers fighting through smaller nations",
+      "6. Examine the armistice of 1953 and why Korea remains divided today",
+      "7. Have them create a timeline showing major events and turning points of the Korean War",
+      "8. Discuss the war's significance as the first 'hot' conflict of the Cold War and its lasting consequences"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Maps of Korea showing before/after 1953 division",
+      "Timeline template or paper for creating timeline",
+      "Images of Korean War era (soldiers, refugees, key leaders)",
+      "World map showing Cold War alliances"
+    ],
+    "sort_order": 13,
+    "parent_notes": "The Korean War represents a crucial turning point where Cold War tensions became actual military conflict. Help your child understand this as more than just a regional war - it was a testing ground for the new post-WWII world order. The Montessori approach encourages understanding cause and effect relationships, so emphasize how decisions made after WWII led to this conflict. This 'forgotten war' offers important lessons about international relations and the human cost of ideological divisions that persist today.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Korean War: Cold War's First Hot Conflict and the 38th Parallel",
+          "subheading": "Explore how the Cold War turned into actual warfare in Korea",
+          "mascot_explanation": "Hello historians! Today we're studying the Korean War - the first time the Cold War got 'hot' with real fighting. This conflict helped shape the world we live in today, and I'll help you understand how a divided peninsula became the center of global tension!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Maps of Korea showing before/after 1953 division",
+            "Timeline template or paper for creating timeline",
+            "Images of Korean War era (soldiers, refugees, key leaders)",
+            "World map showing Cold War alliances"
+          ],
+          "setup_instructions": "Arrange the maps so you can easily compare Korea before and after the war. Have your timeline materials ready for the activity portion.",
+          "mascot_explanation": "Let's set up our historical investigation station! These maps will help you see how Korea got divided, and those images will bring this important but often forgotten war to life. We're going to trace how global tensions played out in one divided nation."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Examine how Korea was divided after WWII along the 38th parallel, with Soviet forces in the north and American forces in the south, leading to separate governments by 1948.",
+          "mascot_explanation": "Imagine a country split right down the middle! After defeating Japan in WWII, the victorious Allies couldn't agree on Korea's future, so they drew a line at the 38th parallel. This temporary division became permanent when both sides set up different governments."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Trace the war's progression from North Korea's 1950 invasion through UN intervention, Chinese entry, and the eventual stalemate that led to the 1953 armistice.",
+          "mascot_explanation": "This war was like a deadly back-and-forth game! First North Korea pushed south, then UN forces pushed back north, then China joined and pushed south again. The fighting was fierce, but eventually both sides got stuck in the middle - right where they started!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a detailed timeline of the Korean War from 1950-1953, marking major battles, turning points, and key decisions by world leaders. Include at least 8 significant events and explain why this became known as a 'proxy war.'",
+          "duration_minutes": 30,
+          "mascot_explanation": "Time to map out this complex conflict! As you build your timeline, think about how this wasn't just North vs. South Korea - it was really the US and Soviet Union fighting through their Korean allies. That's what makes it a 'proxy war' - the superpowers used Korea as their battleground!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Why did Korea become divided after World War II?",
+            "How did the Korean War become an international conflict involving major Cold War powers?",
+            "What were the long-term consequences of the Korean War that we still see today?"
+          ],
+          "mascot_explanation": "Let's check our understanding of this pivotal moment in Cold War history! These questions will help you connect the Korean War to the bigger picture of how the world changed after WWII and why some of these tensions still exist today."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've explored how the Korean War transformed Cold War tensions into actual military conflict, creating a divided nation that remains split today. This 'forgotten war' established patterns of proxy conflicts that would define the Cold War era.",
+          "mastery_check": "Student can explain the causes of Korean division, trace major war events, and identify the conflict's significance as the first 'hot' Cold War confrontation.",
+          "mascot_explanation": "Excellent work understanding this complex conflict! The Korean War showed how Cold War rivalries could explode into real wars with devastating consequences. By studying this 'forgotten war,' you're learning important lessons about international relations and the human cost of global tensions."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/history/timeline.pdf"
+    ],
+    "printable_template": "timeline"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "geography",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Solar Energy Distribution: Mapping Global Renewable Potential by Latitude",
+    "description": "Students investigate how latitude affects solar energy potential worldwide and examine current solar power adoption in different regions. They will create maps showing solar irradiance patterns and analyze factors that influence renewable energy development.",
+    "instructions": [
+      "1. Show your child a world map highlighting the 'solar belt' between 35°N and 35°S latitude",
+      "2. Explain how latitude, sun angle, and day length affect solar energy potential in different regions",
+      "3. Have them research and mark on a map the world's largest solar power installations and solar energy leaders",
+      "4. Discuss how geography, economics, and politics influence which countries develop solar energy",
+      "5. Guide them to compare solar potential maps with actual solar energy production by country",
+      "6. Explore why some sunny countries have low solar adoption while some less sunny countries lead in solar power",
+      "7. Have them identify patterns between latitude, economic development, and renewable energy policies",
+      "8. Discuss the role of solar energy in addressing climate change and energy equity globally"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "World map for marking solar installations",
+      "Solar irradiance/potential maps (printouts or digital)",
+      "Colored pencils for mapping different energy levels",
+      "Data sheets showing solar energy production by country",
+      "Calculator for comparing energy statistics"
+    ],
+    "sort_order": 14,
+    "parent_notes": "This lesson connects physical geography with environmental sustainability and economic development, embodying Montessori's cosmic education approach. Help your child see the connections between Earth's physical systems (latitude, sun angle) and human systems (economics, politics, energy policy). Encourage them to think critically about why geography doesn't always determine energy choices - some sunny developing nations can't afford solar infrastructure while northern European countries lead in adoption. This builds understanding of global inequality and environmental justice issues.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Solar Energy Distribution: Mapping Global Renewable Potential by Latitude",
+          "subheading": "Discover how geography affects renewable energy development worldwide",
+          "mascot_explanation": "Hey future environmental scientists! Today we're exploring how our planet's position relative to the sun creates amazing opportunities for clean energy. I'm excited to show you how geography, economics, and politics all work together to determine where solar power thrives!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World map for marking solar installations",
+            "Solar irradiance/potential maps (printouts or digital)",
+            "Colored pencils for mapping different energy levels",
+            "Data sheets showing solar energy production by country",
+            "Calculator for comparing energy statistics"
+          ],
+          "setup_instructions": "Organize your workspace with the world map as your main workspace, and have the solar data sheets nearby for reference during mapping activities.",
+          "mascot_explanation": "Let's set up our renewable energy research station! We'll be working like energy analysts, using these maps and data to understand where solar power works best and why some countries are leading the clean energy revolution while others are still catching up."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Study the global solar belt between 35°N and 35°S latitude and mark the world's major solar installations, noting how latitude affects sun angle and energy potential.",
+          "mascot_explanation": "The solar belt is like Earth's energy sweet spot! Countries in this zone get the most direct sunlight year-round, making solar power super efficient. But as we'll see, having great sun doesn't automatically mean having great solar power development!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Compare solar potential maps with actual solar energy production by country, identifying patterns and analyzing why some sunny nations have low adoption while northern countries lead in solar development.",
+          "mascot_explanation": "Here's where it gets really interesting! You'll discover that Germany produces lots of solar energy despite being pretty far north, while some super sunny countries barely use solar power. This teaches us that technology, money, and government policies matter just as much as sunshine!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a detailed world map showing solar energy potential by latitude zones, then research and mark the top 10 solar energy producing countries. Write a short analysis explaining why geography alone doesn't determine solar energy leadership.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Time to become a renewable energy detective! As you create your map and research those top solar countries, you'll uncover the complex story of how physical geography, economics, and politics all influence our clean energy future. Look for surprising patterns!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does latitude affect a region's solar energy potential?",
+            "What factors besides sunshine influence solar energy development?",
+            "Why might energy equity be an important consideration in global solar development?"
+          ],
+          "mascot_explanation": "Let's make sure we understand both the science and the human side of solar energy! These questions will help you think about solar power not just as a technology, but as a tool that could help address climate change and energy justice around the world."
+        },
+        {
+          "type": "wrap_up",
+          "text": "You've discovered how latitude creates different solar energy potentials globally, but also learned that economic, political, and technological factors greatly influence actual solar development. This understanding is crucial for addressing climate change equitably.",
+          "mastery_check": "Student can explain how latitude affects solar potential, identify patterns in global solar development, and analyze factors beyond geography that influence renewable energy adoption.",
+          "mascot_explanation": "Fantastic geographic detective work! You've learned that solving climate change isn't just about having the right geography - it requires smart policies, economic investment, and international cooperation. Understanding these connections helps you think like a global citizen working toward a sustainable future!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/geography/map-skills.pdf"
+    ],
+    "printable_template": "map-skills"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 23,
+    "day_of_week": 3,
+    "quarter": 3,
+    "title": "Brown Girl Dreaming: Poetry as Memory and Identity Formation",
+    "description": "Students explore how Jacqueline Woodson uses poetic memoir to capture childhood memories and identity development. They will analyze specific poems that show the intersection of personal experience with historical context.",
+    "instructions": [
+      "1. Read aloud 2-3 poems from the section about Woodson's move from South to North",
+      "2. Discuss how the author uses concrete imagery and sensory details to bring memories to life",
+      "3. Help your child identify how historical events (Civil Rights era) intersect with personal family stories",
+      "4. Explore how the poem format allows for gaps, silence, and reflection that prose memoir might not",
+      "5. Have them choose one poem that resonates with them and discuss why it feels powerful",
+      "6. Guide them to notice how Woodson addresses themes of belonging, family, and cultural identity",
+      "7. Encourage them to think about their own memories that might work well as poems",
+      "8. Discuss how poetry can capture feelings and experiences that are hard to express in regular sentences"
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Brown Girl Dreaming by Jacqueline Woodson",
+      "Notebook for recording favorite lines or images",
+      "Sticky notes for marking meaningful passages",
+      "Optional: audio version for listening component"
+    ],
+    "sort_order": 15,
+    "parent_notes": "This memoir in verse offers a powerful example of how poetry can capture the complexity of growing up between cultures and places. Allow time for your child to respond emotionally to the poems - Woodson's work often resonates deeply with young readers exploring their own identity questions. The Montessori principle of following the child's interests applies here; let them gravitate toward poems that speak to them personally. Discuss how this book shows that 'ordinary' childhood experiences become extraordinary when captured with careful attention to language and emotion.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Brown Girl Dreaming: Poetry as Memory and Identity Formation",
+          "subheading": "Explore how Jacqueline Woodson uses verse to capture childhood and identity",
+          "mascot_explanation": "Welcome back to our poetry journey! Today we're diving deeper into how Jacqueline Woodson turns childhood memories into powerful poems. I love how she shows us that every kid's experiences - even the quiet, everyday ones - are worth celebrating and remembering through beautiful language."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Brown Girl Dreaming by Jacqueline Woodson",
+            "Notebook for recording favorite lines or images",
+            "Sticky notes for marking meaningful passages",
+            "Optional: audio version for listening component"
+          ],
+          "setup_instructions": "Find a comfortable reading spot where you can easily take notes and mark favorite passages. Have your notebook open for jotting down powerful lines.",
+          "mascot_explanation": "Let's create our poetry appreciation space! Having your notebook ready will help you capture those amazing lines that make you stop and think. Sticky notes are perfect for marking poems you want to return to - trust me, Woodson writes lines you'll want to remember!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read 2-3 poems about Woodson's move from South to North, focusing on how she uses concrete imagery and sensory details to bring childhood memories to life.",
+          "mascot_explanation": "Notice how Woodson doesn't just tell us she moved - she makes us feel the red dirt of South Carolina and smell the different air of New York. Great poets use all five senses to help readers step right into their memories!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Explore how historical events from the Civil Rights era intersect with personal family stories, and discuss why the poem format works so well for memoir writing.",
+          "mascot_explanation": "Woodson shows us how big historical moments feel when you're just a kid living through them. Poetry lets her capture both the huge importance of the Civil Rights Movement and the small, personal ways it affected her family - that's the magic of verse memoir!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose one poem that resonates with you and write a paragraph explaining why it feels powerful. Then brainstorm 2-3 of your own childhood memories that might work well as poems, focusing on sensory details and emotions.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now it's your turn to think like a poet-memoirist! When you pick your favorite poem, really think about what makes it stick with you. Then consider your own memories - the ones that made you feel something strong, whether happy, sad, confused, or excited. Those feelings are where great poems begin!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does Woodson use sensory details to make her memories feel real to readers?",
+            "What advantages does poetry have over regular prose for writing about childhood experiences?",
+            "How does the author show the connection between personal experiences and larger historical events?"
+          ],
+          "mascot_explanation": "These questions help us appreciate Woodson's craft as both a poet and a memoirist! Understanding her techniques will help you become a more thoughtful reader and maybe inspire your own creative writing adventures."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Today you've seen how Jacqueline Woodson transforms childhood memories into powerful poetry that connects personal experience with historical context. Her verse memoir shows how poetry can capture the complexity of growing up and finding your identity.",
+          "mastery_check": "Student can identify specific techniques Woodson uses in her poetry, explain why verse works well for memoir, and connect personal experiences to broader themes.",
+          "mascot_explanation": "Beautiful work exploring how poetry can tell life stories! Woodson teaches us that every childhood is full of moments worth remembering and celebrating. Her poems remind us that finding your voice and your place in the world is one of the most important journeys anyone takes."
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 23,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Flash Fiction: Creating Complete Stories in 300 Words",
+    "description": "Students explore the craft of flash fiction by analyzing examples and writing their own complete story in exactly 300 words. This lesson focuses on economy of language and creating impactful narratives with limited word count.",
+    "instructions": [
+      "1. Begin by reading 2-3 examples of flash fiction together, discussing how each tells a complete story in very few words.",
+      "2. Analyze the key elements: strong opening, conflict/tension, character development, and satisfying conclusion within constraints.",
+      "3. Have your child brainstorm story ideas that could work in flash fiction format (single moment, revelation, or turning point).",
+      "4. Guide them through outlining their story in 4-5 sentences to ensure completeness before writing.",
+      "5. Set a timer for 20 minutes for the first draft, encouraging them to write freely without counting words.",
+      "6. Have them count words and revise to reach exactly 300 words, focusing on cutting unnecessary words while preserving meaning.",
+      "7. Read the final piece aloud together and discuss what makes it feel complete despite its brevity.",
+      "8. Encourage them to save this piece for potential inclusion in their class newspaper or blog project."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Examples of flash fiction (printed or online)",
+      "Writing paper or computer",
+      "Timer",
+      "Word counting method (manual or digital)",
+      "Editing pencils or track changes"
+    ],
+    "sort_order": 16,
+    "parent_notes": "This lesson embraces the Montessori principle of precision and economy of effort, challenging students to communicate powerfully within constraints. The 300-word limit requires careful word choice and editing skills that mirror real-world writing demands. Encourage your child to see revision as refinement rather than criticism, celebrating the craftsmanship required to tell a complete story so concisely.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Flash Fiction: Creating Complete Stories in 300 Words",
+          "subheading": "Crafting powerful narratives with economy of language",
+          "mascot_explanation": "Hi there! I'm Finn Fox, and today we're diving into flash fiction - stories so short they're like lightning bolts of storytelling! In just 300 words, you'll create a complete story that packs a real punch."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Examples of flash fiction (printed or online)",
+            "Writing paper or computer",
+            "Timer",
+            "Word counting method (manual or digital)",
+            "Editing pencils or track changes"
+          ],
+          "setup_instructions": "Gather flash fiction examples and set up your writing space with timing and counting tools ready.",
+          "mascot_explanation": "Let's get everything ready for our flash fiction workshop! Having examples nearby will inspire you, and the timer will help you focus your creative energy. Remember, every single word counts in flash fiction!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read 2-3 flash fiction examples together, analyzing how each tells a complete story in very few words with strong openings, clear conflict, and satisfying conclusions.",
+          "mascot_explanation": "Think of flash fiction like a perfectly cut gem - every facet has to shine! As we read these examples, notice how the authors waste no words but still give us complete, satisfying stories."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Brainstorm story ideas that work well in flash fiction format, focusing on single moments, revelations, or turning points rather than complex plots.",
+          "mascot_explanation": "Flash fiction is like capturing a single, perfect moment in time - maybe the instant someone makes a difficult decision or discovers something surprising! Think about moments that could change everything in just a few paragraphs."
+        },
+        {
+          "type": "activity",
+          "prompt": "Write your flash fiction story, first drafting freely for 20 minutes, then revising to reach exactly 300 words while maintaining story completeness.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Now for the exciting part - writing your masterpiece! Don't worry about word count in your first draft; just tell your story. Then comes the fun challenge of sculpting it to exactly 300 words!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Does your story have a clear beginning, conflict, and resolution?",
+            "Have you eliminated unnecessary words while preserving meaning and impact?",
+            "Does your story feel complete and satisfying at exactly 300 words?"
+          ],
+          "mascot_explanation": "Let's make sure your flash fiction sparkles! These questions will help you polish your story until it shines like a perfectly cut diamond - small but absolutely brilliant."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Read your completed flash fiction aloud and reflect on the challenge of creating a complete narrative within strict word limits. Save your piece for potential publication in your class newspaper or blog.",
+          "mastery_check": "Student creates a complete, engaging story in exactly 300 words with clear story elements and purposeful word choice.",
+          "mascot_explanation": "Congratulations on creating a complete story in just 300 words! Reading it aloud will help you hear how every word works together - and who knows, maybe this little gem will find its way into your class publication!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 23,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Box Plot Construction: Visualizing Five-Number Summary Data",
+    "description": "Students learn to construct and interpret box plots using five-number summaries, understanding how this data display shows distribution, outliers, and quartile ranges. They will create box plots from real-world data sets and compare multiple distributions.",
+    "instructions": [
+      "1. Review the five-number summary (minimum, Q1, median, Q3, maximum) using a data set from previous lessons.",
+      "2. Demonstrate how to construct a box plot step-by-step using graph paper and the five-number summary.",
+      "3. Show how to identify and mark outliers using the 1.5×IQR rule, explaining when to extend whiskers vs. show outlier points.",
+      "4. Provide 2-3 new data sets for your child to find five-number summaries and construct their own box plots.",
+      "5. Guide them in creating side-by-side box plots to compare two related data sets (e.g., test scores from two classes).",
+      "6. Practice interpreting box plots by discussing what each part tells us about the data's distribution and variability.",
+      "7. Have them analyze real-world examples and explain what the box plot reveals about the data story.",
+      "8. Connect box plots to previously learned displays (histograms, dot plots) discussing when each is most useful."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Graph paper or box plot templates",
+      "Rulers and pencils",
+      "Real-world data sets (sports statistics, weather data, etc.)",
+      "Calculator",
+      "Previously created data displays for comparison"
+    ],
+    "sort_order": 17,
+    "parent_notes": "Box plots embody Montessori's concrete-to-abstract progression by providing a visual representation of statistical concepts. The five-number summary gives students concrete anchor points, while the box plot transforms these into an abstract visual that reveals data patterns. Encourage your child to see box plots as storytelling tools that reveal the 'personality' of data sets, making statistics feel more human and relatable.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Box Plot Construction: Visualizing Five-Number Summary Data",
+          "subheading": "Transforming statistical summaries into powerful visual stories",
+          "mascot_explanation": "Hello! I'm Finn Fox, and today we're building box plots - think of them as data's family portraits that show the whole story at a glance! We'll turn those five-number summaries into visual masterpieces."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Graph paper or box plot templates",
+            "Rulers and pencils",
+            "Real-world data sets (sports statistics, weather data, etc.)",
+            "Calculator",
+            "Previously created data displays for comparison"
+          ],
+          "setup_instructions": "Organize materials with graph paper ready for precise plotting and data sets accessible for practice problems.",
+          "mascot_explanation": "Let's set up our data visualization workshop! Graph paper helps us create neat, accurate box plots, and having real data makes our work meaningful. Think of yourself as a data artist today!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review five-number summary components and demonstrate step-by-step box plot construction, showing how each summary value becomes part of the visual display.",
+          "mascot_explanation": "A box plot is like building a house for your data! The five numbers become the foundation, walls, and roof - each piece has its perfect place in telling your data's story."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn to identify outliers using the 1.5×IQR rule and understand when to extend whiskers versus showing separate outlier points on the plot.",
+          "mascot_explanation": "Sometimes data points are like me when I wander too far from my fox family - they're outliers! We have special rules to decide if they should be part of the main plot or marked separately."
+        },
+        {
+          "type": "activity",
+          "prompt": "Construct box plots from provided data sets, including creating side-by-side comparisons and identifying any outliers present in the data.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now it's your turn to be the data architect! Build those box plots carefully, and when you create side-by-side plots, you'll see how they can tell comparison stories just by looking at them."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you correctly place all five summary values on your box plot?",
+            "Do you properly identify and handle outliers using the 1.5×IQR rule?",
+            "Can you interpret what the box plot reveals about data distribution and variability?"
+          ],
+          "mascot_explanation": "Let's make sure your box plots are telling clear, accurate stories! Check that every element is in its right place and that you can read the tale your data is telling."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Compare your box plots with other data displays and discuss when box plots are most useful for revealing data patterns. Reflect on what stories your constructed box plots tell about the real-world data.",
+          "mastery_check": "Student accurately constructs box plots from five-number summaries, properly handles outliers, and interprets what the display reveals about data distribution.",
+          "mascot_explanation": "You've become a box plot expert! These visual tools will help you understand data stories for years to come - from sports statistics to scientific research. Every box plot you see now will speak to you!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "science",
+    "week_number": 23,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Chemical Reactions: Conservation of Mass with Baking Soda and Vinegar",
+    "description": "Students investigate the law of conservation of mass through hands-on experiments with chemical reactions. Using precise measurements before and after reactions, they discover that mass is conserved even when new substances form with different properties.",
+    "instructions": [
+      "1. Begin with a discussion of what happens during chemical reactions, distinguishing them from physical changes.",
+      "2. Introduce the law of conservation of mass and Antoine Lavoisier's contributions to chemistry.",
+      "3. Set up the experiment by measuring exact amounts of baking soda and vinegar separately, recording initial masses.",
+      "4. Have your child predict what will happen to the total mass when the substances react together.",
+      "5. Conduct the reaction in a sealed container, observing the chemical changes (bubbling, temperature change, new substances formed).",
+      "6. Carefully measure the total mass after the reaction and compare with initial measurements.",
+      "7. Discuss why the mass appears to change if the container isn't sealed (gas escapes) and repeat with proper containment.",
+      "8. Connect this principle to other chemical reactions they might observe in cooking, rusting, or burning."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Digital kitchen scale (precise to grams)",
+      "Baking soda and white vinegar",
+      "Sealed containers or zip-lock bags",
+      "Measuring spoons and cups",
+      "Safety goggles",
+      "Paper towels for cleanup"
+    ],
+    "sort_order": 18,
+    "parent_notes": "This experiment beautifully demonstrates Montessori's emphasis on direct experience with natural phenomena. The precision required in measurement appeals to the elementary child's sense of justice and order, while the dramatic reaction captures their imagination. Guide your child to see that even when things appear to change dramatically, underlying principles like conservation of mass remain constant - a powerful lesson about finding order within apparent chaos.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Chemical Reactions: Conservation of Mass with Baking Soda and Vinegar",
+          "subheading": "Discovering that matter is neither created nor destroyed in chemical changes",
+          "mascot_explanation": "Hi! I'm Finn Fox, and today we're becoming chemistry detectives! We'll watch an amazing reaction happen and solve the mystery of where all the matter goes when chemicals change into something completely new."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Digital kitchen scale (precise to grams)",
+            "Baking soda and white vinegar",
+            "Sealed containers or zip-lock bags",
+            "Measuring spoons and cups",
+            "Safety goggles",
+            "Paper towels for cleanup"
+          ],
+          "setup_instructions": "Arrange materials on a stable surface near the scale, ensuring safety goggles are ready and cleanup materials are accessible.",
+          "mascot_explanation": "Let's set up our chemistry lab! The scale is our most important tool today - it's going to help us solve the mystery of conservation of mass. Safety goggles make us look like real scientists too!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn about chemical reactions versus physical changes, and discover Antoine Lavoisier's law of conservation of mass: matter cannot be created or destroyed in chemical reactions.",
+          "mascot_explanation": "Think of chemical reactions like a dance where atoms change partners but never disappear! Lavoisier discovered this amazing rule of nature - no matter how dramatic the change looks, the same amount of matter is always there."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Carefully measure exact amounts of baking soda and vinegar separately, recording all masses precisely before conducting the reaction experiment.",
+          "mascot_explanation": "Now we become precise as scientists! Every gram counts in this experiment - we need to know exactly how much we start with so we can see if Lavoisier was right about conservation of mass."
+        },
+        {
+          "type": "activity",
+          "prompt": "Conduct the baking soda and vinegar reaction in sealed containers, measuring mass before and after, then analyze whether mass was truly conserved.",
+          "duration_minutes": 25,
+          "mascot_explanation": "This is the exciting part - the big reaction! Watch carefully as new substances form with bubbling and fizzing, but keep your scientist eyes on what the scale tells us about the total mass."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you explain why mass appears to decrease if the container isn't sealed?",
+            "What evidence shows that new substances formed during the reaction?",
+            "How does this experiment prove the law of conservation of mass?"
+          ],
+          "mascot_explanation": "Let's make sure you've solved the conservation mystery! Think about what happened to all those bubbles and why sealing the container was so important for our investigation."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Connect conservation of mass to everyday chemical reactions like cooking, rusting, and burning. Reflect on how this fundamental law governs all chemical changes in nature.",
+          "mastery_check": "Student accurately measures masses, conducts controlled experiments, and explains how conservation of mass applies to chemical reactions with evidence from their observations.",
+          "mascot_explanation": "You've discovered one of chemistry's most important secrets! Now you know that whether it's baking a cake or leaves changing color, the atoms are always conserved - they just rearrange into new and wonderful combinations."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/science/lab-report.pdf"
+    ],
+    "printable_template": "lab-report"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 23,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Brown Girl Dreaming: Poetry as Memory and Identity Formation",
+    "description": "Students explore how Jacqueline Woodson uses poetic language and structure to convey childhood memories and identity development. They analyze specific poems that show the intersection of personal experience with broader themes of race, place, and belonging.",
+    "instructions": [
+      "1. Read 3-4 poems from the current section, focusing on how Woodson captures specific childhood moments through poetic language.",
+      "2. Discuss how the verse format allows for different pacing and emphasis compared to traditional prose memoirs.",
+      "3. Identify specific poetic techniques Woodson uses (repetition, line breaks, imagery) and how they enhance meaning.",
+      "4. Explore how the poems show Jacqueline's growing awareness of her identity as an African American girl in different settings.",
+      "5. Have your child select their favorite poem from today's reading and explain what makes it powerful or memorable.",
+      "6. Discuss how memory and poetry both work through images and emotions rather than just facts.",
+      "7. Connect Woodson's childhood experiences to broader themes of belonging, family, and finding one's voice.",
+      "8. Encourage your child to think about their own important memories and how they might capture them poetically."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Brown Girl Dreaming by Jacqueline Woodson",
+      "Notebook for responses and observations",
+      "Colored pencils or markers for illustration",
+      "Sticky notes for marking favorite passages"
+    ],
+    "sort_order": 19,
+    "parent_notes": "This memoir in verse offers rich opportunities to discuss both literary craft and important themes of identity and belonging. Woodson's accessible yet sophisticated poetry provides a perfect model for seeing how personal experience can become art. Allow your child to connect personally with the themes while also appreciating the skill required to tell one's story through poetry. The intersection of memory, identity, and place will resonate deeply with upper elementary students developing their own sense of self.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Brown Girl Dreaming: Poetry as Memory and Identity Formation",
+          "subheading": "Exploring how Jacqueline Woodson transforms childhood into art",
+          "mascot_explanation": "Hello! I'm Finn Fox, and today we're diving deep into how memories become poetry! Jacqueline Woodson shows us that our childhood experiences, just like yours, can become beautiful art when we find the right words."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Brown Girl Dreaming by Jacqueline Woodson",
+            "Notebook for responses and observations",
+            "Colored pencils or markers for illustration",
+            "Sticky notes for marking favorite passages"
+          ],
+          "setup_instructions": "Have the book ready with notebooks open for jotting thoughts and observations during reading and discussion.",
+          "mascot_explanation": "Let's set up our poetry exploration station! Your notebook will capture your thoughts about how Woodson turns memories into poems, and those sticky notes will help you mark the moments that speak to your heart."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read 3-4 poems focusing on Woodson's poetic techniques and how the verse format creates different effects than traditional prose memoirs.",
+          "mascot_explanation": "As we read these poems, notice how different they feel from regular stories! Woodson chose poetry because it lets her capture feelings and memories in a special way - like painting with words instead of just telling facts."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Analyze specific poetic techniques (repetition, line breaks, imagery) and explore how the poems show Jacqueline's developing awareness of identity and place.",
+          "mascot_explanation": "Woodson is like an architect building with words! Every line break, every repeated phrase, every image is carefully chosen to help us feel what she felt as a young girl discovering who she was."
+        },
+        {
+          "type": "activity",
+          "prompt": "Select your favorite poem from today's reading and analyze what makes it powerful, connecting Woodson's techniques to the emotions and memories she conveys.",
+          "duration_minutes": 20,
+          "mascot_explanation": "Now you get to be the poetry detective! Pick the poem that speaks to you most and figure out exactly how Woodson made it so special - what words, what rhythms, what images made your heart respond?"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does Woodson use poetic techniques to enhance the meaning of her memories?",
+            "What examples show Jacqueline's growing awareness of her identity?",
+            "How does the verse format affect your experience as a reader differently than prose would?"
+          ],
+          "mascot_explanation": "Let's make sure you're seeing all the poetry magic happening! Think about how Woodson's choices as a poet help you understand not just what happened to her, but how it felt to be her."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect on how memory and poetry both work through images and emotions. Consider what important memories from your own life might be worth capturing in poetic form.",
+          "mastery_check": "Student identifies specific poetic techniques, analyzes their effects on meaning, and connects Woodson's personal experiences to broader themes of identity and belonging.",
+          "mascot_explanation": "You've discovered how memories can become art! Just like Woodson transformed her childhood into these beautiful poems, you have memories and experiences that could become poetry too - your story matters just as much as hers does."
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "geography",
+    "week_number": 23,
+    "day_of_week": 4,
+    "quarter": 3,
+    "title": "Ocean Acidification: How Carbon Emissions Affect Marine Ecosystems",
+    "description": "Students explore the process of ocean acidification as a consequence of increased atmospheric CO2, examining its effects on marine life, coral reefs, and global food chains. They investigate both the chemical process and its geographic impacts across different ocean regions.",
+    "instructions": [
+      "1. Begin by reviewing the carbon cycle and how human activities have increased atmospheric CO2 levels globally.",
+      "2. Explain the chemical process of ocean acidification: how CO2 dissolves in seawater and lowers pH levels.",
+      "3. Use maps to identify ocean regions most affected by acidification, noting patterns related to industrial activity and ocean currents.",
+      "4. Examine specific impacts on marine life: coral bleaching, shell formation problems in mollusks, and disrupted food chains.",
+      "5. Investigate case studies from different geographic regions showing varying degrees of acidification impact.",
+      "6. Discuss the interconnectedness of ocean health with global climate patterns and weather systems.",
+      "7. Explore potential solutions being developed by different countries and international organizations.",
+      "8. Have your child create a simple diagram showing the cause-and-effect chain from emissions to ocean impacts."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "World map showing ocean pH levels",
+      "pH test strips or digital pH information",
+      "Images of healthy vs. bleached coral reefs",
+      "Case study materials from different ocean regions",
+      "Drawing materials for cause-and-effect diagram"
+    ],
+    "sort_order": 20,
+    "parent_notes": "This lesson connects chemistry, biology, and geography while addressing a pressing environmental issue. The Montessori approach emphasizes understanding interconnections, and ocean acidification perfectly demonstrates how human actions in one place affect ecosystems worldwide. Help your child see both the seriousness of the issue and the potential for human solutions, fostering both environmental awareness and hope for positive change through understanding and action.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Ocean Acidification: How Carbon Emissions Affect Marine Ecosystems",
+          "subheading": "Exploring the invisible changes threatening our ocean's health",
+          "mascot_explanation": "Hi! I'm Finn Fox, and today we're diving into one of the ocean's biggest challenges! Ocean acidification might be invisible, but its effects on sea life are very real - let's explore this underwater mystery together."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "World map showing ocean pH levels",
+            "pH test strips or digital pH information",
+            "Images of healthy vs. bleached coral reefs",
+            "Case study materials from different ocean regions",
+            "Drawing materials for cause-and-effect diagram"
+          ],
+          "setup_instructions": "Organize materials with maps easily visible and case study examples ready for comparison across different ocean regions.",
+          "mascot_explanation": "Let's set up our ocean chemistry lab! These maps will show us where the ocean is changing most dramatically, and those coral images will help us see the real effects on sea creatures."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the carbon cycle and learn how excess atmospheric CO2 dissolves into seawater, creating a chemical reaction that lowers ocean pH levels.",
+          "mascot_explanation": "Think of the ocean as a giant sponge soaking up extra CO2 from the air! This might sound helpful, but when the ocean absorbs too much, it changes the water chemistry in ways that make life harder for sea creatures."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Use maps to identify ocean regions most affected by acidification and examine specific impacts on marine life, from coral reefs to shellfish populations.",
+          "mascot_explanation": "Our maps are like health charts for the ocean! Some areas are more affected than others, and we can see patterns that connect to where people produce the most CO2 and how ocean currents carry these changes around the world."
+        },
+        {
+          "type": "activity",
+          "prompt": "Analyze case studies from different geographic regions and create a cause-and-effect diagram showing the chain from human emissions to marine ecosystem impacts.",
+          "duration_minutes": 25,
+          "mascot_explanation": "Now you're becoming an ocean detective! Compare how acidification affects different parts of the world's oceans, then create a visual map showing how everything connects from smokestacks to sea life."
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "Can you explain the chemical process that causes ocean acidification?",
+            "Which ocean regions show the most severe acidification and why?",
+            "How does ocean acidification affect different types of marine life?"
+          ],
+          "mascot_explanation": "Let's make sure you understand this underwater chemistry! Think about the journey CO2 takes from the atmosphere into the ocean and how that journey affects everything from tiny plankton to massive coral reefs."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Discuss potential solutions being developed globally and reflect on how ocean acidification demonstrates the interconnectedness of atmosphere, oceans, and life on Earth.",
+          "mastery_check": "Student explains the acidification process, identifies geographic patterns of impact, and connects local emissions to global ocean health effects.",
+          "mascot_explanation": "You now understand one of the ocean's greatest challenges! Remember, understanding problems like this is the first step toward solving them - and scientists around the world are working on solutions to protect our amazing ocean ecosystems."
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/geography/map-skills.pdf"
+    ],
+    "printable_template": "map-skills"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "language",
+    "week_number": 23,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Journalism Ethics and Fact-Checking: Verifying Sources for Our Class Newspaper",
+    "description": "Students learn the critical journalism skills of verifying information and checking sources for accuracy and bias. They practice fact-checking techniques using real examples and apply these skills to articles for their class newspaper project.",
+    "instructions": [
+      "Introduce the concept of journalism ethics and why fact-checking is essential in modern media.",
+      "Show examples of reliable vs. unreliable sources and discuss how to identify bias in reporting.",
+      "Demonstrate the fact-checking process using a recent news story as an example.",
+      "Have students practice identifying primary vs. secondary sources in provided articles.",
+      "Guide students through fact-checking an article they've written for their class newspaper project.",
+      "Discuss the consequences of misinformation and the journalist's responsibility to truth.",
+      "Have students create a fact-checking checklist they can use for future journalism work.",
+      "Reflect on how these skills apply to evaluating information they encounter daily."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Sample news articles (printed or digital)",
+      "Fact-checking websites bookmarked on device",
+      "Student newspaper drafts",
+      "Notebook for creating checklist",
+      "Timer"
+    ],
+    "sort_order": 21,
+    "parent_notes": "This lesson emphasizes the Montessori principle of preparing children to be thoughtful, responsible members of society. By learning to critically evaluate information and sources, students develop the analytical thinking skills essential for citizenship in our information age. The hands-on practice with their own writing connects abstract concepts to concrete experience. Encourage your child to apply these fact-checking skills when consuming media at home, fostering a lifelong habit of critical thinking and intellectual honesty.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Journalism Ethics and Fact-Checking",
+          "subheading": "Verifying Sources for Our Class Newspaper",
+          "mascot_explanation": "Hey there, future journalists! I'm Finn Fox, and today we're going to learn one of the most important skills a journalist can have - making sure our information is accurate and trustworthy. Think of me as your fact-checking detective partner!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sample news articles (printed or digital)",
+            "Fact-checking websites bookmarked on device",
+            "Student newspaper drafts",
+            "Notebook for creating checklist",
+            "Timer"
+          ],
+          "setup_instructions": "Gather your materials in a quiet workspace where you can read and analyze articles carefully. Have your notebook ready to take notes on fact-checking strategies.",
+          "mascot_explanation": "Let's get our detective tools ready! These materials will help us investigate the truth behind news stories and learn to be responsible journalists. I'm excited to help you become a fact-checking expert!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn about journalism ethics and the importance of accuracy. Discuss why journalists have a responsibility to report truthfully and the impact of misinformation on society.",
+          "mascot_explanation": "Just like how I need to be careful about which trails to follow in the forest, journalists need to be careful about which information to trust and share. Let's explore why truth-telling is so important in journalism!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Examine sample articles to identify reliable vs. unreliable sources. Look for author credentials, publication dates, primary sources, and potential bias indicators.",
+          "mascot_explanation": "Time to put on our detective hats! We'll examine these articles like clues in a mystery, looking for signs that tell us whether we can trust the information or if we need to be more careful."
+        },
+        {
+          "type": "activity",
+          "prompt": "Practice fact-checking by verifying claims in a provided news article using fact-checking websites and cross-referencing sources. Create a fact-checking checklist based on your process.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now for the real detective work! You'll use online tools to verify information, just like professional fact-checkers do. This is where you become the hero who helps stop misinformation in its tracks!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What are three ways to verify if a source is reliable?",
+            "Why is it important for journalists to check their facts before publishing?",
+            "How can bias affect the way information is presented in news articles?"
+          ],
+          "mascot_explanation": "Let's make sure you've got these important fact-checking skills down pat! These questions will help us review the key detective techniques we learned today for spotting truth from fiction."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Review the fact-checking process and discuss how these skills apply beyond journalism to everyday media consumption. Commit to using your checklist for future writing projects.",
+          "mastery_check": "Student can identify three reliable source characteristics and demonstrate the fact-checking process using their created checklist.",
+          "mascot_explanation": "Great detective work today! You've learned skills that will help you be both a better journalist and a smarter consumer of information. Remember, every time you check facts, you're helping make the world a more truthful place!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/language/essay-templates.pdf"
+    ],
+    "printable_template": "essay-templates"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "math",
+    "week_number": 23,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Box Plots and Outliers: Analyzing Sports Statistics Data Sets",
+    "description": "Students learn to create and interpret box plots while identifying outliers in data sets. They work with sports statistics to understand quartiles, median, and how extreme values affect data interpretation.",
+    "instructions": [
+      "Review the five-number summary (minimum, Q1, median, Q3, maximum) using a sports data set.",
+      "Demonstrate how to create a box plot step-by-step using the five-number summary.",
+      "Introduce the concept of outliers and how to identify them using the 1.5 × IQR rule.",
+      "Have students create their own box plots using different sports statistics data sets.",
+      "Guide students in comparing multiple box plots to analyze differences between data sets.",
+      "Practice identifying outliers in real data and discuss what they might represent.",
+      "Connect box plots to real-world applications in sports analysis and other fields.",
+      "Have students reflect on when box plots are most useful compared to other data displays."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Sports statistics data sets (basketball scores, running times, etc.)",
+      "Graph paper or printed box plot templates",
+      "Ruler",
+      "Calculator",
+      "Colored pencils or markers"
+    ],
+    "sort_order": 22,
+    "parent_notes": "This lesson demonstrates the Montessori approach of using concrete, real-world data to understand abstract mathematical concepts. Sports statistics provide meaningful context that helps students see the practical value of statistical analysis. The hands-on creation of box plots supports kinesthetic learning and helps students internalize the relationship between data distribution and visual representation. Encourage your child to look for examples of box plots in newspapers, websites, or apps they use, connecting their learning to everyday statistical literacy.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Box Plots and Outliers",
+          "subheading": "Analyzing Sports Statistics Data Sets",
+          "mascot_explanation": "Hello, data detectives! I'm Finn Fox, and today we're going to learn about box plots - a really cool way to visualize data that shows us the whole story of our numbers. We'll use exciting sports statistics to see how this works!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Sports statistics data sets (basketball scores, running times, etc.)",
+            "Graph paper or printed box plot templates",
+            "Ruler",
+            "Calculator",
+            "Colored pencils or markers"
+          ],
+          "setup_instructions": "Organize your materials at your workspace. Have your calculator ready and choose colored pencils for creating clear, organized box plots.",
+          "mascot_explanation": "Let's get ready to become sports statisticians! These materials will help us turn numbers into visual stories that reveal patterns and surprises hidden in the data. I can't wait to see what we discover!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Review the five-number summary by finding the minimum, first quartile (Q1), median, third quartile (Q3), and maximum in a basketball scoring data set.",
+          "mascot_explanation": "Think of the five-number summary as five special landmarks in our data journey! Just like I use landmarks to navigate the forest, these five numbers help us understand the landscape of our data set."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Learn to identify outliers using the 1.5 × IQR (Interquartile Range) rule. Calculate which data points fall outside the typical range and discuss what they might represent.",
+          "mascot_explanation": "Outliers are like the unusual things you might find in the forest - they stand out from the rest! In sports, an outlier might be an amazing performance or a really tough game day."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create box plots for three different sports data sets (basketball scores, soccer goals, track times). Compare the plots and identify any outliers, then discuss what the differences tell us about each sport.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Now it's time to become box plot artists! You'll transform numbers into visual stories that reveal the personality of each sport's data. Each box plot is like a unique fingerprint of the data!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What do the different parts of a box plot represent?",
+            "How do you identify an outlier using the IQR method?",
+            "When would a box plot be more useful than a histogram for displaying data?"
+          ],
+          "mascot_explanation": "Let's make sure you've mastered these box plot skills! These questions will help us review the key concepts and make sure you're ready to use box plots like a pro statistician."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect on how box plots help us understand data distribution and compare different data sets. Discuss real-world applications of box plots in sports analysis, business, and science.",
+          "mastery_check": "Student can create a complete box plot from a data set, identify outliers using the 1.5 × IQR rule, and explain what the box plot reveals about the data distribution.",
+          "mascot_explanation": "Fantastic work today, statisticians! You've learned to create powerful visual tools that help people understand data at a glance. Box plots are used everywhere from sports analysis to medical research - you now have a skill that connects to the real world!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/math/graph-paper.pdf"
+    ],
+    "printable_template": "graph-paper"
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "art_music",
+    "week_number": 23,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Abstract Expressionism Self-Portrait: Conveying Emotion Through Color and Gesture",
+    "description": "Students explore Abstract Expressionism by creating self-portraits that focus on emotional expression rather than realistic representation. They learn about artists like Jackson Pollock and Helen Frankenthaler while experimenting with gestural painting techniques.",
+    "instructions": [
+      "Introduce Abstract Expressionism and key artists, focusing on how they used color and gesture to express emotions rather than realistic forms.",
+      "Discuss the difference between representational and abstract art, showing examples of traditional vs. abstract self-portraits.",
+      "Have students reflect on their current emotions and choose colors that represent those feelings.",
+      "Demonstrate gestural painting techniques including dripping, splattering, and bold brushstrokes.",
+      "Guide students in creating abstract self-portraits using these techniques, focusing on emotional expression over realistic features.",
+      "Encourage experimentation with layering colors and varying brushstroke intensity to convey different emotions.",
+      "Have students share their work and explain the emotions and techniques they used.",
+      "Reflect on how abstract art can sometimes communicate feelings more powerfully than realistic art."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Acrylic or tempera paints",
+      "Large paper or canvas boards",
+      "Various brushes and sponges",
+      "Cups for water",
+      "Paper plates for palettes",
+      "Aprons or old clothes"
+    ],
+    "sort_order": 23,
+    "parent_notes": "This lesson embodies the Montessori principle of allowing children to express their authentic selves while learning about cultural heritage through art history. Abstract Expressionism provides a perfect vehicle for emotional expression without the pressure of technical perfection, encouraging creative risk-taking and personal voice. The gestural nature of this art form allows for kinesthetic engagement with materials. Support your child's artistic exploration by focusing on their process and emotional expression rather than the final product, and encourage them to continue experimenting with abstract techniques in future art-making.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Abstract Expressionism Self-Portrait",
+          "subheading": "Conveying Emotion Through Color and Gesture",
+          "mascot_explanation": "Hello, young artists! I'm Finn Fox, and today we're going to explore a revolutionary art movement called Abstract Expressionism. Instead of painting what things look like, we'll paint how things feel - it's like translating emotions into colors and movements!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Acrylic or tempera paints",
+            "Large paper or canvas boards",
+            "Various brushes and sponges",
+            "Cups for water",
+            "Paper plates for palettes",
+            "Aprons or old clothes"
+          ],
+          "setup_instructions": "Set up your painting area with protective covering. Arrange paints and brushes within easy reach. Have water cups ready for cleaning brushes between colors.",
+          "mascot_explanation": "Let's prepare our artist studio! Abstract Expressionism can get wonderfully messy as we let our emotions flow through the paint, so make sure you're dressed for creative adventure. This is going to be so much fun!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn about Abstract Expressionism and artists like Jackson Pollock and Helen Frankenthaler. Observe how they used color, gesture, and texture to express emotions rather than realistic forms.",
+          "mascot_explanation": "These amazing artists discovered that you don't need to paint exactly what you see to create powerful art! They painted their feelings, their energy, and their inner experiences - just like we're going to do today."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Reflect on your current emotions and choose a color palette that represents those feelings. Consider warm colors for energetic emotions and cool colors for calm or sad feelings.",
+          "mascot_explanation": "Take a moment to check in with yourself - how are you feeling right now? Excited? Peaceful? Maybe a mix of different emotions? Let's choose colors that match your inner emotional landscape!"
+        },
+        {
+          "type": "activity",
+          "prompt": "Create an abstract self-portrait using gestural painting techniques. Focus on expressing your emotions through bold brushstrokes, color choices, and paint application rather than realistic facial features.",
+          "duration_minutes": 40,
+          "mascot_explanation": "Now for the magical part - let your emotions guide your brush! Don't worry about making it look like a traditional portrait. Instead, let your feelings dance across the paper through color and movement. There's no wrong way to do this!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How is Abstract Expressionism different from realistic art?",
+            "What techniques did you use to express emotion in your self-portrait?",
+            "How do color choices affect the mood of an artwork?"
+          ],
+          "mascot_explanation": "Let's reflect on this amazing artistic journey! These questions will help us think about what we've learned about expressing ourselves through abstract art and how colors and gestures can communicate feelings."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Share your abstract self-portraits and explain the emotions and techniques you used. Discuss how abstract art can sometimes communicate feelings more powerfully than realistic representation.",
+          "mastery_check": "Student can identify characteristics of Abstract Expressionism, use gestural techniques to express emotion, and explain their artistic choices in relation to emotional expression.",
+          "mascot_explanation": "What incredible abstract self-portraits you've created! You've learned to speak the language of emotions through art, just like the great Abstract Expressionist masters. Remember, art isn't just about copying what we see - it's about sharing what we feel!"
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "read_aloud",
+    "week_number": 23,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Brown Girl Dreaming: Poetry as Personal History and Identity Expression",
+    "description": "Students explore how Jacqueline Woodson uses poetry to tell her personal story and express her developing identity. They analyze specific poems from the memoir and discuss how poetry can capture memories and emotions differently than prose.",
+    "instructions": [
+      "Read selected poems from Brown Girl Dreaming that focus on identity, family, and belonging.",
+      "Discuss how Woodson uses specific poetic devices like line breaks, imagery, and rhythm to convey meaning and emotion.",
+      "Explore the themes of identity formation, family traditions, and finding one's place in the world.",
+      "Have students identify moments where Woodson's identity is shaped by her experiences, both positive and challenging.",
+      "Discuss the historical context of the Civil Rights era and how it affects the author's childhood experiences.",
+      "Compare poetry memoir format to traditional prose memoirs - what are the advantages of each?",
+      "Encourage students to think about their own identity-forming moments and how they might express them poetically.",
+      "Reflect on how personal stories connect to larger historical and cultural narratives."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Copy of Brown Girl Dreaming by Jacqueline Woodson",
+      "Notebook for responses",
+      "Poetry analysis worksheet",
+      "Markers or colored pencils",
+      "Historical context handout about 1960s-70s"
+    ],
+    "sort_order": 24,
+    "parent_notes": "This lesson exemplifies the Montessori approach of honoring the child's developing sense of self while connecting personal experience to broader human experience. Woodson's memoir validates the importance of each child's unique story while introducing complex themes of identity, race, and belonging in age-appropriate ways. The poetry format makes these themes accessible while developing literary appreciation. Encourage your child to share their own family stories and traditions, helping them see the value in their personal narrative. This reading supports empathy development and cultural understanding essential for global citizenship.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Brown Girl Dreaming",
+          "subheading": "Poetry as Personal History and Identity Expression",
+          "mascot_explanation": "Hello, story explorers! I'm Finn Fox, and today we're diving into Jacqueline Woodson's beautiful memoir written in poems. We'll discover how poetry can tell life stories in ways that touch our hearts and help us understand identity and belonging."
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Copy of Brown Girl Dreaming by Jacqueline Woodson",
+            "Notebook for responses",
+            "Poetry analysis worksheet",
+            "Markers or colored pencils",
+            "Historical context handout about 1960s-70s"
+          ],
+          "setup_instructions": "Find a comfortable reading spot where you can focus on the poetry and take thoughtful notes. Have your materials organized for both reading and reflecting.",
+          "mascot_explanation": "Let's set up our poetry exploration station! These materials will help us dig deep into Woodson's beautiful words and understand how she uses poetry to share her life story. I'm excited to discover these poems with you!"
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Read selected poems focusing on family, identity, and belonging. Pay attention to how Woodson describes her experiences growing up and the people who shaped her.",
+          "mascot_explanation": "As we read these poems, listen for the music in Woodson's words and notice how she paints pictures of her childhood with language. Each poem is like a memory captured in verse!"
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Analyze Woodson's use of poetic devices like line breaks, imagery, and repetition. Discuss how these techniques help convey emotions and create meaning beyond just the words themselves.",
+          "mascot_explanation": "Poets have special tools just like artists have brushes and paint! Let's explore how Woodson uses the shape and sound of her poems to make us feel what she felt as a young girl growing up."
+        },
+        {
+          "type": "activity",
+          "prompt": "Create a visual response to one of the poems by illustrating key images or emotions, then write about a moment from your own life that connects to Woodson's experiences of identity and belonging.",
+          "duration_minutes": 30,
+          "mascot_explanation": "Now it's your turn to be creative! You'll make art inspired by Woodson's poems and then think about your own story. What moments in your life have helped shape who you are becoming?"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "How does Woodson use poetry to express her developing sense of identity?",
+            "What historical events influenced the author's childhood experiences?",
+            "How is reading a memoir in poetry different from reading one written in regular paragraphs?"
+          ],
+          "mascot_explanation": "Let's check our understanding of this beautiful memoir! These questions will help us think about how Woodson uses poetry as a powerful way to share personal history and explore identity."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect on how personal stories like Woodson's help us understand both individual identity formation and broader historical experiences. Discuss the power of poetry to capture memories and emotions.",
+          "mastery_check": "Student can identify how Woodson uses poetic techniques to express identity themes, connect the memoir to historical context, and articulate how poetry serves as an effective memoir format.",
+          "mascot_explanation": "What a beautiful exploration of poetry and personal history! You've discovered how writers like Jacqueline Woodson use the power of poetry to share their life stories and help us all understand the journey of growing up and finding our place in the world."
+        }
+      ]
+    }
+  },
+  {
+    "level_name": "upper_elementary_year3",
+    "subject_name": "culture",
+    "week_number": 23,
+    "day_of_week": 5,
+    "quarter": 3,
+    "title": "Global Youth Movements: Young Activists Shaping Environmental Change",
+    "description": "Students explore youth-led environmental movements around the world, examining how young people are advocating for climate action and sustainability. They analyze different approaches to activism and consider their own potential roles in environmental stewardship.",
+    "instructions": [
+      "Introduce the concept of youth activism and its historical significance in social change movements.",
+      "Research prominent young environmental activists from different continents (Greta Thunberg, Autumn Peltier, Mari Copeny, etc.).",
+      "Examine different forms of environmental activism: protests, education, innovation, policy advocacy, and community organizing.",
+      "Discuss the unique perspective and power that young people bring to environmental issues.",
+      "Explore local environmental challenges that could benefit from youth involvement and action.",
+      "Have students identify environmental issues they care about and brainstorm age-appropriate action steps.",
+      "Connect youth environmental activism to the broader theme of global citizenship and responsibility.",
+      "Reflect on how young people can make meaningful contributions to environmental solutions."
+    ],
+    "duration_minutes": 60,
+    "lesson_type": "guided",
+    "materials_needed": [
+      "Photos and articles about young environmental activists",
+      "World map for marking activist locations",
+      "Research worksheets",
+      "Large paper for creating action plans",
+      "Colored markers"
+    ],
+    "sort_order": 25,
+    "parent_notes": "This lesson embodies the Montessori philosophy of empowering children to see themselves as agents of positive change in the world. By studying youth activists, students learn that their voices and actions matter, regardless of age. The focus on environmental stewardship connects to Montessori's emphasis on cosmic education and care for the Earth. This lesson builds global citizenship awareness while encouraging local action. Support your child's developing sense of agency by discussing environmental issues together and identifying ways your family can contribute to sustainability efforts. Emphasize that meaningful change often starts with individual commitment and spreads through community action.",
+    "age_adaptations": null,
+    "slide_content": {
+      "slides": [
+        {
+          "type": "title",
+          "heading": "Global Youth Movements",
+          "subheading": "Young Activists Shaping Environmental Change",
+          "mascot_explanation": "Hello, future changemakers! I'm Finn Fox, and today we're going to learn about amazing young people around the world who are fighting to protect our planet. These youth activists prove that you're never too young to make a difference!"
+        },
+        {
+          "type": "materials",
+          "items": [
+            "Photos and articles about young environmental activists",
+            "World map for marking activist locations",
+            "Research worksheets",
+            "Large paper for creating action plans",
+            "Colored markers"
+          ],
+          "setup_instructions": "Organize materials for research and mapping activities. Have the world map ready to mark locations of different youth activists as we learn about them.",
+          "mascot_explanation": "Let's gather our materials to explore the inspiring world of youth environmental activism! We'll travel around the globe learning about brave young people who are standing up for our planet's future."
+        },
+        {
+          "type": "instruction",
+          "step": 1,
+          "text": "Learn about prominent young environmental activists from different continents. Research their backgrounds, the issues they address, and their methods of creating change.",
+          "mascot_explanation": "We're going to meet some incredible young heroes! From Greta Thunberg in Sweden to Autumn Peltier in Canada, these activists show us that young voices can be powerful forces for environmental protection."
+        },
+        {
+          "type": "instruction",
+          "step": 2,
+          "text": "Examine different forms of environmental activism including protests, education campaigns, innovative solutions, policy advocacy, and community organizing. Discuss the strengths of each approach.",
+          "mascot_explanation": "Just like there are many ways to help a friend, there are many ways to help our planet! Some activists march and protest, others teach and educate, and some invent new solutions - let's explore all these different paths to change."
+        },
+        {
+          "type": "activity",
+          "prompt": "Choose a local environmental issue and create an action plan that incorporates youth perspectives and age-appropriate activism strategies. Present your plan to the group.",
+          "duration_minutes": 35,
+          "mascot_explanation": "Now it's your turn to be environmental leaders! Think about an environmental challenge in your community and design a plan that shows how young people like you can make a real difference. Remember, every big change starts with someone caring enough to take the first step!"
+        },
+        {
+          "type": "check_understanding",
+          "items": [
+            "What unique advantages do young people have as environmental activists?",
+            "Name three different approaches to environmental activism and give an example of each.",
+            "How can youth environmental movements create lasting change in their communities?"
+          ],
+          "mascot_explanation": "Let's make sure we understand the power of youth environmental activism! These questions will help us think about why young voices are so important in protecting our planet and how you can be part of the solution."
+        },
+        {
+          "type": "wrap_up",
+          "text": "Reflect on the global impact of youth environmental movements and consider ways to get involved locally. Discuss how young activists inspire hope and demonstrate that age doesn't limit one's ability to create positive change.",
+          "mastery_check": "Student can identify key youth environmental activists and their methods, explain different forms of activism, and articulate how young people can contribute to environmental solutions.",
+          "mascot_explanation": "What an inspiring journey through global youth activism! You've learned that young people like you are already changing the world and protecting our planet. Remember, you have the power to make a difference - your voice, your ideas, and your actions matter more than you might think!"
+        }
+      ]
+    },
+    "printable_pdfs": [
+      "/printables/materials/culture/cultural-activity-sheets.pdf"
+    ],
+    "printable_template": "cultural-activity-sheets"
+  }
+]
