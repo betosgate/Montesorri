@@ -2,6 +2,8 @@ import { NextResponse } from 'next/server'
 import { createClient } from '@supabase/supabase-js'
 import { getStripeServer } from '@/lib/stripe/server'
 
+export const runtime = 'nodejs'
+
 // Use service role client -- webhooks have no user context
 const supabaseAdmin = createClient(
   process.env.NEXT_PUBLIC_SUPABASE_URL!,
@@ -59,6 +61,68 @@ export async function POST(request: Request) {
               stripe_subscription_id: subscriptionId,
             })
             .eq('id', studentId)
+
+          // --- Referral credit: $50 to referrer on first payment ---
+          try {
+            const { data: profile } = await supabaseAdmin
+              .from('profiles')
+              .select('referred_by, display_name')
+              .eq('id', userId)
+              .single()
+
+            if (profile?.referred_by) {
+              // Check if credit already issued for this household
+              const { data: existingReferral } = await supabaseAdmin
+                .from('referrals')
+                .select('id, credit_issued')
+                .eq('referred_id', userId)
+                .single()
+
+              if (existingReferral && !existingReferral.credit_issued) {
+                // Find the referrer's Stripe customer ID
+                const { data: referrerSub } = await supabaseAdmin
+                  .from('subscriptions')
+                  .select('stripe_customer_id')
+                  .eq('parent_id', profile.referred_by)
+                  .limit(1)
+                  .single()
+
+                if (referrerSub?.stripe_customer_id) {
+                  // Issue $50 balance credit to referrer
+                  await stripeServer.customers.createBalanceTransaction(
+                    referrerSub.stripe_customer_id,
+                    {
+                      amount: -5000, // negative = credit
+                      currency: 'usd',
+                      description: `Referral credit: ${profile.display_name || 'A parent'} signed up`,
+                    }
+                  )
+
+                  // Mark referral as credited
+                  await supabaseAdmin
+                    .from('referrals')
+                    .update({
+                      status: 'credited',
+                      credit_issued: true,
+                      first_payment_at: new Date().toISOString(),
+                    })
+                    .eq('id', existingReferral.id)
+                } else {
+                  // Referrer has no Stripe customer yet — mark as paid, credit later
+                  await supabaseAdmin
+                    .from('referrals')
+                    .update({
+                      status: 'paid',
+                      first_payment_at: new Date().toISOString(),
+                    })
+                    .eq('id', existingReferral.id)
+                }
+              }
+            }
+          } catch (refErr) {
+            // Log but don't fail the webhook for referral issues
+            console.error('Referral credit error:', refErr)
+          }
         }
         break
       }
@@ -117,6 +181,19 @@ export async function POST(request: Request) {
           .from('students')
           .update({ enrollment_status: 'withdrawn' })
           .eq('stripe_subscription_id', subscription.id)
+        break
+      }
+
+      case 'charge.refunded': {
+        const charge = event.data.object as { id: string; invoice?: string; amount_refunded?: number }
+
+        if (charge.invoice) {
+          // Update payment_history for this invoice
+          await supabaseAdmin
+            .from('payment_history')
+            .update({ status: 'refunded' })
+            .eq('stripe_invoice_id', charge.invoice)
+        }
         break
       }
     }

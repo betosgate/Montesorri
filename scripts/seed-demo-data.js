@@ -677,6 +677,119 @@ async function main() {
   console.log(`   ${normSnapshots.length} normalization snapshots`);
 
   // ==================================================================
+  // M. Set parent state to NY (for compliance demo)
+  // ==================================================================
+  console.log('\nM. Setting parent state to NY...');
+  const patchRes = await fetch(
+    `${SUPABASE_URL}/rest/v1/profiles?id=eq.${PARENT_ID}`,
+    {
+      method: 'PATCH',
+      headers: { ...headers, Prefer: 'return=minimal' },
+      body: JSON.stringify({ state_code: 'NY', state_name: 'New York' }),
+    }
+  );
+  if (!patchRes.ok) console.warn('  Warning: Failed to set parent state:', patchRes.status);
+  else console.log('  Parent state set to NY (New York)');
+
+  // ==================================================================
+  // N. Supplemental activity logs (for compliance demo)
+  // ==================================================================
+  console.log('\nN. Seeding supplemental activity logs...');
+
+  // Clean up any existing logs
+  await deleteWhere('supplemental_activity_logs', `parent_id=eq.${PARENT_ID}`);
+
+  const suppLogs = [];
+  const studentIds = [SOFIA_ID, MATEO_ID, STUDENT_RECORD_ID];
+  const academicYear = '2025-2026';
+
+  // Generate logs for each student
+  for (const sid of studentIds) {
+    // PE logs — most frequent (about 3x/week for 10 weeks = ~30)
+    for (let i = 0; i < 28; i++) {
+      suppLogs.push({
+        id: uuid(),
+        student_id: sid,
+        parent_id: PARENT_ID,
+        activity_type: 'pe',
+        date: daysAgo(i * 2 + Math.floor(Math.random() * 2)),
+        duration_minutes: [30, 45, 60][Math.floor(Math.random() * 3)],
+        description: ['Nature walk', 'Outdoor play', 'Yoga session', 'Swimming', 'Bike ride', 'Dance practice', 'Playground time'][Math.floor(Math.random() * 7)],
+        quarter: 2,
+        academic_year: academicYear,
+      });
+    }
+
+    // Health logs — 3 this quarter
+    for (let i = 0; i < 3; i++) {
+      suppLogs.push({
+        id: uuid(),
+        student_id: sid,
+        parent_id: PARENT_ID,
+        activity_type: 'health',
+        date: daysAgo(i * 15 + 5),
+        duration_minutes: 30,
+        description: ['Nutrition discussion during cooking', 'Handwashing and hygiene review', 'Dental care routine practice'][i],
+        quarter: 2,
+        academic_year: academicYear,
+      });
+    }
+
+    // Fire safety — 1 this quarter
+    suppLogs.push({
+      id: uuid(),
+      student_id: sid,
+      parent_id: PARENT_ID,
+      activity_type: 'fire_safety',
+      date: daysAgo(20),
+      duration_minutes: 30,
+      description: 'Home fire escape plan practice and smoke detector check',
+      quarter: 2,
+      academic_year: academicYear,
+    });
+
+    // Highway safety — 1 this quarter
+    suppLogs.push({
+      id: uuid(),
+      student_id: sid,
+      parent_id: PARENT_ID,
+      activity_type: 'highway_safety',
+      date: daysAgo(25),
+      duration_minutes: 15,
+      description: 'Pedestrian safety walk — crosswalks and signals',
+      quarter: 2,
+      academic_year: academicYear,
+    });
+
+    // Civics — 2 this quarter
+    suppLogs.push({
+      id: uuid(),
+      student_id: sid,
+      parent_id: PARENT_ID,
+      activity_type: 'civics',
+      date: daysAgo(12),
+      duration_minutes: 30,
+      description: 'Community helpers discussion',
+      quarter: 2,
+      academic_year: academicYear,
+    });
+    suppLogs.push({
+      id: uuid(),
+      student_id: sid,
+      parent_id: PARENT_ID,
+      activity_type: 'civics',
+      date: daysAgo(30),
+      duration_minutes: 30,
+      description: 'US flag and national symbols',
+      quarter: 2,
+      academic_year: academicYear,
+    });
+  }
+
+  await batchInsert('supplemental_activity_logs', suppLogs);
+  console.log(`   ${suppLogs.length} supplemental activity logs created`);
+
+  // ==================================================================
   // Done
   // ==================================================================
   console.log('\nDemo data seeding complete!');

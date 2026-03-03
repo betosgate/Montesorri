@@ -45,7 +45,16 @@ export function SubscriptionCard({ studentName, gradeBand, status, currentPeriod
       </div>
 
       {status === 'active' && !cancelAtPeriodEnd && (
-        <button className="mt-3 text-xs text-red-500 hover:text-red-700 underline">
+        <button
+          onClick={() => {
+            window.dispatchEvent(
+              new CustomEvent('open-support-chat', {
+                detail: { message: `I want to cancel my subscription for ${studentName}` },
+              })
+            )
+          }}
+          className="mt-3 text-xs text-red-500 hover:text-red-700 underline"
+        >
           Cancel Subscription
         </button>
       )}

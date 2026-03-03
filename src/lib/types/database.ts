@@ -149,6 +149,17 @@ export interface Profile {
   phone: string | null;
   timezone: string | null;
   onboarding_completed: boolean;
+  state_code: string | null;
+  state_name: string | null;
+  compliance_tracking_enabled: boolean | null;
+  address_line1: string | null;
+  address_line2: string | null;
+  city: string | null;
+  state_address: string | null;
+  zip_code: string | null;
+  email_override: string | null;
+  referred_by: string | null;
+  referral_code: string | null;
   created_at: string;
   updated_at: string;
 }
@@ -372,6 +383,57 @@ export interface ForumReply {
   post_id: string;
   author_id: string;
   content: string;
+  created_at: string;
+  updated_at: string;
+}
+
+export interface SupplementalActivityLog {
+  id: string;
+  student_id: string;
+  parent_id: string;
+  activity_type: string;
+  date: string;
+  duration_minutes: number;
+  description: string | null;
+  quarter: number;
+  academic_year: string;
+  created_at: string;
+}
+
+export type ReferralStatus = 'signed_up' | 'paid' | 'credited';
+
+export interface ReferralCode {
+  id: string;
+  user_id: string;
+  code: string;
+  created_at: string;
+}
+
+export interface Referral {
+  id: string;
+  referrer_id: string;
+  referred_id: string;
+  referral_code: string;
+  signed_up_at: string;
+  first_payment_at: string | null;
+  credit_issued: boolean;
+  credit_amount_cents: number;
+  status: ReferralStatus;
+  created_at: string;
+}
+
+export type SupportTicketStatus = 'open' | 'in_progress' | 'resolved' | 'closed';
+
+export type SupportTicketCategory = 'refund' | 'cancellation' | 'billing' | 'technical' | 'other';
+
+export interface SupportTicket {
+  id: string;
+  parent_id: string;
+  subject: string;
+  status: SupportTicketStatus;
+  category: SupportTicketCategory;
+  conversation_transcript: unknown[];
+  resolution: string | null;
   created_at: string;
   updated_at: string;
 }
