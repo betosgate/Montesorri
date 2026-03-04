@@ -43,6 +43,12 @@ const LEVEL_IDS = {
   primary: 'e0d86d36-5154-44dd-baf8-9324a23d971b',
   lower_elementary: 'd09fcfa6-c929-4684-bcf4-5c958b974d5f',
   upper_elementary: 'b2ac3d07-c1f9-4ce9-8186-16c73929b04d',
+  primary_year1: 'a1b2c3d4-1111-4000-8000-000000000001',
+  primary_year2: 'a1b2c3d4-2222-4000-8000-000000000002',
+  lower_elementary_year2: 'a1b2c3d4-3333-4000-8000-000000000003',
+  lower_elementary_year3: 'a1b2c3d4-4444-4000-8000-000000000004',
+  upper_elementary_year2: 'a1b2c3d4-5555-4000-8000-000000000005',
+  upper_elementary_year3: 'a1b2c3d4-6666-4000-8000-000000000006',
 };
 
 // ============================================================================
@@ -169,8 +175,36 @@ async function main() {
   const SOFIA_ID = uuid();
   const MATEO_ID = uuid();
   const STUDENT_RECORD_ID = uuid();
+  const LUCA_ID = uuid();
+  const ELENA_ID = uuid();
+  const DIEGO_ID = uuid();
+  const CAMILA_ID = uuid();
+  const RAFAEL_ID = uuid();
+  const VALENTINA_ID = uuid();
 
   await insert('students', [
+    {
+      id: LUCA_ID,
+      parent_id: PARENT_ID,
+      first_name: 'Luca',
+      last_name: 'Martinez',
+      date_of_birth: '2022-11-05',
+      grade_band: 'primary_year1',
+      enrollment_status: 'active',
+      academic_year: 2025,
+      start_week: 1,
+    },
+    {
+      id: ELENA_ID,
+      parent_id: PARENT_ID,
+      first_name: 'Elena',
+      last_name: 'Martinez',
+      date_of_birth: '2021-04-20',
+      grade_band: 'primary_year2',
+      enrollment_status: 'active',
+      academic_year: 2025,
+      start_week: 1,
+    },
     {
       id: SOFIA_ID,
       parent_id: PARENT_ID,
@@ -194,6 +228,28 @@ async function main() {
       start_week: 1,
     },
     {
+      id: DIEGO_ID,
+      parent_id: PARENT_ID,
+      first_name: 'Diego',
+      last_name: 'Martinez',
+      date_of_birth: '2017-08-14',
+      grade_band: 'lower_elementary_year2',
+      enrollment_status: 'active',
+      academic_year: 2025,
+      start_week: 1,
+    },
+    {
+      id: CAMILA_ID,
+      parent_id: PARENT_ID,
+      first_name: 'Camila',
+      last_name: 'Martinez',
+      date_of_birth: '2016-12-01',
+      grade_band: 'lower_elementary_year3',
+      enrollment_status: 'active',
+      academic_year: 2025,
+      start_week: 1,
+    },
+    {
       id: STUDENT_RECORD_ID,
       parent_id: PARENT_ID,
       first_name: 'Isabella',
@@ -204,8 +260,30 @@ async function main() {
       academic_year: 2025,
       start_week: 1,
     },
+    {
+      id: RAFAEL_ID,
+      parent_id: PARENT_ID,
+      first_name: 'Rafael',
+      last_name: 'Martinez',
+      date_of_birth: '2015-02-28',
+      grade_band: 'upper_elementary_year2',
+      enrollment_status: 'active',
+      academic_year: 2025,
+      start_week: 1,
+    },
+    {
+      id: VALENTINA_ID,
+      parent_id: PARENT_ID,
+      first_name: 'Valentina',
+      last_name: 'Martinez',
+      date_of_birth: '2013-09-17',
+      grade_band: 'upper_elementary_year3',
+      enrollment_status: 'active',
+      academic_year: 2025,
+      start_week: 1,
+    },
   ]);
-  console.log('   3 students created');
+  console.log('   9 students created');
 
   // ==================================================================
   // B. Teacher (1 record)
@@ -234,6 +312,12 @@ async function main() {
     primary: 'primary-lessons',
     lower_elementary: 'lower-elementary-lessons',
     upper_elementary: 'upper-elementary-lessons',
+    primary_year1: 'primary-year1-lessons',
+    primary_year2: 'primary-year2-lessons',
+    lower_elementary_year2: 'lower-elementary-year2-lessons',
+    lower_elementary_year3: 'lower-elementary-year3-lessons',
+    upper_elementary_year2: 'upper-elementary-year2-lessons',
+    upper_elementary_year3: 'upper-elementary-year3-lessons',
   };
 
   // Map invalid lesson_type values to valid DB enum values
@@ -423,9 +507,15 @@ async function main() {
   console.log('G. Seeding lesson progress...');
 
   const studentLevels = [
+    { studentId: LUCA_ID, levelId: LEVEL_IDS.primary_year1 },
+    { studentId: ELENA_ID, levelId: LEVEL_IDS.primary_year2 },
     { studentId: SOFIA_ID, levelId: LEVEL_IDS.primary },
     { studentId: MATEO_ID, levelId: LEVEL_IDS.lower_elementary },
+    { studentId: DIEGO_ID, levelId: LEVEL_IDS.lower_elementary_year2 },
+    { studentId: CAMILA_ID, levelId: LEVEL_IDS.lower_elementary_year3 },
     { studentId: STUDENT_RECORD_ID, levelId: LEVEL_IDS.upper_elementary },
+    { studentId: RAFAEL_ID, levelId: LEVEL_IDS.upper_elementary_year2 },
+    { studentId: VALENTINA_ID, levelId: LEVEL_IDS.upper_elementary_year3 },
   ];
 
   let totalProgress = 0;
